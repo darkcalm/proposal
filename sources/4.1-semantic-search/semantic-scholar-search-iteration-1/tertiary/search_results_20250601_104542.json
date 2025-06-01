@@ -1,0 +1,1112 @@
+{
+  "total": 1878,
+  "offset": 0,
+  "next": 30,
+  "data": [
+    {
+      "paperId": "314894831d00f29f3191b876d24da17cdad00946",
+      "url": "https://www.semanticscholar.org/paper/314894831d00f29f3191b876d24da17cdad00946",
+      "title": "AI-driven predictive maintenance and optimization of renewable energy systems for enhanced operational efficiency and longevity",
+      "venue": "International Journal of Science and Research Archive",
+      "year": 2024,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/ijsra.2024.13.1.1992?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/ijsra.2024.13.1.1992, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "AI-driven approaches can predict equipment failures with 92% accuracy, reducing unplanned downtime by 35% compared to traditional methods, and AI-optimized operational parameters improved overall energy output by 8.5% across the studied systems."
+      },
+      "authors": [
+        {
+          "authorId": "2314841029",
+          "name": "Ifeoluwa Wada"
+        },
+        {
+          "authorId": "2327878076",
+          "name": "Sakiru Folarin Bello"
+        },
+        {
+          "authorId": "2327971769",
+          "name": "Olukayode B Ige"
+        },
+        {
+          "authorId": "2363748603",
+          "name": "Ernest C Chianumba"
+        },
+        {
+          "authorId": "2327970973",
+          "name": "Samod Adetunji Adebayo"
+        }
+      ],
+      "abstract": "The rapid growth of renewable energy systems necessitates advanced strategies for maintenance and optimization to ensure long-term operational efficiency and sustainability. Traditional approaches often fall short in predicting failures and optimizing performance across diverse and dynamic renewable energy infrastructures. This study investigates the application of artificial intelligence (AI) techniques for predictive maintenance and optimization of renewable energy systems, with the aim of enhancing operational efficiency and extending system longevity. We employ a combination of machine learning algorithms, including deep neural networks and reinforcement learning, to develop predictive models and optimization strategies. These models are trained on large-scale datasets collected from operational wind farms, solar installations, and hydroelectric plants. Our results demonstrate that AI-driven approaches can predict equipment failures with 92% accuracy, reducing unplanned downtime by 35% compared to traditional methods. Moreover, AI-optimized operational parameters improved overall energy output by 8.5% across the studied systems. The proposed framework also showed adaptability to various environmental conditions and system configurations, suggesting broad applicability across the renewable energy sector. This research underscores the significant potential of AI in revolutionizing maintenance practices and operational strategies in renewable energy systems, paving the way for more reliable, efficient, and sustainable clean energy production."
+    },
+    {
+      "paperId": "b3d26dc4bd3f77b86321b94c0db44096c74aee2d",
+      "url": "https://www.semanticscholar.org/paper/b3d26dc4bd3f77b86321b94c0db44096c74aee2d",
+      "title": "Statistical Control Charts for Proactive Bearings Fault Diagnosis in Turbines: Advancing Predictive Maintenance in Renewable Energy Systems",
+      "venue": "Journal of Vibration Engineering &amp; Technologies",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42417-024-01430-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42417-024-01430-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2132389659",
+          "name": "Erroumayssae Sabani"
+        },
+        {
+          "authorId": "103359242",
+          "name": "E. Loualid"
+        },
+        {
+          "authorId": "2195612878",
+          "name": "Kossai Fakir"
+        },
+        {
+          "authorId": "2150401397",
+          "name": "Hicham El Hadraoui"
+        },
+        {
+          "authorId": "93155047",
+          "name": "C. Ennawaoui"
+        },
+        {
+          "authorId": "2132391077",
+          "name": "Azeddine Azim"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "36cf367c0ab3b1c480238dbb48d6205e7475d40b",
+      "url": "https://www.semanticscholar.org/paper/36cf367c0ab3b1c480238dbb48d6205e7475d40b",
+      "title": "Big Data Analytics for Predictive Maintenance in Smart Grids and Energy Management Systems",
+      "venue": "2024 8th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/I-SMAC61858.2024.10714665?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I-SMAC61858.2024.10714665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research work puts forward a framework for developing deep learning models to improve the approaches to maintain the wind energy systems using LSTM networks and incorporates the predictive maintenance system into the smart grid system to facilitate energy management and the synchronization of the maintenance system with grid functionality."
+      },
+      "authors": [
+        {
+          "authorId": "2327224072",
+          "name": "Divya Nimma"
+        },
+        {
+          "authorId": "2327228392",
+          "name": "Sakshi Malik"
+        },
+        {
+          "authorId": "2301595261",
+          "name": "A. Balakumar"
+        }
+      ],
+      "abstract": "The application of wind power within smart grids is crucial thereby mandating integrative energy change. Yet, the randomness of wind and technological nature of wind turbines lead to quite a number of problems regarding the dependability and performance of supplied energy. These issues can be managed through the help of predictive maintenance which reduces the time that is taken in the machinery\u2019s periodic maintenance while at the same time reduces the cost of the overall maintenance. The following research work puts forward a framework for developing deep learning models to improve the approaches to maintain the wind energy systems using LSTM networks. The framework is based on the Wind Turbine SCADA Dataset which is a collection of time-series of various parameters of the turbine like wind speed, power output, rotor speed, temperature, and vibration and aims at predicting the probable equipment failures in future. The LSTM network used for the diagnosis of mechanical problems learns from the sensor data and watches for anomalies in real-time. Thus, owing to the organization of the maintenance activities according to such predictions, the framework minimizes the unexpected downtimes, and increases the lifespan of the turbine components, as well as the reliability of the energy production. In addition, the proposed business incorporates the predictive maintenance system into the smart grid system to facilitate energy management and the synchronization of the maintenance system with grid functionality. The research also responds to important issues: the fluctuation in the wind energy data and the adaptability of an LSTM model to large power stations."
+    },
+    {
+      "paperId": "6c58f7de520d020f4ae7e55102b8741edc2b2d2d",
+      "url": "https://www.semanticscholar.org/paper/6c58f7de520d020f4ae7e55102b8741edc2b2d2d",
+      "title": "OPTIMIZING WIND ENERGY SYSTEMS USING MACHINE LEARNING FOR PREDICTIVE MAINTENANCE AND EFFICIENCY ENHANCEMENT",
+      "venue": "Computer Science &amp; IT Research Journal",
+      "year": 2023,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v4i3.1398?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v4i3.1398, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2315831926",
+          "name": "Wisdom Samuel Udo"
+        },
+        {
+          "authorId": "2312937778",
+          "name": "Jephta Mensah Kwakye"
+        },
+        {
+          "authorId": "2312936503",
+          "name": "Darlington Eze Ekechukwu"
+        },
+        {
+          "authorId": "2312936511",
+          "name": "Olorunshogo Benjamin Ogundipe"
+        }
+      ],
+      "abstract": "The integration of machine learning (ML) into wind energy systems holds significant promise for enhancing both predictive maintenance and operational efficiency. Wind energy, a cornerstone of renewable energy sources, faces challenges related to maintenance and efficiency, which can impede its reliability and cost-effectiveness. Traditional maintenance approaches often result in unexpected failures and downtimes, while optimizing turbine performance remains a complex task due to the variability of wind conditions. This paper explores the application of machine learning techniques to address these challenges. Predictive maintenance leverages ML algorithms to analyze historical and real-time data, identifying patterns and anomalies that precede component failures. Techniques such as supervised learning for failure prediction and unsupervised learning for anomaly detection enable timely interventions, reducing downtime and maintenance costs. Concurrently, ML models contribute to efficiency enhancement by optimizing turbine performance. These models predict power output based on environmental conditions and operational parameters, facilitating adaptive control systems that maximize energy capture and minimize wear and tear. Case studies demonstrate the practical implementation and benefits of these approaches. For instance, the application of time-series forecasting for condition monitoring has shown a significant reduction in unexpected failures, while optimization algorithms have improved turbine performance by adjusting operational parameters in real time. Despite the promising results, challenges such as data quality, model accuracy, and integration with existing systems persist. Looking forward, advancements in ML techniques, improved data collection methods, and the integration of emerging technologies like IoT and edge computing are expected to further enhance the capabilities of wind energy systems. This paper underscores the transformative potential of machine learning in creating more reliable, efficient, and cost-effective wind energy solutions, paving the way for a sustainable energy future. \nKeywords: Wind Energy Systems, Machine Learning, Predictive Maintenance, Efficiency Enhancement."
+    },
+    {
+      "paperId": "2143362eb668831a69057ac5e4f8676b2b04bca4",
+      "url": "https://www.semanticscholar.org/paper/2143362eb668831a69057ac5e4f8676b2b04bca4",
+      "title": "AI-assistance for predictive maintenance of renewable energy systems",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 72,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.energy.2021.119775",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ENERGY.2021.119775?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ENERGY.2021.119775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that AI-assistance had a statistically significant impact on improving the technical inspector\u2019s specificity and time efficiency, and the change in cognitive load was not statistically significant."
+      },
+      "authors": [
+        {
+          "authorId": "2056460735",
+          "name": "Won Shin"
+        },
+        {
+          "authorId": "50880459",
+          "name": "Jeongyun Han"
+        },
+        {
+          "authorId": "35618770",
+          "name": "Wonjong Rhee"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "27c31afc4b702c8f17bd50cb61a480986c045aad",
+      "url": "https://www.semanticscholar.org/paper/27c31afc4b702c8f17bd50cb61a480986c045aad",
+      "title": "Machine Learning-Enabled Data-Driven Fault Detection for Predictive Maintenance in HVAC Systems",
+      "venue": "International Conference on Frontiers of Information Technology",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/FIT60620.2023.00036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/FIT60620.2023.00036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A data-driven fault detection framework for predictive maintenance in HVAC systems of modern buildings using machine learning is proposed and results demonstrate the effectiveness of the proposed machine learning- based data-driven framework for fault detection in HVAC systems."
+      },
+      "authors": [
+        {
+          "authorId": "2187529510",
+          "name": "Faizan Hamayat"
+        },
+        {
+          "authorId": "2282981364",
+          "name": "Rana Fayyaz Ahmad"
+        },
+        {
+          "authorId": "2285157802",
+          "name": "Amin Ud Din"
+        },
+        {
+          "authorId": "2187529969",
+          "name": "Syed Zubair"
+        }
+      ],
+      "abstract": "Buildings consume around 40% of the total global energy consumption, while within the building, the HVAC systems are the most energy-hungry systems responsible for more than half of the total building\u2019s energy consumption. In addition, the most challenging task for facility managers is the maintenance of the HVAC system. Since the HVAC system is one of the necessities in modern buildings to maintain a comfortable and healthy environment. This is necessary to ensure proper maintenance of the HVAC system, specifically the faults detection and diagnostic to avoid system downtime and energy wastage and to enhance the HVAC system\u2019s lifespan. In this research work, we proposed a data-driven fault detection framework for predictive maintenance in HVAC systems of modern buildings using machine learning. In specific, the proposed data-driven framework is implemented using 8 different machine learning techniques for accurate fault detection, and their performance is evaluated using 4 different metrics including accuracy, precision, recall, and F-1 score. Extra Tree, Random Forest, and CatBoost classifiers outperformed the rest of the machine-learning techniques in all evaluation metrics. Further, the comparison of best-performer machine learning models is performed for each fault category detection. CatBoost and Random Forest are found more efficient in comparison to Extra Tree when evaluated for individual faults detection. Results demonstrate the effectiveness of the proposed machine learning- based data-driven framework for fault detection in HVAC systems."
+    },
+    {
+      "paperId": "91ac58f3877e6fb04049373e792bd44918a65380",
+      "url": "https://www.semanticscholar.org/paper/91ac58f3877e6fb04049373e792bd44918a65380",
+      "title": "AI in renewable energy: A review of predictive maintenance and energy optimization",
+      "venue": "International Journal of Science and Research Archive",
+      "year": 2024,
+      "citationCount": 38,
+      "openAccessPdf": {
+        "url": "https://ijsra.net/sites/default/files/IJSRA-2024-0112.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/ijsra.2024.11.1.0112?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/ijsra.2024.11.1.0112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The focus of this study is on the current state of AI applications within the renewable energy domain, particularly honing in on its profound impact on predictive maintenance and energy optimization across diverse sources such as solar, wind, and hydro."
+      },
+      "authors": [
+        {
+          "authorId": "2282293660",
+          "name": "Emmanuel Augustine Etukudoh"
+        },
+        {
+          "authorId": "2282482219",
+          "name": "Ahmad Hamdan"
+        },
+        {
+          "authorId": "2281592925",
+          "name": "Kenneth Ifeanyi Ibekwe"
+        },
+        {
+          "authorId": "2281593170",
+          "name": "Valentine Ikenna Ilojianya"
+        },
+        {
+          "authorId": "2282294864",
+          "name": "Sedat Sonko"
+        }
+      ],
+      "abstract": "In the dynamic landscape of the burgeoning renewable energy sector, optimizing energy output, ensuring robust infrastructure maintenance, and seamless integration into the grid present formidable challenges. This paper delves into the transformative potential of artificial intelligence (AI) as a solution to these critical issues. The focus of this study is on the current state of AI applications within the renewable energy domain, particularly honing in on its profound impact on predictive maintenance and energy optimization across diverse sources such as solar, wind, and hydro. By examining the underlying AI techniques employed in this context, the research seeks to unravel the intricacies of how AI contributes to enhancing the efficiency and sustainability of renewable energy systems. A critical component of this exploration involves the analysis of successful case studies, illustrating real-world applications where AI has made substantial strides in predictive maintenance and energy optimization. These cases provide tangible evidence of the practical implications of incorporating AI into renewable energy practices. The research explores AI\u2019s role in renewable energy, focusing on emerging trends and future directions. It aims to understand AI\u2019s transformative influence on optimization, sustainability, and energy efficiency, fostering a more resilient and efficient energy landscape. AI is revolutionizing the renewable energy sector, transforming infrastructure maintenance, energy generation optimization, and integrating renewable sources into the grid. Its advanced analytics, predictive capabilities, and optimization are crucial in achieving global renewable energy targets. As AI technology evolves, its impact on the renewable energy landscape will deepen, paving the way for a cleaner, more sustainable future. By harnessing AI\u2019s power, we can accelerate the transition towards a renewable energy future, ensuring a thriving planet for future generations."
+    },
+    {
+      "paperId": "b9609f23d937b3524e9a2acfe2a501ffc2606003",
+      "url": "https://www.semanticscholar.org/paper/b9609f23d937b3524e9a2acfe2a501ffc2606003",
+      "title": "Artificial intelligence (AI) in renewable energy: A review of predictive maintenance and energy optimization",
+      "venue": "World Journal of Advanced Research and Reviews",
+      "year": 2024,
+      "citationCount": 37,
+      "openAccessPdf": {
+        "url": "https://wjarr.com/sites/default/files/WJARR-2024-0347.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.21.1.0347?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.21.1.0347, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2290201278",
+          "name": "Samuel Onimisi Dawodu"
+        },
+        {
+          "authorId": "2282791174",
+          "name": "Shedrack Onwusinkwue"
+        },
+        {
+          "authorId": "2288309139",
+          "name": "Femi Osasona"
+        },
+        {
+          "authorId": "2290200795",
+          "name": "Islam Ahmad"
+        },
+        {
+          "authorId": "2290200790",
+          "name": "Ibrahim Ahmad"
+        },
+        {
+          "authorId": "2290201027",
+          "name": "Anthony Chigozie Anyanwu"
+        },
+        {
+          "authorId": "2290099374",
+          "name": "Ogugua Chimezie Obi"
+        },
+        {
+          "authorId": "2282482219",
+          "name": "Ahmad Hamdan"
+        }
+      ],
+      "abstract": "The integration of Artificial Intelligence (AI) in the renewable energy sector has emerged as a transformative force, enhancing the efficiency and sustainability of energy systems. This paper provides a comprehensive review of the application of AI in two critical aspects of renewable energy in relation to predictive maintenance and energy optimization. Predictive maintenance, enabled by AI, has revolutionized the renewable energy landscape by predicting and preventing equipment failures before they occur. Utilizing machine learning algorithms, AI analyzes vast amounts of data from sensors and historical performance to identify patterns indicative of potential faults. This proactive approach not only minimizes downtime but also extends the lifespan of renewable energy infrastructure, resulting in substantial cost savings and improved reliability. Furthermore, AI plays a pivotal role in optimizing the energy output of renewable sources. Through advanced data analytics and real-time monitoring, AI algorithms can adapt to changing environmental conditions, predicting energy production patterns and optimizing resource allocation. This ensures maximum energy yield from renewable sources, making them more competitive with traditional energy sources. The paper delves into specific AI techniques such as deep learning, neural networks, and predictive analytics employed for predictive maintenance and energy optimization in various renewable energy systems like solar, wind, and hydropower. Challenges and opportunities associated with implementing AI in renewable energy are discussed, including data security, interoperability, and the need for standardized frameworks. The synthesis of AI technologies with renewable energy not only addresses operational challenges but also contributes to the global transition towards sustainable and clean energy solutions. This review serves as a valuable resource for researchers, practitioners, and policymakers seeking insights into the evolving landscape of AI applications in the renewable energy sector. As technology continues to advance, the synergies between AI and renewable energy are poised to shape the future of the global energy paradigm."
+    },
+    {
+      "paperId": "66460ff322ebf72998723c82fb508eb3405003cd",
+      "url": "https://www.semanticscholar.org/paper/66460ff322ebf72998723c82fb508eb3405003cd",
+      "title": "IoT-Driven Predictive Maintenance for Energy-Efficient Industrial Systems",
+      "venue": "2024 5th International Conference for Emerging Technology (INCET)",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/INCET61516.2024.10593017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INCET61516.2024.10593017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2313114475",
+          "name": "Swathi Pai"
+        },
+        {
+          "authorId": "2313107732",
+          "name": "VenkateswaraRao Cheekati"
+        },
+        {
+          "authorId": "2260027009",
+          "name": "Nuthan Prasad"
+        },
+        {
+          "authorId": "2261950894",
+          "name": "K. Prasad"
+        },
+        {
+          "authorId": "2313148409",
+          "name": "Syed Muqthadar"
+        },
+        {
+          "authorId": "1738346251",
+          "name": "Hariprasad Tarigonda"
+        }
+      ],
+      "abstract": "This research examines the deployment of the internet of things (IoT) technologies for predictive maintenance in industrial facilities in an effort to achieve energy efficiency and ensure the integration of renewable energy sources. Through the application of various IoT sensors and predictive algorithms at different industrial spaces, the study will show what the effect of predictive maintenance on operating costs, equipment life, and energy consumption. The results show that the reduction in downtime and energy expenditure, which, in turn, helps in the optimization of renewable energy usage in favor of environmental sustainability. The study brings to the foreground the practical obstacles, like the privacy of data and system integration problems, and puts forward the measures that would enhance their resolution. Such results support the potency of IoT focused preventive maintenance in constructing a \u2018green\u2019, smart and productive industrial sector."
+    },
+    {
+      "paperId": "cfced639d0713298224840178515002ae387d09b",
+      "url": "https://www.semanticscholar.org/paper/cfced639d0713298224840178515002ae387d09b",
+      "title": "ML- and LSTM-Based Radiator Predictive Maintenance for Energy Saving in Compressed Air Systems",
+      "venue": "Energies",
+      "year": 2024,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/17/6/1428/pdf?version=1710513758",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en17061428?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en17061428, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This mechanism emphasizes a machine learning-based radiator fault detection, using features such as RPM, motor power, outlet pressure, air flow, water pump power, and outlet temperature with slight true fault labels, to reduce the energy consumption of air compressors."
+      },
+      "authors": [
+        {
+          "authorId": "2291593401",
+          "name": "Seung Hyun Jeon"
+        },
+        {
+          "authorId": "2291794800",
+          "name": "Sarang Yoo"
+        },
+        {
+          "authorId": "2226378",
+          "name": "Y. Yoo"
+        },
+        {
+          "authorId": "2291991591",
+          "name": "Il-Woo Lee"
+        }
+      ],
+      "abstract": "Air compressors are widely used in industrial fields. Compressed air systems aggregate air flows and then supply them to places of demand. These huge systems consume a significant amount of energy and generate heat internally. Machine components in compressed air systems are vulnerable to heat, and, in particular, a radiator to cool the heat of the overall air compressor is the core component. Dirty radiators increase energy consumption due to anomalous cooling. To reduce the energy consumption of air compressors, this mechanism emphasizes a machine learning-based radiator fault detection, using features such as RPM, motor power, outlet pressure, air flow, water pump power, and outlet temperature with slight true fault labels. Moreover, the proposed system adds an LSTM-based motor power prediction model to point out the initial judgment of radiator fault possibility. Via the rigorous analysis and the comparison among machine learning models, this meticulous approach improves the performance of radiator fault prediction up to 93.0%, and decreases the mean power consumption of the air compressor around 2.24%."
+    },
+    {
+      "paperId": "b1a4479b1e0d5dcd8d864a9c6614e76f1d01949c",
+      "url": "https://www.semanticscholar.org/paper/b1a4479b1e0d5dcd8d864a9c6614e76f1d01949c",
+      "title": "Application of Machine Learning for Predictive Maintenance in Industrial Systems",
+      "venue": "International Journal of Research in Modern Engineering &amp; Emerging Technology",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.63345/ijrmeet.org.v10.i10.4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63345/ijrmeet.org.v10.i10.4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This manuscript presents a comprehensive framework for applying ML to PdM within manufacturing and energy sectors, focusing on data acquisition, feature extraction, model training, and evaluation, and demonstrates that deep learning methods can achieve up to 92% classification accuracy and an F1\u2011score of 0.90, surpassing classical techniques in both predictive accuracy and robustness to noisy data."
+      },
+      "authors": [
+        {
+          "authorId": "2363386675",
+          "name": "Siddharth Na"
+        }
+      ],
+      "abstract": "Predictive maintenance (PdM) in industrial systems seeks to forecast equipment failures before they occur, thereby reducing unplanned downtime, maintenance costs, and safety risks. Leveraging machine learning (ML) techniques\u2014such as decision trees, support vector machines (SVMs), random forests, and artificial neural networks (ANNs)\u2014enables the analysis of vast sensor\u2011generated datasets for early fault detection and remaining useful life (RUL) estimation. This manuscript presents a comprehensive framework for applying ML to PdM within manufacturing and energy sectors, focusing on data acquisition, feature extraction, model training, and evaluation. We compare classical ML methods (Random Forest, SVM, ANN) against deep learning approaches (Long Short\u2011Term Memory networks, CNN\u2011based classifiers) using a benchmark rolling bearing dataset. A detailed statistical analysis, including one table of performance metrics, demonstrates that deep learning methods can achieve up to 92% classification accuracy and an F1\u2011score of 0.90, surpassing classical techniques in both predictive accuracy and robustness to noisy data. We also explore dimensionality reduction via principal component analysis (PCA) to balance computational efficiency and model performance. Finally, we discuss scope and limitations\u2014highlighting data quality concerns, sensor heterogeneity, and computational costs\u2014and offer practical guidelines for implementing PdM solutions with technologies available up to 2022. The findings underscore ML\u2011driven strategies\u2019 potential to transform maintenance practices, improve operational reliability, and inform best practices for engineering deployment. In addition to demonstrating superior classification performance, this study provides a clear roadmap for practitioners selecting and tuning ML pipelines under real\u2011world constraints such as limited labeled data, variable operating environments, and heterogeneous sensor platforms. We delve into the practicalities of deploying ML models on edge devices versus centralized cloud infrastructure, examining trade\u2011offs in latency, throughput, and model update cycles. We also outline strategies for incremental learning to accommodate evolving fault modes without full retraining. By anchoring all techniques to peer\u2011reviewed studies and industrial case examples through 2022, this work ensures relevance for engineers and decision-makers tasked with modernizing maintenance operations in sectors ranging from automotive assembly to power plant management."
+    },
+    {
+      "paperId": "f2a54f37377fd2b76d12129ae83d591ca448c8c6",
+      "url": "https://www.semanticscholar.org/paper/f2a54f37377fd2b76d12129ae83d591ca448c8c6",
+      "title": "Radiometric Infrared Thermography of Solar Photovoltaic Systems: An Explainable Predictive Maintenance Approach for Remote Aerial Diagnostic Monitoring",
+      "venue": "Smart Cities",
+      "year": 2024,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2624-6511/7/3/53/pdf?version=1716884366",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/smartcities7030053?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/smartcities7030053, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "78038097",
+          "name": "Usamah Rashid Qureshi"
+        },
+        {
+          "authorId": "25773848",
+          "name": "Aiman Rashid"
+        },
+        {
+          "authorId": "1659350460",
+          "name": "Nicola Altini"
+        },
+        {
+          "authorId": "1706551",
+          "name": "Vitoantonio Bevilacqua"
+        },
+        {
+          "authorId": "2261531833",
+          "name": "Massimo La Scala"
+        }
+      ],
+      "abstract": "Solar photovoltaic (SPV) arrays are crucial components of clean and sustainable energy infrastructure. However, SPV panels are susceptible to thermal degradation defects that can impact their performance, thereby necessitating timely and accurate fault detection to maintain optimal energy generation. The considered case study focuses on an intelligent fault detection and diagnosis (IFDD) system for the analysis of radiometric infrared thermography (IRT) of SPV arrays in a predictive maintenance setting, enabling remote inspection and diagnostic monitoring of the SPV power plant sites. The proposed IFDD system employs a custom-developed deep learning approach which relies on convolutional neural networks for effective multiclass classification of defect types. The diagnosis of SPV panels is a challenging task for issues such as IRT data scarcity, defect-patterns\u2019 complexity, and low thermal image acquisition quality due to noise and calibration issues. Hence, this research carefully prepares a customized high-quality but severely imbalanced six-class thermographic radiometric dataset of SPV panels. With respect to previous approaches, numerical temperature values in floating-point are used to train and validate the predictive models. The trained models display high accuracy for efficient thermal anomaly diagnosis. Finally, to create a trust in the IFDD system, the process underlying the classification model is investigated with perceptive explainability, for portraying the most discriminant image features, and mathematical-structure-based interpretability, to achieve multiclass feature clustering."
+    },
+    {
+      "paperId": "0f7bf7c4435613c14d3d4ed3b73f3f1beefe796a",
+      "url": "https://www.semanticscholar.org/paper/0f7bf7c4435613c14d3d4ed3b73f3f1beefe796a",
+      "title": "IoT-Enabled Real-Time Monitoring and Predictive Maintenance for Solar Systems: Maximizing Efficiency and Minimizing Downtime",
+      "venue": "2024 International Conference on Smart Systems for applications in Electrical Sciences (ICSSES)",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSSES62373.2024.10561454?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSSES62373.2024.10561454, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2307610091",
+          "name": "N. Kayalvizhi"
+        },
+        {
+          "authorId": "2307609439",
+          "name": "M. Santhosh"
+        },
+        {
+          "authorId": "2307608696",
+          "name": "R. Thamodharan"
+        },
+        {
+          "authorId": "2307609420",
+          "name": "M. Dhileep"
+        }
+      ],
+      "abstract": "The integration of Internet of Things (IoT) technology into solar energy systems represents a transformative approach to maximizing the efficiency and reliability of renewable energy sources. This paper explores the application of IoT-enabled real-time monitoring and predictive maintenance in solar systems, offering a novel solution to enhance system performance and minimize operational downtime. By leveraging IoT devices and advanced analytics, solar energy systems can now be continuously monitored for any signs of wear or failure. This proactive approach allows for the early detection of potential issues, enabling timely maintenance and repairs before they escalate into significant problems that could lead to system downtime or reduced efficiency. The paper discusses the mechanisms by which IoT devices collect and analyze data, including temperature fluctuations, voltage changes, and other critical performance indicators. It highlights the importance of predictive analytics in forecasting potential failures and scheduling maintenance activities, thereby extending the lifespan of the solar installation and ensuring it operates at peak efficiency. The integration of IoT technology not only improves the resilience of solar systems against physical and operational challenges but also contributes to a more stable and reliable grid by facilitating efficient energy storage and distribution. Furthermore, the economic implications of adopting IoT-enabled monitoring and predictive maintenance are examined. The analysis reveals that, despite initial setup and operational costs, the long-term benefits, including reduced maintenance costs, increased energy yield, and enhanced system reliability, present a compelling case for the integration of IoT technologies in solar energy systems. This paper concludes by addressing the potential challenges and considerations in implementing IoT solutions, such as cybersecurity risks and the need for technical expertise. It also outlines future directions for research and development, emphasizing the role of IoT in advancing the solar energy sector towards more sustainable and resilient energy solutions."
+    },
+    {
+      "paperId": "8ce059c8ada280fd7ae5ebcba7d9c7f3fdd11138",
+      "url": "https://www.semanticscholar.org/paper/8ce059c8ada280fd7ae5ebcba7d9c7f3fdd11138",
+      "title": "IoT-Driven Predictive Maintenance for Household Energy Meters: Enhancing Reliability and Efficiency Through Real-Time Data Analytics",
+      "venue": "International Conference on Communication and Electronics Systems",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCES63552.2024.10859905?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCES63552.2024.10859905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A predictive maintenance system was developed, utilizing data from IoT-enabled energy meters to identify early signs of faults and prevent major failures, achieving high accuracy with high accuracy through advanced data processing techniques."
+      },
+      "authors": [
+        {
+          "authorId": "2344255516",
+          "name": "Senthil Murugan KR"
+        },
+        {
+          "authorId": "2344255614",
+          "name": "Nikhitha S.V"
+        },
+        {
+          "authorId": "2344254919",
+          "name": "Yeshaashwini K.R"
+        }
+      ],
+      "abstract": "Inadvertent outages in household energy meters due to device failures can disrupt energy management and increase maintenance costs. To address this, a predictive maintenance system was developed, utilizing data from IoT-enabled energy meters to identify early signs of faults and prevent major failures. The system classifies various fault types with high accuracy, achieved through advanced data processing techniques. The results are visualized using Grafana on a custom web application dashboard, which integrates with MQTT for real-time data transmission. This setup provides operators with real-time metrics, interactive visualizations,enhancing the efficiency and reliability of household energy management while improving decision-making and reducing downtime."
+    },
+    {
+      "paperId": "3cb5728e986b9c5d157ebda9b10af4fa6ab00095",
+      "url": "https://www.semanticscholar.org/paper/3cb5728e986b9c5d157ebda9b10af4fa6ab00095",
+      "title": "Data-driven Predictive Maintenance Alerting Routine for utility-scale Photovoltaic Systems",
+      "venue": "2024 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SyNERGYMED62435.2024.10799487?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SyNERGYMED62435.2024.10799487, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2329964277",
+          "name": "Demetris Marangis"
+        },
+        {
+          "authorId": "46193101",
+          "name": "Andreas Livera"
+        },
+        {
+          "authorId": "30565159",
+          "name": "G. Makrides"
+        },
+        {
+          "authorId": "2336313385",
+          "name": "George E. Georgiou"
+        }
+      ],
+      "abstract": "Predictive maintenance is crucial for optimizing the performance of photovoltaic (PV) systems by proactively addressing potential issues before they escalate. Even though many fault diagnosis methods have been proposed, a major challenge remains the lack of accurate predictive maintenance routines for utility-scale PV systems. The scope of this work is to address this fundamental challenge by proposing a data-driven predictive maintenance alerting routine (that leverages digital twin technologies and decision rules) for detecting and predicting PV system faults. The results demonstrated that the developed predictive maintenance routine yielded a sensitivity of 93.9% for PV utility-scale failure detection over a yearly test period. The findings of the predictive maintenance alerting model proved its capability to anticipate faults up to 10 days in advance, achieving a sensitivity of 83.3%. Finally, the predictive maintenance alerting system can be used by operation and maintenance teams for scheduling corrective actions and optimizing field activities."
+    },
+    {
+      "paperId": "bc7af3ba08a930caff0f4112e28baebf4155ca5c",
+      "url": "https://www.semanticscholar.org/paper/bc7af3ba08a930caff0f4112e28baebf4155ca5c",
+      "title": "AI-Driven Predictive Maintenance for Energy Infrastructure",
+      "venue": "International journal of research and scientific innovation",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.51244/ijrsi.2024.1109048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51244/ijrsi.2024.1109048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2325082139",
+          "name": "Ibrahim Adeiza Ahmed"
+        },
+        {
+          "authorId": "2325061695",
+          "name": "Paul Boadu Asamoah"
+        }
+      ],
+      "abstract": "The growing complexity and critical importance of energy infrastructure necessitate the adoption of advanced maintenance strategies to ensure reliability, efficiency, and sustainability. Traditional maintenance approaches, such as reactive and preventive maintenance, have proven inadequate in addressing the challenges posed by modern energy systems, particularly with the integration of renewable energy sources. This research explores the potential of artificial intelligence (AI)-driven predictive maintenance (PdM) as a transformative solution for the energy sector. By leveraging historical maintenance records and real-time sensor data, AI models, including machine learning and deep learning techniques, were developed to predict equipment failures with high accuracy. The study employed a mixed-methods approach, combining quantitative analysis of data and qualitative insights from case studies conducted in wind farms, solar power plants, and thermal power plants. The results demonstrated that AI-driven PdM significantly reduces unplanned downtime, lowers maintenance costs, and extends the lifespan of critical energy assets. Deep learning models, particularly convolutional neural networks (CNNs) and recurrent neural networks (RNNs), outperformed traditional models in terms of predictive accuracy, with F1-scores exceeding 90%. Despite the promising results, the research also identified challenges related to data quality, system integration, and organizational adoption. These challenges highlight the need for further research in areas such as explainable AI, the integration of IoT and digital twins, and the exploration of PdM applications across different sectors. The findings underscore the potential of AI-driven PdM to revolutionize maintenance practices in the energy sector, offering a pathway to more reliable, efficient, and sustainable energy systems."
+    },
+    {
+      "paperId": "647b25a1862934717516c8d190ee2d1e4b776082",
+      "url": "https://www.semanticscholar.org/paper/647b25a1862934717516c8d190ee2d1e4b776082",
+      "title": "Predictive Maintenance of Power Transformers in Distribution Network with Energy Management Using Deep Learning",
+      "venue": "2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICV62344.2024.00098?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICV62344.2024.00098, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The integration of energy management with predictive maintenance helps optimise power utility while maintaining the reliable operation of transformers."
+      },
+      "authors": [
+        {
+          "authorId": "2300313824",
+          "name": "P. Pande"
+        },
+        {
+          "authorId": "2292758249",
+          "name": "K. Hussain"
+        },
+        {
+          "authorId": "2287970879",
+          "name": "B. Pravallika"
+        },
+        {
+          "authorId": "2174885854",
+          "name": "Mohammed Saleh Al Ansari"
+        },
+        {
+          "authorId": "2300314353",
+          "name": "R.M. Tharsanee"
+        },
+        {
+          "authorId": "2300315448",
+          "name": "Srinivasa Acharya"
+        }
+      ],
+      "abstract": "The reliability and efficiency of the electrical grid network are obtained through proper maintenance of the power transformers. The advanced maintenance of the electrical grid is obtained through modern strategies to enhance the performance of the system. Power transformers are an important part of the electrical distribution systems. Failure of transformers leads to various constraints regarding service interferences with costly outrages. Traditional forms of maintenance rely on manual inspections on fixed timelines which is not able to detect the transformer degradation at early stages. Advanced predictive maintenance with energy management is obtained through deep learning techniques with hybrid optimization techniques. This includes Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN). This is done through various sensors and monitoring equipment placed in the distribution network. The extraction of spatial and temporal data from images is obtained through the CNN component. The hidden defects and abnormal functioning of various parts in the transformer are detected through CNN. Oil leakages, overheating and insulation failure are the early signs of transformer failures. The RNN component concentrates on the data generated by sensors and meters in real-time environment. This helps to predict the future demand for power transformers. The sequential patterns are obtained through the LS TM component. They provide accurate details regarding the performance and life of transformers. The integration of energy management with predictive maintenance helps optimise power utility while maintaining the reliable operation of transformers."
+    },
+    {
+      "paperId": "4c69a32f6b329f8e406277861b6154ed294f4657",
+      "url": "https://www.semanticscholar.org/paper/4c69a32f6b329f8e406277861b6154ed294f4657",
+      "title": "A Comprehensive Analysis of AI/ML-enabled Predictive Maintenance Modelling for Advanced Driver-Assistance Systems",
+      "venue": "Journal of Electrical Systems",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.52783/jes.2060",
+        "status": "HYBRID",
+        "license": "CCBYND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.52783/jes.2060?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jes.2060, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work uses AI/ML-enabled Predictive Maintenance modelling to improve ADAS safety and longevity and shows how AI aids human-machine communication by improving motor skills."
+      },
+      "authors": [
+        {
+          "authorId": "2298183494",
+          "name": "Amit Jain, Vishal Goya, Kamal Sharma"
+        }
+      ],
+      "abstract": "Advanced Driver-Assistance Systems (ADAS) are changing driver-vehicle interactions to improve road safety and reduce distractions. Technological advances like ADAS and AI in cars present societal challenges and opportunities. It shows how AI aids human-machine communication by improving motor skills. The auto industry is interested in ADAS because it can increase energy efficiency, safety, and comfort. Numerous studies have shown its benefits. ADAS and vehicle networking show promise, but establishing a sound control system is challenging. Model Predictive Control (MPC) is one answer to these problems. To manage higher-level connectivity and automation, the paper analyses and implements key research. It also finds issues and recommends solutions. The latest driverless car ADAS improvements have dramatically increased passenger safety. These systems are safer and more automated using sensors and ECUs. Most ADAS have RADAR, cameras, ultrasonic, and LiDAR. This work uses AI/ML-enabled Predictive Maintenance modelling to improve ADAS safety and longevity. AI and ML in Advanced Driver Assistance Systems (ADAS) are significant vehicle safety and reliability advances. AI/ML-enabled predictive maintenance detects and fixes ADAS component faults. ADAS predictive maintenance using AI/ML can detect issues, improve driver safety, and boost vehicle efficiency. Advanced sensor arrays and control units are needed for adaptive cruise control, traffic sign recognition, and lane-keeping assistance. AI/ML algorithms discover issues and enable early interventions in predictive maintenance models. Predictive maintenance is examined utilizing classical machine learning, deep learning, and reinforcement learning. Integration of numerous AI/ML models, real-time data processing, customization based on vehicle usage patterns, scalability, and adaptability of predictive maintenance models to new ADAS technologies are research gaps.\u00a0"
+    },
+    {
+      "paperId": "816fa28fa71ab692431f85329bff8e491e0e7d86",
+      "url": "https://www.semanticscholar.org/paper/816fa28fa71ab692431f85329bff8e491e0e7d86",
+      "title": "Enhancing Battery Management Systems in the Industrial Internet of Things (IIoT): An In-depth Exploration of Energy Efficiency, Predictive Analytics, and Intelligent Maintenance Approaches",
+      "venue": "2024 Third International Conference on Trends in Electrical, Electronics, and Computer Engineering (TEECCON)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TEECCON64024.2024.10939734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TEECCON64024.2024.10939734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Data-driven methods have the ability to transform battery management, guaranteeing that IIoT devices can continue to withstand the increasing demands of industry while being environmentally friendly, efficient, and robust."
+      },
+      "authors": [
+        {
+          "authorId": "2353320442",
+          "name": "Vinoth Kumar"
+        },
+        {
+          "authorId": "2353295131",
+          "name": "Lakshmi Priya"
+        },
+        {
+          "authorId": "2321677983",
+          "name": "S. Sujatha"
+        },
+        {
+          "authorId": "2353272626",
+          "name": "M.Uma Maheswari"
+        },
+        {
+          "authorId": "2351281444",
+          "name": "V.Samuthira Pandi"
+        },
+        {
+          "authorId": "2308303684",
+          "name": "Deepak Arumugam"
+        }
+      ],
+      "abstract": "Battery management systems (BMS) are essential in the fast developing IIoT domain for guaranteeing the efficiency, lifetime, and dependability of energy storage solutions. With the proliferation of IIoT devices across many industries, there is a growing need for sophisticated BMS systems that can optimise energy usage, anticipate battery performance, and enable intelligent maintenance. Improvements in energy efficiency, predictive analytics, and intelligent maintenance approaches are the primary foci of this research as it pertains to the IIoT ecosystem and BMS. Our first step is to investigate ways that IIoT devices can be made more energy efficient. This includes things like optimising the charging and discharging operations of batteries and using adaptive power management techniques. We want to keep IIoT devices running longer and lessen their impact on the environment by making the most of BMS\u2019s energy efficiency. Our second topic is the function of predictive analytics in predicting the state of a battery\u2019s health and output. Models are created using machine learning algorithms and big data analytics to forecast battery deterioration patterns, identify impending failures, and plan proactive maintenance to reduce maintenance expenses and downtime. We conclude by exploring intelligent maintenance approaches that can deliver BMS valuable insights through the use of real-time data and advanced analytics. A combination of these methods\u2014which include automated maintenance procedures, remote monitoring, and self-diagnostic devices\u2014improves the performance and dependability of IIoT battery systems. This paper examines the present and future of BMS in the IIoT through a thorough literature analysis, case studies, and experimental validation. The insights it provides are quite significant. In light of these results, data-driven methods have the ability to transform battery management, guaranteeing that IIoT devices can continue to withstand the increasing demands of industry while being environmentally friendly, efficient, and robust."
+    },
+    {
+      "paperId": "e4c1a8235ac0f075247b1c07e92737af5557f62f",
+      "url": "https://www.semanticscholar.org/paper/e4c1a8235ac0f075247b1c07e92737af5557f62f",
+      "title": "Fault Detection and Predictive Maintenance Paradigm for Solar PV Systems",
+      "venue": "2024 International Conference on Materials and Energy: Energy in Electrical Engineering (ICOME-EE)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOME-EE64119.2024.10845651?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOME-EE64119.2024.10845651, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2341919058",
+          "name": "Poompat Limpaporn"
+        },
+        {
+          "authorId": "1986396",
+          "name": "S. Khomfoi"
+        }
+      ],
+      "abstract": "This research paper introduces the Box Plot model for the fault detection and degradation analysis in solar photovoltaic (PV) systems. The suggested method contains a mathematics equation and systematic flowchart algorithm to detect and categorize various fault types, such as direct current (DC) ground fault, DC overvoltage fault, and partial shading. The technique evaluates and monitors the performance and degradation of PV panel by processing comprehensive input data such as voltage, current, irradiance, temperature, power, solar PV systems related data and PV panel parameter data. The Box Plot model efficiently monitors fault analysis and degradation detection, adapting to various operational conditions with accuracy, resulting in a powerful tool for assessing the reliability and performance of solar PV systems. The Box Plot model is tested by using the three sets of the solar PV power plant collected data from the PV panel strings in the same array that nearby each other and verifying the Box Plot model effectiveness by comparing the model analysis result with the solar PV power plant operation and maintenance report. This methodology makes a major contribution to predictive maintenance operations and ensuring more reliability for the PV systems."
+    },
+    {
+      "paperId": "fa0c9f294055c5fc8507233b0ce2cc94a1089a62",
+      "url": "https://www.semanticscholar.org/paper/fa0c9f294055c5fc8507233b0ce2cc94a1089a62",
+      "title": "Novel cell screening and prognosing based on neurocomputing-based multiday-ahead time-series forecasting for predictive maintenance of battery modules in frequency regulation-energy storage systems",
+      "venue": "Applied Energy",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.apenergy.2023.121867?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.apenergy.2023.121867, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2240210568",
+          "name": "Yu-Hsiu Lin"
+        },
+        {
+          "authorId": "2240154464",
+          "name": "Ting-Yu Shen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3b86f8ee3837b21177b1773b4849527a3ab4706e",
+      "url": "https://www.semanticscholar.org/paper/3b86f8ee3837b21177b1773b4849527a3ab4706e",
+      "title": "Development of an energy harvesting system based on a thermoelectric generator for use in online predictive maintenance systems of industrial electric motors",
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "year": 2023,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.seta.2023.103572?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.seta.2023.103572, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2242148145",
+          "name": "L. Oliveira"
+        },
+        {
+          "authorId": "2241628938",
+          "name": "Fl\u00e1vio J. O. Morais"
+        },
+        {
+          "authorId": "2241596335",
+          "name": "L. Manera"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "26092daa38d22bbb97d6c0a1363f952147c16f34",
+      "url": "https://www.semanticscholar.org/paper/26092daa38d22bbb97d6c0a1363f952147c16f34",
+      "title": "Predictive maintenance: assessment of potentials for residential heating systems",
+      "venue": "International journal of computer integrated manufacturing (Print)",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/0951192X.2023.2204471?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/0951192X.2023.2204471, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "4454238",
+          "name": "Sahil Arora"
+        },
+        {
+          "authorId": "145269883",
+          "name": "M. Rabe"
+        }
+      ],
+      "abstract": "ABSTRACT Predictive Maintenance (PdM) solutions can predict and consequently minimize downtimes. Concerning high implementation cost of PdM solutions for manufacturing systems as well as for sold systems operating in the field, e.g. Building Energy Systems in residential heating (RH), it is unclear under which conditions potentials outweigh investment. In a previous scientific publication, the authors proposed a methodology to systematically assess potentials and benefits of to-be-developed PdM solutions in manufacturing processes. The utilization of the methodology for RH systems is promising, but requires a suitable adaptation to its individual context. Apart from quantifying the benefit compared to investment for PdM solutions, the context of RH is fundamentally different from manufacturing. As a major difference, the systems are not located in-house, but in the field at the customers\u2019 site. This leads to increased challenges in terms of lacking customer and system feedback and data availability. Therefore, this paper addresses the optimization, transfer, and adaptation of the previously developed methodology to RH systems. Additionally, this paper includes baseline information regarding maintenance and RH and an exemplary application of the optimized and adapted methodology that supports the reliability department of BOSCH Thermotechnology for quantifying the potentials of PdM solutions in the field of RH."
+    },
+    {
+      "paperId": "74f520b0801fab5d4a9455fdaa96abe054571d84",
+      "url": "https://www.semanticscholar.org/paper/74f520b0801fab5d4a9455fdaa96abe054571d84",
+      "title": "A Self-Powered Predictive Maintenance System Based on Piezoelectric Energy Harvesting and TinyML",
+      "venue": "International Symposium on Low Power Electronics and Design",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISLPED58423.2023.10244321?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISLPED58423.2023.10244321, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposes the first self-powered on-device PdM system based on piezoelectric energy harvesting and tiny machine learning (Tiny ML), and provides a promising solution to the ubiquitous artificial intelligence of things (AIoT)."
+      },
+      "authors": [
+        {
+          "authorId": "2237738963",
+          "name": "Zijie Chen"
+        },
+        {
+          "authorId": "2145960095",
+          "name": "Yiming Gao"
+        },
+        {
+          "authorId": "2237751624",
+          "name": "Junrui Liang"
+        }
+      ],
+      "abstract": "Nowadays, the Industrial Internet of Things (IIoT) plays a more and more significant role in smart manufacturing. Predictive Maintenance (PdM) is one of the essential applications, recognizing the current status of the machine and preventing disastrous breakdowns. End-point sensors for such monitoring systems are powered mainly by batteries. As IIoT grows, constantly replacing batteries across thousands of devices is cost-prohibitive. In addition, tremendous original sensing data are wirelessly transmitted to the server for data analysis, causing colossal energy consumption. In this paper, we propose the first self-powered on-device PdM system based on piezoelectric energy harvesting and tiny machine learning (Tiny ML). A trained TinyML model is deployed on the low-cost microcontroller (MCU) for on-device inferring; only the diagnosis result is transmitted. With an emphasis on ultra-low-power demands, a piezoelectric energy harvester is utilized as an energy source and self-powered sensor (SPS) simultaneously. The energy-aware circuit provides reconfigurable on/off threshold voltages for efficient and robust intermittent operation. The balance between energy supply and demand in the battery-free system has been achieved by a handy design. A rich SPS dataset has been collected in a simulated vibration environment and analyzed by five well-known machine-learning models. Random forest stands out given ultra-small data length and sampling rate with accuracy up to 99% for four-class similar vibration diagnosis. Lab test validates the feasibility and performance. As a cyber-electro-mechanical co-design, the system provides a promising solution to the ubiquitous artificial intelligence of things (AIoT)."
+    },
+    {
+      "paperId": "b34519d5e7e4f3fc39c199478a76d776f7a11268",
+      "url": "https://www.semanticscholar.org/paper/b34519d5e7e4f3fc39c199478a76d776f7a11268",
+      "title": "Health Prognostics Classification with Autoencoders for Predictive Maintenance of HVAC Systems",
+      "venue": "Energies",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/16/20/7094/pdf?version=1697273141",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en16207094?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en16207094, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work introduces a novel data-driven framework, the health prognostics classification with autoencoders (HPC-AE), designed specifically for PdM, and validated in two HVAC fault scenarios, including a clogged air filter and air duct leakage."
+      },
+      "authors": [
+        {
+          "authorId": "2258633027",
+          "name": "Ruiqi Tian"
+        },
+        {
+          "authorId": "1669864146",
+          "name": "Santiago Gomez-Rosero"
+        },
+        {
+          "authorId": "1711826",
+          "name": "Miriam A. M. Capretz"
+        }
+      ],
+      "abstract": "Buildings\u2019 heating, ventilation, and air-conditioning (HVAC) systems account for significant global energy use. Proper maintenance can minimize their environmental footprint and enhance the quality of the indoor environment. The adoption of Internet of Things (IoT) sensors integrated into HVAC systems has paved the way for predictive maintenance (PdM) grounded in real-time operational metrics. However, HVAC systems without such sensors cannot leverage the advantages of current data-driven PdM techniques. This work introduces a novel data-driven framework, the health prognostics classification with autoencoders (HPC-AE), designed specifically for PdM. It utilizes solely HVAC power consumption and outside temperature readings for its operations, both of which are readily obtainable. The primary objective of the HPC-AE framework is to facilitate PdM through a health prognostic approach. The HPC-AE framework utilizes an autoencoder for feature enrichment and then applies an artificial neural network to classify the daily health condition of an HVAC system. A multi-objective evaluation metric is employed to ensure optimal performance of the autoencoder within this framework. This metric evaluates the autoencoder\u2019s proficiency in reducing reconstruction discrepancies in standard data conditions and its capability to differentiate between standard and degraded data scenarios. The HPC-AE framework is validated in two HVAC fault scenarios, including a clogged air filter and air duct leakage. The experimental results show that compared to methods used in similar studies, HPC-AE exhibits a 5.7% and 2.1% increase in the F1 score for the clogged air filter and duct leakage scenarios."
+    },
+    {
+      "paperId": "27c03bc2dbcf2c3fd9484c07488076667f00bc56",
+      "url": "https://www.semanticscholar.org/paper/27c03bc2dbcf2c3fd9484c07488076667f00bc56",
+      "title": "Smart Energy Management System: Predictive Maintenance for Dry Power Transformers Using Transfer Learning",
+      "venue": "2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECCME57830.2023.10253320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECCME57830.2023.10253320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2047075298",
+          "name": "Oussama Laayati"
+        },
+        {
+          "authorId": "2243997202",
+          "name": "Oumaima Amaziane"
+        },
+        {
+          "authorId": "30742848",
+          "name": "M. Bouzi"
+        },
+        {
+          "authorId": "2187257413",
+          "name": "Nabil El-Bazi"
+        },
+        {
+          "authorId": "2150401397",
+          "name": "Hicham El Hadraoui"
+        },
+        {
+          "authorId": "2012570",
+          "name": "Ahmed Chebak"
+        }
+      ],
+      "abstract": "Dry power transformers are a critical component of microgrids, but their diagnostic can be challenging due to the various types of defects that can occur. This paper proposes several monitoring techniques to predict these defects and improve the diagnostic of dry power transformers in microgrids. One of the key features of this approach is the use of thermal image classification to detect the number of short circuits in the power transformer. The classification of thermal images is performed using the transfer learning method, which allows for the utilization of pre-trained models and the adaptation of them to the specific task at hand. This feature is integrated into a larger smart energy management system for microgrids, which aims to optimize the operation and maintenance of these systems. The proposed techniques have been tested and validated through experiments, and the results demonstrate their effectiveness in accurately predicting defects and improving the diagnostic of dry power transformers in microgrids."
+    },
+    {
+      "paperId": "121f4774fc362a4c7e653dfbcb371c3683ae5ee0",
+      "url": "https://www.semanticscholar.org/paper/121f4774fc362a4c7e653dfbcb371c3683ae5ee0",
+      "title": "A novel method for life estimation of power transformers using fuzzy logic systems: An intelligent predictive maintenance approach",
+      "venue": "Frontiers in Energy Research",
+      "year": 2022,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fenrg.2022.977665/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenrg.2022.977665?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenrg.2022.977665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work develops a new, simplified fuzzy logic\u2013based method to predict the health of a transformer by taking into account the state of several individual components."
+      },
+      "authors": [
+        {
+          "authorId": "2184101006",
+          "name": "Muhammad Farhan Naeem"
+        },
+        {
+          "authorId": "47321413",
+          "name": "Khurram Hashmi"
+        },
+        {
+          "authorId": "30871787",
+          "name": "Syed Abdul Rahman Kashif"
+        },
+        {
+          "authorId": "144940766",
+          "name": "Muhammad Mansoor Khan"
+        },
+        {
+          "authorId": "67175442",
+          "name": "Mamdouh L. Alghaythi"
+        },
+        {
+          "authorId": "30786222",
+          "name": "F. Aymen"
+        },
+        {
+          "authorId": "47496007",
+          "name": "S. G. Ali"
+        },
+        {
+          "authorId": "98374121",
+          "name": "Kareem M. AboRas"
+        },
+        {
+          "authorId": "2184101367",
+          "name": "Amed Den Dhiou"
+        }
+      ],
+      "abstract": "Power transformers are a fundamental component of the modern power distribution network. The fault-free operation of step-up and step-down transformers is of prime importance to the continuous supply of electrical energy to the consumers. To ensure such efficient operation, power distribution companies carry out routine maintenance of distribution transformers through preplanned schedules. The efficacy of such maintenance depends on a proper understanding of the transformer and its components and efficient prediction of faults in these components. There are several components whose condition can be studied to predict transformer failures and therefore the overall health of a transformer. These include transformer windings, insulations, transformer oil, core insulations, and ferromagnetic cores. This work develops a new, simplified fuzzy logic\u2013based method to predict the health of a transformer by taking into account the state of several individual components. Case studies are used to demonstrate the efficacy of the developed method."
+    },
+    {
+      "paperId": "6ad1748849a0fe8917907f1ea57a1dffc59820ff",
+      "url": "https://www.semanticscholar.org/paper/6ad1748849a0fe8917907f1ea57a1dffc59820ff",
+      "title": "Systematic Literature Review on Visual Analytics of Predictive Maintenance in the Manufacturing Industry",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2022,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/22/17/6321/pdf?version=1661839982",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9460830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2149480031",
+          "name": "Xiang Cheng"
+        },
+        {
+          "authorId": "101751812",
+          "name": "J. Chaw"
+        },
+        {
+          "authorId": "49939827",
+          "name": "Kam Meng Goh"
+        },
+        {
+          "authorId": "101595664",
+          "name": "T. T. Ting"
+        },
+        {
+          "authorId": "1737615",
+          "name": "S. Sahrani"
+        },
+        {
+          "authorId": "2110007642",
+          "name": "M. Ahmad"
+        },
+        {
+          "authorId": "40252282",
+          "name": "R. A. Kadir"
+        },
+        {
+          "authorId": "2182780838",
+          "name": "Mei Choo Ang"
+        }
+      ],
+      "abstract": "The widespread adoption of cyber-physical systems and other cutting-edge digital technology in manufacturing industry production facilities may motivate stakeholders to embrace the idea of Industry 4.0. Some industrial companies already have different sensors installed on their machines; however, without proper analysis, the data collected is not useful. This systematic review\u2019s main goal is to synthesize the existing evidence on the application of predictive maintenance (PdM) with visual aids and to identify the key knowledge gaps in areas including utilities, power generation, industry, and energy consumption. After a thorough search and evaluation for relevancy, 37 documents were identified. Moreover, we identified the visual analytics of PdM, including anomaly detection, planning/scheduling, exploratory data analysis (EDA), and explainable artificial intelligence (XAI). The findings revealed that anomaly detection was a major domain in PdM-related works. We conclude that most of the literature lacks depth in terms of an overall framework that combines data-driven and knowledge-driven techniques of PdM in the manufacturing industry. Some works that utilized both techniques indicated promising results, but there is insufficient research on involving maintenance personnel\u2019s feedback in the latter stage of PdM architecture. Thus, there are still pertinent issues that need to be investigated, and limitations that need to be overcome before PdM is deployed with minimal human involvement."
+    },
+    {
+      "paperId": "08d83a06781fc0b3a3b22847ba2eb18d09178608",
+      "url": "https://www.semanticscholar.org/paper/08d83a06781fc0b3a3b22847ba2eb18d09178608",
+      "title": "Predictive-Maintenance Practices: For Operational Safety of Battery Energy Storage Systems",
+      "venue": "IEEE Power and Energy Magazine",
+      "year": 2020,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/mpe.2020.3014542",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/MPE.2020.3014542?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MPE.2020.3014542, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Although BESSs represented less than 1% of grid-scale energy storage in the United States in 2019, they are the preferred technology to meet growing demand because they are modular, scalable, and easy to deploy across diverse use cases and geographic locations."
+      },
+      "authors": [
+        {
+          "authorId": "30549297",
+          "name": "R. Fioravanti"
+        },
+        {
+          "authorId": "2110632146",
+          "name": "K. Kumar"
+        },
+        {
+          "authorId": "2000802478",
+          "name": "Shinobu Nakata"
+        },
+        {
+          "authorId": "32908781",
+          "name": "B. Chalamala"
+        },
+        {
+          "authorId": "94266880",
+          "name": "Yuliya Preger"
+        }
+      ],
+      "abstract": "Changes in the Demand Profile and a growing role for renewable and distributed generation are leading to rapid evolution in the electric grid. These changes are beginning to considerably strain the transmission and distribution infrastructure. Utilities are increasingly recognizing that the integration of energy storage in the grid infrastructure will help manage intermittency and improve grid reliability. This recognition, coupled with the proliferation of state-level renewable portfolio standards and rapidly declining lithium-ion (Li-ion) battery costs, has led to a surge in the deployment of battery energy storage systems (BESSs). Although BESSs represented less than 1% of grid-scale energy storage in the United States in 2019, they are the preferred technology to meet growing demand because they are modular, scalable, and easy to deploy across diverse use cases and geographic locations."
+    },
+    {
+      "paperId": "2ea2a3826632040db463adbb6a65351b9a6dc21e",
+      "url": "https://www.semanticscholar.org/paper/2ea2a3826632040db463adbb6a65351b9a6dc21e",
+      "title": "Application of Internet of Things (IoT) in Energy Infrastructure: Lessons for the Future of Operations and Maintenance",
+      "venue": "Comprehensive Research and Reviews in Science and Technology",
+      "year": 2024,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.57219/crrst.2024.2.2.0036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.57219/crrst.2024.2.2.0036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2329129899",
+          "name": "Ovie Vincent"
+        },
+        {
+          "authorId": "2329130058",
+          "name": "Erhueh"
+        },
+        {
+          "authorId": "2329130699",
+          "name": "Ovie Vincent Erhueh"
+        },
+        {
+          "authorId": "2329130056",
+          "name": "T. Elete"
+        },
+        {
+          "authorId": "2329130084",
+          "name": "Oluwaseyi Ayotunde Akano"
+        },
+        {
+          "authorId": "2326794091",
+          "name": "Chukwuebuka Nwakile"
+        },
+        {
+          "authorId": "2326788025",
+          "name": "Enobong Hanson"
+        }
+      ],
+      "abstract": "The application of the Internet of Things (IoT) in energy infrastructure is revolutionizing operations and maintenance practices, driving efficiencies, and enhancing sustainability across the sector. This paper explores the transformative impact of IoT technologies on energy infrastructure, focusing on how they facilitate real-time monitoring, predictive maintenance, and data-driven decision-making. By leveraging IoT devices and systems, energy operators can optimize performance, reduce operational costs, and minimize downtime, ultimately contributing to more resilient and sustainable energy systems. The discussion highlights key IoT applications within energy infrastructure, including smart grids, renewable energy systems, and conventional power plants. Smart sensors and devices enable continuous data collection, providing insights into equipment performance, energy consumption, and environmental conditions. Predictive analytics, powered by IoT data, allows operators to anticipate equipment failures and conduct maintenance proactively, thereby extending asset life and improving reliability. Additionally, the abstract addresses the challenges associated with IoT integration in energy infrastructure, such as cybersecurity risks, data management issues, and the need for interoperability among diverse systems. It emphasizes the importance of establishing robust security protocols to protect sensitive data and ensure the integrity of IoT networks. Furthermore, the role of regulatory frameworks and industry standards in promoting the safe and effective deployment of IoT technologies is discussed. The paper also examines case studies of successful IoT implementations in energy infrastructure, showcasing the lessons learned from these initiatives. These examples illustrate the potential for IoT to enhance operational efficiency, reduce greenhouse gas emissions, and support the transition to cleaner energy sources. In conclusion, the abstract underscores that the adoption of IoT technologies in energy infrastructure is not just a trend but a necessity for the future of operations and maintenance. As the energy sector continues to evolve, embracing IoT will be crucial for achieving sustainability goals and meeting the growing demands for reliable energy supply."
+    }
+  ]
+}

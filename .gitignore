@@ -1,0 +1,38 @@
+# Ignore common build artifacts and dependencies
+build/
+dist/
+node_modules/
+*.log
+*.tmp
+*.swp
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore generated files from LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.lot
+*.lof
+*.nav
+*.out
+*.snm
+
+# Ignore Python virtual environments
+.venv/
+env/
+
+# Exclude the .cursor/rules directory
+!.cursor/rules/
+
+# Ignore course material
+sources/1.0-course_material/
+docs/1.6-mentor-expertise.md
+
+# Optionally ignore the .git directory itself, though Git usually handles this
+# .git/ 

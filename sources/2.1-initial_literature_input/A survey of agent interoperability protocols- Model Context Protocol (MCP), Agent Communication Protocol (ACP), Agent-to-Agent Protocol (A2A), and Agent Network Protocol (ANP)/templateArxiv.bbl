@@ -1,0 +1,262 @@
+\begin{thebibliography}{10}
+
+\bibitem{brown2020language}
+Tom~B Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et~al.
+\newblock Language models are few-shot learners.
+\newblock {\em Advances in neural information processing systems}, 33:1877--1901, 2020.
+
+\bibitem{bommasani2021opportunities}
+Rishi Bommasani, Drew~A Hudson, Ehsan Adeli, Russ Altman, Simran Arora, Sydney von Arx, et~al.
+\newblock On the opportunities and risks of foundation models.
+\newblock {\em arXiv preprint arXiv:2108.07258}, 2021.
+
+\bibitem{Wang_2024}
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu~Chen, Yankai Lin, Wayne~Xin Zhao, Zhewei Wei, and Jirong Wen.
+\newblock A survey on large language model based autonomous agents.
+\newblock {\em Frontiers of Computer Science}, 18(6), Mar. 2024.
+
+\bibitem{mialon2023augmented}
+Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, and Thomas Scialom.
+\newblock Augmented language models: A survey.
+\newblock {\em arXiv preprint arXiv:2302.07842}, 2023.
+
+\bibitem{guo2024largelanguagemodelbased}
+Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh~V. Chawla, Olaf Wiest, and Xiangliang Zhang.
+\newblock Large language model based multi-agents: A survey of progress and challenges.
+\newblock {\em arXiv preprint arXiv:2402.01680}, 2024.
+\newblock Accessed: Apr. 30, 2025.
+
+\bibitem{mcp2024introduction}
+Model~Context Protocol.
+\newblock Introduction to model context protocol (mcp).
+\newblock \url{https://modelcontextprotocol.io/introduction}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{singh2025mcp}
+Aditi Singh, Abul Ehtesham, Saket Kumar, and Tala~Talaei Khoei.
+\newblock A survey of the model context protocol (mcp): Standardizing context to enhance large language models (llms).
+\newblock {\em Preprints}, Apr. 2025.
+
+\bibitem{ray2025mcp}
+Partha~Pratim Ray.
+\newblock A survey on model context protocol: Architecture, state-of-the-art, challenges and future directions.
+\newblock {\em TechRxiv}, Apr. 2025.
+\newblock Accessed: Apr. 30, 2025.
+
+\bibitem{google2024a2a}
+Google.
+\newblock Agent2agent (a2a) protocol documentation.
+\newblock \url{https://google.github.io/A2A/}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{beeai2024acp}
+IBM BeeAI.
+\newblock Introduction to agent communication protocol (acp).
+\newblock \url{https://docs.beeai.dev/acp/alpha/introduction}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{anp2024github}
+{Agent Network Protocol Contributors}.
+\newblock Agent network protocol (anp).
+\newblock \url{https://github.com/agent-network-protocol/AgentNetworkProtocol}, 2024.
+\newblock Accessed: Apr. 30, 2025.
+
+\bibitem{anp2024website}
+{Agent Network Protocol Contributors}.
+\newblock Agent network protocol official website.
+\newblock \url{https://agent-network-protocol.com/}, 2024.
+\newblock Accessed: Apr. 30, 2025.
+
+\bibitem{tran2025multi}
+Khanh-Tung Tran, Dung Dao, Minh-Duong Nguyen, Quoc-Viet Pham, Barry O'Sullivan, and Hoang~D. Nguyen.
+\newblock Multi-agent collaboration mechanisms: A survey of llms.
+\newblock {\em CoRR}, abs/2501.06322, 2025.
+
+\bibitem{guo2024survey}
+Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh~V. Chawla, Olaf Wiest, and Xiangliang Zhang.
+\newblock Large language model based multi-agents: A survey of progress and challenges.
+\newblock {\em CoRR}, abs/2402.01680, 2024.
+
+\bibitem{yan2025beyond}
+Bingyu Yan, Xiaoming Zhang, Litian Zhang, Lian Zhang, Ziyi Zhou, Dezhuang Miao, and Chaozhuo Li.
+\newblock Beyond self-talk: A communication-centric survey of llm-based multi-agent systems.
+\newblock {\em CoRR}, abs/2502.14321, 2025.
+
+\bibitem{sheriff2024dynamic}
+Akram Sheriff.
+\newblock Dynamic llm agent metadata manifest-based discovery of agents in an llm agentic application platform.
+\newblock Technical Report 7522, Technical Disclosure Commons, 2024.
+
+\bibitem{milev2024toolfuzz}
+Ivan Milev, Mislav Balunovic, Maximilian Baader, and Martin Vechev.
+\newblock Toolfuzz: Automated agent tool testing.
+\newblock {\em CoRR}, abs/2503.04479, 2024.
+
+\bibitem{russell2010aima}
+Stuart~J. Russell and Peter Norvig.
+\newblock {\em {Artificial Intelligence: A Modern Approach}}.
+\newblock Prentice Hall, 3rd edition, 2010.
+
+\bibitem{wooldridge2009introduction}
+Michael Wooldridge.
+\newblock {\em An Introduction to MultiAgent Systems}.
+\newblock John Wiley \& Sons, 2009.
+
+\bibitem{franklin1997taxonomy}
+Stan Franklin and Art Graesser.
+\newblock Is it an agent, or just a program? a taxonomy for autonomous agents.
+\newblock {\em International Journal of Cognitive Science}, 6(1--2):29--36, 1997.
+
+\bibitem{jennings2000agent}
+Nicholas~R. Jennings.
+\newblock On agent-based software engineering.
+\newblock {\em Artificial Intelligence}, 117(2):277--296, 2000.
+
+\bibitem{genesereth1993kqml}
+Michael~R. Genesereth and Scott~P. Ketchpel.
+\newblock The kqml protocol: A specification of language and communication.
+\newblock In {\em Proceedings of the Third International Conference on Information and Knowledge Management (CIKM)}, pages 1--10. ACM, 1993.
+
+\bibitem{finin1994kqml}
+Tim Finin, Rich Fritzson, Donald McKay, and Robin McEntire.
+\newblock Kqml as an agent communication language.
+\newblock In {\em Proceedings of the third international conference on Information and knowledge management}, pages 456--463, 1994.
+
+\bibitem{fipa2000acl}
+Foundation for Intelligent Physical~Agents.
+\newblock Fipa communicative act library specification.
+\newblock \url{https://www.fipa.org/specs/fipa00037/SC00037J.html}, 2000.
+
+\bibitem{curbera2002web}
+Francisco Curbera, Marc Duftler, Rania Khalaf, William Nagy, Nirmal Mukhi, and Sanjiva Weerawarana.
+\newblock Web services: Why and how.
+\newblock {\em IBM Systems Journal}, 41(2):170--177, 2002.
+
+\bibitem{hohpe2006enterprise}
+Gregor Hohpe and Bobby Woolf.
+\newblock {\em {Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions}}.
+\newblock Addison-Wesley Signature Series (Fowler). Addison-Wesley Professional, 2006.
+
+\bibitem{lewis2020rag}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Mike Lewis, William Yih, Tim Rockt{\"a}schel, and Sebastian Riedel.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~33, pages 9459--9474, 2020.
+
+\bibitem{izacard2021towards}
+Gautier Izacard and Edouard Grave.
+\newblock Towards an efficient pipeline for knowledge-intensive nlp tasks.
+\newblock {\em arXiv preprint arXiv:2112.04426}, 2021.
+
+\bibitem{openai2023function}
+{OpenAI}.
+\newblock Function calling in openai models.
+\newblock \url{https://platform.openai.com/docs/guides/functions}, 2023.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{chase2022langchain}
+Harrison Chase.
+\newblock Langchain: Build applications with llms through composability.
+\newblock \url{https://github.com/langchain-ai/langchain}, 2022.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{wu2023llamaindex}
+Jerry Wu et~al.
+\newblock Llamaindex: Connecting llms to your knowledge.
+\newblock \url{https://github.com/jerryjliu/llama_index}, 2023.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{openai2023plugin}
+OpenAI.
+\newblock Openai plugin store.
+\newblock \url{https://platform.openai.com/docs/plugins}, 2023.
+
+\bibitem{liu2024autotool}
+Fangzhou Liu, Xinyu Li, Zihan Wu, Yang Song, Wayne~Xin Zhao, and Ji-Rong Wen.
+\newblock Autotool: Building general-purpose llm agents with self-extendable toolsets.
+\newblock {\em arXiv preprint arXiv:2403.02659}, 2024.
+
+\bibitem{le2023toolformer}
+Timo Schick and Hinrich Schütze.
+\newblock Toolformer: Language models can teach themselves to use tools.
+\newblock In {\em Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pages 8213--8229. ACL, 2023.
+
+\bibitem{yao2023react}
+Sheng Yao, Eric Urbach, and Dale Schuurmans.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock In {\em Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 2659--2671. ACL, 2023.
+
+\bibitem{autogen2023}
+{AutoGen Community}.
+\newblock Autogpt: An experimental open-source autonomous agent using gpt-4.
+\newblock \url{https://github.com/Significant-Gravitas/Auto-GPT}, 2023.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{shinn2023reflexion}
+Thomas Shinn and Regina Barzilay.
+\newblock Reflexion: Language model self-improvement through iterative learning from failures.
+\newblock {\em arXiv preprint arXiv:2310.02493}, 2023.
+\newblock Available at \url{https://arxiv.org/abs/2310.02493}.
+
+\bibitem{crewai2024}
+{CrewAI Project}.
+\newblock {CrewAI}: High-level crew abstractions for collaborative llm agents.
+\newblock \url{https://github.com/crew-ai/crewai}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{smolagents2024}
+{SmolAgents Project}.
+\newblock Smolagents: A single-file python library for multi-modal llm agent prototyping.
+\newblock \url{https://github.com/smolagents/smolagents}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{ag22025}
+{AutoGen Community}.
+\newblock Ag2 (autogen): An open-source agentos with human-in-the-loop workflows.
+\newblock \url{https://github.com/Significant-Gravitas/Auto-GPT}, 2025.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{semantickernel2024}
+{Microsoft}.
+\newblock Semantic kernel: Sdk for llm orchestration and memory.
+\newblock \url{https://github.com/microsoft/semantic-kernel}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{openai2024swarm}
+{OpenAI}.
+\newblock Swarm: Stateless multi-agent coordination via json-rpc routines.
+\newblock \url{https://platform.openai.com/docs/models/swarm}, 2024.
+\newblock Accessed: Apr. 2025.
+
+\bibitem{pitt1998masif}
+Dejan~S. Milojicic, Markus Breugst, Ingo Busse, John Campbell, Stefan Covaci, Barry Friedman, Kazuya Kosaka, Danny~B. Lange, Kouichi Ono, Mitsuru Oshima, Cynthia Tham, Sankar Virdhagriswaran, and Jim White.
+\newblock Masif: The omg mobile agent system interoperability facility.
+\newblock In {\em Proceedings of the Second International Workshop on Mobile Agents}, MA '98, page 50–67, Berlin, Heidelberg, 1998. Springer-Verlag.
+
+\bibitem{redteaming2025}
+Pengfei He, Yupin Lin, Shen Dong, Han Xu, Yue Xing, and Hui Liu.
+\newblock Red-teaming llm multi-agent systems via communication attacks.
+\newblock {\em arXiv preprint arXiv:2502.14847}, 2025.
+
+\bibitem{firewalls2025}
+Sahar Abdelnabi, Amr Gomaa, Eugene Bagdasarian, Per~Ola Kristensson, and Reza Shokri.
+\newblock Firewalls to secure dynamic llm agentic networks.
+\newblock {\em arXiv preprint arXiv:2502.01822}, 2025.
+
+\bibitem{mediumA2A2025}
+Carol Doe.
+\newblock A2a protocol: An in‐depth guide. the need for agent interoperability.
+\newblock \url{https://medium.com/@author/a2a-protocol-guide}, 2025.
+\newblock [Online; accessed 2025-04-24].
+
+\bibitem{googleA2aBlog}
+{Google Developers Blog}.
+\newblock Announcing the agent2agent protocol (a2a).
+\newblock \url{https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/}, 2025.
+\newblock [Online; accessed 2025-04-24].
+
+\bibitem{acmAgents2025}
+Fiona Zhang and George Kumar.
+\newblock Ai agents under threat: A survey of key security challenges and mitigations.
+\newblock In {\em Proceedings of the ACM Conference on Security in AI Systems}, pages 1--12, 2025.
+
+\end{thebibliography}

@@ -1,0 +1,375 @@
+\begin{thebibliography}{100}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{aivaliotis2021industrial}
+Aivaliotis, P., Arkouli, Z., Georgoulias, K., Makris, S.: Degradation curves integration in physics-based models: Towards the predictive maintenance of industrial robots. Rob. Comput. Integr. Manuf.  \textbf{71},  102177 (2021). \doi{10.1016/j.rcim.2021.102177}
+
+\bibitem{aivaliotis2019methodology}
+Aivaliotis, P., Georgoulias, K., Arkouli, Z., Makris, S.: Methodology for enabling digital twin using advanced physics-based modelling in predictive maintenance. Procedia CIRP  \textbf{81},  417--422 (2019). \doi{10.1016/j.procir.2019.03.072}
+
+\bibitem{aivaliotis2019use}
+Aivaliotis, P., Georgoulias, K., Chryssolouris, G.: The use of {D}igital {T}win for predictive maintenance in manufacturing. Int. J. Comput. Integr. Manuf.  \textbf{32}(11),  1067--1080 (2019). \doi{10.1080/0951192X.2019.1686173}
+
+\bibitem{alimohammadi2022predict}
+Alimohammadi, H., Vassiljeva, K., Petlenkov, E., Mall~Kull, T., Thalfeldt, M.: Predict the remaining useful life in {HVAC} filters using a hybrid strategy. CLIMA 2022 Conf.  (May 2022). \doi{10.34641/clima.2022.273}
+
+\bibitem{ANTONELLI2016649}
+Antonelli, M., Ducange, P., Marcelloni, F., Segatori, A.: On the influence of feature selection in fuzzy rule-based regression model generation. Inf. Sci.  \textbf{329},  649--669 (2016). \doi{10.1016/j.ins.2015.09.045}
+
+\bibitem{alves2021digital}
+Alves~de Araujo~Junior, C.A., Mauricio~Villanueva, J.M., Almeida, R.J.S.d., Azevedo~de Medeiros, I.E.: Digital {T}wins of the {W}ater {C}ooling {S}ystem in a {P}ower {P}lant {B}ased on {F}uzzy {L}ogic. Sens.  \textbf{21}(20), ~6737 (2021). \doi{10.3390/s21206737}
+
+\bibitem{arayici2008bim}
+Arayici, Y.: Towards building information modelling for existing structures. Struct. Surv.  \textbf{26},  210--222 (07 2008). \doi{10.1108/02630800810887108}
+
+\bibitem{aversano2019application}
+Aversano, G., Bellemans, A., Li, Z., Coussement, A., Gicquel, O., Parente, A.: Application of reduced-order models based on {PCA} \& {K}riging for the development of digital twins of reacting flow applications. Comput. \& Chem. Eng.  \textbf{121},  422--441 (2019). \doi{10.1016/j.compchemeng.2018.09.022}
+
+\bibitem{aversano2021digital}
+Aversano, G., Ferrarotti, M., Parente, A.: Digital twin of a combustion furnace operating in flameless conditions: reduced-order model development from {CFD} simulations. Proc. Combust. Inst.  \textbf{38}(4),  5373--5381 (2021). \doi{10.1016/j.proci.2020.06.045}
+
+\bibitem{balderas2021empowering}
+Balderas, D., Ortiz, A., M{\'e}ndez, E., Ponce, P., Molina, A.: Empowering {D}igital {T}win for {I}ndustry 4.0 using metaheuristic optimization algorithms: case study {PCB} drilling optimization. Int. J. Adv. Manuf. Technol.  \textbf{113}(5),  1295--1306 (2021). \doi{10.1007/s00170-021-06649-8}
+
+\bibitem{barkanyi2021modelling}
+B{\'a}rk{\'a}nyi, {\'A}., Chovan, T., Nemeth, S., Abonyi, J.: Modelling for digital twins—potential role of surrogate models. Processes  \textbf{9}(3), ~476 (2021). \doi{10.3390/pr9030476}
+
+\bibitem{bartram2014integration}
+Bartram, G., Mahadevan, S.: Integration of heterogeneous information in {SHM} models. Struct. Control Health Monit.  \textbf{21}(3),  403--422 (2014). \doi{10.1002/stc.1572}
+
+\bibitem{boje2020towards}
+Boje, C., Guerriero, A., Kubicki, S., Rezgui, Y.: Towards a semantic construction digital twin: Directions for future research. Autom. Constr.  \textbf{114},  103179 (2020). \doi{10.1016/j.autcon.2020.103179}
+
+\bibitem{sana2022frame}
+Botín-Sanabria, D.M., Mihaita, A.S., Peimbert-García, R.E., Ramírez-Moreno, M.A., Ramírez-Mendoza, R.A., Lozoya-Santos, J.d.J.: Digital twin technology challenges and applications: A comprehensive review. Remote Sens.  \textbf{14}(6), ~1335 (Mar 2022). \doi{10.3390/rs14061335}
+
+\bibitem{cattaneo2019twin}
+Cattaneo, L., Macchi, M.: A {D}igital {T}win {P}roof of {C}oncept to {S}upport {M}achine {P}rognostics with {L}ow {A}vailability of {R}un-{T}o-{F}ailure {D}ata. IFAC-PapersOnLine  \textbf{52}(10),  37--42 (2019). \doi{10.1016/j.ifacol.2019.10.016}
+
+\bibitem{chakraborty2021role}
+Chakraborty, S., Adhikari, S., Ganguli, R.: The role of surrogate models in the development of digital twins of dynamic systems. Appl. Math. Modell.  \textbf{90},  662--681 (2021). \doi{10.1016/j.apm.2020.09.037}
+
+\bibitem{cohen2021smart}
+Cohen, Y., Singer, G.: A smart process controller framework for industry 4.0 settings. J. Intell. Manuf.  \textbf{32}(7),  1975--1995 (2021). \doi{10.1007/s10845-021-01748-5}
+
+\bibitem{coraddu2019data}
+Coraddu, A., Oneto, L., Baldi, F., Cipollini, F., Atlar, M., Savio, S.: Data-driven ship digital twin for estimating the speed loss caused by the marine fouling. Ocean Eng.  \textbf{186},  106063 (2019). \doi{10.1016/j.oceaneng.2019.05.045}
+
+\bibitem{deebak2022twin}
+Deebak, B.D., Al-Turjman, F.: Digital-twin assisted: Fault diagnosis using deep transfer learning for machining tool condition. Int. J. Intell. Syst.  \textbf{37}(12),  10289--10316 (2022). \doi{10.1002/int.22493}
+
+\bibitem{deng2021bim}
+Deng, M., Menassa, C.C., Kamat, V.R.: From {BIM} to digital twins: a systematic review of the evolution of intelligent building representations in the {AEC-FM} industry. J. Inf. Technol. Construct.  \textbf{26} (2021). \doi{10.36680/j.itcon.2021.005}
+
+\bibitem{dhada2021deploy}
+Dhada, M., Hernández, M.P., Salvador~Palau, A., Parlikad, A.K.: Comparison of {A}gent {D}eployment {S}trategies for {C}ollaborative {P}rognosis. In: 2021 IEEE Int. Conf. Progn. Health Manage. pp.~1--8 (2021). \doi{10.1109/ICPHM51084.2021.9486628}
+
+\bibitem{dong2019deep}
+Dong, R., She, C., Hardjawana, W., Li, Y., Vucetic, B.: Deep learning for hybrid {5G} services in mobile edge computing systems: Learn from a digital twin. IEEE Trans. Wireless Commun.  \textbf{18}(10),  4692--4707 (2019). \doi{10.1109/TWC.2019.2927312}
+
+\bibitem{eyre2018demonstration}
+Eyre, J.M., Dodd, T.J., Freeman, C., Lanyon-Hogg, R., Lockwood, A.J., Scott, R.W.: Demonstration of an industrial framework for an implementation of a process digital twin. In: ASME Int. Mech. Eng. Congr. Exposition. vol. 52019, p. V002T02A070. American Society of Mechanical Engineers (2018). \doi{10.1115/IMECE2018-87361}
+
+\bibitem{ezhilarasu2019management}
+Ezhilarasu, C.M., Skaf, Z., Jennions, I.K.: Understanding the role of a {D}igital {T}win in {I}ntegrated {V}ehicle {H}ealth {M}anagement ({IVHM}). In: 2019 IEEE Int. Conf. Syst. Man Cybern. pp. 1484--1491 (2019). \doi{10.1109/SMC.2019.8914244}
+
+\bibitem{fang2022fatigue}
+Fang, X., Wang, H., Li, W., Liu, G., Cai, B.: Fatigue crack growth prediction method for offshore platform based on digital twin. Ocean Eng.  \textbf{244},  110320 (2022). \doi{10.1016/j.oceaneng.2021.110320}
+
+\bibitem{katherine2022digital}
+Flanigan, K.A., Ma, S., Bergés, M.: Functional {R}equirements {E}nabling {L}evels of {P}redictive {M}aintenance {A}utomation and {A}utonomy. In: 2022 IEEE 2nd Int. Conf. Digital Twins Parallel Intell. pp.~1--2 (2022). \doi{10.1109/DTPI55838.2022.10036152}
+
+\bibitem{fritzson2021openmodelica}
+Fritzson, P.: The {O}pen{M}odelica environment for building digital twins of sustainable cyber-physical systems. In: 2021 Winter Simul. Conf. pp. 1--12. IEEE (2021). \doi{10.1109/WSC52266.2021.9715443}
+
+\bibitem{GALAR2015137}
+Galar, D., Thaduri, A., Catelani, M., Ciani, L.: Context awareness for maintenance decision making: A diagnosis and prognosis approach. Meas.  \textbf{67},  137--150 (2015). \doi{10.1016/j.measurement.2015.01.015}
+
+\bibitem{gilpin2018explaining}
+Gilpin, L.H., Bau, D., Yuan, B.Z., Bajwa, A., Specter, M., Kagal, L.: Explaining {E}xplanations: {A}n {O}verview of {I}nterpretability of {M}achine {L}earning. In: 2018 IEEE 5th Int. Conf. Data Sci. Adv. Anal. pp. 80--89. IEEE (2018). \doi{10.1109/DSAA.2018.00018}
+
+\bibitem{gong2022data}
+Gong, H., Cheng, S., Chen, Z., Li, Q.: Data-enabled physics-informed machine learning for reduced-order modeling digital twin: application to nuclear reactor physics. Nucl. Sci. Eng.  \textbf{196}(6),  668--693 (2022). \doi{10.1080/00295639.2021.2014752}
+
+\bibitem{grieves2017digital}
+Grieves, M., Vickers, J.: {Digital Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems}, pp. 85--113. Springer Int. Publ. (2017). \doi{10.1007/978-3-319-38756-7\_4}
+
+\bibitem{haarman2017predictive}
+Haarman, M., Mulders, M., Vassiliadis, C.: Predictive maintenance 4.0: Predict the unpredictable. Tech. rep., PwC Belgium (2017)
+
+\bibitem{HALEEM202328}
+Haleem, A., Javaid, M., {Pratap Singh}, R., Suman, R.: Exploring the revolution in healthcare systems through the applications of digital twin technology. Biomed. Technol.  \textbf{4},  28--38 (2023). \doi{10.1016/j.bmt.2023.02.001}
+
+\bibitem{IIC}
+Harper, K.E., Malakuti, S., Ganz, C.: Digital {T}win {A}rchitecture and {S}tandards (2019)
+
+\bibitem{hedberg2020using}
+Hedberg~Jr, T.D., Bajaj, M., Camelio, J.A.: Using graphs to link data across the product lifecycle for enabling smart manufacturing digital threads. J. Comput. Inf. Sci. Eng.  \textbf{20}(1),  011011 (2020). \doi{10.1115/1.4044921}
+
+\bibitem{hichri2013point}
+Hichri, N., Stefani, C., De~Luca, L., Veron, P., Hamon, G.: From point cloud to {BIM}: {A} survey of existing approaches. In: XXIV Int. CIPA Symp. Proceedings of the XXIV International CIPA Symposium (2013). \doi{10.5194/isprsarchives-XL-5-W2-343-2013}
+
+\bibitem{HONGLIM202289}
+{Hong Lim}, K.Y., Zheng, P., Liew, D.W.: Chapter 4 - digital twin-enhanced product family design and optimization service. In: Tao, F., Qi, Q., Nee, A. (eds.) Digital Twin Driven Serv., pp. 89--118. Acad. Press (2022). \doi{10.1016/B978-0-323-91300-3.00003-6}
+
+\bibitem{hosamo2022digital}
+Hosamo, H.H., Svennevig, P.R., Svidt, K., Han, D., Nielsen, H.K.: A {D}igital {T}win predictive maintenance framework of air handling units based on automatic fault detection and diagnostics. Energy Build.  \textbf{261},  111988 (2022). \doi{10.1016/j.enbuild.2022.111988}
+
+\bibitem{hurkamp2020combining}
+H{\"u}rkamp, A., Gellrich, S., Ossowski, T., Beuscher, J., Thiede, S., Herrmann, C., Dr{\"o}der, K.: Combining simulation and machine learning as digital twin for the manufacturing of overmolded thermoplastic composites. J. Manuf. Mater. Process.  \textbf{4}(3), ~92 (2020). \doi{10.3390/jmmp4030092}
+
+\bibitem{ISO23247}
+{International Organization for Standardization}: Automation systems and integration — digital twin framework for manufacturing (2021)
+
+\bibitem{IETF}
+{Internet Research Task Force}: Digital {T}win {N}etwork: Concepts and {R}eference {A}rchitecture (2023)
+
+\bibitem{jacoby2020digital}
+Jacoby, M., Usl{\"a}nder, T.: Digital twin and internet of things—{C}urrent standards landscape. Appl. Sci.  \textbf{10}(18), ~6519 (2020). \doi{10.3390/app10186519}
+
+\bibitem{jiang2021digital}
+Jiang, F., Ma, L., Broyd, T., Chen, K.: Digital twin and its implementations in the civil engineering sector. Autom. Constr.  \textbf{130},  103838 (2021). \doi{10.1016/j.autcon.2021.103838}
+
+\bibitem{kaewunruen2018digital}
+Kaewunruen, S., Xu, N.: Digital twin for sustainability evaluation of railway station buildings. Front. Built Environ.  \textbf{4}, ~77 (2018). \doi{10.3389/fbuil.2018.00077}
+
+\bibitem{KAMBLE2022121448}
+Kamble, S.S., Gunasekaran, A., Parekh, H., Mani, V., Belhadi, A., Sharma, R.: Digital twin for sustainable manufacturing supply chains: Current trends, future perspectives, and an implementation framework. Technol. Forecasting Social Change  \textbf{176},  121448 (2022). \doi{10.1016/j.techfore.2021.121448}
+
+\bibitem{kapteyn2022data}
+Kapteyn, M., Knezevic, D., Huynh, D., Tran, M., Willcox, K.: Data-driven physics-based digital twins via a library of component-based reduced-order models. Int. J. Numer. Methods Eng.  \textbf{123}(13),  2986--3003 (2022). \doi{10.1002/nme.6423}
+
+\bibitem{kapteyn2020toward}
+Kapteyn, M.G., Knezevic, D.J., Willcox, K.: Toward predictive digital twins via component-based reduced-order models and interpretable machine learning. In: AIAA Scitech 2020 Forum (2020). \doi{10.2514/6.2020-0418}
+
+\bibitem{karakra2018pervasive}
+Karakra, A., Fontanili, F., Lamine, E., Lamothe, J., Taweel, A.: Pervasive computing integrated discrete event simulation for a hospital digital twin. In: 2018 IEEE/ACS 15th Int. Conf. Comput. Syst. Appl. pp.~1--6. IEEE (2018). \doi{10.1109/AICCSA.2018.8612796}
+
+\bibitem{karve2020digital}
+Karve, P.M., Guo, Y., Kapusuzoglu, B., Mahadevan, S., Haile, M.A.: Digital twin approach for damage-tolerant mission planning under uncertainty. Eng. Fract. Mech.  \textbf{225},  106766 (2020). \doi{10.1016/j.engfracmech.2019.106766}
+
+\bibitem{khajavi2019bim}
+Khajavi, S.H., Motlagh, N.H., Jaribion, A., Werner, L.C., Holmström, J.: Digital {T}win: {V}ision, {B}enefits, {B}oundaries, and creation for buildings. IEEE Access  \textbf{7},  147406--147419 (2019). \doi{10.1109/ACCESS.2019.2946515}
+
+\bibitem{khaled2020digital}
+Khaled, N., Pattel, B., Siddiqui, A.: Digital Twin Development and Deployment on the Cloud: Developing Cloud-Friendly Dynamic Models Using Simulink{\textregistered}/SimscapeTM and Amazon AWS. Academic Press (2020). \doi{10.1016/C2019-0-03782-X}
+
+\bibitem{kunzer2022digital}
+Kunzer, B., Berg\'es, M., Dubrawski, A.: The {D}igital {T}win {L}andscape at the {C}rossroads of {P}redictive {M}aintenance, {M}achine {L}earning and {P}hysics {B}ased {M}odeling (2022). \doi{10.48550/arXiv.2206.10462}
+
+\bibitem{lana2021data}
+Laña, I., Sanchez-Medina, J.J., Vlahogianni, E.I., Del~Ser, J.: From {D}ata to {A}ctions in {I}ntelligent {T}ransportation {S}ystems: {A} {P}rescription of {F}unctional {R}equirements for {M}odel {A}ctionability. Sens.  \textbf{21}(4), ~1121 (Feb 2021). \doi{10.3390/s21041121}
+
+\bibitem{li2017dynamic}
+Li, C., Mahadevan, S., Ling, Y., Choze, S., Wang, L.: Dynamic {B}ayesian network for aircraft wing health monitoring digital twin. AIAA J.  \textbf{55}(3),  930--941 (2017). \doi{10.2514/1.J055201}
+
+\bibitem{liu2021biomimicry}
+Liu, S., Bao, J., Lu, Y., Li, J., Lu, S., Sun, X.: Digital twin modeling method based on biomimicry for machining aerospace components. J. Manuf. Syst.  \textbf{58},  180--195 (2021). \doi{10.1016/j.jmsy.2020.04.014}
+
+\bibitem{liu2018industrial}
+Liu, Z., Jin, C., Jin, W., Lee, J., Zhang, Z., Peng, C., Xu, G.: Industrial {AI} enabled prognostics for high-speed railway systems. In: 2018 IEEE Int. Conf. Progn. Health Manage. pp.~1--8 (2018). \doi{10.1109/ICPHM.2018.8448431}
+
+\bibitem{lohtander2018micro}
+Lohtander, M., Ahonen, N., Lanz, M., Ratava, J., Kaakkunen, J.: Micro manufacturing unit and the corresponding 3{D}-model for the digital twin. Procedia Manuf.  \textbf{25},  55--61 (2018). \doi{10.1016/j.promfg.2018.06.057}
+
+\bibitem{lu2020bim}
+Lu, Q., Xie, X., Heaton, J., Parlikad, A.K., Schooling, J.: From {BIM} {T}owards {D}igital {T}win: {S}trategy and {F}uture {D}evelopment for {S}mart {A}sset {M}anagement. In: Borangiu, T., Trentesaux, D., Leit{\~a}o, P., Giret~Boggino, A., Botti, V. (eds.) Service Oriented, Holonic and Multi-agent Manufacturing Systems for Industry of the Future. pp. 392--404. Springer International Publishing, Cham (2020). \doi{10.1007/978-3-030-27477-1\_30}
+
+\bibitem{luo2020hybrid}
+Luo, W., Hu, T., Ye, Y., Zhang, C., Wei, Y.: A hybrid predictive maintenance approach for cnc machine tool driven by digital twin. Rob. Comput. Integr. Manuf.  \textbf{65},  101974 (2020). \doi{10.1016/j.rcim.2020.101974}
+
+\bibitem{ma2023twin}
+Ma, S., Flanigan, K.A., Bergés, M.: {State-of-the-Art Review and Synthesis: A Requirement-based Roadmap for Standardized Predictive Maintenance Automation Using Digital Twin Technologies} (2023). \doi{10.48550/arXiv.2311.06993}
+
+\bibitem{macher2017point}
+Macher, H., Landes, T., Grussenmeyer, P.: From {P}oint {C}louds to {B}uilding {I}nformation {M}odels: 3{D} {S}emi-{A}utomatic {R}econstruction of {I}ndoors of {E}xisting {B}uildings. Appl. Sci.  \textbf{7}(10), ~1030 (Oct 2017). \doi{10.3390/app7101030}
+
+\bibitem{magargle2017simulation}
+Magargle, R., Johnson, L., Mandloi, P., Davoudabadi, P., Kesarkar, O., Krishnaswamy, S., Batteh, J., Pitchaikani, A.: A simulation-based digital twin for model-driven health monitoring and predictive maintenance of an automotive braking system. In: Proc. 12th Int. Modelica Conf. pp. 35--46. No.~132 (2017). \doi{10.3384/ecp1713235}
+
+\bibitem{margaria2019digital}
+Margaria, T., Schieweck, A.: The digital thread in industry 4.0. In: Int. Conf. Integr. Formal Methods. pp. 3--24. Springer (2019). \doi{10.1007/978-3-030-34968-4\_1}
+
+\bibitem{meng2022data}
+Meng, H., An, X., Xing, J.: A data-driven {B}ayesian network model integrating physical knowledge for prioritization of risk influencing factors. Process Saf. Environ. Prot.  \textbf{160},  434--449 (2022). \doi{10.1016/j.psep.2022.02.010}
+
+\bibitem{MERAGHNI20212555}
+Meraghni, S., Terrissa, L.S., Yue, M., Ma, J., Jemei, S., Zerhouni, N.: A data-driven digital-twin prognostics method for proton exchange membrane fuel cell remaining useful life prediction. Int. J. Hydrogen Energy  \textbf{46}(2),  2555--2564 (2021). \doi{10.1016/j.ijhydene.2020.10.108}
+
+\bibitem{mobley2002introduction}
+Mobley, R.K.: 4 - benefits of predictive maintenance. In: Mobley, R.K. (ed.) An Introduction to Predictive Maintenance, pp. 60--73. Butterworth-Heinemann, 2 edn. (2002). \doi{10.1016/B978-075067531-4/50004-X}
+
+\bibitem{moghadam2021digital}
+Moghadam, F.K., Rebou{\c{c}}as, G.F.d.S., Nejad, A.R.: Digital twin modeling for predictive maintenance of gearboxes in floating offshore wind turbine drivetrains. Forsch. Ingenieurwes.  \textbf{85}(2),  273--286 (2021). \doi{10.1007/s10010-021-00468-9}
+
+\bibitem{mohammadi2021quality}
+Mohammadi, M., Rashidi, M., Mousavi, V., Karami, A., Yu, Y., Samali, B.: Quality evaluation of digital twins generated based on {UAV} photogrammetry and {TLS}: {B}ridge case study. Remote Sens  \textbf{13}(17), ~3499 (2021). \doi{10.3390/rs13173499}
+
+\bibitem{moi2020twin}
+Moi, T., Cibicik, A., Rølvåg, T.: Digital twin based condition monitoring of a knuckle boom crane: An experimental study. Eng. Fail. Anal.  \textbf{112},  104517 (2020). \doi{10.1016/j.engfailanal.2020.104517}
+
+\bibitem{molinaro2021embedding}
+Molinaro, R., Singh, J.S., Catsoulis, S., Narayanan, C., Lakehal, D.: Embedding data analytics and {CFD} into the digital twin concept. Comput. Fluids  \textbf{214},  104759 (2021). \doi{10.1016/j.compfluid.2020.104759}
+
+\bibitem{jimenez2019system}
+Montero~Jiménez, J.J., Vingerhoeds, R.: A system engineering approach to predictive maintenance systems: from needs and desires to logical architecture. In: 2019 Int. Symp. Syst. Eng. pp.~1--8 (2019). \doi{10.1109/ISSE46696.2019.8984559}
+
+\bibitem{moshrefzadeh2020towards}
+Moshrefzadeh, M., Machl, T., Gackstetter, D., Donaubauer, A., Kolbe, T.H.: Towards a distributed digital twin of the agricultural landscape. J. Digit. Landsc. Archit  \textbf{5},  173--186 (2020)
+
+\bibitem{nascimento2019fleet}
+Nascimento, R.G., Viana, F.A.C.: Fleet {P}rognosis with {P}hysics-informed {R}ecurrent {N}eural {N}etworks (2019). \doi{10.48550/arXiv.1901.05512}
+
+\bibitem{NIST8356}
+{National Institute of Standards and Technology}: Considerations for digital twin technology and emerging standards (2021)
+
+\bibitem{ohara2010human}
+OHara, J.M., Higgins, J.: Human-system interfaces to automatic systems: Review guidance and technical basis  (2010). \doi{10.2172/1013461}
+
+\bibitem{onaji2022frame}
+Onaji, I., Tiwari, D., Soulatiantork, P., Song, B., Tiwari, A.: Digital twin in manufacturing: conceptual framework and case studies. Int. J. Comput. Integr. Manuf.  \textbf{35}(8),  831--858 (2022). \doi{10.1080/0951192X.2022.2027014}
+
+\bibitem{pan2021bim}
+Pan, Y., Zhang, L.: A {BIM}-data mining integrated digital twin framework for advanced project management. Autom. Constr.  \textbf{124},  103564 (2021). \doi{10.1016/j.autcon.2021.103564}
+
+\bibitem{phanden2021review}
+Phanden, R.K., Sharma, P., Dubey, A.: A review on simulation in digital twin for aerospace, manufacturing and robotics. Mater. Today Proc.  \textbf{38},  174--178 (2021). \doi{10.1016/j.matpr.2020.06.446}
+
+\bibitem{pimenta2020development}
+Pimenta, F., Pacheco, J., Branco, C., Teixeira, C., Magalh{\~a}es, F.: Development of a digital twin of an onshore wind turbine using monitoring data. In: J. Phys. Conf. Ser. vol.~1618, p. 022065 (2020). \doi{10.1088/1742-6596/1618/2/022065}
+
+\bibitem{pires2021digital}
+Pires, F., Ahmad, B., Moreira, A.P., Leit{\~a}o, P.: Digital twin based what-if simulation for energy management. In: 2021 4th IEEE Int. Conf. Ind. Cyber-Phys. Syst. pp. 309--314. IEEE (2021). \doi{10.1109/ICPS49255.2021.9468224}
+
+\bibitem{preuveneers2018robust}
+Preuveneers, D., Joosen, W., Ilie-Zudor, E.: Robust digital twin compositions for industry 4.0 smart manufacturing systems. In: 2018 IEEE 22nd Int. Enterp. Distrib. Object Comput. Workshop. pp. 69--78. IEEE (2018). \doi{10.1109/EDOCW.2018.00021}
+
+\bibitem{qi2021smart}
+Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., Wang, L., Nee, A.: Enabling technologies and tools for digital twin. J. Manuf. Syst.  \textbf{58},  3--21 (2021). \doi{10.1016/j.jmsy.2019.10.001}
+
+\bibitem{qian2022privacy}
+Qian, C., Liu, X., Ripley, C., Qian, M., Liang, F., Yu, W.: Digital {T}win—{C}yber {R}eplica of {P}hysical {T}hings: {A}rchitecture, {A}pplications and {F}uture {R}esearch {D}irections. Future Internet  \textbf{14}(2), ~64 (2022). \doi{10.3390/fi14020064}
+
+\bibitem{ran2019survey}
+Ran, Y., Zhou, X., Lin, P., Wen, Y., Deng, R.: A {S}urvey of {P}redictive {M}aintenance: {S}ystems, {P}urposes and {A}pproaches (2019). \doi{10.48550/arXiv.1912.07383}
+
+\bibitem{rassolkin2020digital}
+Rassõlkin, A., Rjabtšikov, V., Vaimann, T., Kallaste, A., Kuts, V., Partyshev, A.: Digital {T}win of an {E}lectrical {M}otor {B}ased on {E}mpirical {P}erformance {M}odel. In: 2020 XI Int. Conf. Electr. Power Drive Syst. pp.~1--4 (2020). \doi{10.1109/ICEPDS47235.2020.9249366}
+
+\bibitem{reitenbach2020aviation_a}
+Reitenbach, S., Vieweg, M., Becker, R., Hollmann, C., Wolters, F., Schmeink, J., Otten, T., Siggel, M.: Collaborative {A}ircraft {E}ngine {P}reliminary {D}esign using a {V}irtual {E}ngine {P}latform, {P}art {A}: {A}rchitecture and {M}ethodology p.~0867 (2020). \doi{10.2514/6.2020-0867}
+
+\bibitem{ritto2021digital}
+Ritto, T., Rochinha, F.: Digital twin, physics-based model, and machine learning applied to damage detection in structures. Mech. Syst. Signal Process.  \textbf{155},  107614 (2021). \doi{10.1016/j.ymssp.2021.107614}
+
+\bibitem{roy2020digital}
+Roy, R.B., Mishra, D., Pal, S.K., Chakravarty, T., Panda, S., Chandra, M.G., Pal, A., Misra, P., Chakravarty, D., Misra, S.: Digital twin: Current scenario and a case study on a manufacturing process. Int. J. Adv. Manuf. Technol.  \textbf{107},  3691--3714 (2020). \doi{10.1007/s00170-020-05306-w}
+
+\bibitem{SAKIB2018267}
+Sakib, N., Wuest, T.: Challenges and {O}pportunities of {C}ondition-based {P}redictive {M}aintenance: A {R}eview. Procedia CIRP  \textbf{78},  267--272 (2018). \doi{10.1016/j.procir.2018.08.318}
+
+\bibitem{sepe2021physics}
+Sepe, M., Graziano, A., Badora, M., Di~Stazio, A., Bellani, L., Compare, M., Zio, E.: {A physics-informed machine learning framework for predictive maintenance applied to turbomachinery assets}. J. Global Power Propul. Soc. pp. 1--15 (2021). \doi{10.33737/jgpps/134845}
+
+\bibitem{serradilla2022deep}
+Serradilla, O., Zugasti, E., Rodriguez, J., Zurutuza, U.: Deep learning models for predictive maintenance: A survey, comparison, challenges and prospects. Appl. Intell.  \textbf{52}(10),  10934--10964 (2022). \doi{10.1007/s10489-021-03004-y}
+
+\bibitem{short2019pumping}
+Short, M., Twiddle, J.: An {I}ndustrial {D}igitalization {P}latform for {C}ondition {M}onitoring and {P}redictive {M}aintenance of {P}umping {E}quipment. Sens.  \textbf{19}(17), ~3781 (2019). \doi{10.3390/s19173781}
+
+\bibitem{shukla2020opportunities}
+Shukla, B., Fan, I.S., Jennions, I.: Opportunities for {E}xplainable {A}rtificial {I}ntelligence in {A}erospace {P}redictive {M}aintenance. In: Progn. Health Manage. Soci. Eur. Conf. vol.~5, pp. 1--11 (2020). \doi{10.36001/phme.2020.v5i1.1231}
+
+\bibitem{singh2021twin}
+Singh, M., Fuenmayor, E., Hinchy, E., Qiao, Y., Murray, N., Devine, D.: Digital twin: Origin to future. Appl. Syst. Innovation  \textbf{4}(2), ~36 (May 2021). \doi{10.3390/asi4020036}
+
+\bibitem{singh2018engineering}
+Singh, V., Willcox, K.E.: Engineering design with digital thread. AIAA J.  \textbf{56}(11),  4515--4528 (2018). \doi{10.2514/1.J057255}
+
+\bibitem{sommer2019automatic}
+Sommer, M., Stjepandi{\'c}, J., Stobrawa, S., von Soden, M.: Automatic generation of digital twin based on scanning and object recognition. In: Transdisciplinary Eng. Complex Socio-Tech. Syst., pp. 645--654. IOS Press (2019). \doi{10.3233/ATDE190174}
+
+\bibitem{sommerville2009deriving}
+Sommerville, I., Lock, R., Storer, T., Dobson, J.: Deriving {I}nformation {R}equirements from {R}esponsibility {M}odels. In: van Eck, P., Gordijn, J., Wieringa, R. (eds.) Adv. Inf. Syst. Eng. pp. 515--529 (2009). \doi{10.1007/978-3-642-02144-2\_40}
+
+\bibitem{stojanovic2018towards}
+Stojanovic, V., Trapp, M., Richter, R., Hagedorn, B., D{\"o}llner, J.: Towards the generation of digital twins for facility management based on 3{D} point clouds. Manage.  \textbf{270}, ~279 (2018)
+
+\bibitem{TAO2018169}
+Tao, F., Zhang, M., Liu, Y., Nee, A.: Digital twin driven prognostics and health management for complex equipment. CIRP Ann.  \textbf{67}(1),  169--172 (2018). \doi{10.1016/j.cirp.2018.04.055}
+
+\bibitem{tuegel2011reengineering}
+Tuegel, E.J., Ingraffea, A.R., Eason, T.G., Spottswood, S.M.: Reengineering aircraft structural life prediction using a digital twin. Int. J. Aerosp. Eng.  \textbf{2011} (2011). \doi{10.1155/2011/154798}
+
+\bibitem{tygesen2019state}
+Tygesen, U.T., Worden, K., Rogers, T., Manson, G., Cross, E.J.: {State-of-the-Art and Future Directions for Predictive Modelling of Offshore Structure Dynamics Using Machine Learning}. In: Pakzad, S. (ed.) Dyn. Civ. Struct., Vol. 2. pp. 223--233 (2019). \doi{10.1007/978-3-319-74421-6\_30}
+
+\bibitem{urbas2021machine}
+Urbas, U., Zorko, D., Vukašinović, N.: Machine learning based nominal root stress calculation model for gears with a progressive curved path of contact. Mech. Mach. Theory  \textbf{165},  104430 (2021). \doi{10.1016/j.mechmachtheory.2021.104430}
+
+\bibitem{vathoopan2018modular}
+Vathoopan, M., Johny, M., Zoitl, A., Knoll, A.: Modular fault ascription and corrective maintenance using a digital twin. IFAC-PapersOnLine  \textbf{51}(11),  1041--1046 (2018). \doi{10.1016/j.ifacol.2018.08.470}
+
+\bibitem{venkatesan2019health}
+Venkatesan, S., Manickavasagam, K., Tengenkai, N., Vijayalakshmi, N.: Health monitoring and prognosis of electric vehicle motor using intelligent-digital twin. IET Electr. Power Appl.  \textbf{13}(9),  1328--1335 (2019). \doi{10.1049/iet-epa.2018.5732}
+
+\bibitem{vieweg2020aviation_b}
+Vieweg, M., Reitenbach, S., Hollmann, C., Schnös, M., Behrendt, T., Krumme, A., Otten, T., zu~Ummeln, R.M.: Collaborative aircraft engine preliminary design using a virtual engine platform, part b: Application p.~0124 (2020). \doi{10.2514/6.2020-0124}
+
+\bibitem{viola2020digital}
+Viola, J., Chen, Y.: Digital twin enabled smart control engineering as an industrial {AI}: A new framework and case study. In: 2020 2nd Int. Conf. Ind. Artif. Intell. pp.~1--6. IEEE (2020). \doi{10.1109/IAI50351.2020.9262203}
+
+\bibitem{vollert2021interpretable}
+Vollert, S., Atzmueller, M., Theissler, A.: Interpretable machine learning: A brief survey from the predictive maintenance perspective. In: 2021 26th IEEE Int. Conf. Emerging Technol. Factory Autom. pp.~1--8 (2021). \doi{10.1109/ETFA45728.2021.9613467}
+
+\bibitem{wang2022digital}
+Wang, J., Li, Y., Huang, Z., Qiao, Q.: Digital twin-driven fault diagnosis service of rotating machinery. In: Digital Twin Driven Serv., pp. 119--138. Elsevier (2022). \doi{10.1016/B978-0-323-91300-3.00004-8}
+
+\bibitem{wang2021machine}
+Wang, K.J., Lee, Y.H., Angelica, S.: Digital twin design for real-time monitoring – a case study of die cutting machine. Int. J. Prod. Res.  \textbf{59}(21),  6471--6485 (2021). \doi{10.1080/00207543.2020.1817999}
+
+\bibitem{wang2022structural}
+Wang, M., Feng, S., Incecik, A., Kr{\'o}lczyk, G., Li, Z.: Structural fatigue life prediction considering model uncertainties through a novel digital twin-driven approach. Comput. Methods Appl. Mech. Eng.  \textbf{391},  114512 (2022). \doi{10.1016/j.cma.2021.114512}
+
+\bibitem{wang2019adaptive}
+Wang, S., Tuor, T., Salonidis, T., Leung, K.K., Makaya, C., He, T., Chan, K.: Adaptive federated learning in resource constrained edge computing systems. IEEE J. Sel. Areas Commun.  \textbf{37}(6),  1205--1221 (2019). \doi{10.1109/JSAC.2019.2904348}
+
+\bibitem{wang2020life}
+Wang, T., Liu, Z., Liao, M., Mrad, N.: Life prediction for aircraft structure based on {B}ayesian inference: towards a digital twin ecosystem. In: Annu. Conf. PHM Soc. vol.~12, pp.~8--8 (2020). \doi{10.36001/phmconf.2020.v12i1.1261}
+
+\bibitem{wen2022recent}
+Wen, Y., {Fashiar Rahman}, M., Xu, H., Tseng, T.L.B.: Recent advances and trends of predictive maintenance from data-driven machine prognostics perspective. Meas.  \textbf{187},  110276 (2022). \doi{10.1016/j.measurement.2021.110276}
+
+\bibitem{werner2019twin}
+Werner, A., Zimmermann, N., Lentes, J.: Approach for a holistic predictive maintenance strategy by incorporating a digital twin. Procedia Manuf.  \textbf{39},  1743--1751 (2019). \doi{10.1016/j.promfg.2020.01.265}
+
+\bibitem{wu2023high}
+Wu, Z.Y., Chew, A., Meng, X., Cai, J., Pok, J., Kalfarisi, R., Lai, K.C., Hew, S.F., Wong, J.J.: {High Fidelity Digital Twin-Based Anomaly Detection and Localization for Smart Water Grid Operation Management}. Sustainable Cities Soc.  \textbf{91},  104446 (2023). \doi{10.1016/j.scs.2023.104446}
+
+\bibitem{xiong2021digital}
+Xiong, M., Wang, H., Fu, Q., Xu, Y.: Digital twin--driven aero-engine intelligent predictive maintenance. Int. J. Adv. Manuf. Technol.  \textbf{114}(11),  3751--3761 (2021). \doi{10.1007/s00170-021-06976-w}
+
+\bibitem{xu2019twin}
+Xu, Y., Sun, Y., Liu, X., Zheng, Y.: {A Digital-Twin-Assisted Fault Diagnosis Using Deep Transfer Learning}. IEEE Access  \textbf{7},  19990--19999 (2019). \doi{10.1109/ACCESS.2018.2890566}
+
+\bibitem{xue2020lidar}
+Xue, F., Lu, W., Chen, Z., Webster, C.J.: {From LiDAR point cloud towards digital twin city: Clustering city objects based on Gestalt principles}. ISPRS J. Photogramm. Remote Sens.  \textbf{167},  418--431 (2020). \doi{10.1016/j.isprsjprs.2020.07.020}
+
+\bibitem{ye2020digital}
+Ye, Y., Yang, Q., Yang, F., Huo, Y., Meng, S.: Digital twin for the structural health management of reusable spacecraft: A case study. Eng. Fract. Mech.  \textbf{234},  107076 (2020). \doi{https://doi.org/10.1016/j.engfracmech.2020.107076}
+
+\bibitem{yu2021digital}
+Yu, J., Song, Y., Tang, D., Dai, J.: A digital twin approach based on nonparametric {B}ayesian network for complex system health monitoring. J. Manuf. Syst.  \textbf{58},  293--304 (2021). \doi{https://doi.org/10.1016/j.jmsy.2020.07.005}
+
+\bibitem{zhang2022highly}
+Zhang, J., Li, S., Zhao, Z., Gao, Y., Liu, D., Wang, J., Wang, Z.L.: Highly sensitive three-dimensional scanning triboelectric sensor for digital twin applications. Nano Energy  \textbf{97},  107198 (2022). \doi{10.1016/j.nanoen.2022.107198}
+
+\bibitem{zhang2019fast}
+Zhang, J., Chauhan, S.: Fast explicit dynamics finite element algorithm for transient heat transfer. Int. J. Therm. Sci.  \textbf{139},  160--175 (2019). \doi{10.1016/j.ijthermalsci.2019.01.030}
+
+\bibitem{zhang2017modeling}
+Zhang, Q., Zhang, X., Xu, W., Liu, A., Zhou, Z., Pham, D.T.: Modeling of digital twin workshop based on perception data. In: Int. Conf. Intell. Rob. Appl. pp. 3--14. Springer (2017). \doi{10.1007/978-3-319-65298-6\_1}
+
+\end{thebibliography}

@@ -1,0 +1,967 @@
+{
+  "total": 1490,
+  "offset": 0,
+  "next": 30,
+  "data": [
+    {
+      "paperId": "f6b4ea98586d5cd0bf1f6f88889171b1d01a4f86",
+      "url": "https://www.semanticscholar.org/paper/f6b4ea98586d5cd0bf1f6f88889171b1d01a4f86",
+      "title": "Understanding small\u2010scale private forest owners is a basis for transformative change towards integrative conservation",
+      "venue": "People and Nature",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.10579",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/pan3.10579?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/pan3.10579, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "15899096",
+          "name": "M. Tiebel"
+        },
+        {
+          "authorId": "31406167",
+          "name": "A. M\u00f6lder"
+        },
+        {
+          "authorId": "9990393",
+          "name": "C. Bieling"
+        },
+        {
+          "authorId": "2280500151",
+          "name": "Peter Hansen"
+        },
+        {
+          "authorId": "2260365809",
+          "name": "T. Plieninger"
+        }
+      ],
+      "abstract": "\n\n\nBalancing societal demands on forests is a major challenge in current forest management. Small\u2010scale private forest owners are an important ownership group that is rarely addressed directly in this discussion. Our study aims to identify and differentiate between private forest owner groups. Based on this, we take a systemic approach and determine leverage points that can be used to foster transformative change towards integrative conservation\u2010oriented forest management.\n\nWe conducted a survey of 1656 small\u2010scale private forest owners in northwest Germany within a typical European multi\u2010ownership landscape and formed three clusters based on their activities.\n\nWhile all groups generally perceived nature conservation as important, they differed with regard to their forest management activities. Multiple\u2010use\u2010oriented forest owners (45%) were most active, including in terms of conservation measures. Conservation\u2010oriented owners (25%) mainly focused on passive measures, and conventional owners (30%) showed only a little engagement with conservation\u2010related activities. Despite the differences, common instruments promoting conservation activities were identified. They included, for example on\u2010site consultation, information about legal regulations and financial incentives.\n\nBased on four system characteristics (parameters, feedback, design and intent), we identified leverage points towards transformative change. The deep and thus effective leverage points are changing the discourse, accounting for the heterogeneity of private forest owners as well as for uncertainty related to climate change and adapting measures to local contexts. Furthermore, working towards increasing awareness, knowledge and interest as well as accounting for the desire for autonomy and control are promising pathways for change.\n\nA holistic transformation of forest policy and management towards integrative conservation is urgently needed to meet the current challenges of climate change, biodiversity loss and timber demand. This transformation has to go beyond the adaptation of existing policy instruments and instead focus on systematic and cross\u2010sectoral changes in the underlying policy orientation, its design and its implementation.\n\nRead the free Plain Language Summary for this article on the Journal blog."
+    },
+    {
+      "paperId": "2f1b31b12bd96e289c54bdd1f902e2873cd8e8fe",
+      "url": "https://www.semanticscholar.org/paper/2f1b31b12bd96e289c54bdd1f902e2873cd8e8fe",
+      "title": "Comparative Analysis of the Use Egalitarian and Utilitarian Approaches in the Freight Transportation Optimization Problem",
+      "venue": "International Conference on Industrial Engineering, Applications and Manufacturing",
+      "year": 2021,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIEAM51226.2021.9446374?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIEAM51226.2021.9446374, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "104403589",
+          "name": "V. Bogachev"
+        },
+        {
+          "authorId": "96981719",
+          "name": "A. Kravets"
+        },
+        {
+          "authorId": "152463105",
+          "name": "T. Bogachev"
+        }
+      ],
+      "abstract": "A general approach to the organization and cargo flows management in regional multimodal transport and technological systems is developed. It has the features of multiagent, if we consider participants in the transportation process as agents. In this work, these agents are the client (consignor, cargo owner), carrier, infrastructure owner, operator company (rolling stock owner), as well as the contractor for reconstruction of transport infrastructure facilities. The general methodological basis when setting the multi-criteria optimization problem (with temporary objective functions, in this case) are the main principles of egalitarianism and utilitarianism used in the welfare theory. In the developed optimization algorithm, along with transport components, the production component is also considered. In the optimization process, indicators which take into account the implementation of reconstruction work on the railway loop sections are used. The object of research is a part of the loop North-Caucasian Railway, which serves as a transport platform for a developed market of export grain transportation to the ports of the Azov-Black Sea basin. Computational procedures implementing the developed optimization algorithms are performed in the Maxima environment."
+    },
+    {
+      "paperId": "e934527b4e612c8b1407698e2ba47cbf16ab68e2",
+      "url": "https://www.semanticscholar.org/paper/e934527b4e612c8b1407698e2ba47cbf16ab68e2",
+      "title": "Promoting Landscape-Level Forest Management in Fire-Prone Areas: Delegate Management to a Multi-Owner Collaborative, Rent the Land, or Just Sell It?",
+      "venue": "Forests",
+      "year": 2021,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1999-4907/13/1/22/pdf?version=1640337577",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/f13010022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/f13010022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "29615488",
+          "name": "A. Martins"
+        },
+        {
+          "authorId": "47968552",
+          "name": "Ana Novais"
+        },
+        {
+          "authorId": "46375575",
+          "name": "J. L. Santos"
+        },
+        {
+          "authorId": "114872459",
+          "name": "M. Canadas"
+        }
+      ],
+      "abstract": "Forest management at the landscape level is a requirement for reducing wildfire hazard. In contexts where non-industrial private forest ownership prevails, the collaboration among multiple owners has been proposed as the way forward to reach consistent fuel management at that level. The current literature has been focused on identifying the factors that lead to collaboration among owners. In this study we explored other ways to reach landscape-level management in addition to the collaborative way, such as those that may be promoted through land renting or selling. Different contexts and owner types may require different solutions. Thus, we explicitly asked which alternative would be chosen by a given forest owner, from the following set: keeping individual management, entering a multi-owner collaborative arrangement where they delegate management, renting to a pulp company; or selling the land. In a context of small-scale ownership and high recurrence of wildfires in Portugal, a face-to-face survey was carried out to a sample of landowners. Our results suggest that there is not an a priori generalized unwillingness of owners to delegate management, rent or sell the land and thus they seem prone to align themselves with policy strategies to promote management at the landscape level. Multinomial logit regression modelling allowed us to explain and predict owners\u2019 choices among the aforementioned set of alternative management options. We found that choosing multi-ownership collaboration, as opposed to keeping current individual management, is associated with passive management under harsher conditions, by non-residents without bonding capital. The identified factors of owners\u2019 choices show the limited scope of tenancy and land-market mechanisms to promote landscape-level management. The best policy option was found to depend on the owner profiles prevailing in the target area. This suggests that studying the existing context and owner types is required to design effective policies."
+    },
+    {
+      "paperId": "4d85c33776cf0026e2f68557350b4c639120e4f3",
+      "url": "https://www.semanticscholar.org/paper/4d85c33776cf0026e2f68557350b4c639120e4f3",
+      "title": "Verifiable Data Sharing Scheme for Dynamic Multi-Owner Setting",
+      "venue": "Advanced Computer Science and Information Technology Trends",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5121/csit.2023.131309",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2308.00239, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work introduces a management entity that combines linear secret-sharing technology, multi-Owner signature generation, and an aggregation technique to allow multi-owner file sharing and analyzes the security of VDS-DM through a security game."
+      },
+      "authors": [
+        {
+          "authorId": "46509258",
+          "name": "Jing Zhao"
+        },
+        {
+          "authorId": "3559080",
+          "name": "Qianqian Su"
+        }
+      ],
+      "abstract": "One of scenarios in data-sharing applications is that files are managed by multiple owners, and the list of file owners may change dynamically. However, most existing solutions to this problem rely on trusted third parties and have complicated signature permission processes, resulting in additional overhead. Therefore, we propose a verifiable data-sharing scheme (VDS-DM) that can support dynamic multi-owner scenarios. We introduce a management entity that combines linear secret-sharing technology, multi-owner signature generation, and an aggregation technique to allow multi-owner file sharing. Without the help of trusted third parties, VDS-DM can update file signatures for dynamically changing file owners, which helps save communication overhead. Moreover, users independently verify the integrity of files without resorting to a third party. We analyze the security of VDS-DM through a security game. Finally, we conduct enough simulation experiments and the outcomes of experimental demonstrate the feasibility of VDS-DM."
+    },
+    {
+      "paperId": "da868e0570d812f29418f7c9147eabed507707e9",
+      "url": "https://www.semanticscholar.org/paper/da868e0570d812f29418f7c9147eabed507707e9",
+      "title": "Cloud based Secure Multi Owner Hospital Management System",
+      "venue": "International Journal of Engineering Research",
+      "year": 2020,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://www.ijert.org/research/cloud-based-secure-multi-owner-hospital-management-system-IJERTV9IS010092.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.17577/IJERTV9IS010092?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17577/IJERTV9IS010092, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Proposed system overcomes certain drawbacks of existing system and allows for multi-hospital appointment booking system, and multiple doctors can share the same patients for treatment."
+      },
+      "authors": [
+        {
+          "authorId": "2265958823",
+          "name": "Omkar Warghade"
+        },
+        {
+          "authorId": "39558227",
+          "name": "A. Jadhav"
+        },
+        {
+          "authorId": "2265958821",
+          "name": "Rupashree Padithurai"
+        },
+        {
+          "authorId": "2208520572",
+          "name": "Swarali Joshi"
+        },
+        {
+          "authorId": "30930778",
+          "name": "R. Patil"
+        }
+      ],
+      "abstract": ":- Nowadays, in the Healthcare sector, digitalization is an essential part of the system. Technology has placed at the disposal of the healthcare community various potent tools to improve patient care. Since e-Health Records are easily available to physicians, they can access complete medical histories of patients and make the most well-considered medical decisions. Still, storing confidential health information to cloud servers is prone to revelation or stealing and necessitates the event of methodologies that ensure the privacy of PHRs. Existing hospital system does not contain multi-hospital appointment booking system. Proposed system overcomes certain drawbacks of existing system. The patients search nearest hospitals on the application and get no of nearest hospitals with their ratings reviews and waiting time. Patients send appointment requests to hospital and get confirmation of the hospital through the message. Multiple doctors can share the same patients for treatment."
+    },
+    {
+      "paperId": "57bb2d9dea1faf7763158eaa2e05c93166ce5d49",
+      "url": "https://www.semanticscholar.org/paper/57bb2d9dea1faf7763158eaa2e05c93166ce5d49",
+      "title": "FingerChain: Copyrighted Multi-Owner Media Sharing by Introducing Asymmetric Fingerprinting Into Blockchain",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "year": 2023,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TNSM.2023.3237685?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TNSM.2023.3237685, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A media sharing blockchain network in which the asymmetric fingerprinting with user-side embedding is introduced, which outperforms the above two blockchain networks in terms of TTP-free and is designed to offer a user-friendly experience and support record traceability."
+      },
+      "authors": [
+        {
+          "authorId": "122813355",
+          "name": "Xiangli Xiao"
+        },
+        {
+          "authorId": "2108051942",
+          "name": "Yushu Zhang"
+        },
+        {
+          "authorId": "2756265",
+          "name": "Youwen Zhu"
+        },
+        {
+          "authorId": "50466696",
+          "name": "Pengfei Hu"
+        },
+        {
+          "authorId": "2182161936",
+          "name": "Xiaochun Cao"
+        }
+      ],
+      "abstract": "Nowadays, more and more people are engaged in media creation and sharing for income. A common way to earn income is to upload media to an intermediary platform and then let the platform distribute some profits. However, intermediary platforms generally not only extract most of the profits, but also lack transparency in their operation, where owners lose direct control over the media. Nevertheless, individual sharing is not feasible for owners because each owner holds too little media to attract enough users independently. Blockchain is a solution to the above problem by gathering media from multiple owners without intermediaries. Though a lot of works have studied the use of blockchain for decentralized management of media data, many of them either did not consider sharing needs or tracing the illegal redistribution by malicious users. As for other works, most of them adopted symmetric digital watermarking in their blockchain networks, and thus fail to protect the rights of users who may be framed by malicious owners. Although asymmetric watermarking has been used by two existing works, the owner-side embedding pattern results in low owner-side efficiency. In view of this, we design a media sharing blockchain network in which the asymmetric fingerprinting (i.e., watermarking) with user-side embedding is introduced. Besides superior owner-side efficiency, our scheme also outperforms the above two ones in terms of TTP-free. Moreover, our scheme is designed to offer a user-friendly experience and support record traceability. The performance of our scheme is verified by both theoretical and experimental evaluations."
+    },
+    {
+      "paperId": "9adfc726f036cec3bb49a985fe1ad44438994f49",
+      "url": "https://www.semanticscholar.org/paper/9adfc726f036cec3bb49a985fe1ad44438994f49",
+      "title": "Issues under the Welfare of Senior Citizens Act and Multi-Family Housing management Act for the management of a sale-type senior housing",
+      "venue": "Korean Institute for Aggregate Buildings Law",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.55029/kabl.2024.51.133?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55029/kabl.2024.51.133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [],
+      "abstract": "In the current situation where the ultra-aged society is becoming a reality, the sale-type senior housing, which was deleted from the Welfare of Senior Citizens Act in 2015, is being re-discussed. Unlike lease-type senior housing, where the ownership of the house belongs to the owner of the facility, sale-type senior housing are owned by the residents. This difference requires appropriate management that is suitable for the characteristics of the senior housing. \nHowever, the current senior housing operation standards under the Welfare of Senior Citizens Act are centered on lease-type senior housing, and are therefore not suitable for sale-type senior housing. Therefore, in order to protect the property rights of owners of sale-type senior housing, it is necessary to find a property management plan through the provisions of Multi-Family Housing management Act. \nSo this study points out the following problems. First, sale-type senior housing, who are the owners, cannot exercise the right to appoint or dismiss managers. Second, the management committee is comprised of the management entity, not the owners, so the voting rights of residents are limited. \nTherefore, in order to overcome the problems of the current Welfare of Senior Citizens Act, the provisions of Multi-Family Housing management Act on management systems are actively utilized to protect the property rights of owners of sale-type senior housing."
+    },
+    {
+      "paperId": "16d89f06c0cd86daa209ece3d666165c225dcc5f",
+      "url": "https://www.semanticscholar.org/paper/16d89f06c0cd86daa209ece3d666165c225dcc5f",
+      "title": "Mistresses of company capital: Female partners in multi-owner firms, Spain (1886\u20131936)",
+      "venue": "Business History",
+      "year": 2020,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/00076791.2018.1551364?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00076791.2018.1551364, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1405083796",
+          "name": "Susana Mart\u00ednez-Rodr\u00edguez"
+        }
+      ],
+      "abstract": "Abstract Contrary to the impression put forth in the literature, Spanish women at the turn of the twentieth century played an active and visible role in the business sphere. Using a unique database containing microdata on the founders of Spanish multi-owner firms from 1886 to 1936, this study analyses the role of female owners and the legal structures that supported their participation in business. In that 50-year period, over 10% of newly registered firms had at least one female owner. Of those owners, 70% were widows. The majority of those women had management responsibilities in their firm. Multi-owner firms with at least one female owner display marked differences, in terms of capital, number of partners, family ties, and management, from those run solely by men."
+    },
+    {
+      "paperId": "78c3f82995e858b5187aed057e2d108c0ec24fef",
+      "url": "https://www.semanticscholar.org/paper/78c3f82995e858b5187aed057e2d108c0ec24fef",
+      "title": "Secure Data Group Sharing and Distribution with Multi-Owner using Multi Cloud Storage Services",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "145110632",
+          "name": "Judith Peters"
+        },
+        {
+          "authorId": "2069758570",
+          "name": "Prof. M. E. Sanap"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b2e4f91f642b9b7adae7f3900cb155b66a6bc753",
+      "url": "https://www.semanticscholar.org/paper/b2e4f91f642b9b7adae7f3900cb155b66a6bc753",
+      "title": "Multi-directional nature of falls among older adults: A rationale for prevention and management",
+      "venue": "Frontiers in Public Health",
+      "year": 2023,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1117863/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9989446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The multi-directional nature of falls among older adults: A rationale for prevention and management is explained."
+      },
+      "authors": [
+        {
+          "authorId": "1410176673",
+          "name": "Matthew Lee Smith"
+        },
+        {
+          "authorId": "1873706",
+          "name": "M. Ory"
+        }
+      ],
+      "abstract": "COPYRIGHT \u00a9 2023 Smith and Ory. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Multi-directional nature of falls among older adults: A rationale for prevention and management"
+    },
+    {
+      "paperId": "aca024e3c7c795bfd5791eb250bbf36c42a8ef49",
+      "url": "https://www.semanticscholar.org/paper/aca024e3c7c795bfd5791eb250bbf36c42a8ef49",
+      "title": "Something went missing: cessation of Traditional Owner land management and rapid mammalian population collapses in the semi-arid region of the Murray\u2013Darling Basin, southeastern Australia",
+      "venue": "Proceedings of the Royal Society of Victoria",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://www.publish.csiro.au/rs/pdf/rs22002",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1071/rs22002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1071/rs22002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "8140799",
+          "name": "I. Mansergh"
+        },
+        {
+          "authorId": "15409401",
+          "name": "D. Cheal"
+        },
+        {
+          "authorId": "49242251",
+          "name": "J. Burch"
+        },
+        {
+          "authorId": "143926407",
+          "name": "H. Allen"
+        }
+      ],
+      "abstract": "The nineteenth century mass mammal extinctions in the semi-arid zone of the Murray\u2012Darling basin, southeastern Australia, are examined in the context of prior traditional land management. A model of grassland dynamics reveals a multi-trophic level productive pulse one to five years post-fire, followed by senescence and increasing flammability. Traditional Owner patch burning of grassland optimized human and mammalian food (including tubers, seeds and fungi) and decreased fire risk. Over at least 40 000 years, the persistence and abundance of fauna responded to this energetically closed self-reinforcing management. In 1830, depopulation (disease, massacres and displacement) effectively ended traditional management, an ecologically traumatic event that extinguished these productivity pulses. Associated mammal populations of c. 20 species collapsed, and all eco-engineering and mycophagous species, such as bilbies, bettongs and bandicoots, rapidly disappeared. Traditional land management increased productivity, habitat heterogeneity and reduced wildfire risk, underpinning mammal abundance. This has remained unrecognized by most mammalogists and land managers. Blaming extinctions predominantly on the additions by Europeans (introduction of ungulates, feral grazers and predators etc.), disastrous as they were, fails to acknowledge the initial cause of rarity, i.e. loss of productivity, habitat and niches when traditional management was subtracted from country. As ecosystems continue to degrade, understanding the primary cause is fundamental to improved management. Although too late for extinct species, respect for, and inclusion of, traditional land management knowledge provides a direction for future land management."
+    },
+    {
+      "paperId": "ed566d4a93a88b896330d83ef7846cd8429ca0ec",
+      "url": "https://www.semanticscholar.org/paper/ed566d4a93a88b896330d83ef7846cd8429ca0ec",
+      "title": "DER Impacts and Equity Considerations for Transmission Assets in a Multi Area Network",
+      "venue": "Green Technologies Conference",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/GreenTech58819.2024.10520394?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GreenTech58819.2024.10520394, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2300481753",
+          "name": "Demy Alexander"
+        },
+        {
+          "authorId": "2300483071",
+          "name": "Nirasha Bataduvaarachchi"
+        },
+        {
+          "authorId": "145468393",
+          "name": "Arun-Kaarthick Manoharan"
+        },
+        {
+          "authorId": "20568015",
+          "name": "Aravinthan Visvakumar"
+        },
+        {
+          "authorId": "2267750311",
+          "name": "Al Tamimi"
+        }
+      ],
+      "abstract": "Due to the rising trend in Distributed Energy Resource (DER) integration it is important to understand the impacts of DER in a multi area network. Transmission line utilization can be altered due to the DER penetration in adjacent areas. These impacts are not considered in traditional transmission planning studies. This paper investigates adjacent area DER impacts on transmission lines from a transmission owner perspective. In order to quantify the transmission line impacts a metric named Performance Index (PI) is developed. Due to the adjacent area DER penetration; over-utilization, under-utilization and no change in utilization of transmission lines were captured using this metric along with their probability of occurrence. The results showed that there can be significant impact on transmission lines in a non-DER area due to the adjacent area DERs. Economic analysis is carried out to capture the loss or benefit in line revenues due to the change in line utilization. The results from the economic analysis also showed that there can be significant impacts in line revenue recovery due to the adjacent area DERs."
+    },
+    {
+      "paperId": "12d98a2f6196235abd07d9778ae740338e4d742e",
+      "url": "https://www.semanticscholar.org/paper/12d98a2f6196235abd07d9778ae740338e4d742e",
+      "title": "SDBE-MOG: Secure Dynamic Bits Encryption for Multi Owner Group Data Sharing in Cloud",
+      "venue": "International Journal of Engineering &amp; Technology",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.14419/ijet.v7i4.19.23206?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14419/ijet.v7i4.19.23206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed multi-owner group management system uses novel scheme GCAURDL-FBS( Group Creation, Add Member, Revocation, Deletion, Login with Forward & Backward Secrecy) to control overall group management and supports data integrity and efficient group member/owner revocation."
+      },
+      "authors": [
+        {
+          "authorId": "50328241",
+          "name": "S. Easwaramoorthy"
+        },
+        {
+          "authorId": "103688147",
+          "name": "Dhivya Subburaman"
+        },
+        {
+          "authorId": "2313549841",
+          "name": "Deepanjali. S"
+        }
+      ],
+      "abstract": "Cloud computing is considered as the cost-efficient and practical resolution for group data sharing within the cloud group members. Unluckily, distributing data in a multi- owner way and defending data with unique privacy in cloud is a challenging issue because of the repeated change or deletion of the members. The proposed multi-owner group management system uses novel scheme GCAURDL-FBS( Group Creation, Add Member, Revocation, Deletion, Login with Forward & Backward Secrecy) to control overall group management. GCAURDL-FBS using SDBAES (Secure Dynamic Bits Advance Encryption Standard) secures the group data sharing. The major objectives of this research is 1) data security, 2) data integrity, 3) data sharing without using secret key re-computation / re-encryption, 4) forward and backward secrecy, 5) proper group owner / member revocation and 6) avoiding collusion attack, brute force attack and Structured Query Language Injection attack. Any member in group can confidently impart their information through entrusted server. Owner / Member revocation is achieved by a novel scheme; it is not necessary to compute/alter the secret keys of other members. The proposed scheme supports data integrity and efficient group member/owner revocation. Ultimately, it is found that, proposed scheme is also secure, scalable and efficient in relative to the relevant schemes. This is revealed in the security and tentative analysis\u00c2\u00a0\u00c2\u00a0"
+    },
+    {
+      "paperId": "c31c80d0a49a6465b2fb4a48e90396dcecc3e89a",
+      "url": "https://www.semanticscholar.org/paper/c31c80d0a49a6465b2fb4a48e90396dcecc3e89a",
+      "title": "Comparative Evaluation Research on the Carrying Capacity of Multi-regional Distribution Network Owner Project Departments Based on Combined Weights",
+      "venue": "E3S Web of Conferences",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.e3s-conferences.org/10.1051/e3sconf/202127101010/pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1051/E3SCONF/202127101010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/E3SCONF/202127101010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This method first combines the current grid companies\u2019 requirements for the construction of the owner\u2019s project department and the current distribution network construction management issues to systematically construct the owner's project department's carrying capacity evaluation index system."
+      },
+      "authors": [
+        {
+          "authorId": "145888041",
+          "name": "Lin Jian"
+        },
+        {
+          "authorId": "2240855428",
+          "name": "Xiaochun Weng"
+        },
+        {
+          "authorId": "2069091685",
+          "name": "Yu Jing"
+        },
+        {
+          "authorId": "2240941091",
+          "name": "Dingwen Yu"
+        },
+        {
+          "authorId": "2241020038",
+          "name": "Zaiwei Zhang"
+        }
+      ],
+      "abstract": "This paper proposes a comparative evaluation method for the carrying capacity of the owner's project department based on combined weights. This method first combines the current grid companies\u2019 requirements for the construction of the owner\u2019s project department and the current distribution network construction management issues to systematically construct the owner\u2019s project department\u2019s carrying capacity evaluation index system. Through comprehensive evaluation and collection of indicator-related data, it is determined based on the coefficient of variation method. The objective weight of the indicator is determined based on the analytic hierarchy process; then the integrated scoring model is used to comprehensively calculate the normalized indicator value and weight value to obtain the evaluation analysis result; finally, the method is verified by empirical analysis Effectiveness."
+    },
+    {
+      "paperId": "9b8dd75bf46720212c448a0f15032e544f60de85",
+      "url": "https://www.semanticscholar.org/paper/9b8dd75bf46720212c448a0f15032e544f60de85",
+      "title": "EKASE: Enhanced KeyAggregate Searchable Encryption for Multi-owner Data Sharing via Cloud",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The security analysis and performance evaluation both confirm that the proposed scheme for data, shared by multi-owners accessed through single trapdoor are secured and practically efficient."
+      },
+      "authors": [
+        {
+          "authorId": "3990834",
+          "name": "S. Brindha"
+        },
+        {
+          "authorId": "9107095",
+          "name": "M. Raghini"
+        },
+        {
+          "authorId": "95258255",
+          "name": "R. Birundha"
+        },
+        {
+          "authorId": "152454320",
+          "name": "V. Hemalatha"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b414e74b8f107d835c199c269504f0877eb549c2",
+      "url": "https://www.semanticscholar.org/paper/b414e74b8f107d835c199c269504f0877eb549c2",
+      "title": "MONA: SECURE MULTI -OWNER DATA SHARING FOR DYNAMIC GROUPS IN THE CLOUD",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The genuine function of this strategy is a secure multi-proprietor data sharing arrangement that any user at intervals the social affair can firmly offer data to others by the untrusted cloud."
+      },
+      "authors": [
+        {
+          "authorId": "73258056",
+          "name": "I. Kalyyanasundar"
+        },
+        {
+          "authorId": "71429149",
+          "name": "J. Gowthamkumar"
+        },
+        {
+          "authorId": "143789218",
+          "name": "R. Sanjay"
+        },
+        {
+          "authorId": "143667267",
+          "name": "Gokula Krishnan."
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "eb2fd06905aac78976714cd30252446bf2da1981",
+      "url": "https://www.semanticscholar.org/paper/eb2fd06905aac78976714cd30252446bf2da1981",
+      "title": "Bedeutung und Management von Cloud Computing, Multi-Cloud und Cloud Brokerage in Unternehmen",
+      "venue": "HMD Praxis der Wirtschaftsinformatik",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1365/s40702-023-00991-z",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1365/s40702-023-00991-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1365/s40702-023-00991-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2073006194",
+          "name": "Jochen G\u00fcnther"
+        },
+        {
+          "authorId": "3369102",
+          "name": "Claus-Peter Praeg"
+        }
+      ],
+      "abstract": "Cloud Computing hat sich in den letzten Jahren dynamisch entwickelt. Eine Vielzahl von Unternehmen nutzen Cloud-basierte L\u00f6sungen f\u00fcr verschiedenste Anwendungszwecke. Die Virtualisierung und Zusammenlegung von IT-Ressourcen wie Speicher, Anwendungen und Servern verbessert die Flexibilit\u00e4t und Verf\u00fcgbarkeit von IT-Services. Dies erm\u00f6glicht eine schnellere und hochverf\u00fcgbare Bereitstellung von digitalen Diensten und Anwendungen sowie eine einfache gemeinsame Nutzung von IT-Innovationen. Der Beitrag hebt die Vorteile des Cloud Computing hervor, darunter schnelle Elastizit\u00e4t, messbarer Service, Ressourcenpooling und Selbstbedienung auf Abruf. Allerdings kann Cloud Computing zu h\u00f6heren Kosten f\u00fchren, insbesondere bei datenintensiven Anwendungen. Dar\u00fcber hinaus m\u00fcssen Cloud-Services in das IT-Service-Management eines Unternehmens integriert werden, um unbeabsichtigte Schatten-IT zu vermeiden und die zunehmende Komplexit\u00e4t bei der Verwaltung externer Service-Provider zu kontrollieren. Etablierte Frameworks f\u00fcr das IT-Service-Management, wie ITIL und COBIT, bieten Referenzprozesse und Managementpraktiken f\u00fcr wertorientierte Ans\u00e4tze. Der Beitrag empfiehlt Unternehmen, ihre Multi-Cloud-Strategie und -Richtlinien zu definieren, die Auswahl von Cloud-Anbietern anhand von gesch\u00e4ftlichen und technischen Kriterien zu priorisieren."
+    },
+    {
+      "paperId": "60cd98f60eb86937d1e6104c7701f7e903c2c5f8",
+      "url": "https://www.semanticscholar.org/paper/60cd98f60eb86937d1e6104c7701f7e903c2c5f8",
+      "title": "Multi-Criteria Decision Analysis in Food Safety Risk Management: The Case of Dioxins in Baltic Fish",
+      "venue": "Foods",
+      "year": 2022,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2304-8158/11/7/1059/pdf?version=1649242525",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8997548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145261432",
+          "name": "B. M. Ali"
+        },
+        {
+          "authorId": "144694375",
+          "name": "M. Andersson"
+        },
+        {
+          "authorId": "40389538",
+          "name": "B. H. van den Borne"
+        },
+        {
+          "authorId": "83005590",
+          "name": "M. Focker"
+        },
+        {
+          "authorId": "2237765485",
+          "name": "H. J. van der Fels-Klerx"
+        }
+      ],
+      "abstract": "The Swedish risk management case of Baltic fatty fishes, in which dioxin levels may be too high, is a typical multidimensional food safety decision problem involving public health, economic, environmental and socio-cultural aspects. To effectively address the dioxin food safety problem, the multiple dimensions and conflicting interests of stakeholders have to be considered systematically when evaluating competing risk management options. The objectives of this study were to illustrate the applicability of the Multi-Criteria Decision Analysis (MCDA) method for multidimensional food safety risk management problems, and to evaluate the Swedish dioxin risk management using MCDA. The results show that the MCDA method is indeed a relevant tool for modelling the multifactorial Swedish dioxin problem and for initiating discussions amongst stakeholders to increase the acceptance of chosen strategies. Abolishing the derogation from the European Commission\u2019s maximum limits for the presence of dioxins in Swedish fish is the dominant strategy for risk assessors, whereas the preferences provided by the other stakeholders would suggest a continuation of the derogation without providing consumer information. However, the preferences of female consumers match with the 2011 decision of the Swedish government to ask for a derogation in combination with consumer information. The conclusion drawn from our MCDA analysis is comparable to the government\u2019s decision that\u2014given the gradual reduction in dioxin concentrations in Baltic fish\u2014the decision to continue providing consumer information or not mainly depends on how risk managers balance the preferences of the different stakeholders."
+    },
+    {
+      "paperId": "6bff545a0d8db9c10b49a196d0e3c8370bc11e50",
+      "url": "https://www.semanticscholar.org/paper/6bff545a0d8db9c10b49a196d0e3c8370bc11e50",
+      "title": "Multi-objective active network management scheme studied in Sundom smart grid with MV and LV network connected DER units",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In this paper, multi-objective ANM scheme is studied by PSCAD simulations during grid-connected operation of Sundom Smart Grid and conclusions are stated related to preventing unwanted MV and LV network reactive power / voltage control interactions and potential mutual effects between voltage (U) and frequency (f) control functions (QU, PU and Pf -control) of DER units which are actively participating on studied multi- objective ANm scheme."
+      },
+      "authors": [
+        {
+          "authorId": "145339097",
+          "name": "H. Laaksonen"
+        },
+        {
+          "authorId": "47918640",
+          "name": "Katja Sirvio"
+        },
+        {
+          "authorId": "2102520596",
+          "name": "Samuli Aflecht"
+        },
+        {
+          "authorId": "30762917",
+          "name": "P. Hovila"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "272401dacef6828e4edfdc8dedc391ca885395d4",
+      "url": "https://www.semanticscholar.org/paper/272401dacef6828e4edfdc8dedc391ca885395d4",
+      "title": "Operation and Coordinated Energy Management in Multi-Microgrids for Improved and Resilient Distributed Energy Resource Integration in Power Systems",
+      "venue": "Electronics",
+      "year": 2024,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2079-9292/13/2/358/pdf?version=1705306158",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/electronics13020358?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/electronics13020358, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "51429056",
+          "name": "Ahmed Aghmadi"
+        },
+        {
+          "authorId": "2256192496",
+          "name": "Osama A. Mohammed"
+        }
+      ],
+      "abstract": "Multi-microgrids (MMGs) revolutionize integrating and managing diverse distributed energy resources (DERs), significantly enhancing the overall efficiency of energy systems. Unlike traditional power systems, MMGs comprise interconnected microgrids that operate independently or collaboratively. This innovative concept adeptly addresses challenges posed by pulsed load effects, capitalizing on the cooperative nature of interconnected microgrids. A coordinated MMG system effectively redistributes and shares the impact of pulsed loads, mitigating voltage fluctuations and ensuring sustained system stability. The proposed cooperative MMG scheme optimizes power distribution and load prioritization, facilitating the seamless allocation of surplus energy from neighboring microgrids to meet sudden surges in demand. This study focuses on DC standalone multi-microgrid systems, showcasing their inherent adaptability, resilience, and operational efficiency in managing pulse, variable, and unpredictable generation deficits. Several experiments on a laboratory-scale DC multi-microgrid validate the system\u2019s robust performance. Notably, transient current fluctuations during pulse loads are promptly stabilized through the effective collaboration of microgrids. Variable load experiments reveal distinct behaviors, shedding light on the profound influence of control strategies. This research reveals the transformative potential of MMGs in addressing energy challenges, with a particular focus on DC standalone multi-microgrid systems. The findings underscore the adaptability and resilience of the proposed cooperative scheme, marking a significant stride in the evolution of modern power systems."
+    },
+    {
+      "paperId": "cb54400b8175c5d7be9c914a16fd8678d68bbfe0",
+      "url": "https://www.semanticscholar.org/paper/cb54400b8175c5d7be9c914a16fd8678d68bbfe0",
+      "title": "Finance-based Scheduling for Cash-flow Management of Maintenance Portfolios: Multi-objective Optimization Approach",
+      "venue": "Decision Making: Applications in Management and Engineering",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://dmame-journal.org/index.php/dmame/article/download/1136/235",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.31181/dmame7220241136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31181/dmame7220241136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "153329561",
+          "name": "A. Fares"
+        },
+        {
+          "authorId": "2616674",
+          "name": "Ashraf Elazouni"
+        },
+        {
+          "authorId": "2304089844",
+          "name": "Mubarak i Al-Alaw"
+        }
+      ],
+      "abstract": "Bridge agencies are often challenged to develop maintenance programs under given budgets. Numerous studies developed budget-allocation models for maintenance programs during defined planning horizons of multiple fiscal years while totally ignoring the crucial aspect of cash flow. The payment schedules (both timing and amount) for contractors might indicate agencies\u2019 cash needs that exceed the available budgets during certain fiscal years, which create cash flow problems. While numerous finance-based scheduling (FBS) models were developed to manage cash flow for contractors, this function was totally overlooked for portfolio owners. Thus, this research reintroduces the FBS from the perspective of portfolio owners. A FBS model is developed to schedule the activities of the portfolio projects, utilize the schedules to define the payment schedules of projects\u2019 contractors, calculate the agencies\u2019 cash needs during the fiscal years, and utilize the multi-objective optimization algorithms of NSGA-II, SPEA-II, and MOPSO to optimize the projects\u2019 schedules to achieve a balance between the cash needs during the fiscal years and the available budgets. The anticipated extensions in projects\u2019 completion represent the conflicting objectives. Finally, the optimized schedules make the contractors\u2019 payment schedules affordable by the agencies\u2019 budgets, which help to complete projects successfully and achieve the programs\u2019 strategic goals."
+    },
+    {
+      "paperId": "b60d57b2fec005c629bcf2eba49b4ddde01ff74e",
+      "url": "https://www.semanticscholar.org/paper/b60d57b2fec005c629bcf2eba49b4ddde01ff74e",
+      "title": "Drivers of facility management strategies used in multi-tenanted office buildings in Ghana",
+      "venue": "Journal of Facilities Management",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1108/jfm-12-2021-0156?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/jfm-12-2021-0156, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2014722288",
+          "name": "Oliver Tannor"
+        },
+        {
+          "authorId": "1422594690",
+          "name": "Elvis Attakora-Amaniampong"
+        },
+        {
+          "authorId": "32513567",
+          "name": "E. Derbile"
+        }
+      ],
+      "abstract": "\nPurpose\nThis study aims to assess the facilities management (FM) strategies used in multi-tenanted purpose-built office buildings (Mt-POBs) in Ghana and the drivers that influence the decision to use such strategies.\n\n\nDesign/methodology/approach\nThis study was conducted via a survey and key informant interviews. The survey was conducted using a questionnaire targeted at 65 multi-tenanted office building owners in the Greater Accra region. The data from the survey revealed the views of building owners on FM strategy and the extent to which 20 facility management decision drivers influenced their decisions to use a particular strategy and the responses were descriptively analysed. The key informant interviews were conducted among six leaders of the property owners\u2019 association who use in-house FM to further understand their perspectives and decisions on using such strategy. The interviews were conducted over telephone using an interview guide and analysed using thematic analysis.\n\n\nFindings\nThe results showed that 88% of Mt-POBs in Ghana are managed in-house. The results also showed that the decision to use the in-house strategy was driven by the innovative, strategic and cost-saving advantages associated with the in-house strategy.\n\n\nOriginality/value\nThis study shows the factors that drive the decision of multi-tenanted office building owners in Ghana to use the in-house strategy. The findings of this study will be useful for prospective owners of office buildings in Ghana.\n"
+    },
+    {
+      "paperId": "28d565cf3548c1401afcaaecc4bc89904aff3f90",
+      "url": "https://www.semanticscholar.org/paper/28d565cf3548c1401afcaaecc4bc89904aff3f90",
+      "title": "Theorizing relational people management in micro enterprises: a multi-theoretical perspective",
+      "venue": "Journal of Work-Applied Management",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://www.emerald.com/insight/content/doi/10.1108/JWAM-02-2022-0008/full/pdf?title=theorizing-relational-people-management-in-micro-enterprises-a-multi-theoretical-perspective",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1108/jwam-02-2022-0008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/jwam-02-2022-0008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "107814710",
+          "name": "G. Nalweyiso"
+        },
+        {
+          "authorId": "71153300",
+          "name": "Samuel Mafabi"
+        },
+        {
+          "authorId": "114812460",
+          "name": "James R. K. Kagaari"
+        },
+        {
+          "authorId": "40106464",
+          "name": "J. Munene"
+        },
+        {
+          "authorId": "115704649",
+          "name": "Ernest Abaho"
+        }
+      ],
+      "abstract": "PurposeThis paper offers a theoretical explanation to a positive story of a micro enterprise found in Uganda, an African developing country that has successfully managed workplace relationships, its survival and good performance. Specifically, the paper examines multiple theories to explain the practice in this enterprise.Design/methodology/approachThe study uses storytelling, a form of narrative inquiry embedded in qualitative methodology. Based on in-depth interviews with the owner-manager and employees, a story was developed detailing their practical experience while focusing on the context, actions, results and lessons.FindingsFindings reveal that micro enterprises that allow free generation of ideas across all levels with optimistic people who reciprocate and work together, create a friendly work atmosphere with support for one another, amicably resolve conflicts and build trust. More so, several theories that include: Social Exchange Theory, Relational Cohesion Theory, Complex Adaptive Systems Theory and Cultural Historical Activity Theory, explain the manifestations of relational people management in micro enterprises.Originality/valueThis paper is unique in its use of a positive story showing a practical experience of how workplace relationships are managed in a micro enterprise found in Uganda, an African developing country. In addition, a multi-theoretical perspective is used to explain the manifestations in the story which may be novel in the study context. Thus, a conceptual model is proposed depicting generalized reciprocity, positive emotions, generative leadership and relational agency as antecedents of relational people management with relational agency again mediating the other relationships."
+    },
+    {
+      "paperId": "d82bea0b4f8fbd9be9fb6ea11490423e0c4d3490",
+      "url": "https://www.semanticscholar.org/paper/d82bea0b4f8fbd9be9fb6ea11490423e0c4d3490",
+      "title": "Multi-Actor DSO-TSO Congestion Management and Voltage Control Coordination with a Two-Level ADMM",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference Europe",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGTEUROPE62998.2024.10863450?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGTEUROPE62998.2024.10863450, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2228138927",
+          "name": "N. C. Martin"
+        },
+        {
+          "authorId": "2256983426",
+          "name": "B. Fanzeres"
+        }
+      ],
+      "abstract": "Massive penetration of distributed energy resources (DERs) along with limitations of the network are increasingly causing congestion or voltage problems in transmission and distribution systems. The interconnectedness of these systems necessitates coordination amongst their operators to assure supply security. This paper proposes a methodology for coordination amongst a Transmission System Operator (TSO) and Distribution System Operators (DSOs) without any hierarchy imposed on the entities. Coordination enables optimal usage of flexibility from Active Distribution Systems (ADSs) by the TSO and mitigation of congestion and voltage problems. This work leverages a two-level Alternating Direction Method of Multipliers (ADMM), which guarantees convergence to an approximate stationary solution for multi-block problems involving multiple actors. Tested on a modified IEEE 118-bus transmission system coupled with IEEE 33-bus active distribution test systems, the benefits of the proposal are demonstrated."
+    },
+    {
+      "paperId": "fb7360a220ec928c4f4941cb4b76164222f61450",
+      "url": "https://www.semanticscholar.org/paper/fb7360a220ec928c4f4941cb4b76164222f61450",
+      "title": "Distributionally Robust Chance-Constrained Energy Management of Multi-Building Residential Apartment Complexes Using Wasserstein Metric",
+      "venue": "2025 IEEE Texas Power and Energy Conference (TPEC)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2412.00875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "37164178",
+          "name": "Hamed Haggi"
+        },
+        {
+          "authorId": "2270362057",
+          "name": "James M. Fenton"
+        }
+      ],
+      "abstract": "The decreasing costs of photovoltaic (PV) systems and battery storage, alongside the rapid rise of electric vehicles (EVs), present a unique opportunity to revolutionize energy use in apartment complexes. Electricity generation using PV and battery systems is currently more cost-effective and environmen-tally friendly than grid power which is often expensive. However, access to fast EV charging infrastructure remains limited in multi-building apartment complexes. To this end, this paper proposed a business model for deploying commercial PV-powered battery storage and EV fast chargers within apartment complexes in Orlando, Florida, operated by complex owners. By modeling the complex as a grid-connected microgrid, it aims to meet resi-dents' energy needs, provide backup power during emergencies, and introduce a profitable business model for property owners. To address PV power uncertainty, a distributionally robust chance-constrained optimization method using the Wasserstein metric is employed, ensuring robust and reliable operation. The techno-economic analysis reveals that EVs powered by PV and batteries are more cost-effective and environmentally friendly than gasoline vehicles and EV owners can save up to $100 per month by saving on fuel costs. The results also show that integrating PV and battery systems reduces operational costs, lowers emissions, increases resilience, and supports EV adoption while offering monetary benefits for property owners. These findings highlight a practical and sustainable framework for advancing clean energy use in residential complexes."
+    },
+    {
+      "paperId": "d144c12b8556eb9a668d817f450010513f3b7e62",
+      "url": "https://www.semanticscholar.org/paper/d144c12b8556eb9a668d817f450010513f3b7e62",
+      "title": "A Multi-Agent Approach for P2P Energy Trading with EV Battery Thermal Profile Management",
+      "venue": "Vehicle Power and Propulsion Conference",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/VPPC55846.2022.10003320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/VPPC55846.2022.10003320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A linear discrete-time model is derived for the cell-level temperature vector and incorporated into the P2P energy trading platform and a multi-period P1P policy is developed to maximize the EV\u2019s owner benefits while preventing battery cells\u2019 temperature from rising too high."
+      },
+      "authors": [
+        {
+          "authorId": "2111007462",
+          "name": "A. Singh"
+        },
+        {
+          "authorId": "2199442825",
+          "name": "L. P. Mohasha Isuru Sampath"
+        },
+        {
+          "authorId": "2153960523",
+          "name": "Dinh Hoa Nguyen"
+        },
+        {
+          "authorId": "33611078",
+          "name": "H. Gooi"
+        },
+        {
+          "authorId": "145562775",
+          "name": "H. Nguyen"
+        }
+      ],
+      "abstract": "This paper explores the possibility of implementing distributed optimization through peer-to-peer energy (P2P) trading platform while keeping the temperature of batteries in electric vehicles below the safe threshold. While most thermal management schemes consider a battery as a point to simplify the computation, this work proposes to model and regulate the battery\u2019s temperature profile over its cells. This more granular access to the battery\u2019s temperature allows for more effective management as the temperature distribution over cells is not homogeneous. As a result, a linear discrete-time model is derived for the cell-level temperature vector and incorporated into the P2P energy trading platform. A multi-period P2P policy is developed to maximize the EV\u2019s owner benefits while preventing battery cells\u2019 temperature from rising too high. Numerical results with a set of 15 agents which are a part of IEEE 33-bus radial distribution test feeder are presented to demonstrate the performance of the proposed algorithm on P2P trading and battery temperatures."
+    },
+    {
+      "paperId": "c88807c23002cbe0bd0c26018a3119450e14d716",
+      "url": "https://www.semanticscholar.org/paper/c88807c23002cbe0bd0c26018a3119450e14d716",
+      "title": "Multi\u2010objective economic/emission optimal energy management system for scheduling micro\u2010grid integrated virtual power plant",
+      "venue": "Energy Science &amp; Engineering",
+      "year": 2022,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.1188",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/ese3.1188?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ese3.1188, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "144660321",
+          "name": "M. Lamari"
+        },
+        {
+          "authorId": "144777746",
+          "name": "Y. Amrane"
+        },
+        {
+          "authorId": "144622320",
+          "name": "M. Boudour"
+        },
+        {
+          "authorId": "3461928",
+          "name": "B. Boussahoua"
+        }
+      ],
+      "abstract": "Due to rapid socioeconomic growth and current environmental concerns, reducing global greenhouse gas emissions is a key step toward sustainable development. In recent years, some researchers have begun to adopt new grid management technologies such as virtual power plants (VPP) that allow them to improve energy management and cost and reduce gas emissions. The integration of distributed energy resources (DER), such as solar photovoltaic and wind power, combined with micro\u2010turbines and energy storage systems and with the support of VPP intelligence, will contribute immensely to improving micro\u2010grids (MGs) energy performance and reducing gas emissions. In this paper, an expert multi\u2010objective feasibility enhanced particle swarm optimization algorithm is adopted for the optimal scheduling of energy management system to reduce the total operating cost and net emission simultaneously. The proposed algorithm is tested on an Algerian reel building\u2010MG integrated VPP with DERs and combined cooling, heat, and power generation. Finally, different cases are simulated for a 24\u2010h time and discussed to demonstrate the validity of the proposed VPP energy system and the effectiveness of the adopted algorithm to reduce gas emissions and the total operating cost."
+    },
+    {
+      "paperId": "d79290e4a51217b29897062940493dd1e3d85e10",
+      "url": "https://www.semanticscholar.org/paper/d79290e4a51217b29897062940493dd1e3d85e10",
+      "title": "Smart Microgrid System Performance Awareness Management using Multi-Stakeholder Techique",
+      "venue": "2024 5th IEEE Global Conference for Advancement in Technology (GCAT)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCAT62922.2024.10923967?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCAT62922.2024.10923967, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "9112529",
+          "name": "R. Hardas"
+        },
+        {
+          "authorId": "2074415945",
+          "name": "D. Biradar"
+        },
+        {
+          "authorId": "2351291730",
+          "name": "Dr. M.R.Tarambale"
+        }
+      ],
+      "abstract": "From a trade and administrative standpoint, a Smart Grid (SG) is emerging as a future power grid that will support a Smart Distribution System. Distribution Networks (DNs) profit economically from Distributed Energy Resources (DERs), notably renewable energy resources (RERs), and electrical policy deregulation. Distribution network planning, construction, operation, and administration have been reevaluated due to multiple-party integration, load management advances, smart appliances, and higher consumer expectations. Distribution automation issues arise from these methods. In this environment, issues include strategic bidding manoeuvres, energy exchange, effective planning and monitoring, and vital protective systems. Distribution networks (DNs) with non-dispatchable players like scattered producing units and consumers with changing loads increase trading and management challenges. This research presented unique smart grid system performance improvements to overcome the limitations of existing smart grid management strategies. This research made two contributions with its cost and energy consumption analysis. We presented a multi-stakeholder method to improve smart microgrid performance in our initial contribution. Few microgrids have more than one operator, owner, and user. We think multi-stakeholder microgrids that use renewable and conventional power sources to combat environmental risks would work best. Stakeholders improve generation source variety, economies of scale, and operational opportunities. The extra stakeholders present governance, financial, and technological issues that may hinder multi-stakeholder adoption. We propose multi-stakeholder microgrids as an environmental solution and examine their development challenges. Simulation results demonstrate the suggested models' efficiency over existing techniques."
+    },
+    {
+      "paperId": "0e782cce38416817b24b9e6e6137310cda4add12",
+      "url": "https://www.semanticscholar.org/paper/0e782cce38416817b24b9e6e6137310cda4add12",
+      "title": "\u201eDer Auftraggeber muss sich vor das Team stellen\u201c. Mark Kreuscher, \u201eProject Owner of the Year\u201c (pma)",
+      "venue": "PROJEKTMANAGEMENT AKTUELL",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.24053/pm-2022-0068?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24053/pm-2022-0068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1687108929",
+          "name": "O. Steeger"
+        }
+      ],
+      "abstract": "Geoinformationssysteme helfen Stadtwerken \u00dcbersicht zu halten. In dem digitalen System ist das st\u00e4dtische Versorgungsnetz detailliert dokumentiert: Stra\u00dfe f\u00fcr Stra\u00dfe, minuti\u00f6s bis zu jeder Leitung und jedem Absperrhahn. In dem System finden Mitarbeiter alle Informationen, um beispielsweise neue Anschl\u00fcsse f\u00fcr Wasser, Strom und Gas zu planen. Das STADTWERK AM SEE (Friedrichshafen und \u00dcberlingen) sieht in seinem Geoinformationssystem einen wichtigen Baustein f\u00fcr digitalisierte Prozesse. \u201eWir m\u00fcssen nicht mehr vor Ort die Sachlage pr\u00fcfen\u201c, sagt Mark Kreuscher, Gesch\u00e4ftsbereichsleiter Netze und Prokurist bei STADTWERK AM SEE GmbH & Co. KG. Das allermeiste wird vom Schreibtisch aus erledigt. K\u00fcrzlich hat das STADTWERK AM SEE sein Geoinformationssystem erneuert. Interner Auftraggeber des Projekts war Mark Kreuscher. W\u00e4hrend der Corona-Pandemie arbeitet er eng mit dem Projektteam zusammen. Vorbildlich, wie die PM-Organisation \u201epma \u2013 Projekt Management Austria\u201c meint. 2021 zeichnete sie Mark Kreuscher aus als \u201eProject Owner of the Year\u201c."
+    },
+    {
+      "paperId": "f975cd05b75c4d8154f4c79957f0255f2dbd845a",
+      "url": "https://www.semanticscholar.org/paper/f975cd05b75c4d8154f4c79957f0255f2dbd845a",
+      "title": "Einfluss des Multiprojektmanagements auf Fabrikziele/Influence of multi-project management on factory goals \u2013 Developing a process model for planning and controlling multi-project environments in factories",
+      "venue": "wt Werkstattstechnik online",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.37544/1436-4980-2022-04-16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37544/1436-4980-2022-04-16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2114520128",
+          "name": "Justin Hook"
+        },
+        {
+          "authorId": "1681043",
+          "name": "P. Nyhuis"
+        },
+        {
+          "authorId": "2055554828",
+          "name": "L. Nielsen"
+        }
+      ],
+      "abstract": "Unternehmen initiieren regelm\u00e4\u00dfig Projekte, um durch st\u00e4ndige Anpassung und Ver\u00e4nderung ihre Wettbewerbsf\u00e4higkeit zu sichern. Zur effizienten Planung und Steuerung der Projekte werden Modelle des Multiprojektmanagements (MPM) eingesetzt. In diesem Beitrag werden Abh\u00e4ngigkeiten zwischen Wirkgr\u00f6\u00dfen solcher Modelle in Form von Stell- und Regelgr\u00f6\u00dfen untersucht, um das MPM um ein Wirkmodell nach dem Vorbild der Produktionsplanung und -steuerung (PPS) erweitern zu k\u00f6nnen.\n \u00a0\n Companies regularly initiate projects to ensure their competitiveness through constant adaptation and change. Multi-project management (MPM) models are used to plan and control projects efficiently. This paper examines dependencies between impact variables and introduces actuating variables and control variables to enable extending MPM by including an impact model, as it is known from production planning and control (PPC)."
+    }
+  ]
+}

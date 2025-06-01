@@ -1,0 +1,304 @@
+\begin{thebibliography}{55}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Caffagni et~al.(2024)Caffagni, Cocchi, Barsellotti, Moratelli, Sarto, Baraldi, Cornia, and Cucchiara]{caffagni2024r}
+Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sarto, Lorenzo Baraldi, Marcella Cornia, and Rita Cucchiara.
+\newblock The (r) evolution of multimodal large language models: A survey.
+\newblock \emph{arXiv preprint arXiv:2402.12451}, 2024.
+
+\bibitem[OpenAI et~al.(2024)OpenAI, Achiam, Adler, Agarwal, et~al.]{openai2024gpt4technicalreport}
+OpenAI, Josh Achiam, Steven Adler, Sandhini Agarwal, et~al.
+\newblock Gpt-4 technical report, 2024.
+\newblock URL \url{https://arxiv.org/abs/2303.08774}.
+
+\bibitem[Gottweis et~al.(2025)Gottweis, Weng, Daryin, Tu, Palepu, Sirkovic, Myaskovsky, Weissenberger, Rong, Tanno, Saab, Popovici, Blum, Zhang, Chou, Hassidim, Gokturk, Vahdat, Kohli, Matias, Carroll, Kulkarni, Tomasev, Guan, Dhillon, Vaishnav, Lee, Costa, Penadés, Peltz, Xu, Pawlosky, Karthikesalingam, and Natarajan]{gottweis2025aicoscientist}
+Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic, Artiom Myaskovsky, Felix Weissenberger, Keran Rong, Ryutaro Tanno, Khaled Saab, Dan Popovici, Jacob Blum, Fan Zhang, Katherine Chou, Avinatan Hassidim, Burak Gokturk, Amin Vahdat, Pushmeet Kohli, Yossi Matias, Andrew Carroll, Kavita Kulkarni, Nenad Tomasev, Yuan Guan, Vikram Dhillon, Eeshit~Dhaval Vaishnav, Byron Lee, Tiago R~D Costa, José~R Penadés, Gary Peltz, Yunhan Xu, Annalisa Pawlosky, Alan Karthikesalingam, and Vivek Natarajan.
+\newblock Towards an ai co-scientist, 2025.
+\newblock URL \url{https://arxiv.org/abs/2502.18864}.
+
+\bibitem[Yang et~al.(2025{\natexlab{a}})Yang, Huang, Qi, Feng, Hu, Zhu, Hu, Zhao, He, Liu, Wang, Qiu, Cao, Cai, Yu, and Zhang]{yang2025whosmvpgametheoreticevaluation}
+Yingxuan Yang, Bo~Huang, Siyuan Qi, Chao Feng, Haoyi Hu, Yuxuan Zhu, Jinbo Hu, Haoran Zhao, Ziyi He, Xiao Liu, Zongyu Wang, Lin Qiu, Xuezhi Cao, Xunliang Cai, Yong Yu, and Weinan Zhang.
+\newblock Who's the mvp? a game-theoretic evaluation benchmark for modular attribution in llm agents, 2025{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2502.00510}.
+
+\bibitem[Guo et~al.(2024)Guo, Chen, Wang, Chang, Pei, Chawla, Wiest, and Zhang]{Guo2024LargeLM}
+Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, N.~Chawla, Olaf Wiest, and Xiangliang Zhang.
+\newblock Large language model based multi-agents: A survey of progress and challenges.
+\newblock In \emph{International Joint Conference on Artificial Intelligence}, 2024.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:267412980}.
+
+\bibitem[Zhou et~al.(2024)Zhou, Yang, Wen, Wen, Wang, Xi, Xu, Yu, and Zhang]{zhou2024tradenhancingllmagents}
+Ruiwen Zhou, Yingxuan Yang, Muning Wen, Ying Wen, Wenhao Wang, Chunling Xi, Guoqiang Xu, Yong Yu, and Weinan Zhang.
+\newblock Trad: Enhancing llm agents with step-wise thought retrieval and aligned decision, 2024.
+\newblock URL \url{https://arxiv.org/abs/2403.06221}.
+
+\bibitem[Qu et~al.(2025)Qu, Dai, Wei, Cai, Wang, Yin, Xu, and Wen]{Qu_2025}
+Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, and Ji-rong Wen.
+\newblock Tool learning with large language models: a survey.
+\newblock \emph{Frontiers of Computer Science}, 19\penalty0 (8), January 2025.
+\newblock ISSN 2095-2236.
+\newblock \doi{10.1007/s11704-024-40678-2}.
+\newblock URL \url{http://dx.doi.org/10.1007/s11704-024-40678-2}.
+
+\bibitem[Patil et~al.(2023)Patil, Zhang, Wang, and Gonzalez]{patil2023gorillalargelanguagemodel}
+Shishir~G. Patil, Tianjun Zhang, Xin Wang, and Joseph~E. Gonzalez.
+\newblock Gorilla: Large language model connected with massive apis, 2023.
+\newblock URL \url{https://arxiv.org/abs/2305.15334}.
+
+\bibitem[Liu et~al.(2024)Liu, Hoang, Zhang, Zhu, Lan, Kokane, Tan, Yao, Liu, Feng, Murthy, Yang, Savarese, Niebles, Wang, Heinecke, and Xiong]{liu2024apigenautomatedpipelinegenerating}
+Zuxin Liu, Thai Hoang, Jianguo Zhang, Ming Zhu, Tian Lan, Shirley Kokane, Juntao Tan, Weiran Yao, Zhiwei Liu, Yihao Feng, Rithesh Murthy, Liangwei Yang, Silvio Savarese, Juan~Carlos Niebles, Huan Wang, Shelby Heinecke, and Caiming Xiong.
+\newblock Apigen: Automated pipeline for generating verifiable and diverse function-calling datasets, 2024.
+\newblock URL \url{https://arxiv.org/abs/2406.18518}.
+
+\bibitem[Rajaei(2024)]{Multi-Agent-as-a-Service}
+Saman Rajaei.
+\newblock Multi-agent-as-a-service — a senior engineer’s overview.
+\newblock \url{https://medium.com/data-science/multi-agent-as-a-service-a-senior-engineers-overview-fc759f5bbcfa}, 2024.
+
+\bibitem[Yang et~al.(2024)Yang, Peng, Wang, Wen, and Zhang]{yang2024llmbasedmultiagentsystemstechniques}
+Yingxuan Yang, Qiuying Peng, Jun Wang, Ying Wen, and Weinan Zhang.
+\newblock Llm-based multi-agent systems: Techniques and business perspectives, 2024.
+\newblock URL \url{https://arxiv.org/abs/2411.14033}.
+
+\bibitem[Chen et~al.(2024)Chen, You, Li, Guan, Qian, Zhao, Yang, Xie, Liu, and Sun]{chen2024internet}
+Weize Chen, Ziming You, Ran Li, Yitong Guan, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, and Maosong Sun.
+\newblock Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence.
+\newblock \emph{arXiv preprint arXiv:2407.07061}, 2024.
+
+\bibitem[Yang et~al.(2025{\natexlab{b}})Yang, Chai, Shao, Song, Qi, Rui, and Zhang]{yang2025agentnetdecentralizedevolutionarycoordination}
+Yingxuan Yang, Huacan Chai, Shuai Shao, Yuanyi Song, Siyuan Qi, Renting Rui, and Weinan Zhang.
+\newblock Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems, 2025{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/2504.00587}.
+
+\bibitem[Anthropic(2024)]{anthropic2025}
+Anthropic.
+\newblock Model context protocol, 2024.
+\newblock URL \url{https://www.anthropic.com/news/model-context-protocol}.
+\newblock Accessed: 2025-04-19.
+
+\bibitem[Chang(2024)]{anp2024}
+Gaowei Chang.
+\newblock Anp: Agent network protocol, 2024.
+\newblock URL \url{https://www.agent-network-protocol.com/}.
+\newblock Accessed: 2025-04-21.
+
+\bibitem[Google(2025)]{a2a2025}
+Google.
+\newblock A2a: Agent2agent protocol, 2025.
+\newblock URL \url{https://github.com/google/A2A}.
+\newblock Accessed: 2025-04-21.
+
+\bibitem[Yao et~al.(2022)]{yao2022react}
+Shinnung Yao et~al.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock \emph{arXiv preprint arXiv:2210.03629}, 2022.
+
+\bibitem[Tang et~al.(2023)Tang, Li, Chen, Lin, and Zhang]{autogpt}
+Tao Tang, Zhihui Li, Jiangjie Chen, Mingyu Lin, and Wei Zhang.
+\newblock Autogpt: An autonomous gpt-4 experiment.
+\newblock \emph{arXiv preprint arXiv:2308.08155}, 2023.
+
+\bibitem[Hong et~al.(2024)Hong, Wang, Yang, Guo, Chen, and Li]{hong2024metagpt}
+Sirui Hong, Xiawu Wang, Mingyu Yang, Jiale Guo, Di~Chen, and Bingchen Li.
+\newblock Metagpt: Meta programming for multi-agent collaborative framework.
+\newblock \emph{arXiv preprint arXiv:2401.03066}, 2024.
+
+\bibitem[Zhao et~al.(2025)Zhao, Zhou, Li, Tang, Wang, Hou, Min, Zhang, Zhang, Dong, Du, Yang, Chen, Chen, Jiang, Ren, Li, Tang, Liu, Liu, Nie, and Wen]{zhao2025surveylargelanguagemodels}
+Wayne~Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, and Ji-Rong Wen.
+\newblock A survey of large language models, 2025.
+\newblock URL \url{https://arxiv.org/abs/2303.18223}.
+
+\bibitem[Yin et~al.(2024)Yin, Fu, Zhao, Li, Sun, Xu, and Chen]{Yin_2024}
+Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke~Li, Xing Sun, Tong Xu, and Enhong Chen.
+\newblock A survey on multimodal large language models.
+\newblock \emph{National Science Review}, 11\penalty0 (12), November 2024.
+\newblock ISSN 2053-714X.
+\newblock \doi{10.1093/nsr/nwae403}.
+\newblock URL \url{http://dx.doi.org/10.1093/nsr/nwae403}.
+
+\bibitem[Zhang et~al.(2024)Zhang, Bo, Ma, Li, Chen, Dai, Zhu, Dong, and Wen]{zhang2024surveymemorymechanismlarge}
+Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu~Chen, Quanyu Dai, Jieming Zhu, Zhenhua Dong, and Ji-Rong Wen.
+\newblock A survey on the memory mechanism of large language model based agents, 2024.
+\newblock URL \url{https://arxiv.org/abs/2404.13501}.
+
+\bibitem[Wang et~al.(2023)Wang, Qin, Li, Zhang, Li, et~al.]{wang2023toolllm}
+Yujia Wang, Yusheng Qin, Haozhe Li, Guan Zhang, Xin Li, et~al.
+\newblock Toolllm: Facilitating large language models to master 16000+ real-world apis.
+\newblock \emph{arXiv preprint arXiv:2307.16789}, 2023.
+
+\bibitem[Schick et~al.(2023)Schick, Dwivedi-Yu, Dessì, Raileanu, Lomeli, Zettlemoyer, Cancedda, and Scialom]{schick2023toolformerlanguagemodelsteach}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
+\newblock Toolformer: Language models can teach themselves to use tools, 2023.
+\newblock URL \url{https://arxiv.org/abs/2302.04761}.
+
+\bibitem[Liu et~al.(2023)Liu, Zhou, Zhang, Peng, et~al.]{liu2023agentbench}
+Xiao Liu, Hao Zhou, Zhiheng Zhang, Dian Peng, et~al.
+\newblock Agentbench: Evaluating llms as agents.
+\newblock \emph{arXiv preprint arXiv:2308.03688}, 2023.
+
+\bibitem[{VentureBeat}(2024)]{microsoft2024agents}
+{VentureBeat}.
+\newblock Microsoft's 10 new ai agents strengthen its enterprise automation lead.
+\newblock \url{https://venturebeat.com/ai/microsofts-10-new-ai-agents-strengthen-its-enterprise-automation-lead/}, 2024.
+\newblock Accessed: 2024-04-23.
+
+\bibitem[{IBM Newsroom}(2024)]{ibm2024agent}
+{IBM Newsroom}.
+\newblock Ibm introduces new ai integration services to help enterprises build and scale ai.
+\newblock \url{https://newsroom.ibm.com/blog-ibm-introduces-new-ai-integration-services-to-help-enterprises-build-and-scale-ai}, 2024.
+\newblock Accessed: 2024-04-23.
+
+\bibitem[{TrustedBy.ai}(2024)]{trustedby2024coze}
+{TrustedBy.ai}.
+\newblock Comparing 9 ai agent development platforms: Dify, coze, adept, kognitos, flowise, articul8, stack ai.
+\newblock \url{https://trustedby.ai/blog/comparing-9-ai-agent-development-platforms-dify-coze-adept-kognitos-flowise-articul8-stack-ai}, 2024.
+\newblock Accessed: 2024-04-23.
+
+\bibitem[Jaech et~al.(2024)Jaech, Kalai, Lerer, Richardson, El-Kishky, Low, Helyar, Madry, Beutel, Carney, et~al.]{jaech2024openai}
+Aaron Jaech, Adam Kalai, Adam Lerer, Adam Richardson, Ahmed El-Kishky, Aiden Low, Alec Helyar, Aleksander Madry, Alex Beutel, Alex Carney, et~al.
+\newblock Openai o1 system card.
+\newblock \emph{arXiv preprint arXiv:2412.16720}, 2024.
+
+\bibitem[{LangChain}(2024)]{langchain2024langgraph}
+{LangChain}.
+\newblock Langgraph: Building graph-based agent workflows.
+\newblock \url{https://www.langchain.com/langgraph}, 2024.
+\newblock Accessed: 2024-04-23.
+
+\bibitem[{Microsoft Learn}(2024)]{microsoft2024semantic}
+{Microsoft Learn}.
+\newblock Semantic kernel agent framework.
+\newblock \url{https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/}, 2024.
+\newblock Accessed: 2024-04-23.
+
+\bibitem[Liu et~al.(2025)Liu, Li, Zhang, Wang, He, Hong, Liu, Zhang, Song, Zhu, Cheng, Wang, Wang, Luo, Jin, Zhang, Liu, Chen, Zhang, Yu, Shi, Li, Wu, Teng, Jia, Xu, Xiang, Lin, Liu, Liu, Su, Sun, Berseth, Nie, Foster, Ward, Wu, Gu, Zhuge, Tang, Wang, You, Wang, Pei, Yang, Qi, and Wu]{liu2025advanceschallengesfoundationagents}
+Bang Liu, Xinfeng Li, Jiayi Zhang, Jinlin Wang, Tanjin He, Sirui Hong, Hongzhang Liu, Shaokun Zhang, Kaitao Song, Kunlun Zhu, Yuheng Cheng, Suyuchen Wang, Xiaoqiang Wang, Yuyu Luo, Haibo Jin, Peiyan Zhang, Ollie Liu, Jiaqi Chen, Huan Zhang, Zhaoyang Yu, Haochen Shi, Boyan Li, Dekun Wu, Fengwei Teng, Xiaojun Jia, Jiawei Xu, Jinyu Xiang, Yizhang Lin, Tianming Liu, Tongliang Liu, Yu~Su, Huan Sun, Glen Berseth, Jianyun Nie, Ian Foster, Logan Ward, Qingyun Wu, Yu~Gu, Mingchen Zhuge, Xiangru Tang, Haohan Wang, Jiaxuan You, Chi Wang, Jian Pei, Qiang Yang, Xiaoliang Qi, and Chenglin Wu.
+\newblock Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.01990}.
+
+\bibitem[WildCardAI(2025)]{agentsjson2025}
+WildCardAI.
+\newblock agents.json specification.
+\newblock \url{https://github.com/wild-card-ai/agents-json}, 2025.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[NEAR(2025)]{aitp}
+NEAR.
+\newblock Aitp: Agent interaction \& transaction protocol, 2025.
+\newblock URL \url{https://aitp.dev/}.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[Al and Data(2025)]{agentcommunicationptl}
+Linux~Foundation Al and LBM Data.
+\newblock Acp: Agent communication protocol, 2025.
+\newblock URL \url{https://github.com/orgs/i-am-bee/discussions/284}.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[Cisco(2025)]{agentconnectptl}
+Galileo Cisco, Langchain.
+\newblock Acp: Agent connect protocol, 2025.
+\newblock URL \url{https://spec.acp.agntcy.org/}.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[Marro et~al.(2024)Marro, Malfa, Wright, Li, Shadbolt, Wooldridge, and Torr]{marro2024scalablecommunicationprotocolnetworks}
+Samuele Marro, Emanuele~La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, and Philip Torr.
+\newblock A scalable communication protocol for networks of large language models, 2024.
+\newblock URL \url{https://arxiv.org/abs/2410.11905}.
+
+\bibitem[Eclipse(2025)]{lmos2025}
+Eclipse.
+\newblock Language model operating system (lmos).
+\newblock \url{https://eclipse.dev/lmos/}, 2025.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[AlEngineerFoundation(2025)]{agentprotocol2025}
+AlEngineerFoundation.
+\newblock Agent protocol.
+\newblock \url{https://agentprotocol.ai/}, 2025.
+\newblock Accessed: 2025-04-22.
+
+\bibitem[Ranjan et~al.(2025)Ranjan, Gupta, and Singh]{ranjan2025lokaprotocoldecentralizedframework}
+Rajesh Ranjan, Shailja Gupta, and Surya~Narayan Singh.
+\newblock Loka protocol: A decentralized framework for trustworthy and ethical ai agent ecosystems, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.10915}.
+
+\bibitem[Srinivasan et~al.(2024)Srinivasan, Bania, V, Mestha, and Liu]{srinivasan2024implementationapplicationintelligibilityprotocol}
+Ashwin Srinivasan, Karan Bania, Shreyas V, Harshvardhan Mestha, and Sidong Liu.
+\newblock Implementation and application of an intelligibility protocol for interaction with an llm, 2024.
+\newblock URL \url{https://arxiv.org/abs/2410.20600}.
+
+\bibitem[Bae et~al.(2025)Bae, Lee, and Jeon]{bae2025continuouslocomotivecrowdbehavior}
+Inhwan Bae, Junoh Lee, and Hae-Gon Jeon.
+\newblock Continuous locomotive crowd behavior generation, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.04756}.
+
+\bibitem[Gąsieniec et~al.(2024)Gąsieniec, Łukasz Kuszner, Latif, Parasuraman, Spirakis, and Stachowiak]{gąsieniec2024anonymousdistributedlocalisationspatial}
+Leszek Gąsieniec, Łukasz Kuszner, Ehsan Latif, Ramviyas Parasuraman, Paul Spirakis, and Grzegorz Stachowiak.
+\newblock Anonymous distributed localisation via spatial population protocols, 2024.
+\newblock URL \url{https://arxiv.org/abs/2411.08434}.
+
+\bibitem[Stone and Veloso(2000)]{stone2000multiagent}
+Peter Stone and Manuela Veloso.
+\newblock Multiagent systems: A survey from a machine learning perspective.
+\newblock \emph{Autonomous Robots}, 8:\penalty0 345--383, 2000.
+
+\bibitem[Dorri et~al.(2018)Dorri, Kanhere, and Jurdak]{dorri2018multi}
+Ali Dorri, Salil~S Kanhere, and Raja Jurdak.
+\newblock Multi-agent systems: A survey.
+\newblock \emph{Ieee Access}, 6:\penalty0 28573--28593, 2018.
+
+\bibitem[Gilbert(2019)]{gilbert2019agent}
+Nigel Gilbert.
+\newblock \emph{Agent-based models}.
+\newblock Sage Publications, 2019.
+
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Xia, Chi, Le, Zhou, et~al.]{wei2022chain}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed~Chi, Quoc~V Le, Denny Zhou, et~al.
+\newblock Chain-of-thought prompting elicits reasoning in large language models.
+\newblock \emph{Advances in neural information processing systems}, 35:\penalty0 24824--24837, 2022.
+
+\bibitem[Collins et~al.(2022)Collins, Wong, Feng, Wei, and Tenenbaum]{collins2022structuredflexiblerobustbenchmarking}
+Katherine~M. Collins, Catherine Wong, Jiahai Feng, Megan Wei, and Joshua~B. Tenenbaum.
+\newblock Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks, 2022.
+\newblock URL \url{https://arxiv.org/abs/2205.05718}.
+
+\bibitem[Pyatkin et~al.(2022)Pyatkin, Hwang, Srikumar, Lu, Jiang, Choi, and Bhagavatula]{pyatkin2022reinforced}
+Valentina Pyatkin, Jena~D Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi, and Chandra Bhagavatula.
+\newblock Reinforced clarification question generation with defeasibility rewards for disambiguating social and moral situations.
+\newblock \emph{arXiv preprint arXiv:2212.10409}, 2022.
+
+\bibitem[Zhong and Wang(2023)]{zhong2023study}
+Li~Zhong and Zilong Wang.
+\newblock A study on robustness and reliability of large language model code generation.
+\newblock \emph{arXiv preprint arXiv:2308.10335}, 2, 2023.
+
+\bibitem[Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, Chen, et~al.]{hu2022lora}
+Edward~J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu~Wang, Weizhu Chen, et~al.
+\newblock Lora: Low-rank adaptation of large language models.
+\newblock \emph{ICLR}, 1\penalty0 (2):\penalty0 3, 2022.
+
+\bibitem[Liu et~al.(2022)Liu, Dou, Zhang, Zhang, and Zong]{liu2022multi}
+Da~Liu, Liqian Dou, Ruilong Zhang, Xiuyun Zhang, and Qun Zong.
+\newblock Multi-agent reinforcement learning-based coordinated dynamic task allocation for heterogenous uavs.
+\newblock \emph{IEEE Transactions on Vehicular Technology}, 72\penalty0 (4):\penalty0 4372--4383, 2022.
+
+\bibitem[Jiang et~al.(2018)Jiang, Ghadikolaei, Fodor, Modiano, Pang, Zorzi, and Fischione]{jiang2018lowlatencynetworkinglatencylurks}
+Xiaolin Jiang, Hossein~S. Ghadikolaei, Gabor Fodor, Eytan Modiano, Zhibo Pang, Michele Zorzi, and Carlo Fischione.
+\newblock Low-latency networking: Where latency lurks and how to tame it, 2018.
+\newblock URL \url{https://arxiv.org/abs/1808.02079}.
+
+\bibitem[Fuller and Li(1993)]{fuller1993classless}
+V.~Fuller and T.~Li.
+\newblock Classless inter-domain routing (cidr): an address assignment and aggregation strategy.
+\newblock Technical report, 1993.
+
+\bibitem[Zhang et~al.(2021)Zhang, Xie, Bai, Yu, Li, and Gao]{zhang2021survey}
+Chen Zhang, Yu~Xie, Hang Bai, Bin Yu, Weihong Li, and Yuan Gao.
+\newblock A survey on federated learning.
+\newblock \emph{Knowledge-Based Systems}, 216:\penalty0 106775, 2021.
+
+\end{thebibliography}

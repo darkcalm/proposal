@@ -1,0 +1,473 @@
+\begin{thebibliography}{48}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Albagli et~al.(2016)Albagli, Falcão \& de~Rezende}]{HLAarch}
+\bibinfo{author}{Albagli, A.~N.}, \bibinfo{author}{Falcão, D.~M.}, \&
+  \bibinfo{author}{de~Rezende, J.~F.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{Smart grid framework co-simulation using hla
+  architecture}.
+\newblock {\it \bibinfo{journal}{Electric Power Systems Research}\/},  {\it
+  \bibinfo{volume}{130}\/}, \bibinfo{pages}{22 -- 33}.
+%Type = Inproceedings
+\bibitem[{Amin(2008)}]{Amin2008}
+\bibinfo{author}{Amin, M.} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Challenges in reliability, security, efficiency, and
+  resilience of energy infrastructure: Toward smart self-healing electric power
+  grid}.
+\newblock In {\it \bibinfo{booktitle}{2008 IEEE Power and energy society
+  general meeting-conversion and delivery of electrical energy in the 21st
+  century}\/} (pp. \bibinfo{pages}{1--5}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Arksey \& O'Malley(2005)}]{ref:arksey2005-scoping}
+\bibinfo{author}{Arksey, H.}, \& \bibinfo{author}{O'Malley, L.}
+  (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{Scoping studies: towards a methodological framework}.
+\newblock {\it \bibinfo{journal}{International Journal of Social Research
+  Methodology}\/},  {\it \bibinfo{volume}{8}\/}, \bibinfo{pages}{19--32}.
+%Type = Techreport
+\bibitem[{Arnold et~al.(2010)Arnold, Wollman, FitzPatrick, Prochaska, Holmberg,
+  Su, Hefner~Jr, Golmie, Brewer, Bello et~al.}]{NIST2010}
+\bibinfo{author}{Arnold, G.~W.}, \bibinfo{author}{Wollman, D.~A.},
+  \bibinfo{author}{FitzPatrick, G.~J.}, \bibinfo{author}{Prochaska, D.},
+  \bibinfo{author}{Holmberg, D.~G.}, \bibinfo{author}{Su, D.~H.},
+  \bibinfo{author}{Hefner~Jr, A.~R.}, \bibinfo{author}{Golmie, N.~T.},
+  \bibinfo{author}{Brewer, T.~L.}, \bibinfo{author}{Bello, M.} et~al.
+  (\bibinfo{year}{2010}).
+\newblock {\it \bibinfo{title}{NIST Framework and Roadmap for Smart Grid
+  Interoperability Standards, Release 1.0}\/}.
+\newblock \bibinfo{type}{Technical Report}.
+%Type = Inproceedings
+\bibitem[{Aurilio et~al.(2014)Aurilio, Gallo, Landi, Luiso \&
+  Graditi}]{ref:aurilio2014low}
+\bibinfo{author}{Aurilio, G.}, \bibinfo{author}{Gallo, D.},
+  \bibinfo{author}{Landi, C.}, \bibinfo{author}{Luiso, M.}, \&
+  \bibinfo{author}{Graditi, G.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{A low cost smart meter network for a smart utility}.
+\newblock In {\it \bibinfo{booktitle}{2014 IEEE International Instrumentation
+  and Measurement Technology Conference (I2MTC) Proceedings}\/} (pp.
+  \bibinfo{pages}{380--385}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Inproceedings
+\bibitem[{Barn et~al.(2017)Barn, Barat \& Clark}]{ref:barn2017conductingsms}
+\bibinfo{author}{Barn, B.}, \bibinfo{author}{Barat, S.}, \&
+  \bibinfo{author}{Clark, T.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Conducting systematic literature reviews and
+  systematic mapping studies}.
+\newblock In {\it \bibinfo{booktitle}{10th Innovations in Software Engineering
+  Conference}\/} (pp. \bibinfo{pages}{212--213}).
+\newblock \bibinfo{organization}{ACM}.
+%Type = Inproceedings
+\bibitem[{{Beidou} et~al.(2010){Beidou}, {Morsi}, {Diduch} \&
+  {Chang}}]{Beidou2010}
+\bibinfo{author}{{Beidou}, F.~B.}, \bibinfo{author}{{Morsi}, W.~G.},
+  \bibinfo{author}{{Diduch}, C.~P.}, \& \bibinfo{author}{{Chang}, L.}
+  (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{Smart grid: Challenges, research directions and
+  possible solutions}.
+\newblock In {\it \bibinfo{booktitle}{The 2nd International Symposium on Power
+  Electronics for Distributed Generation Systems}\/} (pp.
+  \bibinfo{pages}{670--673}).
+%Type = Inproceedings
+\bibitem[{Besanger et~al.(2017)Besanger, Tran, Boudinnet, Nguyen, Brandl,
+  Strasser et~al.}]{ref:besanger2017using}
+\bibinfo{author}{Besanger, Y.}, \bibinfo{author}{Tran, Q.~T.},
+  \bibinfo{author}{Boudinnet, C.}, \bibinfo{author}{Nguyen, T.~L.},
+  \bibinfo{author}{Brandl, R.}, \bibinfo{author}{Strasser, T.~I.} et~al.
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Using power-hardware-in-the-loop experiments together
+  with co-simulation for the holistic validation of cyber-physical energy
+  systems}.
+\newblock In {\it \bibinfo{booktitle}{Innovative Smart Grid Technologies
+  Conference Europe (ISGT-Europe), 2017 IEEE PES}\/} (pp.
+  \bibinfo{pages}{1--6}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Inproceedings
+\bibitem[{Blochwitz et~al.(2011)Blochwitz, Otter, Arnold, Bausch, Clau{\ss},
+  Elmqvist, Junghanns, Mauss, Monteiro, Neidhold
+  et~al.}]{ref:blochwitz2011functional}
+\bibinfo{author}{Blochwitz, T.}, \bibinfo{author}{Otter, M.},
+  \bibinfo{author}{Arnold, M.}, \bibinfo{author}{Bausch, C.},
+  \bibinfo{author}{Clau{\ss}, C.}, \bibinfo{author}{Elmqvist, H.},
+  \bibinfo{author}{Junghanns, A.}, \bibinfo{author}{Mauss, J.},
+  \bibinfo{author}{Monteiro, M.}, \bibinfo{author}{Neidhold, T.} et~al.
+  (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{The functional mockup interface for tool independent
+  exchange of simulation models}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the 8th International
+  Modelica Conference}\/} (pp. \bibinfo{pages}{105--114}).
+\newblock \bibinfo{organization}{Link{\"o}ping University Press}.
+%Type = Article
+\bibitem[{Bruinenberg et~al.(2012)}]{ref:bruin2012sgam}
+\bibinfo{author}{Bruinenberg, J.} et~al. (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{Smart grid reference architecture}.
+\newblock {\it \bibinfo{journal}{CEN, CENELEC, ETSI, Tech. Rep}\/}, .
+%Type = Inproceedings
+\bibitem[{Buscher et~al.(2015)Buscher, Lehnhoff, Rohjans, Andr{\'e}n \&
+  Strasser}]{ref:buscher2015using}
+\bibinfo{author}{Buscher, M.}, \bibinfo{author}{Lehnhoff, S.},
+  \bibinfo{author}{Rohjans, S.}, \bibinfo{author}{Andr{\'e}n, F.}, \&
+  \bibinfo{author}{Strasser, T.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Using large-scale local and cross-location
+  experiments for smart grid system validation}.
+\newblock In {\it \bibinfo{booktitle}{Industrial Electronics Society, IECON
+  2015-41st Annual Conference of the IEEE}\/} (pp.
+  \bibinfo{pages}{004621--004626}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Techreport
+\bibitem[{Camus et~al.(2016)Camus, Paris, Vaubourg, Presse, Bourjot, Ciarletta
+  \& Chevrier}]{ref:camus2016mecsyco}
+\bibinfo{author}{Camus, B.}, \bibinfo{author}{Paris, T.},
+  \bibinfo{author}{Vaubourg, J.}, \bibinfo{author}{Presse, Y.},
+  \bibinfo{author}{Bourjot, C.}, \bibinfo{author}{Ciarletta, L.}, \&
+  \bibinfo{author}{Chevrier, V.} (\bibinfo{year}{2016}).
+\newblock {\it \bibinfo{title}{{MECSYCO: a Multi-agent DEVS Wrapping Platform
+  for the Co-simulation of Complex Systems}}\/}.
+\newblock \bibinfo{type}{Research Report} {LORIA, UMR 7503, Universit{\'e} de
+  Lorraine, CNRS, Vandoeuvre-l{\`e}s-Nancy ; Inria Nancy - Grand Est
+  (Villers-l{\`e}s-Nancy, France)}.
+%Type = Article
+\bibitem[{Cintuglu et~al.(2017)Cintuglu, Mohammed, Akkaya \&
+  Uluagac}]{ref:cintuglu2017survey}
+\bibinfo{author}{Cintuglu, M.~H.}, \bibinfo{author}{Mohammed, O.~A.},
+  \bibinfo{author}{Akkaya, K.}, \& \bibinfo{author}{Uluagac, A.~S.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{A survey on smart grid cyber-physical system
+  testbeds}.
+\newblock {\it \bibinfo{journal}{IEEE Communications Surveys \& Tutorials}\/},
+  {\it \bibinfo{volume}{19}\/}, \bibinfo{pages}{446--464}.
+%Type = Inproceedings
+\bibitem[{Ciraci et~al.(2014)Ciraci, Daily, Fuller, Fisher, Marinovici \&
+  Agarwal}]{ref:ciraci2014fncs}
+\bibinfo{author}{Ciraci, S.}, \bibinfo{author}{Daily, J.},
+  \bibinfo{author}{Fuller, J.}, \bibinfo{author}{Fisher, A.},
+  \bibinfo{author}{Marinovici, L.}, \& \bibinfo{author}{Agarwal, K.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{Fncs: a framework for power system and communication
+  networks co-simulation}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the symposium on theory of
+  modeling \& simulation-DEVS integrative}\/} (p.~\bibinfo{pages}{36}).
+\newblock \bibinfo{organization}{Society for Computer Simulation
+  International}.
+%Type = Inproceedings
+\bibitem[{{\'E}vora~G{\'o}mez et~al.(2019){\'E}vora~G{\'o}mez,
+  Hern{\'a}ndez~Cabrera, Tavella, Vialle, Kremers \&
+  Frayssinet}]{ref:evora2019daccosim}
+\bibinfo{author}{{\'E}vora~G{\'o}mez, J.},
+  \bibinfo{author}{Hern{\'a}ndez~Cabrera, J.~J.}, \bibinfo{author}{Tavella,
+  J.-P.}, \bibinfo{author}{Vialle, S.}, \bibinfo{author}{Kremers, E.}, \&
+  \bibinfo{author}{Frayssinet, L.} (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{Daccosim ng: co-simulation made simpler and faster}.
+\newblock In {\it \bibinfo{booktitle}{Link{\"o}ping electronic conference
+  proceedings}\/}.
+%Type = Article
+\bibitem[{Fang et~al.(2011)Fang, Misra, Xue \& Yang}]{ref:fang2011smart}
+\bibinfo{author}{Fang, X.}, \bibinfo{author}{Misra, S.}, \bibinfo{author}{Xue,
+  G.}, \& \bibinfo{author}{Yang, D.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Smart grid—the new and improved power grid: A
+  survey}.
+\newblock {\it \bibinfo{journal}{IEEE communications surveys \& tutorials}\/},
+  {\it \bibinfo{volume}{14}\/}, \bibinfo{pages}{944--980}.
+%Type = Inproceedings
+\bibitem[{Galtier et~al.(2015)Galtier, Vialle, Dad, Tavella, Lam-Yee-Mui \&
+  Plessis}]{ref:galtier2015fmi}
+\bibinfo{author}{Galtier, V.}, \bibinfo{author}{Vialle, S.},
+  \bibinfo{author}{Dad, C.}, \bibinfo{author}{Tavella, J.-P.},
+  \bibinfo{author}{Lam-Yee-Mui, J.-P.}, \& \bibinfo{author}{Plessis, G.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Fmi-based distributed multi-simulation with
+  daccosim}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the Symposium on Theory of
+  Modeling \& Simulation: DEVS Integrative M\&S Symposium}\/} (pp.
+  \bibinfo{pages}{39--46}).
+%Type = Inproceedings
+\bibitem[{Georg et~al.(2013)Georg, M{\"u}ller, Dorsch, Rehtanz \&
+  Wietfeld}]{ref:georg2013inspire}
+\bibinfo{author}{Georg, H.}, \bibinfo{author}{M{\"u}ller, S.~C.},
+  \bibinfo{author}{Dorsch, N.}, \bibinfo{author}{Rehtanz, C.}, \&
+  \bibinfo{author}{Wietfeld, C.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{Inspire: Integrated co-simulation of power and ict
+  systems for real-time evaluation}.
+\newblock In {\it \bibinfo{booktitle}{2013 IEEE International Conference on
+  Smart Grid Communications (SmartGridComm)}\/} (pp.
+  \bibinfo{pages}{576--581}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Book
+\bibitem[{Goel et~al.(2015)Goel, Hong, Papakonstantinou \&
+  Kloza}]{goel2015smart}
+\bibinfo{author}{Goel, S.}, \bibinfo{author}{Hong, Y.},
+  \bibinfo{author}{Papakonstantinou, V.}, \& \bibinfo{author}{Kloza, D.}
+  (\bibinfo{year}{2015}).
+\newblock {\it \bibinfo{title}{Smart grid security}\/}.
+\newblock \bibinfo{publisher}{Springer}.
+%Type = Article
+\bibitem[{Gomes et~al.(2017)Gomes, Thule, Broman, Larsen \&
+  Vangheluwe}]{ref:gomes2017co-sim-survey}
+\bibinfo{author}{Gomes, C.}, \bibinfo{author}{Thule, C.},
+  \bibinfo{author}{Broman, D.}, \bibinfo{author}{Larsen, P.~G.}, \&
+  \bibinfo{author}{Vangheluwe, H.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Co-simulation: State of the art}.
+\newblock {\it \bibinfo{journal}{arXiv preprint arXiv:1702.00686}\/}, .
+%Type = Article
+\bibitem[{Gomes et~al.(2018)Gomes, Thule, Broman, Larsen \&
+  Vangheluwe}]{ref:gomes2018co-sim-survey-acm}
+\bibinfo{author}{Gomes, C.}, \bibinfo{author}{Thule, C.},
+  \bibinfo{author}{Broman, D.}, \bibinfo{author}{Larsen, P.~G.}, \&
+  \bibinfo{author}{Vangheluwe, H.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Co-simulation: a survey}.
+\newblock {\it \bibinfo{journal}{ACM Computing Surveys (CSUR)}\/},  {\it
+  \bibinfo{volume}{51}\/}, \bibinfo{pages}{49}.
+%Type = Article
+\bibitem[{Hopkinson et~al.(2006)Hopkinson, Wang, Giovanini, Thorp, Birman \&
+  Coury}]{ref:hopkinson2006epochs}
+\bibinfo{author}{Hopkinson, K.}, \bibinfo{author}{Wang, X.},
+  \bibinfo{author}{Giovanini, R.}, \bibinfo{author}{Thorp, J.},
+  \bibinfo{author}{Birman, K.}, \& \bibinfo{author}{Coury, D.}
+  (\bibinfo{year}{2006}).
+\newblock \bibinfo{title}{Epochs: a platform for agent-based electric power and
+  communication simulation built from commercial off-the-shelf components}.
+\newblock {\it \bibinfo{journal}{IEEE Transactions on Power Systems}\/},  {\it
+  \bibinfo{volume}{21}\/}, \bibinfo{pages}{548--558}.
+%Type = Article
+\bibitem[{Hwang et~al.(2017)Hwang, Choi, Lee, Jeon, Kim, Park \&
+  Park}]{ref:hwang2017energy}
+\bibinfo{author}{Hwang, J.}, \bibinfo{author}{Choi, M.-i.},
+  \bibinfo{author}{Lee, T.}, \bibinfo{author}{Jeon, S.}, \bibinfo{author}{Kim,
+  S.}, \bibinfo{author}{Park, S.}, \& \bibinfo{author}{Park, S.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Energy prosumer business model using blockchain
+  system to ensure transparency and safety}.
+\newblock {\it \bibinfo{journal}{Energy Procedia}\/},  {\it
+  \bibinfo{volume}{141}\/}, \bibinfo{pages}{194--198}.
+%Type = Article
+\bibitem[{IEEE(2010)}]{IEEEHLA3}
+\bibinfo{author}{IEEE} (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{Ieee standard for modeling and simulation (m\&s) high
+  level architecture (hla)-- framework and rules - redline}.
+\newblock {\it \bibinfo{journal}{IEEE Std 1516-2010 (Revision of IEEE Std
+  1516-2000) - Redline}\/},  (pp. \bibinfo{pages}{1--38}).
+%Type = Book
+\bibitem[{Law et~al.(2000)Law, Kelton \& Kelton}]{ref:law2000simulation}
+\bibinfo{author}{Law, A.~M.}, \bibinfo{author}{Kelton, W.~D.}, \&
+  \bibinfo{author}{Kelton, W.~D.} (\bibinfo{year}{2000}).
+\newblock {\it \bibinfo{title}{Simulation modeling and analysis}\/}
+  volume~\bibinfo{volume}{3}.
+\newblock \bibinfo{publisher}{McGraw-Hill New York}.
+%Type = Inproceedings
+\bibitem[{Li et~al.(2011)Li, Monti, Luo \& Dougal}]{ref:li2011vpnet}
+\bibinfo{author}{Li, W.}, \bibinfo{author}{Monti, A.}, \bibinfo{author}{Luo,
+  M.}, \& \bibinfo{author}{Dougal, R.~A.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Vpnet: A co-simulation framework for analyzing
+  communication channel effects on power systems}.
+\newblock In {\it \bibinfo{booktitle}{2011 IEEE Electric Ship Technologies
+  Symposium}\/} (pp. \bibinfo{pages}{143--149}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Li \& Zhang(2014)}]{ref:li2014simulation-review}
+\bibinfo{author}{Li, W.}, \& \bibinfo{author}{Zhang, X.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{Simulation of the smart grid communications:
+  Challenges, techniques, and future trends}.
+\newblock {\it \bibinfo{journal}{Computers \& Electrical Engineering}\/},  {\it
+  \bibinfo{volume}{40}\/}, \bibinfo{pages}{270--288}.
+%Type = Article
+\bibitem[{Li et~al.(2014)Li, Zhang \& Li}]{ref:li2014cosim-platforms-review}
+\bibinfo{author}{Li, W.}, \bibinfo{author}{Zhang, X.}, \& \bibinfo{author}{Li,
+  H.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{Co-simulation platforms for co-design of networked
+  control systems: An overview}.
+\newblock {\it \bibinfo{journal}{Control Engineering Practice}\/},  {\it
+  \bibinfo{volume}{23}\/}, \bibinfo{pages}{44--56}.
+%Type = Article
+\bibitem[{Lin et~al.(2012)Lin, Veda, Shukla, Mili \& Thorp}]{ref:lin2012geco}
+\bibinfo{author}{Lin, H.}, \bibinfo{author}{Veda, S.~S.},
+  \bibinfo{author}{Shukla, S.~S.}, \bibinfo{author}{Mili, L.}, \&
+  \bibinfo{author}{Thorp, J.} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{Geco: Global event-driven co-simulation framework for
+  interconnected power system and communication network}.
+\newblock {\it \bibinfo{journal}{IEEE Transactions on Smart Grid}\/},  {\it
+  \bibinfo{volume}{3}\/}, \bibinfo{pages}{1444--1456}.
+%Type = Article
+\bibitem[{Luo et~al.(2018)Luo, Dong, Liang, Murata \&
+  Xu}]{ref:luo2018distributed}
+\bibinfo{author}{Luo, F.}, \bibinfo{author}{Dong, Z.~Y.},
+  \bibinfo{author}{Liang, G.}, \bibinfo{author}{Murata, J.}, \&
+  \bibinfo{author}{Xu, Z.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{A distributed electricity trading system in active
+  distribution networks based on multi-agent coalition and blockchain}.
+\newblock {\it \bibinfo{journal}{IEEE Transactions on Power Systems}\/}, .
+%Type = Article
+\bibitem[{Mets et~al.(2014)Mets, Ojea \& Develder}]{ref:mets2014combining}
+\bibinfo{author}{Mets, K.}, \bibinfo{author}{Ojea, J.~A.}, \&
+  \bibinfo{author}{Develder, C.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{Combining power and communication network simulation
+  for cost-effective smart grid analysis}.
+\newblock {\it \bibinfo{journal}{IEEE Communications Surveys \& Tutorials}\/},
+  {\it \bibinfo{volume}{16}\/}, \bibinfo{pages}{1771--1796}.
+%Type = Article
+\bibitem[{Mirkovic \& Benzel(2012)}]{ref:mirkovic2012teaching}
+\bibinfo{author}{Mirkovic, J.}, \& \bibinfo{author}{Benzel, T.}
+  (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{Teaching cybersecurity with deterlab}.
+\newblock {\it \bibinfo{journal}{IEEE Security \& Privacy}\/},  {\it
+  \bibinfo{volume}{10}\/}, \bibinfo{pages}{73--76}.
+%Type = Inproceedings
+\bibitem[{Mohd et~al.(2008)Mohd, Ortjohann, Schmelter, Hamsic \& Morton}]{Mohd}
+\bibinfo{author}{Mohd, A.}, \bibinfo{author}{Ortjohann, E.},
+  \bibinfo{author}{Schmelter, A.}, \bibinfo{author}{Hamsic, N.}, \&
+  \bibinfo{author}{Morton, D.} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Challenges in integrating distributed energy storage
+  systems into future smart grid}.
+\newblock In {\it \bibinfo{booktitle}{2008 IEEE international symposium on
+  industrial electronics}\/} (pp. \bibinfo{pages}{1627--1632}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Nouidui et~al.(2019)Nouidui, Coignard, Gehbauer, Wetter, Joo \&
+  Vrettos}]{ref:nouidui2019cyder}
+\bibinfo{author}{Nouidui, T.~S.}, \bibinfo{author}{Coignard, J.},
+  \bibinfo{author}{Gehbauer, C.}, \bibinfo{author}{Wetter, M.},
+  \bibinfo{author}{Joo, J.-Y.}, \& \bibinfo{author}{Vrettos, E.}
+  (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{Cyder – an fmi-based co-simulation platform for
+  distributed energy resources}.
+\newblock {\it \bibinfo{journal}{Journal of Building Performance
+  Simulation}\/},  {\it \bibinfo{volume}{12}\/}, \bibinfo{pages}{566--579}.
+%Type = Inproceedings
+\bibitem[{Palmintier et~al.(2017)Palmintier, Krishnamurthy, Top, Smith, Daily
+  \& Fuller}]{ref:palmintier2017design}
+\bibinfo{author}{Palmintier, B.}, \bibinfo{author}{Krishnamurthy, D.},
+  \bibinfo{author}{Top, P.}, \bibinfo{author}{Smith, S.},
+  \bibinfo{author}{Daily, J.}, \& \bibinfo{author}{Fuller, J.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Design of the helics high-performance
+  transmission-distribution-communication-market co-simulation framework}.
+\newblock In {\it \bibinfo{booktitle}{2017 Workshop on Modeling and Simulation
+  of Cyber-Physical Energy Systems (MSCPES)}\/} (pp. \bibinfo{pages}{1--6}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Inproceedings
+\bibitem[{Petersen et~al.(2008)Petersen, Feldt, Mujtaba \&
+  Mattsson}]{ref:petersen2008systematic}
+\bibinfo{author}{Petersen, K.}, \bibinfo{author}{Feldt, R.},
+  \bibinfo{author}{Mujtaba, S.}, \& \bibinfo{author}{Mattsson, M.}
+  (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Systematic mapping studies in software engineering.}
+\newblock In {\it \bibinfo{booktitle}{EASE}\/} (pp. \bibinfo{pages}{68--77}).
+\newblock volume~\bibinfo{volume}{8}.
+%Type = Inproceedings
+\bibitem[{Schloegl et~al.(2015)Schloegl, Rohjans, Lehnhoff, Velasquez,
+  Steinbrink \& Palensky}]{ref:schloegl2015towards}
+\bibinfo{author}{Schloegl, F.}, \bibinfo{author}{Rohjans, S.},
+  \bibinfo{author}{Lehnhoff, S.}, \bibinfo{author}{Velasquez, J.},
+  \bibinfo{author}{Steinbrink, C.}, \& \bibinfo{author}{Palensky, P.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Towards a classification scheme for co-simulation
+  approaches in energy systems}.
+\newblock In {\it \bibinfo{booktitle}{Smart Electric Distribution Systems and
+  Technologies (EDST), 2015 International Symposium on}\/} (pp.
+  \bibinfo{pages}{516--521}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Schvarcbacher et~al.(2018)Schvarcbacher, Hrabovská, Rossi \&
+  Pitner}]{ref:schvar2018SGTMP}
+\bibinfo{author}{Schvarcbacher, M.}, \bibinfo{author}{Hrabovská, K.},
+  \bibinfo{author}{Rossi, B.}, \& \bibinfo{author}{Pitner, T.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Smart grid testing management platform (sgtmp)}.
+\newblock {\it \bibinfo{journal}{Applied Sciences}\/},  {\it
+  \bibinfo{volume}{8}\/}.
+%Type = Inproceedings
+\bibitem[{Schvarcbacher \& Rossi(2017)}]{094-Schvarcbacher2017-SmartGridsCo}
+\bibinfo{author}{Schvarcbacher, M.}, \& \bibinfo{author}{Rossi, B.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Smart Grids Co-Simulations with Low-Cost Hardware}}.
+\newblock In {\it \bibinfo{booktitle}{2017 43rd Euromicro Conference on
+  Software Engineering and Advanced Applications (SEAA)}\/} (pp.
+  \bibinfo{pages}{252--255}).
+%Type = Inproceedings
+\bibitem[{{Schütte} et~al.(2011){Schütte}, {Scherfke} \&
+  {Tröschel}}]{HLAarch2}
+\bibinfo{author}{{Schütte}, S.}, \bibinfo{author}{{Scherfke}, S.}, \&
+  \bibinfo{author}{{Tröschel}, M.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Mosaik: A framework for modular simulation of active
+  components in smart grids}.
+\newblock In {\it \bibinfo{booktitle}{2011 IEEE First International Workshop on
+  Smart Grid Modeling and Simulation (SGMS)}\/} (pp. \bibinfo{pages}{55--60}).
+%Type = Article
+\bibitem[{Steinbrink et~al.(2018{\natexlab{a}})Steinbrink, van~der Meer,
+  Cvetkovic, Babazadeh, Rohjans, Palensky \&
+  Lehnhoff}]{104-Steinbrink2018-Smartgridco}
+\bibinfo{author}{Steinbrink, C.}, \bibinfo{author}{van~der Meer, A.~A.},
+  \bibinfo{author}{Cvetkovic, M.}, \bibinfo{author}{Babazadeh, D.},
+  \bibinfo{author}{Rohjans, S.}, \bibinfo{author}{Palensky, P.}, \&
+  \bibinfo{author}{Lehnhoff, S.} (\bibinfo{year}{2018}{\natexlab{a}}).
+\newblock \bibinfo{title}{{Smart grid co-simulation with MOSAIK and HLA: a
+  comparison study}}.
+\newblock {\it \bibinfo{journal}{Computer Science - Research and
+  Development}\/},  {\it \bibinfo{volume}{33}\/}, \bibinfo{pages}{135--143}.
+%Type = Inproceedings
+\bibitem[{Steinbrink et~al.(2018{\natexlab{b}})Steinbrink, Schl{\"o}gl,
+  Babazadeh, Lehnhoff, Rohjans \& Narayan}]{ref:steinbrink2018future}
+\bibinfo{author}{Steinbrink, C.}, \bibinfo{author}{Schl{\"o}gl, F.},
+  \bibinfo{author}{Babazadeh, D.}, \bibinfo{author}{Lehnhoff, S.},
+  \bibinfo{author}{Rohjans, S.}, \& \bibinfo{author}{Narayan, A.}
+  (\bibinfo{year}{2018}{\natexlab{b}}).
+\newblock \bibinfo{title}{Future perspectives of co-simulation in the smart
+  grid domain}.
+\newblock In {\it \bibinfo{booktitle}{2018 IEEE International Energy Conference
+  (Energycon)}\/} (pp. \bibinfo{pages}{1--6}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Vogt et~al.(2018)Vogt, Marten \& Braun}]{ref:vogt2018survey}
+\bibinfo{author}{Vogt, M.}, \bibinfo{author}{Marten, F.}, \&
+  \bibinfo{author}{Braun, M.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{A survey and statistical analysis of smart grid
+  co-simulations}.
+\newblock {\it \bibinfo{journal}{Applied Energy}\/},  {\it
+  \bibinfo{volume}{222}\/}, \bibinfo{pages}{67--78}.
+%Type = Inproceedings
+\bibitem[{Vykopal. et~al.(2017)Vykopal., Oslejsek., Celeda., Vizvary. \&
+  Tovarnak.}]{ref:vykopal2017kypo}
+\bibinfo{author}{Vykopal., J.}, \bibinfo{author}{Oslejsek., R.},
+  \bibinfo{author}{Celeda., P.}, \bibinfo{author}{Vizvary., M.}, \&
+  \bibinfo{author}{Tovarnak., D.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Kypo cyber range: Design and use cases}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the 12th International
+  Conference on Software Technologies - Volume 1: ICSOFT,}\/} (pp.
+  \bibinfo{pages}{310--321}).
+\newblock \bibinfo{organization}{INSTICC} \bibinfo{publisher}{SciTePress}.
+%Type = Article
+\bibitem[{Wang \& Lu(2013)}]{Wang2013}
+\bibinfo{author}{Wang, W.}, \& \bibinfo{author}{Lu, Z.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{Survey cyber security in the smart grid: Survey and
+  challenges}.
+\newblock {\it \bibinfo{journal}{Comput. Netw.}\/},  {\it
+  \bibinfo{volume}{57}\/}, \bibinfo{pages}{1344--1371}.
+%Type = Inproceedings
+\bibitem[{Yi et~al.(2016)Yi, Feng, Qi, Bin \& Ming}]{ref:yi2016overview}
+\bibinfo{author}{Yi, T.}, \bibinfo{author}{Feng, L.}, \bibinfo{author}{Qi, W.},
+  \bibinfo{author}{Bin, C.}, \& \bibinfo{author}{Ming, N.}
+  (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{Overview of the co-simulation methods for power and
+  communication system}.
+\newblock In {\it \bibinfo{booktitle}{Real-time Computing and Robotics (RCAR),
+  IEEE International Conference on}\/} (pp. \bibinfo{pages}{94--98}).
+\newblock \bibinfo{organization}{IEEE}.
+%Type = Article
+\bibitem[{Zaballos et~al.(2011)Zaballos, Vallejo \& Selga}]{Zaballos}
+\bibinfo{author}{Zaballos, A.}, \bibinfo{author}{Vallejo, A.}, \&
+  \bibinfo{author}{Selga, J.~M.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{Heterogeneous communication architecture for the
+  smart grid}.
+\newblock {\it \bibinfo{journal}{IEEE network}\/},  {\it
+  \bibinfo{volume}{25}\/}, \bibinfo{pages}{30--37}.
+%Type = Article
+\bibitem[{Zhang \& Chen(2010)}]{Zhang}
+\bibinfo{author}{Zhang, J.}, \& \bibinfo{author}{Chen, Z.}
+  (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{The impact of ami on the future power system}.
+\newblock {\it \bibinfo{journal}{Automation of Electric Power Systems}\/},
+  {\it \bibinfo{volume}{34}\/}, \bibinfo{pages}{20--23}.
+
+\end{thebibliography}

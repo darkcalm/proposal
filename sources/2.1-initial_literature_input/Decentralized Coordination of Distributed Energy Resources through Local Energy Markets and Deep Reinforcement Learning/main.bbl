@@ -1,0 +1,244 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{IEA}
+I.~R.~E. Agency, \href{https://www.irena.org/ publications/2019/Apr/Global-energy-transformation-A-roadmap-to-2050- 2019Edition.}{Global energy transformation: A roadmap to 2050 (2019 edition)}, Tech. rep., International Renewable Energy Agency (2019).
+\newline\urlprefix\url{https://www.irena.org/ publications/2019/Apr/Global-energy-transformation-A-roadmap-to-2050- 2019Edition.}
+
+\bibitem{KOK_Landscape_Report}
+K.~Kok, S.~Widergren, A society of devices: Integrating intelligent distributed resources with transactive energy, IEEE Power and Energy Magazine 14~(3) (2016) 34--45.
+\newblock \href {https://doi.org/10.1109/MPE.2016.2524962} {\path{doi:10.1109/MPE.2016.2524962}}.
+
+\bibitem{OConnell_Landscape_Report}
+A.~O'Connell, J.~Taylor, J.~Smith, L.~Rogers, Distributed energy resources takes center stage: A renewed spotlight on the distribution planning process, IEEE Power and Energy Magazine 16~(6) (2018) 42--51.
+\newblock \href {https://doi.org/10.1109/MPE.2018.2862439} {\path{doi:10.1109/MPE.2018.2862439}}.
+
+\bibitem{CHEN2017}
+S.~Chen, C.-C. Liu, From demand response to transactive energy: state of the art, Journal of Modern Power Systems and Clean Energy 5~(1) (2017) 10--19.
+\newblock \href {https://doi.org/10.1007/s40565-016-0256-x} {\path{doi:10.1007/s40565-016-0256-x}}.
+
+\bibitem{FedEnergyRegulatoryCommission_DRReport}
+F.~E.~R. Commission, \href{https://www.ourenergypolicy.org/wp-content/uploads/2015/12/demand-response.pdf}{Assessment of demand response and advanced metering}, Tech. rep., Federal Energy Regulatory Commission (2015).
+\newline\urlprefix\url{https://www.ourenergypolicy.org/wp-content/uploads/2015/12/demand-response.pdf}
+
+\bibitem{Tushar_LEM_Review}
+W.~Tushar, C.~Yuen, T.~K. Saha, T.~Morstyn, A.~C. Chapman, M.~J.~E. Alam, S.~Hanif, H.~V. Poor, \href{https://www.sciencedirect.com/science/article/pii/S0306261920315464}{Peer-to-peer energy systems for connected communities: A review of recent advances and emerging challenges}, Applied Energy 282 (2021) 116131.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.apenergy.2020.116131} {\path{doi:https://doi.org/10.1016/j.apenergy.2020.116131}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0306261920315464}
+
+\bibitem{GridWise}
+R.~B. Melton, Gridwise transactive energy framework, Tech. rep., The GridWise Architecture Council (2019).
+
+\bibitem{Mengelkamp2019Review}
+E.~Mengelkamp, J.~Diesing, C.~Weinhardt, \href{https://doi.org/10.1515/itit-2019-0016}{Tracing local energy markets: A literature review:}, it - Information Technology 61~(2-3) (2019) 101--110.
+\newblock \href {https://doi.org/doi:10.1515/itit-2019-0016} {\path{doi:doi:10.1515/itit-2019-0016}}.
+\newline\urlprefix\url{https://doi.org/10.1515/itit-2019-0016}
+
+\bibitem{DQN}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, A.~A. Rusu, J.~Veness, M.~G. Bellemare, A.~Graves, M.~Riedmiller, A.~K. Fidjeland, G.~Ostrovski, et~al., Human-level control through deep reinforcement learning, Nature 518~(7540) (2015) 529--533.
+\newblock \href {https://doi.org/https://doi.org/10.1038/nature14236} {\path{doi:https://doi.org/10.1038/nature14236}}.
+
+\bibitem{Alpha0}
+D.~Silver, T.~Hubert, J.~Schrittwieser, I.~Antonoglou, M.~Lai, A.~Guez, M.~Lanctot, L.~Sifre, D.~Kumaran, T.~Graepel, T.~Lillicrap, K.~Simonyan, D.~Hassabis, \href{https://www.science.org/doi/abs/10.1126/science.aar6404}{A general reinforcement learning algorithm that masters chess, shogi, and go through self-play}, Science 362~(6419) (2018) 1140--1144.
+\newblock \href {http://arxiv.org/abs/https://www.science.org/doi/pdf/10.1126/science.aar6404} {\path{arXiv:https://www.science.org/doi/pdf/10.1126/science.aar6404}}, \href {https://doi.org/https://doi.org/10.1126/science.aar6404} {\path{doi:https://doi.org/10.1126/science.aar6404}}.
+\newline\urlprefix\url{https://www.science.org/doi/abs/10.1126/science.aar6404}
+
+\bibitem{OpenAi5}
+OpenAI, :, C.~Berner, G.~Brockman, B.~Chan, V.~Cheung, P.~Debiak, C.~Dennison, D.~Farhi, Q.~Fischer, S.~Hashme, C.~Hesse, R.~Józefowicz, S.~Gray, C.~Olsson, J.~Pachocki, M.~Petrov, H.~P. d.~O.~Pinto, J.~Raiman, T.~Salimans, J.~Schlatter, J.~Schneider, S.~Sidor, I.~Sutskever, J.~Tang, F.~Wolski, S.~Zhang, Dota2 with large scale deep reinforcement learning, arXiv preprint arXiv:1912.06680 (2019).
+\newblock \href {http://arxiv.org/abs/1912.06680} {\path{arXiv:1912.06680}}, \href {https://doi.org/https://doi.org/10.48550/arXiv.1912.06680} {\path{doi:https://doi.org/10.48550/arXiv.1912.06680}}.
+
+\bibitem{DRL_in_ROBOTICS}
+B.~Singh, R.~Kumar, V.~P. Singh, Reinforcement learning in robotic applications: a comprehensive survey, Artificial Intelligence Review (2022) 1--46\href {https://doi.org/https://doi.org/10.1007/s10462-021-09997-9} {\path{doi:https://doi.org/10.1007/s10462-021-09997-9}}.
+
+\bibitem{DRL_in_ProcessControl}
+J.~Shin, T.~A. Badgwell, K.-H. Liu, J.~H. Lee, \href{https://www.sciencedirect.com/science/article/pii/S0098135419300754}{Reinforcement learning – overview of recent progress and implications for process control}, Computers and Chemical Engineering 127 (2019) 282--294.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.compchemeng.2019.05.029} {\path{doi:https://doi.org/10.1016/j.compchemeng.2019.05.029}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0098135419300754}
+
+\bibitem{VCReview}
+J.~R. Vázquez-Canteli, Z.~Nagy, \href{https://www.sciencedirect.com/science/article/pii/S0306261918317082}{Reinforcement learning for demand response: A review of algorithms and modeling techniques}, Applied Energy 235 (2019) 1072--1089.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.apenergy.2018.11.002} {\path{doi:https://doi.org/10.1016/j.apenergy.2018.11.002}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0306261918317082}
+
+\bibitem{perera2021_DRL_InEnergy}
+A.~Perera, P.~Kamalaruban, \href{https://www.sciencedirect.com/science/article/pii/S1364032120309023}{Applications of reinforcement learning in energy systems}, Renewable and Sustainable Energy Reviews 137 (2021) 110618.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.rser.2020.110618} {\path{doi:https://doi.org/10.1016/j.rser.2020.110618}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364032120309023}
+
+\bibitem{cao2020_DRLInPower_Review}
+D.~Cao, W.~Hu, J.~Zhao, G.~Zhang, B.~Zhang, Z.~Liu, Z.~Chen, F.~Blaabjerg, Reinforcement learning and its applications in modern power and energy systems: A review, Journal of Modern Power Systems and Clean Energy 8~(6) (2020) 1029--1042.
+\newblock \href {https://doi.org/10.35833/MPCE.2020.000552} {\path{doi:10.35833/MPCE.2020.000552}}.
+
+\bibitem{Ye_LEM_1}
+Y.~Ye, Y.~Tang, H.~Wang, X.-P. Zhang, G.~Strbac, A scalable privacy-preserving multi-agent deep reinforcement learning approach for large-scale peer-to-peer transactive energy trading, IEEE Transactions on Smart Grid 12~(6) (2021) 5185--5200.
+\newblock \href {https://doi.org/10.1109/TSG.2021.3103917} {\path{doi:10.1109/TSG.2021.3103917}}.
+
+\bibitem{Ye_LEM_2}
+Y.~Ye, D.~Papadaskalopoulos, Q.~Yuan, Y.~Tang, G.~Strbac, Multi-agent deep reinforcement learning for coordinated energy trading and flexibility services provision in local electricity markets, IEEE Transactions on Smart Grid 14~(2) (2023) 1541--1554.
+\newblock \href {https://doi.org/10.1109/TSG.2022.3149266} {\path{doi:10.1109/TSG.2022.3149266}}.
+
+\bibitem{Xu_LEM_Article}
+X.~Xu, Y.~Jia, Y.~Xu, Z.~Xu, S.~Chai, C.~S. Lai, A multi-agent reinforcement learning-based data-driven method for home energy management, IEEE Transactions on Smart Grid 11~(4) (2020) 3201--3211.
+\newblock \href {https://doi.org/10.1109/TSG.2020.2971427} {\path{doi:10.1109/TSG.2020.2971427}}.
+
+\bibitem{Bose_Mengelkamp_LEM_Article}
+S.~Bose, E.~Kremers, E.~M. Mengelkamp, J.~Eberbach, C.~Weinhardt, \href{https://doi.org/10.1186/s42162-021-00141-z}{Reinforcement learning in local energy markets}, Energy Informatics 4~(1) (2021) 7.
+\newblock \href {https://doi.org/10.1186/s42162-021-00141-z} {\path{doi:10.1186/s42162-021-00141-z}}.
+\newline\urlprefix\url{https://doi.org/10.1186/s42162-021-00141-z}
+
+\bibitem{Chen_LEMDRL_Article}
+T.~Chen, S.~Bu, Realistic peer-to-peer energy trading model for microgrids using deep reinforcement learning, in: 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), 2019, pp. 1--5.
+\newblock \href {https://doi.org/10.1109/ISGTEurope.2019.8905731} {\path{doi:10.1109/ISGTEurope.2019.8905731}}.
+
+\bibitem{Zhou_LEM_Article}
+S.~Zhou, Z.~Hu, W.~Gu, M.~Jiang, X.-P. Zhang, Artificial intelligence based smart energy community management: A reinforcement learning approach, CSEE Journal of Power and Energy Systems 5~(1) (2019) 1--10.
+\newblock \href {https://doi.org/10.17775/CSEEJPES.2018.00840} {\path{doi:10.17775/CSEEJPES.2018.00840}}.
+
+\bibitem{Zang_LEM_Article}
+H.~Zang, J.~Kim, \href{https://www.mdpi.com/1996-1073/14/14/4131}{Reinforcement learning based peer-to-peer energy trade management using community energy storage in local energy market}, Energies 14~(14) (2021).
+\newblock \href {https://doi.org/10.3390/en14144131} {\path{doi:10.3390/en14144131}}.
+\newline\urlprefix\url{https://www.mdpi.com/1996-1073/14/14/4131}
+
+\bibitem{Kiedanski_LEM_Lit_Issues}
+D.~Kiedanski, D.~Kofman, P.~Maillé, J.~Horta, Misalignments of objectives in demand response programs: a look at local energy markets, in: 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020, pp. 1--7.
+\newblock \href {https://doi.org/10.1109/SmartGridComm47815.2020.9302939} {\path{doi:10.1109/SmartGridComm47815.2020.9302939}}.
+
+\bibitem{Papadaskalopoulos_LEM_Lit_Issues}
+D.~Papadaskalopoulos, G.~Strbac, Nonlinear and randomized pricing for distributed management of flexible loads, IEEE Transactions on Smart Grid 7~(2) (2016) 1137--1146.
+\newblock \href {https://doi.org/10.1109/TSG.2015.2437795} {\path{doi:10.1109/TSG.2015.2437795}}.
+
+\bibitem{Mengelkamp_NoDRL_LEM_Article}
+E.~Mengelkamp, P.~Staudt, J.~Garttner, C.~Weinhardt, Trading on local energy markets: A comparison of market designs and bidding strategies, in: 2017 14th International Conference on the European Energy Market (EEM), 2017, pp. 1--6.
+\newblock \href {https://doi.org/10.1109/EEM.2017.7981938} {\path{doi:10.1109/EEM.2017.7981938}}.
+
+\bibitem{openAi_HideAndSeek}
+B.~Baker, I.~Kanitscheider, T.~M. Markov, Y.~Wu, G.~Powell, B.~McGrew, I.~Mordatch, \href{http://arxiv.org/abs/1909.07528}{Emergent tool use from multi-agent autocurricula}, CoRR abs/1909.07528 (2019).
+\newblock \href {http://arxiv.org/abs/1909.07528} {\path{arXiv:1909.07528}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1909.07528}
+
+\bibitem{ALEXV1}
+S.~Zhang, D.~May, M.~Gül, P.~Musilek, \href{https://www.sciencedirect.com/science/article/pii/S2666546822000118}{Reinforcement learning-driven local transactive energy market for distributed energy resources}, Energy and AI 8 (2022) 100150.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.egyai.2022.100150} {\path{doi:https://doi.org/10.1016/j.egyai.2022.100150}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2666546822000118}
+
+\bibitem{ALEXV2}
+D.~May, P.~Musilek, \href{https://arxiv.org/abs/2403.15617}{Transactive local energy markets enable community-level resource coordination using individual rewards}, arXiv preprint arXiv:2403.15617 (2024).
+\newblock \href {https://doi.org/https://doi.org/10.48550/arXiv.2403.15617} {\path{doi:https://doi.org/10.48550/arXiv.2403.15617}}.
+\newline\urlprefix\url{https://arxiv.org/abs/2403.15617}
+
+\bibitem{Chung_NoLEM_Article}
+H.-M. Chung, S.~Maharjan, Y.~Zhang, F.~Eliassen, Distributed deep reinforcement learning for intelligent load scheduling in residential smart grids, IEEE Transactions on Industrial Informatics 17~(4) (2021) 2752--2763.
+\newblock \href {https://doi.org/10.1109/TII.2020.3007167} {\path{doi:10.1109/TII.2020.3007167}}.
+
+\bibitem{Zhang_NoLEM_Article}
+Q.~Zhang, K.~Dehghanpour, Z.~Wang, F.~Qiu, D.~Zhao, Multi-agent safe policy learning for power management of networked microgrids, IEEE Transactions on Smart Grid 12~(2) (2021) 1048--1062.
+\newblock \href {https://doi.org/10.1109/TSG.2020.3034827} {\path{doi:10.1109/TSG.2020.3034827}}.
+
+\bibitem{Nweye_DR_DRL_Article_citylearn}
+K.~Nweye, S.~Sankaranarayanan, Z.~Nagy, \href{https://www.sciencedirect.com/science/article/pii/S0306261923006876}{Merlin: Multi-agent offline and transfer learning for occupant-centric operation of grid-interactive communities}, Applied Energy 346 (2023) 121323.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.apenergy.2023.121323} {\path{doi:https://doi.org/10.1016/j.apenergy.2023.121323}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0306261923006876}
+
+\bibitem{CAPPER_LEM_Review}
+T.~Capper, A.~Gorbatcheva, M.~A. Mustafa, M.~Bahloul, J.~M. Schwidtal, R.~Chitchyan, M.~Andoni, V.~Robu, M.~Montakhabi, I.~J. Scott, C.~Francis, T.~Mbavarira, J.~M. Espana, L.~Kiesling, \href{https://www.sciencedirect.com/science/article/pii/S1364032122003112}{Peer-to-peer, community self-consumption, and transactive energy: A systematic literature review of local energy market models}, Renewable and Sustainable Energy Reviews 162 (2022) 112403.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.rser.2022.112403} {\path{doi:https://doi.org/10.1016/j.rser.2022.112403}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364032122003112}
+
+\bibitem{Liu_LEM_Article}
+N.~Liu, X.~Yu, C.~Wang, C.~Li, L.~Ma, J.~Lei, Energy-sharing model with price-based demand response for microgrids of peer-to-peer prosumers, IEEE Transactions on Power Systems 32~(5) (2017) 3569--3583.
+\newblock \href {https://doi.org/10.1109/TPWRS.2017.2649558} {\path{doi:10.1109/TPWRS.2017.2649558}}.
+
+\bibitem{Lezama_LEM}
+F.~Lezama, J.~Soares, P.~Hernandez-Leal, M.~Kaisers, T.~Pinto, Z.~Vale, Local energy markets: Paving the path toward fully transactive energy systems, IEEE Transactions on Power Systems 34~(5) (2019) 4081--4088.
+\newblock \href {https://doi.org/10.1109/TPWRS.2018.2833959} {\path{doi:10.1109/TPWRS.2018.2833959}}.
+
+\bibitem{Ghorani_NoDRL_LEM_Article}
+R.~Ghorani, M.~Fotuhi-Firuzabad, M.~Moeini-Aghtaie, Optimal bidding strategy of transactive agents in local energy markets, IEEE Transactions on Smart Grid 10~(5) (2019) 5152--5162.
+\newblock \href {https://doi.org/10.1109/TSG.2018.2878024} {\path{doi:10.1109/TSG.2018.2878024}}.
+
+\bibitem{Dudjak_LEM_Review}
+V.~Dudjak, D.~Neves, T.~Alskaif, S.~Khadem, A.~Pena-Bello, P.~Saggese, B.~Bowler, M.~Andoni, M.~Bertolini, Y.~Zhou, B.~Lormeteau, M.~A. Mustafa, Y.~Wang, C.~Francis, F.~Zobiri, D.~Parra, A.~Papaemmanouil, \href{https://www.sciencedirect.com/science/article/pii/S0306261921008266}{Impact of local energy markets integration in power systems layer: A comprehensive review}, Applied Energy 301 (2021) 117434.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.apenergy.2021.117434} {\path{doi:https://doi.org/10.1016/j.apenergy.2021.117434}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0306261921008266}
+
+\bibitem{Zhang_ALEX_MDPI}
+S.~Zhang, P.~Musilek, \href{https://www.mdpi.com/1996-1073/16/5/2251}{The impact of battery storage on power flow and economy in an automated transactive energy market}, Energies 16~(5) (2023).
+\newblock \href {https://doi.org/10.3390/en16052251} {\path{doi:10.3390/en16052251}}.
+\newline\urlprefix\url{https://www.mdpi.com/1996-1073/16/5/2251}
+
+\bibitem{Sutton}
+R.~S. Sutton, A.~G. Barto, \href{http://incompleteideas.net/book/the-book-2nd.html}{Reinforcement Learning: An Introduction}, 2nd Edition, The MIT Press, 2018.
+\newline\urlprefix\url{http://incompleteideas.net/book/the-book-2nd.html}
+
+\bibitem{Schulman_PPO}
+J.~Schulman, F.~Wolski, P.~Dhariwal, A.~Radford, O.~Klimov, \href{http://arxiv.org/abs/1707.06347}{Proximal policy optimization algorithms}, CoRR abs/1707.06347 (2017).
+\newblock \href {http://arxiv.org/abs/1707.06347} {\path{arXiv:1707.06347}}, \href {https://doi.org/https://doi.org/10.48550/arXiv.1707.06347} {\path{doi:https://doi.org/10.48550/arXiv.1707.06347}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1707.06347}
+
+\bibitem{Schulman_GAE}
+J.~Schulman, P.~Moritz, S.~Levine, M.~Jordan, P.~Abbeel, High-dimensional continuous control using generalized advantage estimation, arXiv preprint arXiv:1506.02438 (2015).
+\newblock \href {https://doi.org/https://doi.org/10.48550/arXiv.1506.02438} {\path{doi:https://doi.org/10.48550/arXiv.1506.02438}}.
+
+\bibitem{SAC}
+T.~Haarnoja, A.~Zhou, P.~Abbeel, S.~Levine, \href{https://proceedings.mlr.press/v80/haarnoja18b.html}{Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor}, in: J.~Dy, A.~Krause (Eds.), Proceedings of the 35th International Conference on Machine Learning, Vol.~80 of Proceedings of Machine Learning Research, PMLR, 2018, pp. 1861--1870.
+\newline\urlprefix\url{https://proceedings.mlr.press/v80/haarnoja18b.html}
+
+\bibitem{SharedExperienceAC}
+F.~Christianos, L.~Sch\"{a}fer, S.~Albrecht, Shared experience actor-critic for multi-agent reinforcement learning, arXiv preprint arXiv:2006.07169 33 (2020) 10707--10717.
+\newblock \href {https://doi.org/https://doi.org/10.48550/arXiv.2006.07169} {\path{doi:https://doi.org/10.48550/arXiv.2006.07169}}.
+
+\bibitem{schulman2016nuts}
+J.~Schulman, \href{http://joschu.net/docs/nuts-and-bolts.pdf}{The nuts and bolts of deep rl research}, in: NIPS Deep RL Workshop, 2016.
+\newline\urlprefix\url{http://joschu.net/docs/nuts-and-bolts.pdf}
+
+\bibitem{SB3}
+A.~Raffin, A.~Hill, A.~Gleave, A.~Kanervisto, M.~Ernestus, N.~Dormann, \href{http://jmlr.org/papers/v22/20-1364.html}{Stable-baselines3: Reliable reinforcement learning implementations}, Journal of Machine Learning Research 22~(268) (2021) 1--8.
+\newline\urlprefix\url{http://jmlr.org/papers/v22/20-1364.html}
+
+\bibitem{lstm}
+S.~Hochreiter, J.~Schmidhuber, \href{https://doi.org/10.1162/neco.1997.9.8.1735}{Long short-term memory}, Neural Comput. 9~(8) (1997) 1735–1780.
+\newblock \href {https://doi.org/https://doi.org/10.1162/neco.1997.9.8.1735} {\path{doi:https://doi.org/10.1162/neco.1997.9.8.1735}}.
+\newline\urlprefix\url{https://doi.org/10.1162/neco.1997.9.8.1735}
+
+\bibitem{Kapturowski_R2D2}
+S.~Kapturowski, G.~Ostrovski, J.~Quan, R.~Munos, W.~Dabney, \href{https://api.semanticscholar.org/CorpusID:59345798}{Recurrent experience replay in distributed reinforcement learning}, in: International Conference on Learning Representations, 2018.
+\newline\urlprefix\url{https://api.semanticscholar.org/CorpusID:59345798}
+
+\bibitem{HiddenStateRecalc}
+M.~Andrychowicz, A.~Raichuk, P.~Stańczyk, M.~Orsini, S.~Girgin, R.~Marinier, L.~Hussenot, M.~Geist, O.~Pietquin, M.~Michalski, S.~Gelly, O.~Bachem, What matters in on-policy reinforcement learning? a large-scale empirical study (2020).
+\newblock \href {http://arxiv.org/abs/2006.05990} {\path{arXiv:2006.05990}}, \href {https://doi.org/https://doi.org/10.48550/arXiv.2006.05990} {\path{doi:https://doi.org/10.48550/arXiv.2006.05990}}.
+
+\bibitem{Ilyas_LookAtDRL_PG}
+A.~Ilyas, L.~Engstrom, S.~Santurkar, D.~Tsipras, F.~Janoos, L.~Rudolph, A.~Madry, \href{http://arxiv.org/abs/1811.02553}{Are deep policy gradient algorithms truly policy gradient algorithms?}, CoRR abs/1811.02553 (2018).
+\newblock \href {http://arxiv.org/abs/1811.02553} {\path{arXiv:1811.02553}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1811.02553}
+
+\bibitem{CityLearn2022Data}
+K.~Nweye, S.~Siva, G.~Z. Nagy, \href{https://doi.org/10.18738/T8/0YLJ6Q}{{The CityLearn Challenge 2022}} (2023).
+\newblock \href {https://doi.org/10.18738/T8/0YLJ6Q} {\path{doi:10.18738/T8/0YLJ6Q}}.
+\newline\urlprefix\url{https://doi.org/10.18738/T8/0YLJ6Q}
+
+\bibitem{altman99}
+E.~Altman, Constrained Markov Decision Processes, Chapman and Hall, 1999.
+
+\bibitem{Hans08}
+A.~Hans, D.~Schneegass, A.~Schäfer, S.~Udluft, Safe exploration for reinforcement learning, 2008, pp. 143--148.
+
+\bibitem{DBLP:journals/corr/SaundersSSE17}
+W.~Saunders, G.~Sastry, A.~Stuhlm{\"{u}}ller, O.~Evans, \href{http://arxiv.org/abs/1707.05173}{Trial without error: Towards safe reinforcement learning via human intervention}, CoRR abs/1707.05173 (2017).
+\newblock \href {http://arxiv.org/abs/1707.05173} {\path{arXiv:1707.05173}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1707.05173}
+
+\bibitem{Huang_PPOReimplementation}
+S.~Huang, R.~F.~J. Dossa, A.~Raffin, A.~Kanervisto, W.~Wang, \href{https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/}{The 37 implementation details of proximal policy optimization}, The ICLR Blog Track 2023 (2022).
+\newline\urlprefix\url{https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/}
+
+\bibitem{RecurrentPPO_ImplementationDetails}
+M.~Pleines, M.~Pallasch, F.~Zimmer, M.~Preuss, Generalization, mayhems and limits in recurrent proximal policy optimization (2022).
+\newblock \href {http://arxiv.org/abs/2205.11104} {\path{arXiv:2205.11104}}, \href {https://doi.org/https://doi.org/10.48550/arXiv.2205.11104} {\path{doi:https://doi.org/10.48550/arXiv.2205.11104}}.
+
+\end{thebibliography}

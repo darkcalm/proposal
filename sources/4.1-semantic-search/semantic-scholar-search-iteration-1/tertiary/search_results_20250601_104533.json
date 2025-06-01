@@ -1,0 +1,1109 @@
+{
+  "total": 1316,
+  "offset": 0,
+  "next": 30,
+  "data": [
+    {
+      "paperId": "ac03ae94957c2d6d6378ff0b1f679fecc1875545",
+      "url": "https://www.semanticscholar.org/paper/ac03ae94957c2d6d6378ff0b1f679fecc1875545",
+      "title": "Protection Coordination Impact on Reliability of Distribution Systems With Distributed Energy Resources",
+      "venue": "2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T)",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPC2T60072.2024.10475112?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPC2T60072.2024.10475112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2282596742",
+          "name": "Rani Kumari"
+        },
+        {
+          "authorId": "145085512",
+          "name": "B. K. Naick"
+        }
+      ],
+      "abstract": "The effectiveness and reliability of a power distribution system hinge on the establishment and maintenance of efficient coordination between protective relays. Alongside the prevention of unwarranted overloads, inadequate coordination among relays may lead to an increased likelihood of revealing concealed failures within crucial components of the protection system, like Circuit Breakers. To assess the potential degradation of system reliability due to protection system malfunctions, this study proposes the utilization of a Markov model (MM) in combination with a Monte Carlo simulation (MCS) algorithm. Furthermore, the study also addresses the impact of the protective equipment mis-coordination on the concealed failure of protection systems. Subsequently, using a modified Canadian benchmark distribution system, the study computes the reliability indices of System Average Interruption Duration Index (SAIDI) and Expected Energy Not Supplied (EENS) for three distinct scenarios characterized by varying relay settings and protection coordination. The findings are subsequently presented to demonstrate how miscoordination of protection systems within the distribution network can affect the overall system reliability."
+    },
+    {
+      "paperId": "ae6b75106638a929ddbbe407876efebace98dc7a",
+      "url": "https://www.semanticscholar.org/paper/ae6b75106638a929ddbbe407876efebace98dc7a",
+      "title": "Sequential Black Start Restoration in Active Distribution Network and Microgrids Using the PowerModelsDistribution Package",
+      "venue": "North American Power Symposium",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/NAPS61145.2024.10741626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NAPS61145.2024.10741626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2329749261",
+          "name": "Irfan Ullah"
+        },
+        {
+          "authorId": "2003306651",
+          "name": "Adel Heidari-Akhijahani"
+        },
+        {
+          "authorId": "2329747611",
+          "name": "Karen Butler-Purry"
+        }
+      ],
+      "abstract": "Black start restoration (BSR) in power distribution networks presents several challenges due to the complexity of restoring power after a widespread blackout, including the coordination of multiple distributed energy resources (DERs), efficient restoration of all loads, and maintenance of stability. This paper addresses these issues by implementing a BSR methodology using the PowerModelsDistribution (PMD) and PowerModelsONM (ONM) packages. The implementation leverages PMD and ONM to model and optimize the restoration process by incorporating key components like such as distributed generators (DGs), loads, and switches. The packages provide a flexible and extensible framework for optimization in power distribution systems. The sequential BSR model ensures a systematic approach to restoring power, maximizing the total restored energy while adhering to operational constraints. The results from implementing the BSR process on modified IEEE 13-node test feeders show significant restoration in sequences and load recovery. This study aims to validate the BSR methodology within the PMD and ONM packages in optimizing the restoration process."
+    },
+    {
+      "paperId": "bb00db5d283ed09c03249340a0d11879ba0eaf26",
+      "url": "https://www.semanticscholar.org/paper/bb00db5d283ed09c03249340a0d11879ba0eaf26",
+      "title": "Deep Reinforcement Learning-Based Smart Grid Resource Allocation System",
+      "venue": "2023 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics60724.2023.00125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics60724.2023.00125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposes an intelligent power distribution system to achieve a rational allocation of electrical resources throughout the network and introduces a deep learning-based node fault detection module to address the problem of the lack of real-time monitoring and fault detection capabilities in traditional distribution networks."
+      },
+      "authors": [
+        {
+          "authorId": "2299187616",
+          "name": "Qiong Lang"
+        },
+        {
+          "authorId": "2299281550",
+          "name": "La Ba Dun Zhu"
+        },
+        {
+          "authorId": "2299189946",
+          "name": "Mi Ma Ci Ren"
+        },
+        {
+          "authorId": "2299340352",
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "2299481158",
+          "name": "Yinghen Wu"
+        },
+        {
+          "authorId": "2299308980",
+          "name": "Wenting He"
+        },
+        {
+          "authorId": "2299291363",
+          "name": "Mingjia Li"
+        }
+      ],
+      "abstract": "The existing power grid scheduling systems often use a distributed generation model. Because they need to manage multiple independent generators simultaneously, this system may be more complex in terms of coordination, scheduling, and maintenance. In addition, the variability and intermittency of renewable energy resources can lead to reliability issues, causing grid instability. To address issues such as resource wastage, high costs, and grid instability that occur during the power grid resource scheduling process, this paper proposes an intelligent power distribution system to achieve a rational allocation of electrical resources throughout the network. Firstly, the algorithm introduces a deep learning-based node fault detection module to address the problem of the lack of real-time monitoring and fault detection capabilities in traditional distribution networks. Secondly, by modeling it as a Markov decision process (MDP), it constructs state, action, and reward functions and uses a deep reinforcement learning module based on double deep Q-network (DDQN) to optimize the objective function. This ensures the allocation of power resources during peak periods, reduces energy waste, and avoids overloads. Experiments show that this algorithm has excellent fault localization capabilities, improving the stability of the grid during peak electricity demand periods. Additionally, it offers more flexibility in resource scheduling, enabling more precise resource allocation."
+    },
+    {
+      "paperId": "53835d0a62a713a2bcf5da185ace7f9b71b0e902",
+      "url": "https://www.semanticscholar.org/paper/53835d0a62a713a2bcf5da185ace7f9b71b0e902",
+      "title": "Distributed Energy Resources Management System (DERMS) and Its Coordination with Transmission System: A Review and Co-Simulation",
+      "venue": "Energies",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/17/6/1353/pdf?version=1710234298",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en17061353?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en17061353, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2291266721",
+          "name": "Pouya Pourghasem Gavgani"
+        },
+        {
+          "authorId": "2291269698",
+          "name": "Salar Baghbannovin"
+        },
+        {
+          "authorId": "1414177271",
+          "name": "Seyed Masoud Mohseni\u2010Bonab"
+        },
+        {
+          "authorId": "2257046074",
+          "name": "Innocent Kamwa"
+        }
+      ],
+      "abstract": "Ever-increasing penetration of distributed energy resources (DERs) in the power grids, alongside their numerous benefits, brings new challenges that call for enhanced solutions in the field of control and management of power grids. The majority of the available research have considered either distribution or transmission grids in their studies. In this paper, a comprehensive review of the effects of DERs on the distribution and transmission grids is performed. The focus of this paper is on hierarchical management methods in order to categorize different approaches and highlight the gaps. Moreover, a review is conducted in the field of the newly introduced distributed energy resources management system (DERMS) concept. A DERMS can facilitate the hierarchical energy management procedure due to its functionalities and broad capabilities. Hence, its implementation in energy management and its impact on the power grid will be assessed with the aid of a co-simulation platform that considers both transmission and distribution grids."
+    },
+    {
+      "paperId": "717164b633c50fb3f36ed55dcf0b616a3c6a62cc",
+      "url": "https://www.semanticscholar.org/paper/717164b633c50fb3f36ed55dcf0b616a3c6a62cc",
+      "title": "Bi-Level Optimal Allocation Method of Distributed Energy Resources in Medium and Low Voltage Distribution System Considering Source-Load-Storage Coordination",
+      "venue": "2024 4th Power System and Green Energy Conference (PSGEC)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/PSGEC62376.2024.10721069?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PSGEC62376.2024.10721069, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2275758949",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "2038459015",
+          "name": "Meijin Gao"
+        },
+        {
+          "authorId": "2052096580",
+          "name": "Chutian Yu"
+        },
+        {
+          "authorId": "2275754580",
+          "name": "Jie Yu"
+        },
+        {
+          "authorId": "2327237424",
+          "name": "Rui Pan"
+        },
+        {
+          "authorId": "2275767542",
+          "name": "Siqi Liang"
+        },
+        {
+          "authorId": "2275763075",
+          "name": "Xueer Wang"
+        },
+        {
+          "authorId": "2270437508",
+          "name": "Xiaoyan Bian"
+        }
+      ],
+      "abstract": "Large-scale distributed energy resource access brings opportunities and challenges to the flexibility of distribution systems. Currently, multiple voltage levels coexist in distribution systems, research on optimal allocation for the flexibility improvement of distribution systems mainly focus on single voltage level systems, and the collaborative optimization potential of flexibility resources across voltage levels is not fully exploded. Therefore, a two-level optimal allocation method of distributed energy resources for the medium and low voltage distribution system considering source-load-storage coordination is proposed in this paper. First, the influence of distributed renewable energy acceptance is analyzed from the perspectives of flexibility, voltage distribution and topology of different voltage levels. Secondly, a two-level optimal allocation model of distributed energy resources in medium and low-voltage distribution system is formed, the multi-objective model is solved by the non-dominated sorting genetic algorithm II. Finally, an improved medium and low voltage distribution system is used for simulation verification. Results show that the proposed method can reduce voltage deviation and network operating loss, and improve the system economy and flexibility."
+    },
+    {
+      "paperId": "9c3371cfdc5abe0c07915c6dd01dfceced6a9dfd",
+      "url": "https://www.semanticscholar.org/paper/9c3371cfdc5abe0c07915c6dd01dfceced6a9dfd",
+      "title": "Coordination of Distributed Energy Resources in a Distribution Network via Nonlinear Dual Critical Region Exploration",
+      "venue": "IEEE Power & Energy Society General Meeting",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/PESGM51994.2024.10688674?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PESGM51994.2024.10688674, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel coordination scheme to coordinate the flexibilities of distributed energy resources, which enables a fast finite convergent property in large-scale second-order cone programming, which significantly enhances the solution ability of CRE proposed in [1]."
+      },
+      "authors": [
+        {
+          "authorId": "2318926972",
+          "name": "H. Liu"
+        },
+        {
+          "authorId": "46791636",
+          "name": "Ye Guo"
+        }
+      ],
+      "abstract": "In this paper, we proposed a novel coordination scheme called Nonlinear Dual Critical Region Exploration (NDCRE) to coordinate the flexibilities of distributed energy resources. Each bus acts as a local agent and can interact with the system operator in the distribution network to realize the joint operation. The proposed NDCRE leverages multi-parametric programming and dual decomposition for efficient information exchange and high decomposable structure. Such a scheme enables a fast finite convergent property in large-scale second-order cone programming, which significantly enhances the solution ability of CRE proposed in [1]. Numerical results verified its effectiveness in complex distribution grid settings."
+    },
+    {
+      "paperId": "34e12fa39169923dfebdaacfb47580c9f71bacd1",
+      "url": "https://www.semanticscholar.org/paper/34e12fa39169923dfebdaacfb47580c9f71bacd1",
+      "title": "Decentralized Coordination of Distributed Energy Resources through Local Energy Markets and Deep Reinforcement Learning",
+      "venue": "Energy and AI",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2404.13142, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study demonstrates the effectiveness of DRL in decentralized grid management, highlighting its scalability and near-optimal performance in reducing net load variability within community-driven energy markets."
+      },
+      "authors": [
+        {
+          "authorId": "2058826096",
+          "name": "Daniel May"
+        },
+        {
+          "authorId": "2297804681",
+          "name": "Matthew E. Taylor"
+        },
+        {
+          "authorId": "2237697474",
+          "name": "Petr Musilek"
+        }
+      ],
+      "abstract": "As distributed energy resources (DERs) grow, the electricity grid faces increased net load variability at the grid edge, impacting operability and reliability. Transactive energy, facilitated through local energy markets, offers a decentralized, indirect demand response solution, with model-free control techniques, such as deep reinforcement learning (DRL), enabling automated, decentralized participation. However, existing studies largely overlook community-level net load variability, focusing instead on socioeconomic metrics. This study addresses this gap by using DRL agents to automate end-user participation in a local energy market (ALEX), where agents act independently to minimize individual energy bills. Results reveal a strong link between bill reduction and decreased net load variability, assessed across metrics such as ramping rate, load factor, and peak demand over various time horizons. Using a no-control baseline, DRL agents are benchmarked against a near-optimal dynamic programming approach. The dynamic programming benchmark achieves reductions of 22.05 percent, 83.92 percent, and 24.09 percent in daily import, export, and peak demand, respectively, while the DRL agents show comparable or superior results with reductions of 21.93 percent, 84.46 percent, and 27.02 percent. This study demonstrates the effectiveness of DRL in decentralized grid management, highlighting its scalability and near-optimal performance in reducing net load variability within community-driven energy markets."
+    },
+    {
+      "paperId": "98c31ba59e4a19216f508926279cb163d6f22150",
+      "url": "https://www.semanticscholar.org/paper/98c31ba59e4a19216f508926279cb163d6f22150",
+      "title": "Coordination of Smart Inverter-Enabled Distributed Energy Resources for Optimal PV-BESS Integration and Voltage Stability in Modern Power Distribution Networks: A Systematic Review and Bibliometric Analysis",
+      "venue": "e-Prime",
+      "year": 2024,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.prime.2024.100800",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.prime.2024.100800?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.prime.2024.100800, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2120052946",
+          "name": "O. Balogun"
+        },
+        {
+          "authorId": "2264587721",
+          "name": "Yanxia Sun"
+        },
+        {
+          "authorId": "1675312038",
+          "name": "P. Gbadega"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "5c7c3adb407c5240cda91c0b41bbe0d240d9c057",
+      "url": "https://www.semanticscholar.org/paper/5c7c3adb407c5240cda91c0b41bbe0d240d9c057",
+      "title": "NAESB's Evolving Standards: Advancing Hydrogen, Distributed Energy Resources, Cybersecurity, and Market Coordination",
+      "venue": "Climate and Energy",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/gas.22438?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/gas.22438, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2305255838",
+          "name": "Amrit Nagi"
+        }
+      ],
+      "abstract": "Consensus\u2010based standards are increasingly crucial to support new technological advancements used by the energy industry and streamline the markets' business processes. The North American Energy Standards Board (NAESB) recently finalized its annual planning process for the wholesale and retail natural gas and electric markets. NAESB remains committed to addressing areas of priority identified by industry and to ensuring standards development meets evolving industry needs. Building on 2024 initiatives, during this upcoming year, NAESB has plans to continue work to support the emerging hydrogen market, address cybersecurity challenges, and enhance coordination between natural gas and electric markets."
+    },
+    {
+      "paperId": "53bca08d6419def38066a237fc434dd787a7bce0",
+      "url": "https://www.semanticscholar.org/paper/53bca08d6419def38066a237fc434dd787a7bce0",
+      "title": "Automation Framework for Blockchain-Based Coordination of Distributed Energy Resources",
+      "venue": "International Symposium on Power Electronics for Distributed Generation Systems",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/PEDG61800.2024.10667360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PEDG61800.2024.10667360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In the present paper, different components necessary to define an automation solution are discussed, as the blockchain architecture, the different standards involved on every automation levels, their integration, and the necessary tools to tackle the particular cases in a broader perspective."
+      },
+      "authors": [
+        {
+          "authorId": "2175419266",
+          "name": "Cesar Cazal"
+        },
+        {
+          "authorId": "2198420120",
+          "name": "Su Mon Tun"
+        },
+        {
+          "authorId": "2321678895",
+          "name": "Irtaza Waheed"
+        },
+        {
+          "authorId": "1411244101",
+          "name": "Manuel Pitz"
+        },
+        {
+          "authorId": "2321675964",
+          "name": "Yoga Kannan"
+        },
+        {
+          "authorId": "2190852989",
+          "name": "Thanakorn Penthong"
+        },
+        {
+          "authorId": "1774228",
+          "name": "F. Ponci"
+        },
+        {
+          "authorId": "2248540871",
+          "name": "A. Monti"
+        }
+      ],
+      "abstract": "Blockchain technology represents a secure distributed alternative to central architectures, as this technology can allow a democratic distribution of power where actors with mixed or even opposite interests can contribute to a common objective by aggregated effort. Nonetheless, the lack of working frameworks nor consideration for legacy solutions for preexisting devices limits the technology adoption on a higher scale. In the present paper, different components necessary to define an automation solution are discussed, as the blockchain architecture, the different standards involved on every automation levels (i.e. IEC61970, IEC60870, and IEC61850), their integration, and the necessary tools to tackle the particular cases in a broader perspective. Finally, the current work tests the proposed framework in a simulated network, presenting the hardware and software requirements, to close the work discussing the impact of the results considering the possible applications as might be the case of monitoring, control, or protection algorithms."
+    },
+    {
+      "paperId": "8982d8d575b40f0b64211e399228f435bfc5ca3c",
+      "url": "https://www.semanticscholar.org/paper/8982d8d575b40f0b64211e399228f435bfc5ca3c",
+      "title": "Fast Coordination of Distributed Energy Resources Over Time-Varying Communication Networks",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2023,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/9/10031614/09916109.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TAC.2022.3213626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TAC.2022.3213626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article develops distributed algorithms to solve the DER coordination problem over time-varying communication networks with either bidirectional or unidirectional communication links as distributed versions of a centralized primal\u2013dual algorithm."
+      },
+      "authors": [
+        {
+          "authorId": "8507172",
+          "name": "Madi Zholbaryssov"
+        },
+        {
+          "authorId": "1727356",
+          "name": "C. Hadjicostis"
+        },
+        {
+          "authorId": "1398926853",
+          "name": "A. Dom\u00ednguez-Garc\u00eda"
+        }
+      ],
+      "abstract": "In this article, we consider the problem of optimally coordinating the response of a group of distributed energy resources (DERs) controlled by distributed agents so they collectively meet the electric power demanded by a collection of loads while minimizing the total generation cost and respecting the DER capacity limits. This problem can be cast as a convex optimization problem, where the global objective is to minimize a sum of convex functions corresponding to individual DER generation cost while satisfying 1) linear inequality constraints corresponding to the DER capacity limits and 2) a linear equality constraint corresponding to the total power generated by the DERs being equal to the total power demand. We develop distributed algorithms to solve the DER coordination problem over time-varying communication networks with either bidirectional or unidirectional communication links. The proposed algorithms can be seen as distributed versions of a centralized primal\u2013dual algorithm. One of the algorithms proposed for directed communication graphs has a geometric convergence rate even when communication out-degrees are unknown to agents. We showcase the proposed algorithms using the standard IEEE 39-bus test system and compare their performance against other ones proposed in the literature."
+    },
+    {
+      "paperId": "d80673198475bc227812d6cd1fc050cf24cfe315",
+      "url": "https://www.semanticscholar.org/paper/d80673198475bc227812d6cd1fc050cf24cfe315",
+      "title": "Adaptive OCR coordination\nin distribution system with distributed energy resources contribution",
+      "venue": "AIMS Energy",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3934/energy.2023058",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3934/energy.2023058?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3934/energy.2023058, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2269571756",
+          "name": "Tung-Sheng Zhan"
+        },
+        {
+          "authorId": "2269716389",
+          "name": "Chun-Lien Su"
+        },
+        {
+          "authorId": "97561271",
+          "name": "Y. Lee"
+        },
+        {
+          "authorId": "2097910",
+          "name": "Jheng-Lun Jiang"
+        },
+        {
+          "authorId": "2213989761",
+          "name": "Jin-Ting Yu"
+        }
+      ],
+      "abstract": "\nMore and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.\n"
+    },
+    {
+      "paperId": "6f21521d29c7b9040125ccc2805c3cbc03960652",
+      "url": "https://www.semanticscholar.org/paper/6f21521d29c7b9040125ccc2805c3cbc03960652",
+      "title": "A feasibility study of using MV and LV distributed energy resources flexibility in a TSO/DSO coordination perspective: the case study of Milan, Italy",
+      "venue": "International Conference on Clean Electrical Power",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://re.public.polimi.it/bitstream/11311/1259800/1/2023121277.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCEP57914.2023.10247383?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCEP57914.2023.10247383, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "48846625",
+          "name": "Alessandro Bosisio"
+        },
+        {
+          "authorId": "2268590306",
+          "name": "A. Berizzi"
+        },
+        {
+          "authorId": "2239282122",
+          "name": "C. Mosca"
+        },
+        {
+          "authorId": "2239282250",
+          "name": "C. Vergine"
+        },
+        {
+          "authorId": "2239280586",
+          "name": "D. Castiglioni"
+        },
+        {
+          "authorId": "2180237629",
+          "name": "A. Morotti"
+        }
+      ],
+      "abstract": "The massive penetration of Renewable Energy Sources, preminently wind and photovoltaic power plants, and Distributed Energy Resources (DERs), such as Combined Heat and Power plants, Battery Energy Storage System, Electric Vehicles impose additional challenges in power system planning and operation. Pushing towards a low-carbon electricity system can increase potential issues such as congestion management, voltage control, controllability, observability, and generation-load forecasting. In this context, coordinated actions between Transmission System Operators (TSOs) and Distribution Systems Operators (DSOs) could be a valuable solution. For instance, through the DERs installed on the distribution network, the DSO could help the TSO to relieve a network contingency on the HV/HHV grid. This paper proposes a feasibility study of TSO-DSO coordination that allows using DERs to solve transmission network criticalities, both in operational and short- to medium-term time horizons, that does not involve the exchange of sensitive information between the two utilities. A straightforward algorithm is proposed for evaluating DERs available flexibility in terms of active and reactive power, and for estimating the aggregated capability curve at the point of common coupling, i.e., the flexibility available downstream a HV/MV substation. The proposed algorithm has been applied to Milan's case study using real data from Unareti, the local DSO, and Terna, the Italian TSO."
+    },
+    {
+      "paperId": "024a4335bf578face24c44578c1cbd0fa4ff999b",
+      "url": "https://www.semanticscholar.org/paper/024a4335bf578face24c44578c1cbd0fa4ff999b",
+      "title": "Optimal Coordination of Protection Devices in Distribution Networks With Distributed Energy Resources and Microgrids",
+      "venue": "IEEE Access",
+      "year": 2022,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09874854.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2022.3203713?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2022.3203713, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2081311623",
+          "name": "Cleberton Reiz"
+        },
+        {
+          "authorId": "13549202",
+          "name": "J. Leite"
+        }
+      ],
+      "abstract": "Microgrids are promising to enhance power distribution systems\u2019 efficiency, quality, sustainability, and reliability. However, microgrids operation can impose several challenges to traditional protection schemes, like changes in the power flow direction and an increase in short-circuit currents. Microgrids can include several distributed generation technologies with different behaviours during short-circuit conditions, requiring additional protection schemes and devices. In this way, the optimized coordination of reclosers and fuses in distribution networks with directional overcurrent relays, which operate as interconnection devices, might overcome many imposed protection challenges. Regarding different generation technologies, voltage-restrained overcurrent relays and frequency relays are presented as local microgrid protection for rotative and inverter-based distributed generators, respectively. The optimized coordination of these protection devices maximizes microgrid benefits and minimizes operation drawbacks by reducing interruptions impacts and energy not supplied to consumers. This work proposes, thus, a mathematical model for the optimal coordination of protection devices in distribution networks with distributed energy resources operating in grid-connected and islanded modes. The minimization technique of operating times using an elitist genetic algorithm with variable crossover and mutation processes is proposed, as well. The results show adequate coordination using passive and low-cost protection devices."
+    },
+    {
+      "paperId": "7eb0cfdc2444b68a0000b947a633a2e0eff9c2fa",
+      "url": "https://www.semanticscholar.org/paper/7eb0cfdc2444b68a0000b947a633a2e0eff9c2fa",
+      "title": "Current-Based Coordination of Distributed Energy Resources in a Grid-Connected Low-Voltage Microgrid: An Experimental Validation of Adverse Operational Scenarios",
+      "venue": "Energies",
+      "year": 2022,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/15/17/6407/pdf?version=1662080948",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en15176407?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en15176407, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "51312115",
+          "name": "A. Alonso"
+        },
+        {
+          "authorId": "3435084",
+          "name": "Luis De Oro Arenas"
+        },
+        {
+          "authorId": "35191307",
+          "name": "D. Brand\u00e3o"
+        },
+        {
+          "authorId": "2225847",
+          "name": "E. Tedeschi"
+        },
+        {
+          "authorId": "2821986",
+          "name": "R. Machado"
+        },
+        {
+          "authorId": "34895692",
+          "name": "F. Maraf\u00e3o"
+        }
+      ],
+      "abstract": "Low-voltage grid-connected microgrids rely on the exploitation of inverter-interfaced distributed energy resources (DERs) in order to feed loads and to achieve bidirectional power flow controllability at their point of common coupling (PCC) with the upstream grid. However, adverse operational conditions, such as the existence of DERs of different operation natures, DERs of non-equal power ratings, as well as the occurrence of non-steady and non-sinusoidal grid voltage scenarios, bring complications to microgrid energy management. Consequently, control strategies employed to coordinate DERs in dispatchable microgrids need to be resilient to such non-ideal conditions. Hence, this paper demonstrates that a multi-purpose strategy, so-called the Generalized Current-Based Control (GCBC) approach, is capable of steering DERs under such adverse operational scenarios, ensuring proportional current sharing among them while also regulating the microgrid power dispatchability at the PCC. The discussions are supported by an extensive experimental validation on a laboratory-scale single-phase microgrid prototype, demonstrating that the GCBC approach allows DERs of different operational natures to be coordinated, respecting their power ratings, and allowing the single-controllable microgrid to endure operation under distorted voltages and support voltage ride-through conditions."
+    },
+    {
+      "paperId": "2f51593414bf9e017886a93e6d65812f7e3816e7",
+      "url": "https://www.semanticscholar.org/paper/2f51593414bf9e017886a93e6d65812f7e3816e7",
+      "title": "Polarized Distribution Protection Coordination Strategy Under the Impact from Various Distributed Energy Resources (DER) Generation Points",
+      "venue": "IEEE/PES Transmission and Distribution Conference and Exposition",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/td43745.2022.9816925?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/td43745.2022.9816925, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2115605660",
+          "name": "Haowei Lu"
+        },
+        {
+          "authorId": "30539482",
+          "name": "Hussain Biyawerwala"
+        },
+        {
+          "authorId": "2176899546",
+          "name": "Hasnain Thakrawala"
+        }
+      ],
+      "abstract": "The present design of protection systems is based on power flowing in a single direction, which allows for unpolarized (non-directional) protection schemes. With the large influx of renewable technologies recently introduced into the electric power system, referred to as distributed energy resources (DER), creates many challenges to adequately maintain existing protection schemes. Protection engineers design protection systems to safely eliminate faults from the electric power system that was exclusively built with rotating machines (which have quite a different behavior under fault than inverter-based sources). As the penetration level of DER increases, the adverse impacts from DER is no longer to be considered minimal. With DER becoming influential in the distribution system, the current utility protection strategy merits a comprehensive investigation. This paper discusses major protection issues caused by DERs and provides utility-verified solutions based on more than 500 DER interconnection project system impact studies. An optimized coordination flow chart is provided in this paper along with software CYMEDIST-verified real US utility radial distribution feeders, which were used for simulations and related validation."
+    },
+    {
+      "paperId": "a153374ce39fe119272bd7c0a68ac0f13c4b5be8",
+      "url": "https://www.semanticscholar.org/paper/a153374ce39fe119272bd7c0a68ac0f13c4b5be8",
+      "title": "Optimal Coordination of Distributed Energy Resources Using Deep Deterministic Policy Gradient",
+      "venue": "2022 IEEE Electrical Energy Storage Application and Technologies Conference (EESAT)",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/EESAT55007.2022.9998046?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EESAT55007.2022.9998046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed deep RL is designed based on an adaptive actor-critic architecture and employs an off-policy deterministic policy gradient method for determining the dispatch operation that minimizes the operation cost and BESS loss of life."
+      },
+      "authors": [
+        {
+          "authorId": "47295398",
+          "name": "Avijit Das"
+        },
+        {
+          "authorId": "92148538",
+          "name": "Di Wu"
+        }
+      ],
+      "abstract": "Recent studies have shown that reinforcement learning (RL) is a promising approach for coordination and control of distributed energy resources (DERS) under uncertainties. Many existing RL approaches, including Q-learning and approximate dynamic programming, are based on lookup table methods, which become inefficient when the problem size is large and infeasible when continuous states and actions are involved. In addition, when modeling battery energy storage systems (BESSS), the loss of life is not reasonably considered in the decision-making process. This paper proposes an innovative deep RL method for DER coordination considering BESS degradation. The proposed deep RL is designed based on an adaptive actor-critic architecture and employs an off-policy deterministic policy gradient method for determining the dispatch operation that minimizes the operation cost and BESS loss of life. Case studies were performed to validate the proposed method and demonstrate the effects of incorporating degradation models into control design."
+    },
+    {
+      "paperId": "4cd28ae7854c53c9f6a178fe30013371c7ad8553",
+      "url": "https://www.semanticscholar.org/paper/4cd28ae7854c53c9f6a178fe30013371c7ad8553",
+      "title": "Coordination of Load Tap Changer and Distributed Energy Resources to Improve Long-term Voltage Stability",
+      "venue": "IEEE International Energy Conference",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://pure.tue.nl/ws/files/198984476/Energycon_2022_Final.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/energycon53164.2022.9830224?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/energycon53164.2022.9830224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "121956604",
+          "name": "Minh-Quan Tran"
+        },
+        {
+          "authorId": "2072580014",
+          "name": "T. Tran"
+        },
+        {
+          "authorId": "143773678",
+          "name": "P. Nguyen"
+        },
+        {
+          "authorId": "40059837",
+          "name": "L. Tuan"
+        }
+      ],
+      "abstract": "Along With the increased installation of the distributed energy resources (DER) in distribution system, long-term voltage stability at the transmission level can be improved if proper coordination is developed between DERs and the existing grid controllers, e.g., load tap changer (LTC). This paper analyzes the problem of long-term voltage instability and presenting possible countermeasures. The study summarizes essential aspects for modelling, including LTC, DERs, and especially voltage dependent load. A coordination between DERs and LTC is proposed to allocate better power supply, especially at the coupling points between transmission and distribution networks, i.e. primary substation. A case study is performed using a modified CIGRE medium-voltage benchmark network. The simulation results have shown that the coordination has substantially improved the long-term voltage stability in the way of using the reactive power support from DERs and increasing the LTC position instated of decreasing as the traditional method."
+    },
+    {
+      "paperId": "f0451aa65a76227e87d75c9ca2baffd8c6aeda30",
+      "url": "https://www.semanticscholar.org/paper/f0451aa65a76227e87d75c9ca2baffd8c6aeda30",
+      "title": "DSO-DERA Coordination for the Wholesale Market Participation of Distributed Energy Resources",
+      "venue": "IEEE Power & Energy Society General Meeting",
+      "year": 2022,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2211.16585",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2211.16585, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2110241190",
+          "name": "Cong Chen"
+        },
+        {
+          "authorId": "50693937",
+          "name": "S. Bose"
+        },
+        {
+          "authorId": "145120196",
+          "name": "Lang Tong"
+        }
+      ],
+      "abstract": "We design a coordination mechanism between a distribution system operator (DSO) and distributed energy resource aggregators (DERAs) participating directly in the wholesale electricity market. Aimed at ensuring system reliability while providing open access to DERAs, the coordination mechanism includes a forward auction that allocates access limits to aggregators based on aggregators\u2019 bids that represent their benefits of aggregation. The proposed coordination mechanism results in decoupled DSO and DERAs operations that satisfy the network constraints, independent of the stochasticity of the renewables, wholesale real-time locational marginal prices, and individual DERA\u2019s aggregation policy. Optimal bidding strategies by competitive aggregators are also derived. The efficiency of the coordination mechanism and the locational price distribution at buses of a radial distribution grid are demonstrated for a 141-bus radial network."
+    },
+    {
+      "paperId": "bda7e0e5e1e3dfb535e88f2dd50d3601421b71e1",
+      "url": "https://www.semanticscholar.org/paper/bda7e0e5e1e3dfb535e88f2dd50d3601421b71e1",
+      "title": "Exploring Blockchain for The Coordination of Distributed Energy Resources",
+      "venue": "Annual Conference on Information Sciences and Systems",
+      "year": 2021,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2103.06046",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2103.06046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper develops a trustable and distributed coordination system for DERs using blockchain technology, and uses the alternating direction method of multipliers (ADMM) to solve the problem in a distributed fashion."
+      },
+      "authors": [
+        {
+          "authorId": "1719352",
+          "name": "Qing Yang"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Wang"
+        }
+      ],
+      "abstract": "The fast growth of distributed energy resources (DERs), such as distributed renewables (e.g., rooftop PV panels), energy storage systems, electric vehicles, and controllable appliances, drives the power system toward a decentralized system with bidirectional power flow. The coordination of DERs through an aggregator, such as a utility, system operator, or a third-party coordinator, emerges as a promising paradigm. However, it is not well understood how to enable trust between the aggregator and DERs to integrate DERs efficiently. In this paper, we develop a trustable and distributed coordination system for DERs using blockchain technology. We model various DERs and formulate a cost minimization problem for DERs to optimize their energy trading, scheduling, and demand response. We use the alternating direction method of multipliers (ADMM) to solve the problem in a distributed fashion. To implement the distributed algorithm in a trustable way, we design a smart contract to update multipliers and communicate with DERs in a blockchain network. We validate our design by experiments using real-world data, and the simulation results demonstrate the effectiveness of our algorithm."
+    },
+    {
+      "paperId": "b7e3f371e0b6371cdde72af3588c7ff46bcf5b70",
+      "url": "https://www.semanticscholar.org/paper/b7e3f371e0b6371cdde72af3588c7ff46bcf5b70",
+      "title": "Fair Coordination of Distributed Energy Resources with Volt-Var Control and PV Curtailment",
+      "venue": "Applied Energy",
+      "year": 2021,
+      "citationCount": 70,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2203.04842",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2203.04842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A tractable multi-objective DOPF method for optimal DER coordination that curtails PV generation fairly across prosumers and incorporates a standard piecewise-linear Volt-Var control reactive power control function without using integer variables is developed."
+      },
+      "authors": [
+        {
+          "authorId": "112952066",
+          "name": "Daniel Gebbran"
+        },
+        {
+          "authorId": "3364581",
+          "name": "Sleiman Mhanna"
+        },
+        {
+          "authorId": "80481504",
+          "name": "Yiju Ma"
+        },
+        {
+          "authorId": "1996149",
+          "name": "Archie C. Chapman"
+        },
+        {
+          "authorId": "2448835",
+          "name": "G. Verbi\u010d"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ac58703e295a9ce045aeb05840a2e4099be5a080",
+      "url": "https://www.semanticscholar.org/paper/ac58703e295a9ce045aeb05840a2e4099be5a080",
+      "title": "Risk of Loss of Protection Coordination in Distribution Grids with High Penetration of Distributed Energy Resources",
+      "venue": "Annual Meeting of the IEEE Industry Applications Society",
+      "year": 2021,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ias48185.2021.9677362?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ias48185.2021.9677362, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2074641584",
+          "name": "Muhammad Yousaf"
+        },
+        {
+          "authorId": "1996906",
+          "name": "K. Muttaqi"
+        },
+        {
+          "authorId": "2062872095",
+          "name": "D. Sutanto"
+        }
+      ],
+      "abstract": "Despite the substantial reliability and power quality improvements, the proliferation of distributed energy resources (DERs) can originate many protection complexities in the distribution networks. This research article presents a comprehensive investigative analysis of the distributed generation (DG) impacts on the protection performance of the distribution network. Various protection coordination case studies have been analyzed under different operating conditions by varying the DG penetration level or the fault conditions to highlight the potential risks of the protection networks. The severity of the risks is evaluated by considering the DG locations, protection settings, and fault types/impedance parameters on a standardized IEEE 13 node test feeder. The subsequent protection hazards are examined for the mutual coordination of the overcurrent (OC) relays, auto-reclosers, and series fuses in distribution networks. Furthermore, the impacts of DGs/PDs types are assessed on the nuisance tripping of the protection networks and results are reported."
+    },
+    {
+      "paperId": "4bc2d93362d14de0f54763043dfef9343c3a7694",
+      "url": "https://www.semanticscholar.org/paper/4bc2d93362d14de0f54763043dfef9343c3a7694",
+      "title": "Voltage Regulation of Distribution Feeders by Distributed Energy Resources Coordination Control in Microgrid",
+      "venue": "IEEE International Future Energy Electronics Conference",
+      "year": 2021,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ifeec53238.2021.9661903?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ifeec53238.2021.9661903, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "46398925",
+          "name": "Yu-Jen Liu"
+        },
+        {
+          "authorId": "2145002431",
+          "name": "Shi Yang"
+        },
+        {
+          "authorId": "2144402590",
+          "name": "Weiming Liu"
+        },
+        {
+          "authorId": "97561271",
+          "name": "Y. Lee"
+        },
+        {
+          "authorId": "1475665437",
+          "name": "Chin-Chan Cheng"
+        }
+      ],
+      "abstract": "Driven by the rising awareness of environment protection and energy policies, distributed energy resource (DER) has become one of the important technologies for future power system applications. When a large of photovoltaic (PV) is integrated into the power system, the problem of voltage fluctuation that affects the safety and stability on system operations may be met. It is thus necessary to seek useful manners for the mitigation and improvement of this problem. In this paper, a AC microgrid system operates in a 11.4 kV distribution feeder is studied. A coordination control strategy based on the implementations of on-load tap changer (OLTC) transformer and PV inverter (PVI) in microgrid will be proposed for the voltage regulation of the studied distribution feeder. In proposed method, local voltage level (LVL) method and voltage/var control (VVC) method will be separately used for OLTC transformer and PV inverter, and MATLAB/Simulink will be used to carry out the proposed method and to perform simulation test. Finally, simulations under un-coordination and coordination controls will be compared to verify the proposed voltage regulation method."
+    },
+    {
+      "paperId": "6c9838c09530a8244785b8357ec980e2a79d4467",
+      "url": "https://www.semanticscholar.org/paper/6c9838c09530a8244785b8357ec980e2a79d4467",
+      "title": "Market-Based Coordination of Transmission and Distribution Network Planning with Distributed Energy Resources Planning",
+      "venue": "Social Science Research Network",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3898484?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3898484, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Numerical results demonstrate that the proposed market-based coordination of transmission and distribution network planning (TDNP) with DERP, promotes DER installations and reduces the total cost."
+      },
+      "authors": [
+        {
+          "authorId": "101454768",
+          "name": "Xuanyi Xiao"
+        },
+        {
+          "authorId": "71281034",
+          "name": "Feng Wang"
+        },
+        {
+          "authorId": "144303962",
+          "name": "Yujia Zhai"
+        },
+        {
+          "authorId": "2109823774",
+          "name": "Zhiyi Li"
+        },
+        {
+          "authorId": "144700840",
+          "name": "Quan Zhou"
+        },
+        {
+          "authorId": "152206228",
+          "name": "Mingyu Yan"
+        }
+      ],
+      "abstract": "Distributed energy resources (DERs) have the potential for the non-lines alternative in both transmission and distribution (T&D) systems. However, the value of DERs in substituting power lines in T&D systems is not revealed and coordinated planning of T&D networks and DERs under market environment is not studied in existing researches. This may damage the interests of DER investors, hinder the wide integration of DERs in power system and increase total cost under market environment. This paper proposes market-based coordination of transmission and distribution network planning (TDNP) with DER planning (DERP). The model is formulated as multi-stage programming. In first stage, transmission companies (TRANSCOs), distribution companies (DISCOs), and DER aggregators (DERAs) send their bidding plans to independent system operator (ISO) and distribution system operators (DSOs), respectively. In second stage, ISO and DSOs check the transmission and distribution network securities, respectively. In third stage, ISO and DSOs solve their optimal operation problems, respectively. An iterative solution algorithm is proposed to solve the multistage model. The solution embodies the interaction process among TRANSCOs, DISCOs, DERAs, ISO, and DSOs in electricity market. Numerical results demonstrate that the proposed model coordinates TDNP with DERP, promotes DER installations and reduces the total cost."
+    },
+    {
+      "paperId": "80f0d9aeb9b0da799f60ae23d47ad7c4bea85ca9",
+      "url": "https://www.semanticscholar.org/paper/80f0d9aeb9b0da799f60ae23d47ad7c4bea85ca9",
+      "title": "Optimal Real-time Coordination of Distributed Energy Resources in Low-voltage Grids",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2105.01750, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A real-time distributed energy resource (DER) coordination model that can exploit flexibility from the DERs to solve voltage and overloading issues using both active and reactive power is proposed."
+      },
+      "authors": [
+        {
+          "authorId": "4195970",
+          "name": "Sen Zhan"
+        },
+        {
+          "authorId": "3451121",
+          "name": "J. Morren"
+        },
+        {
+          "authorId": "153241399",
+          "name": "W. V. D. Akker"
+        },
+        {
+          "authorId": "2088384396",
+          "name": "Anne van der Molen"
+        },
+        {
+          "authorId": "1954673",
+          "name": "H. Slootweg"
+        }
+      ],
+      "abstract": "This study proposes a real-time distributed energy resource (DER) coordination model that can exploit flexibility from the DERs to solve voltage and overloading issues using both active and reactive power. The model considers time-coupling devices including electric vehicles and heat pumps by deviating as little as possible from their original schedules while prioritizing DERs with the most urgent demand using dynamic cost terms. The model does not require a multi-period setting or a multi-period-ahead forecast, which enables the model to alleviate the computational difficulty and enhance its applicability for DSOs to manage the grids in real time. A case study using a Dutch low-voltage grid assuming a 100% penetration scenario of electric vehicles, heat pumps, and photovoltaics (PVs) in the households validates that the proposed model can resolve the network issues while not affecting user comfort."
+    },
+    {
+      "paperId": "770c8243a66e2aca7f36ed608754960b9c2971d4",
+      "url": "https://www.semanticscholar.org/paper/770c8243a66e2aca7f36ed608754960b9c2971d4",
+      "title": "Real-Time Model-Free Coordination of Active and Reactive Powers of Distributed Energy Resources to Improve Voltage Regulation in Distribution Systems",
+      "venue": "IEEE Transactions on Sustainable Energy",
+      "year": 2020,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSTE.2019.2928824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSTE.2019.2928824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A model-free optimal strategy to regulate the voltage in distribution systems by effective control of Inverter-Interfaced Distributed Energy Resources (I-DERs) output power using the extremum seeking control technique and without an explicit model of distribution circuit is proposed."
+      },
+      "authors": [
+        {
+          "authorId": "3154245",
+          "name": "H. Nazaripouya"
+        },
+        {
+          "authorId": "143869165",
+          "name": "H. Pota"
+        },
+        {
+          "authorId": "3011328",
+          "name": "C. Chu"
+        },
+        {
+          "authorId": "1769614",
+          "name": "R. Gadh"
+        }
+      ],
+      "abstract": "This paper proposes and implements a model-free optimal strategy to regulate the voltage in distribution systems by effective control of Inverter-Interfaced Distributed Energy Resources (I-DERs) output power. In distribution systems, where the ratio of R/X is considerable, reactive power control is not always an optimum solution for voltage regulation. With the aim of improving voltage regulation, this paper proposes an alternative method to optimally coordinate active and reactive power of I-DERs in the grid. The proposed method does not need to have a system model and phase measurement, which are barriers in control and operation of behind-the-meter assets. The paper formulates the problem of voltage regulation in form of equilibrium-map-with-optimum, without any restriction on system configuration, amount of reverse power flow and losses. Using the extremum seeking control technique and without an explicit model of distribution circuit, the ratio of active and reactive power is coordinated in real time. The amount of exchanged apparent power is also adjusted simultaneously. Simulation results for a typical distribution circuit verify the effectiveness of the proposed approach in improving the voltage regulation performance. The experimental results also show a 20 percent reduction in use of system capacity to provide the desired voltage regulation performance."
+    },
+    {
+      "paperId": "6ded96d50e7ecaa5500e2193ae54a3c2f7262905",
+      "url": "https://www.semanticscholar.org/paper/6ded96d50e7ecaa5500e2193ae54a3c2f7262905",
+      "title": "Hierarchical, Grid-Aware, and Economically Optimal Coordination of Distributed Energy Resources in Realistic Distribution Systems",
+      "venue": "Energies",
+      "year": 2020,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/13/23/6399/pdf?version=1607074177",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9706594, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel hierarchical scheme that actively controls behind-the-meter DERs to reliably manage each unbalanced distribution feeder and exploits the available flexibility to ensure reliable operation and economically optimizes the entire distribution network is presented."
+      },
+      "authors": [
+        {
+          "authorId": "1945992",
+          "name": "Mads R. Almassalkhi"
+        },
+        {
+          "authorId": "79981412",
+          "name": "Sarnaduti Brahma"
+        },
+        {
+          "authorId": "51240232",
+          "name": "Nawaf Nazir"
+        },
+        {
+          "authorId": "2771794",
+          "name": "H. Ossareh"
+        },
+        {
+          "authorId": "40442200",
+          "name": "P. Racherla"
+        },
+        {
+          "authorId": "51227989",
+          "name": "Soumya Kundu"
+        },
+        {
+          "authorId": "51463428",
+          "name": "S. Nandanoori"
+        },
+        {
+          "authorId": "49755882",
+          "name": "Thiagarajan Ramachandran"
+        },
+        {
+          "authorId": "3075128",
+          "name": "Ankit Singhal"
+        },
+        {
+          "authorId": "1812497",
+          "name": "D. Gayme"
+        },
+        {
+          "authorId": "152351073",
+          "name": "Chengda Ji"
+        },
+        {
+          "authorId": "1706983",
+          "name": "Enrique Mallada"
+        },
+        {
+          "authorId": "2117689028",
+          "name": "Yue Shen"
+        },
+        {
+          "authorId": "32654991",
+          "name": "Pengcheng You"
+        },
+        {
+          "authorId": "50540900",
+          "name": "D. Anand"
+        }
+      ],
+      "abstract": "Renewable portfolio standards are targeting high levels of variable solar photovoltaics (PV) in electric distribution systems, which makes reliability more challenging to maintain for distribution system operators (DSOs). Distributed energy resources (DERs), including smart, connected appliances and PV inverters, represent responsive grid resources that can provide flexibility to support the DSO in actively managing their networks to facilitate reliability under extreme levels of solar PV. This flexibility can also be used to optimize system operations with respect to economic signals from wholesale energy and ancillary service markets. Here, we present a novel hierarchical scheme that actively controls behind-the-meter DERs to reliably manage each unbalanced distribution feeder and exploits the available flexibility to ensure reliable operation and economically optimizes the entire distribution network. Each layer of the scheme employs advanced optimization methods at different timescales to ensure that the system operates within both grid and device limits. The hierarchy is validated in a large-scale realistic simulation based on data from the industry. Simulation results show that coordination of flexibility improves both system reliability and economics, and enables greater penetration of solar PV. Discussion is also provided on the practical viability of the required communications and controls to implement the presented scheme within a large DSO."
+    },
+    {
+      "paperId": "4be46d48e120adabed410d9ee84fcfe82a3c7d4a",
+      "url": "https://www.semanticscholar.org/paper/4be46d48e120adabed410d9ee84fcfe82a3c7d4a",
+      "title": "Enhanced Coordination Strategy for an Aggregator of Distributed Energy Resources Participating in the Day-Ahead Reserve Market",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/13/8/1965/pdf?version=1587186461",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en13081965?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en13081965, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A linear programming model for the aggregator\u2019s coordination strategy to maximize its profit through the management of DERs and the participation in the day-ahead reserve market is proposed, leading to better outcomes in both profits and EDS operation."
+      },
+      "authors": [
+        {
+          "authorId": "30632299",
+          "name": "C. P. Guzman"
+        },
+        {
+          "authorId": "46623339",
+          "name": "Nataly Ba\u00f1ol Arias"
+        },
+        {
+          "authorId": "40374554",
+          "name": "J. Franco"
+        },
+        {
+          "authorId": "1853795",
+          "name": "M. J. Rider"
+        },
+        {
+          "authorId": "145967013",
+          "name": "R. Romero"
+        }
+      ],
+      "abstract": "The integration of distributed energy resources (DERs), e.g., electric vehicles (EVs) and renewable distributed generation (DG), in the electrical distribution system (EDS) brings advantages to society, but also introduces technical challenges (e.g., overloading and voltage issues). A DER aggregator, which has agreements with DERs to manage their consumption/generation, could collaborate with the EDS operator to mitigate those technical challenges. Previous approaches have mainly focused on the aggregator\u2019s strategy to manage demand, aiming at the maximization of profits. Therefore, methods to support the aggregator\u2019s strategy need to be extended to facilitate the integration of renewable DG, leading to an enhanced coordination of DERs. This paper proposes a linear programming model for the aggregator\u2019s coordination strategy to maximize its profit through the management of DERs and the participation in the day-ahead reserve market. The model uses EV charging control to provide up/down reserve and reduces its cost taking advantage of DG. The proposed mathematical model represents the daily EDS operation (hourly resolution) to enforce voltage and current magnitude constraints. A case study carried out in an unbalanced 34-bus EDS with 660 EVs, demonstrates that the application of the proposed method enhances the DER aggregator\u2019s strategy, leading to better outcomes in both profits and EDS operation."
+    },
+    {
+      "paperId": "0735a1275c3e8ee3540f9ab808b4f1b33a0201ed",
+      "url": "https://www.semanticscholar.org/paper/0735a1275c3e8ee3540f9ab808b4f1b33a0201ed",
+      "title": "DSO\u2013TSO Coordination of Day-Ahead Operation Planning with the Use of Distributed Energy Resources",
+      "venue": "Energies",
+      "year": 2020,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/13/14/3559/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en13143559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en13143559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A bilevel coordination concept of day-ahead operation planning with new kind of bids to be submitted by Distribution System Operators to the Transmission System Operator (TSO) is proposed and proved that the modified profiles reduce the congestions in the transmission network."
+      },
+      "authors": [
+        {
+          "authorId": "31389983",
+          "name": "R. Dzikowski"
+        }
+      ],
+      "abstract": "Growing penetration of uncoordinated Distributed Energy Resources (DERs) in distribution systems is contributing to the increase of the load variability to be covered at the transmission system level. Forced, fast and substantial changes of power plants\u2019 output powers increase the risk of their failures, which threatens the reliable and safe delivery of electricity to end users in the power system. The paper handles this issue with the use of DERs and proposes a bilevel coordination concept of day-ahead operation planning with new kind of bids to be submitted by Distribution System Operators (DSOs) to the Transmission System Operator (TSO). This concept includes the extension of the Unit Commitment problem solved by TSO and a new optimization model to be solved by DSO for planning a smoothed power profile at the Transmission\u2013Distribution (T\u2013D) interface. Both optimization models are described in the paper. As simulations show, the modified 24-h power profiles at T\u2013D interfaces result in a reduction of the demand for operation flexibility at the transmission system level and, importantly, result in a decrease of the number of conventional power plants that are required to operate during a day. Additionally, it has been proved that the modified profiles reduce the congestions in the transmission network. Hence, the concept presented in the paper can be identified as an important step towards the transformation of power systems to low-emission and reliable systems with high share of DERs."
+    },
+    {
+      "paperId": "159d70bd9694f71bfe51cbd05645724b5d4365bb",
+      "url": "https://www.semanticscholar.org/paper/159d70bd9694f71bfe51cbd05645724b5d4365bb",
+      "title": "Optimizing Distribution System Resilience in Extreme Weather Using Prosumer-Centric Microgrids with Integrated Distributed Energy Resources and Battery Electric Vehicles",
+      "venue": "Sustainability",
+      "year": 2024,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2071-1050/16/6/2379/pdf?version=1710331342",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/su16062379?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su16062379, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2291745470",
+          "name": "Muthusamy Thirumalai"
+        },
+        {
+          "authorId": "2188031202",
+          "name": "R. Hariharan"
+        },
+        {
+          "authorId": "2249378180",
+          "name": "T. Yuvaraj"
+        },
+        {
+          "authorId": "101717808",
+          "name": "N. Prabaharan"
+        }
+      ],
+      "abstract": "Electric power networks face vulnerabilities from various hazards, including extreme weather and natural disasters, resulting in prolonged outages and service disruptions. This paper proposes prosumer-centric networked electrical microgrids as a solution. EMGs integrate DERs, like SPV panels, WTs, BESSs, and BEVs, to form autonomous microgrids capable of operating independently during grid disruptions. The SMA was used to identify the appropriate allocation of DERs and BEVs to improve the resilience of the system. Prosumers, acting as both producers and consumers, play a crucial role by generating and sharing electricity within the microgrid. BEVs act as mobile energy storage units during emergencies. Load management and demand response strategies prioritize the energy needs for essential facilities, ensuring uninterrupted operation during adverse weather. Robust communication and control systems improve the emergency coordination and response. The resilience analysis focused on two case studies: moderate and severe damage, both under varying weather conditions. Simulations and experiments assessed the microgrid performance with different levels of DERs and demand. By testing on the IEEE 69-bus RDS, evaluated the EMGs\u2019 strengths and limitations, demonstrating their potential to enhance distribution grid resilience against natural disasters."
+    }
+  ]
+}

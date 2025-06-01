@@ -1,0 +1,185 @@
+2025-06-01 11:58:05,315 - INFO - 
+Processing 0 primary papers...
+2025-06-01 11:58:05,316 - INFO - 
+Processing 6 secondary papers...
+2025-06-01 11:58:05,316 - INFO - 
+Processing paper: Secure mobile cloud computing
+2025-06-01 11:58:05,316 - INFO - Downloading PDF: Secure_mobile_cloud_computing.pdf
+2025-06-01 11:58:05,410 - ERROR - Error downloading PDF from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpe.6528: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpe.6528
+2025-06-01 11:58:07,415 - INFO - 
+Processing paper: Context-Aware Decision Making in Wireless Networks: Optimization and Machine Learning Approaches
+2025-06-01 11:58:07,416 - WARNING - No PDF URL found for: Context-Aware Decision Making in Wireless Networks: Optimization and Machine Learning Approaches
+2025-06-01 11:58:09,417 - INFO - 
+Processing paper: 19th on Robots and Vision
+2025-06-01 11:58:09,417 - WARNING - No PDF URL found for: 19th on Robots and Vision
+2025-06-01 11:58:11,422 - INFO - 
+Processing paper: Idea Grou p Inc . Copy right Idea Grou p Inc . Copy right Idea Grou p Inc . Copy right Idea Grou p Inc . Chapter VI An Approach to Web-Based Application Integration Using Java Adapters and XML
+2025-06-01 11:58:11,423 - WARNING - No PDF URL found for: Idea Grou p Inc . Copy right Idea Grou p Inc . Copy right Idea Grou p Inc . Copy right Idea Grou p Inc . Chapter VI An Approach to Web-Based Application Integration Using Java Adapters and XML
+2025-06-01 11:58:13,424 - INFO - 
+Processing paper: A Web Server to Dynamically Generate Network Slices with User-Defined Virtual Network Function Service Chains
+2025-06-01 11:58:13,424 - WARNING - No PDF URL found for: A Web Server to Dynamically Generate Network Slices with User-Defined Virtual Network Function Service Chains
+2025-06-01 11:58:15,430 - INFO - 
+Processing paper: Urban Edge Computing
+2025-06-01 11:58:15,430 - WARNING - No PDF URL found for: Urban Edge Computing
+2025-06-01 11:58:17,435 - INFO - 
+Processing 150 tertiary papers...
+2025-06-01 11:58:17,435 - INFO - 
+Processing paper: Understanding small‐scale private forest owners is a basis for transformative change towards integrative conservation
+2025-06-01 11:58:17,435 - INFO - Downloading PDF: Understanding_small‐scale_private_forest_owners_is_a_basis_for_transformative_change_towards_integra.pdf
+2025-06-01 11:58:17,502 - ERROR - Error downloading PDF from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.10579: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.10579
+2025-06-01 11:58:19,508 - INFO - 
+Processing paper: Comparative Analysis of the Use Egalitarian and Utilitarian Approaches in the Freight Transportation Optimization Problem
+2025-06-01 11:58:19,508 - WARNING - No PDF URL found for: Comparative Analysis of the Use Egalitarian and Utilitarian Approaches in the Freight Transportation Optimization Problem
+2025-06-01 11:58:21,510 - INFO - 
+Processing paper: Promoting Landscape-Level Forest Management in Fire-Prone Areas: Delegate Management to a Multi-Owner Collaborative, Rent the Land, or Just Sell It?
+2025-06-01 11:58:21,511 - INFO - Downloading PDF: Promoting_Landscape-Level_Forest_Management_in_Fire-Prone_Areas:_Delegate_Management_to_a_Multi-Owne.pdf
+2025-06-01 11:58:21,560 - ERROR - Error downloading PDF from https://www.mdpi.com/1999-4907/13/1/22/pdf?version=1640337577: 403 Client Error: Forbidden for url: https://www.mdpi.com/1999-4907/13/1/22/pdf?version=1640337577
+2025-06-01 11:58:23,562 - INFO - 
+Processing paper: Verifiable Data Sharing Scheme for Dynamic Multi-Owner Setting
+2025-06-01 11:58:23,563 - INFO - Downloading PDF: Verifiable_Data_Sharing_Scheme_for_Dynamic_Multi-Owner_Setting.pdf
+2025-06-01 11:58:26,289 - INFO - Converting to markdown: Verifiable_Data_Sharing_Scheme_for_Dynamic_Multi-Owner_Setting.md
+2025-06-01 11:58:26,411 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Verifiable_Data_Sharing_Scheme_for_Dynamic_Multi-Owner_Setting.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Verifiable_Data_Sharing_Scheme_for_Dynamic_Multi-Owner_Setting.md
+2025-06-01 11:58:28,416 - INFO - 
+Processing paper: Cloud based Secure Multi Owner Hospital Management System
+2025-06-01 11:58:28,418 - INFO - Downloading PDF: Cloud_based_Secure_Multi_Owner_Hospital_Management_System.pdf
+2025-06-01 11:58:30,225 - INFO - Converting to markdown: Cloud_based_Secure_Multi_Owner_Hospital_Management_System.md
+2025-06-01 11:58:30,261 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Cloud_based_Secure_Multi_Owner_Hospital_Management_System.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Cloud_based_Secure_Multi_Owner_Hospital_Management_System.md
+2025-06-01 11:58:32,266 - INFO - 
+Processing paper: FingerChain: Copyrighted Multi-Owner Media Sharing by Introducing Asymmetric Fingerprinting Into Blockchain
+2025-06-01 11:58:32,269 - WARNING - No PDF URL found for: FingerChain: Copyrighted Multi-Owner Media Sharing by Introducing Asymmetric Fingerprinting Into Blockchain
+2025-06-01 11:58:34,270 - INFO - 
+Processing paper: Issues under the Welfare of Senior Citizens Act and Multi-Family Housing management Act for the management of a sale-type senior housing
+2025-06-01 11:58:34,272 - WARNING - No PDF URL found for: Issues under the Welfare of Senior Citizens Act and Multi-Family Housing management Act for the management of a sale-type senior housing
+2025-06-01 11:58:36,275 - INFO - 
+Processing paper: Mistresses of company capital: Female partners in multi-owner firms, Spain (1886–1936)
+2025-06-01 11:58:36,278 - WARNING - No PDF URL found for: Mistresses of company capital: Female partners in multi-owner firms, Spain (1886–1936)
+2025-06-01 11:58:38,280 - INFO - 
+Processing paper: Secure Data Group Sharing and Distribution with Multi-Owner using Multi Cloud Storage Services
+2025-06-01 11:58:38,281 - WARNING - No PDF URL found for: Secure Data Group Sharing and Distribution with Multi-Owner using Multi Cloud Storage Services
+2025-06-01 11:58:40,286 - INFO - 
+Processing paper: Multi-directional nature of falls among older adults: A rationale for prevention and management
+2025-06-01 11:58:40,290 - INFO - Downloading PDF: Multi-directional_nature_of_falls_among_older_adults:_A_rationale_for_prevention_and_management.pdf
+2025-06-01 11:58:41,025 - INFO - Converting to markdown: Multi-directional_nature_of_falls_among_older_adults:_A_rationale_for_prevention_and_management.md
+2025-06-01 11:58:41,085 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Multi-directional_nature_of_falls_among_older_adults:_A_rationale_for_prevention_and_management.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Multi-directional_nature_of_falls_among_older_adults:_A_rationale_for_prevention_and_management.md
+2025-06-01 11:58:43,090 - INFO - 
+Processing paper: Something went missing: cessation of Traditional Owner land management and rapid mammalian population collapses in the semi-arid region of the Murray–Darling Basin, southeastern Australia
+2025-06-01 11:58:43,095 - INFO - Downloading PDF: Something_went_missing:_cessation_of_Traditional_Owner_land_management_and_rapid_mammalian_populatio.pdf
+2025-06-01 11:58:45,454 - ERROR - Error downloading PDF from https://www.publish.csiro.au/rs/pdf/rs22002: 403 Client Error: Forbidden: Access is denied. for url: https://www.publish.csiro.au/rs/pdf/rs22002
+2025-06-01 11:58:47,456 - INFO - 
+Processing paper: DER Impacts and Equity Considerations for Transmission Assets in a Multi Area Network
+2025-06-01 11:58:47,457 - WARNING - No PDF URL found for: DER Impacts and Equity Considerations for Transmission Assets in a Multi Area Network
+2025-06-01 11:58:49,462 - INFO - 
+Processing paper: SDBE-MOG: Secure Dynamic Bits Encryption for Multi Owner Group Data Sharing in Cloud
+2025-06-01 11:58:49,466 - WARNING - No PDF URL found for: SDBE-MOG: Secure Dynamic Bits Encryption for Multi Owner Group Data Sharing in Cloud
+2025-06-01 11:58:51,471 - INFO - 
+Processing paper: Comparative Evaluation Research on the Carrying Capacity of Multi-regional Distribution Network Owner Project Departments Based on Combined Weights
+2025-06-01 11:58:51,474 - INFO - Downloading PDF: Comparative_Evaluation_Research_on_the_Carrying_Capacity_of_Multi-regional_Distribution_Network_Owne.pdf
+2025-06-01 11:58:53,012 - INFO - Converting to markdown: Comparative_Evaluation_Research_on_the_Carrying_Capacity_of_Multi-regional_Distribution_Network_Owne.md
+2025-06-01 11:58:53,115 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Comparative_Evaluation_Research_on_the_Carrying_Capacity_of_Multi-regional_Distribution_Network_Owne.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Comparative_Evaluation_Research_on_the_Carrying_Capacity_of_Multi-regional_Distribution_Network_Owne.md
+2025-06-01 11:58:55,121 - INFO - 
+Processing paper: EKASE: Enhanced KeyAggregate Searchable Encryption for Multi-owner Data Sharing via Cloud
+2025-06-01 11:58:55,129 - WARNING - No PDF URL found for: EKASE: Enhanced KeyAggregate Searchable Encryption for Multi-owner Data Sharing via Cloud
+2025-06-01 11:58:57,134 - INFO - 
+Processing paper: MONA: SECURE MULTI -OWNER DATA SHARING FOR DYNAMIC GROUPS IN THE CLOUD
+2025-06-01 11:58:57,136 - WARNING - No PDF URL found for: MONA: SECURE MULTI -OWNER DATA SHARING FOR DYNAMIC GROUPS IN THE CLOUD
+2025-06-01 11:58:59,140 - INFO - 
+Processing paper: Bedeutung und Management von Cloud Computing, Multi-Cloud und Cloud Brokerage in Unternehmen
+2025-06-01 11:58:59,144 - INFO - Downloading PDF: Bedeutung_und_Management_von_Cloud_Computing,_Multi-Cloud_und_Cloud_Brokerage_in_Unternehmen.pdf
+2025-06-01 11:59:00,385 - INFO - Converting to markdown: Bedeutung_und_Management_von_Cloud_Computing,_Multi-Cloud_und_Cloud_Brokerage_in_Unternehmen.md
+2025-06-01 11:59:00,500 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Bedeutung_und_Management_von_Cloud_Computing,_Multi-Cloud_und_Cloud_Brokerage_in_Unternehmen.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Bedeutung_und_Management_von_Cloud_Computing,_Multi-Cloud_und_Cloud_Brokerage_in_Unternehmen.md
+2025-06-01 11:59:02,505 - INFO - 
+Processing paper: Multi-Criteria Decision Analysis in Food Safety Risk Management: The Case of Dioxins in Baltic Fish
+2025-06-01 11:59:02,510 - INFO - Downloading PDF: Multi-Criteria_Decision_Analysis_in_Food_Safety_Risk_Management:_The_Case_of_Dioxins_in_Baltic_Fish.pdf
+2025-06-01 11:59:02,574 - ERROR - Error downloading PDF from https://www.mdpi.com/2304-8158/11/7/1059/pdf?version=1649242525: 403 Client Error: Forbidden for url: https://www.mdpi.com/2304-8158/11/7/1059/pdf?version=1649242525
+2025-06-01 11:59:04,579 - INFO - 
+Processing paper: Multi-objective active network management scheme studied in Sundom smart grid with MV and LV network connected DER units
+2025-06-01 11:59:04,584 - WARNING - No PDF URL found for: Multi-objective active network management scheme studied in Sundom smart grid with MV and LV network connected DER units
+2025-06-01 11:59:06,589 - INFO - 
+Processing paper: Operation and Coordinated Energy Management in Multi-Microgrids for Improved and Resilient Distributed Energy Resource Integration in Power Systems
+2025-06-01 11:59:06,592 - INFO - Downloading PDF: Operation_and_Coordinated_Energy_Management_in_Multi-Microgrids_for_Improved_and_Resilient_Distribut.pdf
+2025-06-01 11:59:06,631 - ERROR - Error downloading PDF from https://www.mdpi.com/2079-9292/13/2/358/pdf?version=1705306158: 403 Client Error: Forbidden for url: https://www.mdpi.com/2079-9292/13/2/358/pdf?version=1705306158
+2025-06-01 11:59:08,636 - INFO - 
+Processing paper: Finance-based Scheduling for Cash-flow Management of Maintenance Portfolios: Multi-objective Optimization Approach
+2025-06-01 11:59:08,642 - INFO - Downloading PDF: Finance-based_Scheduling_for_Cash-flow_Management_of_Maintenance_Portfolios:_Multi-objective_Optimiz.pdf
+2025-06-01 11:59:09,394 - INFO - Converting to markdown: Finance-based_Scheduling_for_Cash-flow_Management_of_Maintenance_Portfolios:_Multi-objective_Optimiz.md
+2025-06-01 11:59:09,595 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Finance-based_Scheduling_for_Cash-flow_Management_of_Maintenance_Portfolios:_Multi-objective_Optimiz.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Finance-based_Scheduling_for_Cash-flow_Management_of_Maintenance_Portfolios:_Multi-objective_Optimiz.md
+2025-06-01 11:59:11,600 - INFO - 
+Processing paper: Drivers of facility management strategies used in multi-tenanted office buildings in Ghana
+2025-06-01 11:59:11,606 - WARNING - No PDF URL found for: Drivers of facility management strategies used in multi-tenanted office buildings in Ghana
+2025-06-01 11:59:13,611 - INFO - 
+Processing paper: Theorizing relational people management in micro enterprises: a multi-theoretical perspective
+2025-06-01 11:59:13,618 - INFO - Downloading PDF: Theorizing_relational_people_management_in_micro_enterprises:_a_multi-theoretical_perspective.pdf
+2025-06-01 11:59:14,664 - INFO - Converting to markdown: Theorizing_relational_people_management_in_micro_enterprises:_a_multi-theoretical_perspective.md
+2025-06-01 11:59:14,756 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Theorizing_relational_people_management_in_micro_enterprises:_a_multi-theoretical_perspective.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Theorizing_relational_people_management_in_micro_enterprises:_a_multi-theoretical_perspective.md
+2025-06-01 11:59:16,761 - INFO - 
+Processing paper: Multi-Actor DSO-TSO Congestion Management and Voltage Control Coordination with a Two-Level ADMM
+2025-06-01 11:59:16,768 - WARNING - No PDF URL found for: Multi-Actor DSO-TSO Congestion Management and Voltage Control Coordination with a Two-Level ADMM
+2025-06-01 11:59:18,770 - INFO - 
+Processing paper: Distributionally Robust Chance-Constrained Energy Management of Multi-Building Residential Apartment Complexes Using Wasserstein Metric
+2025-06-01 11:59:18,775 - WARNING - No PDF URL found for: Distributionally Robust Chance-Constrained Energy Management of Multi-Building Residential Apartment Complexes Using Wasserstein Metric
+2025-06-01 11:59:20,776 - INFO - 
+Processing paper: A Multi-Agent Approach for P2P Energy Trading with EV Battery Thermal Profile Management
+2025-06-01 11:59:20,780 - WARNING - No PDF URL found for: A Multi-Agent Approach for P2P Energy Trading with EV Battery Thermal Profile Management
+2025-06-01 11:59:22,780 - INFO - 
+Processing paper: Multi‐objective economic/emission optimal energy management system for scheduling micro‐grid integrated virtual power plant
+2025-06-01 11:59:22,784 - INFO - Downloading PDF: Multi‐objective_economic/emission_optimal_energy_management_system_for_scheduling_micro‐grid_integra.pdf
+2025-06-01 11:59:22,837 - ERROR - Error downloading PDF from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.1188: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.1188
+2025-06-01 11:59:24,843 - INFO - 
+Processing paper: Smart Microgrid System Performance Awareness Management using Multi-Stakeholder Techique
+2025-06-01 11:59:24,849 - WARNING - No PDF URL found for: Smart Microgrid System Performance Awareness Management using Multi-Stakeholder Techique
+2025-06-01 11:59:26,854 - INFO - 
+Processing paper: „Der Auftraggeber muss sich vor das Team stellen“. Mark Kreuscher, „Project Owner of the Year“ (pma)
+2025-06-01 11:59:26,860 - WARNING - No PDF URL found for: „Der Auftraggeber muss sich vor das Team stellen“. Mark Kreuscher, „Project Owner of the Year“ (pma)
+2025-06-01 11:59:28,863 - INFO - 
+Processing paper: Einfluss des Multiprojektmanagements auf Fabrikziele/Influence of multi-project management on factory goals – Developing a process model for planning and controlling multi-project environments in factories
+2025-06-01 11:59:28,868 - WARNING - No PDF URL found for: Einfluss des Multiprojektmanagements auf Fabrikziele/Influence of multi-project management on factory goals – Developing a process model for planning and controlling multi-project environments in factories
+2025-06-01 11:59:30,873 - INFO - 
+Processing paper: Protection Coordination Impact on Reliability of Distribution Systems With Distributed Energy Resources
+2025-06-01 11:59:30,880 - WARNING - No PDF URL found for: Protection Coordination Impact on Reliability of Distribution Systems With Distributed Energy Resources
+2025-06-01 11:59:32,886 - INFO - 
+Processing paper: Sequential Black Start Restoration in Active Distribution Network and Microgrids Using the PowerModelsDistribution Package
+2025-06-01 11:59:32,891 - WARNING - No PDF URL found for: Sequential Black Start Restoration in Active Distribution Network and Microgrids Using the PowerModelsDistribution Package
+2025-06-01 11:59:34,897 - INFO - 
+Processing paper: Deep Reinforcement Learning-Based Smart Grid Resource Allocation System
+2025-06-01 11:59:34,902 - WARNING - No PDF URL found for: Deep Reinforcement Learning-Based Smart Grid Resource Allocation System
+2025-06-01 11:59:36,906 - INFO - 
+Processing paper: Distributed Energy Resources Management System (DERMS) and Its Coordination with Transmission System: A Review and Co-Simulation
+2025-06-01 11:59:36,910 - INFO - Downloading PDF: Distributed_Energy_Resources_Management_System_(DERMS)_and_Its_Coordination_with_Transmission_System.pdf
+2025-06-01 11:59:36,998 - ERROR - Error downloading PDF from https://www.mdpi.com/1996-1073/17/6/1353/pdf?version=1710234298: 403 Client Error: Forbidden for url: https://www.mdpi.com/1996-1073/17/6/1353/pdf?version=1710234298
+2025-06-01 11:59:39,003 - INFO - 
+Processing paper: Bi-Level Optimal Allocation Method of Distributed Energy Resources in Medium and Low Voltage Distribution System Considering Source-Load-Storage Coordination
+2025-06-01 11:59:39,008 - WARNING - No PDF URL found for: Bi-Level Optimal Allocation Method of Distributed Energy Resources in Medium and Low Voltage Distribution System Considering Source-Load-Storage Coordination
+2025-06-01 11:59:41,013 - INFO - 
+Processing paper: Coordination of Distributed Energy Resources in a Distribution Network via Nonlinear Dual Critical Region Exploration
+2025-06-01 11:59:41,018 - WARNING - No PDF URL found for: Coordination of Distributed Energy Resources in a Distribution Network via Nonlinear Dual Critical Region Exploration
+2025-06-01 11:59:43,021 - INFO - 
+Processing paper: Decentralized Coordination of Distributed Energy Resources through Local Energy Markets and Deep Reinforcement Learning
+2025-06-01 11:59:43,026 - WARNING - No PDF URL found for: Decentralized Coordination of Distributed Energy Resources through Local Energy Markets and Deep Reinforcement Learning
+2025-06-01 11:59:45,028 - INFO - 
+Processing paper: Coordination of Smart Inverter-Enabled Distributed Energy Resources for Optimal PV-BESS Integration and Voltage Stability in Modern Power Distribution Networks: A Systematic Review and Bibliometric Analysis
+2025-06-01 11:59:45,039 - INFO - Downloading PDF: Coordination_of_Smart_Inverter-Enabled_Distributed_Energy_Resources_for_Optimal_PV-BESS_Integration_.pdf
+2025-06-01 11:59:45,845 - INFO - Converting to markdown: Coordination_of_Smart_Inverter-Enabled_Distributed_Energy_Resources_for_Optimal_PV-BESS_Integration_.md
+2025-06-01 11:59:45,849 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Coordination_of_Smart_Inverter-Enabled_Distributed_Energy_Resources_for_Optimal_PV-BESS_Integration_.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Coordination_of_Smart_Inverter-Enabled_Distributed_Energy_Resources_for_Optimal_PV-BESS_Integration_.md
+2025-06-01 11:59:47,854 - INFO - 
+Processing paper: NAESB's Evolving Standards: Advancing Hydrogen, Distributed Energy Resources, Cybersecurity, and Market Coordination
+2025-06-01 11:59:47,861 - WARNING - No PDF URL found for: NAESB's Evolving Standards: Advancing Hydrogen, Distributed Energy Resources, Cybersecurity, and Market Coordination
+2025-06-01 11:59:49,883 - INFO - 
+Processing paper: Automation Framework for Blockchain-Based Coordination of Distributed Energy Resources
+2025-06-01 11:59:49,924 - WARNING - No PDF URL found for: Automation Framework for Blockchain-Based Coordination of Distributed Energy Resources
+2025-06-01 11:59:51,929 - INFO - 
+Processing paper: Fast Coordination of Distributed Energy Resources Over Time-Varying Communication Networks
+2025-06-01 11:59:51,936 - INFO - Downloading PDF: Fast_Coordination_of_Distributed_Energy_Resources_Over_Time-Varying_Communication_Networks.pdf
+2025-06-01 11:59:52,132 - ERROR - Error downloading PDF from https://ieeexplore.ieee.org/ielx7/9/10031614/09916109.pdf: 418 Client Error: Unknown Code for url: https://ieeexplore.ieee.org/ielx7/9/10031614/09916109.pdf
+2025-06-01 11:59:54,138 - INFO - 
+Processing paper: Adaptive OCR coordination
+in distribution system with distributed energy resources contribution
+2025-06-01 11:59:54,145 - INFO - Downloading PDF: Adaptive_OCR_coordination
+in_distribution_system_with_distributed_energy_resources_contribution.pdf
+2025-06-01 11:59:54,984 - INFO - Converting to markdown: Adaptive_OCR_coordination
+in_distribution_system_with_distributed_energy_resources_contribution.md
+2025-06-01 11:59:55,043 - INFO - Successfully converted /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Adaptive_OCR_coordination
+in_distribution_system_with_distributed_energy_resources_contribution.pdf to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/papers/Adaptive_OCR_coordination
+in_distribution_system_with_distributed_energy_resources_contribution.md
+2025-06-01 11:59:57,045 - INFO - 
+Processing paper: A feasibility study of using MV and LV distributed energy resources flexibility in a TSO/DSO coordination perspective: the case study of Milan, Italy
+2025-06-01 11:59:57,053 - INFO - Downloading PDF: A_feasibility_study_of_using_MV_and_LV_distributed_energy_resources_flexibility_in_a_TSO/DSO_coordin.pdf

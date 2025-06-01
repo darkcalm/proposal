@@ -1,0 +1,296 @@
+\begin{thebibliography}{57}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Adlakha \protect\BIBand{} Johari(2013)}]{adlakha2013mean}
+Adlakha S, Johari R (2013) Mean field equilibrium in dynamic games with
+  strategic complementarities. \emph{Operations Research} 61(4):971--989.
+
+\bibitem[{Aliprantis \protect\BIBand{} Border(2006)}]{guide2006infinite}
+Aliprantis CD, Border KC (2006) \emph{Infinite dimensional analysis: {A}
+  Hitchhiker’s Guide} (Springer).
+
+\bibitem[{Amoroso \protect\BIBand{} Cappuccino(2012)}]{amoroso2012advantages}
+Amoroso FA, Cappuccino G (2012) Advantages of efficiency-aware smart charging
+  strategies for {PEV}s. \emph{Energy Conversion and Management} 54(1):1--6.
+
+\bibitem[{Anderson \protect\BIBand{} Cau(2011)}]{anderson2011implicit}
+Anderson EJ, Cau TD (2011) Implicit collusion and individual market power in
+  electricity markets. \emph{European Journal of Operational Research}
+  211(2):403--414.
+
+\bibitem[{Anderson \protect\BIBand{} Philpott(2002)}]{anderson2002using}
+Anderson EJ, Philpott AB (2002) Using supply functions for offering generation
+  into an electricity market. \emph{Operations Research} 50(3):477--489.
+
+\bibitem[{Anderson \protect\BIBand{} Xu(2005)}]{anderson2005supply}
+Anderson EJ, Xu H (2005) Supply function equilibrium in electricity spot
+  markets with contracts and price caps. \emph{Journal of Optimization Theory
+  and Applications} 124(2):257--283.
+
+\bibitem[{Bagagiolo \protect\BIBand{} Bauso(2014)}]{MFG_DM}
+Bagagiolo F, Bauso D (2014) Mean-field games and dynamic demand management in
+  power grids. \emph{Dynamic Games and Applications} 4:155--176.
+
+\bibitem[{Baldick et~al.(2004)Baldick, Grant, \protect\BIBand{}
+  Kahn}]{baldick2004theory}
+Baldick R, Grant R, Kahn E (2004) Theory and application of linear supply
+  function equilibrium in electricity markets. \emph{Journal of Regulatory
+  Economics} 25:143--167.
+
+\bibitem[{Bertsekas \protect\BIBand{} Shreve(1996)}]{bertsekas1996stochastic}
+Bertsekas D, Shreve SE (1996) \emph{Stochastic optimal control: the
+  discrete-time case}, volume~5 (Athena Scientific).
+
+\bibitem[{Bertsekas et~al.(2007)}]{BertsekasDP}
+Bertsekas DP, et~al. (2007) Dynamic programming and optimal control: {V}olume
+  2. \emph{Belmont, MA: Athena Scientific} .
+
+\bibitem[{Bunn \protect\BIBand{} Oliveira(2001)}]{Bunn}
+Bunn DW, Oliveira FS (2001) Agent-based simulation-an application to the new
+  electricity trading arrangements of {E}ngland and {W}ales. \emph{IEEE
+  transactions on Evolutionary Computation} 5(5):493--503.
+
+\bibitem[{Du et~al.(2021)Du, Li, Zandi, \protect\BIBand{} Xue}]{XueMARL}
+Du Y, Li F, Zandi H, Xue Y (2021) Approximating nash equilibrium in day-ahead
+  electricity market bidding with multi-agent deep reinforcement learning.
+  \emph{Journal of Modern Power Systems and Clean Energy} 9(3):534--544.
+
+\bibitem[{Erev \protect\BIBand{} Roth(1998)}]{Roth2}
+Erev I, Roth AE (1998) Predicting how people play games: Reinforcement learning
+  in experimental games with unique, mixed strategy equilibria. \emph{American
+  Economic Review} 848--881.
+
+\bibitem[{Fabra \protect\BIBand{} Toro(2005)}]{fabra2005price}
+Fabra N, Toro J (2005) Price wars and collusion in the spanish electricity
+  market. \emph{International Journal of Industrial Organization}
+  23(3-4):155--181.
+
+\bibitem[{{FERC}(2020)}]{FERC2222}
+{FERC} (2020) {Order No. 2222: Participation of Distributed Energy Resource
+  Aggregations in Markets Operated by Regional Transmission Organizations and
+  Independent System Operators}.
+  https://www.ferc.gov/ferc-order-no-2222-explainer-facilitating-participation-electricity-markets-distributed-energy,
+  accessed: 2024-08-30.
+
+\bibitem[{Fiacco \protect\BIBand{} Kyparisis(1986)}]{fiacco1986convexity}
+Fiacco AV, Kyparisis J (1986) Convexity and concavity properties of the optimal
+  value function in parametric nonlinear programming. \emph{Journal of
+  Optimization Theory and Applications} 48(1):95--126.
+
+\bibitem[{Fudenberg \protect\BIBand{} Tirole(1991)}]{GameTheory}
+Fudenberg D, Tirole J (1991) \emph{Game Theory} (The MIT Press).
+
+\bibitem[{Gu et~al.(2024)Gu, Guo, Wei, \protect\BIBand{} Xu}]{gu2024mean}
+Gu H, Guo X, Wei X, Xu R (2024) Mean-field multiagent reinforcement learning: A
+  decentralized network approach. \emph{Mathematics of Operations Research} .
+
+\bibitem[{Guerci et~al.(2010)Guerci, Rastegar, \protect\BIBand{}
+  Cincotti}]{ABS_BookChapter}
+Guerci E, Rastegar MA, Cincotti S (2010) Agent-based modeling and simulation of
+  competitive wholesale electricity markets. Rebennack S, Pardalos PM, Pereira
+  MVF, Iliadis NA, eds., \emph{Handbook of Power Systems II}, 241--286
+  (Springer).
+
+\bibitem[{Guo et~al.(2019)Guo, Hu, Xu, \protect\BIBand{}
+  Zhang}]{guo2019learning}
+Guo X, Hu A, Xu R, Zhang J (2019) Learning mean-field games. \emph{Advances in
+  Neural Information Processing Systems} 32.
+
+\bibitem[{Guo et~al.(2023)Guo, Hu, Xu, \protect\BIBand{}
+  Zhang}]{guo2023general}
+Guo X, Hu A, Xu R, Zhang J (2023) A general framework for learning mean-field
+  games. \emph{Mathematics of Operations Research} 48(2):656--686.
+
+\bibitem[{He \protect\BIBand{} Liu(2024)}]{HeLiu24}
+He J, Liu AL (2024) Evaluating the impact of multiple der aggregators on
+  wholesale energy markets: A hybrid mean field approach. arXiv preprint
+  arXiv:2409.00107.
+
+\bibitem[{Hobbs(1986)}]{hobbs1986network}
+Hobbs BF (1986) Network models of spatial oligopoly with an application to
+  deregulation of electricity generation. \emph{Operations Research}
+  34(3):395--409.
+
+\bibitem[{Holmberg \protect\BIBand{} Newbery(2010)}]{holmberg2010supply}
+Holmberg P, Newbery D (2010) The supply function equilibrium and its policy
+  implications for wholesale electricity auctions. \emph{Utilities Policy}
+  18(4):209--226.
+
+\bibitem[{Krishnamurthy et~al.(2015)Krishnamurthy, Li, \protect\BIBand{}
+  Tesfatsion}]{krishnamurthy20158}
+Krishnamurthy D, Li W, Tesfatsion L (2015) An 8-zone test system based on {ISO}
+  {N}ew {E}ngland data: Development and application. \emph{IEEE Transactions on
+  Power Systems} 31(1):234--246.
+
+\bibitem[{Light \protect\BIBand{} Weintraub(2022)}]{light2022mean}
+Light B, Weintraub GY (2022) Mean field equilibrium: uniqueness, existence, and
+  comparative statics. \emph{Operations Research} 70(1):585--605.
+
+\bibitem[{Liu(2010)}]{Liu_Collusion3}
+Liu AL (2010) Repeated games in electricity spot and forward markets-an
+  equilibrium modeling and computational framework. \emph{2010 48th Annual
+  Allerton Conference on Communication, Control, and Computing (Allerton)},
+  66--71 (IEEE).
+
+\bibitem[{Liu \protect\BIBand{} Hobbs(2013)}]{Liu_Collusion2}
+Liu AL, Hobbs BF (2013) Tacit collusion games in pool-based electricity markets
+  under transmission constraints. \emph{Mathematical Programming} 140:351--379.
+
+\bibitem[{Macal et~al.(2014)Macal, Thimmapuram, Koritarov, Conzelmann, Veselka,
+  North, Mahalik, Botterud, \protect\BIBand{} Cirillo}]{ArgonneABS2}
+Macal C, Thimmapuram P, Koritarov V, Conzelmann G, Veselka T, North M, Mahalik
+  M, Botterud A, Cirillo R (2014) Agent-based modeling of electric power
+  markets. \emph{Proceedings of the Winter Simulation Conference 2014},
+  276--287 (IEEE).
+
+\bibitem[{Mangasarian \protect\BIBand{} Shiau(1987)}]{Mangasarian_LipCont}
+Mangasarian OL, Shiau TH (1987) Lipschitz continuity of solutions of linear
+  inequalities, programs and complementarity problems. \emph{SIAM Journal on
+  Control and Optimization} 25(3):583--595.
+
+\bibitem[{Metzler et~al.(2003)Metzler, Hobbs, \protect\BIBand{}
+  Pang}]{metzler2003nash}
+Metzler C, Hobbs BF, Pang JS (2003) Nash-{C}ournot equilibria in power markets
+  on a linearized {DC} network with arbitrage: Formulations and properties.
+  \emph{Networks and Spatial Economics} 3:123--150.
+
+\bibitem[{Mondal et~al.(2022)Mondal, Agarwal, Aggarwal, \protect\BIBand{}
+  Ukkusuri}]{mondal2022approximation}
+Mondal WU, Agarwal M, Aggarwal V, Ukkusuri SV (2022) On the approximation of
+  cooperative heterogeneous multi-agent reinforcement learning {(MARL)} using
+  mean field control {(MFC)}. \emph{Journal of Machine Learning Research}
+  23(129):1--46.
+
+\bibitem[{Munkres(2014)}]{Topology}
+Munkres J (2014) \emph{Topology} (Pearson Education Limited), 2 edition.
+
+\bibitem[{Neuhoff et~al.(2005)Neuhoff, Barquin, Boots, Ehrenmann, Hobbs,
+  Rijkers, \protect\BIBand{} Vazquez}]{neuhoff2005network}
+Neuhoff K, Barquin J, Boots MG, Ehrenmann A, Hobbs BF, Rijkers FA, Vazquez M
+  (2005) Network-constrained {C}ournot models of liberalized electricity
+  markets: the devil is in the details. \emph{Energy Economics} 27(3):495--525.
+
+\bibitem[{North et~al.(2002)North, Conzelmann, Koritarov, Macal, Thimmapuram,
+  \protect\BIBand{} Veselka}]{ArgonneABS1}
+North M, Conzelmann G, Koritarov V, Macal C, Thimmapuram P, Veselka T (2002)
+  E-laboratories : agent-based modeling of electricity markets.
+  \emph{Proceedings of the 2002 American Power Conference}.
+
+\bibitem[{Peajcariaac \protect\BIBand{} Tong(1992)}]{ConvexFunctions}
+Peajcariaac JE, Tong YL (1992) \emph{Convex functions, partial orderings, and
+  statistical applications} (Academic Press).
+
+\bibitem[{Powell(2011)}]{Powell}
+Powell WB (2011) \emph{Approximate Dynamic Programming: Solving the Curses of
+  Dimensionality} (John Wiley \& Sons), 2 edition.
+
+\bibitem[{Price(1997)}]{ABS_Price}
+Price TC (1997) Using co-evolutionary programming to simulate strategic
+  behaviour in markets. \emph{Journal of Evolutionary Economics} 7:219--254.
+
+\bibitem[{Puterman(2014)}]{Puterman_MDP}
+Puterman ML (2014) \emph{Markov decision processes: discrete stochastic dynamic
+  programming} (John Wiley \& Sons).
+
+\bibitem[{Ramchurn et~al.(2011)Ramchurn, Vytelingum, Rogers, \protect\BIBand{}
+  Jennings}]{Rogers}
+Ramchurn SD, Vytelingum P, Rogers A, Jennings N (2011) Agent-based control for
+  decentralised demand side management in the smart grid. \emph{The 10th
+  International Conference on Autonomous Agents and Multiagent Systems-Volume
+  1}, 5--12 (International Foundation for Autonomous Agents and Multiagent
+  Systems).
+
+\bibitem[{Ringler et~al.(2016)Ringler, Keles, \protect\BIBand{}
+  Fichtner}]{ABS_Review1}
+Ringler P, Keles D, Fichtner W (2016) Agent-based modelling and simulation of
+  smart electricity grids and markets -- a literature review. \emph{Renewable
+  and Sustainable Energy Reviews} 57:205--215.
+
+\bibitem[{Rockafellar(1997)}]{Rockafellar}
+Rockafellar RT (1997) \emph{Convex analysis}, volume~28 (Princeton University
+  Press).
+
+\bibitem[{Roozbehani et~al.(2012)Roozbehani, Dahleh, \protect\BIBand{}
+  Mitter}]{roozbehani2012volatility}
+Roozbehani M, Dahleh MA, Mitter SK (2012) Volatility of power grids under
+  real-time pricing. \emph{IEEE Transactions on Power Systems}
+  27(4):1926--1940.
+
+\bibitem[{Roth \protect\BIBand{} Erev(1995)}]{Roth1}
+Roth AE, Erev I (1995) Learning in extensive-form games: Experimental data and
+  simple dynamic models in the intermediate term. \emph{Games and economic
+  behavior} 8(1):164--212.
+
+\bibitem[{Rudkevich(2005)}]{rudkevich2005supply}
+Rudkevich A (2005) On the supply function equilibrium and its applications in
+  electricity markets. \emph{Decision Support Systems} 40(3-4):409--425.
+
+\bibitem[{Saldi et~al.(2018)Saldi, Basar, \protect\BIBand{}
+  Raginsky}]{MarkovNash}
+Saldi N, Basar T, Raginsky M (2018) Markov--nash equilibria in mean-field games
+  with discounted cost. \emph{SIAM Journal on Control and Optimization}
+  56(6):4256--4287.
+
+\bibitem[{Sensfu{\ss} et~al.(2007)Sensfu{\ss}, Ragwitz, Genoese,
+  \protect\BIBand{} M{\"o}st}]{ABS_Review2}
+Sensfu{\ss} F, Ragwitz M, Genoese M, M{\"o}st D (2007) Agent-based simulation
+  of electricity markets: a literature review. Working Paper Sustainability and
+  Innovation, No. S5/2007, Fraunhofer Institute for Systems and Innovation
+  Research (ISI).
+
+\bibitem[{Shafie-khah \protect\BIBand{}
+  Catal{\~a}o(2014)}]{shafie2014stochastic}
+Shafie-khah M, Catal{\~a}o JP (2014) A stochastic multi-layer agent-based model
+  to study electricity market participants behavior. \emph{IEEE Transactions on
+  Power Systems} 30(2):867--881.
+
+\bibitem[{Sun \protect\BIBand{} Tesfatsion(2007)}]{Tesfatsion}
+Sun J, Tesfatsion L (2007) Dynamic testing of wholesale power market designs:
+  An open-source agent-based framework. \emph{Computational Economics}
+  30:291--327.
+
+\bibitem[{Sutton \protect\BIBand{} Barto(2018)}]{RLBook}
+Sutton RS, Barto AC (2018) Reinforcement learning: {A}n introduction. \emph{The
+  MIT Press} .
+
+\bibitem[{Tajeddini \protect\BIBand{} Kebriaei(2018)}]{MFG_EV1}
+Tajeddini MA, Kebriaei H (2018) A mean-field game method for decentralized
+  charging coordination of a large population of plug-in electric vehicles.
+  \emph{IEEE Systems Journal} 13(1):854--863.
+
+\bibitem[{Visudhiphan \protect\BIBand{} Ilic(1999)}]{Ilic}
+Visudhiphan P, Ilic MD (1999) Dynamic games-based modeling of electricity
+  markets. \emph{IEEE Power Engineering Society Winter Meeting}, volume~1,
+  274--281 (IEEE).
+
+\bibitem[{Willems(2002)}]{willems2002modeling}
+Willems B (2002) Modeling {C}ournot competition in an electricity market with
+  transmission constraints. \emph{The Energy Journal} 23(3):95--125.
+
+\bibitem[{Xie et~al.(2021)Xie, Yang, Wang, \protect\BIBand{}
+  Minca}]{Yang_LearnPlayMFG}
+Xie Q, Yang Z, Wang Z, Minca A (2021) Learning while playing in mean-field
+  games: Convergence and optimality. \emph{International Conference on Machine
+  Learning}, 11436--11447 (PMLR).
+
+\bibitem[{Ye et~al.(2022)Ye, Papadaskalopoulos, Yuan, Tang, \protect\BIBand{}
+  Strbac}]{GoranMARL}
+Ye Y, Papadaskalopoulos D, Yuan Q, Tang Y, Strbac G (2022) Multi-agent deep
+  reinforcement learning for coordinated energy trading and flexibility
+  services provision in local electricity markets. \emph{IEEE Transactions on
+  Smart Grid} 14(2):1541--1554.
+
+\bibitem[{Zhao et~al.(2018)Zhao, Liu, \protect\BIBand{} Chen}]{ZhaoLiu_MAB}
+Zhao Z, Liu AL, Chen Y (2018) Electricity demand response under real-time
+  pricing: A multi-armed bandit game. \emph{2018 Asia-Pacific Signal and
+  Information Processing Association Annual Summit and Conference (APSIPA
+  ASC)}, 748--756 (IEEE).
+
+\bibitem[{Zhu et~al.(2016)Zhu, Lambotharan, Chin, \protect\BIBand{}
+  Fan}]{MFG_EV2}
+Zhu Z, Lambotharan S, Chin WH, Fan Z (2016) A mean field game theoretic
+  approach to electric vehicles charging. \emph{IEEE Access} 4:3501--3510.
+
+\end{thebibliography}
