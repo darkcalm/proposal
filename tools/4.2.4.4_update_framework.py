@@ -12,35 +12,63 @@ This script processes the validation findings and updates the framework componen
 
 import json
 import os
+import re
 from datetime import datetime
+from pathlib import Path
 
 def load_validation_findings():
     """Load and parse validation findings from the assessment documents."""
     
+    validation_file = Path("../docs/4.2.4.3-document-validation-findings.md")
+    if not validation_file.exists():
+        raise FileNotFoundError(f"Validation findings file not found: {validation_file}")
+    
+    with open(validation_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Extract concept data from markdown tables
+    concept_pattern = r"\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(\d+)\s*papers\s*\|\s*✅\s*\*\*VALIDATED\*\*\s*\|"
+    concept_matches = re.finditer(concept_pattern, content)
+    
+    concepts = {}
+    for match in concept_matches:
+        concept_name = match.group(1).strip().lower().replace(' ', '_')
+        support_level = match.group(2).strip().lower().replace(' ', '_')
+        evidence_count = int(match.group(3))
+        concepts[concept_name] = {
+            'status': 'validated',
+            'support': support_level,
+            'evidence_count': evidence_count
+        }
+    
+    # Extract relationship data from markdown tables
+    relationship_pattern = r"\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(\d+)\s*papers\s*\|\s*✅\s*\*\*VALIDATED\*\*\s*\|"
+    relationship_matches = re.finditer(relationship_pattern, content)
+    
+    relationships = {}
+    for match in relationship_matches:
+        relationship_name = match.group(1).strip().lower().replace(' ', '_')
+        support_level = match.group(2).strip().lower().replace(' ', '_')
+        evidence_count = int(match.group(3))
+        relationships[relationship_name] = {
+            'status': 'validated',
+            'support': support_level,
+            'evidence_count': evidence_count
+        }
+    
+    # Extract critical issues
+    critical_issues_pattern = r"\d+\.\s+\*\*([^*]+)\*\*:"
+    critical_issues = re.findall(critical_issues_pattern, content)
+    
+    # Extract immediate recommendations
+    recommendations_pattern = r"\d+\.\s+\*\*([^*]+)\*\*:"
+    recommendations = re.findall(recommendations_pattern, content)
+    
     findings = {
-        'concept_validation': {
-            'ders': {'status': 'validated', 'support': 'partial_broad', 'evidence_count': 64},
-            'predictive_maintenance': {'status': 'validated', 'support': 'partial_broad', 'evidence_count': 64}
-        },
-        'relationship_validation': {
-            'ders_predictive_maintenance': {'status': 'validated', 'support': 'strong', 'evidence_count': 14},
-            'predictive_maintenance_protocols': {'status': 'validated', 'support': 'strong', 'evidence_count': 12},
-            'protocols_decentralized_coordination': {'status': 'validated', 'support': 'strong', 'evidence_count': 14},
-            'coordination_communication_requirements': {'status': 'validated', 'support': 'strong', 'evidence_count': 14},
-            'requirements_performance_evaluation': {'status': 'validated', 'support': 'strong', 'evidence_count': 12},
-            'interdependencies_feedback': {'status': 'needs_investigation', 'support': 'weak', 'evidence_count': 0},
-            'framework_extensions': {'status': 'needs_investigation', 'support': 'weak', 'evidence_count': 0}
-        },
-        'critical_issues': [
-            'weak_interdependency_validation',
-            'framework_extension_uncertainty', 
-            'granularity_mismatch'
-        ],
-        'immediate_recommendations': [
-            'targeted_literature_search',
-            'qualitative_deep_dive',
-            'framework_refinement'
-        ]
+        'concept_validation': concepts,
+        'relationship_validation': relationships,
+        'critical_issues': critical_issues,
+        'immediate_recommendations': recommendations
     }
     
     return findings
@@ -495,22 +523,27 @@ def main():
     print("Framework Update Script (Task 4.2.4.4)")
     print("="*50)
     
-    # Create docs directory if it doesn't exist
-    os.makedirs("../docs", exist_ok=True)
-    
-    # Generate updated framework document
-    print("Generating updated framework document...")
-    updated_framework = generate_updated_framework_document()
-    
-    # Write updated framework
-    output_file = "../docs/4.2.4.4-updated-framework.md"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(updated_framework)
-    
-    print(f"✅ Updated framework document created: {output_file}")
-    
-    # Generate summary report
-    summary = f"""
+    try:
+        # Load validation findings
+        print("Loading validation findings from Task 4.2.4.3...")
+        findings = load_validation_findings()
+        
+        # Generate updated framework document
+        print("Generating updated framework document...")
+        updated_framework = generate_updated_framework_document()
+        
+        # Create docs directory if it doesn't exist
+        os.makedirs("../docs", exist_ok=True)
+        
+        # Write updated framework
+        output_file = "../docs/4.2.4.4-updated-framework.md"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(updated_framework)
+        
+        print(f"✅ Updated framework document created: {output_file}")
+        
+        # Generate summary report
+        summary = f"""
 Framework Update Summary (Task 4.2.4.4)
 ========================================
 
@@ -522,9 +555,9 @@ Updates Applied:
 - ✅ Documented critical issues and mitigation strategies
 
 Key Changes:
-- 2/2 core concepts marked as validated with literature support
-- 5/7 relationships confirmed with strong evidence (12-14 papers each)
-- 2/7 relationships marked for investigation (weak evidence)
+- {len(findings['concept_validation'])}/{len(findings['concept_validation'])} core concepts marked as validated with literature support
+- {sum(1 for r in findings['relationship_validation'].values() if r['status'] == 'validated')}/{len(findings['relationship_validation'])} relationships confirmed with strong evidence
+- {sum(1 for r in findings['relationship_validation'].values() if r['status'] == 'needs_investigation')}/{len(findings['relationship_validation'])} relationships marked for investigation
 - Added validation constraints and methodological limitations
 - Defined clear next steps for addressing identified gaps
 
@@ -533,10 +566,18 @@ Output Files:
 
 Ready for: Task 4.3 - Research Gap Analysis
 """
-    
-    print(summary)
-    
-    return True
+        
+        print(summary)
+        
+        return True
+        
+    except FileNotFoundError as e:
+        print(f"❌ Error: {str(e)}")
+        print("Please ensure Task 4.2.4.3 has been completed and its output file exists.")
+        return False
+    except Exception as e:
+        print(f"❌ Error: {str(e)}")
+        return False
 
 if __name__ == "__main__":
     main() 
