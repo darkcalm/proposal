@@ -180,11 +180,11 @@
 
 - [ ] 5.0 Methodology Development (ILO3)
   - [ ] 5.1 Methodology Research
-    - [ ] 5.1.1 Identify relevant methods
-    - [ ] 5.1.2 Document quantitative approaches
-    - [ ] 5.1.3 Analyze qualitative methods
-    - [ ] 5.1.4 Evaluate mixed methods
-    - [ ] 5.1.5 Research emerging methods
+    - [x] 5.1.1 Identify relevant methods
+    - [x] 5.1.2 Document quantitative approaches
+    - [x] 5.1.3 Analyze qualitative methods
+    - [x] 5.1.4 Evaluate mixed methods
+    - [x] 5.1.5 Research emerging methods
 
   - [ ] 5.2 Methodology Comparison
     - [ ] 5.2.1 Create comparison matrix
@@ -208,6 +208,7 @@
     - [ ] 5.4.5 Create workflow diagram
 
   - [ ] 5.5 FA2 Preparation (Deliverable)
+    - [ ] 5.5.1 Set up copy from fa1
     - [ ] 5.5.2 Document methodology choice
     - [ ] 5.5.3 Address uncertainties
 

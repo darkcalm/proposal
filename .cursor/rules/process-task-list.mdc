@@ -37,7 +37,7 @@ When working with task lists, the AI must:
 
 3. **During Task Execution - output results:**
    - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
-   - When data processing requires a set of categories of rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
+   - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
    - Respond in chat explicitly why a script isn't used
    - When output text uses contexts that involves citations to sources, cite the sources, as this retains the connection between external literature and this work 
    - Output file locations:
