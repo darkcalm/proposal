@@ -1,0 +1,111 @@
+Missing/Failed Papers Report - 2025-06-02 21:53:24
+Total BibTeX Entries: 25
+Successfully Downloaded: 3
+Already Existed: 3
+Total Missing/Failed: 19
+
+ID: Cintuglu2015intelligent
+  Title: An intelligent multi agent framework for active distribution networks based on IEC 61850 and FIPA standards
+  DOI: 10.1109/isap.2015.7325527
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Logenthiran2008Multi
+  Title: Multi-agent coordination for DER in MicroGrid
+  DOI: 10.1109/icset.2008.4746976
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Sampath2022Peer
+  Title: Peer-to-Peer Energy Trading Enabled Optimal Decentralized Operation of Smart Distribution Grids
+  DOI: 10.1109/tsg.2021.3110889
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Shaun2017eWork
+  Title: eWork and eBusiness in Architecture, Engineering and Construction: ECPPM 2016
+  DOI: 10.1201/9781315386904
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Saxena2021distributed
+  Title: A distributed communication framework for smart Grid control applications based on data distribution service
+  DOI: 10.1016/j.epsr.2021.107547
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Patsonakis2019Permissioned
+  Title: Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios
+  DOI: 10.1109/eeeic.2019.8783521
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: von2017agent
+  Title: An agent-based flexibility trading architecture with scalable and robust messaging
+  DOI: 10.1109/smartgridcomm.2017.8340698
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Alhasnawi2021Novel
+  Title: A Novel Internet of Energy Based Optimal Multi-Agent Control Scheme for Microgrid including Renewable Energy Resources
+  DOI: 10.3390/ijerph18158146
+  Reason: Failed to download PDF from all attempted sources
+  Attempted URLs:
+    - https://www.mdpi.com/1660-4601/18/15/8146/pdf?version=1627993957
+----------------------------------------
+ID: Schindler202128
+  Title: 28. September - 2. Oktober 2020
+  DOI: 10.18420/INF2020_33
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Prabawa2020Multi
+  Title: Multi-Agent Framework for Service Restoration in Distribution Systems With Distributed Generators and Static/Mobile Energy Storage Systems
+  DOI: 10.1109/access.2020.2980544
+  Reason: Failed to download PDF from all attempted sources
+  Attempted URLs:
+    - https://ieeexplore.ieee.org/ielx7/6287639/8948470/09035499.pdf
+----------------------------------------
+ID: Cintuglu2015Multiagent
+  Title: Multiagent-based decentralized operation of microgrids considering data interoperability
+  DOI: 10.1109/smartgridcomm.2015.7436334
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Wang2021Hybrid
+  Title: A Hybrid Agent-based Model Predictive Control Scheme for Smart Community Energy System with Uncertain DGs and Loads
+  DOI: 10.35833/mpce.2019.000090
+  Reason: Failed to download PDF from all attempted sources
+  Attempted URLs:
+    - https://ieeexplore.ieee.org/ielx7/8685265/9438065/09237069.pdf
+----------------------------------------
+ID: Aghamohammadi2024Decentralized
+  Title: Decentralized Energy Management of Multiagent Distribution Systems Considering the Grid Reliability and Agent Misbehavior
+  DOI: 10.1109/jsyst.2024.3369871
+  Reason: Failed to download PDF from all attempted sources
+  Attempted URLs:
+    - https://ieeexplore.ieee.org/ielx7/4267003/4357939/10478176.pdf
+----------------------------------------
+ID: Nasri2014Application
+  Title: Application of intelligent agent systems for real-time coordination of power converters (RCPC) in microgrids
+  DOI: 10.1109/ecce.2014.6953937
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Karumba2022HARB
+  Title: HARB: A Hypergraph-Based Adaptive Consortium Blockchain for Decentralized Energy Trading
+  DOI: 10.1109/jiot.2020.3022045
+  Reason: Failed to download PDF from all attempted sources
+  Attempted URLs:
+    - https://eprints.qut.edu.au/208979/1/76318362.pdf
+----------------------------------------
+ID: Liu2021Multi
+  Title: A Multi-Agent System Based Hierarchical Control Framework for Microgrids
+  DOI: 10.1109/pesgm46819.2021.9638070
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Nasiri2024Secure
+  Title: A Secure Power System Distributed State Estimation via a Consensus-Based Mechanism and a Cooperative Trust Management Strategy
+  DOI: 10.1109/tii.2023.3299385
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Kilthau2023Distributed
+  Title: Distributed Topology Optimization for Agent-based Peer-to-Peer Energy Market
+  DOI: 10.1109/smartgridcomm57358.2023.10333916
+  Reason: No PDF URL found in any attempted source
+----------------------------------------
+ID: Saxena2018Design
+  Title: Design and Field Implementation of a Multi-Agent System for Voltage Regulation Using Smart Inverters and Data Distribution Service (DDS)
+  DOI: 10.1109/epec.2018.8598367
+  Reason: No PDF URL found in any attempted source
+----------------------------------------

@@ -1,0 +1,179 @@
+{
+  "total": 5,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "cfa0d5eb4fdefe94d1097e5a7e85636e9a2be7e2",
+      "url": "https://www.semanticscholar.org/paper/cfa0d5eb4fdefe94d1097e5a7e85636e9a2be7e2",
+      "title": "Data Analytics in Maintenance Planning \u2013 DAIMP",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The DAIMP project aimed at reaching a system level analytics to detect critical equipment, differentiate maintenance planning and prioritize the most important equipment in real-time and showed a strong contribution to research and manufacturing industry alike."
+      },
+      "authors": [
+        {
+          "authorId": "145008507",
+          "name": "M. Gopalakrishnan"
+        },
+        {
+          "authorId": "51476833",
+          "name": "Mukund Subramaniyan"
+        },
+        {
+          "authorId": "94838356",
+          "name": "A. Salonen"
+        },
+        {
+          "authorId": "70291830",
+          "name": "Martin Asp"
+        },
+        {
+          "authorId": "12939760",
+          "name": "A. Archenti"
+        },
+        {
+          "authorId": "3254138",
+          "name": "A. Skoogh"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "310dac452b7889c8a0f11de81b6bf7c02ef81743",
+      "url": "https://www.semanticscholar.org/paper/310dac452b7889c8a0f11de81b6bf7c02ef81743",
+      "title": "Nodal Monitoring in Medium Voltage Distribution Grid using Smart Sensored Cable Termination",
+      "venue": "Power Research - A Journal of CPRI",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.33686/pr.v18i1.1093",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.33686/pr.v18i1.1093?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33686/pr.v18i1.1093, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Real-time monitoring of electrical parameters such as voltage, current and reactive-power-flow can potentially be used for advanced protection coordination in the looped distribution network, enabling reliable integration of existing grid with distributed energy generation source."
+      },
+      "authors": [
+        {
+          "authorId": "2127648011",
+          "name": "Sanjeev Atri"
+        },
+        {
+          "authorId": "2196987918",
+          "name": "Ravindra Bhanage"
+        },
+        {
+          "authorId": "2065486356",
+          "name": "H. Sharma"
+        },
+        {
+          "authorId": "2232668739",
+          "name": "Aashish Agrawal"
+        }
+      ],
+      "abstract": "Tata Power-DDL worked in collaboration with 3M on a pilot project for making the medium voltage distribution network smart and efficient. This project aimed at enabling real-time monitoring of electrical parameters such as voltage, current and reactive-power-flow. While enabling these features, it was vital to make the solution compact and retrofit-to-existinginfrastructure for saving cost in terms of reduced equipment\u2019s footprint. In this pilot project, electrical parameters and direction of power flow were accurately captured using sensor-based technology. Captured parameters and corresponding benefits are analyzed in detail in this paper. Further, the availability of real-time captured data can be potentially used through analytical tools for enabling many features such as predictive maintenance and identifying faulted-segments in underground cabling networks. Power-flow-direction can potentially be used for advanced protection coordination in the looped distribution network. Thus, enabling reliable integration of existing grid with distributed energy generation source."
+    },
+    {
+      "paperId": "13f6b6767de46ed909a5956848b2d25a49d20498",
+      "url": "https://www.semanticscholar.org/paper/13f6b6767de46ed909a5956848b2d25a49d20498",
+      "title": "Object oriented Bayesian network for industrial process operation",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Extensions of existing methods for decision-theoretic troubleshooting are used for industrial process operation and asset management, which includes expected average cost of asset management actions, prediction of signals\u2019 level-trend development, risk assessment for disturbance analysis and predictive maintenance on demand."
+      },
+      "authors": [
+        {
+          "authorId": "144497001",
+          "name": "G. Weidl"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        },
+        {
+          "authorId": "49037296",
+          "name": "E. Dahlquist"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b87ad739c471cd7c7230d0ff5f5a2b7a4d4c0328",
+      "url": "https://www.semanticscholar.org/paper/b87ad739c471cd7c7230d0ff5f5a2b7a4d4c0328",
+      "title": "Edge-Computing And Its Applications: Examining The Convergence Of Edge-Computing And Cloud Systems For Instant Data Processing.",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper explores the integration of Edge-Computing with cloud infrastructure, elucidating its potential to revolutionize data processing and application deployment and highlights its impact on sectors such as healthcare, manufacturing, and telecommunications."
+      },
+      "authors": [
+        {
+          "authorId": "2328678280",
+          "name": "Pavan Kanchi1"
+        },
+        {
+          "authorId": "2328679684",
+          "name": "Dr Punit Goel5"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8035b2e0c1586cf2a395fb89532b07a64365405f",
+      "url": "https://www.semanticscholar.org/paper/8035b2e0c1586cf2a395fb89532b07a64365405f",
+      "title": "Applications of Object Oriented Bayesian Networks for Causal Analysis of Process Disturbances",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The aim is causal analysis of non-measurable disturbances as a decision advice complement to the distributed control system (DCS)."
+      },
+      "authors": [
+        {
+          "authorId": "144497001",
+          "name": "G. Weidl"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        },
+        {
+          "authorId": "49037296",
+          "name": "E. Dahlquist"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

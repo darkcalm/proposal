@@ -1,0 +1,1689 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta name=renderer  content=webkit>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+    <title>Adaptive OCR coordination
+in distribution system with distributed energy resources contribution</title>
+	    <meta name="_sowise_journalid" content="10004"/>
+	<meta name="WT.cg_n" content="AIMS Energy"/>
+    	<meta name="prism.issn" content="2333-8334"/>
+	<meta name="citation_issn" content="2333-8334"/>
+		<meta name="journal_id" content="105"/>
+	<meta name="dc.title" content="Adaptive OCR coordination
+in distribution system with distributed energy resources contribution"/>
+
+	<meta name="dc.source" content="AIMS Energy 2023 6:1278"/>
+	<meta name="dc.format" content="text/html"/>
+	
+	<meta name="dc.type" content="OriginalPaper"/>
+	<meta name="prism.section" content="OriginalPaper"/>
+	<meta name="prism.publicationName" content="AIMS Energy"/>
+		<meta name="dc.date" content=""/>
+	<meta name="dc.language" content="en"/>
+	<meta name="dc.copyright" content="2023 The Author(s)"/>
+		<meta name="dc.rightsAgent" content="energy@aimspress.org"/>
+	<meta name="prism.rightsAgent" content="energy@aimspress.org"/>
+			<meta name="dc.description" content="&lt;abstract&gt;
+&lt;p&gt;More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.&lt;/p&gt;
+&lt;/abstract&gt;"/>
+	<meta name="og:description" content="More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance."/>
+	<meta name="description" content="&lt;abstract&gt;
+&lt;p&gt;More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.&lt;/p&gt;
+&lt;/abstract&gt;"/>
+		<meta name="prism.publicationDate" content=""/>
+	<meta name="prism.volume" content="11"/>
+	<meta name="prism.number" content="energy-11-06-058"/>
+	
+	<meta name="prism.startingPage" content="1278"/>
+	<meta name="prism.endingPage" content="1305"/>
+	<meta name="prism.copyright" content="2023 The Author(s)"/>
+	
+	<meta name="prism.url" content="http://www.aimspress.com/article/doi/10.3934/energy.2023058"/>
+	<meta name="prism.doi" content="doi:10.3934/energy.2023058"/>
+	<meta name="citation_pdf_url" content="http://www.aimspress.com/article/doi/10.3934/energy.2023058"/>
+	<meta name="citation_fulltext_html_url" content="http://www.aimspress.com/article/doi/10.3934/energy.2023058"/>
+	<meta name="citation_journal_title" content="AIMS Energy"/>
+	<meta name="citation_journal_abbrev" content="AIMSE"/>
+	
+	<meta name="citation_title" content="Adaptive OCR coordination
+in distribution system with distributed energy resources contribution"/>
+	<meta name="citation_volume" content="11"/>
+	<meta name="citation_issue" content="6"/>
+	<meta name="citation_online_date" content=""/>
+	<meta name="citation_firstpage" content="1278"/>
+	<meta name="citation_lastpage" content="1305"/>
+	<meta name="citation_article_type" content="Article"/>
+	<meta name="citation_fulltext_world_readable" content=""/>
+	<meta name="citation_language" content="en"/>
+	<meta name="dc.identifier" content="doi:10.3934/energy.2023058"/>
+	<meta name="DOI" content="10.3934/energy.2023058"/>
+	<meta name="citation_doi" content="10.3934/energy.2023058"/>
+	<meta name="dc.subject" content="Research article"/>
+	<!-- more author -->
+		<meta name="dc.creator" content="Tung-Sheng Zhan"/>
+		<meta name="dc.creator" content="Chun-Lien Su"/>
+		<meta name="dc.creator" content="Yih-Der Lee"/>
+		<meta name="dc.creator" content="Jheng-Lun Jiang"/>
+		<meta name="dc.creator" content="Jin-Ting Yu"/>
+		<!-- more refers -->
+				<meta name="citation_reference" content="Holguin JP, Rodriguez DC, Ramos G (2020) Reverse power flow (RPF) detection and impact on protection coordination of distribution systems. &lt;i&gt;IEEE Trans Ind Appl&lt;/i&gt; 56: 2393&#8211;2401. https://doi.org/10.1109/TIA.2020.2969640"/>
+					<meta name="citation_reference" content="Zeineldin HH, Mohamed YARI, Khadkikar V, et al. (2013) A protection coordination index for evaluating distributed generation impacts on protection for meshed distribution systems. &lt;i&gt;IEEE Trans Smart Grid&lt;/i&gt; 4: 1523&#8211;1532. https://doi.org/10.1109/TSG.2013.2263745"/>
+					<meta name="citation_reference" content="Wan H, Li KK, Wong KP (2010) An adaptive multiagent approach to protection relay coordination with distributed generators in industrial power distribution system. &lt;i&gt;IEEE Trans Ind Appl&lt;/i&gt; 46: 2118&#8211;2124. https://doi.org/10.1109/TIA.2010.2059492"/>
+					<meta name="citation_reference" content="Isherwood N, Rahman MS, Oo AMT (2017) Distribution feeder protection and reconfiguration using multi-agent approach. &lt;i&gt;Proceeding of Australasian Universities Power Engineering Conference (AUPEC)&lt;/i&gt; 1&#8211;6. https://doi.org/10.1109/AUPEC.2017.8282425"/>
+					<meta name="citation_reference" content="Kayyali D, Zeineldin H, Diabat A, et al. (2020) An optimal integrated approach considering distribution system reconfiguration and protection coordination. &lt;i&gt;Proceeding of 2020 IEEE Power &amp;amp; Energy Society General Meeting (PESGM)&lt;/i&gt; 1&#8211;5. https://doi.org/10.1109/PESGM41954.2020.9281412"/>
+					<meta name="citation_reference" content="Ghotbi-Maleki M, Chabanloo RM, Zeineldin HH, et al. (2021) Design of setting group-based overcurrent protection scheme for active distribution networks using MILP. &lt;i&gt;IEEE Trans Smart Grid&lt;/i&gt; 12: 1185&#8211;1193. https://doi.org/10.1109/TSG.2020.3027371"/>
+					<meta name="citation_reference" content="Alam MN, Chakrabarti S, Tiwari VK (2020) Protection coordination with high penetration of solar power to distribution networks. &lt;i&gt;Proceeding of 2020 2nd International Conference on Smart Power &amp;amp; Internet Energy Systems (SPIES)&lt;/i&gt; 132&#8211;137. https://doi.org/10.1109/SPIES48661.2020.9243146"/>
+					<meta name="citation_reference" content="Abdul Rahim MN, Mokhlis H, Bakar AHA, et al. (2019) Protection coordination toward optimal network reconfiguration and DG Sizing. &lt;i&gt;IEEE Access&lt;/i&gt; 7: 163700&#8211;163718. https://doi.org/10.1109/ACCESS.2019.2952652"/>
+					<meta name="citation_reference" content="Zhan H, Wang C, Wang Y, et al. (2016) Relay protection coordination integrated optimal placement and sizing of distributed generation sources in distribution networks. &lt;i&gt;IEEE Trans Smart Grid&lt;/i&gt; 7: 55&#8211;65. https://doi.org//10.1109/TSG.2015.2420667"/>
+					<meta name="citation_reference" content="Pedraza A, Reyes D, Gomez C, et al. (2015) Optimization methodology to distributed generation location in distribution networks assessing protections coordination. &lt;i&gt;IEEE Latin America Trans&lt;/i&gt; 13: 1398&#8211;1406. https://doi.org//10.1109/TLA.2015.7111995"/>
+					<meta name="citation_reference" content="Saldarriaga-Zuluaga SD, L&#243;pez-Lezama JM, Mu&#241;oz-Galeano N (2021) Adaptive protection coordination scheme in microgrids using directional over-current relays with non-standard characteristics. &lt;i&gt;Heliyon&lt;/i&gt; 7: e06665. https://doi.org/10.1016/j.heliyon.2021.e06665"/>
+					<meta name="citation_reference" content="Mahat P, Chen Z, Bak-Jensen B, et al. (2011) A simple adaptive overcurrent protection of distribution systems with distributed generation. &lt;i&gt;IEEE Trans Smart Grid&lt;/i&gt; 2: 428&#8211;437. https://doi.org//10.1109/TSG.2011.2149550"/>
+					<meta name="citation_reference" content="Jongepier AG, Van der Sluis L (1997) Adaptive distance protection of double-circuit lines using artificial neural networks. &lt;i&gt;IEEE Trans&lt;/i&gt; &lt;i&gt;on&lt;/i&gt; &lt;i&gt;Power&lt;/i&gt; &lt;i&gt;Delivery&lt;/i&gt; 12: 97&#8211;105. https://doi.org//10.1109/61.568229"/>
+					<meta name="citation_reference" content="Musirikare A, Pujiantara M, Tjahjono A, et al. (2018) ANN-based modeling of directional overcurrent relay characteristics applied in radial distribution system with distributed generations. &lt;i&gt;Proceeding of 2018 10th International Conference on Information Technology and Electrical Engineering (ICITEE)&lt;/i&gt; 52&#8211;57. https://doi.org//10.1109/ICITEED.2018.8534834"/>
+					<meta name="citation_reference" content="Rahmatullah D, Dewantara BY, Iradiratu DPK (2018) Adaptive DOCR coordination in loop electrical distribution system with DG using artificial neural network LMBP. &lt;i&gt;Proceeding of 2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)&lt;/i&gt; 560&#8211;565. https://doi.org//10.1109/ISRITI.2018.8864433"/>
+					<meta name="citation_reference" content="Chiang MY, Huang SC, Hsiao TC, et al. (2022) Optimal sizing and location of photovoltaic generation and energy storage systems in an unbalanced distribution system. &lt;i&gt;Energies&lt;/i&gt; 15: 6682. https://doi.org/10.3390/en15186682"/>
+					<meta name="citation_reference" content="Javadian SAM, Tamizkar R, Haghifam MR (2009) A Protection and reconfiguration scheme for distribution networks with DG. &lt;i&gt;Proceeding of 2009 IEEE Bucharest Power Tech Conference&lt;/i&gt; 1&#8211;8. https://doi.org/10.1109/PTC.2009.5282063"/>
+					<meta name="citation_reference" content="Akmal M, Al-Naemi F, Iqbal N, et al. (2019) Impact of distributed PV generation on relay coordination and power quality. &lt;i&gt;Proceeding of 2019 IEEE Milan PowerTech&lt;/i&gt; 1&#8211;6. https://doi.org/10.1109/PTC.2019.8810791"/>
+					<meta name="citation_reference" content="Soni AK, Kumar A, Panda RK, et al. (2023) Adaptive coordination of relays in AC microgrid considering operational and topological changes. &lt;i&gt;IEEE Systems Journal&lt;/i&gt; 17: 3071&#8211;3082. https://doi.org/10.1109/JSYST.2022.3227311"/>
+					<meta name="citation_reference" content="The Institute of Electrical and Electronics Engineers, Inc. (2001) &lt;i&gt;IEEE recommended practice for protection and coordination of industrial and commercial power systems&lt;/i&gt;, New York: IEEE press, 1&#8211;710."/>
+					<meta name="citation_reference" content="Kennedy J, Eberhart R (1995) Particle swarm optimization. &lt;i&gt;Proceedings of the IEEE International Conference on Neural Networks (ICNN&apos;95)&lt;/i&gt; 4: 1942&#8211;1948. https://doi.org//10.1109/ICNN.1995.488968"/>
+					<meta name="citation_reference" content="Eberhart R, Shi Y (2000) Comparing inertia weights and constriction factors in particle swarm optimization. &lt;i&gt;Proceedings of the 2000 Congress on Evolutionary Computation (CEC00)&lt;/i&gt; 1: 84&#8211;88. https://doi.org//10.1109/CEC.2000.870279"/>
+			<!-- more author-->
+		<meta name="citation_author" content="Tung-Sheng Zhan"/>
+		<meta name="citation_author" content="Chun-Lien Su"/>
+		<meta name="citation_author" content="Yih-Der Lee"/>
+		<meta name="citation_author" content="Jheng-Lun Jiang"/>
+		<meta name="citation_author" content="Jin-Ting Yu"/>
+		<!-- more addiliations -->
+		<meta name="citation_author_institution" content="Department of Electrical Engineering, National Kaohsiung University of Science and Technology, No.415, Jiangong Rd., Sanmin Dist., Kaohsiung City 80778, Taiwan"/>
+		<meta name="citation_author_institution" content="Department of Electrical Engineering and Information Technology, National Atomic Research Institute, No.1000, Wenhua Rd. Jiaan Village, Longtan District, Taoyuan City 32546, Taiwan"/>
+		<meta name="access_endpoint" content="http://www.aimspress.com/"/>
+	<meta name="twitter:site" content="@AIMS Energy"/>
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:image:alt" content="Content cover image"/>
+	<meta name="WT.z_cc_license_type" content="cc_by"/>
+	<meta name="WT.z_primary_atype" content="AIMS Energy"/>
+	<meta name="WT.z_subject_term" content="Research article"/>
+	<meta name="WT.z_subject_term_id" content="Research article"/>
+	<meta property="og:url" content="http://www.aimspress.com/article/doi/10.3934/energy.2023058"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:site_name" content="AIMS Energy"/>
+	<meta property="og:title" content="Adaptive OCR coordination
+in distribution system with distributed energy resources contribution"/>
+																																																																																																																																													<meta property="og:image" content="http://www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg"/>
+	
+	<!-- SoWise SEO 2019-9-6 -->
+	<meta name="citation_title" content="Adaptive OCR coordination
+in distribution system with distributed energy resources contribution" />
+		<meta name="citation_author" content="Tung-Sheng Zhan" />
+		<meta name="citation_author" content="Chun-Lien Su" />
+		<meta name="citation_author" content="Yih-Der Lee" />
+		<meta name="citation_author" content="Jheng-Lun Jiang" />
+		<meta name="citation_author" content="Jin-Ting Yu" />
+		<meta name="citation_keywords" content="relay protection coordination, time multiplier setting (TMS), coordination time interval (CTI), modified particle swarm optimization (MPSO), " />
+	<meta name="citation_year" content="2023"/>
+	<meta name="citation_volume" content="11"/> 
+	<meta name="citation_issue" content="6"/>
+	<meta name="citation_firstpage" content="1278"/>
+	<meta name="citation_lastpage" content="1305"/>
+	<meta name="citation_doi" content="10.3934/energy.2023058"/>
+	<meta name="citation_id" content="65685f3dba35de1f04580761"/>
+	<meta name="citation_state" content="" />
+	
+   
+    <link type="text/css" href="/style/web/images/custom/favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" href="/style/web/css/common/bootstrap.min.css">
+	<link rel="stylesheet" href="/style/web/css/common/swiper.min.css">
+	<link rel="stylesheet" href="/style/web/css/common/iconfont.css">
+	<link rel="stylesheet" href="/style/web/css/common/font-awesome.min.css">
+	<link rel="stylesheet" href="/style/web/css/common/owl.carousel.css">
+	<link rel="stylesheet" href="/style/web/css/common/base.css">
+	<link rel="stylesheet" href="/style/web/css/common/media.css">
+	<link rel="stylesheet" href="/style/web/css/style.css">
+	<link rel="stylesheet" href="/style/web/css/common/jquery.mCustomScrollbar.css">
+	<link rel="stylesheet" href="/style/web/css/common/article_en.css">
+	<link rel="stylesheet" href="/style/web/css/common/imgShow.css">
+	<link rel="stylesheet" href="/style/web/css/common/articleFont.css">
+	<link rel="stylesheet" href="/style/web/css/en/tpl5/style.css">
+	<link rel="stylesheet" href="/style/web/css/en/main.css">
+	
+	<script src="/style/web/js/common/jquery-1.11.2.min.js"></script>
+<script src="/style/web/js/common/bootstrap.min.js"></script>
+<script src="/style/web/js/common/swiper.min.js"></script>
+<script src="/style/web/js/common/jquery.colorbox.js"></script>
+<script src="/style/web/js/common/jquery.nicescroll.js"></script>
+<script src="/style/web/js/common/angular.min.js"></script>
+<script src="/style/web/js/common/angular-sanitize.min.js"></script>
+<script src="/style/web/js/common/wui-date.js"></script>
+<script src="/style/web/js/common/ng-infinite-scroll.min.js"></script>
+<script src="/style/web/js/common/rhhz.js"></script>
+<script src="/style/web/js/common/dataloading_news.js"></script>
+<script src="/style/web/js/common/dataloading_article.js"></script>
+<script src="/style/web/js/common/dataloading_filter.js"></script>
+<script src="/style/web/js/common/dataloading_other.js"></script>
+<script src="/style/web/js/common/base.js"></script>
+<script src="/style/web/js/common/common.js"></script>
+<script src="/style/web/js/common/owl.carousel.js"></script>
+<script src="/style/web/js/common/respond.js"></script>
+<script src="/style/web/js/common/search.js"></script>
+<script src="/style/web/js/common/user.js"></script>	<script src="/style/web/highcharts/highcharts.js"></script>
+	<script src="/style/web/highcharts/modules/exporting.js"></script>
+	<script src="/style/web/js/common/better-scroll.js"></script>
+	<script src="/style/web/js/common/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script src="/style/web/js/common/article.js"></script>
+	<script src="/style/web/js/common/article_en.js"></script>
+	<script src="/style/web/js/common/imgShow_en.js"></script>
+	<script src="/style/web/js/en/tpl5/index.js"></script>
+	<script src="/style/web/js/en/tpl5/main.js"></script>
+    <script type="text/javascript" src="/aimspress-upload/platformTools/js/MathJax-master/MathJax-2.7.0/MathJax.js?config=TeX-AMS-MML_SVG"></script> 
+<!--   <script type="text/javascript" src="http://aimspress.com/aimspress-upload/platformTools/js/MathJax-master/MathJax-2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+	 
+	 	<!-- 2011到2015年是   用@渲染公式 -->
+				
+							<!-- 2020年之后  除了第三方 数据特殊  九个刊  用$ 渲染 -->
+								<script type='text/x-mathjax-config'>
+MathJax.Hub.Config({
+        CommonHTML: {
+            linebreaks: {
+                automatic: true,
+                width: 'container'
+            }
+        },
+        SVG: {
+            linebreaks: {
+                automatic: false
+            }
+        },
+		tex2jax: {inlineMath: [['$','$']]},
+		"HTML-CSS": {linebreaks: { automatic: true},scale: 100}
+});</script>
+					<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+	
+	<!-- <script src="/style/web/js/common/embed.js"></script> -->
+	<script>
+	  dataLayer = [];
+	</script>
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K33SX87');</script>
+	<!-- End Google Tag Manager -->
+
+</head>
+								
+
+<body data-spy="scroll" data-target="#myScrollspy" class="articleBody  " >
+<input type="hidden" value="AIMS Energy" id="journalName"/>
+<input type="hidden" value="article" id="pageViewId" />
+<input type="hidden" value="65685f3dba35de1f04580761" id="articleId" />
+<input type="hidden" value="10.3934/energy.2023058" id="articleDoi" />
+<input type="hidden" value="" id="htmlState" />
+<input type="hidden" value="" id="articleNum" />
+<input type="hidden" value="//www.aimspress.com" id="dataPath" />
+<input type="hidden" value="/aimspress-data/aimse/2023/6/PIC/" id="allSrc" />
+    <input hidden type="checkbox" checked id="reference" />
+
+
+
+<div ng-app="index">
+	<!--头部 开始 -->
+	<div id="common-top">
+	    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K33SX87"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div ng-controller="j-top-menu">
+	<div class="header header-index bgwhite">
+		<div class="mid topfix header-nav">
+	        <div class="container clear">
+	            <a href="/" class="logo fl">
+	                <img src="/style/web/images/custom/index_logo.png" alt="">
+	            </a>
+	            <div class="logor fr">
+            		<div class="header-nav index-nav">
+					    <div class="clear">
+					    	 <ul class="clear fl i-top-menu top-menu">
+					    	 	<li><a href="/" >Home</a> </li>
+					        	<li type="{{newsColumn.abbreviation}}" ng-repeat="newsColumn in topMenus" ng-if="newsColumn.columnNewsShowLocation == '1' && newsColumn.abbreviation =='journals'" repeat-finish-light>
+						    		<a href="javascript:void(0);">
+						    			<i ng-bind-html="newsColumn.name"></i>
+	    								<span  ng-if="newsColumn.subColumns.length > 0"></span>
+	    								<span  ng-if="newsColumn.abbreviation == 'journals'"></span>
+						    		</a>
+						    		<ol class="data-show i-menu-journals  tpl5-journal" ng-if="newsColumn.abbreviation == 'journals'"></ol>
+						    	</li>
+					        </ul>
+					        <div class="shareBox fr" >
+						        <ul class="share-right clear ">
+						            <li class="share-facebook" onclick="shareTools('facebook');" title="share this content in facebook">
+						                <img src="/style/web/images/custom/share_facebook.png" alt="">
+						            </li>
+						            <li class="share-twitter" onclick="shareTools('twitter');" title="share this content in twitter">
+						                <img src="/style/web/images/custom/share_twitter.png" alt="">
+						            </li>
+						            <li class="share-linkedin" onclick="shareTools('linkedin');" title="share this content in linkedin">
+						                <img src="/style/web/images/custom/share_linkin.png" alt="">
+						            </li>
+						            <li class="share-mendeley" onclick="shareTools('mendeley');" title="share  this content in Mendeley">
+						                <img src="/style/web/images/custom/share_mendeley.png" alt="">
+						            </li>
+						            <li class="share-researchGate" onclick="shareTools('researchGate');" title="share this content in researchGate">
+						                <img src="/style/web/images/custom/share_researchGate.png" alt="">
+						            </li>
+						           <!--  <li onclick="shareTools('sina');" title="分享到微博"><img src="/style/web/images/custom/share_weibo.png"></li>
+						            <li class="weixin" title="分享到微信"><img src="/style/web/images/custom/share_weixin.png"></li>
+	                    			<li class="kongjian" title="分享到qq空间"><img src="/style/web/images/custom/share_qq.png"></li> -->
+						        </ul>
+						     </div>
+					    </div>
+					</div>
+		        </div>
+		    </div>
+		</div>
+	</div>
+	<div class="header-nav  ban-header-nav4">
+	    <div class="container clear">
+	        <ul class="nav-ul clear fl top-menu">
+	            <li type="{{newsColumn.abbreviation}}" ng-repeat="newsColumn in topMenus" ng-if="newsColumn.columnNewsShowLocation == '1' && newsColumn.abbreviation !='journals'">
+		    		<a href="{{newsColumn.links}}">
+		    			<i ng-bind-html="newsColumn.name"></i>
+		    			<span  ng-if="newsColumn.subColumns.length > 0"></span>
+		    		</a>
+		    		<ol class="data-show" ng-if="newsColumn.subColumns.length > 0">
+		    			<li ng-repeat="subColumn in newsColumn.subColumns" type="{{subColumn.abbreviation}}">
+		    				<a href="{{subColumn.links}}" target="_top">{{subColumn.name}}</a>
+		    			</li>
+		    		</ol>
+		    	</li>
+	        </ul>
+	    </div>
+	</div>
+	<!--手机菜单-->
+	<div class="phone-nav ban-phone-nav">
+	    <div class="container clear">
+	        <div class="navList fl">
+	            <span class="span1"></span>
+	            <span class="span2"></span>
+	            <span class="span3"></span>
+	        </div>
+	        <a href="/journal/aimse" class="logo fl">
+	            <p class="romal">AIMS Energy</p>
+	           <!--  <img src="/style/web/images/logo-new_03.png" alt=""> -->
+	        </a>
+	        <div class="search-app fr"></div>
+	    </div>
+	    <div class="search-app-wrap">
+	        <div class="container clear">
+	            <div class="left fl">
+	            	<form action="/search" method="POST" onsubmit="return checkSearch(this);" class="topSearchForm">
+		                <input type="text" name="q" placeholder="Search" class="fl text">
+		                <input type="hidden" name="language" value="en">
+		               	<input type="hidden" name="publisherId" value="aimse">
+		                <input type="submit" class="sub fl" value="">
+	                </form>
+	            </div>
+	            <a href="javascript:void(0);" onclick="advanceSearchEntrance();" class="gao fr">Search Advanced</a>
+	        </div>
+	    </div>
+	    <ul class="smallUl top-menu">
+	    	<li><a href="/">Home</a></li>
+	        <li type="{{newsColumn.abbreviation}}" ng-repeat="newsColumn in topMenus" ng-if="newsColumn.columnNewsShowLocation == '1'" repeat-finish-light>
+	    		<a href="{{newsColumn.links}}" >{{newsColumn.name}}</a>
+	    		<ol class="data-show i-menu-journals" ng-if="newsColumn.abbreviation == 'journals'"></ol>
+	    		<ol class="data-show" ng-if="newsColumn.subColumns.length > 0">
+	    			<li ng-repeat="subColumn in newsColumn.subColumns" type="{{subColumn.abbreviation}}">
+	    				<a href="{{subColumn.links}}" target="_top">{{subColumn.name}}</a>
+	    			</li>
+	    		</ol>
+	    	</li>
+	    </ul>
+	</div>
+</div>
+	</div>
+	<!-- 添加文章记录 -->
+	<script type="text/javascript">
+	$(document).ready(function () {
+		 //访问文章记录
+	    var articleId =  $("#articleId").val();
+	    if(!isNull(articleId)){
+		    //var nowUrl = window.location.href;
+			//var number = nowUrl.indexOf("viewType=HTML");
+			getVisitInfo(articleId,0);
+		}
+	});
+	</script>
+	<!--头部 结束-->
+	<!--底部暂时渲染在这-->
+	<div class="common-bottom" hidden>
+		
+
+
+<div class="footer ban-footer"  ng-controller="j-bottom-menu" >
+	<input type="hidden" id="language" value="en">
+	<input type="hidden" id="websitecn" value="">
+	<input type="hidden" id="websiteen" value="">
+	<input type="hidden" class="newsShow" value="publisherNews">
+			<input type="hidden" id="publisherId" value="aimse">
+		<input type="hidden" id="tplPath" value="en/tpl5">
+	   <div class="bottom-fixed"></div>
+   
+   <div class="top">
+       <ul class="clear">
+           <li ng-repeat="newsColumn in newsColumns">
+           	   <a href="{{newsColumn.links}}">{{newsColumn.name}}</a>
+           </li>
+       </ul>
+   </div>
+   <div class="bot">Copyright © AIMS Press</div>
+</div>
+<!-- <script src="//plugin.sowise.cn/sowise-plugin.js" custom-options="{'citedby':false,'suggest':false,'ipRecord':true,'journalId':999}"></script> -->
+
+<link rel="stylesheet" href="https://public.xml-journal.net/rh-public/css/rh-public.css">
+<script src="https://public.xml-journal.net/rh-public/js/rh-public.js"></script>
+
+
+	</div>
+</div>
+
+<!--电脑端 开始-->
+<div class="article-pc">
+<!-- 	<div class="article-header-new">
+	    <div class="inner clear">
+	        <ul class="fl">
+	        		            <li>
+	                <a href="javascript:void(0);" class="download-pdf" data="65685f3dba35de1f04580761"><i class="fa fa-file-pdf-o"></i><span>PDF</span></a>
+	            </li>
+	            	            <li>
+	                <a href="javascript:void(0);" data-target="#exportCitationModal" data-toggle="modal"><i class="fa fa-quote-left"></i><span>Cite</span></a>
+	            </li>
+	            <li>
+	                <a><i class="fa fa-share-alt"></i><span>Share</span></a>
+	                <dl>
+	                    <dd>
+	                        <a href="javascript:void(0);" onclick="shareTools('facebook');" title="share to facebook">facebook</a>
+	                    </dd>
+	                    <dd>
+	                        <a href="javascript:void(0);" onclick="shareTools('twitter');" title="share to twitter">twitter</a>
+	                    </dd>
+	                    <dd>
+	                        <a href="javascript:void(0);" onclick="shareTools('google+');" title="share to google">google</a>
+	                    </dd>
+	                    <dd>
+	                        <a href="javascript:void(0);" onclick="shareTools('linkedin');" title="share to linkedin">linkedin</a>
+	                    </dd>
+	                </dl>
+	            </li>
+	        </ul>
+	        <div class="article-search fr clear">
+	            <form  class="topSearchForm" id ="searchFormTop" action="/search" method="post" onsubmit="return checkSearch(this);" role="form">
+	                <select class="fl" name="searchField">
+	                    	                        <option value="">All</option>
+	                        <option value="titleEn">Title</option>
+	                        <option value="authors.authorNameEn">Author</option>
+	                        <option value="keywords.keywordEn">Keyword</option>
+	                        <option value="abstractinfoEn">Abstract</option>
+	                        <option value="doi">DOI</option>
+	                        <option value="classifyinfoEn">Category</option>
+	                        <option value="affiliations.affliEn">Address</option>
+	                        <option value="funds.fundsInfoEn">Fund</option>
+	                    	                </select>
+	                <input type="text" name="q" placeholder="Search" class="fl text input">
+	                <input name="language" type="hidden" value="en">
+	                <input name="publisherId" type="hidden" value="aimse">
+	                <input type="submit" class="sub fl" value="">
+	            </form>
+        	</div>
+    	</div>
+	</div> -->
+	<div class="article-main">
+			    <div class="inner clear content" style="position:relative;">
+	      <!--   <div class="article-main-left fl">
+	            <div class="wrapper">
+	            	            			            				<img src="//www.aimspress.com/aimspress-upload/journal/aimse/cover_2020410144055333.jpg" alt="" style="max-width: 100%;">
+            				            		</a>
+	            		<a href="/aimse/article/2023/6/archive-articles" class="volume-issue__wrap">
+	            			2023
+	            				            				<span class="volume">Volume 11</span>
+	            				            			<span class="issue">Issue 6</span>
+	                   </a>
+	            		               
+	                <div class="content-nav">
+	                    <div class="contents-title">Article Contents</div>
+	                    <a class="switchFormula" href="javascript:void(0);" onclick="switchFormula();">Turn off MathJax</a>
+	                    <div class="Abstract-left-list">
+	                        <a href=""></a>
+	                    </div>
+	                    <div class="jumplink-list">
+	                    	
+	                    		
+	                    	
+	                    </div>
+	                    <div class="References-left-list">
+	                        <a href=""></a>
+	                    </div>
+	                    <div class="Supplements-left-list">
+	                        <a href=""></a>
+	                    </div>
+	
+	                </div>
+	            </div>
+	        </div> -->
+	        <div class="article-main-mid fl bgwhite gongshi">
+				<div class="clear">
+					<div class="article-journal fl" >
+	            		<h3 class="journal-con" ><a href="/journal/aimse" class="journal-tit">
+					     AIMS Energy
+		        		 </a></h3>
+		        		 
+		        		 <div  class="article-list-time">
+		        		 
+					        <font >  2023, 						        <span><a href="/aimse/article/archives" class="mainColor">Volume 11</a>, </span> <a href="/aimse/article/2023/6/archive-articles" class="mainColor">Issue 6</a><span>:</span>  <span>1278-1305</span>.					        </font>
+							<font>doi: <a href="https://doi.org/10.3934/energy.2023058" target="_blank" class="mainColor">10.3934/energy.2023058</a></font>					    </div>
+					    
+					    
+	            	</div>
+					<div class="fr changebtn" >
+																					<a href="/article/doi/10.3934/energy.2023057" class="page-btn prev-page fl">Previous Article</a>
+														
+												
+																					<a href="/article/doi/10.3934/energy.2023059" class="page-btn next-page fl">Next Article</a>
+																		</div>	
+				</div>
+	            <div class="article-left">
+	            	<div class="article-column ">
+	            	
+	            							<span class="columnli">Research article</span>
+										
+										
+						<!-- <span class="columnli access">
+							Open Access
+						</span> -->
+						<!-- <span class="columnli" id="article_special_show" hidden>
+							Special Issue
+						</span> -->
+					</div>
+	                <div class="articleEn">
+	                		                    <div class="article-title left-title">
+	                        <h1>Adaptive OCR coordination
+in distribution system with distributed energy resources contribution</h1>
+	                        	                    </div>
+	                   
+	                    <ul class="article-author clear">
+	                    		                    		<li >
+	                    			<a href="javascript:void(0);" class="mainColor" data-relate="tszhan1109@nkust.edu.tw" data="{{author.authorNameEn}}" type="authors.authorNameEn">Tung-Sheng Zhan</a>
+	                    			
+	                    			
+	                    			<sup class="authorTag">
+	                    				                    			<a href="javascript:void(0);" class="com-num" data-tagVal="1">1</a>
+	                    				                    				                    			,&nbsp;
+	                    				                    			<a href="javascript:void(0);" class="com-user" title="Corresponding Author:&nbsp;Tung-Sheng Zhan,&nbsp;tszhan1109@nkust.edu.tw"></a>,&nbsp;<a href="mailto:tszhan1109@nkust.edu.tw" class="com-mail" title="mailto:&nbsp;tszhan1109@nkust.edu.tw"></a></sup>,&nbsp;	                    		</li>
+	                    		                    		<li >
+	                    			<a href="javascript:void(0);" class="mainColor" data-relate="" data="{{author.authorNameEn}}" type="authors.authorNameEn">Chun-Lien Su</a>
+	                    			
+	                    			
+	                    			<sup class="authorTag">
+	                    				                    			<a href="javascript:void(0);" class="com-num" data-tagVal="1">1</a>
+	                    				                    			</sup>,&nbsp;	                    		</li>
+	                    		                    		<li >
+	                    			<a href="javascript:void(0);" class="mainColor" data-relate="" data="{{author.authorNameEn}}" type="authors.authorNameEn">Yih-Der Lee</a>
+	                    			
+	                    			
+	                    			<sup class="authorTag">
+	                    				                    			<a href="javascript:void(0);" class="com-num" data-tagVal="2">2</a>
+	                    				                    			</sup>,&nbsp;	                    		</li>
+	                    		                    		<li >
+	                    			<a href="javascript:void(0);" class="mainColor" data-relate="" data="{{author.authorNameEn}}" type="authors.authorNameEn">Jheng-Lun Jiang</a>
+	                    			
+	                    			
+	                    			<sup class="authorTag">
+	                    				                    			<a href="javascript:void(0);" class="com-num" data-tagVal="2">2</a>
+	                    				                    			</sup>,&nbsp;	                    		</li>
+	                    		                    		<li >
+	                    			<a href="javascript:void(0);" class="mainColor" data-relate="" data="{{author.authorNameEn}}" type="authors.authorNameEn">Jin-Ting Yu</a>
+	                    			
+	                    			
+	                    			<sup class="authorTag">
+	                    				                    			<a href="javascript:void(0);" class="com-num" data-tagVal="1">1</a>
+	                    				                    			</sup>	                    		</li>
+	                    		                    </ul>
+	                    <ul class="about-author">
+	                        <!-- 英文作者地址 -->
+	                        	                        		                        		<li class="article-author-address">
+	       								<span class="">
+	       										            								1.
+            									  									</span>
+	                                    <div  class="lostOf" >
+	                                    Department of Electrical Engineering, National Kaohsiung University of Science and Technology, No.415, Jiangong Rd., Sanmin Dist., Kaohsiung City 80778, Taiwan
+	                                    </div>
+	                                </li>
+	                        		                        	                        		                        		<li class="article-author-address">
+	       								<span class="">
+	       										            								2.
+            									  									</span>
+	                                    <div  class="lostOf" >
+	                                    Department of Electrical Engineering and Information Technology, National Atomic Research Institute, No.1000, Wenhua Rd. Jiaan Village, Longtan District, Taoyuan City 32546, Taiwan
+	                                    </div>
+	                                </li>
+	                        		                        	                        	                    </ul>
+	                    <ul class="about-article">
+
+	                        <!-- 稿件日期和基金项目0308 -->
+	                        <li class="com-author-info timewrap">
+	                        				    					<span><b>Received:</b>
+			    						05 October 2023
+			    					</span>
+	                            																	<span><b>Revised:</b>
+			    						21 November 2023
+			    					</span>
+									                            			    					<span><b>Accepted:</b>
+			    						22 November 2023
+			    					</span>
+	                            	                            			    					<span><b>Published:</b>
+			    						30 November 2023
+			    					</span>
+	                            	                        </li>
+	                        <li class="fundwrap">
+	                        	 	                            		                            		                            	                        
+	                        </li>
+	                        <li class="com-author-info">
+		    							    				</li>
+		    				<li class="com-author-info">
+		    					<span class="columnli" id="article_special_show" hidden>
+									
+								</span>
+		    				</li>
+		    				
+		    						    					</p>
+		    				</li>
+	                    </ul>
+	                </div>
+	            </div>
+	            <ul id="myTab" class="tab-ul tab-ul-article clear">
+	                <li class="active abs"><a  href="#Abstract" data-toggle="tab">Abstract</a></li>
+	                <li class="htm"><a href="#FullTextWrap" data-toggle="tab">Full Text(HTML)</a></li>
+	               <!--  <div class="pdf-xml clearfix">
+				                       <div class="download-pdf" data="65685f3dba35de1f04580761"><a href="javascript:void(0);" >
+				                       Download PDF</a></div>
+				                       <div class="download-xml"><a href="javascript:void(0);" onclick="toExportXML('65685f3dba35de1f04580761');">
+				                       Download XML</a></div>
+				                       
+				                        <li class="pdf"><a href="javascript:void(0);" data-toggle="tab">Download PDF</a></li>
+			                     </div> -->
+	                		            <li class="pdf hidden-sm hidden-xs"><div class="download-pdf" data="65685f3dba35de1f04580761"><a href="javascript:void(0);" >
+				                       Download PDF</a></div></li>
+				    <li class="pdf hidden-lg hidden-md">                   
+				    					    	<a href="/aimspress-data/aimse/2023/6/PDF/energy-11-06-058.pdf" >
+				                Download PDF
+				          </a>
+				    					     </li>                 
+				                       
+		            
+		            	               		                			            				</ul>
+							  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    			  					    	            <ul class="article-tab-box tab-content" id="myTabContent">
+	            	
+	                <!-- 摘要 -->
+	                <li id="Abstract" class="articleListBox tab-pane  fade in active">
+	                		                  <!--   <h3 class="navTitle" id="Abstract-list">Abstract</h3> -->
+	                  <!-- <abstract>
+<p>More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.</p>
+</abstract> -->
+	                        <div class="article-abstract">
+	                        	<abstract>
+<p>More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.</p>
+</abstract>
+	                        	 	                        </div>
+	                    		                	                    
+	                    	                    	                    		                    		                    	                    		                    		                    	                    		                    		                    	                    		                    		                    	                    	                    	<ul class="article-keyword article-info-en">
+	                    		<b>Keywords:</b>
+			                    			                    				                    		<li><a class="underHigh mainColor" href="javascript:void(0);" data="relay protection coordination" type="keywords.keywordEn">relay protection coordination</a>, 			                    		</li>
+			                    				                    			                    				                    		<li><a class="underHigh mainColor" href="javascript:void(0);" data="time multiplier setting (TMS)" type="keywords.keywordEn">time multiplier setting (TMS)</a>, 			                    		</li>
+			                    				                    			                    				                    		<li><a class="underHigh mainColor" href="javascript:void(0);" data="coordination time interval (CTI)" type="keywords.keywordEn">coordination time interval (CTI)</a>, 			                    		</li>
+			                    				                    			                    				                    		<li><a class="underHigh mainColor" href="javascript:void(0);" data="modified particle swarm optimization (MPSO)" type="keywords.keywordEn">modified particle swarm optimization (MPSO)</a>			                    		</li>
+			                    				                    		                    </ul>
+	                    	                    
+	                    <p class="citation-p"><b class="subtit-b">Citation:</b> Tung-Sheng Zhan, Chun-Lien Su, Yih-Der Lee, Jheng-Lun Jiang, Jin-Ting Yu. Adaptive OCR coordinationin distribution system with distributed energy resources contribution[J]. AIMS Energy, 2023, 11(6): 1278-1305. doi: 10.3934/energy.2023058</p>
+	                    
+	                     <!-- 相关文章 -->
+	                    		                		                <div id="RelatedPages" class="articleListBox">
+		                	<h3><b class="subtit-b">Related Papers:</b></h3>
+		                	<div id="RelatedPagesHtml"></div>
+		                				                </div>
+		                		                	                    
+	                    
+	                </li>
+	                <!-- 全文 -->
+                	
+		                <li id="FullTextWrap" class="articleListBox FullText-all tab-pane  fade in">
+		                			                	 <h3 class="navTitle" id="Abstract-list">Abstract</h3>
+		                	    <!-- changedby qmn:20210416    //CDATA域字符-->
+		                        <div class="article-abstract">
+									<abstract>
+<p>More and more distributed energy resources (DERs) are being added to the medium-voltage (MV) or low-voltage (LV) radial distribution networks (RDNs). These distributed power sources will cause the redistribution of power flow and fault current, bringing new challenges to the coordination of power system protection. An adaptive protection coordination strategy is proposed in this paper. It will trace the connectivity of the system structure to determine the set of relay numbers as a tracking path. According to the topology of the system structure, the tracking path can be divided into two categories: the main feeder path and the branch path. The time multiplier setting (TMS) of each relay can be used to evaluate the operation time of the over-current relay (OCR), and the operation time of the relay can be used to evaluate the fitness of the TMS setting combination. Furthermore, the relay protection coordination problem can be modeled to minimize the accumulated summation of all primary and backup relay operation time (OT) subject to the coordination time interval (CTI) limitation. A modified particle swarm optimization (MPSO) algorithm with adaptive self-cognition and society operation scheme (ASSOS) was proposed and utilized to determine TMS for each relay on the tracking path. A 16-bus test MV system with distributed generators (DGs) will be applied to test the adaptive protection coordination approach proposed in this paper. The results show that the proposed MPSO algorithm reduces the overall OT and relieves the impact on protection coordination settings after DG joins the system. The paper also tests and compares the proposed MPSO with other metaheuristic intelligence-based random search algorithms to prove that MPSO possesses with increased efficiency and performance.</p>
+</abstract>
+											                       				                        </div>
+		                    			                		                    
+		                     <br />
+		                    <div class="nodeTitle"><b></b></div>
+		                    <br />
+		                    <div class="nodeContent">
+	                  		 
+		                    </div>
+		                    
+		                  
+		                    
+		                
+		                			                	<div id="FullText" >
+		                    	<img style="display:block;margin:10px auto;" src="/style/web/images/article/1.gif" alt="加载中" />
+		                	 </div>
+		                			                
+		                								  <!-- 缩写 -->
+														
+		                	</br>
+		                    <!-- 致谢 -->
+									                	
+		                	  <!-- 利益冲突 -->
+														
+							
+		                	   </br>
+		                	   
+		                	 		          
+		                   		                   			                	 <h3 class="navTitle" id="References-list">References</h3>
+			                  			                  <div  id="References">
+			                    			                        <div class="References-wrap">
+	<table class="reference-tab">
+							<tr class="document-box" id="b1">
+									<td valign="top" class="td1">
+	                    [1]
+	                </td>
+					<td class="td2">
+												    <!-- Holguin JP, Rodriguez DC, Ramos G (2020) Reverse power flow (RPF) detection and impact on protection coordination of distribution systems. <i>IEEE Trans Ind Appl</i> 56: 2393–2401. https://doi.org/10.1109/TIA.2020.2969640 -->
+						    Holguin JP, Rodriguez DC, Ramos G (2020) Reverse power flow (RPF) detection and impact on protection coordination of distribution systems. <i>IEEE Trans Ind Appl</i> 56: 2393–2401. https://doi.org/10.1109/TIA.2020.2969640 doi: <a href="https://doi.org/10.1109/TIA.2020.2969640" target="_blank">10.1109/TIA.2020.2969640</a>
+																			<span><a href="https://doi.org/10.1109/TIA.2020.2969640" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b2">
+									<td valign="top" class="td1">
+	                    [2]
+	                </td>
+					<td class="td2">
+												    <!-- Zeineldin HH, Mohamed YARI, Khadkikar V, et al. (2013) A protection coordination index for evaluating distributed generation impacts on protection for meshed distribution systems. <i>IEEE Trans Smart Grid</i> 4: 1523–1532. https://doi.org/10.1109/TSG.2013.2263745 -->
+						    Zeineldin HH, Mohamed YARI, Khadkikar V, et al. (2013) A protection coordination index for evaluating distributed generation impacts on protection for meshed distribution systems. <i>IEEE Trans Smart Grid</i> 4: 1523–1532. https://doi.org/10.1109/TSG.2013.2263745 doi: <a href="https://doi.org/10.1109/TSG.2013.2263745" target="_blank">10.1109/TSG.2013.2263745</a>
+																			<span><a href="https://doi.org/10.1109/TSG.2013.2263745" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b3">
+									<td valign="top" class="td1">
+	                    [3]
+	                </td>
+					<td class="td2">
+												    <!-- Wan H, Li KK, Wong KP (2010) An adaptive multiagent approach to protection relay coordination with distributed generators in industrial power distribution system. <i>IEEE Trans Ind Appl</i> 46: 2118–2124. https://doi.org/10.1109/TIA.2010.2059492 -->
+						    Wan H, Li KK, Wong KP (2010) An adaptive multiagent approach to protection relay coordination with distributed generators in industrial power distribution system. <i>IEEE Trans Ind Appl</i> 46: 2118–2124. https://doi.org/10.1109/TIA.2010.2059492 doi: <a href="https://doi.org/10.1109/TIA.2010.2059492" target="_blank">10.1109/TIA.2010.2059492</a>
+																			<span><a href="https://doi.org/10.1109/TIA.2010.2059492" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b4">
+									<td valign="top" class="td1">
+	                    [4]
+	                </td>
+					<td class="td2">
+												    <!-- Isherwood N, Rahman MS, Oo AMT (2017) Distribution feeder protection and reconfiguration using multi-agent approach. <i>Proceeding of Australasian Universities Power Engineering Conference (AUPEC)</i> 1–6. https://doi.org/10.1109/AUPEC.2017.8282425 -->
+						    Isherwood N, Rahman MS, Oo AMT (2017) Distribution feeder protection and reconfiguration using multi-agent approach. <i>Proceeding of Australasian Universities Power Engineering Conference (AUPEC)</i> 1–6. https://doi.org/10.1109/AUPEC.2017.8282425 doi: <a href="https://doi.org/10.1109/AUPEC.2017.8282425" target="_blank">10.1109/AUPEC.2017.8282425</a>
+																			<span><a href="https://doi.org/10.1109/AUPEC.2017.8282425" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b5">
+									<td valign="top" class="td1">
+	                    [5]
+	                </td>
+					<td class="td2">
+												    <!-- Kayyali D, Zeineldin H, Diabat A, et al. (2020) An optimal integrated approach considering distribution system reconfiguration and protection coordination. <i>Proceeding of 2020 IEEE Power &amp; Energy Society General Meeting (PESGM)</i> 1–5. https://doi.org/10.1109/PESGM41954.2020.9281412 -->
+						    Kayyali D, Zeineldin H, Diabat A, et al. (2020) An optimal integrated approach considering distribution system reconfiguration and protection coordination. <i>Proceeding of 2020 IEEE Power &amp; Energy Society General Meeting (PESGM)</i> 1–5. https://doi.org/10.1109/PESGM41954.2020.9281412 doi: <a href="https://doi.org/10.1109/PESGM41954.2020.9281412" target="_blank">10.1109/PESGM41954.2020.9281412</a>
+																			<span><a href="https://doi.org/10.1109/PESGM41954.2020.9281412" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b6">
+									<td valign="top" class="td1">
+	                    [6]
+	                </td>
+					<td class="td2">
+												    <!-- Ghotbi-Maleki M, Chabanloo RM, Zeineldin HH, et al. (2021) Design of setting group-based overcurrent protection scheme for active distribution networks using MILP. <i>IEEE Trans Smart Grid</i> 12: 1185–1193. https://doi.org/10.1109/TSG.2020.3027371 -->
+						    Ghotbi-Maleki M, Chabanloo RM, Zeineldin HH, et al. (2021) Design of setting group-based overcurrent protection scheme for active distribution networks using MILP. <i>IEEE Trans Smart Grid</i> 12: 1185–1193. https://doi.org/10.1109/TSG.2020.3027371 doi: <a href="https://doi.org/10.1109/TSG.2020.3027371" target="_blank">10.1109/TSG.2020.3027371</a>
+																			<span><a href="https://doi.org/10.1109/TSG.2020.3027371" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b7">
+									<td valign="top" class="td1">
+	                    [7]
+	                </td>
+					<td class="td2">
+												    <!-- Alam MN, Chakrabarti S, Tiwari VK (2020) Protection coordination with high penetration of solar power to distribution networks. <i>Proceeding of 2020 2nd International Conference on Smart Power &amp; Internet Energy Systems (SPIES)</i> 132–137. https://doi.org/10.1109/SPIES48661.2020.9243146 -->
+						    Alam MN, Chakrabarti S, Tiwari VK (2020) Protection coordination with high penetration of solar power to distribution networks. <i>Proceeding of 2020 2nd International Conference on Smart Power &amp; Internet Energy Systems (SPIES)</i> 132–137. https://doi.org/10.1109/SPIES48661.2020.9243146 doi: <a href="https://doi.org/10.1109/SPIES48661.2020.9243146" target="_blank">10.1109/SPIES48661.2020.9243146</a>
+																			<span><a href="https://doi.org/10.1109/SPIES48661.2020.9243146" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b8">
+									<td valign="top" class="td1">
+	                    [8]
+	                </td>
+					<td class="td2">
+												    <!-- Abdul Rahim MN, Mokhlis H, Bakar AHA, et al. (2019) Protection coordination toward optimal network reconfiguration and DG Sizing. <i>IEEE Access</i> 7: 163700–163718. https://doi.org/10.1109/ACCESS.2019.2952652 -->
+						    Abdul Rahim MN, Mokhlis H, Bakar AHA, et al. (2019) Protection coordination toward optimal network reconfiguration and DG Sizing. <i>IEEE Access</i> 7: 163700–163718. https://doi.org/10.1109/ACCESS.2019.2952652 doi: <a href="https://doi.org/10.1109/ACCESS.2019.2952652" target="_blank">10.1109/ACCESS.2019.2952652</a>
+																			<span><a href="https://doi.org/10.1109/ACCESS.2019.2952652" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b9">
+									<td valign="top" class="td1">
+	                    [9]
+	                </td>
+					<td class="td2">
+												    <!-- Zhan H, Wang C, Wang Y, et al. (2016) Relay protection coordination integrated optimal placement and sizing of distributed generation sources in distribution networks. <i>IEEE Trans Smart Grid</i> 7: 55–65. https://doi.org//10.1109/TSG.2015.2420667 -->
+						    Zhan H, Wang C, Wang Y, et al. (2016) Relay protection coordination integrated optimal placement and sizing of distributed generation sources in distribution networks. <i>IEEE Trans Smart Grid</i> 7: 55–65. https://doi.org//10.1109/TSG.2015.2420667 doi: <a href="https://doi.org/10.1109/TSG.2015.2420667" target="_blank">10.1109/TSG.2015.2420667</a>
+																			<span><a href="https://doi.org/10.1109/TSG.2015.2420667" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b10">
+									<td valign="top" class="td1">
+	                    [10]
+	                </td>
+					<td class="td2">
+												    <!-- Pedraza A, Reyes D, Gomez C, et al. (2015) Optimization methodology to distributed generation location in distribution networks assessing protections coordination. <i>IEEE Latin America Trans</i> 13: 1398–1406. https://doi.org//10.1109/TLA.2015.7111995 -->
+						    Pedraza A, Reyes D, Gomez C, et al. (2015) Optimization methodology to distributed generation location in distribution networks assessing protections coordination. <i>IEEE Latin America Trans</i> 13: 1398–1406. https://doi.org//10.1109/TLA.2015.7111995 doi: <a href="https://doi.org/10.1109/TLA.2015.7111995" target="_blank">10.1109/TLA.2015.7111995</a>
+																			<span><a href="https://doi.org/10.1109/TLA.2015.7111995" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b11">
+									<td valign="top" class="td1">
+	                    [11]
+	                </td>
+					<td class="td2">
+												    <!-- Saldarriaga-Zuluaga SD, López-Lezama JM, Muñoz-Galeano N (2021) Adaptive protection coordination scheme in microgrids using directional over-current relays with non-standard characteristics. <i>Heliyon</i> 7: e06665. https://doi.org/10.1016/j.heliyon.2021.e06665 -->
+						    Saldarriaga-Zuluaga SD, López-Lezama JM, Muñoz-Galeano N (2021) Adaptive protection coordination scheme in microgrids using directional over-current relays with non-standard characteristics. <i>Heliyon</i> 7: e06665. https://doi.org/10.1016/j.heliyon.2021.e06665 doi: <a href="https://doi.org/10.1016/j.heliyon.2021.e06665" target="_blank">10.1016/j.heliyon.2021.e06665</a>
+																			<span><a href="https://doi.org/10.1016/j.heliyon.2021.e06665" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b12">
+									<td valign="top" class="td1">
+	                    [12]
+	                </td>
+					<td class="td2">
+												    <!-- Mahat P, Chen Z, Bak-Jensen B, et al. (2011) A simple adaptive overcurrent protection of distribution systems with distributed generation. <i>IEEE Trans Smart Grid</i> 2: 428–437. https://doi.org//10.1109/TSG.2011.2149550 -->
+						    Mahat P, Chen Z, Bak-Jensen B, et al. (2011) A simple adaptive overcurrent protection of distribution systems with distributed generation. <i>IEEE Trans Smart Grid</i> 2: 428–437. https://doi.org//10.1109/TSG.2011.2149550 doi: <a href="https://doi.org/10.1109/TSG.2011.2149550" target="_blank">10.1109/TSG.2011.2149550</a>
+																			<span><a href="https://doi.org/10.1109/TSG.2011.2149550" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b13">
+									<td valign="top" class="td1">
+	                    [13]
+	                </td>
+					<td class="td2">
+												    <!-- Jongepier AG, Van der Sluis L (1997) Adaptive distance protection of double-circuit lines using artificial neural networks. <i>IEEE Trans</i> <i>on</i> <i>Power</i> <i>Delivery</i> 12: 97–105. https://doi.org//10.1109/61.568229 -->
+						    Jongepier AG, Van der Sluis L (1997) Adaptive distance protection of double-circuit lines using artificial neural networks. <i>IEEE Trans</i> <i>on</i> <i>Power</i> <i>Delivery</i> 12: 97–105. https://doi.org//10.1109/61.568229 doi: <a href="https://doi.org/10.1109/61.568229" target="_blank">10.1109/61.568229</a>
+																			<span><a href="https://doi.org/10.1109/61.568229" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b14">
+									<td valign="top" class="td1">
+	                    [14]
+	                </td>
+					<td class="td2">
+												    <!-- Musirikare A, Pujiantara M, Tjahjono A, et al. (2018) ANN-based modeling of directional overcurrent relay characteristics applied in radial distribution system with distributed generations. <i>Proceeding of 2018 10th International Conference on Information Technology and Electrical Engineering (ICITEE)</i> 52–57. https://doi.org//10.1109/ICITEED.2018.8534834 -->
+						    Musirikare A, Pujiantara M, Tjahjono A, et al. (2018) ANN-based modeling of directional overcurrent relay characteristics applied in radial distribution system with distributed generations. <i>Proceeding of 2018 10th International Conference on Information Technology and Electrical Engineering (ICITEE)</i> 52–57. https://doi.org//10.1109/ICITEED.2018.8534834 doi: <a href="https://doi.org/10.1109/ICITEED.2018.8534834" target="_blank">10.1109/ICITEED.2018.8534834</a>
+																			<span><a href="https://doi.org/10.1109/ICITEED.2018.8534834" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b15">
+									<td valign="top" class="td1">
+	                    [15]
+	                </td>
+					<td class="td2">
+												    <!-- Rahmatullah D, Dewantara BY, Iradiratu DPK (2018) Adaptive DOCR coordination in loop electrical distribution system with DG using artificial neural network LMBP. <i>Proceeding of 2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)</i> 560–565. https://doi.org//10.1109/ISRITI.2018.8864433 -->
+						    Rahmatullah D, Dewantara BY, Iradiratu DPK (2018) Adaptive DOCR coordination in loop electrical distribution system with DG using artificial neural network LMBP. <i>Proceeding of 2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)</i> 560–565. https://doi.org//10.1109/ISRITI.2018.8864433 doi: <a href="https://doi.org/10.1109/ISRITI.2018.8864433" target="_blank">10.1109/ISRITI.2018.8864433</a>
+																			<span><a href="https://doi.org/10.1109/ISRITI.2018.8864433" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b16">
+									<td valign="top" class="td1">
+	                    [16]
+	                </td>
+					<td class="td2">
+												    <!-- Chiang MY, Huang SC, Hsiao TC, et al. (2022) Optimal sizing and location of photovoltaic generation and energy storage systems in an unbalanced distribution system. <i>Energies</i> 15: 6682. https://doi.org/10.3390/en15186682 -->
+						    Chiang MY, Huang SC, Hsiao TC, et al. (2022) Optimal sizing and location of photovoltaic generation and energy storage systems in an unbalanced distribution system. <i>Energies</i> 15: 6682. https://doi.org/10.3390/en15186682 doi: <a href="https://doi.org/10.3390/en15186682" target="_blank">10.3390/en15186682</a>
+																			<span><a href="https://doi.org/10.3390/en15186682" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b17">
+									<td valign="top" class="td1">
+	                    [17]
+	                </td>
+					<td class="td2">
+												    <!-- Javadian SAM, Tamizkar R, Haghifam MR (2009) A Protection and reconfiguration scheme for distribution networks with DG. <i>Proceeding of 2009 IEEE Bucharest Power Tech Conference</i> 1–8. https://doi.org/10.1109/PTC.2009.5282063 -->
+						    Javadian SAM, Tamizkar R, Haghifam MR (2009) A Protection and reconfiguration scheme for distribution networks with DG. <i>Proceeding of 2009 IEEE Bucharest Power Tech Conference</i> 1–8. https://doi.org/10.1109/PTC.2009.5282063 doi: <a href="https://doi.org/10.1109/PTC.2009.5282063" target="_blank">10.1109/PTC.2009.5282063</a>
+																			<span><a href="https://doi.org/10.1109/PTC.2009.5282063" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b18">
+									<td valign="top" class="td1">
+	                    [18]
+	                </td>
+					<td class="td2">
+												    <!-- Akmal M, Al-Naemi F, Iqbal N, et al. (2019) Impact of distributed PV generation on relay coordination and power quality. <i>Proceeding of 2019 IEEE Milan PowerTech</i> 1–6. https://doi.org/10.1109/PTC.2019.8810791 -->
+						    Akmal M, Al-Naemi F, Iqbal N, et al. (2019) Impact of distributed PV generation on relay coordination and power quality. <i>Proceeding of 2019 IEEE Milan PowerTech</i> 1–6. https://doi.org/10.1109/PTC.2019.8810791 doi: <a href="https://doi.org/10.1109/PTC.2019.8810791" target="_blank">10.1109/PTC.2019.8810791</a>
+																			<span><a href="https://doi.org/10.1109/PTC.2019.8810791" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b19">
+									<td valign="top" class="td1">
+	                    [19]
+	                </td>
+					<td class="td2">
+												    <!-- Soni AK, Kumar A, Panda RK, et al. (2023) Adaptive coordination of relays in AC microgrid considering operational and topological changes. <i>IEEE Systems Journal</i> 17: 3071–3082. https://doi.org/10.1109/JSYST.2022.3227311 -->
+						    Soni AK, Kumar A, Panda RK, et al. (2023) Adaptive coordination of relays in AC microgrid considering operational and topological changes. <i>IEEE Systems Journal</i> 17: 3071–3082. https://doi.org/10.1109/JSYST.2022.3227311 doi: <a href="https://doi.org/10.1109/JSYST.2022.3227311" target="_blank">10.1109/JSYST.2022.3227311</a>
+																			<span><a href="https://doi.org/10.1109/JSYST.2022.3227311" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b20">
+									<td valign="top" class="td1">
+	                    [20]
+	                </td>
+					<td class="td2">
+												    <!-- The Institute of Electrical and Electronics Engineers, Inc. (2001) <i>IEEE recommended practice for protection and coordination of industrial and commercial power systems</i>, New York: IEEE press, 1–710. -->
+						    The Institute of Electrical and Electronics Engineers, Inc. (2001) <i>IEEE recommended practice for protection and coordination of industrial and commercial power systems</i>, New York: IEEE press, 1–710.
+																	</td>
+							</tr>
+					<tr class="document-box" id="b21">
+									<td valign="top" class="td1">
+	                    [21]
+	                </td>
+					<td class="td2">
+												    <!-- Kennedy J, Eberhart R (1995) Particle swarm optimization. <i>Proceedings of the IEEE International Conference on Neural Networks (ICNN'95)</i> 4: 1942–1948. https://doi.org//10.1109/ICNN.1995.488968 -->
+						    Kennedy J, Eberhart R (1995) Particle swarm optimization. <i>Proceedings of the IEEE International Conference on Neural Networks (ICNN'95)</i> 4: 1942–1948. https://doi.org//10.1109/ICNN.1995.488968 doi: <a href="https://doi.org/10.1109/ICNN.1995.488968" target="_blank">10.1109/ICNN.1995.488968</a>
+																			<span><a href="https://doi.org/10.1109/ICNN.1995.488968" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+					<tr class="document-box" id="b22">
+									<td valign="top" class="td1">
+	                    [22]
+	                </td>
+					<td class="td2">
+												    <!-- Eberhart R, Shi Y (2000) Comparing inertia weights and constriction factors in particle swarm optimization. <i>Proceedings of the 2000 Congress on Evolutionary Computation (CEC00)</i> 1: 84–88. https://doi.org//10.1109/CEC.2000.870279 -->
+						    Eberhart R, Shi Y (2000) Comparing inertia weights and constriction factors in particle swarm optimization. <i>Proceedings of the 2000 Congress on Evolutionary Computation (CEC00)</i> 1: 84–88. https://doi.org//10.1109/CEC.2000.870279 doi: <a href="https://doi.org/10.1109/CEC.2000.870279" target="_blank">10.1109/CEC.2000.870279</a>
+																			<span><a href="https://doi.org/10.1109/CEC.2000.870279" target="_blank" class="crossref-img"><img alt="" src="/style/web/images/custom/crossref.jpeg"></a></span>
+											</td>
+							</tr>
+			</table>
+</div>			                    			                    </div>
+			                    		                    
+		                    		                    
+		                    
+		                 <!-- 权限声明 -->
+		                 
+		  				 <!--         
+		    		    		                </br>Copyright © 2022 by AIMS Energy
+		                		                		                2022
+		                		                		                		                <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-Share Alike 4.0 Unported License. To view a copy of this license, visit <a a-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></license-p>
+		                		                -->
+		                
+		                </li>
+		               
+	                <!-- 参考文献 -->
+	                			                <li id="References" class="articleListBox">
+		                   
+		                </li>
+		                		               
+		                
+	
+	                <!-- 相关文章 -->
+	                	                <!-- <li id="RelatedPages" class="articleListBox">
+	                			                </li> -->
+	                	
+	                <!-- 附件  -->
+	                	                <li id="Supplements" class="articleListBox tab-pane fade in">
+	                		                       <!--  <h3 class="navTitle" id="Supplements-list">Supplements</h3> -->
+	                        	                        <table class="zgjx-table">
+	                        						        </table>
+				        			        </li>
+			        	
+			        <!-- 访问统计 -->
+			       <!-- <li id="metric_count" class="articleListBox">
+			            <h3 class="navTitle" id="Access-list">Access History</h3>
+			             <img id="downLoading" style="display:block;margin:10px auto;" src="/style/web/images/article/1.gif" alt="加载中" />
+			            <div class="hichart_box" id="article_visit_count_column"></div>
+			            <div class="hichart_box" id="article_visit_type_pie"></div>
+			            <div class="hichart_box" id="article_visit_area_pie"></div> 
+			            
+			            
+			        </li>-->
+			       
+			      					   	<!-- 详情页中加载被引数据  ：页面加载时使用ajax调用 citedby-info  -->
+			        <li id="citedby-info" class="articleListBox"></li>
+			      
+			        
+			        <li class="commentwrap" >
+						<div class="clearfix new-bio">	           
+	                        <!-- 作者简介和通讯作者 -->
+	                        	                        		                        			                        			                        			                        		                        			                        			                        		                        			                        			                        		                        			                        			                        		                        			                        			                        		                        		                        	
+	                        <!-- 	
+	                        		                        		<li class="corresponding-author">
+	                                    <b>Corresponding author:</b>
+                                    		                                    		                                    			                                    			Email: <a href="mailto:tszhan1109@nkust.edu.tw">tszhan1109@nkust.edu.tw</a>; Tel: +88673814526 ext. 15509; Fax: +88673921073;&nbsp;	                                    			                                    		                                    	                                    		                                    	                                    		                                    	                                    		                                    	                                    		                                    	                                </li>
+	                        		                        	 -->
+	                        						</div>			        
+			        	 <h5 class="comment-title" ><b>Reader Comments</b></h5>
+<div class="comment-content" >
+    <form id="commentForm" class="comment-form" name="commentform" >
+      	<textarea class="comment-textarea" name="textarea" id="textarea">
+      		
+      	</textarea>
+      	<div class="line-phone common-line clear">
+      		 <label class="fl">Your name:<i class="colorRed">*</i></label>
+		 	<input name="name" id="name" placeholder="" required />
+		</div>
+       	<div class="line-phone common-line clear">
+			 <label class="fl">Email:<i class="colorRed">*</i></label>
+			 <input type="email" id="email" name="email" class="fl"  required>
+		</div>
+		<input type="submit" class="submit-comment"   value="Submit">
+    </form>
+</div>			        </li>
+			        
+			         <!-- trendmd数据显示 -->
+			        				        <li>
+				            <div id="trendmd-suggestions"></div>
+				            <script defer src='//js.trendmd.com/trendmd.min.js' data-trendmdconfig='{"journal_id":"54705","element":"#trendmd-suggestions"}'></script>
+				        </li>
+				    				    
+				    <li>
+				    <div>
+		                © 2023 the Author(s), licensee AIMS Press. This is an open access article distributed
+		                 under the terms of the Creative Commons Attribution License 
+		                 (<a href="http://creativecommons.org/licenses/by/4.0" target="_blank" >http://creativecommons.org/licenses/by/4.0</a>)
+		                </div>
+				    </li>
+			        
+		    	</ul>
+			        
+		        <div class=" contentArea-left-bg">
+		        	<div class="article-footer"></div>
+			        <!--鼠标点击悬浮框-->
+			        <div class="box box-top box-tan">
+			            <div class="box-tan-con">
+							<table class="box-content reference-tab"></table>
+						</div>
+			            <div class="triangle">
+			                <div class="triangle-bg"></div>
+			                <div class="triangle-content"></div>
+			            </div>
+			            <i class="close-box articleFont icon-cuo"></i>
+			        </div>
+			        <!--鼠标点击author悬浮框-->
+			        <div class="author-box">
+			            <div class="author-content">
+			                <h6>
+			                    <span>通讯作者: </span>陈斌, bchen63@163.com
+			                </h6>
+			                <ul>
+			                    <li><span class="">1.&nbsp;</span>
+			                        <p class="">沈阳化工大学材料科学与工程学院 沈阳 110142</p></li>
+			                </ul>
+			                <p></p>
+			                <ol>
+			                    <li><a href="search?q=">本站搜索</a>
+			                    </li>
+			                    <li><a href="http://xueshu.baidu.com/s?wd=author:(叶示舟)&tn=SE_baiduxueshu_c1gjeupa&bs=&ie=utf-8&sc_f_para=sc_tasktype%3D%7BfirstAdvancedSearch%7D">百度学术搜索</a>
+			                    </li>
+			                    <li><a
+			                            href="http://s.wanfangdata.com.cn/Paper.aspx?q=作者%3A叶示舟&f=top">万方数据库搜索</a>
+			                    </li>
+			                    <li><a
+			                            href="http://scholar.cnki.net/result.aspx?q=%E4%BD%9C%E8%80%85%3A%28叶示舟%29&rt=Journal&rl=&udb=">CNKI搜索</a>
+			                    </li>
+			                </ol>
+		            	</div>
+			            <div class="triangle">
+			                <div class="triangle-bg"></div>
+			                <div class="triangle-content"></div>
+			            </div>
+	            		<i class="close-box articleFont icon-cuo"></i>
+			        </div>
+			    </div>
+	    	</div>
+		    <div class="article-main-right fr">
+		        <div class="article-right">
+		        	 <div class="article-detail-right">
+		         <!-- journal -->
+			        	<div class="searchl right2-journal-wrap clear bgwhite">
+						 	<div class="clear">
+						  		<div class="journalcover fl">
+						  			<img src="//www.aimspress.com/aimspress-upload/journal/aimse/cover_2020410144055333.jpg" />
+						  		</div>
+						  		<div class="journaldetail fl">
+						  			<div class="clear">
+								   		  <a href="/journal/aimse" class="journal-tit">
+											     AIMS Energy
+								         </a>
+						        	</div>
+						       </div>
+						      </div>
+						      <div class="ifcitewrap">
+																	    <span class="ifcon"> 1.8</span>
+														        						        	<span class="citecon" >3.8</span>
+						        						  	</div>
+						</div>
+			            <div class="metrics bgwhite margin20">
+		                			                    <h2>Metrics</h2>
+		                   
+							<div class="clear">
+								<div class="fl"></div>
+								<p class="all-message fl">
+			                        <span style="display:block;" href="javascript:void(0);">Article views(<span class="mainColor">1881</span>)</span>
+			                        			                        <span style="display:block;" href="javascript:void(0);">PDF downloads(<span class="mainColor">55</span>)</span>
+			                        			                        			                        <span style="display:block;" href="javascript:void(0);">Cited by(<span class="mainColor" id="citedByCount">2</span>)</span>
+			                        			                    </p>
+							</div>
+		                    
+		                    		                    <div style="padding:10px 0;" data-badge-type="donut" data-doi="10.3934/energy.2023058" data-hide-no-mentions="false" class="altmetric-embed"></div>
+		                    <div style="padding:5px 0;" class='altmetric-embed' data-badge-popover='left' data-doi='10.3934/energy.2023058'></div>
+		                    		                </div>
+	                
+		                <div class="download-btns clear-size margin20">
+		                     			                     <div class="pdf-xml clearfix">
+				                       <div class="preview-pdf" data="65685f3dba35de1f04580761"><a href="javascript:void(0);" >
+										   Preview PDF</a></div>
+				                       <div class="download-xml"><a href="javascript:void(0);" onclick="toExportXML('65685f3dba35de1f04580761');">
+				                       Download XML</a></div>
+			                     </div>
+		                     	                         <div class="download-btn"><a href="javascript:void(0);" data-target="#exportCitationModal" data-toggle="modal">
+		                        Export Citation</a></div>
+		                </div>
+		             </div>
+		                 <div class="content-nav bgwhite rightpadding">
+		                    <div class="contents-title">Article outline</div>
+		                   	<div class="showfullbtn">
+		                   		<label><input type="checkbox" /> Show full outline</label>
+		                   	</div>
+		                   <div class="article-nav-wrap" >
+			                    <div class="Abstract-left-list">
+			                        <a href=""></a>
+			                    </div>
+			                    <div class="jumplink-list">
+			                    		
+			                    	
+			                    </div>
+			                    <div class="References-left-list">
+			                        <a href=""></a>
+			                    </div>
+			                    <div class="Supplements-left-list">
+			                        <a href=""></a>
+			                    </div>
+			               </div>
+		                </div>
+		        																																																																																																																																																																	        				        				                <div class="article-right-pic">
+			                	<h2 class="article-right-title" >Figures and Tables</h2>
+			                    <ul class="article-imgs">
+			                        <li class="atlas">
+			                            <a href="javascript:void(0);">
+			                            				                            				                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g002.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g002.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g003.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g003.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g004.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g004.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g005.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g005.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g006.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g006.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g007.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g007.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g008.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g008.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g009.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g009.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g010.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g010.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g011.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g011.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g012.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g012.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g013.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g013.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g014.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g014.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g015.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g015.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g016.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g016.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g017.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g017.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g018.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g018.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g019.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g019.jpg'"/>
+			                                        			                                     			                                			                            					                            					                                                <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g020.jpg"
+		                                                     onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g020.jpg'"/>
+			                                        			                                     			                                			                            </a>
+			                        </li>
+			                    </ul>
+			                    <p style="font-size:13px;">
+			                        <span class="articleFont icon-tuce"></span>
+			                        <span class="show-tu">Figures(<span class="mainColor">20</span>)</span>			                        &nbsp;/&nbsp;			                        <span class="show-biao">Tables(<span class="mainColor">9</span>)</span>			                    </p>
+			                </div>
+			            		            		                <div class="article-metrics">
+		                				                    <div class="trend-right-list">
+			                        <a href="#trendmd-suggestions">
+			                            <img src="/style/web/images/trend_03.jpg"/>
+			                        </a>
+			                        <!--   <script defer src='//js.trendmd.com/trendmd.min.js' data-trendmdconfig='{"journal_id":"59917","element":"#trendmd-suggestions"}'></script>
+			                    	-->
+			                    </div>
+			                    <script type="text/javascript">
+									$(document).ready(function(){
+										var trendInter = $("#trendmd-suggestions").text();
+										if(trendInter != null){
+											$("#right-trendmd").show();
+										}
+									});
+								</script>
+									                </div>
+		                
+		               <!--  <div class="article-metrics Access-right-list">
+		                    <a href="#Access-list">
+		                        <h6>Access History</h6>
+		                        <div class="img">
+		                            <img src="/style/web/images/Access-list_03.jpg"/>
+		                        </div>
+		                    </a>
+		                </div> -->
+		                <!-- <div class="associate-wrap bgwhite rightpadding margin20" >
+		                	<h2 class="article-right-title">Associated material</h2>
+		                	<div class="article-right-con"><a class="article-right-a" href ="">PubMed record</a> </div>
+		                </div> -->
+		                <div class="metrics metric-author bgwhite margin20" >
+			                <h2>Other Articles By Authors</h2>
+			                <ul class="authorOtherArticle">
+								<li class="">
+			                        <span class="author-title"><i></i>On This Site</span>
+									<ul class="article-div clear">
+				                    					                    		<li>
+				                    			<a href="javascript:void(0);" class="search-like" data-relate="tszhan1109@nkust.edu.tw" data="Tung-Sheng Zhan" type="authors.authorNameEn">Tung-Sheng Zhan</a>
+				                    		</li>
+				                    					                    		<li>
+				                    			<a href="javascript:void(0);" class="search-like" data-relate="" data="Chun-Lien Su" type="authors.authorNameEn">Chun-Lien Su</a>
+				                    		</li>
+				                    					                    		<li>
+				                    			<a href="javascript:void(0);" class="search-like" data-relate="" data="Yih-Der Lee" type="authors.authorNameEn">Yih-Der Lee</a>
+				                    		</li>
+				                    					                    		<li>
+				                    			<a href="javascript:void(0);" class="search-like" data-relate="" data="Jheng-Lun Jiang" type="authors.authorNameEn">Jheng-Lun Jiang</a>
+				                    		</li>
+				                    					                    		<li>
+				                    			<a href="javascript:void(0);" class="search-like" data-relate="" data="Jin-Ting Yu" type="authors.authorNameEn">Jin-Ting Yu</a>
+				                    		</li>
+				                    					                    </ul>
+			                    </li>
+			                    <li class="">
+			                        <span class="author-title"><i></i>On Google Scholar</span>
+			                        <ul class="article-div clear">
+			                        				                    		<li>
+			                    			<a href="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Tung-Sheng Zhan" target="_blank">Tung-Sheng Zhan</a>
+			                    		</li>
+			                    					                    		<li>
+			                    			<a href="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Chun-Lien Su" target="_blank">Chun-Lien Su</a>
+			                    		</li>
+			                    					                    		<li>
+			                    			<a href="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Yih-Der Lee" target="_blank">Yih-Der Lee</a>
+			                    		</li>
+			                    					                    		<li>
+			                    			<a href="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Jheng-Lun Jiang" target="_blank">Jheng-Lun Jiang</a>
+			                    		</li>
+			                    					                    		<li>
+			                    			<a href="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Jin-Ting Yu" target="_blank">Jin-Ting Yu</a>
+			                    		</li>
+			                    											</ul>
+			                    </li>
+			                </ul>
+		                </div>
+		                <div class="related-wrap bgwhite rightpadding margin20" >
+		                	<h2 class="article-right-title">Related pages</h2>
+		                	<ul class="article-right-con">
+		                		<li><a class="article-right-a" href ="http://scholar.google.com/scholar?btnG=&amp;hl=en&amp;as_sdt=0%2C23&amp;q=author:Adaptive OCR coordination
+in distribution system with distributed energy resources contribution" target="_blank">on Google Scholar</a></li>
+		                		<li><a class="article-right-a" href ="http://www.ncbi.nlm.nih.gov/pubmed/?term=Adaptive OCR coordination
+in distribution system with distributed energy resources contribution" target="_blank">on PubMed</a></li>
+		                	</ul>
+		                </div>
+		                <div class="related-wrap bgwhite rightpadding margin20" >
+		                	<h2 class="article-right-title">Tools</h2>
+		                	<ul class="article-right-con">
+		                		<li><a class="article-right-a" href="javascript:void(0);" a_doi="10.3934/energy.2023058" a_title="Adaptive OCR coordination
+in distribution system with distributed energy resources contribution" onclick="emailToFriend(this);">Email to a friend</a></li>
+		                				                		<!-- <li><a class="article-right-a" href ="" target="_blank">Order reprints</a></li> -->
+		                	</ul>
+		                </div>
+	                
+	                 
+	        </div>
+	        
+	    </div>
+	</div>
+</div>
+</div>
+<!--电脑端 结束-->
+
+<!--手机端 开始-->
+
+<!--手机端 结束-->
+    <!--footer START-->
+    <footer class="hidden-lg hidden-md ">
+    	    		    	<a href="/aimspress-data/aimse/2023/6/PDF/energy-11-06-058.pdf" >
+	                <div class="pdfView">
+	                    <div class="in-bl " >
+	                        <i class="fa fa-file-pdf-o"></i>
+	                        <span>PDF &nbsp;view</span>
+	                    </div>
+	                </div>
+	          </a>
+	    	    	
+        <!-- <div class="WeChatView">
+            <img src="" alt="WeChat" id="article-qrcode">
+            <span>follow<i></i>share</span>
+        </div> -->
+        
+        <div class="toTop">
+            <p><b>Top</b></p>
+            <span class="fa fa-angle-up"></span>
+        </div>
+    </footer>
+    <!--footer END-->
+<!--底部  开始-->
+<div id="common-bottom">
+    
+</div>
+<!--底部  结束-->
+
+<!--导出引用  开始-->
+<div class="modal fade" id="exportCitationModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h2 class="modal-title mainColor" id="myModalLabel"><b>Export File</b></h2>
+            </div>
+            <div class="modal-body">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">Citation</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p class="quot">
+                            <!--<span class="mainColor">Citation:</span>-->
+                            <div class="copyCitationInfo" style="width: 0px;height: 0px;opacity:0;overflow: hidden;">Tung-Sheng Zhan, Chun-Lien Su, Yih-Der Lee, Jheng-Lun Jiang, Jin-Ting Yu. Adaptive OCR coordinationin distribution system with distributed energy resources contribution[J]. AIMS Energy, 2023, 11(6): 1278-1305. doi: 10.3934/energy.2023058</div>
+                            <span class="info citationEn" id="">										Tung-Sheng Zhan, Chun-Lien Su, Yih-Der Lee, Jheng-Lun Jiang, Jin-Ting Yu. Adaptive OCR coordination
+in distribution system with distributed energy resources contribution[J]. <i>AIMS Energy</i>, 2023, 11(6): 1278-1305. <span style="display:inline-block;">doi: <a class="mainColor" href="https://doi.org/10.3934/energy.2023058" target="_blank" class="mainColor">10.3934/energy.2023058</a></span>								</span>
+                            <div class="modal-footer modal-footer-copy">
+								<span class="copy-citation" onclick="copyArticle(this)" title="copy to clipboard">
+									<img class="shu" src="/style/web/images/article/shu.png" alt="shu" />
+								</span>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">Format</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" value="ris" name="format" checked="">
+                                RIS(for EndNote,Reference Manager,ProCite)
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" value="bib" name="format">
+                                BibTex
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" value="txt" name="format">
+                                Txt
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">Content</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" value="0" name="content" checked="">
+                                Citation Only
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" value="1" name="content">
+                                Citation and Abstract
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="toExportCitation(this,'en')" article_id="65685f3dba35de1f04580761" id="exportArticleId">Export</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--导出引用  结束-->
+
+<!--图示功能-->
+<div id="imgShow">
+    <!--大图-->
+    <div id="originalImgs-wrapper">
+        <div class="originalImgs-wrapper">
+            <img id="originalImgs" src="" alt="" />
+        </div>
+        <!--图题-->
+        <div id="imgTitle" title="鼠标滚动">
+            <div>
+                <p class="titleEn"></p>
+            </div>
+        </div>
+        <!--页码-->
+        <p id="imgsPageNum">
+            <span id="nowImgIndex" class="underHigh"></span>/<span
+                id="allImgNum"></span>
+        </p>
+        <!--下载-->
+        <div id="downloadImgs">
+            <img src="/style/web/images/article/download.png" />DownLoad:&nbsp;
+            <a id="originalImgDownload" class="underHigh" href="javascript:void(0);">Full-Size Img</a>&nbsp;
+            <a id="originalPPTDownload" class="underHigh" href="javascript:void(0);" style="border-left: 1px solid #ccc;padding-left: 5px;">PowerPoint</a>
+        </div>
+    </div>
+    <!--小图-->
+    <div id="miniImgs-wrapper">
+        <div id="imgPrev">
+            <a href="javascript:void(0);"><span
+                    class="imgShowIcon imgShowIcon-prev"></span> </a>
+        </div>
+        <div id="miniImgs">
+            <ul>
+            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure1','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure1','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g001.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure2','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure2','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g002.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g002.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g002.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure3','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure3','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g003.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g003.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g003.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure4','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure4','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g004.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g004.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g004.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure5','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure5','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g005.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g005.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g005.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure6','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure6','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g006.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g006.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g006.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure7','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure7','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g007.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g007.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g007.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure8','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure8','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g008.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g008.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g008.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure9','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure9','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g009.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g009.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g009.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure10','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure10','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g010.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g010.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g010.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure11','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure11','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g011.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g011.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g011.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure12','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure12','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g012.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g012.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g012.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure13','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure13','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g013.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g013.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g013.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure14','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure14','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g014.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g014.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g014.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure15','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure15','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g015.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g015.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g015.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure16','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure16','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g016.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g016.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g016.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure17','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure17','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g017.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g017.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g017.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure18','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure18','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g018.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g018.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g018.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure19','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure19','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g019.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g019.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g019.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            			            		<!-- changedBy:qmn  时间：2021年1月18日15:24:19 	 缩略图中图片不能正常下载 -->
+	            		<li class="" data-img="downloadImg('Figure20','65685f3dba35de1f04580761')" data-ppt="downloadPPT('Figure20','65685f3dba35de1f04580761')">
+	            			            			<a href="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g020.jpg">
+	                            <img src="//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g020.jpg"
+	                                 onerror="this.onerror=null;this.src='//www.aimspress.com/aimspress-data/aimse/2023/6/PIC/energy-11-06-058-g020.jpg'"/>
+	                        </a>
+	            			            		</li>
+	            	            	            	
+            </ul>
+        </div>
+        <div id="imgNext">
+            <a href="javascript:void(0);"><span
+                    class="imgShowIcon imgShowIcon-next"></span> </a>
+        </div>
+    </div>
+    <!--返回-->
+    <div id="imgBack">
+        <a href="javascript:void(0);"> Return<span class="triangle"></span>
+        </a>
+    </div>
+</div>
+<!-- 右侧缩略图表 -->
+<div class="show-table">
+	<div class="new-back">
+		<a href="javascript:;"> Return<span class="triangle"></span></a>
+	</div>
+    <div class="picbox">
+        <ul class="piclist">
+            
+        </ul>
+        <div id="big_play_prev" class="home-picprev thePrev"></div>
+        <div id="big_play_next" class="home-picnext theNext"></div>
+		
+    </div>
+    <div class="picsmallbox">
+		<a href="javascript:;" id="play_prev" class="play_prev">
+			<span class="imgShowIcon imgShowIcon-prev"></span>
+		</a>
+        <div class="picboxpic">
+            <ul id="picsmall" class="picsmall clear">
+                
+            </ul>
+        </div>
+        <a href="javascript:;" id="play_next" class="play_next">
+			<span class="imgShowIcon imgShowIcon-next"></span>
+		</a>
+    </div>
+</div>
+<ul id="miniImgs_title" hidden>
+	        <li>
+            Figure&nbsp;1.&nbsp;Parts of single line diagram of an RDN with DGs
+        </li>
+            <li>
+            Figure&nbsp;2.&nbsp;Protection coordination impact of DG1 integration when a fault occurs at Bus 6
+        </li>
+            <li>
+            Figure&nbsp;3.&nbsp;Protection coordination impact of DG1 and DG2 integration when a fault occurs at Bus 5
+        </li>
+            <li>
+            Figure&nbsp;4.&nbsp;Initial probability map of self-cognition, society and hybrid operation in ASSOS
+        </li>
+            <li>
+            Figure&nbsp;5.&nbsp;Variation for decreasing hybrid operation probability
+        </li>
+            <li>
+            Figure&nbsp;6.&nbsp;Variation for increasing hybrid operation probability
+        </li>
+            <li>
+            Figure&nbsp;7.&nbsp;Variation for decreasing self-cognition operation probability
+        </li>
+            <li>
+            Figure&nbsp;8.&nbsp;Variation for increasing self-cognition operation probability
+        </li>
+            <li>
+            Figure&nbsp;9.&nbsp;Variation for decreasing society operation probability
+        </li>
+            <li>
+            Figure&nbsp;10.&nbsp;Variation for increasing society operation probability
+        </li>
+            <li>
+            Figure&nbsp;11.&nbsp;The topology of a 16-bus radial distribution system
+        </li>
+            <li>
+            Figure&nbsp;12.&nbsp;Fault current passing through each relay when the fault occurred at Bus 8
+        </li>
+            <li>
+            Figure&nbsp;13.&nbsp;Fault current passing through each relay when the fault occurred at Bus 10
+        </li>
+            <li>
+            Figure&nbsp;14.&nbsp;Fault current passing through each relay when the fault occurred at Bus 14
+        </li>
+            <li>
+            Figure&nbsp;15.&nbsp;Operation times of the primary-backup relay pairs and the CTIs for Condition 1 with no DG incorporation
+        </li>
+            <li>
+            Figure&nbsp;16.&nbsp;Operation times of the primary-backup relay pairs and the CTIs for Condition 2 with all DG incorporation
+        </li>
+            <li>
+            Figure&nbsp;17.&nbsp;Operation times of the primary-backup relay pairs and the CTIs for Condition 3 with four DGs integration
+        </li>
+            <li>
+            Figure&nbsp;18.&nbsp;Operation times of the primary-backup relay pairs and the CTIs for Condition 5 with three DGs integration
+        </li>
+            <li>
+            Figure&nbsp;19.&nbsp;Operation times of the primary-backup relay pairs and the CTIs for Condition 8 with two DGs integration
+        </li>
+            <li>
+            Figure&nbsp;20.&nbsp;Convergence comparison in 100 generations(iterations) for Condition 2 with five DGs integration
+        </li>
+    </ul>
+
+<div class="article-btn">
+    <div class="_table">
+        <div class="_cell">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
+<div class="article-menu">
+    <h3>Catalog</h3>
+    <div class="article-menu-bot">
+    	<ul class="iphone-wrapper"></ul>
+    </div>
+</div>
+
+
+	
+	
+</body>
+</html>

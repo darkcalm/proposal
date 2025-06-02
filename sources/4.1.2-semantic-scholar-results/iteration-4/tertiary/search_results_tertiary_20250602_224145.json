@@ -1,0 +1,235 @@
+{
+  "total": 8,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "b61fc727fb7cdb05eccc715f1fb47686a1b34e6d",
+      "url": "https://www.semanticscholar.org/paper/b61fc727fb7cdb05eccc715f1fb47686a1b34e6d",
+      "title": "Multi-agent System for Coordination of Distributed Energy Resources in Virtual Power Plants",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "14cf290414a16d8c717c4650ead82213b05d7fb3",
+      "url": "https://www.semanticscholar.org/paper/14cf290414a16d8c717c4650ead82213b05d7fb3",
+      "title": "An Agent-Based Framework for Aggregation of Manageable Distributed Energy Resources",
+      "venue": "Practical Applications of Agents and Multi-Agent Systems",
+      "year": 2014,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-07767-3_20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-07767-3_20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An architecture that supports multi-level aggregation of DER under VPPs is proposed that is hosted in an agent-based framework, Controleum, and is to be demonstrated at a primary school in Denmark, first quarter 2014."
+      },
+      "authors": [
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        },
+        {
+          "authorId": "1785092",
+          "name": "Y. Demazeau"
+        },
+        {
+          "authorId": "9114734",
+          "name": "B. J\u00f8rgensen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "faf9b1e7466fbef8460055979db7bfb78fd64291",
+      "url": "https://www.semanticscholar.org/paper/faf9b1e7466fbef8460055979db7bfb78fd64291",
+      "title": "Distributed Constrained Multi-Agent Reinforcement Learning with Consensus and Networked Communication",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work introduces a novel Constrained Multi-Agent Reinforcement Learning (CMARL) algorithm that integrates a consensus mechanism to ensure agent coordination and develops an enhanced scalability of policy training through problem factorization based on observed state distributions."
+      },
+      "authors": [
+        {
+          "authorId": "2344035265",
+          "name": "Santiago Amaya-Corredor"
+        },
+        {
+          "authorId": "2344043208",
+          "name": "Anders Jonsson"
+        },
+        {
+          "authorId": "1389989876",
+          "name": "Miguel Calvo-Fullana"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "131178d3a968eb837c191302f774ac567b2a6dbd",
+      "url": "https://www.semanticscholar.org/paper/131178d3a968eb837c191302f774ac567b2a6dbd",
+      "title": "Strathprints Institutional Repository View-popularity-driven Joint Source and Channel Coding of View and Rate Scalable Multi-view Video",
+      "venue": "",
+      "year": null,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A popularity-aware joint source-channel coding optimization framework that allocates source and channel coding rates to the captured content, such that the aggregate video quality of the reconstructed content across the client population is maximized, for the given packet loss and bandwidth characteristics of the clients and their view selection preferences is designed."
+      },
+      "authors": [
+        {
+          "authorId": "1801821",
+          "name": "Jacob Chakareski"
+        },
+        {
+          "authorId": "2271535556",
+          "name": "And Velisavljevic"
+        },
+        {
+          "authorId": "2271212650",
+          "name": "Vladan Velisavljevi\u00b4c"
+        },
+        {
+          "authorId": "2271214063",
+          "name": "Vladimir Stankovi\u00b4c"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "30c9493f7d1cac027700a7fe610956c647c3516b",
+      "url": "https://www.semanticscholar.org/paper/30c9493f7d1cac027700a7fe610956c647c3516b",
+      "title": "Cooperative Spectrum Leasing to Femtocells with Interference Compensation",
+      "venue": "IEEE Vehicular Technology Conference",
+      "year": 2014,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/VTCSpring.2014.7022865?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/VTCSpring.2014.7022865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A cooperative spectrum leasing framework is proposed to both mitigate interference and save energy, where a Stackelberg coordination game is formulated to analyze a joint spectrum leasing, pricing and interference coordination process between FSPs and MSP with the novel energy-aware utility functions for the players of FSP"
+      },
+      "authors": [
+        {
+          "authorId": "34837595",
+          "name": "Chungang Yang"
+        },
+        {
+          "authorId": "2109634837",
+          "name": "Jiandong Li"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e3f5ef8cc4c97435ed74aa2d5d9fba436766c8ba",
+      "url": "https://www.semanticscholar.org/paper/e3f5ef8cc4c97435ed74aa2d5d9fba436766c8ba",
+      "title": "Optimal Integration of Battery Energy Storage and Transportation Electrification in Distribution Grids",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Modeling of the solar energy generation, load demand, and EV charging load, the integration of battery energy storage system (BESS) in the power grids, and the large scale accommodation of EV loads are addressed and a probability model based on kernel density estimator is proposed which provides a low-computation precise stochastic model."
+      },
+      "authors": [
+        {
+          "authorId": "48615286",
+          "name": "B. Khaki"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "03d6236cc1ffc5ba48ef757470cec71c4fc8affa",
+      "url": "https://www.semanticscholar.org/paper/03d6236cc1ffc5ba48ef757470cec71c4fc8affa",
+      "title": "An agent-based negotiation approach for balancing multiple coupled control domains",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Latin America",
+      "year": 2015,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGT-LA.2015.7381128?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGT-LA.2015.7381128, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The results show, that the proposed agent-based coordination approach is able to balance the individual requirements of multiple coupled control domains and thereby achieve a global equilibrium state for energy allocation and demand."
+      },
+      "authors": [
+        {
+          "authorId": "3441924",
+          "name": "Aisha Umair"
+        },
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        },
+        {
+          "authorId": "9114734",
+          "name": "B. J\u00f8rgensen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9c4c43e985634b2c711617190637433ccebabbc3",
+      "url": "https://www.semanticscholar.org/paper/9c4c43e985634b2c711617190637433ccebabbc3",
+      "title": "Speed Software For Electric Machine Design And Analysis Pdf File",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "32160738",
+          "name": "M. Anders"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+2025-06-02 21:30:59,238 - INFO - Semantic Scholar Search Script - Iteration 1
+2025-06-02 21:30:59,238 - WARNING - Running without Semantic Scholar API key.
+2025-06-02 21:30:59,238 - INFO - --- Starting Primary Search ---
+2025-06-02 21:30:59,238 - INFO - Executing primary search for: 'What are the key considerations, conceptual frameworks, and specific messaging patterns involving Ag...' with limit 50
+2025-06-02 21:30:59,923 - INFO - Found 0 results for primary search. Saved to sources/4.1.2-semantic-scholar-results/iteration-1/primary/search_results_primary_20250602_213059.json
+2025-06-02 21:30:59,923 - WARNING - No results found for query: What are the key considerations, conceptual frameworks, and specific messaging patterns involving Agent Communication Protocol (ACP) or Agent-to-Agent Protocol (A2A) for establishing decentralized health data exchange and enabling predictive maintenance task initiation between Distributed Energy Resource (DER) agents and maintenance provider agents?
+2025-06-02 21:30:59,924 - INFO - --- Starting Secondary Searches ---
+2025-06-02 21:30:59,924 - INFO - Executing secondary search for: 'What are established conceptual frameworks for decentralized data exchange in energy systems?...' with limit 20
+2025-06-02 21:31:00,558 - INFO - Found 0 results for secondary search. Saved to sources/4.1.2-semantic-scholar-results/iteration-1/secondary/search_results_secondary_20250602_213100.json
+2025-06-02 21:31:00,558 - WARNING - No results found for query: What are established conceptual frameworks for decentralized data exchange in energy systems?
+2025-06-02 21:31:00,558 - INFO - Sleeping for 3 seconds between secondary queries...
+2025-06-02 21:31:03,563 - INFO - Executing secondary search for: 'How is Agent-to-Agent Protocol (A2A) used for task delegation and coordination in distributed enviro...' with limit 20
+2025-06-02 21:31:04,082 - ERROR - Error searching papers for query 'How is Agent-to-Agent Protocol (A2A) used for task delegation and coordination in distributed environments?': 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=How+is+Agent-to-Agent+Protocol+%28A2A%29+used+for+task+delegation+and+coordination+in+distributed+environments%3F&limit=20&fields=title%2Cabstract%2Cyear%2Cauthors%2Cvenue%2CcitationCount%2CopenAccessPdf%2Curl%2Ctldr%2CpaperId
+2025-06-02 21:31:04,082 - ERROR - Response content: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+2025-06-02 21:31:04,083 - INFO - Sleeping for 3 seconds between secondary queries...
+2025-06-02 21:31:07,088 - INFO - Executing secondary search for: 'What are secure protocols for decentralized health data exchange from Distributed Energy Resources (...' with limit 20
+2025-06-02 21:31:07,823 - INFO - Found 0 results for secondary search. Saved to sources/4.1.2-semantic-scholar-results/iteration-1/secondary/search_results_secondary_20250602_213107.json
+2025-06-02 21:31:07,823 - WARNING - No results found for query: What are secure protocols for decentralized health data exchange from Distributed Energy Resources (DERs)?
+2025-06-02 21:31:07,823 - INFO - Sleeping for 3 seconds between secondary queries...
+2025-06-02 21:31:10,829 - INFO - Executing secondary search for: 'How are predictive maintenance tasks initiated in decentralized industrial systems?...' with limit 20
+2025-06-02 21:31:11,381 - ERROR - Error searching papers for query 'How are predictive maintenance tasks initiated in decentralized industrial systems?': 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=How+are+predictive+maintenance+tasks+initiated+in+decentralized+industrial+systems%3F&limit=20&fields=title%2Cabstract%2Cyear%2Cauthors%2Cvenue%2CcitationCount%2CopenAccessPdf%2Curl%2Ctldr%2CpaperId
+2025-06-02 21:31:11,381 - ERROR - Response content: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+2025-06-02 21:31:11,382 - INFO - --- Starting Tertiary Searches ---
+2025-06-02 21:31:11,382 - INFO - Executing tertiary search for: 'conceptual model AND decentralized systems AND data exchange...' with limit 20
+2025-06-02 21:31:11,904 - ERROR - Error searching papers for query 'conceptual model AND decentralized systems AND data exchange': 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=conceptual+model+AND+decentralized+systems+AND+data+exchange&limit=20&fields=title%2Cabstract%2Cyear%2Cauthors%2Cvenue%2CcitationCount%2CopenAccessPdf%2Curl%2Ctldr%2CpaperId
+2025-06-02 21:31:11,904 - ERROR - Response content: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+2025-06-02 21:31:11,904 - INFO - Sleeping for 3 seconds between tertiary queries...
+2025-06-02 21:31:14,910 - INFO - Executing tertiary search for: 'Agent Communication Protocol AND FIPA AND message patterns...' with limit 20
+2025-06-02 21:31:15,632 - ERROR - Error searching papers for query 'Agent Communication Protocol AND FIPA AND message patterns': 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=Agent+Communication+Protocol+AND+FIPA+AND+message+patterns&limit=20&fields=title%2Cabstract%2Cyear%2Cauthors%2Cvenue%2CcitationCount%2CopenAccessPdf%2Curl%2Ctldr%2CpaperId
+2025-06-02 21:31:15,632 - ERROR - Response content: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+2025-06-02 21:31:15,633 - INFO - Sleeping for 3 seconds between tertiary queries...
+2025-06-02 21:31:18,638 - INFO - Executing tertiary search for: 'DER AND health data AND predictive maintenance AND agent-based...' with limit 20
+2025-06-02 21:31:20,192 - INFO - Found 20 results for tertiary search. Saved to sources/4.1.2-semantic-scholar-results/iteration-1/tertiary/search_results_tertiary_20250602_213120.json
+2025-06-02 21:31:20,192 - INFO - Sleeping for 3 seconds between tertiary queries...
+2025-06-02 21:31:23,198 - INFO - Executing tertiary search for: 'predictive maintenance AND task initiation AND automated maintenance...' with limit 20
+2025-06-02 21:31:24,073 - INFO - Found 20 results for tertiary search. Saved to sources/4.1.2-semantic-scholar-results/iteration-1/tertiary/search_results_tertiary_20250602_213124.json
+2025-06-02 21:31:24,074 - INFO - --- Consolidating Results ---
+2025-06-02 21:31:24,088 - INFO - Consolidated JSON results saved to sources/4.1.2-semantic-scholar-results/iteration-1/consolidated_search_results_iter1.json
+2025-06-02 21:31:24,089 - INFO - Markdown summary report saved to docs/4.1.2.2-semantic-scholar-summary-iteration-1.md
+2025-06-02 21:31:24,089 - INFO - Semantic Scholar search script for iteration 1 finished successfully.

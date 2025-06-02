@@ -1,0 +1,795 @@
+{
+  "total": 20,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "d5b060af1cdd87af2d036d1754dc7de5ac960e53",
+      "url": "https://www.semanticscholar.org/paper/d5b060af1cdd87af2d036d1754dc7de5ac960e53",
+      "title": "Enhancing Digital Twins With Deep Reinforcement Learning: A Use Case in Maintenance Prioritization",
+      "venue": "Online World Conference on Soft Computing in Industrial Applications",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/WSC63780.2024.10838867?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WSC63780.2024.10838867, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces an innovative framework that enhances digital twins with deep reinforcement learning (DRL) to support maintenance in manufacturing systems, offering a novel approach to predictive and prescriptive maintenance practices."
+      },
+      "authors": [
+        {
+          "authorId": "2281961878",
+          "name": "Siyuan Chen"
+        },
+        {
+          "authorId": "2341381115",
+          "name": "Paulo Victor Lopes"
+        },
+        {
+          "authorId": "2281979206",
+          "name": "Silvan Marti"
+        },
+        {
+          "authorId": "2141798570",
+          "name": "Mohan Rajashekarappa"
+        },
+        {
+          "authorId": "35404207",
+          "name": "Sunith Bandaru"
+        },
+        {
+          "authorId": "2341430409",
+          "name": "Christina Windmark"
+        },
+        {
+          "authorId": "2490393",
+          "name": "Jon Bokrantz"
+        },
+        {
+          "authorId": "2265819003",
+          "name": "Anders Skoogh"
+        }
+      ],
+      "abstract": "This paper introduces an innovative framework that enhances digital twins with deep reinforcement learning (DRL) to support maintenance in manufacturing systems. Utilizing a sophisticated artificial intelligence (AI) layer, this framework integrates real-time and historical production data from a physical manufacturing system to a digital twin, enabling dynamic simulation and analysis. Maintenance decisions are informed by DRL algorithms that analyze this data, facilitating smart maintenance strategies that adaptively prioritize tasks based on predictive analytics. The effectiveness of this approach is demonstrated through a case study in a lab-scale drone factory, where maintenance tasks are prioritized using a proximal policy optimization. This integration not only refines maintenance decisions but also aligns with the broader goals of operational efficiency and sustainability in Industry 4.0. Our results highlight the potential of combining DRL with digital twins to significantly enhance decision-making in industrial maintenance, offering a novel approach to predictive and prescriptive maintenance practices."
+    },
+    {
+      "paperId": "721d3365916e896743f2c918e4cf975b118ce5da",
+      "url": "https://www.semanticscholar.org/paper/721d3365916e896743f2c918e4cf975b118ce5da",
+      "title": "Inter-turbine Modelling of Wind-Farm Power using Multi-task Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2502.14527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2317974092",
+          "name": "Simon M. Brealy"
+        },
+        {
+          "authorId": "144925001",
+          "name": "L. Bull"
+        },
+        {
+          "authorId": "2346325491",
+          "name": "Pauline Beltrando"
+        },
+        {
+          "authorId": "2346329669",
+          "name": "Anders Sommer"
+        },
+        {
+          "authorId": "2482415",
+          "name": "N. Dervilis"
+        },
+        {
+          "authorId": "2103006625",
+          "name": "K. Worden"
+        }
+      ],
+      "abstract": "Because of the global need to increase power production from renewable energy resources, developments in the online monitoring of the associated infrastructure is of interest to reduce operation and maintenance costs. However, challenges exist for data-driven approaches to this problem, such as incomplete or limited histories of labelled damage-state data, operational and environmental variability, or the desire for the quantification of uncertainty to support risk management. This work first introduces a probabilistic regression model for predicting wind-turbine power, which adjusts for wake effects learnt from data. Spatial correlations in the learned model parameters for different tasks (turbines) are then leveraged in a hierarchical Bayesian model (an approach to multi-task learning) to develop a\"metamodel\", which can be used to make power-predictions which adjust for turbine location - including on previously unobserved turbines not included in the training data. The results show that the metamodel is able to outperform a series of benchmark models, and demonstrates a novel strategy for making efficient use of data for inference in populations of structures, in particular where correlations exist in the variable(s) of interest (such as those from wind-turbine wake-effects)."
+    },
+    {
+      "paperId": "79f520d51d9d2fea4a82ab66ac7123a1379682fd",
+      "url": "https://www.semanticscholar.org/paper/79f520d51d9d2fea4a82ab66ac7123a1379682fd",
+      "title": "Core Automated Maintenance System (CAMS) at the Flightline: Nellis AFB Structured Study Test Report",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.21236/ada426939?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21236/ada426939, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study focused on the differences and similarities between the stationary CAMS and mobile CAMS access methods, as well as the usability of each."
+      },
+      "authors": [
+        {
+          "authorId": "144608973",
+          "name": "M. E. Gorman"
+        },
+        {
+          "authorId": "144526632",
+          "name": "S. Anders"
+        },
+        {
+          "authorId": "72077549",
+          "name": "Carlton Donahoo"
+        },
+        {
+          "authorId": "68984012",
+          "name": "L. Quill"
+        },
+        {
+          "authorId": "145307626",
+          "name": "J. Jernigan"
+        }
+      ],
+      "abstract": "Abstract : One data collection system the US Air Force uses to capture all aircraft maintenance actions is the Core Automated Maintenance System (CAMS). Infrastructure and hardware are in place at Nellis AFB for CAMS to be used via a mobile device on the flightline. The mobile system at Nellis AFE is referred to as the Nellis AFE CAMS at the Flightline system. This document describes a usability test conducted by the Air Force Research Laboratory and the University of Dayton Research Institute at Nellis AFB: The test assessed the Nellis AFB CAMS at the Flightline system accessing CAMS via two different modes. These modes of maintenance documentation were: 1) a portable laptop accessing CAMS via wireless frequency and 2) the desktop device accessing CAMS via wired network. The conditions tested included: 1) opening work orders, 2) listing open work orders, and 3) closing work orders in both the stationary CAMS condition and in the mobile CAMS condition. This study focused on the differences and similarities between the stationary CAMS and mobile CAMS access methods, as well as the usability of each. Significant time savings are realized by use of the mobile system when required travel time is included as part of the overall task; however, when time required for the additional logon required in the mobile condition is included in the analysis, no significant time savings are observed for the mobile system as compared to the stationary method. The additional sign-on time is identified as the key factor precluding significant time savings when using the mobile system."
+    },
+    {
+      "paperId": "0c5bc86cfe7d39617bd8cc7b257bdec47597fbf6",
+      "url": "https://www.semanticscholar.org/paper/0c5bc86cfe7d39617bd8cc7b257bdec47597fbf6",
+      "title": "Dissecting Mechanisms of Epigenetic Memory Through Computational Modeling.",
+      "venue": "Annual Review of Plant Biology",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-arplant-070523-041445?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-arplant-070523-041445, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work focuses on three forms of epigenetic memory encoded in gene regulatory networks, DNA methylation, and histone modifications and discusses the important advantages offered by plant systems in their dissection."
+      },
+      "authors": [
+        {
+          "authorId": "2163207705",
+          "name": "Amy Briffa"
+        },
+        {
+          "authorId": "2268525313",
+          "name": "Govind Menon"
+        },
+        {
+          "authorId": "2232174267",
+          "name": "Ander Movilla Miangolarra"
+        },
+        {
+          "authorId": "2252919347",
+          "name": "Martin Howard"
+        }
+      ],
+      "abstract": "Understanding the mechanistic basis of epigenetic memory has proven to be a difficult task due to the underlying complexity of the systems involved in its establishment and maintenance. Here, we review the role of computational modeling in helping to unlock this complexity, allowing the dissection of intricate feedback dynamics. We focus on three forms of epigenetic memory encoded in gene regulatory networks, DNA methylation, and histone modifications and discuss the important advantages offered by plant systems in their dissection. We summarize the main modeling approaches involved and highlight the principal conceptual advances that the modeling has enabled through iterative cycles of predictive modeling and experiments. Lastly, we discuss remaining gaps in our understanding and how intertwined theory and experimental approaches might help in their resolution. Expected final online publication date for the Annual Review of Plant Biology, Volume 75 is May 2024. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates."
+    },
+    {
+      "paperId": "6f83052f47e8d0351e2663360aa8427e62610831",
+      "url": "https://www.semanticscholar.org/paper/6f83052f47e8d0351e2663360aa8427e62610831",
+      "title": "Longitudinal Changes in Protein Carbamylation and Mortality Risk after Initiation of Hemodialysis.",
+      "venue": "American Society of Nephrology. Clinical Journal",
+      "year": 2016,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "https://europepmc.org/articles/pmc5053789",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2215/CJN.02390316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2215/CJN.02390316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Protein carbamylation decreased with dialysis initiation, and a greater reduction over time was associated with a lower risk for mortality, and Carbamylations changes were able to predict individuals' mortality risk beyond traditional variables, including markers of dialysis adequacy and nutrition."
+      },
+      "authors": [
+        {
+          "authorId": "145298133",
+          "name": "Sahir Kalim"
+        },
+        {
+          "authorId": "40522426",
+          "name": "Caitlin A Trottier"
+        },
+        {
+          "authorId": "2249803336",
+          "name": "Julia B. Wenger"
+        },
+        {
+          "authorId": "6225074",
+          "name": "Joshua Wibecan"
+        },
+        {
+          "authorId": "48068430",
+          "name": "Rayhnuma Ahmed"
+        },
+        {
+          "authorId": "6748544",
+          "name": "E. Ankers"
+        },
+        {
+          "authorId": "2331311848",
+          "name": "S. Karumanchi"
+        },
+        {
+          "authorId": "4625331",
+          "name": "R. Thadhani"
+        },
+        {
+          "authorId": "2250046526",
+          "name": "Anders H. Berg"
+        }
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVES\nCarbamylation describes a post-translational protein modification associated with adverse outcomes in ESRD, but the risk implications of changes in carbamylation over time are not well understood.\n\n\nDESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS\nWe investigated the 1-year natural history of protein carbamylation in patients initiating maintenance hemodialysis and determined the prognostic value of longitudinal carbamylation changes in relation to mortality. In a nested patient-control study, we measured serial carbamylated albumin concentrations in select participants from a large incident dialysis cohort followed from 2004 to 2005 (n=10,044); 122 individuals who survived at least 90 days but died within 1 year of initiating hemodialysis (patients) were randomly selected along with 244 individuals who survived for at least 1 year (controls; matched for demographics). Carbamylated albumin concentration was measured using plasma collected at dialysis initiation and every subsequent 90-day period until 1 year or death.\n\n\nRESULTS\nBaseline carbamylated albumin concentration was similar between controls and patients (mean\u00b1SD; 18.9\u00b10.7 and 19.8\u00b11.1 mmol/mol, respectively; P=0.94). From dialysis initiation to day 90, carbamylated albumin concentration markedly fell in all patients, with controls -9.9\u00b10.8 mmol/mol (P<0.001) and patients -10.0\u00b11.2 mmol/mol (P<0.001). Adjusted repeated measures analysis of carbamylated albumin concentration from dialysis initiation to 1 year or death showed that the mean change (95% confidence interval) in carbamylated albumin concentration from baseline to final measure differed significantly between groups (-9.3; 95% confidence interval, -10.8 to -7.7 for controls and -6.3; 95% confidence interval, -7.7 to -2.8 for patients; P<0.01). There were no such between-group differences in blood urea levels, Kt/V, or normalized protein catabolic rate. Mortality prediction assessed using c statistics showed that carbamylated albumin concentration, when modeled continuously as the difference from baseline to final, improved a fully adjusted model from 0.76 to 0.87 (P=0.03).\n\n\nCONCLUSIONS\nProtein carbamylation decreased with dialysis initiation, and a greater reduction over time was associated with a lower risk for mortality. Carbamylation changes were able to predict individuals' mortality risk beyond traditional variables, including markers of dialysis adequacy and nutrition."
+    },
+    {
+      "paperId": "164589213529a2731aacea488c7ccf7bd7fb3ec2",
+      "url": "https://www.semanticscholar.org/paper/164589213529a2731aacea488c7ccf7bd7fb3ec2",
+      "title": "Improving configurator development: a coordinated performance assessment approach",
+      "venue": "International Journal of Quality &amp; Reliability Management",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1108/ijqrm-01-2024-0011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ijqrm-01-2024-0011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2149635010",
+          "name": "J. Ge"
+        },
+        {
+          "authorId": "2005669898",
+          "name": "K. B. Hansen"
+        },
+        {
+          "authorId": "2329469617",
+          "name": "Anders Haug"
+        },
+        {
+          "authorId": "3306431",
+          "name": "L. Hvam"
+        },
+        {
+          "authorId": "2261757263",
+          "name": "Niels Henrik Mortensen"
+        },
+        {
+          "authorId": "2220227154",
+          "name": "Kristoffer Wernblad Sigsgaard"
+        },
+        {
+          "authorId": "104848237",
+          "name": "J. K. Agergaard"
+        },
+        {
+          "authorId": "2182485474",
+          "name": "Simon Didriksen"
+        },
+        {
+          "authorId": "2349532851",
+          "name": "Christian Brunbjerg Jespersen"
+        }
+      ],
+      "abstract": "PurposeConfigurators support product and service specification processes by automating tasks, such as producing quotes, operation plans and bills of materials. However, misalignment between configurator objectives and development processes poses threats to the success of configurator projects. To address such problems, this research presents a coordinated approach to improve configurator development and reduce the likelihood of project failure, through the use of coordinated performance assessment.Design/methodology/approachThe suggested approach was developed by organizing existing configurator performance measurement methods, which were identified through a literature review. A longitudinal, action research\u2013based case study was conducted on a large energy company that operates offshore oil and gas platforms in Denmark. The case study evaluates the usefulness of the proposed approach through a maintenance work configurator developed in the case company.FindingsThe case shows that early-stage co-scoping of a configurator and its performance metrics can ensure the alignment of configurator objectives and performance measures and can secure the data required to achieve comprehensive performance measurements. These measures, in turn, support the continuous improvement of the configurator in its subsequent development cycles. The results of the empirical case study suggest that the approach produces considerable benefits in cost reduction and improved efficiency in configurator development.Originality/valueExisting approaches to configurator development and implementation place little emphasis on the derivation and decision-support capability of performance measures. To address this, the proposed approach provides a structured, integrated method to continuously guide the development and implementation of configurator projects through performance assessment."
+    },
+    {
+      "paperId": "cfa0d5eb4fdefe94d1097e5a7e85636e9a2be7e2",
+      "url": "https://www.semanticscholar.org/paper/cfa0d5eb4fdefe94d1097e5a7e85636e9a2be7e2",
+      "title": "Data Analytics in Maintenance Planning \u2013 DAIMP",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The DAIMP project aimed at reaching a system level analytics to detect critical equipment, differentiate maintenance planning and prioritize the most important equipment in real-time and showed a strong contribution to research and manufacturing industry alike."
+      },
+      "authors": [
+        {
+          "authorId": "145008507",
+          "name": "M. Gopalakrishnan"
+        },
+        {
+          "authorId": "51476833",
+          "name": "Mukund Subramaniyan"
+        },
+        {
+          "authorId": "94838356",
+          "name": "A. Salonen"
+        },
+        {
+          "authorId": "70291830",
+          "name": "Martin Asp"
+        },
+        {
+          "authorId": "12939760",
+          "name": "A. Archenti"
+        },
+        {
+          "authorId": "3254138",
+          "name": "A. Skoogh"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e03b28f58167caeaf44798082fd16db2fd250db1",
+      "url": "https://www.semanticscholar.org/paper/e03b28f58167caeaf44798082fd16db2fd250db1",
+      "title": "Age-related and Genetic Modulation of Frontal Cortex Efficiency",
+      "venue": "Journal of Cognitive Neuroscience",
+      "year": 2014,
+      "citationCount": 85,
+      "openAccessPdf": {
+        "url": "http://umu.diva-portal.org/smash/get/diva2:726978/FULLTEXT01",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1162/jocn_a_00521?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1162/jocn_a_00521, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Inverted relations of the fMRI BOLD signal during working memory maintenance and manipulation was examined in relation to aging and catechol-O-methyltransferase (COMT) Val158Met status to support a link between dopamine and DLPFC efficiency."
+      },
+      "authors": [
+        {
+          "authorId": "144688889",
+          "name": "L. Nyberg"
+        },
+        {
+          "authorId": "2192186",
+          "name": "M. Andersson"
+        },
+        {
+          "authorId": "2940088",
+          "name": "K. Kauppi"
+        },
+        {
+          "authorId": "5324895",
+          "name": "Anders Lundquist"
+        },
+        {
+          "authorId": "144519277",
+          "name": "J. Persson"
+        },
+        {
+          "authorId": "2953441",
+          "name": "Sara Pudas"
+        },
+        {
+          "authorId": "145940590",
+          "name": "L. Nilsson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a760b127b7a8640a81b2c6700f28d84bafbaf8e2",
+      "url": "https://www.semanticscholar.org/paper/a760b127b7a8640a81b2c6700f28d84bafbaf8e2",
+      "title": "An ensemble model for predicting therapeutic response to unfractionated heparin therapy (Preprint)",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2196/preprints.34533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2196/preprints.34533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This is the first study of ML applied to IV UFH dosing that has been developed and externally validated in a multisite adult general medical inpatient setting and presents the processes of data collection, preparation, and feature engineering."
+      },
+      "authors": [
+        {
+          "authorId": "2073459233",
+          "name": "A. Abdel-Hafez"
+        },
+        {
+          "authorId": "2277855356",
+          "name": "I. Scott"
+        },
+        {
+          "authorId": "15336995",
+          "name": "Nazanin Falconer"
+        },
+        {
+          "authorId": "52200028",
+          "name": "Stephen Canaris"
+        },
+        {
+          "authorId": "151158953",
+          "name": "O. Bonilla"
+        },
+        {
+          "authorId": "2069368397",
+          "name": "Sven Marxen"
+        },
+        {
+          "authorId": "2137262595",
+          "name": "Aaron Van Garderen"
+        },
+        {
+          "authorId": "5632861",
+          "name": "M. Barras"
+        }
+      ],
+      "abstract": "\n BACKGROUND\n Unfractionated heparin (UFH), is an anticoagulant drug considered a high-risk medication in that an excessive dose can cause bleeding, while an insufficient dose can lead to a recurrent embolic event. Following initiation of intravenous (IV) UFH, the therapeutic response is monitored using a measure of blood clotting time known as the activated partial thromboplastin time (aPTT). Clinicians iteratively adjust the dose of UFH to a target aPTT range, with the usual therapeutic target range between 60 to 100 seconds.\n \n \n OBJECTIVE\n The aim of this study was to develop and validate a ML algorithm to predict, aPTT within 12 hours after a specified bolus and maintenance dose of UFH.\n \n \n METHODS\n This was a retrospective cohort study of 3273 episodes of care from January 2017 to August 2020 using data collected from electronic health records (EHR) of five hospitals in Queensland, Australia. Data from four hospitals were used to build and test ensemble models using cross validation, while the data from the fifth hospital was used for external validation. Modelling was performed using H2O Driverless AI\u00ae an automated ML tool, and 17 different experiments were conducted in an iterative process to optimise model accuracy.\n \n \n RESULTS\n In predicting aPTT, the best performing experiment produced an ensemble with 4x LightGBM models with a root mean square error (RMSE) of 31.35. This dataset was re-purposed as a multi-classification task (sub-therapeutic, therapeutic, and supra-therapeutic aPTT result) and achieved a 59.9% accuracy and area under the receiver operating characteristic curve (AUC) of 0.735. External validation yielded similar results: RMSE of 30.52 +/- 1.29 for the prediction model, and accuracy of 56.8% +/- 3.15 and AUC of 0.724 for the multi-classification model.\n \n \n CONCLUSIONS\n According to our knowledge, this is the first study of ML applied to IV UFH dosing that has been developed and externally validated in a multisite adult general medical inpatient setting. We present the processes of data collection, preparation, and feature engineering for purposes of replication.\n"
+    },
+    {
+      "paperId": "9fdeb8bdcaf451310cbd222ed806de6d63ff2c47",
+      "url": "https://www.semanticscholar.org/paper/9fdeb8bdcaf451310cbd222ed806de6d63ff2c47",
+      "title": "Maintaining excellence: deliberate practice and elite performance in young and older pianists.",
+      "venue": "Journal of experimental psychology. General",
+      "year": 1996,
+      "citationCount": 464,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1037/0096-3445.125.4.331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1037/0096-3445.125.4.331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The degree of maintenance of relevant pianistic skills for older expert pianists was predicted by the amount of deliberate practice during later adulthood, and the role of deliberatepractice in the active maintenance of superior domain-specific performance in spite of general age-related decline is discussed."
+      },
+      "authors": [
+        {
+          "authorId": "115315302",
+          "name": "R. Krampe"
+        },
+        {
+          "authorId": "1742487419",
+          "name": "Anders K. Ericsson"
+        }
+      ],
+      "abstract": "Two studies investigated the role of deliberate practice in the maintenance of cognitive-motor skills in expert and accomplished amateur pianists. Older expert and amateur pianists showed the normal pattern of large age-related reductions in standard measures of general processing speed. Performance on music-related tasks showed similar age-graded decline for amateur pianists but not for expert pianists, whose average performance level was only slightly below that of young expert pianists. The degree of maintenance of relevant pianistic skills for older expert pianists was predicted by the amount of deliberate practice during later adulthood. The role of deliberate practice in the active maintenance of superior domain-specific performance in spite of general age-related decline is discussed."
+    },
+    {
+      "paperId": "8382f8728d55e4c2cd189d90dcc9595aecc5ab48",
+      "url": "https://www.semanticscholar.org/paper/8382f8728d55e4c2cd189d90dcc9595aecc5ab48",
+      "title": "Probabilistic maintenance planning & asset management at substations",
+      "venue": "",
+      "year": 1996,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "31633402",
+          "name": "G. Anders"
+        },
+        {
+          "authorId": "31099217",
+          "name": "J. Endrenyi"
+        },
+        {
+          "authorId": "40140377",
+          "name": "M. Vainberg"
+        },
+        {
+          "authorId": "2059161097",
+          "name": "G. Ford"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "13f6b6767de46ed909a5956848b2d25a49d20498",
+      "url": "https://www.semanticscholar.org/paper/13f6b6767de46ed909a5956848b2d25a49d20498",
+      "title": "Object oriented Bayesian network for industrial process operation",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Extensions of existing methods for decision-theoretic troubleshooting are used for industrial process operation and asset management, which includes expected average cost of asset management actions, prediction of signals\u2019 level-trend development, risk assessment for disturbance analysis and predictive maintenance on demand."
+      },
+      "authors": [
+        {
+          "authorId": "144497001",
+          "name": "G. Weidl"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        },
+        {
+          "authorId": "49037296",
+          "name": "E. Dahlquist"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6287c4a14edf5f7eb119f71104b14a86780984ba",
+      "url": "https://www.semanticscholar.org/paper/6287c4a14edf5f7eb119f71104b14a86780984ba",
+      "title": "Implementation of conceptual product models into configurators: From months to minutes",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An emerging technology is described that makes it possible to automate the conversion of conceptual product models made by ordinary product experts into the knowledge base of a configurator, and the other way around."
+      },
+      "authors": [
+        {
+          "authorId": "35214612",
+          "name": "Anders Haug"
+        },
+        {
+          "authorId": "3306431",
+          "name": "L. Hvam"
+        },
+        {
+          "authorId": "35244926",
+          "name": "N. Mortensen"
+        },
+        {
+          "authorId": "2286581913",
+          "name": "Susanne Lundvald"
+        },
+        {
+          "authorId": "2286409969",
+          "name": "Peter Holt"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d25316b370146f3d8cfa5fdc2ec09e4c0e683401",
+      "url": "https://www.semanticscholar.org/paper/d25316b370146f3d8cfa5fdc2ec09e4c0e683401",
+      "title": "INFORMATION HANDLING FOR RELIABILITY SERVICES IN PRODUCTION SYSTEMS",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "3254138",
+          "name": "A. Skoogh"
+        },
+        {
+          "authorId": "32585812",
+          "name": "\u00c5sa Fasth"
+        },
+        {
+          "authorId": "2762298",
+          "name": "J. Stahre"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a95eaf85949f4737bd4976f043225cb0e4490f5a",
+      "url": "https://www.semanticscholar.org/paper/a95eaf85949f4737bd4976f043225cb0e4490f5a",
+      "title": "Working Memory An Evolving Concept",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/9781119170174.epcn112?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/9781119170174.epcn112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2272235584",
+          "name": "Derek Evan Nee And Mark D\u2019ESPOSITO"
+        }
+      ],
+      "abstract": "Traditionally, working memory is conceptualized as a system involved in the maintenance and manipulation of information in the absence of external stimulation. Intuitively, working memory might be considered a formalized system for describing thought (Jonides, 1995). When you consider what is \u201con your mind\u201d\u2014from mental images to inner speech\u2014you are considering your working memory. In this conceptualization, working memory is transient\u2014lasting for however long the thought remains useful, typically on the order of seconds. Functionally, working memory is a mental work space that is critical for higher-level cognitive abilities. Several tasks have been devised to measure the capacity of working memory or the amount of information one can hold in mind (Luck & Vogel, 1997; Turner & Engle, 1989). Individual differences in performance on these tasks predict reasoning, planning, problem-solving, and a variety of other cognitive abilities (Carpenter, Just, & Shell, 1990; Daneman & Carpenter, 1980; Daneman & Merikle, 1996; Fukuda, Vogel, Mayr, & Awh, 2010; Just & Carpenter, 1992), demonstrating the importance of having a large mental work space. As a result of its broad impact, a clear understanding of working memory is essential for understanding cognition. Because of its central importance, working memory has been a topic of intense interest in psychology and neuroscience. Foundational research in working memory was performed by Baddeley and colleagues, and to this day Baddeley\u2019s multicomponent model remains one of the most influential models of working memory (Baddeley, 1986, 2012; Baddeley & Hitch, 1974). Although a full treatment of the model and the data that support it is outside the scope of this chapter, certain key assumptions of the model lay the groundwork for the issues to come. First, the model assumes that working memory is distinct from long-term memory. That is, the processes that underlie the temporary maintenance of information for working memory can be distinguished from the processes that underlie the more permanent retention of information associated with long-term memory. Second, the model assumes distinct representational bases for different kinds of information. For example, materials that can be verbalized (e.g., words, letters) are represented in a qualitatively distinct way from materials that can be visualized (e.g., faces, scenes). Finally, the model assumes that processes that select, modulate, and manipulate retained information are"
+    },
+    {
+      "paperId": "8035b2e0c1586cf2a395fb89532b07a64365405f",
+      "url": "https://www.semanticscholar.org/paper/8035b2e0c1586cf2a395fb89532b07a64365405f",
+      "title": "Applications of Object Oriented Bayesian Networks for Causal Analysis of Process Disturbances",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The aim is causal analysis of non-measurable disturbances as a decision advice complement to the distributed control system (DCS)."
+      },
+      "authors": [
+        {
+          "authorId": "144497001",
+          "name": "G. Weidl"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        },
+        {
+          "authorId": "49037296",
+          "name": "E. Dahlquist"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "5c820f8f88b4c251df313460b73339df27b51721",
+      "url": "https://www.semanticscholar.org/paper/5c820f8f88b4c251df313460b73339df27b51721",
+      "title": "Euro-Par 2002 parallel processing : 8th International Euro-Par Conference, Paderborn, Germany, August 27-30, 2002 : proceedings",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Invited Talks.- Orchestrating Computations on the World-Wide Web.- Realistic Rendering in Real-Time.- Non-massive, Non-high Performance, Distributed Computing: Selected Issues."
+      },
+      "authors": [
+        {
+          "authorId": "1707353",
+          "name": "B. Monien"
+        },
+        {
+          "authorId": "145747526",
+          "name": "Rainer Feldmann"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "71d5a328aec7a0776a613f994b296fd69d85d827",
+      "url": "https://www.semanticscholar.org/paper/71d5a328aec7a0776a613f994b296fd69d85d827",
+      "title": "Polyurethanes with components made of renewable resources and recyclates",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2067985898",
+          "name": "Dr. T. Anders"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "270785662571a9b4e4ad8c8ff645ccacaea508bb",
+      "url": "https://www.semanticscholar.org/paper/270785662571a9b4e4ad8c8ff645ccacaea508bb",
+      "title": "Microsoft Word-final manuscript.docx",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Binding analysis revealed that MFAP4 specifically binds tropoelastin, fibrillin1 and -2 as well as the elastin cross-linking amino acid desmosine, and that it co-localizes with fibrisin-1-positive fibers in vivo."
+      },
+      "authors": [
+        {
+          "authorId": "47127029",
+          "name": "B. Pilecki"
+        },
+        {
+          "authorId": "46626000",
+          "name": "A. T. Holm"
+        },
+        {
+          "authorId": "152691696",
+          "name": "A. Schlosser"
+        },
+        {
+          "authorId": "6769817",
+          "name": "J. B. Moeller"
+        },
+        {
+          "authorId": "143905622",
+          "name": "Alexander P Wohl"
+        },
+        {
+          "authorId": "48242055",
+          "name": "Alexandra V. Zuk"
+        },
+        {
+          "authorId": "39086130",
+          "name": "S. Heum\u00fcller"
+        },
+        {
+          "authorId": "83249827",
+          "name": "R. Wallis"
+        },
+        {
+          "authorId": "3932277",
+          "name": "S. Moestrup"
+        },
+        {
+          "authorId": "2180053342",
+          "name": "Gerhard"
+        },
+        {
+          "authorId": "2180053478",
+          "name": "Sengle"
+        },
+        {
+          "authorId": "6137373",
+          "name": "U. Holmskov"
+        },
+        {
+          "authorId": "2232260",
+          "name": "G. S\u00f8rensen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9c4c43e985634b2c711617190637433ccebabbc3",
+      "url": "https://www.semanticscholar.org/paper/9c4c43e985634b2c711617190637433ccebabbc3",
+      "title": "Speed Software For Electric Machine Design And Analysis Pdf File",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "32160738",
+          "name": "M. Anders"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

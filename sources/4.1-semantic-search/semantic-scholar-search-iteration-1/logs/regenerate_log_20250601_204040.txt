@@ -1,5 +1,0 @@
-2025-06-01 20:40:40,511 - INFO - Processed 0 papers from primary, found 0 unique papers
-2025-06-01 20:40:40,515 - INFO - Processed 12 papers from secondary, found 6 unique papers
-2025-06-01 20:40:40,520 - INFO - Processed 150 papers from tertiary, found 150 unique papers
-2025-06-01 20:40:40,528 - INFO - Consolidated results saved to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/consolidated_results.json
-2025-06-01 20:40:40,528 - INFO - Summary report saved to /Users/para/2510/sources/4.1-semantic-search/semantic-scholar-search-iteration-1/search_summary.txt

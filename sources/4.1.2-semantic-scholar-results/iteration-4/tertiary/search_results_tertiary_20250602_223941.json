@@ -1,0 +1,712 @@
+{
+  "total": 185,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "ad67ac440884f183f937bcf7be6a07ccd32740c8",
+      "url": "https://www.semanticscholar.org/paper/ad67ac440884f183f937bcf7be6a07ccd32740c8",
+      "title": "A Decentralized Ontology Versioning Model Designed for Inter-operability and Multi-organizational Data Exchange",
+      "venue": "Artificial Intelligence in Intelligent Systems",
+      "year": 2021,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-77445-5_56?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-77445-5_56, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A versioning mechanism tailored to the decentralized environment is proposed that provides the conceptual building blocks allowing an ontology to evolve under the supervision of a community of individuals and organizations proposing progressive refinements to the ontology elements."
+      },
+      "authors": [
+        {
+          "authorId": "122223487",
+          "name": "Andrei Tara"
+        },
+        {
+          "authorId": "2129600409",
+          "name": "Nicolae Taban"
+        },
+        {
+          "authorId": "66032436",
+          "name": "C. Vasiu"
+        },
+        {
+          "authorId": "143601373",
+          "name": "C. Zamfirescu"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "f57ce7fb061a5894edf8e8e33e9e840d211e141d",
+      "url": "https://www.semanticscholar.org/paper/f57ce7fb061a5894edf8e8e33e9e840d211e141d",
+      "title": "Distributed Computing at the Edge: A Modular Small-Scale Architecture for Smart Grid Energy Systems",
+      "venue": "Panhellenic Conference on Informatics",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1145/3716554.3716612?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3716554.3716612, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper is to provide a small-scale conceptual architecture for the communication of clusters of edge devices in a smart grid system, using the actor model and the AKKA framework as a communication backbone."
+      },
+      "authors": [
+        {
+          "authorId": "2363556421",
+          "name": "Georgios Kalogeras"
+        },
+        {
+          "authorId": "2363555817",
+          "name": "Michalis Papazekos"
+        },
+        {
+          "authorId": "2363555627",
+          "name": "Vassilios Tampakas"
+        }
+      ],
+      "abstract": "The explosive increase in sensory equipment for the gathering of data in recent years has pushed computing resources to their limits and has created the need for a more decentralized approach in Big Data Analytics. The term Edge Computing refers to this new paradigm where computation is performed away from the traditional cloud, in a more distributed manner and physically closer to the actual gathering of data. However, in large scale applications like an energy smart grid system spanning entire cities, there are many challenges that need to be faced for such a system to perform effectively, namely the continuous communication and exchange of information between heterogeneous edge devices, sensors and actuators, and the division of devices in spatial clusters that need to perform special operations depending on the characteristics of the area. The aim of this paper is to provide a small-scale conceptual architecture for the communication of clusters of edge devices in a smart grid system, using the actor model and the AKKA framework as a communication backbone."
+    },
+    {
+      "paperId": "bc499f556e4e0e2f7ccae4a88235045f3adecdd4",
+      "url": "https://www.semanticscholar.org/paper/bc499f556e4e0e2f7ccae4a88235045f3adecdd4",
+      "title": "Model of a decentralised medical card exchange system based on blockchain technology",
+      "venue": "InterConf",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.51582/interconf.19-20.09.2024.023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51582/interconf.19-20.09.2024.023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The findings of this study underscore the revolutionary capacity of blockchain technology to rethink data security norms as a safe, transparent, and efficient platform for the management of electronic health records (EHR)."
+      },
+      "authors": [
+        {
+          "authorId": "2300626827",
+          "name": "Oleksandr Shmatko"
+        },
+        {
+          "authorId": "2329024188",
+          "name": "Igor Gamayun"
+        },
+        {
+          "authorId": "2300627841",
+          "name": "Tetiana Gorbach"
+        }
+      ],
+      "abstract": "In the current era of digitalisation, data protection is emerging as a critical issue across many industries, particularly within the healthcare domain. Given the crucial importance of patient data, it is imperative to establish dependable systems to protect it. Unauthorised access can lead to potentially harmful exploitation. This paper examines the variable. The data security environment in the healthcare industry exposes the weaknesses of conventional storage solutions. This work proposes a conceptual framework for the system that facilitates the collection, storage, and exchange of electronic data (electronic health records, or EHR). The research analyses blockchain technology as an innovative method for addressing security issues in the transmission of sensitive medical information. The objective of this study is to guarantee a dependable flow of medical data between medical institutions and other participants; the objective is to improve the confidentiality, integrity, and availability of this data. We will achieve this objective by creating and implementing software components that offer secure platforms for medical information transmission through blockchain technology. The study centres on the development of technologies that enable the seamless transfer of medical information. Collaboration among healthcare professionals, experts, and patients is essential to guaranteeing the confidentiality, integrity, and availability of this data. This research focusses on the methodologies and technologies used in the design and development of software components. They are crucial for establishing and preserving secure systems for sending medical data. The aforementioned components include software specifically developed for encryption, authentication, and authorisation, as well as techniques to guarantee error tolerance and data restoration. Results. This work presents a decentralised system concept for the collection, storage, and exchange of Electronic Health Records (EHR). In conclusion. In the healthcare industry, the findings of this study underscore the revolutionary capacity of blockchain technology to rethink data security norms. The suggested paradigm establishes a safe, transparent, and efficient platform for the management of electronic health records (EHR). Not only does it increase the security and integrity of medical data, but it also greatly enhances the quality of medical care and has a positive impact on patient treatment results. As we progress, the use of decentralized systems leveraging blockchain technology in healthcare offers a highly promising trajectory. The resolution of intricate issues pertaining to data security and privacy is now underway, thereby facilitating progress. The aim is to establish a healthcare ecosystem that is both sustainable and focused on the needs of patients."
+    },
+    {
+      "paperId": "f841e3f6d727808eae213a491b6689dcf952e5ca",
+      "url": "https://www.semanticscholar.org/paper/f841e3f6d727808eae213a491b6689dcf952e5ca",
+      "title": "A Conceptual Framework for Enhancing Healthcare Data Security Using Blockchain and AI",
+      "venue": "International Journal of Advanced Multidisciplinary Research and Studies",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.62225/2583049x.2024.4.6.4061?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62225/2583049x.2024.4.6.4061, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study proposes a conceptual framework that synergistically integrates Blockchain technology and Artificial Intelligence to enhance healthcare data security and incorporates role-based authentication and homomorphic encryption techniques to enhance data privacy while supporting authorized data sharing."
+      },
+      "authors": [
+        {
+          "authorId": "2354773078",
+          "name": "Nura Ikhalea"
+        },
+        {
+          "authorId": "2355919236",
+          "name": "Ernest Chinonso Chianumba"
+        },
+        {
+          "authorId": "2355921562",
+          "name": "Ashiata Yetunde Mustapha"
+        },
+        {
+          "authorId": "2355919222",
+          "name": "Adelaide Yeboah Forkuo"
+        }
+      ],
+      "abstract": "The rapid digitalization of healthcare systems has led to an unprecedented accumulation of sensitive patient data across various platforms, exposing the industry to growing risks of data breaches, unauthorized access, and integrity compromise. Ensuring the security, privacy, and trustworthiness of healthcare data is paramount to maintaining patient confidentiality and enhancing clinical decision-making. This study proposes a conceptual framework that synergistically integrates Blockchain technology and Artificial Intelligence (AI) to enhance healthcare data security. The framework is designed to address key challenges such as data integrity, access control, real-time threat detection, and secure interoperability across healthcare stakeholders. Blockchain, with its decentralized and immutable ledger capabilities, provides a robust foundation for tamper-proof data storage and transparent audit trails. Smart contracts are employed to automate access controls and ensure compliance with regulatory requirements. AI, on the other hand, plays a critical role in intelligent threat detection and anomaly monitoring. By leveraging machine learning algorithms, the framework can identify suspicious patterns, detect insider threats, and predict potential breaches in real time. The proposed architecture comprises four core components: Secure data ingestion, blockchain-based data storage, AI-powered analytics, and a privacy-preserving access management layer. The framework also incorporates role-based authentication and homomorphic encryption techniques to enhance data privacy while supporting authorized data sharing. Case scenarios such as electronic health record (EHR) exchange and remote patient monitoring are used to demonstrate the practicality and scalability of the model. This integrated approach not only ensures the confidentiality, integrity, and availability of healthcare data but also fosters trust among patients, providers, and regulatory bodies. The framework aligns with global healthcare data standards and complies with regulations such as HIPAA and GDPR. Future directions include the deployment of federated learning models to further decentralize AI training while maintaining data privacy across institutions."
+    },
+    {
+      "paperId": "c108c7f79188b8ecc2283bfac08262869c233b96",
+      "url": "https://www.semanticscholar.org/paper/c108c7f79188b8ecc2283bfac08262869c233b96",
+      "title": "A Conceptual Model to Resolve Frustration of Employees in the SMEs of Bangladesh",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.17485/ijst/2020/v013i09/147200",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.17485/ijst/2020/v013i09/147200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17485/ijst/2020/v013i09/147200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "98219561",
+          "name": "Tarnima Warda Andalib"
+        },
+        {
+          "authorId": "2206049358",
+          "name": "and Hasliza Abdul Halim"
+        }
+      ],
+      "abstract": "Objectives: This study aims to design and develop the conceptual model to deal with employees\u2019 frustration in the SMEs of Bangladesh and to resolve those. Researchers target is to find the reasons, layers, and resolving techniques of employees\u2019 frustration in the SMEs of Bangladesh. \nMethods/analysis: Qualitative content analysis with multiple case studies and focused group studies has been applied in this study following Yin and Andalib to collect and analyze data. NVIVO tool and soft systems technique has been applied to analyze collected data. \n\u00a0Findings: The study mainly observes and analyzes employees\u2019 mental state of five SMEs of Bangladesh to understand and find out the reasons\u2019 and layers of employees\u2019 frustration. Researchers have also found the resolving techniques by detailed analysis and designed a conceptual model by introducing employees\u2019 rights in the model. From previous scholars\u2019 works employees\u2019 frustration reasons, its categories, behavioral pattern of the employees\u2019 when frustrated, differences between threat and conflict have been found and discussed. From qualitative multiple case studies of five SMEs and focused group discussion among twenty employees, three major themes are identified, which are employees\u2019 need, barriers creating frustration, and layers of employees\u2019 frustration. Later, while developing the conceptual model employee rights\u2019 got introduced and resolving techniques have been added as per employees\u2019 suggestions from the focused group discussion. \nNovelty/improvement: The novelty and originality of this research lies in its methods of analyzing especially in the qualitative method, where both multiple case studies and focused group discussion have been parts since that SMEs should be brought under qualitative research more to gain more deeper understanding and insight. Moreover, Andalib mentioned in 2018 that the inclusion of component \u2018employees\u2019 rights\u2019 in the conceptual model to resolve frustration has been an importantly novel addition. \nKeywords: Conceptual Model, SME Cases, Focused Group Discussion, Layers of Frustration, Resolving Techniques."
+    },
+    {
+      "paperId": "c983533c0be5cbb85d1d78758fb1a52253069e36",
+      "url": "https://www.semanticscholar.org/paper/c983533c0be5cbb85d1d78758fb1a52253069e36",
+      "title": "Design pattern recommendations for building decentralized healthcare applications",
+      "venue": "Frontiers Blockchain",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fbloc.2023.1006058/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/fbloc.2023.1006058?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fbloc.2023.1006058, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces a collection of design patterns for constructing blockchain and DLT-based healthcare systems that support secure and scalable data sharing and proposes novel patterns that take into account both the technical requirements specific to healthcare systems and the implications of these requirements on naive blockchain-based solutions."
+      },
+      "authors": [
+        {
+          "authorId": "2151330576",
+          "name": "Peng Zhang"
+        },
+        {
+          "authorId": "2225638512",
+          "name": "Adair Kelley"
+        },
+        {
+          "authorId": "2064746796",
+          "name": "Douglas C. Schmidt"
+        },
+        {
+          "authorId": "2111231491",
+          "name": "Jules White"
+        }
+      ],
+      "abstract": "Blockchain and distributed ledger technologies (DLT) are emerging decentralized infrastructures touted by researchers to improve existing systems that have been limited by centralized governance and proprietary control. These technologies have shown continued success in sustaining the operational models of modern cryptocurrencies and decentralized finance applications (DeFi). These applications has incentivized growing discussions in their potential applications and adoption in other sectors such as healthcare, which has a high demand for data liquidity and interoperability. Despite the increasing research efforts in adopting blockchain and DLT in healthcare with conceptual designs and prototypes, a major research gap exists in literature: there is a lack of design recommendations that discuss concrete architectural styles and domain-specific considerations that are necessary for implementing health data exchange systems based on these technologies. This paper aims to address this gap in research by introducing a collection of design patterns for constructing blockchain and DLT-based healthcare systems that support secure and scalable data sharing. Our approach adapts traditional software patterns and proposes novel patterns that take into account both the technical requirements specific to healthcare systems and the implications of these requirements on naive blockchain-based solutions."
+    },
+    {
+      "paperId": "1a56868313c6f6bbed9b5908929609531e0a996a",
+      "url": "https://www.semanticscholar.org/paper/1a56868313c6f6bbed9b5908929609531e0a996a",
+      "title": "Visual Query System Based on Conceptual Graphs for Apache Cassandra",
+      "venue": "International Conference on Software, Telecommunications and Computer Networks",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.23919/SoftCOM58365.2023.10271603?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/SoftCOM58365.2023.10271603, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Visual Query System for Apache Cassandra, the leading NoSQL database management system of the wide column stores DB-Engines ranking is proposed, based on a conceptual model which uses conceptual graphs to represent database structure and queries."
+      },
+      "authors": [
+        {
+          "authorId": "2198814232",
+          "name": "Camelia-Florina Andor"
+        },
+        {
+          "authorId": "2257040939",
+          "name": "Andrei Buiciuc"
+        }
+      ],
+      "abstract": "The new generation of database management systems, also known as NoSQL (Not-only-SQL) database management systems, appeared to solve the large variety of challenges raised by big data. On one hand, they offer unmatched performance advantages compared to relational database systems. On the other hand, NoSQL database management systems evolve at a very fast pace and are more challenging to understand and master, compared to relational database management systems. The fact that each NoSQL database management system has its own query language raises additional challenges for users (both experts and non-experts in computer science) in working or starting to work with them. Visual Query Systems can help in addressing this challenge by offering a more intuitive way of interacting with the database server. Based on a conceptual model which uses conceptual graphs to represent database structure and queries, we propose a Visual Query System for Apache Cassandra, the leading NoSQL database management system of the wide column stores DB-Engines ranking."
+    },
+    {
+      "paperId": "ca945ed2681f781694c99e5ae43438483eeb84bf",
+      "url": "https://www.semanticscholar.org/paper/ca945ed2681f781694c99e5ae43438483eeb84bf",
+      "title": "Information modelling for system specification representation and data exchange",
+      "venue": "Proceedings. Eighth Annual IEEE International Conference and Workshop On the Engineering of Computer-Based Systems-ECBS 2001",
+      "year": 2001,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "http://xml.coverpages.org/Herzog-ECBS2001.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ECBS.2001.922415?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ECBS.2001.922415, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The purpose of this paper is to present and motivate the modelling assumptions and approach selected for the AP-233 information model, and to describe how the EXPRESS information modelling language has been used."
+      },
+      "authors": [
+        {
+          "authorId": "37355018",
+          "name": "E. Herzog"
+        },
+        {
+          "authorId": "2102494",
+          "name": "Anders T\u00f6rne"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "27a59fd576e8c93b7c76b549ef04c49487ad7218",
+      "url": "https://www.semanticscholar.org/paper/27a59fd576e8c93b7c76b549ef04c49487ad7218",
+      "title": "Deep Reinforcement Learning for Multiple Agents in a Decentralized Architecture: A Case Study in the Telecommunication Domain",
+      "venue": "2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C)",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSA-C57050.2023.00048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSA-C57050.2023.00048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed decentralized reinforcement learning algorithm (DecRL) and information exchange scheme for each individual device can successfully support multi-agent learning, while the learning speed and service quality can be further enhanced."
+      },
+      "authors": [
+        {
+          "authorId": "2108881215",
+          "name": "Hongyi Zhang"
+        },
+        {
+          "authorId": "2116479335",
+          "name": "Jingya Li"
+        },
+        {
+          "authorId": "2279220",
+          "name": "Z. Qi"
+        },
+        {
+          "authorId": "104614026",
+          "name": "Anders Aronsson"
+        },
+        {
+          "authorId": "2145257874",
+          "name": "Jan Bosch"
+        },
+        {
+          "authorId": "40225855",
+          "name": "H. H. Olsson"
+        }
+      ],
+      "abstract": "Deep reinforcement learning has made significant development in recent years, and it is currently applied not only in simulators and games but also in embedded systems. However, when implemented in a real-world context, reinforcement learning is frequently shown to be unstable and incapable of adapting to realistic situations, particularly when directing a large number of agents. In this paper, we develop a decentralized architecture for reinforcement learning to allow multiple agents to learn optimal control policies on their own devices of the same kind but in varied environments. For such multiple agents, the traditional centralized learning algorithm usually requires a costly or time-consuming effort to develop the best-regulating policy and is incapable of scaling to a large-scale system. To address this issue, we propose a decentralized reinforcement learning algorithm (DecRL) and information exchange scheme for each individual device, in which each agent shares the individual learning experience and information with other agents based on local model training. We incorporate the algorithm into each agent in the proposed collaborative architecture and validate it in the telecommunication domain under emergency conditions, in which a macro base station (BS) is broken due to a natural disaster, and three unmanned aerial vehicles carrying BSs (UAV-BSs) are deployed to provide temporary coverage for mission-critical (MC) users in the disaster area. Based on the findings, we show that the proposed decentralized reinforcement learning algorithm can successfully support multi-agent learning, while the learning speed and service quality can be further enhanced."
+    },
+    {
+      "paperId": "0d4c4140766148748c9b5ae928ad6250844104dc",
+      "url": "https://www.semanticscholar.org/paper/0d4c4140766148748c9b5ae928ad6250844104dc",
+      "title": "Intrinsic data quality dimensions: expanding on Wand and Wang's data quality model",
+      "venue": "Industrial management & data systems",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1108/imds-02-2024-0100?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/imds-02-2024-0100, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "By improving the conceptual clarity of DQ, this study provides future research with an improved basis for studies and discussions of DQ and advances the understanding of DQ by providing additional clarity."
+      },
+      "authors": [
+        {
+          "authorId": "2266108507",
+          "name": "Anders Haug"
+        }
+      ],
+      "abstract": "PurposeStudies show that data quality (DQ) issues are extremely costly for companies. To address such issues, as a starting point, there is a need to understand what DQ is. In his context, the 1996 paper \u201cAnchoring data quality dimensions ontological foundations\u201d by Wand and Wang has been highly influential on the understanding of DQ. However, the present study demonstrates that some of the assumptions made in their paper can be challenged. On this basis, this study seeks to develop clearer definitions.Design/methodology/approachThe assumptions behind Wand and Wang\u2019s DQ classification are discussed, on which basis three counter-propositions are formulated. These are investigated through a representation theoretical approach involving analyses of deficient mappings between real-world and information system states. On this basis, an intrinsic DQ classification is derived. A case study is conducted to investigate the value of the developed DQ classification.FindingsThe representation theoretical analysis and the case study support the three propositions. These\u00a0give rise to the development of a DQ classification that includes three primary intrinsic DQ dimensions (accuracy, completeness and conciseness), which are associated with six primary value-level DQ deficiencies (inaccuracy, incorrectness, meaninglessness, incompleteness, absence and redundancy). The case study supports the value of extending Wand and Wang\u2019s DQ classification with the three additional data deficiencies.Research limitations/implicationsBy improving the conceptual clarity of DQ, this study provides future research with an improved basis for studies and discussions of DQ.Originality/valueThe study advances the understanding of DQ by providing additional clarity."
+    },
+    {
+      "paperId": "f3a25fe339b03ee079707467a64335d131ec87eb",
+      "url": "https://www.semanticscholar.org/paper/f3a25fe339b03ee079707467a64335d131ec87eb",
+      "title": "Semantic Data Link: Bridging Domain-Specific Needs with Universal and Interoperable Semantic Models",
+      "venue": "SDS@ESWC",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The Semantic Data Link framework is introduced, a novel approach that aims to democratize data description and enhance semantic interoperability that promises to bridge the gap between varying levels of expertise in semantic technologies and accelerate the development of semantically interoperable applications and services."
+      },
+      "authors": [
+        {
+          "authorId": "2223951047",
+          "name": "Maximilian St\u00e4bler"
+        },
+        {
+          "authorId": "2307266188",
+          "name": "Paul Moosmann"
+        },
+        {
+          "authorId": "2307266247",
+          "name": "Patrick Dittmer"
+        },
+        {
+          "authorId": "2307401853",
+          "name": "DanDan Wang"
+        },
+        {
+          "authorId": "2212473823",
+          "name": "Frank K\u00f6ster"
+        },
+        {
+          "authorId": "2307367780",
+          "name": "Christoph Lange"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "cd68fb9141025f6875071a2e1caeb7f4a4a7b4fa",
+      "url": "https://www.semanticscholar.org/paper/cd68fb9141025f6875071a2e1caeb7f4a4a7b4fa",
+      "title": "Privacy-Preserving Data Aggregation in Vehicular Ad Hoc Networks Using Deep Learning Techniques",
+      "venue": "2024 International Conference on Cybernation and Computation (CYBERCOM)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/CYBERCOM63683.2024.10803136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CYBERCOM63683.2024.10803136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The study demonstrates that the proposed system ideally implements all the three objectives concerning privacy, data usefulness and real-time capability, and avoids performance degradation in privacy-preserving computations by decentralizing computations and minimizing transmission costs."
+      },
+      "authors": [
+        {
+          "authorId": "2292753313",
+          "name": "T. Balaji"
+        },
+        {
+          "authorId": "2188031202",
+          "name": "R. Hariharan"
+        },
+        {
+          "authorId": "2337013336",
+          "name": "Glaret Subin P"
+        },
+        {
+          "authorId": "2285943651",
+          "name": "S. Balaji"
+        },
+        {
+          "authorId": "2337011638",
+          "name": "S. P. Bharathi"
+        }
+      ],
+      "abstract": "Vehicular Ad Hoc Networks (VANETs) are a significant breakthrough in intelligent transportation systems which allow vehicles to exchange information and with other vehicles and the surrounding infrastructure in realtime. But the utilization of vehicular data collection and aggregation poses problem areas in the issues of privacy, security and performance. This research presents a new conceptual model to employ deep learning algorithms for privacy preservation of data aggregated in V ANETs. We adopt differential privacy for providing privacy-preserving capabilities, federated learning and the usage of the blockchain make it more scalable and secure and edge computing to retain efficiency for solving these challenges. It's about adding controlled noise in order to prevent data points from being reverse engineered, differential privacy is used. Federated learning is used to decentralize the data processing, where participation of the central location is opted out and raw data transmission is kept to the barest minimum as a means of ensuring data privacy. Blockchain technology adds another layer of more secure and reliable aggregation of data improving the overall security of transactions and the prevention of alteration or sabotage. Edge computing is incorporated to ensure the real-time response of the system hence minimizing the latency of the system besides enhancing the performance of the system. In this regard, the study demonstrates that the proposed system ideally implements all the three objectives concerning privacy, data usefulness and real-time capability. Although using differential privacy slightly affects the accuracy of a model it greatly enhances the privacy of data. Together with edge computing, federated learning avoids performance degradation in privacy-preserving computations by decentralizing computations and minimizing transmission costs. The combination of block-chains with the existing networks helps to eliminate cases of data manipulation while the minor adverse impacts towards the systems\u201d network latency are packet."
+    },
+    {
+      "paperId": "94cda5e190446e6630f4b2264e7493b4797d61d0",
+      "url": "https://www.semanticscholar.org/paper/94cda5e190446e6630f4b2264e7493b4797d61d0",
+      "title": "Enabling the use of digital calibration certificates in industrial calibration management systems",
+      "venue": "Journal of Sensors and Sensor Systems",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://jsss.copernicus.org/articles/13/71/2024/jsss-13-71-2024.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5194/jsss-13-71-2024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/jsss-13-71-2024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1396083471",
+          "name": "Tuukka Mustap\u00e4\u00e4"
+        },
+        {
+          "authorId": "2295840108",
+          "name": "Sami Koskinen"
+        },
+        {
+          "authorId": "2295842212",
+          "name": "Mikael Sundfors"
+        },
+        {
+          "authorId": "2295832846",
+          "name": "Joakim Jonsson"
+        },
+        {
+          "authorId": "2295836241",
+          "name": "Kennet Riska"
+        },
+        {
+          "authorId": "66167277",
+          "name": "Lasse L\u00f6ytynoja"
+        },
+        {
+          "authorId": "2295839968",
+          "name": "Jan-Anders Broo"
+        }
+      ],
+      "abstract": "Abstract. Metrology has been a slowly digitalizing field in which a significant part of the handling of data has been dependent on paper-based processes. Due to the need for the improved efficiency and reliability of these processes, digitalization has become a major topic of interest in the metrology community. Data formats such as the digital calibration certificate (DCC) have an essential role as an enabler of further digitalization, acting as the harmonized data format for calibration data. Naturally, introducing these data formats into industrial usage sets new requirements with respect to the calibration management and associated systems. Diversity of metrology also means that the systems need to be flexible and scalable to fulfill the needs of actors in the global calibration infrastructure with very different requirements. This paper presents a conceptual approach for enhancing the communications between the existing systems in a calibration ecosystem and enabling DCC-based data exchange with third-party systems using the Beamex calibration ecosystem as an example. Thus, the presented system architecture concept that introduces data and DCC exchange services would provide a solution to enable the use of DCCs on Beamex systems.\n"
+    },
+    {
+      "paperId": "644511e02926d3dc1cec0a60602477d934e6cbb1",
+      "url": "https://www.semanticscholar.org/paper/644511e02926d3dc1cec0a60602477d934e6cbb1",
+      "title": "An Efficient Multipath Routing Protocol for Decentralized Wireless Sensor Networks for Mission and Safety-Critical Systems",
+      "venue": "International Journal of Sensors Wireless Communications and Control",
+      "year": 2020,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2174/2210327909666190531113558?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2174/2210327909666190531113558, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A secure multipath routing protocol based on sectorisation and best neighbouring nodes selection models is proposed to meet up with the performance requirements of WSNs in the mission and safety-critical systems and is suitable for wireless sensor network due to its low delay, low energy consumption and routing reliability metrics."
+      },
+      "authors": [
+        {
+          "authorId": "2194998284",
+          "name": "Oladayo Olakanmi and Adama Pamela"
+        }
+      ],
+      "abstract": "\n\n Wireless Sensor Network (WSN) is a useful integral part of mission and\nsafety-critical systems, whose failure may result in injury, loss of life, serious environmental damage\nand/or may result in the failure of some goal-directed activities. Its major challenges are reliability,\nand security related issues during data delivery. To mitigate these, the development of secure\nrouting protocols, which are capable of optimum utilization of WSNs\u2019 nodes resources for\neffective data delivery, has been one of the major research interests. However, most of the existing\nsingle path routing protocols for WSNs are not able to meet with up with the performance requirements\nof the mission and safety-critical systems. Meanwhile, a few that are multipath require\nhigh computational power, energy and their multiple paths are not ranked, this makes them unsuitable\nas routing protocol for WSNs in mission and safety-critical systems.\n\n\n\nIn this work, we propose a secure multipath routing protocol based on sectorisation and\nbest neighbouring nodes selection models to meet up with the performance requirements of WSNs\nin the mission and safety-critical systems. The protocol is capable of providing optimal multiple\nranked route paths for reliable data delivery.\n\n\n\nA route management technique, using direct approach, is developed for selecting different\noptimal data paths for reliable data routing. Also, simple but efficient lightweight privacy preserving\nauthentication scheme is proposed for the protocol to ensure security and privacy during\ndata routing. Computational and security analysis were performed to ascertain its efficiency in\nterms of computational cost, energy consumption and security.\n\n\n\nThe results showed that SMRP achieved better performance compared to the two stateof-\nthe-art solutions in terms of end-to-end delay, energy consumption and data routing reliability.\n\n\n\nThe proposed protocol is suitable for wireless sensor network due to its low delay,\nlow energy consumption and routing reliability metrics.\n"
+    },
+    {
+      "paperId": "c231d6e85598a34901f6a00d4d58f99400dc16a0",
+      "url": "https://www.semanticscholar.org/paper/c231d6e85598a34901f6a00d4d58f99400dc16a0",
+      "title": "Design of a Blockchain-based Decentralized Architecture for Sustainable Agriculture : Research-in-Progress",
+      "venue": "International Conference on Software Engineering Research and Applications",
+      "year": 2021,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SERA51205.2021.9509044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SERA51205.2021.9509044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research in progress paper presents the current gaps and focuses on incorporating blockchain to a smart and sustainable farming by developing an effective architecture and will benefit the agriculture value chains, intermediaries, farmers, and food suppliers in Australia."
+      },
+      "authors": [
+        {
+          "authorId": "2123022207",
+          "name": "Gopi Krishna Akella"
+        },
+        {
+          "authorId": "49545238",
+          "name": "S. Wibowo"
+        },
+        {
+          "authorId": "2172734",
+          "name": "S. Grandhi"
+        },
+        {
+          "authorId": "34328468",
+          "name": "Sameera Mubarak"
+        }
+      ],
+      "abstract": "Exchange of information, financial transactions, and involvement of intermediaries play an important role in agriculture. However, current ICT-based agriculture systems are centralized and fail to address problems such as information asymmetry and reliability. Besides, consumers are keen to know the origin of food (traceability), intermediaries focus on transparency of shareable data and tracking of transactions are the areas to be studied in depth for smart and sustainable farming. Disruptive technology like blockchain is suitable to effectively manage smart farming. Blockchain promises reliability and authenticity of source of information as it can track the origin of a transaction. Several researchers have proposed conceptual frameworks and models. However, there is a limited study on real-time architecture that uses blockchain and decentralized applications to address the issues for smart farming. This research in progress paper presents the current gaps and focuses on incorporating blockchain to a smart and sustainable farming by developing an effective architecture. The research outcomes of the proposed study will benefit the agriculture value chains, intermediaries, farmers, and food suppliers in Australia."
+    },
+    {
+      "paperId": "67e67eac863e7ddb55a71876036c50cce2fe444e",
+      "url": "https://www.semanticscholar.org/paper/67e67eac863e7ddb55a71876036c50cce2fe444e",
+      "title": "6.2.4 Investigating Risks in Systems Engineering Tool Data Exchange",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/j.2334-5837.2001.tb02309.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/j.2334-5837.2001.tb02309.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "How modifications are introduced based on the capabilities of individual tools are illustrated, an analysis of potentially adversary effects of data exchanges are presented, and measures for preventing data exchange related errors from being introduced in a specification are discussed."
+      },
+      "authors": [
+        {
+          "authorId": "37355018",
+          "name": "E. Herzog"
+        },
+        {
+          "authorId": "2102494",
+          "name": "Anders T\u00f6rne"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "904591a78e069f2be44dbb125ec7a95f163191bc",
+      "url": "https://www.semanticscholar.org/paper/904591a78e069f2be44dbb125ec7a95f163191bc",
+      "title": "A Decentralized Identity System for Accelerating Medical Communications within Rare Disease Communities",
+      "venue": "2022 IEEE International Conference on Blockchain, Smart Healthcare and Emerging Technologies (SmartBlock4Health)",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SmartBlock4Health56071.2022.10034646?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SmartBlock4Health56071.2022.10034646, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Overall, this work presents a conceptual framework that allows for the fast identification of patients in the rare disease community that minimizes duplication of entries and enables providers and researchers to receive updates and exchange knowledge about rare diseases in an unambiguous way."
+      },
+      "authors": [
+        {
+          "authorId": "2204877003",
+          "name": "Fateen Anam Rafid"
+        },
+        {
+          "authorId": "2204874236",
+          "name": "Eloise Benissan"
+        },
+        {
+          "authorId": "2204874181",
+          "name": "Lincoln Murr"
+        },
+        {
+          "authorId": "2204887048",
+          "name": "Ilya Ermakov"
+        },
+        {
+          "authorId": "2204867586",
+          "name": "Konstantinos Oikonomou"
+        },
+        {
+          "authorId": "2151330625",
+          "name": "Peng Zhang"
+        }
+      ],
+      "abstract": "This paper presents a blockchain-based architecture for facilitating clinical communications within the historically underfunded rare disease community. Due to the complex nature of diagnosing and treating these conditions, patients with rare diseases are often referred to multiple care providers and specialists. Each care provider instructs patients to provide identification information to onboard them to their in-house medical record system. An effective identity management service or platform is needed to avoid repetitive steps and to identify patients in a scalable, collaborative, and sustainable way. This work proposes a decentralized, blockchain-based identity management infrastructure driven by interoperability across data management systems to accurately identify unique patients within rare disease communities and provide a supporting platform that facilitates the management and exchanges of information about identities. The proposed system identifies and represents participants with specific roles using a domain-specific digital identifier model. Once a patient's information is certified by a verifier, a Unique Digital Identifier is created for them that is linked to a persistent document holding their \u201ccyber\u201d identity. This allows the patient to identify themselves by presenting only the digital proof of their Unique Digital Identifier ownership during the subsequent medical encounters. Overall, we present a conceptual framework that allows for the fast identification of patients in the rare disease community that minimizes duplication of entries. It also enables providers and researchers to receive updates and exchange knowledge about rare diseases in an unambiguous way."
+    },
+    {
+      "paperId": "b7c44a0535315ba25e709bd362e6af6548c7113f",
+      "url": "https://www.semanticscholar.org/paper/b7c44a0535315ba25e709bd362e6af6548c7113f",
+      "title": "Communication for UAV Swarms: an Open-source, Low-cost Solution Based on ESP-NOW",
+      "venue": "International Conference on Unmanned Aircraft Systems",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS65942.2025.11007928?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS65942.2025.11007928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An open-source, low-cost, plug-and-play solution to enable decentralized UAV-to-UAV communication over 2.4GHz Wi-Fi using a con-nectionless protocol that simplifies the deployment of decentralized systems by allowing UAVs to easily exchange any type of binary data, seamlessly interfacing with ROS2."
+      },
+      "authors": [
+        {
+          "authorId": "2221259952",
+          "name": "Kasper A. R. Gr\u00f8ntved"
+        },
+        {
+          "authorId": "2363749363",
+          "name": "Robert Ladigl"
+        },
+        {
+          "authorId": "2274690374",
+          "name": "Anders Lyhne Christensen"
+        }
+      ],
+      "abstract": "Multi-UAV systems typically require complex in-frastructure to deploy in real-world scenarios, limiting their accessibility and scalability. In addition, current research often relies on custom solutions or proprietary hardware to facilitate inter-UAV communication. In this paper, we propose an open-source, low-cost, plug-and-play solution to enable decentralized UAV-to-UAV communication over 2.4GHz Wi-Fi using a con-nectionless protocol. Our approach simplifies the deployment of decentralized systems by allowing UAVs to easily exchange any type of binary data, seamlessly interfacing with ROS2. The solution uses an ad-hoc style network that allows UAVs to join or leave dynamically without requiring centralized governance or a priori configuration. We describe the architecture of the system, assess the network performance in an outdoor environment using UAVs, and evaluate the system's ability to share information as a swarm through hardware-in-the-loop (HITL) and experiments using UAVs. Our results show that the proposed system facilitates connectivity and is able to transmit mission-critical data for real-world UAV operations. HITL experiments show that a decentralized planning algorithm running on three simulated UAVs can effectively reach consensus on decentralized task allocation. We have made the code public and thus provide a viable solution for researchers seeking to implement decentralized UAV swarms using cost-effective commercial-off-the-shelf (COTS) hardware and minimal infrastructure."
+    },
+    {
+      "paperId": "eee8e7a8b341280d867f187548e8ec76315717d5",
+      "url": "https://www.semanticscholar.org/paper/eee8e7a8b341280d867f187548e8ec76315717d5",
+      "title": "Conceptual Graphs Based Modeling of MongoDB Data Structure and Query",
+      "venue": "International Conference on Conceptual Structures",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-23182-8_21?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-23182-8_21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A modeling method for MongoDB data structure based on Conceptual Graphs (CGs) is presented and a common interface is proposed for data structure modeling and queries in MongoDB."
+      },
+      "authors": [
+        {
+          "authorId": "145490134",
+          "name": "V. Varga"
+        },
+        {
+          "authorId": "71090506",
+          "name": "C. Andor"
+        },
+        {
+          "authorId": "1744296",
+          "name": "C. S\u0103c\u0103rea"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b5d5dadd70b9717fd71f09e9fcbed957d62f3120",
+      "url": "https://www.semanticscholar.org/paper/b5d5dadd70b9717fd71f09e9fcbed957d62f3120",
+      "title": "SOK: A Comprehensive Survey on Distributed Ledger Technologies",
+      "venue": "International Conference on Blockchain",
+      "year": 2022,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://hal.archives-ouvertes.fr/hal-03609651/file/ICBC_CONF_2022.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICBC54727.2022.9805533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICBC54727.2022.9805533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This survey attempts to contribute to the discussion on the ontological status of DLTs by providing a taxonomy oriented-framework (DCEA) for conceptualizing and examining DLT and attempts to present an up-to-date review and evaluation of current blockchains and their variants as constructed of four layers: the data, consensus, execution and application layers."
+      },
+      "authors": [
+        {
+          "authorId": "2111242333",
+          "name": "Badr Bellaj"
+        },
+        {
+          "authorId": "3432935",
+          "name": "Aafaf Ouaddah"
+        },
+        {
+          "authorId": "4847933",
+          "name": "E. Bertin"
+        },
+        {
+          "authorId": "145107973",
+          "name": "N. Crespi"
+        },
+        {
+          "authorId": "3219699",
+          "name": "Abdellatif Mezrioui"
+        }
+      ],
+      "abstract": "In recent years, Blockchain arose as a key technology in building autonomous decentralised financial systems. Its ability to digitize trust enables building trustless systems such as cryptocurrencies where users do not need to rely on any third party to exchange value. The success of cryptocurrencies to operate without any intermediaries draw the interest of business operators who seek to bypass intermediation and thus to reduce cost and gain competitive advantages. As a result, Blockchain was used outside the crypto-sphere to build decentralized systems. However, this portage led to the inception of new types of Blockchains adapted to different specifications and with different designs. Consequently, the technology has diverged from its baseline (Bitcoin) to the point where some systems marketed as \u201cblockchain\u201d share only a few design concepts with the original Blockchain design proposed by Satoshi Nakamoto. This conceptual divergence alongside the lack of comprehensive models and standards made it difficult for both system designers and decision-makers to clearly understand what is a blockchain or to choose a suitable solution.This survey has a double goal; on the one hand, it attempts to contribute to the discussion on the ontological status of DLTs by providing a taxonomy oriented-framework (DCEA) for conceptualizing and examining DLT. On the other hand, it also attempts to present an up-to-date review and evaluation of current blockchains and their variants as constructed of four layers: the data, consensus, execution and application layers."
+    }
+  ]
+}

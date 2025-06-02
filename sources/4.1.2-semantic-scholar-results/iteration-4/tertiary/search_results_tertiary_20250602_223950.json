@@ -1,0 +1,701 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "bcfcbfcbb189a10790fc070013f1a85322cc8763",
+      "url": "https://www.semanticscholar.org/paper/bcfcbfcbb189a10790fc070013f1a85322cc8763",
+      "title": "OlaRout: Optimal dropbox deployment based cluster routing for post disaster information exchange in a smart city",
+      "venue": "Peer-to-Peer Networking and Applications",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12083-022-01433-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12083-022-01433-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A cluster based routing considering a utility based optimal dropbox (DB) deployment that assists in providing improved network performance and a mixed integer linear programming based optimization model, to enumerate the optimal number of dropboxes to be deployed at high utility locations."
+      },
+      "authors": [
+        {
+          "authorId": "145359904",
+          "name": "Nabanita Das"
+        },
+        {
+          "authorId": "1747977",
+          "name": "Souvik Basu"
+        },
+        {
+          "authorId": "2740194",
+          "name": "S. Bit"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "51925443bc8a09ea10093d64ec86956c4772c910",
+      "url": "https://www.semanticscholar.org/paper/51925443bc8a09ea10093d64ec86956c4772c910",
+      "title": "Achieving reliable communication in dynamic emergency responses.",
+      "venue": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+      "year": 2011,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Empirical studies show that compared to the initial WIISARD system, the redesigned system improves reliability by as much as 37% while reducing the number of transmitted packets by 23%."
+      },
+      "authors": [
+        {
+          "authorId": "1699207",
+          "name": "O. Chipara"
+        },
+        {
+          "authorId": "2528868",
+          "name": "A. N. Plymoth"
+        },
+        {
+          "authorId": "31291432",
+          "name": "Fang Liu"
+        },
+        {
+          "authorId": "2815717",
+          "name": "Ricky Huang"
+        },
+        {
+          "authorId": "2055340483",
+          "name": "B. Evans"
+        },
+        {
+          "authorId": "145713948",
+          "name": "P. Johansson"
+        },
+        {
+          "authorId": "134670524",
+          "name": "R. Rao"
+        },
+        {
+          "authorId": "1733025",
+          "name": "W. Griswold"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "544d42225caf281da899db16895f4fa78acd9d3f",
+      "url": "https://www.semanticscholar.org/paper/544d42225caf281da899db16895f4fa78acd9d3f",
+      "title": "Opus: University of Bath Online Publication Store Running Head: Modelling Password Use Rational Security: Modelling Everyday Password Use",
+      "venue": "",
+      "year": null,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Differences between the models were related to differences in password security and used to suggest six recommendations for security officers to consider when setting password policy, to inform the design of security policy."
+      },
+      "authors": [
+        {
+          "authorId": "2269948108",
+          "name": "G. Duggan"
+        },
+        {
+          "authorId": "2269846570",
+          "name": "Johnson"
+        },
+        {
+          "authorId": "2269928118",
+          "name": "H. And Grawemeyer"
+        },
+        {
+          "authorId": "2269948108",
+          "name": "G. Duggan"
+        },
+        {
+          "authorId": "143950725",
+          "name": "H. Johnson"
+        },
+        {
+          "authorId": "1767490",
+          "name": "B. Grawemeyer"
+        },
+        {
+          "authorId": "2269948108",
+          "name": "G. Duggan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9fbb096d327df7909908d80bd5cb4723335b8d8b",
+      "url": "https://www.semanticscholar.org/paper/9fbb096d327df7909908d80bd5cb4723335b8d8b",
+      "title": "Multimedia Data Mining in Conjunction with Acm Sigkdd Eighth International Conference on Knowledge Discovery and Data Mining Table of Contents Multimedia Data Mining Using P-trees Scale Space Exploration for Mining Image Information Content Object Boundary Detection for Ontology-based Image Classifi",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Being a third edition, the workshop this year is aiming to create a stimulating atmosphere for discussing the theoretical foundations of multimedia data mining, frameworks, methods and algorithms for integrated pattern extraction from multimedia data, multimedia data preprocessing, novel architectures for multimedia data Mining, and applications of multimediaData Mining in different areas."
+      },
+      "authors": [
+        {
+          "authorId": "113209216",
+          "name": "J. Simeon"
+        },
+        {
+          "authorId": "2081417053",
+          "name": "Chabane Simoff"
+        },
+        {
+          "authorId": "2096917219",
+          "name": "Osmar R Djeraba"
+        },
+        {
+          "authorId": "2105236633",
+          "name": "Za\u0457ane"
+        },
+        {
+          "authorId": "2099026422",
+          "name": "Simeon"
+        },
+        {
+          "authorId": "2102892072",
+          "name": "J. Simoff"
+        },
+        {
+          "authorId": "1705776",
+          "name": "C. Djeraba"
+        },
+        {
+          "authorId": "2100349247",
+          "name": "Osmar R Za\u0457ane"
+        },
+        {
+          "authorId": "1789997",
+          "name": "W. Perrizo"
+        },
+        {
+          "authorId": "2769189",
+          "name": "William Jockheck"
+        },
+        {
+          "authorId": "7154796",
+          "name": "Amal Perera"
+        },
+        {
+          "authorId": "2068939917",
+          "name": "Dongmei Ren"
+        },
+        {
+          "authorId": "2109996493",
+          "name": "Weihua Wu"
+        },
+        {
+          "authorId": "2153910817",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "1895135",
+          "name": "Mariana Ciucu"
+        },
+        {
+          "authorId": "1783337",
+          "name": "P. H\u00e9as"
+        },
+        {
+          "authorId": "1777167",
+          "name": "M. Datcu"
+        },
+        {
+          "authorId": "2073276464",
+          "name": "James C"
+        },
+        {
+          "authorId": "143761956",
+          "name": "A. Benitez"
+        },
+        {
+          "authorId": "2072785432",
+          "name": "Shih Fu"
+        },
+        {
+          "authorId": "145131936",
+          "name": "Lei Wang"
+        },
+        {
+          "authorId": "145155297",
+          "name": "L. Khan"
+        },
+        {
+          "authorId": "92859193",
+          "name": "A. Casey"
+        },
+        {
+          "authorId": "2109205095",
+          "name": "P. Singh"
+        },
+        {
+          "authorId": "2638499",
+          "name": "S. Simoff"
+        },
+        {
+          "authorId": "2061346248",
+          "name": "David"
+        },
+        {
+          "authorId": "2152662195",
+          "name": "Xin Huang"
+        },
+        {
+          "authorId": "1705664",
+          "name": "Shu\u2010Ching Chen"
+        },
+        {
+          "authorId": "144987531",
+          "name": "Mei-Ling Shyu"
+        },
+        {
+          "authorId": "2104090572",
+          "name": "Localchair Osmar"
+        },
+        {
+          "authorId": "2102833569",
+          "name": "R. Za\u0457ane"
+        },
+        {
+          "authorId": "1861262",
+          "name": "T. Caelli"
+        },
+        {
+          "authorId": "1692021",
+          "name": "A. Duffy"
+        },
+        {
+          "authorId": "1987650",
+          "name": "Howard J. Hamilton"
+        },
+        {
+          "authorId": "153034701",
+          "name": "Jiawei Han"
+        },
+        {
+          "authorId": "82853701",
+          "name": "Simon Fraser University"
+        },
+        {
+          "authorId": "2060115008",
+          "name": "Canada"
+        },
+        {
+          "authorId": "144793401",
+          "name": "W. Hsu"
+        },
+        {
+          "authorId": "145688205",
+          "name": "Paul J. Kennedy"
+        },
+        {
+          "authorId": "2119812",
+          "name": "I. Kolyshkina"
+        },
+        {
+          "authorId": "2093606773",
+          "name": "P. Coopers"
+        },
+        {
+          "authorId": "2079884861",
+          "name": "Brian C Australia"
+        },
+        {
+          "authorId": "72701215",
+          "name": "Lovell"
+        },
+        {
+          "authorId": "1701063",
+          "name": "Mark Maybury"
+        },
+        {
+          "authorId": "2065771719",
+          "name": "O. Nielsen"
+        },
+        {
+          "authorId": "1736191",
+          "name": "M. Quafafou"
+        },
+        {
+          "authorId": "71951889",
+          "name": "Tuesday"
+        },
+        {
+          "authorId": "145671776",
+          "name": "K. Seidel"
+        },
+        {
+          "authorId": "34651032",
+          "name": "J. Tilton"
+        },
+        {
+          "authorId": "9546964",
+          "name": "Shih-Fu Chang"
+        },
+        {
+          "authorId": "2754822",
+          "name": "Casey F. Breen"
+        },
+        {
+          "authorId": "2064894456",
+          "name": "David Feng"
+        },
+        {
+          "authorId": "2113825774",
+          "name": "Gang Wei"
+        },
+        {
+          "authorId": "2563061",
+          "name": "V. Petrushin"
+        },
+        {
+          "authorId": "145001267",
+          "name": "A. Gershman"
+        },
+        {
+          "authorId": "1398541310",
+          "name": "N. Bianchi-Berthouze"
+        },
+        {
+          "authorId": "49604640",
+          "name": "Tomofumi Hayashi"
+        },
+        {
+          "authorId": "1736783",
+          "name": "Chengcui Zhang"
+        },
+        {
+          "authorId": "32212094",
+          "name": "J. Oh"
+        },
+        {
+          "authorId": "2174661",
+          "name": "Babitha Bandi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a2b2faa30eaf9459c14e4b343aafeadac3d264f2",
+      "url": "https://www.semanticscholar.org/paper/a2b2faa30eaf9459c14e4b343aafeadac3d264f2",
+      "title": "1330: A clinical examination in nursing performed in a problem-based learning context \u2014 a description of nursing students\u2019 perceptions",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1177/14745151060050s130",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/14745151060050S130?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/14745151060050S130, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Design of a web-based resource, REPARERE (learning REsource for PAtients and RElatives during REcovery), to support patients and their family recovering from CABG surgery and can become a communication arena for peer support or interaction with health care providers."
+      },
+      "authors": [
+        {
+          "authorId": "145427413",
+          "name": "A. Brostr\u00f6m"
+        },
+        {
+          "authorId": "3076742",
+          "name": "A. Str\u00f6mberg"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "bbbaa694bcc9fb0e9965644a58ef2adb5b059282",
+      "url": "https://www.semanticscholar.org/paper/bbbaa694bcc9fb0e9965644a58ef2adb5b059282",
+      "title": "ACADIA's Inforum Project: A Competition with a Jury of Peers",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1162/10464880260472594?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1162/10464880260472594, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The competition\u2019s community theme underlay both its design program\u2014the design of an information forum in reunited Berlin\u2014and the selection of its winners and the peer selection process made use of the ever increasing sophistication of the jury."
+      },
+      "authors": [
+        {
+          "authorId": "120575653",
+          "name": "Peter Anders"
+        },
+        {
+          "authorId": "145901882",
+          "name": "K. Martini"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7dfe73c95bc6b4db4584a92d71aae6074203795c",
+      "url": "https://www.semanticscholar.org/paper/7dfe73c95bc6b4db4584a92d71aae6074203795c",
+      "title": "Reproduction , Maturation , and Seed Production of Cultured Species",
+      "venue": "",
+      "year": 1983,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "11399759",
+          "name": "C. Sindermann"
+        },
+        {
+          "authorId": "2272630225",
+          "name": "James M Coe"
+        },
+        {
+          "authorId": "4823069",
+          "name": "D. Holts"
+        },
+        {
+          "authorId": "2272574962",
+          "name": "Richard W"
+        },
+        {
+          "authorId": "1444686785",
+          "name": "Atlantic Bight"
+        },
+        {
+          "authorId": "2272565077",
+          "name": "E. L. Wenner"
+        },
+        {
+          "authorId": "2272804965",
+          "name": "P. Hinde"
+        },
+        {
+          "authorId": "2272565300",
+          "name": "D. M. Knott"
+        },
+        {
+          "authorId": "2272656319",
+          "name": "Arthur W. Kendall"
+        },
+        {
+          "authorId": "2272640332",
+          "name": "Jean R Dunn"
+        },
+        {
+          "authorId": "2251820597",
+          "name": "William F. Perrin"
+        },
+        {
+          "authorId": "2272561129",
+          "name": "Michael D G Scott"
+        },
+        {
+          "authorId": "2272818889",
+          "name": "Walker Jay"
+        },
+        {
+          "authorId": "2272773114",
+          "name": "Virginia L Casso"
+        },
+        {
+          "authorId": "2273517463",
+          "name": "Mike Moser"
+        },
+        {
+          "authorId": "2271194296",
+          "name": "Judy A. Sakanari"
+        },
+        {
+          "authorId": "2272565439",
+          "name": "Carol A Reilly"
+        },
+        {
+          "authorId": "2272765956",
+          "name": "Jeannette Whipple"
+        },
+        {
+          "authorId": "2253985568",
+          "name": "Sandra E. Shumway"
+        },
+        {
+          "authorId": "2272819089",
+          "name": "C. Herbert"
+        },
+        {
+          "authorId": "2272546856",
+          "name": "Daniel F Perkins"
+        },
+        {
+          "authorId": "2272773121",
+          "name": "Alden P Schick"
+        },
+        {
+          "authorId": "2272818791",
+          "name": "Stickney"
+        },
+        {
+          "authorId": "2272494029",
+          "name": "Emory D"
+        },
+        {
+          "authorId": "2272522204",
+          "name": "Ander-Son John"
+        },
+        {
+          "authorId": "2272563333",
+          "name": "G. Casey"
+        },
+        {
+          "authorId": "144108275",
+          "name": "J. Hoey"
+        },
+        {
+          "authorId": "2272686579",
+          "name": "W. N. Witzel"
+        },
+        {
+          "authorId": "88527128",
+          "name": "D. K. Serafy"
+        },
+        {
+          "authorId": "2272818833",
+          "name": "F. Julian"
+        },
+        {
+          "authorId": "6023308",
+          "name": "R. Murchelano"
+        },
+        {
+          "authorId": "1438338511",
+          "name": "L. Despres-Patanjo"
+        },
+        {
+          "authorId": "16264917",
+          "name": "J. Ziskowski"
+        },
+        {
+          "authorId": "50860607",
+          "name": "Richard N. Uchida"
+        },
+        {
+          "authorId": "2013834",
+          "name": "J. H. Uchiyama"
+        },
+        {
+          "authorId": "2272865346",
+          "name": "Columbia Rivers"
+        },
+        {
+          "authorId": "2272865259",
+          "name": "George A Swan"
+        },
+        {
+          "authorId": "2272818789",
+          "name": "G. Tommy"
+        },
+        {
+          "authorId": "2272822433",
+          "name": "Donn L Withrow"
+        },
+        {
+          "authorId": "2272500391",
+          "name": "Park"
+        },
+        {
+          "authorId": "2272629164",
+          "name": "April"
+        },
+        {
+          "authorId": "2272757330",
+          "name": "Edward P Myers"
+        },
+        {
+          "authorId": "47546916",
+          "name": "D. Hoss"
+        },
+        {
+          "authorId": "2272688128",
+          "name": "Walter M Matsumoto"
+        },
+        {
+          "authorId": "2272529263",
+          "name": "S. David"
+        },
+        {
+          "authorId": "2272566105",
+          "name": "Michael P Peters"
+        },
+        {
+          "authorId": "2272865923",
+          "name": "Richard N Seki"
+        },
+        {
+          "authorId": "2272566210",
+          "name": "John D Uchida"
+        },
+        {
+          "authorId": "2272822410",
+          "name": "Robert A Paddock Ditmars"
+        },
+        {
+          "authorId": "16772661",
+          "name": "S. Apollonio"
+        },
+        {
+          "authorId": "2272684761",
+          "name": "David K Stevenson"
+        },
+        {
+          "authorId": "115234878",
+          "name": "E. Dunton"
+        },
+        {
+          "authorId": "2272936427",
+          "name": "La-Chai Chen"
+        },
+        {
+          "authorId": "2238229711",
+          "name": "Malcolm Baldrige"
+        },
+        {
+          "authorId": "2228545052",
+          "name": "Anthony J Calio"
+        },
+        {
+          "authorId": "2272633631",
+          "name": "William E Evans"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -112,69 +112,59 @@
 - [x] 4.0 Focused Literature Review (ILO1)
   - [x] 4.1 Semantic Literature Search
     - [x] 4.1.1 Elicit.com Search
-      - [x] 4.1.1.1 Research Elicit.com search best practices
-      - [x] 4.1.1.2 Develop primary search query
-      - [x] 4.1.1.3 Document search results
-      - [x] 4.1.1.4 Export relevant papers
+      - [x] 4.1.1.1 Develop Elicit.com search strategy
+      - [x] 4.1.1.2 Document search results
+      - [x] 4.1.1.3 Export relevant papers information
+      - [x] 4.1.1.4 Implement Elicit.com papers storage
     - [x] 4.1.2 Semantic Scholar API Integration
       - [x] 4.1.2.1 Set up API access
       - [x] 4.1.2.2 Develop search script
-      - [x] 4.1.2.3 Implement primary search
-      - [x] 4.1.2.4 Implement secondary search
-      - [x] 4.1.2.5 Implement tertiary search
-    - [x] 4.1.3 Results Management
-      - [x] 4.1.3.1 Create results directory structure
-      - [x] 4.1.3.2 Implement results storage
-      - [x] 4.1.3.3 Document search methodology
-      - [x] 4.1.3.4 Prepare for screening
-    - [x] 4.1.4 Develop Relevance Criteria
-      - [x] 4.1.4.1 Define criteria and scoring system
-      - [x] 4.1.4.2 Validate with Elicit results and determine need for second iteration based on Semantic Scholar Search performance
-      - [x] 4.1.4.3 Document paper sources in the review document (elicit-review-papers and semantic-scholar-review-papers)
-    - [x] 4.1.5 Semantic Scholar Search - Second Iteration (if needed)
-  - [x] 4.2 Focused Literature Analysis
-    - [x] 4.2.1 Literature Review
-      - [x] 4.2.1.1 Review papers from elicit-review-papers directory
-      - [x] 4.2.1.2 Review papers from semantic-scholar-review-papers directory
-      - [x] 4.2.1.3 Apply relevance criteria from docs/4.1.4-relevance-criteria.md
-      - [x] 4.2.1.4 Document key findings and insights
-      - [x] 4.2.1.5 Identify patterns and trends across papers
-    - [x] 4.2.2 Extract relevant data
-    - [x] 4.2.3 Update literature review
-    - [x] 4.2.4 Validate theoretical framework
-      - [x] 4.2.4.1 Assess concept validity
-      - [x] 4.2.4.2 Evaluate relationship assumptions
-      - [x] 4.2.4.3 Document validation findings
-      - [x] 4.2.4.4 Update framework as needed
-  - [x] 4.3 Research Gap Analysis
-    - [x] 4.3.1 Analyze current research state
-    - [x] 4.3.2 Identify theoretical gaps
-    - [x] 4.3.3 Map methodological limitations
-    - [x] 4.3.4 Document practical needs
-    - [x] 4.3.5 Formulate gap statement
-  - [x] 4.4 Background Development
-    - [x] 4.4.1 Write focused introduction
-    - [x] 4.4.2 Develop problem context
-    - [x] 4.4.3 Create targeted literature review
-    - [x] 4.4.4 Link to research gaps
-  - [x] 4.5 FA1 Preparation (Deliverable)
-    - [x] 4.5.1 Draft background section
-    - [x] 4.5.2 Prepare research questions
-    - [x] 4.5.3 Define scope/limitations
-    - [x] 4.5.4 Review against requirements
+      - [x] 4.1.2.3 Export relevant papers information
+      - [x] 4.1.2.4 Iteration N (if needed)
+    - [ ] 4.1.3 Develop Relevance Criteria
+    - [ ] 4.1.4 Test Relevance Criteria
+    - [ ] 4.1.5 Implement Semantic Scholar API papers storage
+  - [ ] 4.2 Focused Literature Analysis
+    - [ ] 4.2.1 Literature Review
+      - [ ] 4.2.1.1 Review papers markdowns from Elicit.com
+      - [ ] 4.2.1.2 Review papers markdowns from Semantic Scholar API
+      - [ ] 4.2.1.3 Apply relevance criteria
+      - [ ] 4.2.1.4 Document key findings and insights
+      - [ ] 4.2.1.5 Identify patterns and trends across papers
+    - [ ] 4.2.2 Validate theoretical framework
+      - [ ] 4.2.2.1 Assess concept validity
+      - [ ] 4.2.2.2 Evaluate relationship assumptions
+      - [ ] 4.2.2.3 Document validation findings
+      - [ ] 4.2.2.4 Update framework as needed
+  - [ ] 4.3 Research Gap Analysis
+    - [ ] 4.3.1 Analyze current research state
+    - [ ] 4.3.2 Identify theoretical gaps
+    - [ ] 4.3.3 Map methodological limitations
+    - [ ] 4.3.4 Document practical needs
+    - [ ] 4.3.5 Formulate gap statement
+  - [ ] 4.4 Background Development
+    - [ ] 4.4.1 Write focused introduction
+    - [ ] 4.4.2 Develop problem context
+    - [ ] 4.4.3 Create targeted literature review
+    - [ ] 4.4.4 Link to research gaps
+  - [ ] 4.5 FA1 Preparation (Deliverable)
+    - [ ] 4.5.1 Draft background section
+    - [ ] 4.5.2 Prepare research questions
+    - [ ] 4.5.3 Define scope/limitations
+    - [ ] 4.5.4 Review against requirements
 
 - [ ] 5.0 Methodology Development (ILO3)
-  - [x] 5.1 Methodology Research
-    - [x] 5.1.1 Identify relevant methodologies
-    - [x] 5.1.2 Document quantitative approaches
-    - [x] 5.1.3 Analyze qualitative methodologies
-    - [x] 5.1.4 Evaluate mixed methodologies
-    - [x] 5.1.5 Research emerging methodologies
-  - [x] 5.2 Methodology Comparison
-    - [x] 5.2.1 Create comparison matrix
-    - [x] 5.2.2 Evaluate strengths/limitations
-    - [x] 5.2.3 Assess resource requirements
-    - [x] 5.2.4 Analyze feasibility
+  - [ ] 5.1 Methodology Research
+    - [ ] 5.1.1 Identify relevant methodologies
+    - [ ] 5.1.2 Document quantitative approaches
+    - [ ] 5.1.3 Analyze qualitative methodologies
+    - [ ] 5.1.4 Evaluate mixed methodologies
+    - [ ] 5.1.5 Research emerging methodologies
+  - [ ] 5.2 Methodology Comparison
+    - [ ] 5.2.1 Create comparison matrix
+    - [ ] 5.2.2 Evaluate strengths/limitations
+    - [ ] 5.2.3 Assess resource requirements
+    - [ ] 5.2.4 Analyze feasibility
   - [ ] 5.3 Methodology Selection
     - [ ] 5.3.1 Select primary method
     - [ ] 5.3.2 Justify selection
@@ -188,7 +178,7 @@
     - [ ] 5.4.4 Plan pilot testing
     - [ ] 5.4.5 Create workflow diagram
   - [ ] 5.5 FA2 Preparation (Deliverable)
-    - [ ] 5.5.1 Set up copy from fa1
+    - [ ] 5.5.1 Rename fa1 to fa2
     - [ ] 5.5.2 Document methodology choice
     - [ ] 5.5.3 Address uncertainties
 
@@ -246,11 +236,12 @@
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization
-    - [ ] 8.1.1 Integrate all sections
-    - [ ] 8.1.2 Ensure consistent formatting
-    - [ ] 8.1.3 Verify all citations
-    - [ ] 8.1.4 Check word count
-    - [ ] 8.1.5 Proofread entire document
+    - [ ] 8.1.1 Rename fa2 to final
+    - [ ] 8.1.2 Integrate all sections
+    - [ ] 8.1.3 Ensure consistent formatting
+    - [ ] 8.1.4 Verify all citations
+    - [ ] 8.1.5 Check word count
+    - [ ] 8.1.6 Proofread entire document
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
     - [ ] 8.2.2 Validate ILO compliance

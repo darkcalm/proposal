@@ -1,0 +1,738 @@
+{
+  "total": 1747,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "8c0b2ce14788b3f45ff195e96830cffa0104673c",
+      "url": "https://www.semanticscholar.org/paper/8c0b2ce14788b3f45ff195e96830cffa0104673c",
+      "title": "Orchestrating the Chaos: Scalable Event-Driven Architectures for Distributed Ride-Sharing Platforms in Multi-Region Cloud Environments",
+      "venue": "Journal of Computer Science and Technology Studies",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.32996/jcsts.2025.7.4.43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32996/jcsts.2025.7.4.43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article presents a comprehensive framework for event-driven architectural patterns that enable global ride-sharing platforms to operate at scale across distributed cloud environments and provides both theoretical foundations and practical guidance for engineers designing next-generation transportation systems and other high-volume, geographically distributed applications requiring real-time event coordination."
+      },
+      "authors": [
+        {
+          "authorId": "2361708372",
+          "name": "Vijaya Lakshmi Bhogireddy"
+        }
+      ],
+      "abstract": "This article presents a comprehensive framework for event-driven architectural patterns that enable global ride-sharing platforms to operate at scale across distributed cloud environments. Loose coupling between services, asynchronous communication, and regional event propagation strategies contribute to systems capable of handling continuous streams of ride requests, driver location updates, and payment transactions. The proposed classification system for events by criticality and regional affinity enables intelligent routing and processing decisions. Properly implemented event-driven architectures significantly enhance system scalability during demand surges while maintaining operational resilience through service isolation and regional redundancy. A detailed case study of a production ride-sharing platform identifies key implementation challenges including eventual consistency management, regional data sovereignty, and observability in distributed environments. The work provides both theoretical foundations and practical guidance for engineers designing next-generation transportation systems and other high-volume, geographically distributed applications requiring real-time event coordination."
+    },
+    {
+      "paperId": "a8b7e8a030a93f72894495d2925e11d5f4939f5a",
+      "url": "https://www.semanticscholar.org/paper/a8b7e8a030a93f72894495d2925e11d5f4939f5a",
+      "title": "Global Wagon Web: Enabling a Semantic-Enhanced Framework for Vehicle Infrastructure Cooperative System",
+      "venue": "2023 IEEE 6th International Conference on Big Data and Artificial Intelligence (BDAI)",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/BDAI59165.2023.10256770?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BDAI59165.2023.10256770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel semantically enhanced architectural layer, Global Wagon Web (GWW), is proposed, which is a service-oriented and fully decentralized infrastructure to enable live data integration, service reuse and composition, and semantic interoperation within the context of VICS."
+      },
+      "authors": [
+        {
+          "authorId": "2247454784",
+          "name": "Chang Liu"
+        },
+        {
+          "authorId": "2248004890",
+          "name": "Kaisheng Huang"
+        },
+        {
+          "authorId": "2248070123",
+          "name": "Mengchu Zhou"
+        },
+        {
+          "authorId": "2248943427",
+          "name": "Weikai Liu"
+        },
+        {
+          "authorId": "2249546990",
+          "name": "Minhua He"
+        },
+        {
+          "authorId": "2248525781",
+          "name": "Liyi Xue"
+        }
+      ],
+      "abstract": "The core technology of Vehicle Infrastructure Cooperative System (VICS) has progressed to a \u201ccooperative perception\u201d phase, which necessitates an efficient, reliable and cost-effective information sharing mechanism. However, existing approaches are insufficient to meet the requirements due to a number of critical issues. Firstly, data structures specified according to applications are unable to accommodate system dynamics. Secondly, the lack of open and common protocols and interfaces across heterogenous and distributed systems may lead to severe problems related to data integrity and redundancy. Thirdly, centralized data aggregation not only confronts with limited storage and network congestion, but is also a single point of failure. To address these issues, we propose a novel semantically enhanced architectural layer, Global Wagon Web (GWW), which is a service-oriented and fully decentralized infrastructure to enable live data integration, service reuse and composition, and semantic interoperation within the context of VICS. To illustrate its natures, relevant concepts and forms of structural and behavioral algebraic descriptions are presented with the help of Petri net. Additionally, its key supporting technologies and potential applications are outlined."
+    },
+    {
+      "paperId": "78cd9fbd8a54fa5cdeb1a358f9959a1a57bd0546",
+      "url": "https://www.semanticscholar.org/paper/78cd9fbd8a54fa5cdeb1a358f9959a1a57bd0546",
+      "title": "ECSTRA - Distributed Context Reasoning Framework for Pervasive Computing Systems",
+      "venue": "Next Generation Teletraffic and Wired/Wireless Advanced Networking",
+      "year": 2011,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-22875-9_1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-22875-9_1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work presents ECSTRA - Enhanced Context Spaces Theory-based Reasoning Architecture, a context awareness and situation awareness framework that aims to provide a comprehensive solution to reason about the context from the level of sensor data to the high level situation awareness."
+      },
+      "authors": [
+        {
+          "authorId": "145797746",
+          "name": "A. Boytsov"
+        },
+        {
+          "authorId": "52425525",
+          "name": "A. Zaslavsky"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "73ef19b8dbc00b0e658385ea3c696db429b184b6",
+      "url": "https://www.semanticscholar.org/paper/73ef19b8dbc00b0e658385ea3c696db429b184b6",
+      "title": "Ditto: End-to-End Application Cloning for Networked Cloud Services",
+      "venue": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+      "year": 2023,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1145/3575693.3575751?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3575693.3575751, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Ditto is presented, an automated framework for cloning end-to-end cloud applications, both monolithic and microservices, which captures I/O and network activity, as well as kernel operations, in addition to application logic."
+      },
+      "authors": [
+        {
+          "authorId": "1733353473",
+          "name": "Mingyu Liang"
+        },
+        {
+          "authorId": "145428778",
+          "name": "Yu Gan"
+        },
+        {
+          "authorId": "2181747709",
+          "name": "Yueying Li"
+        },
+        {
+          "authorId": "2147211274",
+          "name": "Carlos Torres"
+        },
+        {
+          "authorId": "9189787",
+          "name": "A. Dhanotia"
+        },
+        {
+          "authorId": "49642989",
+          "name": "M. Ketkar"
+        },
+        {
+          "authorId": "3234334",
+          "name": "Christina Delimitrou"
+        }
+      ],
+      "abstract": "The lack of representative, publicly-available cloud services has been a recurring problem in the architecture and systems communities. While open-source benchmarks exist, they do not capture the full complexity of cloud services. Application cloning is a promising way to address this, however, prior work is limited to CPU-/cache-centric, single-node services, operating at user level. We present Ditto, an automated framework for cloning end-to-end cloud applications, both monolithic and microservices, which captures I/O and network activity, as well as kernel operations, in addition to application logic. Ditto takes a hierarchical approach to application cloning, starting with capturing the dependency graph across distributed services, to recreating each tier's control/data flow, and finally generating system calls and assembly that mimics the individual applications. Ditto does not reveal the logic of the original application, facilitating publicly sharing clones of production services with hardware vendors, cloud providers, and the research community. We show that across a diverse set of single- and multi-tier applications, Ditto accurately captures their CPU and memory characteristics as well as their high-level performance metrics, is portable across platforms, and facilitates a wide range of system studies."
+    },
+    {
+      "paperId": "9afefd9d665df49eb69649d3068cd2a5341fa53b",
+      "url": "https://www.semanticscholar.org/paper/9afefd9d665df49eb69649d3068cd2a5341fa53b",
+      "title": "An approach for fault tolerant and secure data storage in collaborative work environments",
+      "venue": "ACM International Workshop on Storage Security And Survivability",
+      "year": 2005,
+      "citationCount": 81,
+      "openAccessPdf": {
+        "url": "http://www.ece.gatech.edu/~dblough/research/papers/storagess05.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/1103780.1103793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/1103780.1103793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work evaluates the properties and performance of the proposed framework and shows that the combination of perfect secret sharing and replication can be used to build efficient fault-tolerant and secure distributed data storage systems."
+      },
+      "authors": [
+        {
+          "authorId": "144175322",
+          "name": "A. Subbiah"
+        },
+        {
+          "authorId": "145353127",
+          "name": "D. Blough"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "767b98716bc237344cb9ed3fc07239350a2de941",
+      "url": "https://www.semanticscholar.org/paper/767b98716bc237344cb9ed3fc07239350a2de941",
+      "title": "A Reference Architecture for Sensor Networks Integration and Management",
+      "venue": "GeoSensor Networks",
+      "year": 2009,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-02903-5_16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-02903-5_16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The architectural and data model of the SeNsIM framework is proposed and a method to describe sensor systems using XML as modeling language in order to facilitate sharing of structured data across them is provided."
+      },
+      "authors": [
+        {
+          "authorId": "2922160",
+          "name": "V. Casola"
+        },
+        {
+          "authorId": "2440332",
+          "name": "A. Gaglione"
+        },
+        {
+          "authorId": "1690299",
+          "name": "A. Mazzeo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "db03d194f3a45fa817c8a7d3c3789e021c9c0deb",
+      "url": "https://www.semanticscholar.org/paper/db03d194f3a45fa817c8a7d3c3789e021c9c0deb",
+      "title": "Distributed multisensor fusion with network connection management",
+      "venue": "SPIE Defense + Commercial Sensing",
+      "year": 2005,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.606997?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.606997, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This construct is re-examined in a conceptual CNM architectural framework highlighting the need for a multi-disciplinary approach among communications, estimation, information and queuing theory, networking, optimization and fusion communities."
+      },
+      "authors": [
+        {
+          "authorId": "3158478",
+          "name": "I. Kadar"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d3055ddeb0d79cd537c9eff4307595b773cc3eec",
+      "url": "https://www.semanticscholar.org/paper/d3055ddeb0d79cd537c9eff4307595b773cc3eec",
+      "title": "Towards a general infrastructure for location-based smart mobility services",
+      "venue": "International Symposium on High Performance Computing Systems and Applications",
+      "year": 2014,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/HPCSim.2014.6903778?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/HPCSim.2014.6903778, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An architectural model for a general-purpose distributed coordination infrastructure to support the dynamic composition of a variety of smart social mobility services, by focusing on the coordination of the agents involved to address both individual mobility needs and urban-scale mobility issues is presented."
+      },
+      "authors": [
+        {
+          "authorId": "2590441",
+          "name": "Andrea Sassi"
+        },
+        {
+          "authorId": "1715670",
+          "name": "M. Mamei"
+        },
+        {
+          "authorId": "1684412",
+          "name": "F. Zambonelli"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9fed835ba93035404ac2249bf58e12dc0efa3460",
+      "url": "https://www.semanticscholar.org/paper/9fed835ba93035404ac2249bf58e12dc0efa3460",
+      "title": "A Novel Load Balancing Algorithms in Grid Computing",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The main aim of the paper is to design an architectural framework to propose decentralized, scalable, adaptive, and distributed algorithms for load balancing across resources for data-intensive computations on Grid environments using job migration algorithms which is Load Balancing Algorithm."
+      },
+      "authors": [
+        {
+          "authorId": "30944926",
+          "name": "Shikha Gautam"
+        },
+        {
+          "authorId": "2052991538",
+          "name": "A. Tripathi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "5ad0d1cdac22ce0a39f15ead8f3a7b6209b01d5d",
+      "url": "https://www.semanticscholar.org/paper/5ad0d1cdac22ce0a39f15ead8f3a7b6209b01d5d",
+      "title": "On Efficient Data Sharing for Planetary Digital Twins: Distributed Microplastic Monitoring",
+      "venue": "International Conference on Industrial Informatics",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/INDIN58382.2024.10774252?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INDIN58382.2024.10774252, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2335132141",
+          "name": "Everson Flores"
+        },
+        {
+          "authorId": "2335132909",
+          "name": "Thiago Teixeira"
+        },
+        {
+          "authorId": "2335132074",
+          "name": "Paula Barros"
+        },
+        {
+          "authorId": "2269552243",
+          "name": "Bruna Guterres"
+        },
+        {
+          "authorId": "2335131890",
+          "name": "Thomaz Pereira Junior"
+        },
+        {
+          "authorId": "2335131572",
+          "name": "Alberto Cabral"
+        },
+        {
+          "authorId": "2335132871",
+          "name": "Marcelo de Gomensoro Malheiros"
+        },
+        {
+          "authorId": "2335131356",
+          "name": "Cristiana Lima Dora"
+        },
+        {
+          "authorId": "2335131341",
+          "name": "Luis Poersch"
+        },
+        {
+          "authorId": "2335131338",
+          "name": "Wilson Wasielesky"
+        },
+        {
+          "authorId": "2335126269",
+          "name": "Marcelo R. Pias"
+        }
+      ],
+      "abstract": "Massive garbage patches within all oceanic gyres have garnered global attention, underscoring microplastic pollution as an emerging concern. Various isolated approaches have been proposed for real-time monitoring of microplastics in environmental and industrial settings. However, these fragmented solutions may hinder distributed data and knowledge sharing across applications, limiting the potential for leveraging AI development to enhance early warning systems and decision-making in large-scale industrial operations. To address these challenges, this paper introduces a framework that utilizes Planetary Digital Twins (PDTs) and affordable modular flow cytometry tools. These innovations enable the real-time tracking and sharing of data on microplastic pollution, tracing their origins from polymer-based industrial processes to their presence in the environment. The proposed framework includes a distributed system architecture based on publisher/subscriber for robust and scalable data sharing. By integrating Industry 5.0 principles, which prioritize sustainability and resilient production processes, the digital twin technology enables a dynamic and interconnected monitoring network. The validation results suggest that the proposed system has the potential to expand and enhance environmental risk assessments on a global scale and support the development of mitigation strategies through improved data integration and sharing capabilities for microplastic monitoring."
+    },
+    {
+      "paperId": "ac95979c177d2ecc9d055b4c2b80af9e8e7baa82",
+      "url": "https://www.semanticscholar.org/paper/ac95979c177d2ecc9d055b4c2b80af9e8e7baa82",
+      "title": "Distributed Data Sharing and Access Control in Industrial IoT Using Blockchain Technology",
+      "venue": "2024 5th International Conference on Computer Engineering and Intelligent Control (ICCEIC)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCEIC64099.2024.10775761?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCEIC64099.2024.10775761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A blockchain-based distributed data-sharing and access control system tailored for resource-constrained industrial edge networks that integrates edge computing and blockchain technology to provide decentralized, low-latency data management."
+      },
+      "authors": [
+        {
+          "authorId": "2334886137",
+          "name": "Rui Li"
+        },
+        {
+          "authorId": "2152598118",
+          "name": "Y. Sun"
+        },
+        {
+          "authorId": "2116905573",
+          "name": "Caiyun Liu"
+        },
+        {
+          "authorId": "2335091743",
+          "name": "Ying Wen"
+        },
+        {
+          "authorId": "2264780496",
+          "name": "Yitong Liu"
+        }
+      ],
+      "abstract": "With the rapid development of the Industrial Internet of Things (IIoT), secure and efficient data sharing has become crucial for enabling industrial automation and smart transformation. However, existing centralized solutions face limitations in scalability, latency, and data privacy. To address these challenges, this paper proposes a blockchain-based distributed data-sharing and access control system tailored for resource-constrained industrial edge networks. The system adopts a three-layer architecture that integrates edge computing and blockchain technology to provide decentralized, low-latency data management. A novel smart contract framework is introduced to enforce multi-level access control and support fine-grained permissions for intra-domain and cross-domain data sharing. Experimental results show the system's improved performance in data access efficiency and throughput, offering a robust solution for real-time, secure IIoT applications."
+    },
+    {
+      "paperId": "5ebe65b2f4a2d1705fe83b2a2f8717fa2e2b63f6",
+      "url": "https://www.semanticscholar.org/paper/5ebe65b2f4a2d1705fe83b2a2f8717fa2e2b63f6",
+      "title": "SECURE - MEDSHARE: Decentralized Patient Data Sharing for Improved Healthcare",
+      "venue": "2024 International Conference on Advances in Data Engineering and Intelligent Computing Systems (ADICS)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ADICS58448.2024.10533486?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ADICS58448.2024.10533486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The basic approach to the proposed system is to create a trustworthy and secure platform that enables doctors to safely store, access, and manage patients' private medical information while abiding by stringent privacy laws to protect patient confidentiality."
+      },
+      "authors": [
+        {
+          "authorId": "2302865856",
+          "name": "Vansh Kapoor"
+        },
+        {
+          "authorId": "2302866308",
+          "name": "Dhara Vadagasiya"
+        },
+        {
+          "authorId": "2302866454",
+          "name": "R. S."
+        }
+      ],
+      "abstract": "Blockchain provides a decentralized framework for peer-to-peer networks' data and transaction management. The basic approach to the proposed system is to create a trustworthy and secure platform that enables doctors to safely store, access, and manage patients' private medical information while abiding by stringent privacy laws to protect patient confidentiality. Data that has been separated into blocks can be distributed because of to the decentralized system. Then, every block is shielded against hackers trying to change the data. All of the network's peers, or miners, or users, must validate each modification to the data using modern cryptography techniques. The SECURE - MEDSHARE system uses blockchain technology to store patient data from different hospitals in a decentralized and secure way, overcoming the limitations of local servers. In an era where data privacy and security are paramount, this Proposed System presents a pioneering solution leveraging blockchain technology for secure medical data sharing. The system's foundation relies on the decentralized nature of blockchain, implemented through Ethereum and Hardhat for robust smart contract deployment and management. Interactions occur via a user-friendly React frontend, integrating seamlessly with MetaMask for secure blockchain transactions. The Proposed System utilizes IPFS for decentralized file storage, ensuring data integrity and accessibility. Smart contracts play a pivotal role, orchestrating access controls and establishing a transparent framework for healthcare data sharing. This innovative approach promises heightened security, privacy, and efficiency in managing sensitive medical information, catering to the evolving needs of modern health care systems. The system's architecture and functionality align with the growing demand for reliable, decentralized solutions in data-sensitive domains, positioning it as a potential cornerstone in revolutionizing healthcare data management"
+    },
+    {
+      "paperId": "1e84e40da7104c338861e1c62ce21c4dc974a388",
+      "url": "https://www.semanticscholar.org/paper/1e84e40da7104c338861e1c62ce21c4dc974a388",
+      "title": "Blockchain-Based Health Informatics Systems for Secure Patient Data Sharing and Interoperability",
+      "venue": "Seminars in Medical Writing and Education",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.56294/mw2024508?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56294/mw2024508, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study offers a complete architecture for blockchain-based health informatics systems guaranteeing data integrity, privacy, and interoperability across many healthcare systems and highlights the transforming power of blockchain technology in building an interoperable, patient-centric, safe healthcare environment."
+      },
+      "authors": [
+        {
+          "authorId": "2243986753",
+          "name": "Avni Garg"
+        },
+        {
+          "authorId": "2319360113",
+          "name": "Himanshu Makhija"
+        },
+        {
+          "authorId": "2344120425",
+          "name": "Vishal Biswas"
+        },
+        {
+          "authorId": "2343010328",
+          "name": "Pooja Varma"
+        },
+        {
+          "authorId": "2230255568",
+          "name": "Zulieka Homavazir"
+        },
+        {
+          "authorId": "2349915439",
+          "name": "Aneesh Wunnava"
+        },
+        {
+          "authorId": "2349910151",
+          "name": "Kukatla Tejesh"
+        }
+      ],
+      "abstract": "Blockchain technology is transforming the safe sharing and patient data management in a healthcare setting becoming more and more digital. Blockchain's distributed ledger design is challenging conventional centralised systems, often typified by data silos and vulnerability to cyber-attacks. This study offers a complete architecture for blockchain-based health informatics systems guaranteeing data integrity, privacy, and interoperability across many healthcare systems. The suggested system provides a strong solution for automated permission management and safe data exchange by using smart contracts, consensus mechanisms, and cryptographic approaches as well as To effectively manage vast amounts of data while preserving strict security criteria, the architecture combines off-chain storage with on-chain transaction recording. By means of transparent, unchangeable records, and thus build confidence among healthcare professionals, insurance companies, and research organisations, extensive academic analysis and empirical assessments emphasise the potential of blockchain to empower patients. All important for real-time clinical applications, performance benchmarks from pilot tests show gains in transaction throughput, reduced data retrieval latency, and excellent network uptime. Furthermore, the threat modelling and regulatory compliance studies solve important issues around data protection and scalability thus making sure the system fits strict legal frameworks like HIPAA and GDPR. Although perfect integration with legacy systems still presents difficulties, this study highlights the transforming power of blockchain technology in building an interoperable, patient-centric, safe healthcare environment. Future research will concentrate on maximising scalability and improving the regulatory environment to fully exploit blockchain possibilities in health informatics."
+    },
+    {
+      "paperId": "75c97c2b97dd2a7afbead064a01197a14f414ec7",
+      "url": "https://www.semanticscholar.org/paper/75c97c2b97dd2a7afbead064a01197a14f414ec7",
+      "title": "A developed distributed ledger technology architectural layer framework for decentralized governance implementation in virtual enterprise",
+      "venue": "Information Systems and E-Business Management",
+      "year": 2023,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s10257-023-00634-2.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10257-023-00634-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10257-023-00634-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An architectural governance-by-design framework is developed that defines the governance of DLT as a combination of architectural layers and governance ofDLT dimensions and proposes policy recommendations to be used as guidelines for practitioners to improve the adoption of DLTs to accelerate VE digitalization."
+      },
+      "authors": [
+        {
+          "authorId": "1657360621",
+          "name": "Bokolo Anthony Jnr."
+        }
+      ],
+      "abstract": "Distributed Ledger technology (DLT) has recently emerged as a disruptive system with a wide range of applicability, with prospect to improve societal interactions at large. In virtual enterprise (VE) context researchers and practitioners have started to investigate the deployment of DLT to automate the processing of data and implementation of decisions to support the provision of digital services. Although academic interest in this domain is growing, a practical analysis of DLT from a governance perspective is still lacking to date. Accordingly, this study aims to fill this gap and provide implications related to decentralized governance of DLT. This article develops an architectural governance-by-design framework that defines the governance of DLT as a combination of architectural layers and governance of DLT dimensions. Design science is employed, and IOTA tangle an open-source DLT which employs a decentralized asynchronous network is deployed to evaluate the applicability of the developed architectural governance-by-design framework through qualitative interviews and literature inquiry. The findings confirm the developed architectural governance-by-design framework and offer a shared discussion and insight surrounding the topic of governance of DLT. The findings also identify limitations associated with governance of DLT solutions and proposes policy recommendations to be used as guidelines for practitioners to improve the adoption of DLT to accelerate VE digitalization."
+    },
+    {
+      "paperId": "8e81858c10253210d79c42c923cc15d9d42f09c7",
+      "url": "https://www.semanticscholar.org/paper/8e81858c10253210d79c42c923cc15d9d42f09c7",
+      "title": "Adaptive and Scalable Cloud Data Sharing Framework with Quantum-Resistant Security, Decentralized Auditing, and Machine Learning-Based Threat Detection",
+      "venue": "International Journal of Advanced Computer Science and Applications",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.14569/ijacsa.2025.01602103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14569/ijacsa.2025.01602103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Proposed systems introduces fine-grained, multi-level access controls for discrete data security and privacy, meeting different roles of users and data sensitivity levels mean improvements greater in terms of computing performance, security and scalability, making this enhanced system more effective for secure data sharing at dynamic and large clouds around us."
+      },
+      "authors": [
+        {
+          "authorId": "2261048893",
+          "name": "P. Raja"
+        },
+        {
+          "authorId": "2286656659",
+          "name": "Sekhar Reddy"
+        },
+        {
+          "authorId": "2304417383",
+          "name": "P. Srilatha"
+        },
+        {
+          "authorId": "2307916438",
+          "name": "Kanhaiya Sharma"
+        },
+        {
+          "authorId": "2349230706",
+          "name": "Sudipta Banerjee"
+        },
+        {
+          "authorId": "2139829696",
+          "name": "Shailaja Salagrama"
+        },
+        {
+          "authorId": "2328872048",
+          "name": "Manjusha Tomar"
+        },
+        {
+          "authorId": "2213193110",
+          "name": "Ashwin Tomar"
+        }
+      ],
+      "abstract": "\u2014The increasing prevalence of cloud environments makes it important to ensure secure and efficient data sharing between dynamic teams, especially in terms of user access and termination based on proxy re-encryption and hybrid authentication management schemes aimed at increasing scalability, flexibility, and adaptability and exploring a multi-proxy server architecture to distribute re-encryption tasks, improve fault tolerance and load balancing in large deployments. In addition, to this eliminated the need for trusted third-party auditors, integrate blockchain-based audit mechanisms for immutable decentralized monitoring of data access, revocation events To future-proof systems provides quantum-resistant cryptographic mechanisms for long-term security as well as to develop revolutionary approaches that drive the user out of the box, driven by machine learning to predict and execute addressing potential threats in real-time. Proposed systems also introduce fine-grained, multi-level access controls for discrete data security and privacy, meeting different roles of users and data sensitivity levels mean improvements greater in terms of computing performance, security and scalability, making this enhanced system more effective for secure data sharing at dynamic and large clouds around us."
+    },
+    {
+      "paperId": "cef675de8eca387027fcbbd81fe6c381441e23a9",
+      "url": "https://www.semanticscholar.org/paper/cef675de8eca387027fcbbd81fe6c381441e23a9",
+      "title": "Evaluation of Proposed Secrete Sharing System based on Encryption for Distributed Cloud Data Security",
+      "venue": "International Journal on Recent and Innovation Trends in Computing and Communication",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.ijritcc.org/index.php/ijritcc/article/download/10954/8389",
+        "status": "GOLD",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.17762/ijritcc.v11i11.10954?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17762/ijritcc.v11i11.10954, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A system architecture capable of implementing a keyless encryption approach; automatic data expiration within a predefined timeframe; and emergency data retrieval with integrated failover mechanisms, which seeks to address various issues encountered in current Cloud-based infrastructures, such as key loss and inherent failover challenges."
+      },
+      "authors": [
+        {
+          "authorId": "2315895502",
+          "name": "Kruti Patel"
+        }
+      ],
+      "abstract": "The Public Key Infrastructure (PKI) is deteriorating, partly due to a lack of comprehensive understanding of encryption mechanisms and also due to flaws in its execution. This paper presents a data storage methodology utilizing secret sharing techniques, which could address the challenges associated with PKI while accommodating innovative architectural designs incorporating features like automated failover and emergency data retrieval. The document introduces a framework which facilitating a cloud-based infrastructure with inherent privacy measures and failover capabilities. To evaluate the performance impact of secret sharing architecture, the paper describes a series of experiments exploring the overhead of this method. \nThis paper introduces a system architecture capable of implementing: a keyless encryption approach; automatic data expiration within a predefined timeframe; and emergency data retrieval with integrated failover mechanisms. It seeks to address various issues encountered in current Cloud-based infrastructures, such as key loss and inherent failover challenges. To evaluate the most suitable secret sharing method for this architecture, the document describes a variety of experiments examining the performance implications of the most pertinent secret sharing techniques."
+    },
+    {
+      "paperId": "5b581ec98f184530081c615ea245a3fa9b5248b1",
+      "url": "https://www.semanticscholar.org/paper/5b581ec98f184530081c615ea245a3fa9b5248b1",
+      "title": "HealthBlock: A Framework for a Collaborative Sharing of Electronic Health Records Based on Blockchain",
+      "venue": "Future Internet",
+      "year": 2023,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1999-5903/15/3/87/pdf?version=1676978536",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi15030087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi15030087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A framework called HealthBlock for collaboratively sharing EHRs and their privacy preservation is proposed, which provides a better solution for sharing data while preserving the integrity, the interoperability, the availability of the classical client\u2013server architectures used to manage EHRS."
+      },
+      "authors": [
+        {
+          "authorId": "2209525853",
+          "name": "Leina Abdelgalil"
+        },
+        {
+          "authorId": "144753702",
+          "name": "M. Mejri"
+        }
+      ],
+      "abstract": "Electronic health records (EHRs) play an important role in our life. However, most of the time, they are scattered and saved on different databases belonging to distinct institutions (hospitals, laboratories, clinics, etc.) geographically distributed across one or many countries. Due to this decentralization and the heterogeneity of the different involved systems, medical staff are facing difficulties in correctly collaborating by sharing, protecting, and tracking their patient\u2019s electronic health-record history to provide them with the best care. Additionally, patients have no control over their private EHRs. Blockchain has many promising future uses for the healthcare domain because it provides a better solution for sharing data while preserving the integrity, the interoperability, the availability of the classical client\u2013server architectures used to manage EHRS. This paper proposes a framework called HealthBlock for collaboratively sharing EHRs and their privacy preservation. Different technologies have been combined to achieve this goal. The InterPlanetary File System (IPFS) technology stores and shares patients\u2019 EHRs in distributed off-chain storage and ensures the record\u2019s immutability; Hyperledger Indy gives patients full control over their EHRs, and Hyperledger Fabric stores the patient-access control policy and delegations."
+    },
+    {
+      "paperId": "261485039b58fd9b14b45b256e983cc9e1643a87",
+      "url": "https://www.semanticscholar.org/paper/261485039b58fd9b14b45b256e983cc9e1643a87",
+      "title": "Computation Offloading Based on a Distributed Overlay Network Cache-Sharing Mechanism in Multi-Access Edge Computing",
+      "venue": "Future Internet",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1999-5903/16/4/136/pdf?version=1713516884",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi16040136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi16040136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work proposes the Distributed Edge Service Caching and Offloading (DESCO) network architecture and design a decentralized resource-sharing algorithm based on consistent hashing, named Cache Chord, and introduces the real-time computation offloading (RCO) problem and transform RCO into a multi-player static game."
+      },
+      "authors": [
+        {
+          "authorId": "2260613708",
+          "name": "Yazhi Liu"
+        },
+        {
+          "authorId": "2297514787",
+          "name": "Pengfei Zhong"
+        },
+        {
+          "authorId": "2294810235",
+          "name": "Zhigang Yang"
+        },
+        {
+          "authorId": "2294513745",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "2298252179",
+          "name": "Siwei Li"
+        }
+      ],
+      "abstract": "Multi-access edge computing (MEC) enhances service quality for users and reduces computational overhead by migrating workloads and application data to the network edge. However, current solutions for task offloading and cache replacement in edge scenarios are constrained by factors such as communication bandwidth, wireless network coverage, and limited storage capacity of edge devices, making it challenging to achieve high cache reuse and lower system energy consumption. To address these issues, a framework leveraging cooperative edge servers deployed in wireless access networks across different geographical regions is designed. Specifically, we propose the Distributed Edge Service Caching and Offloading (DESCO) network architecture and design a decentralized resource-sharing algorithm based on consistent hashing, named Cache Chord. Subsequently, based on DESCO and aiming to minimize overall user energy consumption while maintaining user latency constraints, we introduce the real-time computation offloading (RCO) problem and transform RCO into a multi-player static game, prove the existence of Nash equilibrium solutions, and solve it using a multi-dimensional particle swarm optimization algorithm. Finally, simulation results demonstrate that the proposed solution reduces the average energy consumption by over 27% in the DESCO network compared to existing algorithms."
+    },
+    {
+      "paperId": "a32476f93be0e8707cc1b99c2f506e60d61715a4",
+      "url": "https://www.semanticscholar.org/paper/a32476f93be0e8707cc1b99c2f506e60d61715a4",
+      "title": "Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models",
+      "venue": "Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+      "year": 2023,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3603269.3604869",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1145/3603269.3604869?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3603269.3604869, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Janus is a novel data-centric paradigm that allows experts to be prefetched, which allows the downstream computation to start immediately once the previous step completes and achieves up to 2.06\u00d7 speedup compared with current MoE training system."
+      },
+      "authors": [
+        {
+          "authorId": "2135261283",
+          "name": "Juncai Liu"
+        },
+        {
+          "authorId": "2110221410",
+          "name": "Jessie Hui Wang"
+        },
+        {
+          "authorId": "2146419154",
+          "name": "Yimin Jiang"
+        }
+      ],
+      "abstract": "Scaling models to large sizes to improve performance has led a trend in deep learning, and sparsely activated Mixture-of-Expert (MoE) is a promising architecture to scale models. However, training MoE models in existing systems is expensive, mainly due to the All-to-All communication between layers. All-to-All communication originates from expert-centric paradigm: keeping experts in-place and exchanging intermediate data to feed experts. We propose the novel data-centric paradigm: keeping data in-place and moving experts between GPUs. Since experts' size can be smaller than the size of data, data-centric paradigm can reduce communication workload. Based on this insight, we develop Janus. First, Janus supports fine-grained asynchronous communication, which can overlap computation and communication. Janus implements a hierarchical communication to further reduce cross-node traffic by sharing the fetched experts in the same machine. Second, when scheduling the \"fetching expert\" requests, Janus implements a topology-aware priority strategy to utilize intra-node and inter-node links efficiently. Finally, Janus allows experts to be prefetched, which allows the downstream computation to start immediately once the previous step completes. Evaluated on a 32-A100 cluster, Janus can reduce the traffic up to 16\u00d7 and achieves up to 2.06\u00d7 speedup compared with current MoE training system."
+    },
+    {
+      "paperId": "8740404d03e8fb313faea57fc141392661806191",
+      "url": "https://www.semanticscholar.org/paper/8740404d03e8fb313faea57fc141392661806191",
+      "title": "CHORD: Distributed Data-Sharing via Hybrid ROS 1 and 2 for Multi-Robot Exploration of Large-Scale Complex Environments",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2021,
+      "citationCount": 38,
+      "openAccessPdf": {
+        "url": "https://authors.library.caltech.edu/108331/1/09364680.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/LRA.2021.3061393?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LRA.2021.3061393, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "To the knowledge, this work is the first real-world demonstration of a ROS 2-based multi-robot system in such large-scale extreme environments and encourages wider adoption of ROS 2\u00a0in field robotics applications."
+      },
+      "authors": [
+        {
+          "authorId": "38808668",
+          "name": "M. Ginting"
+        },
+        {
+          "authorId": "1989698",
+          "name": "K. Otsu"
+        },
+        {
+          "authorId": "2184903",
+          "name": "J. Edlund"
+        },
+        {
+          "authorId": "8418445",
+          "name": "Jay L. Gao"
+        },
+        {
+          "authorId": "2068120981",
+          "name": "A. Agha-mohammadi"
+        }
+      ],
+      "abstract": "A well-structured and reliable communication system is key to the successful operations of multi-robot systems. In this letter, we present our design and implementation of a multi-robot communication architecture CHORD (Collaborative High-bandwidth Operations with Radio Droppables) based on two popular robotics middleware, ROS 1 and ROS 2. We discuss the benefit and best practices of combining two different frameworks that share the same spirit and show its performance from large-scale real-world experiments. The proposed system is developed as part of Team CoSTAR's effort for the DARPA Subterranean (SubT) Challenge. The system has been field-proved and demonstrated in the Urban Circuit event, where team CoSTAR won first place. To our knowledge, this work is the first real-world demonstration of a ROS 2-based multi-robot system in such large-scale extreme environments. From the significant improvement of the communication performance and the ease of transition from existing ROS 1 systems, this work encourages wider adoption of ROS 2\u00a0in field robotics applications."
+    }
+  ]
+}

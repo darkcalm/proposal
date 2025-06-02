@@ -1,0 +1,35 @@
+{
+  "total": 1,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "a03fd47e6b764e82338b361f4eeec761534d441d",
+      "url": "https://www.semanticscholar.org/paper/a03fd47e6b764e82338b361f4eeec761534d441d",
+      "title": "Homeland Security Issues for Facilities",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145211959",
+          "name": "J. D. McClure"
+        },
+        {
+          "authorId": "152511260",
+          "name": "D. Fisher"
+        },
+        {
+          "authorId": "10165070",
+          "name": "T. Fenter"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

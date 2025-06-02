@@ -1,0 +1,490 @@
+{
+  "total": 12,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "444990182be30fbe181bab5fbc49cce7492113cd",
+      "url": "https://www.semanticscholar.org/paper/444990182be30fbe181bab5fbc49cce7492113cd",
+      "title": "Diagnosis and Maintenance Expert System and Applications",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "4 layers, using the blackboard structure to achieve diagnostic layer diagnostic task coordination, effectively improved the diagnostic efficiency and diagnostic accuracy of positioning, and cell layers of the concrete realization of the diagnosis are described."
+      },
+      "authors": [
+        {
+          "authorId": "2106016364",
+          "name": "Zhang Bo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "513a5a0d0689cae32ee09bce61f6c5b4843e199b",
+      "url": "https://www.semanticscholar.org/paper/513a5a0d0689cae32ee09bce61f6c5b4843e199b",
+      "title": "Analysis of Normalized Least Mean Squares-Based Consensus Adaptive Filters under a General Information Condition | SIAM Journal on Control and Optimization | Vol. 56, No. 5 | Society for Industrial and Applied Mathematics",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2341018449",
+          "name": "Siyu XIEdagger And"
+        },
+        {
+          "authorId": "2341019357",
+          "name": "Lei GUOdagger"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b6d78321109ab798f75b4a26f7fc4c6a5c32707c",
+      "url": "https://www.semanticscholar.org/paper/b6d78321109ab798f75b4a26f7fc4c6a5c32707c",
+      "title": "DRAMA : A Distributed Policy-based Management System",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The DRAMA system was designed to manage mobile ad hoc networks, which pose various unprecedented network management challenges of different nature, and its generic design allows it to support other applications with similar requirements."
+      },
+      "authors": [
+        {
+          "authorId": "1768517",
+          "name": "R. Chadha"
+        },
+        {
+          "authorId": "1704190",
+          "name": "Yuu-Heng Cheng"
+        },
+        {
+          "authorId": "2980463",
+          "name": "C. Chiang"
+        },
+        {
+          "authorId": "144262893",
+          "name": "G. Levin"
+        },
+        {
+          "authorId": "47319763",
+          "name": "Shihwei Li"
+        },
+        {
+          "authorId": "1760535",
+          "name": "A. Poylisher"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ce6141a89812338095003cde4f837e252c703b10",
+      "url": "https://www.semanticscholar.org/paper/ce6141a89812338095003cde4f837e252c703b10",
+      "title": "A First-order Formalization of Knowl- Edge and Action for a Multi-agent Planning System. In",
+      "venue": "",
+      "year": null,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper has mainly focused on concepts within DAI, a distributed artificial intelligence application for severe storm forecasting which has functioned as a means of gaining real experience with DAI and used a non real-time approach in order to reduce the complexity, but maintain the functionality."
+      },
+      "authors": [
+        {
+          "authorId": "2151565296",
+          "name": "J. Hayes"
+        },
+        {
+          "authorId": "145878706",
+          "name": "D. Michie"
+        },
+        {
+          "authorId": "144763324",
+          "name": "Y. Pao"
+        },
+        {
+          "authorId": "71499232",
+          "name": "H. Pattison"
+        },
+        {
+          "authorId": "1766655",
+          "name": "D. Corkill"
+        },
+        {
+          "authorId": "69857813",
+          "name": "R. Renesse"
+        },
+        {
+          "authorId": "2064662548",
+          "name": "H. Van"
+        },
+        {
+          "authorId": "150165617",
+          "name": "J. van Staveren"
+        },
+        {
+          "authorId": "120861743",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "2060139652",
+          "name": "B. Turnbull"
+        },
+        {
+          "authorId": "2099155177",
+          "name": "J. Jansen"
+        },
+        {
+          "authorId": "2058741692",
+          "name": "S. Jansen"
+        },
+        {
+          "authorId": "150079485",
+          "name": "D. Mullender"
+        },
+        {
+          "authorId": "48954279",
+          "name": "A. Holden"
+        },
+        {
+          "authorId": "69331911",
+          "name": "T. Bastable"
+        },
+        {
+          "authorId": "150074986",
+          "name": "D. Fallmyr"
+        },
+        {
+          "authorId": "32340041",
+          "name": "S. Johansen"
+        },
+        {
+          "authorId": "150339023",
+          "name": "W. Mullender"
+        },
+        {
+          "authorId": "103393200",
+          "name": "Zimmer"
+        },
+        {
+          "authorId": "95141717",
+          "name": "G. Swetnam"
+        },
+        {
+          "authorId": "2610887",
+          "name": "E. Dombroski"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a750f0f765b123422009c317b92be1b661bee74a",
+      "url": "https://www.semanticscholar.org/paper/a750f0f765b123422009c317b92be1b661bee74a",
+      "title": "Evolving Self-Assembly in Autonomous Homogeneous Robots: Experiments with Two Physical Robots",
+      "venue": "Artificial Life",
+      "year": 2009,
+      "citationCount": 80,
+      "openAccessPdf": {
+        "url": "https://repositorio.iscte-iul.pt/bitstream/10071/5439/1/AmpTucTri-etal2009al.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1162/artl.2009.Ampatzis.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1162/artl.2009.Ampatzis.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A homogeneous control system that can achieve assembly between two modules of a mobile self-reconfigurable system without a priori introduced behavioral or morphological heterogeneities and suggests that direct access to the orientations or intentions of the other agents is not a necessary condition for robot coordination."
+      },
+      "authors": [
+        {
+          "authorId": "2083089",
+          "name": "C. Ampatzis"
+        },
+        {
+          "authorId": "2729994",
+          "name": "E. Tuci"
+        },
+        {
+          "authorId": "2805781",
+          "name": "V. Trianni"
+        },
+        {
+          "authorId": "32232754",
+          "name": "A. Christensen"
+        },
+        {
+          "authorId": "153570946",
+          "name": "M. Dorigo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "fc01d3123b410d695bb5004d49bbb2fdabbb8bfe",
+      "url": "https://www.semanticscholar.org/paper/fc01d3123b410d695bb5004d49bbb2fdabbb8bfe",
+      "title": "Evolving Shared Experience in Distributed Learning",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new approach that uses a process model adapted from Activity theory to guide efforts in supporting collaboration and coordination in distributed environments and outlines steps towards capturing crystallised experience."
+      },
+      "authors": [
+        {
+          "authorId": "1414055475",
+          "name": "Laboratoire Trigone"
+        },
+        {
+          "authorId": "50122511",
+          "name": "A. M\u00f8rch"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "1573b16ed1f618edd6a151c65ba05e49755ecf1d",
+      "url": "https://www.semanticscholar.org/paper/1573b16ed1f618edd6a151c65ba05e49755ecf1d",
+      "title": "Special Issue on \u201cAdvances in Control and Optimization Over Wireless Sensor and Actuator Networks\u201d",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/asjc.1573?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/asjc.1573, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This special issue aims to collect recent original contributions that address emerging issues of control and optimization over WSANs, and to encourage readers to participate in this promising and challenging research area."
+      },
+      "authors": [
+        {
+          "authorId": "1943757",
+          "name": "Xianghui Cao"
+        },
+        {
+          "authorId": "1704256",
+          "name": "E. Natalizio"
+        },
+        {
+          "authorId": "51036744",
+          "name": "Jiming Chen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "f0e69f9ebc360d45947910019759efcef8138a31",
+      "url": "https://www.semanticscholar.org/paper/f0e69f9ebc360d45947910019759efcef8138a31",
+      "title": "Integration Of Software Tools Into A Multi Disciplinary Undergraduate Student Design Project",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://peer.asee.org/10242.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.18260/1-2--10242?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18260/1-2--10242, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A pilot scheme for the integration of modern state-of-the-art turbomachinery design tools into project-based education of undergraduate students and a substantial technical and communicative growth of the students was evident in this early introduction into the application of engineering knowledge to a high technology application."
+      },
+      "authors": [
+        {
+          "authorId": "48241688",
+          "name": "R. Abhari"
+        },
+        {
+          "authorId": "21534418",
+          "name": "F. C. Mund"
+        },
+        {
+          "authorId": "3111142",
+          "name": "A. Kalfas"
+        }
+      ],
+      "abstract": "This paper presents a pilot scheme for the integration of modern state-of-the-art turbomachinery design tools into project-based education of undergraduate students. This effort has been part of a larger international gas turbine project (IGTP) in which undergraduate students from a German (TU Berlin), a French (EC Lyon) and a Swiss (ETH Zurich) University undertook the design of the cooling system for the high pressure turbine of a 30,000lb thrust aeroengine. In addition, the goals of the project included self-organization and distribution of the tasks by the students themselves, the improvement of their communication skills and teamwork. At the Swiss Federal Institute of Technology (ETHZ) the design-task was offered to a limited number of students, organized as a project team. Tasks were distributed related to the tools, in particular CAD, CFD and FEA. Appropriate short duration training in the software packages, was provided. The initial design tasks were performed through manual calculations by following traditional lecture notes. The conceptual design was followed by more sophisticated threedimensional design tasks using computer-aided techniques. Finally, the students were assessed continuously with respect to their technical contribution, working techniques and interaction with their peer group at national and international level. They were also probed regarding their opinion on various aspects of the project using interviews and forms. These surveys have been evaluated together with the opinion of the academic staff in order to form future directions. For the planning the students had to consider the engine as a whole before distributing the tasks individually. This enabled them to handle the design requirements successfully through effective use of the available software tools. An increased effort of the academic staff was registered in comparison to conventional teaching methods. However, a substantial technical and communicative growth of the students was evident in this early introduction into the application of engineering knowledge to a high technology application. P ge 715.1 \u201cProceedings of the 2002 American Society for Engineering Education Annual Conference & Exposition Copyright \uf6d9 2002, American Society for Engineering Education\u201d Introduction The competitive market and high technology of aircraft engines forces companies to use highly sophisticated computational methodologies to meet today\u2019s development rate. The turbomachinery education program at the ETH Zurich has recently undergone a refinement aiming to create a modern teaching program that prepares students for an engineering career and includes a wide range of state-of-the-art topics in line with the interests of the relevant industry. The traditional lecture series have been reorganized to meet the demands of the ever-increasing use of computational methods within the design process. To prepare the integration of commercial design software packages into the lectures and the exercises of \"Turbomachinery Design\" course, a pilot phase was performed to investigate student interaction with complex software systems and optimize the design of the future. Based on the experience of the Jet Propulsion Laboratory of Technical University of Berlin (TU Berlin), performing a similar project on national level, the IGTP raised the effort to international level. The tasks were distributed between student teams at the Turbomachinery Laboratory of ETHZ, the Turbomachinery Group of \u00c9cole Centrale de Lyon (EC Lyon) and TU Berlin. Each University team was responsible for one aspect of a complex design, with appropriate interfaces between the teams to ensure that the overall design meets the intended specifications. It also involved mentoring industrial partners from Rolls Royce Deutschland, MTU, SNECMA and Alstom Power. The project covered a two-semester period with regular telephone conferences and meetings with other team members. The main theme of the project at ETHZ was the design of the cooling system of the HPT for a 30,000lb-thrust turbofan two-spool aeroengine. The project team consisted of five students and a student project leader, an academic coordinator and supervisors, as well as industrial mentors from Alstom Power. A realistic scenario of the design process of an aircraft engine, however, cannot be transferred one-to-one into the student classroom environment. In this project, an attempt was made to follow the actual design process as much as possible, simplifying the process just sufficiently to keep it manageable within the academic framework. The introduction of complex software packages in the frame of this project was aimed at both probing the students\u2019 receptivity as well as enabling them to perform a few iterations on the main tasks, based on the experience gained. Bringing teaching methodologies up-to-date followed the roadmap to a future education in turbomachinery. A marked observation of that work was that in German Universities design projects should be performed in interdisciplinary academic-industrial teams and communication and presentation skills could be improved. Objectives within the framework of engineering science at ETHZ After the first two years of background courses, the mechanical engineering students may choose two fields of specialization. In each of these areas, a research and design project is to be completed to promote independent work and creativity. The project topics may be centered on the Institutes research area and can be carried out in association with industry. Within the IGTP a limited number of students performed their design project, following the formal lectures, exercises P ge 715.2 \u201cProceedings of the 2002 American Society for Engineering Education Annual Conference & Exposition Copyright \uf6d9 2002, American Society for Engineering Education\u201d and laboratory sessions in parallel. The coordination of the IGTP and supervision of the individual design tasks of the students remains completely within the academic domain. The participating industrial partners function as mentors and consult the student team on specific items and provide a direct link to standard industrial practices. The strategic aims of ETHZ are the promotion and maintenance of quality in teaching at the highest international level. In order to support institutes in using advanced learning techniques, a funding project was initiated by ETHZ to promote the: \u2022 Use of new information technologies in teaching \u2022 Gain effective knowledge for advanced studies and interdisciplinary competence \u2022 Self responsible learning techniques and self organized arrangement of studies \u2022 Problem oriented working \u2022 Improvement of student social competence \u2022 Improvement of collaboration between universities abroad and ETHZ In addition to the aforementioned goals, the current project aimed to fulfil the following academic targets for the students: \u2022 Understand the design process of a complex device \u2022 Obtain an overview of the disciplines and their interactions \u2022 Achieve project work skills: self-organization, team work and time management \u2022 Exercise industrial working procedures and electronic communication techniques \u2022 Learn about cultural differences and improve communicative competence. Integrating computer-aided tools into the turbine design process The cooling system of the high pressure turbine of a 30,000 lb thrust two-spool bypass turbofan aeroengine was the main focus of the design exercise. Cruise conditions were assumed initially and some of the main design parameters are listed in Table 1. The students summarized the design process in a flowchart shown in fig. 1, having experienced the iterative character of the tasks and the necessity of return loops. Flight condition ISA Ma=0.8 Hub-tip ratio < 0.9 Thrust 30,000 lb Trailing edge thickness \u2248 0.05 mm Bypass ratio 5.5 Solidity 0.8 \u2013 0.9 Nozzle guide vane metal angle 65\u00b0 \u201375\u00b0 Turning Past Throat 5\u00b0 \u2013 10\u00b0 Table 1. Main Design Parameters An one-dimensional hand calculation of the cycle was the basic tool to understand the influence of the individual parameters. The best thermodynamic design point of the cycle was obtained through an optimization process. The commercial gas turbine performance program GasTurb was used to support the time consuming systematic parameter variation. The PC-based program includes several engine configurations and component performance maps. Output data are P ge 715.3 \u201cProceedings of the 2002 American Society for Engineering Education Annual Conference & Exposition Copyright \uf6d9 2002, American Society for Engineering Education\u201d available as enthalpy-entropy diagrams, velocity triangles, flight envelopes etc. The students were provided with a user-manual and a short introduction before proceeding independently. The initial blade geometry design was based on the hand calculations. Tangential velocity and radial work distribution were varied to match the requirements such as power output, degree of reaction and tip speed. These hand calculations were also essential in minimizing the risk that the students would proceed to complex computational tools without understanding the fundamental physical limitations and assumptions. For the optimization of the blade design the Educational Agile Engineering Design Software System was used. It consists of various modules including meanline analysis, 3D blade design tools as well as a CFD package and a FEA model generator. In academic environments, the difficulties associated with input-output issues are often Fig. 1. Flowchart of the design process underestimated, as more emphasis is placed to the scientific issues. In the current set up, students were guided to concentrate on the process as a whole rather than focussing on details of complex interfaces. Having experienced the difficulty of the task as well as the effort required for manual calculations, the students realized that a good design requires an excellent overview of all disciplines "
+    },
+    {
+      "paperId": "a7e13564be0df03e2f0a24ab1d4539b45a30f393",
+      "url": "https://www.semanticscholar.org/paper/a7e13564be0df03e2f0a24ab1d4539b45a30f393",
+      "title": "Implementation of Web-based Event-driven Activity Execution in CapBasED-AMS",
+      "venue": "",
+      "year": 1998,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Three-tier system architecture to implement Web-based event-driven activity execution in CapBasED-AMS is described, which presents a new philosophy of applying capability-based approach as the bridge mechanism for matching a PSA to a task."
+      },
+      "authors": [
+        {
+          "authorId": "1707003",
+          "name": "P. Hung"
+        },
+        {
+          "authorId": "1707849",
+          "name": "K. Karlapalem"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3ce7fb259b3f6a9a25037f6fced8192f1b3c8fa1",
+      "url": "https://www.semanticscholar.org/paper/3ce7fb259b3f6a9a25037f6fced8192f1b3c8fa1",
+      "title": "Motion Synthesis and Coordinated Control in the Multi-Axle-Driving-Vehicle",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5772/6961",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5772/6961?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/6961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that the motion synthesis and coordinated control methods should concurrently cope with the tasks and motions of multiple subsystems to achieve coordination and resources sharing efficiently in a large-scale multi-axle vehicle."
+      },
+      "authors": [
+        {
+          "authorId": "47001891",
+          "name": "Yunhua Li"
+        },
+        {
+          "authorId": "2501058",
+          "name": "Liman Yang"
+        }
+      ],
+      "abstract": "Multi-axle-Driving-vehicle is a kind of the mobile robot and it also belongs to the construction machinery which generally has heavy load-capacity and huge size. As shown in Fig.1 and Fig.2, both hoisting-girder transporter and DCY900 transportation vehicle are multi-axle-driving vehicles. In order to decrease the ground-contacting pressure, the ground-clearance of the vehicle chassis and the size of the tyre, and to increase the loadingcapacity and the passing performance of the vehicle, the multi-axle driving and independently controlled steer axles are employed, and also distributed electro-hydraulic proportional control is applied to the heavy type of vehicles. Such a large-scale vehicle has to deal with the complex motion control problem. The controlled output motions of multiple axles should meet certain matching condition or corresponding relationship so as to make the whole vehicle to realize the expected contouring motion trace. For example, all the powered steer axles have to be coordinately controlled in real time in order to achieve smooth and accurate steering motion without slipping and sliding. Besides the steering function, the steer axles are also designed to automatically level the vehicle body when it moves in an uneven terrain. It follows that the motion synthesis and coordinated control methods should concurrently cope with the tasks and motions of multiple subsystems. Conventionally, coordinated control of a simple mechatronics system is realized through a centralized control scheme in which each of the actuators is directly linked to the controller through cable in a point-to-point manner. However, for a complex multi-tasking mechatronic system with a large number of subsystems and actuators, such a control scheme is impractical. This is especially true for a large-scale multi-axle vehicle because it is huge in size and has many distributed subsystems to be arranged anywhere in the vehicle. If a centralized control scheme is employed, it will result in a very messy wiring scheme. Thanks for the advanced network technologies, which provide us an effective way to realize coordinated control for the multi-axle driving vehicles. In a network environment, all the control devices such as sensors, actuators, and controllers are distributed and simply linked together through network interfaces (e.g., Field-bus, Industrial Ethernet, and mobile net) so as to achieve coordination and resources sharing efficiently. In convention, a network-based mechatronic control system is called an NCS (Networked Control System), which has many advantages over a centralized control system, e.g., low installation cost, ease of system maintenance, simplicity in failure diagnosis, and high flexibility in system management"
+    },
+    {
+      "paperId": "11f0a6d4aca4bab7a147accc626748a07a779616",
+      "url": "https://www.semanticscholar.org/paper/11f0a6d4aca4bab7a147accc626748a07a779616",
+      "title": "2017 EUROPEAN SUMMER MEETING OF THE ASSOCIATION FOR SYMBOLIC LOGIC LOGIC COLLOQUIUM \u201917 Stockholm, Sweden August 14\u201320, 2017",
+      "venue": "Bulletin of Symbolic Logic",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1017/bsl.2018.13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/bsl.2018.13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2051359358",
+          "name": "Stefan Buijsman"
+        },
+        {
+          "authorId": "145843730",
+          "name": "M. Dam"
+        },
+        {
+          "authorId": "102414583",
+          "name": "Jacopo Emmenegger"
+        },
+        {
+          "authorId": "145204286",
+          "name": "D. Gurov"
+        },
+        {
+          "authorId": "2304274",
+          "name": "S. Hansson"
+        },
+        {
+          "authorId": "52161475",
+          "name": "Eric Johannesson"
+        },
+        {
+          "authorId": "2837447",
+          "name": "Vera Koponen"
+        },
+        {
+          "authorId": "2071114891",
+          "name": "J. Lindberg"
+        },
+        {
+          "authorId": "2956041",
+          "name": "Roussanka Loukanova"
+        },
+        {
+          "authorId": "3117333",
+          "name": "P. Lumsdaine"
+        },
+        {
+          "authorId": "5647525",
+          "name": "A. Lundstedt"
+        },
+        {
+          "authorId": "40546975",
+          "name": "Karl Nygren"
+        },
+        {
+          "authorId": "2073904",
+          "name": "Peter Pagin"
+        },
+        {
+          "authorId": "1788394",
+          "name": "A. Enayat"
+        }
+      ],
+      "abstract": "s of invited and contributed talks given in person or by title by members of the Association follow. For the Program Committee Mirna D\u017eamonja Abstracts of Invited Talkss of Invited Talks DAVID ASPER\u00d3, Generic absoluteness for Chang models. School of Mathematics, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK. E-mail: d.aspero@uea.ac.uk. URL Address: https://archive.uea.ac.uk/\u223cbfe12ncu/ The main focus of the talk will be on extensions of Woodin\u2019s classical result that, in the presence of a proper class of Woodin cardinals, CV and CV P are elementally equivalent for every set\u2014forcing P (where C\u03ba denotes the \u03ba-Chang model). 1. In the first part of the talk I will present joint work with Asaf Karagila in which we derive generic absoluteness for C over the base theory ZF +DC. 2. Matteo Viale has defined a strengthening MM of Martin\u2019s Maximum which, in the presence of a proper class of sufficiently strong large cardinals, completely decides the theory of C 1 modulo forcing in the class \u0393 of set\u2014forcing notions preserving stationary subsets of 1; this means that if MM holds, P \u2208 \u0393, and P forces MM, then CV 1 and CVP 1 are elementarily equivalent. MM is the first example of a \u201ccategory forcing axiom.\u201d In the second part of the talk I will present some recent joint work with Viale in which we extend his machinery to deal with other classes \u0393 of forcing notions, thereby proving LOGIC COLLOQUIUM \u201917 213 the existence of several mutually incompatible category forcing axioms, each one of which is complete for the theory of C 1 , in the appropriate sense, modulo forcing in \u0393. ALESSANDRO BERARDUCCI, Surreal differential calculus. Department of Mathematics, University of Pisa, Largo Bruno Pontecorvo 5, 56127 Pisa, Italy. E-mail: alessandro.berarducci@unipi.it. I will report on joint surreal work with Vincenzo Mantova. We recall that Conway\u2019s ordered field of surreal numbers contains both the real numbers and the ordinal numbers. The surreal sum and product of two ordinals coincide with the Hessenberg sum and product, and Cantor\u2019s normal form of ordinals has a natural extension to the surreals. In [1] we proved that there is a meaningful way to take both the derivative and the integral (antiderivative) of a surreal number, hence in particular on an ordinal number. The derivative of the ordinal number omega is 1, the derivative of a real number is zero, and the derivative of the sum and product of two surreal numbers obeys the expected rules. More difficult is to understand what is the derivative of an ordinal power of omega, for instance the first epsilon-number, but this can be done in a way that reflects the formal properties of the derivation on a Hardy field (germs of nonoscillating real functions). In [2] we showed that many surreal numbers can indeed be interpreted as germs of differentiable functions on the surreals themselves, so that the derivative acquires the usual analytic meaning as a limit. It is still open whether we can interpret all the surreals as differentiable functions, possibly changing the definition of the derivative. [1] A. Berarducci and V.Mantova, Surreal numbers, derivations and transseries. Journal of the European Mathematical Society, to appear, arXiv:1503.00315, p. 47. [2] , Transseries as germs of surreal functions, arXiv:1703.01995, p. 44. ELISABETH BOUSCAREN, A stroll through some important notions of model theory and their applications in geometry. Laboratoire de Math\u00e9matiques d\u2019Orsay, Univ. Paris-Sud, CNRS, Univ. Paris-Saclay, 91405 Orsay, France. E-mail: elisabeth.bouscaren@math.u-psud.fr. In this talk, we will try to explain the use of some important model-theoretic notions, focusing on the model-theory of finite rank groups and on the notion of orthogonality. Their use in applications to algebraic geometry will be gently illustrated by some examples. This talk is partly inspired by a series of recent joint articles with Franck Benoist (Paris-Sud) and Anand Pillay (Notre-Dame), giving new model theoretic proofs of the original results of Ehud Hrushovski on the Mordell\u2013Lang Conjecture for function fields (1994). DENIS HIRSCHFELDT, Computability theory and asymptotic density. Department of Mathematics, The University of Chicago, 5734 S. University Ave., Chicago, IL 60637, USA. E-mail: drh@math.uchicago.edu. URL Address: www.math.uchicago.edu/\u223cdrh. The notion of generic-case complexity was introduced by Kapovich, Myasnikov, Schupp, and Shpilrain to study problems with high worst-case complexity that are nevertheless easy to solve in most instances. They also introduced the notion of generic computability, which captures the idea of having a partial algorithm that halts for almost all inputs, and correctly computes a decision problem whenever it halts. Jockusch and Schupp began the general computability-theoretic investigation of generic computability and also defined the notion of coarse computability, which captures the idea of having a total algorithm that might make mistakes but correctly decides the given problem for almost all inputs (although this notion had been studied earlier in Terwijn\u2019s dissertation). Two related notions, which allow for both failures to answer and mistakes, have been studied by Astor, Hirschfeldt, and Jockusch (although one of them had been considered in the 1970\u2019s by Meyer and by Lynch). All of 214 LOGIC COLLOQUIUM \u201917 these notions lead to notions of reducibility and associated degree structures. I will discuss recent and ongoing work in the study of these reducibilities. PER MARTIN-L\u00d6F, Assertion and request. Department of Mathematics, Stockholm University, 106 91 Stockholm, Sweden. E-mail: pml@math.su.se. Think of the content of an assertion as something that is to be done: let us call it a task. Peirce\u2019s explanation of the speech act of assertion as the assuming of responsibility then takes the form: by making an assertion, you assume the responsibility, or duty, of performing the task which constitutes the content of the assertion, when requested to do so by the hearer. Thus a duty on the part of the speaker appears as a right on the part of the hearer to request the speaker to perform his duty: this is an instance of what is called the correlativity of rights and duties, a fundamental principle of deontological ethics which can be traced back to Bentham. In logic, it appears as the correlativity of assertions and requests. Since nothing but assertions appear in the usual inference rules of logic, there arises the question of what the rules are that govern the correlative requests. In the case of constructive type theory, they turn out to be the rules which bring the meaning explanations for the various forms of assertion to formal expression. Thus, in analogy with Gentzen\u2019s dictum that the propositional operations, the connectives and the quantifiers, are defined by their introduction rules, we may say that the forms of assertion are defined by their associated request rules. DAG PRAWITZ, Gentzen\u2019s justification of inferences and the ecumenical systems. Department of Philosopy, Stockholm University, 106 91 Stockholm, Sweden. E-mail: dag.prawitz@philosophy.su.se. Some of the different proposals for how to make precise Gentzen\u2019s way of justifying the introduction and elimination rules of natural deduction are briefly surveyed. A crucial question is whether the justification is applicable only to inferences occurring in intuitionistic logic or can be extended also to inferences occurring in classical logic. I shall argue that it is extendible to classical inference rules but that for some logical constants the introduction rules must vary depending on whether the constant is read classically or intuitionistically\u2014when the constant is read classically the rule must be weaker than when it is read intuitionistically. Respecting this condition, it is possible to allow classical and intuitionistic logical constants in one and the same system, a system that we may call the ecumenical system. In this system the usual elimination rules for some logical constants do not hold when the constant is read classically. Modus ponens is an example\u2014it is not valid generally when implication is read classically but remains valid when also all of the constants of the subformulas of the implication are read classically. SONJA SMETS, The logical basis of a formal epistemology for social networks. ILLC, University of Amsterdam, Science Park 107, Amsterdam, The Netherlands. E-mail: S.J.L.Smets@uva.nl. In this presentation I focus on a logical\u2013philosophical study of group beliefs and collective \u201cknowledge\u201d, and their dynamics in communities of interconnected agents capable of reflection, communication, reasoning, argumentation, etc. In particular, the aim is to study belief formation and belief diffusion (doxastic influence) in social networks, and to characterize a group\u2019s \u201cepistemic potential\u201d. This covers cases in which a group\u2019s ability to track the truth is higher than that of each of its members (the \u201cwisdom of the crowds\u201d: distributed knowledge, epistemic democracy, and other beneficial forms of belief aggregation and deliberation), as well as situations in which the group\u2019s dynamics leads to informational distortions (the \u201cmadness of the crowds\u201d: informational cascades, \u201cgroupthink\u201d, the curse of the committee, pluralistic ignorance, group polarization, etc). I look at several logical formalisms that make explicit various factors affecting the epistemic potential of a group: the agents\u2019 degree of interconnectedness, their degree of mutual trust, their different epistemic interests (their \u201cquestions\u201d), their different attitudes towards the available evidence and its sources, etc. In this presentation I refer to a number of recent articles (1,2,3,4,5,6), that LOGIC COLLOQUIUM \u201917 215 make use a variety of formal tools ranging from dynamic epistemic logics and probabilistic logics. I conclude with some philosophical reflections about the nature and meaning"
+    },
+    {
+      "paperId": "9c4c43e985634b2c711617190637433ccebabbc3",
+      "url": "https://www.semanticscholar.org/paper/9c4c43e985634b2c711617190637433ccebabbc3",
+      "title": "Speed Software For Electric Machine Design And Analysis Pdf File",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "32160738",
+          "name": "M. Anders"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "total": 335,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "9ec9e84b9bdb312a897c11a1ef187d84664820c3",
+      "url": "https://www.semanticscholar.org/paper/9ec9e84b9bdb312a897c11a1ef187d84664820c3",
+      "title": "A principled framework for the design and analysis of token algorithms",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2205.15015",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2205.15015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work frames the token algorithm as a randomized gossip algorithm on a conceptual graph, which allows for a series of convergence results for variance-reduced and accelerated token algorithms for the complete graph, and extends these results to the case of multiple tokens by extending the conceptual graph."
+      },
+      "authors": [
+        {
+          "authorId": "9783664",
+          "name": "Hadrien Hendrikx"
+        }
+      ],
+      "abstract": "We consider a decentralized optimization problem, in which $n$ nodes collaborate to optimize a global objective function using local communications only. While many decentralized algorithms focus on \\emph{gossip} communications (pairwise averaging), we consider a different scheme, in which a ``token'' that contains the current estimate of the model performs a random walk over the network, and updates its model using the local model of the node it is at. Indeed, token algorithms generally benefit from improved communication efficiency and privacy guarantees. We frame the token algorithm as a randomized gossip algorithm on a conceptual graph, which allows us to prove a series of convergence results for variance-reduced and accelerated token algorithms for the complete graph. We also extend these results to the case of multiple tokens by extending the conceptual graph, and to general graphs by tweaking the communication procedure. The reduction from token to well-studied gossip algorithms leads to tight rates for many token algorithms, and we illustrate their performance empirically."
+    },
+    {
+      "paperId": "c8ad708970f4dd682b502e5adf95312c157035a3",
+      "url": "https://www.semanticscholar.org/paper/c8ad708970f4dd682b502e5adf95312c157035a3",
+      "title": "Integrated ICT framework for distribution network with decentralized energy resources: Prototype, design and development",
+      "venue": "IEEE PES General Meeting",
+      "year": 2010,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://hal.archives-ouvertes.fr/hal-00514410/file/rad089C0.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PES.2010.5589775?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PES.2010.5589775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new integrated platform for ICT based distributed control and local management is currently being designed, with the goal of demonstrating the feasibility of these new concepts."
+      },
+      "authors": [
+        {
+          "authorId": "2130586084",
+          "name": "N. Hadjsaid"
+        },
+        {
+          "authorId": "30818951",
+          "name": "L. L. Thanh"
+        },
+        {
+          "authorId": "32117913",
+          "name": "R. Caire"
+        },
+        {
+          "authorId": "2955180",
+          "name": "B. Raison"
+        },
+        {
+          "authorId": "114478488",
+          "name": "F. Blache"
+        },
+        {
+          "authorId": "2280169",
+          "name": "Bj\u00f6rn St\u00e5hl"
+        },
+        {
+          "authorId": "144145291",
+          "name": "R. Gustavsson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "044dc63950b5822a1a482187ff9191aecff8c3c4",
+      "url": "https://www.semanticscholar.org/paper/044dc63950b5822a1a482187ff9191aecff8c3c4",
+      "title": "A Communication and Resources Management Scheme to Support the Smart Grid Integration of Multiplayers Access to Resources Information",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3182/20140824-6-ZA-1003.02041?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3182/20140824-6-ZA-1003.02041, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A conceptual design of a communication and resources management scheme based on an intelligent SCADA with a decentralized, flexible, and intelligent approach, adaptive to the context (context awareness)."
+      },
+      "authors": [
+        {
+          "authorId": "145579951",
+          "name": "Z. Vale"
+        },
+        {
+          "authorId": "145390593",
+          "name": "H. Morais"
+        },
+        {
+          "authorId": "144649495",
+          "name": "P. Faria"
+        },
+        {
+          "authorId": "144148984",
+          "name": "C. Ramos"
+        }
+      ],
+      "abstract": "Abstract The increasing and intensive integration of distributed energy resources into distribution systems requires adequate methodologies to ensure a secure operation according to the smart grid paradigm. In this context, SCADA (Supervisory Control and Data Acquisition) systems are an essential infrastructure. This paper presents a conceptual design of a communication and resources management scheme based on an intelligent SCADA with a decentralized, flexible, and intelligent approach, adaptive to the context (context awareness). The methodology is used to support the energy resource management considering all the involved costs, power flows, and electricity prices leading to the network reconfiguration. The methodology also addresses the definition of the information access permissions of each player to each resource. The paper includes a 33-bus network used in a case study that considers an intensive use of distributed energy resources in five distinct implemented operation contexts."
+    },
+    {
+      "paperId": "9900a1db03ad99baf02f3486e095d4b06c10135a",
+      "url": "https://www.semanticscholar.org/paper/9900a1db03ad99baf02f3486e095d4b06c10135a",
+      "title": "Fast Distributed Consensus Through Path Averaging on Random Walks",
+      "venue": "Wireless personal communications",
+      "year": 2017,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11277-017-4451-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11277-017-4451-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel approach to the consensus averaging problem based on a random walk mechanism to identify nodes involved in a computation round, and on a path averaging technique to update more than two nodes into the same round is proposed, which doesn\u2019t rely on any positioning mechanism."
+      },
+      "authors": [
+        {
+          "authorId": "3356826",
+          "name": "Valerio Freschi"
+        },
+        {
+          "authorId": "145274590",
+          "name": "E. Lattanzi"
+        },
+        {
+          "authorId": "1733019",
+          "name": "A. Bogliolo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d11c96a0c18a3f94d2b5f4bd015f188667a3d67d",
+      "url": "https://www.semanticscholar.org/paper/d11c96a0c18a3f94d2b5f4bd015f188667a3d67d",
+      "title": "A decision approach to determine optimal service and quality levels in large\u2010scale, publicly shared systems",
+      "venue": "",
+      "year": 1998,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/(SICI)1520-6858(1998)1:3<149::AID-SYS1>3.0.CO;2-L?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/(SICI)1520-6858(1998)1:3<149::AID-SYS1>3.0.CO;2-L, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research shows that the Integrated Decision Approach can be used to resolve certain decision problems that involve publicly shared systems as effectively as the best of the centralized mechanisms but with less time and analysis required."
+      },
+      "authors": [
+        {
+          "authorId": "98405100",
+          "name": "W. K. Hoehn"
+        },
+        {
+          "authorId": "97479320",
+          "name": "J. Duan"
+        }
+      ],
+      "abstract": "This paper presents an Integrated Decision Approach for mitigating the problems associated with the development of large-scale, publicly shared systems. This approach couples Quality Function Deployment, elements of the Systems Engineering Process, a centralized or decentralized decision mechanism, and an ongoing performance measurement system. The approach can be applied during conceptual design to eliminate system design solutions that prove to be deficient and/or provide excess capacity. A hypothetical example consisting of a simplified network communication system is presented to illustrate a complete application of the approach. This research shows that the Integrated Decision Approach can be used to resolve certain decision problems that involve publicly shared systems as effectively as the best of the centralized mechanisms but with less time and analysis required. \u00a9 1998 John Wiley & Sons, Inc. Syst Eng 1: 149\u2013158, 1998"
+    },
+    {
+      "paperId": "c609c3c5bcb7de2373c4e1b72ab5d49eb1b3d983",
+      "url": "https://www.semanticscholar.org/paper/c609c3c5bcb7de2373c4e1b72ab5d49eb1b3d983",
+      "title": "Retracted: Design of English Mobile Learning Platform Based on GSM-R Wireless Network Communication System",
+      "venue": "International Journal of Antennas and Propagation",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/ijap/2024/9853970.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2024/9853970?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2024/9853970, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2231353353",
+          "name": "International Journal of Antennas and Propagation"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "67cfc449bb968d2b542867abe7e6d449b7bcaca2",
+      "url": "https://www.semanticscholar.org/paper/67cfc449bb968d2b542867abe7e6d449b7bcaca2",
+      "title": "Retracted: Design and Application of Art Education Communication Platform Based on Machine Vision",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9864141.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9864141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9864141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "3ce2b2648c2fe8ba8311b9816cb23de1968e7fc8",
+      "url": "https://www.semanticscholar.org/paper/3ce2b2648c2fe8ba8311b9816cb23de1968e7fc8",
+      "title": "Retracted: Computer Graphic Image Design and Visual Communication Design in the Internet of Things Scenario",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9837857.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9837857?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9837857, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "92d896de383a80634d15672cad02e2e420b91960",
+      "url": "https://www.semanticscholar.org/paper/92d896de383a80634d15672cad02e2e420b91960",
+      "title": "Retracted: Design and Implementation of Large-Scale Public Building Energy Consumption Monitoring Platform Based on BP Neural Network",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9783926.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9783926?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9783926, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "3856865704fe7cd8457f702537437420f42204dd",
+      "url": "https://www.semanticscholar.org/paper/3856865704fe7cd8457f702537437420f42204dd",
+      "title": "Retracted: Design and Implementation of Cloud Computing Network Security Virtual Computing and Defense Technology",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9826393.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9826393?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9826393, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2191323827",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "093906a983115f8a20cf6757e4b925be26d5e24f",
+      "url": "https://www.semanticscholar.org/paper/093906a983115f8a20cf6757e4b925be26d5e24f",
+      "title": "Retracted: Research on the Teaching Method of Environmental Landscape Design Practice Based on IoT Network and Digital VR Technology",
+      "venue": "Security and Communication Networks",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2022/9808017.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2022/9808017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2022/9808017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2165721003",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "4b28833ccde0569a080afaa6a7d51e8458d5f7b3",
+      "url": "https://www.semanticscholar.org/paper/4b28833ccde0569a080afaa6a7d51e8458d5f7b3",
+      "title": "Retracted: Process Optimization and Die Design of Hydromechanical Calendering Based on Wireless Network Communication and IoT",
+      "venue": "Wireless Communications and Mobile Computing",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/wcmc/2023/9842758.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9842758?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9842758, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2123695575",
+          "name": "Wireless Communications and Mobile Computing"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "dae85bc080161eff52b6dea47a7f444e98eae0cf",
+      "url": "https://www.semanticscholar.org/paper/dae85bc080161eff52b6dea47a7f444e98eae0cf",
+      "title": "U-spaceChain: A Decentralized Approach to Unmanned Traffic Management Services Provision",
+      "venue": "International Congress on Blockchain and Applications",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/Blockchain62396.2024.00066?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Blockchain62396.2024.00066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "U-spaceChain is a proof-of-concept of a blockchain in which smart contracts provide Flight Authorization, Network Identification, Traffic Information, Conformance Monitoring, Geo Awareness, Weather Information, and Common Information services and may be a reference for the research and application of blockchain to the drone traffic management domain."
+      },
+      "authors": [
+        {
+          "authorId": "2179372980",
+          "name": "Balita Rakotonarivo"
+        },
+        {
+          "authorId": "2321678933",
+          "name": "Murat Bronz"
+        }
+      ],
+      "abstract": "Thousands of drone operations are expected over urban areas in different countries, as drones bring economic and societal benefits. However, it raises problems regarding unmanned traffic management, including safety, regulatory, security, automatization, communication, and scalability aspects. How can we provide decentralized services for drone traffic management that are compliant with the regulatory framework? We identified some requirements from the European U-space regulation and applied the Systems Development Methodology. We devised a permissioned blockchain-based architecture, Services as smart contracts, and a simple consensus mechanism named Appointed-by-Authority as conceptual contributions. The practical one is a working software named U-spaceChain. It is a proof-of-concept of a blockchain in which smart contracts provide Flight Authorization, Network Identification, Traffic Information, Conformance Monitoring, Geo Awareness, Weather Information, and Common Information services. It is compliant with regulations, secure by design, can support the development of new services, and the concepts can be reused in other domains. We also designed enablers that allow testing this proof-of-concept by creation and then simulation of drone traffic. U-spaceChain may be a reference for the research and application of blockchain to the drone traffic management domain."
+    },
+    {
+      "paperId": "8b7bda66f78f0e14d3b18dff6de77854e89879d4",
+      "url": "https://www.semanticscholar.org/paper/8b7bda66f78f0e14d3b18dff6de77854e89879d4",
+      "title": "Retracted: Design and Application of BP Neural Network Optimization Method Based on SIWSPSO Algorithm",
+      "venue": "Security and Communication Networks",
+      "year": 2022,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2022/9791489.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2022/9791489?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2022/9791489, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2191323827",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "f9e9ce2fa64319a18ab55707d44248d89cfffce8",
+      "url": "https://www.semanticscholar.org/paper/f9e9ce2fa64319a18ab55707d44248d89cfffce8",
+      "title": "Retracted: Design and Implementation of Software Engineering Network Teaching System Based on CS Mode",
+      "venue": "Security and Communication Networks",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2022/9830753.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2022/9830753?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2022/9830753, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2191323827",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "30d2c76ac64e6883ca0525aeb07eaa6049bea941",
+      "url": "https://www.semanticscholar.org/paper/30d2c76ac64e6883ca0525aeb07eaa6049bea941",
+      "title": "TRIPLE BAND DUAL SENSE CIRCULARLY POLARIZED CERAMIC BASED ANTENNA: EXPLORING CONCEPTUAL DESIGN METHODOLOGY",
+      "venue": "Progress In Electromagnetics Research C",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.2528/pierc20120501",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2528/PIERC20120501?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2528/PIERC20120501, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed antenna design is left-handed circularly polarized (LHCP) in the first and third frequency ranges, while it is right-handed in the second one, and these features, along with broadsided far-field patterns, recommend the proposed antennaDesign for potential application in WLAN and WiMAX wireless networks."
+      },
+      "authors": [
+        {
+          "authorId": "2157810171",
+          "name": "Anand Sharma"
+        },
+        {
+          "authorId": "46571552",
+          "name": "Gourab Das"
+        },
+        {
+          "authorId": "2307078116",
+          "name": "and Ravi Kumar Gangwar"
+        }
+      ],
+      "abstract": "In this communication, conceptual design guidelines for a tri-band dual sense circularly polarized ceramic-based antenna is explored. An asymmetrical S-shaped aperture is used to stimulate the ring-shaped ceramic. Some exclusive features are obtained in the designed antenna: (i) creation of five different hybrid modes (HEM11\u03b4 , HEM11\u03b4+2, HEM12\u03b4-like, HEM12\u03b4 , and HEM13\u03b4) is helpful for getting dual wideband impedance bandwidth; (ii) proposed aperture assists in achieving CP waves in three different frequency ranges with two different senses. Its experimental results confirm the simulated outcomes. The proposed antenna is operated within the dual-frequency ranges, i.e., 2.2\u20134.19 GHz and 4.74\u20136.11 GHz, respectively. The measured 3-dB axial ratio is achieved in three different frequency ranges within the operating band, i.e., 2.71\u20132.98 GHz, 3.6\u20133.79 GHz, and 5.5\u20135.81 GHz, respectively. The proposed antenna design is left-handed circularly polarized (LHCP) in the first and third frequency ranges, while it is right-handed in the second one. These features, along with broadsided far-field patterns, recommend the proposed antenna design for potential application in WLAN (2.4/5.5 GHz) and WiMAX (3.3/5.0 GHz) wireless networks."
+    },
+    {
+      "paperId": "dbe2bca900fea3ede6399ba3a61b52eddea49e6b",
+      "url": "https://www.semanticscholar.org/paper/dbe2bca900fea3ede6399ba3a61b52eddea49e6b",
+      "title": "Retracted: Design and Application of English Grammar Error Correction System Based on Deep Learning",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9793571.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9793571?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9793571, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "3c030a7610dcd5720650123112fc310605b82051",
+      "url": "https://www.semanticscholar.org/paper/3c030a7610dcd5720650123112fc310605b82051",
+      "title": "Retracted: Design and Implementation of Intelligent Teaching System Based on Artificial Intelligence and Computer Technology",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9854971.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9854971?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9854971, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "382d0abac06b5a81433134f2dbeed61238c2a30f",
+      "url": "https://www.semanticscholar.org/paper/382d0abac06b5a81433134f2dbeed61238c2a30f",
+      "title": "Retracted: Design and Reconstruction of Visual Art Based on Virtual Reality",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9848303.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9848303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9848303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    },
+    {
+      "paperId": "b27cb770183fa2d0ae20a3cd8d897edcb10c62c5",
+      "url": "https://www.semanticscholar.org/paper/b27cb770183fa2d0ae20a3cd8d897edcb10c62c5",
+      "title": "Retracted: Contemporary Advertising Text Art Design and Effect Evaluation by IoT Deep Learning under the Smart City",
+      "venue": "Security and Communication Networks",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/scn/2023/9846801.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/9846801?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/9846801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2220578075",
+          "name": "Security and Communication Networks"
+        }
+      ],
+      "abstract": "<jats:p />"
+    }
+  ]
+}

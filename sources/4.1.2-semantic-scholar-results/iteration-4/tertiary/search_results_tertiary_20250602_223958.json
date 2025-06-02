@@ -1,0 +1,261 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9cd5a555f1ebdaf14ca5d509fd54a3c2b0f93517",
+      "url": "https://www.semanticscholar.org/paper/9cd5a555f1ebdaf14ca5d509fd54a3c2b0f93517",
+      "title": "A Multi-Agent Message Transport Architecture for Supporting Close Collaboration among Agents",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3745/ktsde.2014.3.3.125",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3745/KTSDE.2014.3.3.125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3745/KTSDE.2014.3.3.125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The multi-agent framework SMAF(Small Multi-Agent Framework), which is implemented on the proposed multi- agent message transport architecture, shows better performance on message transfer among agents than JADE(Java Agent Development Environment) which is a well-known FIPA-compliant multi- Agent framework."
+      },
+      "authors": [
+        {
+          "authorId": "51462495",
+          "name": "H. Chang"
+        }
+      ],
+      "abstract": "This paper proposes a multi-agent message transport architecture to support application areas which need fast message communications for close collaboration among agents. In the FIPA(Foundation of Intelligent Physical Agents) agent platform, all message transfer services among agents are in charge of a conceptual entity named ACC(Agent Communication Channel). In our multi-agent message transport architecture, the ACC is represented as a set of system agents named MTSA(Message Transfer Service Agent). The MTSA enables close collaboration among agents by supporting asynchronous communication, by using Reactor pattern to handle agent input messages efficiently, and by selecting optimal message transfer protocols according to the relative positional relationships of sender agents and receiver agents. The multi-agent framework SMAF(Small Multi-Agent Framework), which is implemented on the proposed multi-agent message transport architecture, shows better performance on message transfer among agents than JADE(Java Agent Development Environment) which is a well-known FIPA-compliant multi-agent framework. The faster the speed of message transfer of a multi-agent architecture becomes, the wider application areas the architecture can support."
+    },
+    {
+      "paperId": "2e8d8c833cee8947030f319ec68d9bd50ad5335d",
+      "url": "https://www.semanticscholar.org/paper/2e8d8c833cee8947030f319ec68d9bd50ad5335d",
+      "title": "Deep Reinforcement Learning-Based Multi-Access in Massive Machine-Type Communication",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2024.3507577",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3507577?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3507577, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work addresses the multi-access problem, formulating it as a Partially Observable Markov Decision Process (POMDP), to better understand and tackle challenges associated with dynamic access policies."
+      },
+      "authors": [
+        {
+          "authorId": "2311726030",
+          "name": "Nasim Ravi"
+        },
+        {
+          "authorId": "2330427544",
+          "name": "Nuno Louren\u00e7o"
+        },
+        {
+          "authorId": "2313936795",
+          "name": "Mar\u00edlia Curado"
+        },
+        {
+          "authorId": "2334032106",
+          "name": "and Edmundo Monteiro"
+        }
+      ],
+      "abstract": "The diverse applications of Machine-Type Communication (MTC) lead to exponential growth in Machine to Machine traffic. In connection with MTC deployment, a large number of devices are expected to access the wireless network simultaneously, resulting in network congestion. The conventional Random Access mechanism lacks the capability to handle the large number of access attempts expected from massive MTC (mMTC). Additionally, mMTC transceivers often operate by generating short data packets in a sporadic and sometimes unpredictable manner. To address the growing need for efficient communication in massive machine-type communication scenarios we propose an innovative solution, called Deep Reinforcement Learning-Based Multi-Access (DRLMA). Our model considers the Base Station (BS) as an agent navigating the landscape of machine-type communication devices. This agent dynamically switches between grant-based and grant-free access to leverage their strengths. We address the multi-access problem, formulating it as a Partially Observable Markov Decision Process (POMDP), to better understand and tackle challenges associated with dynamic access policies. Leveraging Deep Reinforcement Learning techniques, our approach optimizes sporadic traffic patterns, crafting an adaptable access policy to maximize both network throughput and energy efficiency under the battery constraint. Simulation results show that proposed DRLMA scheme outperforms traditional access schemes and existing access protocols in sporadic traffic in terms of the energy efficiency, throughput and network life time."
+    },
+    {
+      "paperId": "9c3a6d61a80ad01cc5003b3b6f68201fae2b673e",
+      "url": "https://www.semanticscholar.org/paper/9c3a6d61a80ad01cc5003b3b6f68201fae2b673e",
+      "title": "Perfect MPC over Layered Graphs",
+      "venue": "IACR Cryptology ePrint Archive",
+      "year": 2023,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://pure.itu.dk/portal/files/102396945/2023-330-2.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-031-38557-5_12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-031-38557-5_12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A layered MPC model is considered, a simpli\ufb01ed variant of the \ufb02uid MPC model of Choudhuri et al. (Crypto 2021), and perfect security against a malicious adversary who may corrupt at most t parties in each layer is required."
+      },
+      "authors": [
+        {
+          "authorId": "1939477",
+          "name": "B. David"
+        },
+        {
+          "authorId": "2159590738",
+          "name": "Anders Konring"
+        },
+        {
+          "authorId": "1688856",
+          "name": "Yuval Ishai"
+        },
+        {
+          "authorId": "1738470",
+          "name": "E. Kushilevitz"
+        },
+        {
+          "authorId": "51187452",
+          "name": "Varun Narayanan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "62ee82fb1b61208b0dfe80c73c677cb9903d50d7",
+      "url": "https://www.semanticscholar.org/paper/62ee82fb1b61208b0dfe80c73c677cb9903d50d7",
+      "title": "Indicators for Self-Diagnosis: Communication-Based Performance Measures",
+      "venue": "Multiagent System Technologies",
+      "year": 2003,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-39869-1_3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-39869-1_3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposes communication-based performance measurement (CBPM) as a new method that is particularly suitable for open, communication-intensive MAS and argues that it can be used as to design indicators for self-diagnosis by the MAS itself."
+      },
+      "authors": [
+        {
+          "authorId": "1724176",
+          "name": "Michael Rovatsos"
+        },
+        {
+          "authorId": "1685444",
+          "name": "M. Schillo"
+        },
+        {
+          "authorId": "145904137",
+          "name": "K. Fischer"
+        },
+        {
+          "authorId": "144799183",
+          "name": "Gerhard Weiss"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0c79efbfcaeebf0024137fb2f0c73505c5394ccf",
+      "url": "https://www.semanticscholar.org/paper/0c79efbfcaeebf0024137fb2f0c73505c5394ccf",
+      "title": "FOUNDATION FOR INTELLIGENT PHYSICAL AGENTS",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This abstract architecture was created by the use of UML modelling, combined with the notions of design patterns as described in [Gamma95], and was to be capable of exhibiting execution autonomy and semantic interoperability based on an intentional stance."
+      },
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "95d7914d0652b2377e135d10038ae679e06ba8c0",
+      "url": "https://www.semanticscholar.org/paper/95d7914d0652b2377e135d10038ae679e06ba8c0",
+      "title": "Coordinating Agent Interactions Under Open Environments",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.4018/978-1-59904-941-0.CH080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/978-1-59904-941-0.CH080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This chapter introduces an approach to ameliorate agent interactions from two perspectives that can enable agents to form knowledge \u201crich\u201d interaction protocols by using ontologies, and uses coloured Petri net (CPN) based methods to enable agent interaction protocols dynamically, which are more suitable for agent interaction under open environments."
+      },
+      "authors": [
+        {
+          "authorId": "144275863",
+          "name": "Q. Bai"
+        }
+      ],
+      "abstract": "An intelligent agent is a reactive, proactive, autonomous, and social entity. The social ability of an agent is exercised in a multi-agent system (MAS), which constitutes a collection of such agents. Current multi-agent systems mostly work in complex, open, and dynamic environments. In an open environment, many facts, such as domain constraints, agent number, and agent relationships, are not fixed. That brings a lot of difficulties to coordinate agents\u2019 interactions and cooperation. One major problem that impedes agent interaction is that most current agent interaction protocols are not very suitable for open environments. In this chapter, we introduce an approach to ameliorate agent interactions from two perspectives. First, the approach can enable agents to form knowledge \u201crich\u201d interaction protocols by using ontologies. Second, we use coloured Petri net (CPN) based methods to enable agents to form interaction protocols dynamically, which are more suitable for agent interaction under open environments. IDEA GROUP PUBLISHING This paper appears in the publication, Advances in Applied Artificial Intelligence edited by John Fulcher \u00a9 2006, Idea Group Inc. 701 E. Chocolate Avenue, Suite 200, Hershey PA 17033-1240, USA Tel: 717/533-8845; Fax 717/533-8661; URL-http://www.idea-group.com ITB12355 Coordinating Agent Interactions Under Open Environments 53 Copyright \u00a9 2006, Idea Group Inc. Copying or distributing in print or electronic forms without written permission of Idea Group Inc. is prohibited. INTRODUCTION It is beyond dispute that multi-agent systems are one of the most important design concepts for today\u2019s software. A multi-agent system (MAS) is a computational system that constitutes a collection of intelligent agents. An intelligent agent is a reactive, proactive, autonomous, and social entity, which performs a given task using information gleaned from its environment. In general, intelligent agents possess four major properties (Rao & Georgeff, 1992): \u2022 Reactivity \u2014 agents can perceive their environment and respond in a timely fashion to changes that occur in it; \u2022 Pro-activity \u2014 agents not only can simply act in response to their environments, but also are able to exhibit goal-directed behaviours by taking the initiative; \u2022 Autonomy \u2014 agents have some level of self-control ability, and they can operate without the direct intervention of humans; and \u2022 Social ability \u2014 agents interact with other agents. The social ability of an agent is exercised in an MAS. An MAS can be considered as a society of agents that live and work together. In such a multi-agent society, interactions between agents are unavoidable (Lesser, 1999). The interaction between agents occurs when an agent has some intentions and has decided to satisfy these through influencing other agents. Agent interactions are established through exchanging messages that specify the desired performatives of other agents and declarative representations of the contents of messages. The messages exchanged among agents are composed in agent communication languages (ACLs), such as Knowledge Query and Manipulation Language (KQML) (Finin, Labrou, & Mayfield, 1997) and the Foundation for Intelligent Physical Agents (FIPA) ACL (FIPA, 2004). In addition, messages exchanged between agents need to follow some standard patterns, which are described in agent interaction protocols (Cranefield, Purvis, Nowostawski, & Hwang, 2002). As the application domains of MASs are getting more and more complex, many current agent interaction protocols exhibit some limitations that impede MAS implementations. Firstly, many current application domains of MASs require agents to work in changing and uncertain (open) environments. In such environments, interactions between agents may be influenced by some unexpected factors, such as unexpected messages, loss of messages, or deviation in the message order. Most current agent interaction protocols lack mechanisms to handle these unexpected factors. Secondly, agent architectures in some MASs are heterogeneous, and different agents may possess different interaction protocols. Therefore, due to the heterogeneity, when an agent initialises an interaction with others, it cannot guarantee that its interaction protocol can be understood and accepted by other agents. Thirdly, most agents are hard-coded using interaction protocols, which leads to problems. More specifically, issues such as when to use a particular protocol, what information to transmit, what order to execute tasks, and so on, are left to agent designers. This feature reduces the flexibility of the agent interactions because protocols are hard to modify at runtime once they are pre-coded into the agents. Finally, many current interaction protocols, such as KQML, are not specifically designed to carry knowledge. This kind of knowledge \u201cpoor\u201d (Lesser, 1998) protocol is not suitable for applications that need 14 more pages are available in the full version of this document, which may be purchased using the \"Add to Cart\" button on the publisher's webpage: www.igi-global.com/chapter/coordinating-agent-interactionsunder-open/4673"
+    },
+    {
+      "paperId": "446ac2272c0146d5ef07d74cd4b0e84a023db033",
+      "url": "https://www.semanticscholar.org/paper/446ac2272c0146d5ef07d74cd4b0e84a023db033",
+      "title": "Argumentation-Based Security Requirements Analysis: BitMessage Case Study",
+      "venue": "2014 IEEE International Conference on Internet of Things(iThings), and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom)",
+      "year": 2014,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iThings.2014.74?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iThings.2014.74, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work evaluates RISA framework by applying it to the security requirements analysis of the address generation module of the decentralized, peer-to-peer communication protocol Bit Message and suggests a new set of requirements to improve the security of the current Bit Message client version."
+      },
+      "authors": [
+        {
+          "authorId": "2064037345",
+          "name": "Andor Kovacs"
+        },
+        {
+          "authorId": "1898562",
+          "name": "Ioannis Karakatsanis"
+        },
+        {
+          "authorId": "1774723",
+          "name": "D. Svetinovic"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "26d33166da2336790fd9102139a6f4db4ebdbbd8",
+      "url": "https://www.semanticscholar.org/paper/26d33166da2336790fd9102139a6f4db4ebdbbd8",
+      "title": "FOUNDATION FOR INTELLIGENT PHYSICAL AGENTS",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This abstract architecture was created by the use of UML modelling, combined with the notions of design patterns as described in [Gamma95], and was to be capable of exhibiting execution autonomy and semantic interoperability based on an intentional stance."
+      },
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "efa470c682e2d6e28a4b81131e86cd6b601b45b3",
+      "url": "https://www.semanticscholar.org/paper/efa470c682e2d6e28a4b81131e86cd6b601b45b3",
+      "title": "FOUNDATION FOR INTELLIGENT PHYSICAL AGENTS",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This abstract architecture was created by the use of UML modelling, combined with the notions of design patterns as described in [Gamma95], and was to be capable of exhibiting execution autonomy and semantic interoperability based on an intentional stance."
+      },
+      "authors": [],
+      "abstract": null
+    }
+  ]
+}

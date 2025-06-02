@@ -1,0 +1,378 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4c17cb18928a613a2834f2b4107faac62ea2c434",
+      "url": "https://www.semanticscholar.org/paper/4c17cb18928a613a2834f2b4107faac62ea2c434",
+      "title": "ADVANCING OFFSHORE OIL AND GAS FACILITIES: A COMPREHENSIVE REVIEW OF INNOVATIVE MAINTENANCE STRATEGIES FOR ENHANCED RELIABILITY AND EFFICIENCY",
+      "venue": "Economic Growth and Environment Sustainability",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.26480/egnes.02.2023.84.95",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.26480/egnes.02.2023.84.95?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26480/egnes.02.2023.84.95, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2278910560",
+          "name": "Joachim Osheyor Gidiagba"
+        },
+        {
+          "authorId": "2238692070",
+          "name": "Chibuike Daraojimba"
+        },
+        {
+          "authorId": "2278911365",
+          "name": "Oluwaseun Ayo Ogunjobi"
+        },
+        {
+          "authorId": "2278915227",
+          "name": "Kelechi Anthony Ofonagoro"
+        },
+        {
+          "authorId": "2278937475",
+          "name": "Akeeb Adepoju Fawole"
+        }
+      ],
+      "abstract": "The offshore oil and gas industry plays a crucial role in meeting global energy demands by providing reliable and efficient operations for offshore facilities. This comprehensive review explores various innovative maintenance strategies aimed at enhancing reliability and efficiency in the industry. The article emphasizes the significance of maintenance for offshore operations and delves into different innovative strategies. Condition-Based Maintenance (CBM) techniques enable proactive monitoring of equipment health, optimizing maintenance schedules, and reducing unscheduled downtime. Predictive maintenance, powered by data analytics and machine learning, allows for the prediction of potential failures and prioritization of maintenance activities. Prognostics and Health Management (PHM) systems facilitate early fault detection and preventive actions, enhancing asset reliability. Reliability-Centered Maintenance (RCM) approaches focus maintenance efforts on critical assets, ensuring efficient resource allocation. The integration of robotics and automation revolutionizes inspection, repair, and maintenance activities, reducing human intervention and enhancing safety. Digital twins, virtual replicas of physical assets, enable simulation and optimization of maintenance processes. Despite the immense potential of these innovative maintenance strategies, implementation faces challenges such as technological complexity, economic considerations, and regulatory compliance. Looking ahead, the industry\u2019s focus on sustainability and the global energy transition will drive maintenance practices that minimize environmental impact. Renewable energy integration, emission reduction efforts, and sustainable asset lifecycle management will shape future maintenance approaches. Embracing digital transformation and investing in workforce training are crucial for unlocking the full potential of innovative maintenance strategies. In conclusion, this comprehensive review highlights the diverse landscape of innovative maintenance strategies available to offshore oil and gas facilities. By embracing these transformative approaches, operators can elevate reliability, efficiency, and safety, ensuring sustainable operations amid dynamic industry demands."
+    },
+    {
+      "paperId": "63d2425cda738aa4762d568fbe3161afe5711dc3",
+      "url": "https://www.semanticscholar.org/paper/63d2425cda738aa4762d568fbe3161afe5711dc3",
+      "title": "Context-driven decisions for railway maintenance",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0954409715607904?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0954409715607904, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper addresses the process of data aggregation into a contextual awareness hybrid model to obtain RUL values within logical confidence intervals so that the life cycle of railway assets can be managed and optimized."
+      },
+      "authors": [
+        {
+          "authorId": "2102768329",
+          "name": "Roberto Villarejo"
+        },
+        {
+          "authorId": "97748249",
+          "name": "Carl-Anders Johansson"
+        },
+        {
+          "authorId": "29605931",
+          "name": "D. Galar"
+        },
+        {
+          "authorId": "1685036",
+          "name": "P. Sandborn"
+        },
+        {
+          "authorId": "144680589",
+          "name": "U. Kumar"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "dc0f1315ee194bfa0302b381eb1f338e5d665dbd",
+      "url": "https://www.semanticscholar.org/paper/dc0f1315ee194bfa0302b381eb1f338e5d665dbd",
+      "title": "OTC OTC-OTC-24386-MS DORIS-Monitoring Robot for Offshore Facilities",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "DORIS is a research project which endeavors to design and implement a mobile robot for remote supervision, diagnosis, and data acquisition on offshore facilities, composed of a rail-guided mobile robot capable of carrying different sensors through the inspected environment."
+      },
+      "authors": [
+        {
+          "authorId": "51200221",
+          "name": "Guilherme P. S. Carvalho"
+        },
+        {
+          "authorId": "143650350",
+          "name": "G. Freitas"
+        },
+        {
+          "authorId": "1871767",
+          "name": "R. Costa"
+        },
+        {
+          "authorId": "145599212",
+          "name": "G. Carvalho"
+        },
+        {
+          "authorId": "2054131108",
+          "name": "Jose F. L. de"
+        },
+        {
+          "authorId": "2089938800",
+          "name": "Oliveira"
+        },
+        {
+          "authorId": "143602496",
+          "name": "S. L. Netto"
+        },
+        {
+          "authorId": "153598550",
+          "name": "E. Silva"
+        },
+        {
+          "authorId": "66987900",
+          "name": "M. Xaud"
+        },
+        {
+          "authorId": "1715184",
+          "name": "L. Hsu"
+        },
+        {
+          "authorId": "1415095408",
+          "name": "G. Motta-Ribeiro"
+        },
+        {
+          "authorId": "46213700",
+          "name": "A. F. Neves"
+        },
+        {
+          "authorId": "1699115",
+          "name": "F. Lizarralde"
+        },
+        {
+          "authorId": "98181205",
+          "name": "Ighor Marcovistz"
+        },
+        {
+          "authorId": "1932026",
+          "name": "A. J. Peixoto"
+        },
+        {
+          "authorId": "2340292",
+          "name": "E. V. L. Nunes"
+        },
+        {
+          "authorId": "2129087",
+          "name": "P. From"
+        },
+        {
+          "authorId": "2099464927",
+          "name": "Petrobras Mauricio Galassi"
+        },
+        {
+          "authorId": "1423401703",
+          "name": "Anders R\u00f8yr\u00f8y"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e8c08c2509109a209cb379681959127a810b6cb9",
+      "url": "https://www.semanticscholar.org/paper/e8c08c2509109a209cb379681959127a810b6cb9",
+      "title": "SMART: Integrating Human Safety Risk Assessment with Asset Integrity",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-39348-8_3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-39348-8_3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "29605931",
+          "name": "D. Galar"
+        },
+        {
+          "authorId": "1685036",
+          "name": "P. Sandborn"
+        },
+        {
+          "authorId": "144680589",
+          "name": "U. Kumar"
+        },
+        {
+          "authorId": "97748249",
+          "name": "Carl-Anders Johansson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8ac323718d3b81f8e3f6c96d90d419e03c14c882",
+      "url": "https://www.semanticscholar.org/paper/8ac323718d3b81f8e3f6c96d90d419e03c14c882",
+      "title": "Hybrid Prognosis for Railway Health Assessment: an Information Fusion Approach for Phm Deployment",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 32,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3303/CET1333129?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3303/CET1333129, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper addresses the process of data aggregation into a hybrid model to get RUL values within logical confidence intervals so that the life cycle of railway assets can be managed and optimised."
+      },
+      "authors": [
+        {
+          "authorId": "29605931",
+          "name": "D. Galar"
+        },
+        {
+          "authorId": "144680589",
+          "name": "U. Kumar"
+        },
+        {
+          "authorId": "2102768329",
+          "name": "Roberto Villarejo"
+        },
+        {
+          "authorId": "97748249",
+          "name": "Carl-Anders Johansson"
+        }
+      ],
+      "abstract": "Many railway assets suffer increasing wear and tear during operation. Prognostics can assist diagnosis by assessing the current health of a system and predicting its remaining life based on features that capture the gradual degradation in a system\u2019s operational capabilities. Prognostics are critical to improve safety, plan successful work, schedule maintenance, and reduce maintenance costs and down time. Unlike fault diagnosis, prognosis is a relatively new area, but it has become an important part of Condition-based Maintenance (CBM) of systems. As there are many prognostic techniques, usage must be attuned to particular applications. Broadly stated, prognostic methods are either data-driven or model-based. Each has advantages and disadvantages; consequently, they are often combined in hybrid applications. A approach hybrid model can combine some or all model types (data-driven, and phenomenological); thus, more complete information can be gathered, leading to more accurate recognition of the fault state. This approach is especially relevant in railway systems where the maintainer and operator know some of the failure mechanisms, but the complexity of the infrastructure and rolling stock is huge that there is no way to develop a complete model-based approach. Therefore, hybrid models are extremely useful for accurately estimating the Remaining Useful Life (RUL) of railway systems. The paper addresses the process of data aggregation into a hybrid model to get RUL values within logical confidence intervals so that the life cycle of railway assets can be managed and optimised."
+    },
+    {
+      "paperId": "a83a3247769448e8c99e7f211e8214e93c9104ac",
+      "url": "https://www.semanticscholar.org/paper/a83a3247769448e8c99e7f211e8214e93c9104ac",
+      "title": "A Generic Approach for Predictive Maintenance Considering Changing Ageing Conditions",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "115831809",
+          "name": "Jakob Krause and Klaus Kabitzsch"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c28f5f8e1b6292e534cc9f764762454bdbc2d79b",
+      "url": "https://www.semanticscholar.org/paper/c28f5f8e1b6292e534cc9f764762454bdbc2d79b",
+      "title": "Handbook of industrial engineering : technology and operations management",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 287,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This book discusses the development of management, design, and control skills in the context of industrial engineering and systems engineering, as well as some of the technologies used in this area."
+      },
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "a51016d8298b59eeb0c32f8db62076eaa82815da",
+      "url": "https://www.semanticscholar.org/paper/a51016d8298b59eeb0c32f8db62076eaa82815da",
+      "title": "Fault diagnosis and failure prognosis for engineering systems: A global perspective",
+      "venue": "IEEE International Conference on Automation Science and Engineering",
+      "year": 2009,
+      "citationCount": 50,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COASE.2009.5234094?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COASE.2009.5234094, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An integrated systemsbased framework (architecture) for diagnosis and prognosis that is generic and applicable to a variety of engineering systems is introduced and potential benefits to industry include reduced maintenance costs, improved equipment uptime and safety."
+      },
+      "authors": [
+        {
+          "authorId": "2658179",
+          "name": "C. Ly"
+        },
+        {
+          "authorId": "15512201",
+          "name": "K. Tom"
+        },
+        {
+          "authorId": "2937725",
+          "name": "C. Byington"
+        },
+        {
+          "authorId": "47472868",
+          "name": "R. Patrick"
+        },
+        {
+          "authorId": "50409681",
+          "name": "G. Vachtsevanos"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "2aec8ca1156e029bf49df7787c9b90bb1e2b3976",
+      "url": "https://www.semanticscholar.org/paper/2aec8ca1156e029bf49df7787c9b90bb1e2b3976",
+      "title": "Bottom to Top Approach for Railway KPI Generation",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://content.sciendo.com/downloadpdf/journals/mspe/25/3/article-p191.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1515/mspe-2017-0028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/mspe-2017-0028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A plurality of use indices and weighting values are used to create a composite and aggregated use index that can be a decision-making tool for asset managers at different hierarchical levels."
+      },
+      "authors": [
+        {
+          "authorId": "2102768329",
+          "name": "Roberto Villarejo"
+        },
+        {
+          "authorId": "97748249",
+          "name": "Carl-Anders Johansson"
+        },
+        {
+          "authorId": "152365173",
+          "name": "Urko Leturiondo"
+        },
+        {
+          "authorId": "14638873",
+          "name": "V\u00edctor Sim\u00f3n"
+        },
+        {
+          "authorId": "11975109",
+          "name": "D. Seneviratne"
+        },
+        {
+          "authorId": "29605931",
+          "name": "D. Galar"
+        }
+      ],
+      "abstract": "Abstract Railway maintenance especially on infrastructure produces a vast amount of data. However, having data is not synonymous with having information; rather, data must be processed to extract information. In railway maintenance, the development of key performance indicators (KPIs) linked to punctuality or capacity can help planned and scheduled maintenance, thus aligning the maintenance department with corporate objectives. There is a need for an improved method to analyse railway data to find the relevant KPIs. The system should support maintainers, answering such questions as what maintenance should be done, where and when. The system should equip the user with the knowledge of the infrastructure\u2019s condition and configuration, and the traffic situation so maintenance resources can be targeted to only those areas needing work. The amount of information is vast, so it must be hierarchized and aggregated; users must filter out the useless indicators. Data are fused by compiling several individual indicators into a single index; the resulting composite indicators measure multidimensional concepts which cannot be captured by a single index. The paper describes a method of monitoring a complex entity. In this scenario, a plurality of use indices and weighting values are used to create a composite and aggregated use index from a combination of lower level use indices and weighting values. The resulting composite and aggregated indicators can be a decision-making tool for asset managers at different hierarchical levels."
+    }
+  ]
+}

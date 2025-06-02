@@ -1,0 +1,58 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "743ccf7c0a282b493dba5e3073d49540abab9c2d",
+      "url": "https://www.semanticscholar.org/paper/743ccf7c0a282b493dba5e3073d49540abab9c2d",
+      "title": "Physical asset management in the fourth industry revolution: mapping the literature for condition-based maintenance",
+      "venue": "2021 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGTAsia49270.2021.9715671?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGTAsia49270.2021.9715671, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "31818840",
+          "name": "G. Sandu"
+        },
+        {
+          "authorId": "97568132",
+          "name": "B. Samii"
+        }
+      ],
+      "abstract": "The low-carbon energy transition depends on adopting renewable energy technologies and requires affected industries to adopt best practices for optimized performance, reliable and sustainable operations. Consequently, the legacy energy distribution system faces many challenges in supporting grid stability, reliability, efficiency, and security under this transition setting. Herein, we adopt a quantitative text analysis of 310 articles complemented by a qualitative review to identify how and to what extent the fourth industrial revolution reflects in the energy distribution system. To this end, we map the literature for the technological innovations that support condition-based maintenance of electricity distribution grid under the Industry 4.0 principles. We emphasize how physical asset management enabled by the Industry 4.0 principles, i.e., interconnection, information transparency, automation, decentralized decisions and sustainability, can become a source of competitive advantage for utilities. This study helps place the physical assets portfolio at the core of strategic decisions aimed at attaining a more sustainable state, operational excellence, and economic prosperity."
+    },
+    {
+      "paperId": "a3f9a8217510bc33d61106057f2da9298964daa0",
+      "url": "https://www.semanticscholar.org/paper/a3f9a8217510bc33d61106057f2da9298964daa0",
+      "title": "Flexible Integration of EVs and PVs into the Electricity Grid",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5339/QFARC.2016.EEPP2885?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5339/QFARC.2016.EEPP2885, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2998246",
+          "name": "M. Kezunovic"
+        },
+        {
+          "authorId": "1390114913",
+          "name": "H. Abu-Rub"
+        }
+      ],
+      "abstract": "With the unexpectedly fluctuating price of oil and the increasing threat of global climate change, Electric Vehicles (EVs) and renewable energy, particularly photovoltaic (PV) generation are becoming a viable option since they are not directly affected by the unstable oil price and yet are environmentally friendly. The PV generation has attracted attention in the \u201cSolar Belt\u201d countries, especially in Qatar where annual mean of global solar radiation (around 2000 kWh/m2/year) is large. The ample roof space on large residential and commercial buildings in Qatar and ability of the PV panel covers to protect vehicles from the exposure to sunshine makes the use of PV generation a natural choice. When connected to the grid, EV battery can behave as mobile energy storage making EV capable of either charging via grid-to-vehicle (G2V) as a \u201cload\u201d or discharging via vehicle-to-grid (V2G) or vehicle-to-building (V2B) as a \u201cgenerator\u201d or a dispatchable \u201cback-up storage\u201d. This bi-directional power flow feature provides flexibility needed to match variability of the renewable sources. The integration of electric vehicles and PV generation achieves two goals: a) it displaces the urban tailpipe pollution to the location where the power plants are, which typically in rural areas, and b) it allows energy storage when solar generation is active, which is mostly during the day, and discharging during the night, which allows better control of the generation variability. The objective of this paper is to discuss the methodology and technology needed to coordinate EVs' charging and PV-based generation in order to improve the performance of electric grid and at the same time reduce the environmental pollution. The paper focuses on three issues: a) integration of photovoltaic (PV) generation and EV charging stations through DC or AC bus, b) interfacing the DC or AC bus to the power system using advanced power electronics, and c) analysis of the impacts of the PVs and EVs on the power grid operation. The integration and interfacing will be optimized to support several utility applications: demand side management, outage management and asset management. The different modes of interfacing and integrating EVs and PVs into the grid are defined under different scenarios. As an example, the demand side management analysis scenarios under different power grid conditions are shown in Figs. 1 and 2. When power grid demand is low, and the valley filling is needed, EVs can be put into charging via G2V mode and combined with PV generation to keep the power balance between supply and demand, as shown in Fig. 1. When power grid suffers from the peak load and load shaving is needed, EVs can be turned to V2G mode, and combined with PV generation can be utilized to help relieve the demand burden, as shown in Fig. 2. A local battery storage may be used to store the extra power generated from PV or abundant energy from the EV battery to act as the grid interface. The potential impact of EV charging/discharging on the power grid demand profile is simulated. How the grid performance will be improved when PV generation is taken into consideration is investigated. With the interfacing of EV energy storage and PV generation, more energy will be available for flexible control to help grid flatten the demand curve and reduce the peak load. Based on the comparison and analysis, the integration and interfacing of EVs and PVs are coordinated to support the demand side management application. Proper power electronic solutions allowing bidirectional power flow with fast charging/discharging is also presented. The approach is toward finding optimal solutions in terms of decreasing the time of charging/discharging and adhering to the international standards related to grid side power quality issues. Many high-frequency AC link inverters have been proposed to realize such interface system in the past. One topology is considered promising. It has a bi-directional power flow feature. The inverter operates by first charging the link from the input and then discharging the stored energy to the output. The link inductor (L) stores the energy and the small capacitor (C) placed in parallel with (L) provides the soft switching. Between each power transfer mode there is a resonant mode at which the link inductor and capacitor resonate and no power is transferred. Despite its merits of having a small inductance size, and flexible multiport feature, this converter has two main drawbacks: a) High filtering needs especially at the input terminals, and b) Poor voltage boosting capabilities. These drawbacks are overcome in our proposed novel configuration shown in Fig. 3. Quasi-Z-Source Inverters (qZSIs) have many attractive advantages that are suitable for applying in PV systems and batteries. The use of qZSIs for this configuration has the following good features: Higher boosting capabilities. Lower harmonic content in input current. No filtering requirements at the input terminals. Features lower component (capacitor) rating. On the other hand, a one more power switch (S0) is added to allow bidirectional flow-in case of battery discharging. According to the battery state of charge, the PV available output power, and the grid availability, the following power flow schemes are possible: I. When PV is online: 1. From PV to Grid, while Battery is offline. 2. From PV to (Grid + Battery). 3. From (PV + Grid) to Battery. 4. From (PV + Battery) to Grid. II. When PV is offline: 5. From Grid to Battery. 6. From Battery to Grid. In case of outage of the power grid, the schemes will be directed to be as follows: I. When PV is online: 7. From PV to local loads, while Battery is offline. 8. From PV to (local loads+ Battery). 9. From (PV + Battery) to local loads. II. When PV is offline: 10. From Battery to local loads. The analysis of the impact of EVs and PVs on outage management includes establishing the simulation model of the typical outage condition profile, simulating the performance of PV generation to cover the interrupted load and establishing coordination methodology to make the best use of the energy from PVs and EVs. The analysis of the impact on asset management includes establishing the simulation model of the typical asset management process for existing utility assets, simulating the impact of bidirectional flow due to PV generation, and mitigation of negative asset effects such as overloading due to EV charging and establishing coordination algorithm for minimizing the overall impact of the integration of PV and EV. Evaluation of how transformer maintenance can be optimized under the new operating modes will be discussed. The results of the study will not only benefit the placement planning for EV charging stations and roof top PV installations to better utilize the electric grid resources, but will also benefit the power grid operation especially the distribution system creating positive environmental impacts paving the road for future large-scale integration of the smart grid flexible load technology in Qatar."
+    }
+  ]
+}

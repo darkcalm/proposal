@@ -1,0 +1,47 @@
+{
+  "total": 1,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "036cc3918942bf59f2d3ea6364e7c2a5f0ecbe94",
+      "url": "https://www.semanticscholar.org/paper/036cc3918942bf59f2d3ea6364e7c2a5f0ecbe94",
+      "title": "Frontiers of WWW Research and Development - APWeb 2006, 8th Asia-Pacific Web Conference, Harbin, China, January 16-18, 2006, Proceedings",
+      "venue": "Asia-Pacific Web Conference",
+      "year": 2006,
+      "citationCount": 128,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/bfm%3A978-3-540-32437-9%2F1",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11610113?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11610113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The W3 Trust-Profiling Framework to Assess Trust and Transitivity of Trust of Web-Based Services in a Heterogeneous Web Environment and more."
+      },
+      "authors": [
+        {
+          "authorId": "48667278",
+          "name": "Xiaofang Zhou"
+        },
+        {
+          "authorId": "2109112886",
+          "name": "Jianzhong Li"
+        },
+        {
+          "authorId": "1724393",
+          "name": "Heng Tao Shen"
+        },
+        {
+          "authorId": "1716799",
+          "name": "M. Kitsuregawa"
+        },
+        {
+          "authorId": "2145048155",
+          "name": "Yanchun Zhang"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

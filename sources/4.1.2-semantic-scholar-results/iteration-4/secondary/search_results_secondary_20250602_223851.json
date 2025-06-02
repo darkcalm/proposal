@@ -1,0 +1,612 @@
+{
+  "total": 19,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "64b8953b352fb190e67333e0a4db15d2f5028793",
+      "url": "https://www.semanticscholar.org/paper/64b8953b352fb190e67333e0a4db15d2f5028793",
+      "title": "Optimal Sequential Resource Sharing and Exchange in Multi-Agent Systems",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This dissertation proposes an optimal, distributed, easy-to-implement resource sharing policy that achieves Pareto optimal outcomes at the equilibrium, and proposes the first rating protocol that can achieve the social optimum at theilibrium under imperfect monitoring of the service quality."
+      },
+      "authors": [
+        {
+          "authorId": "33300770",
+          "name": "Yuanzhang Xiao"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c0b0a47fcf711311f46dff124d44fc8e82d33e5a",
+      "url": "https://www.semanticscholar.org/paper/c0b0a47fcf711311f46dff124d44fc8e82d33e5a",
+      "title": "Peer to Peer Solar Energy Trading Demonstrator Blockchain-enabled",
+      "venue": "2023 11th International Conference on Smart Grid (icSmartGrid)",
+      "year": 2023,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/icSmartGrid58556.2023.10171013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/icSmartGrid58556.2023.10171013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The results show how automated P2P commerce and adjustable energy storage enable end users to save energy and become more independent and illustrates how blockchain technology can be used to increase the safety of energy management systems."
+      },
+      "authors": [
+        {
+          "authorId": "2078361652",
+          "name": "A. Boumaiza"
+        },
+        {
+          "authorId": "46172145",
+          "name": "A. Sanfilippo"
+        }
+      ],
+      "abstract": "By combining distributed generation, battery storage, and smart meters, microgrid performance can be enhanced. As a result, distributed energy resources (DER) can be intelligently controlled via online platforms. Through integration, prosumers that use decentralized resources like wind power have replaced conventional power customers. Due to the growth and digitalization of the power distribution infrastructure, a new method of exchanging electricity in community microgrids called peer-to-peer (P2P) intratrading has emerged. Blockchain technology is used because it is transparent, secure, and completes transactions quickly. Prosumers, consumers, and owners of renewable energy sources may now trade energy more easily amongst one another. This study develops the P2P paradigm to create a self-sufficient community microgrid system for trading energy. Incorporating peer-to-peer energy trades and a battery backup system, the suggested technique uses blockchain to simulate a decentralized microgrid energy market. The microgrid P2P market's clearing price is established by taking into account customers' expected reactions to price changes, incentivizing consumers and prosumers to alter their patterns of energy usage. A cryptocurrency called Cosmos that is mined and distributed using blockchain technology is also included in the P2P market idea. The results show how automated P2P commerce and adjustable energy storage enable end users to save energy and become more independent. This paper provides a sustainable microgrid energy market model and suggests an approach to improve security by incorporating blockchain technology into current energy management systems. In summary, the paper offers a design paradigm for an independent microgrid system that makes use of distributed energy sources. It demonstrates how end users may gain from energy efficiency and independence while highlighting the possibilities of P2P energy trade and storage variety offered by blockchain. This thorough method provides information on creating a sustainable microgrid energy market and illustrates how blockchain technology can be used to increase the safety of energy management systems."
+    },
+    {
+      "paperId": "3d2eb34d5d71df848210cb0920b3b884a1a011e6",
+      "url": "https://www.semanticscholar.org/paper/3d2eb34d5d71df848210cb0920b3b884a1a011e6",
+      "title": "Distributed Power Control with Multiple Agents in a Distributed Base Station Scheme Using Macrodiversity",
+      "venue": "Safety-critical Systems Symposium",
+      "year": 2009,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-05118-0_35?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-05118-0_35, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed design is shown to provide efficient use of macrodiversity resources and high energy efficiency when compared with more traditional algorithms, thus making low-cost electronic implementation practical."
+      },
+      "authors": [
+        {
+          "authorId": "2054422831",
+          "name": "P. Leroux"
+        },
+        {
+          "authorId": "144520793",
+          "name": "S. Roy"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "329ab010892af40a0ea1030cc34f2e17cc5ac0d0",
+      "url": "https://www.semanticscholar.org/paper/329ab010892af40a0ea1030cc34f2e17cc5ac0d0",
+      "title": "The Semantic Web - ISWC 2005, 4th International Semantic Web Conference, ISWC 2005, Galway, Ireland, November 6-10, 2005, Proceedings",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2005,
+      "citationCount": 560,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11574620?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11574620, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Semantic Acceleration Helping Realize the Semantic Web Vision or \"The Practical Web\", research/Academic track."
+      },
+      "authors": [
+        {
+          "authorId": "2340989888",
+          "name": "Katherine Wolstencroft"
+        },
+        {
+          "authorId": "2340986941",
+          "name": "Yolanda Gil"
+        },
+        {
+          "authorId": "2286014011",
+          "name": "Enrico Motta"
+        },
+        {
+          "authorId": "2263608623",
+          "name": "V. R. Benjamins"
+        },
+        {
+          "authorId": "1680938",
+          "name": "M. Musen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7f70232fac40e40173964dabdbe23549ed3c2753",
+      "url": "https://www.semanticscholar.org/paper/7f70232fac40e40173964dabdbe23549ed3c2753",
+      "title": "Service-Oriented Computing - ICSOC 2008, 6th International Conference, Sydney, Australia, December 1-5, 2008. Proceedings",
+      "venue": "International Conference on Service Oriented Computing",
+      "year": 2008,
+      "citationCount": 132,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-89652-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-89652-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Web Scale Computing: The Power of Infrastructure as a Service and Services in the Long Tail World: Challenges and Opportunities are presented."
+      },
+      "authors": [
+        {
+          "authorId": "1705708",
+          "name": "A. Bouguettaya"
+        },
+        {
+          "authorId": "2085760694",
+          "name": "I. Krueger"
+        },
+        {
+          "authorId": "1772793",
+          "name": "T. Margaria"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "338d67982c5e57b6c63033a8dde01dcf79b71f57",
+      "url": "https://www.semanticscholar.org/paper/338d67982c5e57b6c63033a8dde01dcf79b71f57",
+      "title": "Introduction to the Special Issue on Evolving IoT and Cyber-Physical Systems: Advancements, Applications, and Solutions",
+      "venue": "Scalable Computing : Practice and Experience",
+      "year": 2020,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://www.scpe.org/index.php/scpe/article/download/1568/662",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.12694/scpe.v21i3.1568?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12694/scpe.v21i3.1568, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The objective of this special issue is to explore and report recent advances and disseminate state-of-the-art research related to IoT, CPS and the enabling and associated technologies and to present new dimensions of research to researchers and industry professionals with regard to IoT and CPS."
+      },
+      "authors": [
+        {
+          "authorId": "3286242",
+          "name": "A. Nayyar"
+        },
+        {
+          "authorId": "33216336",
+          "name": "P. K. Pramanik"
+        },
+        {
+          "authorId": "3220136",
+          "name": "R. Mohana"
+        }
+      ],
+      "abstract": "Internet of Things (IoT) is regarded as a next-generation wave of Information Technology (IT) after the widespread emergence of the Internet and mobile communication technologies. IoT supports information exchange and networked interaction of appliances, vehicles and other objects, making sensing and actuation possible in a low-cost and smart manner. \n\u00a0 \nOn the other hand, cyber-physical systems (CPS) are described as the engineered systems which are built upon the tight integration of the cyber entities (e.g., computation, communication, and control) and the physical things (natural and man-made systems governed by the laws of physics). \n\u00a0 \nThe IoT and CPS are not isolated technologies. Rather it can be said that IoT is the base or enabling technology for CPS and CPS is considered as the grownup development of IoT, completing the IoT notion and vision. Both are merged into closed-loop, providing mechanisms for conceptualizing, and realizing all aspects of the networked composed systems that are monitored and controlled by computing algorithms and are tightly coupled among users and the Internet. That is, the hardware and the software entities are intertwined, and they typically function on different time and location-based scales. In fact, the linking between the cyber and the physical world is enabled by IoT (through sensors and actuators). CPS that includes traditional embedded and control systems are supposed to be transformed by the evolving and innovative methodologies and engineering of IoT. \n\u00a0 \nSeveral applications areas of IoT and CPS are smart building, smart transport, automated vehicles, smart cities, smart grid, smart manufacturing, smart agriculture, smart healthcare, smart supply chain and logistics, etc. \nThough CPS and IoT have significant overlaps, they differ in terms of engineering aspects. Engineering IoT systems revolves around the uniquely identifiable and internet-connected devices and embedded systems; whereas engineering CPS requires a strong emphasis on the relationship between computation aspects (complex software) and the physical entities (hardware). \n\u00a0 \nEngineering CPS is challenging because there is no defined and fixed boundary and relationship between the cyber and physical worlds. In CPS, diverse constituent parts are composed and collaborated together to create unified systems with global behaviour. These systems need to be ensured in terms of dependability, safety, security, efficiency, and adherence to real\u2010time constraints. Hence, designing CPS requires knowledge of multidisciplinary areas such as sensing technologies, distributed systems, pervasive and ubiquitous computing, real-time computing, computer networking, control theory, signal processing, embedded systems, etc. \n\u00a0 \nCPS, along with the continuous evolving IoT, has posed several challenges. For example, the enormous amount of data collected from the physical things makes it difficult for Big Data management and analytics that includes data normalization, data aggregation, data mining, pattern extraction and information visualization. Similarly, the future IoT and CPS need standardized abstraction and architecture that will allow modular designing and engineering of IoT and CPS in global and synergetic applications. Another challenging concern of IoT and CPS is the security and reliability of the components and systems. \n\u00a0 \nAlthough IoT and CPS have attracted the attention of the research communities and several ideas and solutions are proposed, there are still huge possibilities for innovative propositions to make IoT and CPS vision successful. The major challenges and research scopes include system design and implementation, computing and communication, system architecture and integration, application-based implementations, fault tolerance, designing efficient algorithms and protocols, availability and reliability, security and privacy, energy-efficiency and sustainability, etc. \n\u00a0 \nIt is our great privilege to present Volume 21, Issue 3 of Scalable Computing: Practice and Experience. We had received 30 research papers and out of which 14 papers are selected for publication. The objective of this special issue is to explore and report recent advances and disseminate state-of-the-art research related to IoT, CPS and the enabling and associated technologies. The special issue will present new dimensions of research to researchers and industry professionals with regard to IoT and CPS. \n\u00a0 \nVivek Kumar Prasad and Madhuri D Bhavsar in the paper titled \"Monitoring and Prediction of SLA for IoT based Cloud described the mechanisms for monitoring by using the concept of reinforcement learning and prediction of the cloud resources, which forms the critical parts of cloud expertise in support of controlling and evolution of the IT resources and has been implemented using LSTM. The proper utilization of the resources will generate revenues to the provider and also increases the trust factor of the provider of cloud services. For experimental analysis, four parameters have been used i.e. CPU utilization, disk read/write throughput and memory utilization. \n\u00a0 \nKasture et al. in the paper titled \"Comparative Study of Speaker Recognition Techniques in IoT Devices for Text Independent Negative Recognition\" compared the performance of features which are used in state of art speaker recognition models and analyse variants of Mel frequency cepstrum coefficients (MFCC) predominantly used in feature extraction which can be further incorporated and used in various smart devices. \n\u00a0 \nMahesh Kumar Singh and Om Prakash Rishi in the paper titled \"Event Driven Recommendation System for E-Commerce using Knowledge based Collaborative Filtering Technique\" proposed a novel system that uses a knowledge base generated from knowledge graph to identify the domain knowledge of users, items, and relationships among these, knowledge graph is a labelled multidimensional directed graph that represents the relationship among the users and the items. The proposed approach uses about 100 percent of users' participation in the form of activities during navigation of the web site. Thus, the system expects under the users' interest that is beneficial for both seller and buyer. The proposed system is compared with baseline methods in area of recommendation system using three parameters: precision, recall and NDGA through online and offline evaluation studies with user data and it is observed that proposed system is better as compared to other baseline systems. \n\u00a0 \nBenbrahim et al. in the paper titled \"Deep Convolutional Neural Network with TensorFlow and Keras to Classify Skin Cancer\" proposed a novel classification model to classify skin tumours in images using Deep Learning methodology and the proposed system was tested on HAM10000 dataset comprising of 10,015 dermatoscopic images and the results observed that the proposed system is accurate in order of 94.06\\% in validation set and 93.93\\% in the test set. \n\u00a0 \nDevi B et al. in the paper titled \"Deadlock Free Resource Management Technique for IoT-Based Post Disaster Recovery Systems\" proposed a new class of techniques that do not perform stringent testing before allocating the resources but still ensure that the system is deadlock-free and the overhead is also minimal. The proposed technique suggests reserving a portion of the resources to ensure no deadlock would occur. The correctness of the technique is proved in the form of theorems. The average turnaround time is approximately 18\\% lower for the proposed technique over Banker's algorithm and also an optimal overhead of O(m). \n\u00a0 \nDeep et al. in the paper titled \"Access Management of User and Cyber-Physical Device in DBAAS According to Indian IT Laws Using Blockchain\" proposed a novel blockchain solution to track the activities of employees managing cloud. Employee authentication and authorization are managed through the blockchain server. User authentication related data is stored in blockchain. The proposed work assists cloud companies to have better control over their employee's activities, thus help in preventing insider attack on User and Cyber-Physical Devices. \n\u00a0 \nSumit Kumar and Jaspreet Singh in paper titled \"Internet of Vehicles (IoV) over VANETS: Smart and Secure Communication using IoT\" highlighted a detailed description of Internet of Vehicles (IoV) with current applications, architectures, communication technologies, routing protocols and different issues. The researchers also elaborated research challenges and trade-off between security and privacy in area of IoV. \n\u00a0 \nDeore et al. in the paper titled \"A New Approach for Navigation and Traffic Signs Indication Using Map Integrated Augmented Reality for Self-Driving Cars\" proposed a new approach to supplement the technology used in self-driving cards for perception. The proposed approach uses Augmented Reality to create and augment artificial objects of navigational signs and traffic signals based on vehicles location to reality. This approach help navigate the vehicle even if the road infrastructure does not have very good sign indications and marking. The approach was tested locally by creating a local navigational system and a smartphone based augmented reality app. The approach performed better than the conventional method as the objects were clearer in the frame which made it each for the object detection to detect them. \n\u00a0 \nBhardwaj et al. in the paper titled \"A Framework to Systematically Analyse the Trustworthiness of Nodes for Securing IoV Interactions\" performed literature on IoV and Trust and proposed a Hybrid Trust model that seperates the malicious and trusted nodes to secure the interaction of vehicle in IoV. To test the model, simulation was conducted on varied threshold values. And results observed that PDR of trusted node is 0.63 which is higher as compared to PDR of malicious node which is 0.15. And on the basis of PDR, number of available hops and Trust Dynamics the malic"
+    },
+    {
+      "paperId": "d47fe2a676da8a9abde4c7568f9ded044486ec49",
+      "url": "https://www.semanticscholar.org/paper/d47fe2a676da8a9abde4c7568f9ded044486ec49",
+      "title": "Distributed configuration of sensor networks for parameter estimation in spatio-temporal systems",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The aim of the research reported here was to develop a practical approach to sensor selection which, while being independent of a particular model of the dynamic DPS in question, would be versatile enough to cope with practical monitoring networks consisting of many stationary sensors."
+      },
+      "authors": [
+        {
+          "authorId": "1801951",
+          "name": "M. Patan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "53a30123524f383e450d8574228f52bddf98aa2b",
+      "url": "https://www.semanticscholar.org/paper/53a30123524f383e450d8574228f52bddf98aa2b",
+      "title": "Architecture of Computing Systems - ARCS 2010, 23rd International Conference, Hannover, Germany, February 22-25, 2010. Proceedings",
+      "venue": "ARCS",
+      "year": 2010,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-11950-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-11950-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The HyVM - Hybrid Virtual Machines - Efficient Use of Future Heterogeneous Chip Multiprocessors and Processor Design, Processor Design and Transactional Memory are presented."
+      },
+      "authors": [
+        {
+          "authorId": "1398022694",
+          "name": "C. M\u00fcller-Schloer"
+        },
+        {
+          "authorId": "1751800",
+          "name": "Wolfgang Karl"
+        },
+        {
+          "authorId": "1738667",
+          "name": "S. Yehia"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e3f5ef8cc4c97435ed74aa2d5d9fba436766c8ba",
+      "url": "https://www.semanticscholar.org/paper/e3f5ef8cc4c97435ed74aa2d5d9fba436766c8ba",
+      "title": "Optimal Integration of Battery Energy Storage and Transportation Electrification in Distribution Grids",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Modeling of the solar energy generation, load demand, and EV charging load, the integration of battery energy storage system (BESS) in the power grids, and the large scale accommodation of EV loads are addressed and a probability model based on kernel density estimator is proposed which provides a low-computation precise stochastic model."
+      },
+      "authors": [
+        {
+          "authorId": "48615286",
+          "name": "B. Khaki"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "1a9696cf944144c2448eb1e5953c380c8c3afb66",
+      "url": "https://www.semanticscholar.org/paper/1a9696cf944144c2448eb1e5953c380c8c3afb66",
+      "title": "Proceedings of the 2009 workshop on Bio-inspired algorithms for distributed systems, BADS@ICAC 2009, Barcelona, Spain, June 19, 2009",
+      "venue": "BADS@ICAC",
+      "year": 2009,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1145/1555284?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/1555284, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The success of this workshop confirms that distributed computing systems are a very natural application field for bio-inspired algorithms and protocols, as they can be used to solve hard parallel and distributed computational problems by imitating the autonomic nature of distributed systems."
+      },
+      "authors": [
+        {
+          "authorId": "1722716",
+          "name": "G. Folino"
+        },
+        {
+          "authorId": "1712183",
+          "name": "N. Krasnogor"
+        },
+        {
+          "authorId": "1802472",
+          "name": "C. Mastroianni"
+        },
+        {
+          "authorId": "1684412",
+          "name": "F. Zambonelli"
+        }
+      ],
+      "abstract": "It is our great pleasure to welcome you to BADS 2009, the Workshop on Bio-Inspired Algorithms for Distributed Systems. The aim of the workshop is to provide a forum to explore the applications of bio-inspired algorithms and protocols in different kinds of distributed computing systems, and discuss the main trends and challenges for the next few years. \n \nComputer systems are characterized by an ever growing complexity and a pronounced distributed nature. While the use of centralized or hierarchical architectures and algorithms has been dominant so far, they are now becoming impractical because they have poor scalability and fault-tolerance characteristics. Decentralized architectures and algorithms, for example P2P and Grid systems, are increasingly popular, but to be efficiently managed they need new types of algorithms. \n \nBio-inspired algorithms are proving effective in this context, as they can be used to solve hard parallel and distributed computational problems by imitating the autonomic nature of distributed systems, in this way achieving fault-tolerant and self-adaptive behavior. These algorithms can be inspired by a number of biological systems, including ant colonies, bird flocking, honey bees, bacteria, and many more. In other cases the adopted techniques are \"evolutionary\", as they exploit genetic rules for the selection and the recombination of candidate solutions. \n \nThe success of this workshop confirms that distributed computing systems are a very natural application field for bio-inspired algorithms and protocols. The BADS workshop includes one invited paper and 11 research papers selected through an accurate review process, which allowed us to select among 20 manuscripts submitted from Africa, Asia, Brazil, United States and many European Countries. \n \nThe workshop is organized in four sessions, with the papers grouped according to the application area on which the bio-inspired algorithms are exploited. The four sessions are dedicated, respectively, to Grid computing, distributed systems and P2P, sensor and wireless environments, and parallel architectures. \n \nGrid Computing. Four papers are specifically dedicated to Grid computing. The paper by Gonzalez et al. analyzes the behavior of Parallel Genetic Programming (PGP) applications executing in distributed platforms with high failure rates, with the goal of characterizing the inherent fault tolerance capabilities of the PGP paradigm. Two well-known GP problems, \"even parity 5\" and \"11-multiplexer\", are examined via simulation by using trace data collected from real-world Desktop Grid platforms. Experiments show that the PGP paradigm exhibits satisfying fault tolerance properties even in very dynamic environments. \n \nThe paper by Brocco et al. presents and evaluates an ant-inspired algorithm that aims to reduce the overall network traffic in a Grid. Mobile agents move across the Grid and add or remove logical links exploiting local information, in order to optimize the network topology. The paper also introduces an effective resource discovery algorithm that executes over the obtained topology and uses cache information exchanged among the nodes via a gossiping mechanism. \n \nThe paper by Brun and Medvidovic shows how the natural process of crystal growth can inspire computational mechanisms that are easily susceptible to large-scale parallelization, fault tolerance, and uniform representation of data and computation, which favors data management and mobility. After summarizing the crystal-inspired solutions to some complex problems, for example the SubsetSum NP-complete problem, the authors describe how these techniques can also be devised for distributed systems and specifically computational Grids. The proposed approach ensures scalability, privacy of data, and tolerance of a wide range of faults and malicious attacks. \n \nDe Falco et al. propose the use of a multi-objective Differential Evolution (DE) algorithm that finds near-optimal solutions to map the communicating tasks of a computational intensive application on multisite Grid nodes. The authors extend the classical DE paradigm to cope with this problem, also by introducing a novel operator that allows a subset of similar tasks to be allocated on the nodes of a cluster. The algorithm is defined, implemented and evaluated in many simulated scenarios by varying the load and reliability of the nodes, so reproducing a real world environment. \n \nDistributed Systems and P2P. Three papers focus on general purpose distributed systems and P2P networks. The paper by Korosec and Silic proposes a distributed ant-colony optimization technique to solve black-box global optimization problems. Prior to the application of the distributed ant algorithm, the problem space is discretized and a search graph of the problem is built. The algorithm exhibits good scalability properties in the scenarios where the black-box execution time dominates the time taken by the ants to search the global optimum. Scalability can be further improved by using a larger number of ants. \n \nOhnishi et al. use an evolutionary-based approach to adaptively change the topology of a dynamic P2P network and improve the reliability of search procedures. The topology of the network is conveniently represented as an individual of the evolutionary algorithm, and crossover and mutation operator are used to change the network topology. The algorithm is evaluated on two different scenarios, with and without replicating the resources: the evolutionary approach proves to be particularly effective without replication. \n \nThe paper by Bicocchi et al. aims to handle dynamics in diffusive aggregation schemas using a technique based on a classical gossiping technique and on a novel method named \"evaporation\". The latter is based on the search behavior of ants following pheromone trails, and tends to promote up-to-date values while making old values evaporate. The method avoids the need for periodic restarts present in standard gossiping techniques. Experimental results assess the efficiency of the method especially for large-scale networks. \n \nSensor and Wireless Networks. This session collects three papers that focus on sensor and wireless networks and, more specifically, deal with the important issue of energy saving. The invited paper by Hernandez and Blum discusses and analyzes a self-organizing mechanism that exploits the energy harvesting capabilities of a network of mobile sensors. The mechanism is inspired by the self-synchronized sleeping patterns observed in ant colonies. Correspondingly, each sensor switches between the active and the inactive state on the basis of its state parameters, the amount of energy harvested with its solar cells, and the information received by neighbor sensors. The approach is evaluated in conditions that are easily encountered in real world applications, such as de-synchronized sensor clocks, random direction mobility of sensors, and varying weather conditions influencing the amount of solar energy collected by the sensors. \n \nGarbinato et al. present a novel approach to disseminating information in a sensor network. This approach combines the decentralized and stateless properties of gossiping protocols, which assure low resource consumption, with the high reliability that is typical of structured protocols. Reliability is obtained by modulating the transmission range of sensors in accordance with a power law statistical distribution. If compared with classical gossiping protocols, the small-world and scale-free nature of the presented approach allows sensors to obtain equivalent delivery ratios with lower energy consumption. \n \nDe Rango and Tropea present a routing algorithm for mobile ad hoc networks. This algorithm utilizes swarm intelligence techniques, in particular an ant colony optimization algorithm, to discover minimum drain rate paths, so combining traffic load balancing and energy saving. The main novelty of the approach consists in using quantitative metrics for energy saving and traffic load distribution in the pheromone update phase. The algorithm efficiency is proved through comparison, via NS2 simulation, with two currently adopted routing algorithms. \n \nParallel Architectures. The session on algorithms for parallel architectures comprises two papers that exploit innovative techniques: algorithms for GPU-based architectures and DNA computing algorithms. Robilliard et al. analyze the possibilities offered by modern Graphics Processing Units (GPU) for implementing genetic programming. They evaluate and compare the performance of GP obtained by using two parallelization schemas, namely BlockGP and ThreadGP. The paper draws some important lessons for optimizing evolutionary algorithms on GPU-based architectures. \n \nIn their paper, Iaccarino and Mazza propose a performance improvement of a recent DNA computing algorithm. This method is applied to an intractable problem in the field of cryptography, the \"elliptic curve discrete logarithm\" problem. In particular, the authors build the model of a parallel multiplier and adder, which outperforms the existing methods in terms of the worst case time complexity. \n \nThe categorization of the workshop papers in accordance with the corresponding application domains clearly confirms the wide range of practical applications that may benefit from the adoption of bio-inspired algorithms, and the inherent capacity of these algorithms to be exploited in emerging domains such as sensor networks, Grids, P2P networks, and multi-core processors."
+    },
+    {
+      "paperId": "fa1094d6a7b4ead96a59ea261d08b96158ac3920",
+      "url": "https://www.semanticscholar.org/paper/fa1094d6a7b4ead96a59ea261d08b96158ac3920",
+      "title": "Proceedings of the 3rd workshop on Biologically inspired algorithms for distributed systems",
+      "venue": "International Conference on Automation and Computing",
+      "year": 2011,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A forum for exploring bio-inspired and self-* algorithms to build autonomic distributed systems that can organize, configure, optimize, scale, protect and/or heal themselves with minimal human intervention, and the benefits and challenges to apply the notion of self-organization for the development of distributed systems."
+      },
+      "authors": [
+        {
+          "authorId": "1722716",
+          "name": "G. Folino"
+        },
+        {
+          "authorId": "1802472",
+          "name": "C. Mastroianni"
+        },
+        {
+          "authorId": "1714662",
+          "name": "Sanaz Mostaghim"
+        },
+        {
+          "authorId": "122573052",
+          "name": "J. Suzuki"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "87d579d990c819706c300c788da971e0c3a3c40f",
+      "url": "https://www.semanticscholar.org/paper/87d579d990c819706c300c788da971e0c3a3c40f",
+      "title": "NETWORKING 2006. Networking Technologies, Services, and Protocols; Performance of Computer and Communication Networks; Mobile and Wireless Communications Systems",
+      "venue": "Lecture Notes in Computer Science",
+      "year": 2006,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/bfm:978-3-540-34193-2/1?pdf=chapter%20toc",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11753810?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11753810, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Scheme to provide Proportionally Differentiated End-to-End Packet Delay in Wireless Multi-hop Ad Hoc Networks and the Design and Implementation of a Quality-Based Handover Trigger are outlined."
+      },
+      "authors": [
+        {
+          "authorId": "1687051",
+          "name": "F. Boavida"
+        },
+        {
+          "authorId": "1705423",
+          "name": "T. Plagemann"
+        },
+        {
+          "authorId": "9304846",
+          "name": "B. Stiller"
+        },
+        {
+          "authorId": "1682374",
+          "name": "C. Westphal"
+        },
+        {
+          "authorId": "145671147",
+          "name": "E. Monteiro"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8cc81b2221c225e0d89612e4edebb8fbb5fb14a0",
+      "url": "https://www.semanticscholar.org/paper/8cc81b2221c225e0d89612e4edebb8fbb5fb14a0",
+      "title": "Advances in information security and assurance : Third International Conference and Workshops, ISA 2009, Seoul, Korea, June 25-27, 2009 : proceedings",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Cyber-attack and Cyber-terrorism, Secure Multi-party Computation using Virtual Parties for Computation on Encrypted Data, and Security Evaluation of an Intrusion Tolerant Web Service Architecture using Stochastic Activity Networks."
+      },
+      "authors": [
+        {
+          "authorId": "66992652",
+          "name": "Assurance"
+        },
+        {
+          "authorId": "2109283285",
+          "name": "J. Park"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "5c824586563fd992aa5ab78b1d088d4038f3f5b6",
+      "url": "https://www.semanticscholar.org/paper/5c824586563fd992aa5ab78b1d088d4038f3f5b6",
+      "title": "Emerging Directions in Embedded and Ubiquitous Computing, EUC 2007 Workshops: TRUST, WSOC, NCUS, UUWSN, USN, ESO, and SECUBIQ, Taipei, Taiwan, December 17-20, 2007, Proceedings",
+      "venue": "EUC Workshops",
+      "year": 2007,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/978-3-540-77090-9",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-77090-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-77090-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "69544235",
+          "name": "Wsoc"
+        },
+        {
+          "authorId": "69489175",
+          "name": "Ncus"
+        },
+        {
+          "authorId": "69388823",
+          "name": "Uuwsn"
+        },
+        {
+          "authorId": "118915769",
+          "name": "Usn"
+        },
+        {
+          "authorId": "96845244",
+          "name": "Es\u0151"
+        },
+        {
+          "authorId": "69414270",
+          "name": "SecUbiq"
+        },
+        {
+          "authorId": "1749167",
+          "name": "M. Denko"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9db4f2c7075ab83b3cc4379d5deaa772c883e932",
+      "url": "https://www.semanticscholar.org/paper/9db4f2c7075ab83b3cc4379d5deaa772c883e932",
+      "title": "Network-Based Information Systems, First International Conference, NBiS 2007, Regensburg, Germany, September 3-7, 2007, Proceedings",
+      "venue": "International Conference on Network-Based Information Systems",
+      "year": 2007,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-74573-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-74573-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Improvement of JXTA Protocols for Supporting Reliable Distributed Applications in P2P Systems and Applications and Guidelines for Network Service Pricing are published."
+      },
+      "authors": [
+        {
+          "authorId": "52121124",
+          "name": "\u698e\u6238 \u667a\u4e5f"
+        },
+        {
+          "authorId": "1706664",
+          "name": "L. Barolli"
+        },
+        {
+          "authorId": "52122190",
+          "name": "\u6edd\u6ca2 \u8aa0"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d66291196c84dba38d42abcfdc1ab4676a977245",
+      "url": "https://www.semanticscholar.org/paper/d66291196c84dba38d42abcfdc1ab4676a977245",
+      "title": "Network and parallel computing : IFIP International Conference, NPC 2007, Dalian, China, September 18-21, 2007 : proceedings",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Scheduling Model for Maximizing Availability with Makespan Constraint Based on Residual Lifetime in Heterogeneous Clusters and a Dynamic Adjustment Strategy for File Transformation in Data Grids are presented."
+      },
+      "authors": [
+        {
+          "authorId": "2262091085",
+          "name": "Keqiu Li"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "03bd8dfc7ab1343c9998b67f400535e970434804",
+      "url": "https://www.semanticscholar.org/paper/03bd8dfc7ab1343c9998b67f400535e970434804",
+      "title": "Agent and multi-agent systems : technologies and applications : First KES International Symposium, KES-AMSTA 2007, Wroclaw, Poland, May 31 - June 1, 2007 : proceedings",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Main Track: Methodological Aspects of Agent Systems and Mobility Aspects of Agent Systems."
+      },
+      "authors": [
+        {
+          "authorId": "1403968948",
+          "name": "Kes-Amsta"
+        },
+        {
+          "authorId": "2287329678",
+          "name": "Ngoc Thanh Nguyen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "993311a990692c1520f9004bb7dee03a973e3936",
+      "url": "https://www.semanticscholar.org/paper/993311a990692c1520f9004bb7dee03a973e3936",
+      "title": "Computational science and its applications : ICCSA 2004, International Conference, Assisi, Italy, May 14-17, 2004 : proceedings",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Decision Tree Algorithm for Distributed Data Mining: Towards Network Intrusion Detection and Maximizing Parallelism for Nested Loops with Non-uniform Dependences."
+      },
+      "authors": [
+        {
+          "authorId": "3929775",
+          "name": "A. Lagan\u00e0"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "014b3e333e7e1d741083ab9d6666d453acc4d615",
+      "url": "https://www.semanticscholar.org/paper/014b3e333e7e1d741083ab9d6666d453acc4d615",
+      "title": "Operations research '93 : Extended abstracts of the 18th Symposium on Operations Research held at the University of Cologne, September 1-3, 1993",
+      "venue": "",
+      "year": 1994,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The Scheduling Problem in High-Level Synthesis: Extended 0/1 LP Model and Solution Methods and some Remarks on Dependence Among the Consistency Tests are published."
+      },
+      "authors": [
+        {
+          "authorId": "3329708",
+          "name": "A. Bachem"
+        },
+        {
+          "authorId": "3144964",
+          "name": "U. Derigs"
+        },
+        {
+          "authorId": "145004412",
+          "name": "M. J\u00fcnger"
+        },
+        {
+          "authorId": "144730063",
+          "name": "R. Schrader"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

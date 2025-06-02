@@ -1,0 +1,666 @@
+{
+  "total": 203,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "05694bfbb9d9c358e539c70a6a18a0bc9fbd2486",
+      "url": "https://www.semanticscholar.org/paper/05694bfbb9d9c358e539c70a6a18a0bc9fbd2486",
+      "title": "Advancing Complex Task Management Through Multi-Agent Systems: Evolution and Transformation of Distributed AI Platforms",
+      "venue": "Journal of Computer Science and Technology Studies",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.32996/jcsts.2025.7.3.93?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32996/jcsts.2025.7.3.93, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The continuous evolution of MAS technology promises to further enhance distributed intelligence capabilities while addressing critical challenges in security, scalability, and system adaptation."
+      },
+      "authors": [
+        {
+          "authorId": "2363412124",
+          "name": "Mohan Singh"
+        }
+      ],
+      "abstract": "Multi-agent systems represent a transformative advancement in artificial intelligence, fundamentally changing how complex tasks are managed across distributed environments. These systems demonstrate exceptional capabilities in coordinating autonomous agents for sophisticated problem-solving across various domains. From enterprise operations to smart infrastructure management, MAS implementations have revolutionized traditional approaches through enhanced coordination mechanisms and adaptive learning capabilities. The integration of machine learning and advanced communication protocols has enabled unprecedented levels of system flexibility and resilience. In industrial applications, these systems have transformed manufacturing processes, supply chain operations, and resource management through intelligent automation and real-time optimization. Looking forward, emerging trends in self-organizing systems, ethical decision frameworks, and collective learning mechanisms suggest even greater potential for advancement. The continuous evolution of MAS technology promises to further enhance distributed intelligence capabilities while addressing critical challenges in security, scalability, and system adaptation."
+    },
+    {
+      "paperId": "66098cff05d84454084aa442640c98c076f375f2",
+      "url": "https://www.semanticscholar.org/paper/66098cff05d84454084aa442640c98c076f375f2",
+      "title": "Advancing Multi-Agent Systems Through Model Context Protocol: Architecture, Implementation, and Applications",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2504.21030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive framework for advancing multi-agent systems through Model Context Protocol (MCP), addressing these challenges through standardized context sharing and coordination mechanisms through standardized context sharing and coordination mechanisms is introduced."
+      },
+      "authors": [
+        {
+          "authorId": "2358261466",
+          "name": "Naveen Krishnan"
+        }
+      ],
+      "abstract": "Multi-agent systems represent a significant advancement in artificial intelligence, enabling complex problem-solving through coordinated specialized agents. However, these systems face fundamental challenges in context management, coordination efficiency, and scalable operation. This paper introduces a comprehensive framework for advancing multi-agent systems through Model Context Protocol (MCP), addressing these challenges through standardized context sharing and coordination mechanisms. We extend previous work on AI agent architectures by developing a unified theoretical foundation, advanced context management techniques, and scalable coordination patterns. Through detailed implementation case studies across enterprise knowledge management, collaborative research, and distributed problem-solving domains, we demonstrate significant performance improvements compared to traditional approaches. Our evaluation methodology provides a systematic assessment framework with benchmark tasks and datasets specifically designed for multi-agent systems. We identify current limitations, emerging research opportunities, and potential transformative applications across industries. This work contributes to the evolution of more capable, collaborative, and context-aware artificial intelligence systems that can effectively address complex real-world challenges."
+    },
+    {
+      "paperId": "d919bdbbca3c3305bb5d11a82fef7495867c1fd6",
+      "url": "https://www.semanticscholar.org/paper/d919bdbbca3c3305bb5d11a82fef7495867c1fd6",
+      "title": "Secure Distributed Adaptive Control of Nonlinear Multi-Agent Systems",
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2024.3493136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2024.3493136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2292341300",
+          "name": "Yongxia Shi"
+        },
+        {
+          "authorId": "2281985503",
+          "name": "Ehsan Nekouei"
+        }
+      ],
+      "abstract": "This paper addresses the problem of secure consensus tracking control for nonlinear leader-follower multi-agent systems, with a specific focus on safeguarding followers\u2019 private information from external network eavesdroppers or internal untrusted neighbors. To tackle this problem, we first employ the dynamic linearization approximation technique to transform the nonlinear system models into equivalent linear forms that involve unknown time-varying pseudopartial derivatives. Then, a novel model-free secure distributed adaptive control (MFSDAC) framework is proposed using an encoding-decoding mechanism and Paillier encryption. Within this framework, we develop a secure distributed control scheme using a recursive form and design an adaptive updating law with a modified projection to estimate the time-varying pseudoparial derivatives. To enhance security, we introduce an adjustable parameter and a random integer into the distributed communication protocol, effectively preventing the disclosure of followers\u2019 data during both network transmissions and controller evaluations. Additionally, parameter selection rules for the controller, quantizer, and adaptive updating law are provided, along with convergence analysis and guarantees against quantizer saturation. Finally, numerical simulations confirm that the proposed MFSDAC framework successfully achieves leader-following tracking and secure data transmission, even in the presence of external network eavesdroppers or internal untrusted neighbors. Note to Practitioners\u2014Multi-agent systems (MASs) provide a versatile framework for modeling and understanding various real-world applications, including autonomous systems, traffic management, and distributed sensor networks. Designing effective control strategies for MASs is essential to enhance cooperation and coordination among agents, strengthen system-level resilience and adaptability, and tackle complex tasks that surpass the capabilities of individual agents. A key challenge in this area is ensuring network security and protecting individual privacy, especially in the presence of external eavesdroppers and untrusted internal neighbors. To tackle this challenge, we propose a model-free secure distributed adaptive control framework for nonlinear leader-follower MASs. This framework incorporates a confidential communication protocol that leverages homomorphic encryption to protect sensitive information. The proposed framework has undergone rigorous stability analysis and been validated through numerical simulations, demonstrating its feasibility and effectiveness in achieving secure consensus control of nonlinear MASs."
+    },
+    {
+      "paperId": "9b4a98bd590621e6db3e50eb1afb7195d70ad48c",
+      "url": "https://www.semanticscholar.org/paper/9b4a98bd590621e6db3e50eb1afb7195d70ad48c",
+      "title": "High-Level Communication Protocol in a Distributed Multiagent System",
+      "venue": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+      "year": 1998,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/3-540-64582-9_792?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/3-540-64582-9_792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper considers the organization of agents in a physical distributed universe, the management of their interactions, and the way to detect and resolve conflicts, and defines a communication model which takes into account all possible conflicting cases and the established communication models and modes."
+      },
+      "authors": [
+        {
+          "authorId": "2154807",
+          "name": "W. Chaari"
+        },
+        {
+          "authorId": "1400899125",
+          "name": "F. Mouria-beji"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "80639d4f8dec2ebb5ec0f904754eb8f8595e98f0",
+      "url": "https://www.semanticscholar.org/paper/80639d4f8dec2ebb5ec0f904754eb8f8595e98f0",
+      "title": "Distributed Multi-Agent Coordination System Based on Extended CNP",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The distributed multi-Agent coordination system is designed based on the extended CNP, which has good extension capability for Agents with different function to be imported dynamically and easily."
+      },
+      "authors": [
+        {
+          "authorId": "2067395805",
+          "name": "Li Xiang-Ming"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c2e327b4c5bfa13775b7f31532545aa66ba774df",
+      "url": "https://www.semanticscholar.org/paper/c2e327b4c5bfa13775b7f31532545aa66ba774df",
+      "title": "Agent-Based Modeling for Distributed Decision Support in an IoT Network",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2020,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "https://mural.maynoothuniversity.ie/15985/1/IndrakshiDey2022Age.pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.36227/techrxiv.11888871.v1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36227/techrxiv.11888871.v1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work investigates the suitability of ABM to model the communication aspects of a road traffic management system as an example of an IoT network, and model, analyze, and compare various medium access control layer protocols for two different scenarios, namely uncoordinated and coordinated."
+      },
+      "authors": [
+        {
+          "authorId": "2228628735",
+          "name": "Majid Butt"
+        },
+        {
+          "authorId": "34775717",
+          "name": "I. Dey"
+        },
+        {
+          "authorId": "2636136",
+          "name": "Merim Dzaferagic"
+        },
+        {
+          "authorId": "144853987",
+          "name": "Maria Murphy"
+        },
+        {
+          "authorId": "39736396",
+          "name": "Nicholas J. Kaminski"
+        },
+        {
+          "authorId": "1745050",
+          "name": "N. Marchetti"
+        }
+      ],
+      "abstract": "An increasing number of emerging applications, e.g., Internet of Things (IoT), vehicular communications, augmented reality, and the growing complexity due to the interoperability requirements of these systems, lead to the need to change the tools used for the modeling and analysis of those networks. Agent-based modeling (ABM) as a bottom-up modeling approach considers a network of autonomous agents interacting with each other, and therefore represents an ideal framework to comprehend the interactions of heterogeneous nodes in a complex environment. Here, we investigate the suitability of ABM to model the communication aspects of a road traffic management system as an example of an IoT network. We model, analyze, and compare various medium access control (MAC) layer protocols for two different scenarios, namely uncoordinated and coordinated. Besides, we model the scheduling mechanisms for the coordinated scenario as a high-level MAC protocol by using three different approaches: 1) centralized decision maker (DM); 2) DESYNC; and 3) decentralized learning MAC (L-MAC). The results clearly show the importance of coordination between multiple DMs in order to improve the information reporting error and spectrum utilization of the system."
+    },
+    {
+      "paperId": "d97bfc9c913490d055b8eac93571749a1b5bd953",
+      "url": "https://www.semanticscholar.org/paper/d97bfc9c913490d055b8eac93571749a1b5bd953",
+      "title": "Dynamic Event-Triggered Formation Control of Multi-Agent Systems With Non-Uniform Time-Varying Communication Delays",
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2024.3494658?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2024.3494658, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A solution for formation control in MASs, considering communication delays, and holds practical implications across various industries is proposed, and can enhance coordination for tasks such as warehouse logistics and collaborative manufacturing in autonomous robotics."
+      },
+      "authors": [
+        {
+          "authorId": "6450838",
+          "name": "Milad Abbasi"
+        },
+        {
+          "authorId": "2260967624",
+          "name": "Horacio J. Marquez"
+        }
+      ],
+      "abstract": "In this study, we address the challenge of time-varying formation control in multi-agent systems (MASs) in the presence of time-varying intra- and inter-agent communication delays. To tackle time-varying delays, we equip each agent with a bank of distributed observers to estimate its own and its neighbors\u2019 states. We apply dynamic periodic event-triggered mechanisms to both sensor-to-observer (S-O) and controller-to-actuator (C-A) channels, aiming to reduce unnecessary data transmissions in the network by relying on locally triggered sampled data in a distributed fashion to enhance resource efficiency. In the design stage, we transform the state formation control problem into an asymptotic stability problem. Using the Lyapunov-Krasovskii functional (LKF) approach, we design the event-triggering parameters such that the closed-loop system of all agents is stable and agents reach the desired formation. Numerical simulations demonstrate that our approach achieves a balance by reducing inter-agent communication frequency while maintaining the desired formation. Finally, we illustrate the effectiveness and advantages of this approach through experiments on a real-world robotic system. Note to Practitioners\u2014In practical applications of multi-agent systems, the use of a communication network introduces some challenging issues. To name a few, periodic sampling with a high frequency relies on heavy transmission of information between components, which may result in network congestion. Factors such as limited bandwidth, signal attenuation, and packet losses contribute to delays in networked MAS. Additionally, network security, protocols, buffering, processing, and transmission times play significant roles. Since network-induced delays depend heavily on variable network conditions, they are generally non-uniform and time-varying. This paper proposes a solution for formation control in MASs, considering communication delays, and holds practical implications across various industries. It can enhance coordination for tasks such as warehouse logistics and collaborative manufacturing in autonomous robotics. Drone swarms can benefit from more efficient and reliable movement coordination, impacting surveillance and precision agriculture. In industrial automation, synchronization among machines or robotic arms can be improved for increased efficiency. A noteworthy aspect of this paper is the validation of our results through experiments on a real-world multi-robot system, demonstrating broad applicability."
+    },
+    {
+      "paperId": "0c1ba0d82ea02ab578dc30cb0348217807af3d88",
+      "url": "https://www.semanticscholar.org/paper/0c1ba0d82ea02ab578dc30cb0348217807af3d88",
+      "title": "Simulation of Computer Interlocking System Based on Multi-agent",
+      "venue": "Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery",
+      "year": 2020,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-70665-4_131?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-70665-4_131, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that the introduction of multi-agent technology in computer interlocking simulation system brings high efficiency and intelligence."
+      },
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Pan He"
+        },
+        {
+          "authorId": "73500035",
+          "name": "Rongchang Guo"
+        },
+        {
+          "authorId": "2129501448",
+          "name": "Xiaochun Wu"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "389af2fe15108977df2c3e7c12a82d99a4ac6fe5",
+      "url": "https://www.semanticscholar.org/paper/389af2fe15108977df2c3e7c12a82d99a4ac6fe5",
+      "title": "Agent-Based Modelling Approach for Distributed Decision Support in an IoT Network",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/1901.04585, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work investigates the suitability of ABM to model the communication aspects of a road traffic management system, as an example of an Internet of Things (IoT) network, and model, analyze and compare various Medium Access Control layer protocols for two different scenarios, namely uncoordinated and coordinated."
+      },
+      "authors": [
+        {
+          "authorId": "2636136",
+          "name": "Merim Dzaferagic"
+        },
+        {
+          "authorId": "2230330955",
+          "name": "S. M. I. M. Majid Butt"
+        },
+        {
+          "authorId": "144853987",
+          "name": "Maria Murphy"
+        },
+        {
+          "authorId": "39736396",
+          "name": "Nicholas J. Kaminski"
+        },
+        {
+          "authorId": "2230325169",
+          "name": "Senior Member Ieee Nicola Marchetti"
+        }
+      ],
+      "abstract": "An increasing number of emerging applications, e.g., internet of things, vehicular communications, augmented reality, and the growing complexity due to the interoperability requirements of these systems, lead to the need to change the tools used for the modeling and analysis of those networks. Agent-Based Modeling (ABM) as a bottom-up modeling approach considers a network of autonomous agents interacting with each other, and therefore represents an ideal framework to comprehend the interactions of heterogeneous nodes in a complex environment. Here, we investigate the suitability of ABM to model the communication aspects of a road traffic management system, as an example of an Internet of Things (IoT) network. We model, analyze and compare various Medium Access Control (MAC) layer protocols for two different scenarios, namely uncoordinated and coordinated. Besides, we model the scheduling mechanisms for the coordinated scenario as a high level MAC protocol by using three different approaches: Centralized Decision Maker, DESYNC and decentralized learning MAC (L-MAC). The results clearly show the importance of coordination between multiple decision makers in order to improve the accuracy of information and spectrum utilization of the system."
+    },
+    {
+      "paperId": "a0047614253e6d19a2dcbf7543daf79d69ac7b6e",
+      "url": "https://www.semanticscholar.org/paper/a0047614253e6d19a2dcbf7543daf79d69ac7b6e",
+      "title": "A Generic Software Framework For Distributed Coordination And Control In Multiagent Systems",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A protocol for multiagent systems and an application regarding dis- tributed household cleaning is designed and the designed task assignment algorithm is able to distribute tasks between multiple agents in a hierarchical manner by means of the protocol."
+      },
+      "authors": [
+        {
+          "authorId": "114629628",
+          "name": "Thorbj\u00f8rn Borup"
+        },
+        {
+          "authorId": "46560406",
+          "name": "Alexander Larsen"
+        },
+        {
+          "authorId": "144900532",
+          "name": "K. M\u00f8rk"
+        },
+        {
+          "authorId": "2055012415",
+          "name": "E. Nielsen"
+        },
+        {
+          "authorId": "70384052",
+          "name": "Sigurd Villumsen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c40dff66d9c64d980c1f0068c7598357c6165641",
+      "url": "https://www.semanticscholar.org/paper/c40dff66d9c64d980c1f0068c7598357c6165641",
+      "title": "Agent-Based Real-Time Computing and Its Applications in Traffic Detection and Management Systems",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1115/DETC2004-57707?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/DETC2004-57707, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The generic architecture and coordination mechanism of an FIPA (Foundation for Intelligent Physical Agents) compliant heterogeneous multi-agent system (MAS) in a distributed control scenario is studied in a real-time traffic detection and management system."
+      },
+      "authors": [
+        {
+          "authorId": "2329239",
+          "name": "Bo Chen"
+        },
+        {
+          "authorId": "32639138",
+          "name": "Harry H. Cheng"
+        },
+        {
+          "authorId": "144319041",
+          "name": "J. Palen"
+        }
+      ],
+      "abstract": "This paper studies the generic architecture and coordination mechanism of an FIPA (Foundation for Intelligent Physical Agents) compliant heterogeneous multi-agent system (MAS) in a distributed control scenario. Proposed generic MAS framework has been applied to a real-time traffic detection and management system. The agent-based real-time traffic detection and management system (ABRTTDMS) is designed for the information fusion of different traffic detection systems on highways to optimize real-time traffic detection and management. ABRTTDMS is a multi-level agent system. The lowest level agents are responsible for processing the real-time traffic data and monitoring traffic conditions. The middle level agents coordinate all of the lowest level agents in a subnetwork. The highest-level agent is located in the transportation management center (TMC) to accept human commands and delegate tasks to lower level agents. The re-configurable hybrid control architecture of the system provides the capability of dynamically grouping distributed heterogeneous agents (intelligent control systems) into virtual clusters to accomplish tasks related to different geographical areas and different purposes. A platform independent agent execution engine has been implemented using an embeddable C/C++ interpreter called Ch. The communication between agents that reside on different hosts has been simulated in the Integration Engineering Laboratory at the University of California, Davis. The use of agent technology greatly enhances the distributed computing and cooperation capabilities of traffic detection and management systems.Copyright \u00a9 2004 by ASME"
+    },
+    {
+      "paperId": "bf891561e739914aaabb0d93225280337dc03c2a",
+      "url": "https://www.semanticscholar.org/paper/bf891561e739914aaabb0d93225280337dc03c2a",
+      "title": "Communication management in distributed sensor interpretation",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work formalized the communication problem in DSI with a Distributed Bayesian Network and solved the question of what to communicate with a decentralized Markov Decision Process (DEC-MDP), and proved that deciding a distributed MDP whose interaction history contains information of a size polynomial in the number of states is NP-complete."
+      },
+      "authors": [
+        {
+          "authorId": "1725492",
+          "name": "V. Lesser"
+        },
+        {
+          "authorId": "3024788",
+          "name": "Jiaying Shen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "fa0609156900ec927cfac1f6af74778cb12f3cc5",
+      "url": "https://www.semanticscholar.org/paper/fa0609156900ec927cfac1f6af74778cb12f3cc5",
+      "title": "An interaction-centric approach to support peer coordination in distributed emergency response management",
+      "venue": "International Journal of Intelligent Decision Technologies",
+      "year": 2009,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/IDT-2009-0044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/IDT-2009-0044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A prototype e-Response simulation system has been developed to execute interaction models describing common coordination tasks in the emergency response domain, and preliminary evaluation of the proposed framework demonstrates its capability to support such e-Response tasks."
+      },
+      "authors": [
+        {
+          "authorId": "145083788",
+          "name": "M. Marchese"
+        },
+        {
+          "authorId": "2460362",
+          "name": "Lorenzino Vaccari"
+        },
+        {
+          "authorId": "2536573",
+          "name": "Gaia Trecarichi"
+        },
+        {
+          "authorId": "35336275",
+          "name": "N. Osman"
+        },
+        {
+          "authorId": "15286148",
+          "name": "F. McNeill"
+        },
+        {
+          "authorId": "1736174",
+          "name": "Paolo Besana"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "165ca305606c4500a1f6ecbb3ec9111938897acf",
+      "url": "https://www.semanticscholar.org/paper/165ca305606c4500a1f6ecbb3ec9111938897acf",
+      "title": "Analysis of Kubernetes for Distributed Healthcare System Development using COVID-19 Healthcare App",
+      "venue": "International Journal of Current Research and Review",
+      "year": 2021,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.31782/ijcrr.2021.13507",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.31782/IJCRR.2021.13507?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31782/IJCRR.2021.13507, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work has performed and distributed tasks in such a way to show the developers that multiple tasks can be performed at the same time using Kubernetes orchestration platform and used to parallelize multiple tasks."
+      },
+      "authors": [
+        {
+          "authorId": "2124496330",
+          "name": "P. J."
+        },
+        {
+          "authorId": "2285872698",
+          "name": "Mohanty S"
+        },
+        {
+          "authorId": "2286038643",
+          "name": "Jinturkar Ps"
+        },
+        {
+          "authorId": "2285923030",
+          "name": "Pandey P"
+        }
+      ],
+      "abstract": "Introduction: Distributed computing is a field of computer science which deals with the study of distributed systems A system which has communication and coordination with each of its nodes and which interacts with each other to achieve a common target which is to effectively compute the computation These capabilities are conducive to implementing a systematic and efficient COVID-19 tracking application which can be accessed and worked on by numerous entities Objective: To provide information about a client-server architecture which is a platform for managing and maintaining container-ized workloads and services that forms a base for automation Methods: A Kubernetes cluster IS created with a calico pod network along with the main drivers of Kubelet, Kubeadm and Kubectl Secure Shell (SSH) protocol is used for secured shell and data management and authentication between the client and server Results: We have performed and distributed our tasks in such a way to show the developers that multiple tasks can be performed at the same time using Kubernetes orchestration platform and used to parallelize multiple tasks This increases the efficiency of the machine and the performance of the system becomes much faster Conclusion: A system which has communication and coordination with each of its nodes and which interacts with each other to achieve a common target which is to effectively compute the computation One such application which helps in the distribution of tasks and helps do the computation is Kubernetes It is based on a client-server architecture which is a platform for managing and maintaining containerized workloads and services that forms a base for automation \u00a9 IJCRR"
+    },
+    {
+      "paperId": "151698fed4610b0242531fac2bfcf0f0c37a7230",
+      "url": "https://www.semanticscholar.org/paper/151698fed4610b0242531fac2bfcf0f0c37a7230",
+      "title": "Agent-as-a-Service based on Agent Network",
+      "venue": "",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2505.08446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A MAS based on Agent-as-a-Service based on Agent Network (AaaS-AN), a service-oriented paradigm grounded in the Role-Goal-Process-Service (RGPS) standard, is constructed and validated on mathematical reasoning and application-level code generation tasks, which outperforms state-of-the-art baselines."
+      },
+      "authors": [
+        {
+          "authorId": "2307565832",
+          "name": "Yuhan Zhu"
+        },
+        {
+          "authorId": "2360673381",
+          "name": "Haojie Liu"
+        },
+        {
+          "authorId": "2362364183",
+          "name": "Jian Wang"
+        },
+        {
+          "authorId": "71788627",
+          "name": "Bing Li"
+        },
+        {
+          "authorId": "2361647554",
+          "name": "Zikang Yin"
+        },
+        {
+          "authorId": "2362056515",
+          "name": "Yefei Liao"
+        }
+      ],
+      "abstract": "The rise of large model-based AI agents has spurred interest in Multi-Agent Systems (MAS) for their capabilities in decision-making, collaboration, and adaptability. While the Model Context Protocol (MCP) addresses tool invocation and data exchange challenges via a unified protocol, it lacks support for organizing agent-level collaboration. To bridge this gap, we propose Agent-as-a-Service based on Agent Network (AaaS-AN), a service-oriented paradigm grounded in the Role-Goal-Process-Service (RGPS) standard. AaaS-AN unifies the entire agent lifecycle, including construction, integration, interoperability, and networked collaboration, through two core components: (1) a dynamic Agent Network, which models agents and agent groups as vertexes that self-organize within the network based on task and role dependencies; (2) service-oriented agents, incorporating service discovery, registration, and interoperability protocols. These are orchestrated by a Service Scheduler, which leverages an Execution Graph to enable distributed coordination, context tracking, and runtime task management. We validate AaaS-AN on mathematical reasoning and application-level code generation tasks, which outperforms state-of-the-art baselines. Notably, we constructed a MAS based on AaaS-AN containing agent groups, Robotic Process Automation (RPA) workflows, and MCP servers over 100 agent services. We also release a dataset containing 10,000 long-horizon multi-agent workflows to facilitate future research on long-chain collaboration in MAS."
+    },
+    {
+      "paperId": "6815ca6c43008ec308bbc848bfb7fda96131d349",
+      "url": "https://www.semanticscholar.org/paper/6815ca6c43008ec308bbc848bfb7fda96131d349",
+      "title": "Forest Fire Image Classification Through Decentralized DNN Inference",
+      "venue": "2024 IEEE International Conference on Image Processing Challenges and Workshops (ICIPCW)",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://zenodo.org/records/12070190/files/EMPOWERING_FOREST_FIRE_IMAGE_CLASSIFICATION_THROUGH_DECENTRALIZED_DNN_INFERENCE_STRATEGIES.pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIPCW64161.2024.10769107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIPCW64161.2024.10769107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work proposes a decentralized inference strategy tailored for fire classification tasks, where individual DNN nodes communicate within a network and enhance their predictions by considering other DNN node inference outputs that contribute to improving their individual performance."
+      },
+      "authors": [
+        {
+          "authorId": "2328676400",
+          "name": "Dimitrios Papaioannou"
+        },
+        {
+          "authorId": "2699268",
+          "name": "V. Mygdalis"
+        },
+        {
+          "authorId": "2261521069",
+          "name": "Ioannis Pitas"
+        }
+      ],
+      "abstract": "In the realm of Natural Disaster Management (NDM), timely communication with local authorities is paramount for an effective response. To achieve this, multi-agent systems play a pivotal role by proficiently identifying and categorizing various disasters. In the field of Distributed Deep Neural Network (D-DNN) inference, such approaches often require DNN nodes to transmit their results to the cloud for inference, or they necessitate the establishment of a fixed topology network to enable inference directly on the edge, a practice prone to security risks. In this work, we propose a decentralized inference strategy tailored for fire classification tasks. In this approach, individual DNN nodes communicate within a network and enhance their predictions by considering other DNN node inference outputs that contribute to improving their individual performance. The overall coordination of the system on a specific decision is achieved through a consensus protocol, which acts as a universally accepted inference rule adopted by all DNN nodes operating within the system. We present a comprehensive experimental analysis, of the forest-fire classification task, focusing on enhancing both individual DNN node performance and the stability of the consensus protocol."
+    },
+    {
+      "paperId": "7cfaba647a5ccc52b5c7ff27300d91d4768361b5",
+      "url": "https://www.semanticscholar.org/paper/7cfaba647a5ccc52b5c7ff27300d91d4768361b5",
+      "title": "Designing for Cooperation - Incentive Compatibility and Performance in Distributed Air Traffic Management Systems",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The central contribution of this dissertation is the development of the framework DAVIC (Design and Verification of Incentive-Compatible Systems) which supports the modeling and realization of incentive-compatible systems."
+      },
+      "authors": [
+        {
+          "authorId": "2909094",
+          "name": "H. Oberheid"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3e499216b457b75967b18f54f6472c073f4032e7",
+      "url": "https://www.semanticscholar.org/paper/3e499216b457b75967b18f54f6472c073f4032e7",
+      "title": "Applying a new Communication Technique among Agents in Hospital Management System",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5120/13105-0409",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5120/13105-0409?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5120/13105-0409, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposed a new communication technique among agents in MAS that combines the advantages of both previous methods and avoids their disadvantages."
+      },
+      "authors": [
+        {
+          "authorId": "113425802",
+          "name": "Ahmed MoustafaElmahalawy"
+        }
+      ],
+      "abstract": "Multi Agent System (MAS) play a central role in the field of distributed artificial intelligence. MAS' applications go from electronic commerce, aircraft maintenance and business process management to e mail filtering. One of the important features in Multi Agent System is the communication among agent. The communication methods enable cooperation and coordination of agents in the system. The standard and important one is the Contract Net Protocol. Also, Round Contract method is created to overcome the limitations of Contract Net Protocol. This paper proposed a new communication technique among agents in MAS. This technique combines the advantages of both previous methods and avoids their disadvantages. All these techniques are applied To Hospital Management System that uses Multi Agents Systems. There is a comparison among these methods according to their performance."
+    },
+    {
+      "paperId": "85af6202539e7d1bd90387e7d67b384b94a20b91",
+      "url": "https://www.semanticscholar.org/paper/85af6202539e7d1bd90387e7d67b384b94a20b91",
+      "title": "Coordination of distributed knowledge networks using contract net protocol",
+      "venue": "1998 IEEE Information Technology Conference, Information Environment for the Future (Cat. No.98EX228)",
+      "year": 1998,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IT.1998.713384?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IT.1998.713384, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An approach to coordination and control of DKN through inter agent negotiation using the contract net protocol (CNP) is described and the feasibility of the proposed design is demonstrated on tasks involving information retrieval and knowledge discovery using distributed data and knowledge sources."
+      },
+      "authors": [
+        {
+          "authorId": "9371603",
+          "name": "Jihoon Yang"
+        },
+        {
+          "authorId": "69859221",
+          "name": "R. Havaldar"
+        },
+        {
+          "authorId": "145513516",
+          "name": "Vasant G Honavar"
+        },
+        {
+          "authorId": "67207050",
+          "name": "Les L. Miller"
+        },
+        {
+          "authorId": "143881298",
+          "name": "Johnny S. K. Wong"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "43e9a88ee2b81c5a116b86ebb2e711919e5ebbf0",
+      "url": "https://www.semanticscholar.org/paper/43e9a88ee2b81c5a116b86ebb2e711919e5ebbf0",
+      "title": "Applications of agent architectures to decision support in distributed simulation and training systems",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work develops the approach and presents the results of a new model for applying intelligent agents to complex distributed interactive simulation for command and control and designed and implemented a distributed architecture for performance-oriented management of software agents."
+      },
+      "authors": [
+        {
+          "authorId": "1719419",
+          "name": "A. Stoyen"
+        },
+        {
+          "authorId": "33584948",
+          "name": "P. Petrov"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

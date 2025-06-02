@@ -1,0 +1,43 @@
+{
+  "total": 1,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "d74c115064e95e6b97f8f87f62e331e532b3f867",
+      "url": "https://www.semanticscholar.org/paper/d74c115064e95e6b97f8f87f62e331e532b3f867",
+      "title": "Demand Response Integration Through Agent-Based Coordination of Consumers in Virtual Power Plants",
+      "venue": "Prima",
+      "year": 2016,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-44832-9_19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-44832-9_19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A multi-agent based Virtual Power Plant design that is able to balance the demand of energy-intensive, industrial loads with the supply situation in the electricity grid."
+      },
+      "authors": [
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        },
+        {
+          "authorId": "3441924",
+          "name": "Aisha Umair"
+        },
+        {
+          "authorId": "49976045",
+          "name": "Z. Ma"
+        },
+        {
+          "authorId": "9114734",
+          "name": "B. J\u00f8rgensen"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

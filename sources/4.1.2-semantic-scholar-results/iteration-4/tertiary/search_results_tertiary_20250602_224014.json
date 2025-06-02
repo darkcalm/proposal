@@ -1,0 +1,654 @@
+{
+  "total": 15,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "726734b64920df7ac623060cfb35a5da36190768",
+      "url": "https://www.semanticscholar.org/paper/726734b64920df7ac623060cfb35a5da36190768",
+      "title": "Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study",
+      "venue": "",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2505.07313, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "These findings reveal that expertise alignment benefits are highly domain-contingent, proving most effective for contextual reasoning tasks, and collaboration focused on integrating diverse knowledge consistently outperforms rigid task decomposition."
+      },
+      "authors": [
+        {
+          "authorId": "2257133167",
+          "name": "Baixuan Xu"
+        },
+        {
+          "authorId": "2279661258",
+          "name": "Chunyang Li"
+        },
+        {
+          "authorId": "1587728690",
+          "name": "Weiqi Wang"
+        },
+        {
+          "authorId": "2330397074",
+          "name": "Wei Fan"
+        },
+        {
+          "authorId": "2209990450",
+          "name": "Tianshi ZHENG"
+        },
+        {
+          "authorId": "2257452757",
+          "name": "Haochen Shi"
+        },
+        {
+          "authorId": "2360376701",
+          "name": "Tao Fan"
+        },
+        {
+          "authorId": "2241325169",
+          "name": "Yangqiu Song"
+        },
+        {
+          "authorId": "2353439028",
+          "name": "Qiang Yang"
+        }
+      ],
+      "abstract": "Designing effective collaboration structure for multi-agent LLM systems to enhance collective reasoning is crucial yet remains under-explored. In this paper, we systematically investigate how collaborative reasoning performance is affected by three key design dimensions: (1) Expertise-Domain Alignment, (2) Collaboration Paradigm (structured workflow vs. diversity-driven integration), and (3) System Scale. Our findings reveal that expertise alignment benefits are highly domain-contingent, proving most effective for contextual reasoning tasks. Furthermore, collaboration focused on integrating diverse knowledge consistently outperforms rigid task decomposition. Finally, we empirically explore the impact of scaling the multi-agent system with expertise specialization and study the computational trade off, highlighting the need for more efficient communication protocol design. This work provides concrete guidelines for configuring specialized multi-agent system and identifies critical architectural trade-offs and bottlenecks for scalable multi-agent reasoning. The code will be made available upon acceptance."
+    },
+    {
+      "paperId": "2172dff4423a22548d187ce5886cd67de316a9d5",
+      "url": "https://www.semanticscholar.org/paper/2172dff4423a22548d187ce5886cd67de316a9d5",
+      "title": "On the Influence of Inter-Agent Variation on Multi-Agent Algorithms Solving a Dynamic Task Allocation Problem under Uncertainty",
+      "venue": "2012 IEEE Sixth International Conference on Self-Adaptive and Self-Organizing Systems",
+      "year": 2012,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SASO.2012.16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SASO.2012.16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces two algorithms that allow agents to cooperatively solve a dynamic task allocation problem in uncertain environments and investigates the influence of inter-agent variation on the system's behavior."
+      },
+      "authors": [
+        {
+          "authorId": "38403585",
+          "name": "Gerrit Anders"
+        },
+        {
+          "authorId": "145979887",
+          "name": "Christian Hinrichs"
+        },
+        {
+          "authorId": "3355200",
+          "name": "Florian Siefert"
+        },
+        {
+          "authorId": "11336109",
+          "name": "Pascal Behrmann"
+        },
+        {
+          "authorId": "145731725",
+          "name": "W. Reif"
+        },
+        {
+          "authorId": "50720382",
+          "name": "M. Sonnenschein"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ce6141a89812338095003cde4f837e252c703b10",
+      "url": "https://www.semanticscholar.org/paper/ce6141a89812338095003cde4f837e252c703b10",
+      "title": "A First-order Formalization of Knowl- Edge and Action for a Multi-agent Planning System. In",
+      "venue": "",
+      "year": null,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper has mainly focused on concepts within DAI, a distributed artificial intelligence application for severe storm forecasting which has functioned as a means of gaining real experience with DAI and used a non real-time approach in order to reduce the complexity, but maintain the functionality."
+      },
+      "authors": [
+        {
+          "authorId": "2151565296",
+          "name": "J. Hayes"
+        },
+        {
+          "authorId": "145878706",
+          "name": "D. Michie"
+        },
+        {
+          "authorId": "144763324",
+          "name": "Y. Pao"
+        },
+        {
+          "authorId": "71499232",
+          "name": "H. Pattison"
+        },
+        {
+          "authorId": "1766655",
+          "name": "D. Corkill"
+        },
+        {
+          "authorId": "69857813",
+          "name": "R. Renesse"
+        },
+        {
+          "authorId": "2064662548",
+          "name": "H. Van"
+        },
+        {
+          "authorId": "150165617",
+          "name": "J. van Staveren"
+        },
+        {
+          "authorId": "120861743",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "2060139652",
+          "name": "B. Turnbull"
+        },
+        {
+          "authorId": "2099155177",
+          "name": "J. Jansen"
+        },
+        {
+          "authorId": "2058741692",
+          "name": "S. Jansen"
+        },
+        {
+          "authorId": "150079485",
+          "name": "D. Mullender"
+        },
+        {
+          "authorId": "48954279",
+          "name": "A. Holden"
+        },
+        {
+          "authorId": "69331911",
+          "name": "T. Bastable"
+        },
+        {
+          "authorId": "150074986",
+          "name": "D. Fallmyr"
+        },
+        {
+          "authorId": "32340041",
+          "name": "S. Johansen"
+        },
+        {
+          "authorId": "150339023",
+          "name": "W. Mullender"
+        },
+        {
+          "authorId": "103393200",
+          "name": "Zimmer"
+        },
+        {
+          "authorId": "95141717",
+          "name": "G. Swetnam"
+        },
+        {
+          "authorId": "2610887",
+          "name": "E. Dombroski"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c596ce19fe807bfc06590908cb41dedf87465864",
+      "url": "https://www.semanticscholar.org/paper/c596ce19fe807bfc06590908cb41dedf87465864",
+      "title": "A Multi-agent Organizational Model for a Snow Storm Crisis Management",
+      "venue": "International Conference on Information Systems for Crisis Response and Management in Mediterranean Countries",
+      "year": 2014,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-11818-5_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-11818-5_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The main purpose of the work is to propose a multi-agent system organization that manages resources efficiently, structure the communication among all the actors involved in the crisis management and orchestrate their work."
+      },
+      "authors": [
+        {
+          "authorId": "2098745",
+          "name": "I. Thabet"
+        },
+        {
+          "authorId": "2489410",
+          "name": "Mohamed Chaawa"
+        },
+        {
+          "authorId": "9292960",
+          "name": "L. B. Said"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "url": "https://www.semanticscholar.org/paper/3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "title": "Agent and multi-agent systems : technologies and applications : third KES international symposium, KES-AMSTA 2009 : Uppsala, Sweden, June 3-5, 2009 : proceedings",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Self-Organization in Multi-Agent Systems.- Adaptive Community Identification on Semantic Social Networks with Contextual Synchronization: An Empirical Study."
+      },
+      "authors": [
+        {
+          "authorId": "1403968948",
+          "name": "Kes-Amsta"
+        },
+        {
+          "authorId": "34557478",
+          "name": "Anne H\u00e5kansson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b7c44a0535315ba25e709bd362e6af6548c7113f",
+      "url": "https://www.semanticscholar.org/paper/b7c44a0535315ba25e709bd362e6af6548c7113f",
+      "title": "Communication for UAV Swarms: an Open-source, Low-cost Solution Based on ESP-NOW",
+      "venue": "International Conference on Unmanned Aircraft Systems",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS65942.2025.11007928?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS65942.2025.11007928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An open-source, low-cost, plug-and-play solution to enable decentralized UAV-to-UAV communication over 2.4GHz Wi-Fi using a con-nectionless protocol that simplifies the deployment of decentralized systems by allowing UAVs to easily exchange any type of binary data, seamlessly interfacing with ROS2."
+      },
+      "authors": [
+        {
+          "authorId": "2221259952",
+          "name": "Kasper A. R. Gr\u00f8ntved"
+        },
+        {
+          "authorId": "2363749363",
+          "name": "Robert Ladigl"
+        },
+        {
+          "authorId": "2274690374",
+          "name": "Anders Lyhne Christensen"
+        }
+      ],
+      "abstract": "Multi-UAV systems typically require complex in-frastructure to deploy in real-world scenarios, limiting their accessibility and scalability. In addition, current research often relies on custom solutions or proprietary hardware to facilitate inter-UAV communication. In this paper, we propose an open-source, low-cost, plug-and-play solution to enable decentralized UAV-to-UAV communication over 2.4GHz Wi-Fi using a con-nectionless protocol. Our approach simplifies the deployment of decentralized systems by allowing UAVs to easily exchange any type of binary data, seamlessly interfacing with ROS2. The solution uses an ad-hoc style network that allows UAVs to join or leave dynamically without requiring centralized governance or a priori configuration. We describe the architecture of the system, assess the network performance in an outdoor environment using UAVs, and evaluate the system's ability to share information as a swarm through hardware-in-the-loop (HITL) and experiments using UAVs. Our results show that the proposed system facilitates connectivity and is able to transmit mission-critical data for real-world UAV operations. HITL experiments show that a decentralized planning algorithm running on three simulated UAVs can effectively reach consensus on decentralized task allocation. We have made the code public and thus provide a viable solution for researchers seeking to implement decentralized UAV swarms using cost-effective commercial-off-the-shelf (COTS) hardware and minimal infrastructure."
+    },
+    {
+      "paperId": "da2e3c77e74e63d7a70010f8ab7bef86bcecaff2",
+      "url": "https://www.semanticscholar.org/paper/da2e3c77e74e63d7a70010f8ab7bef86bcecaff2",
+      "title": "The Multi-Agents Immune System for Network Intrusions detection ( MAISId )",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new model a Multi-Agents System (MAS) inspired by an Immune algorithm for the Intrusion Detection (MAISID) of multi-agent system immune for intrusion detection is presented, justified by the distributed and opened character of networks."
+      },
+      "authors": [
+        {
+          "authorId": "50818921",
+          "name": "Noria Benyettou"
+        },
+        {
+          "authorId": "1792511",
+          "name": "A. Benyettou"
+        },
+        {
+          "authorId": "13603730",
+          "name": "V. Rodin"
+        },
+        {
+          "authorId": "2076578380",
+          "name": "SOUAd Yahia Berrouiguet"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "16e207808a7397679b79f03e7c0e77126af6c174",
+      "url": "https://www.semanticscholar.org/paper/16e207808a7397679b79f03e7c0e77126af6c174",
+      "title": "Evolution of a multipronged and multi-intevention strategy for patients\n with high comorbidity",
+      "venue": "International Journal of Integrated Care",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5334/ijic.s3043",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5334/IJIC.S3043?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5334/IJIC.S3043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The authors' multipronged strategy demonstrated its efficacy to manage better patients with high rates of readmissions or those with dependency (at home and nursing homes) as well as improving patients\u2019 quality of live."
+      },
+      "authors": [
+        {
+          "authorId": "87558502",
+          "name": "Uxue Errasti"
+        },
+        {
+          "authorId": "1401649415",
+          "name": "N. P\u00e9rez-Fern\u00e1ndez"
+        },
+        {
+          "authorId": "48648450",
+          "name": "M. Elola"
+        },
+        {
+          "authorId": "47833017",
+          "name": "A. Fuertes"
+        },
+        {
+          "authorId": "46959046",
+          "name": "M. Vaquero"
+        },
+        {
+          "authorId": "88300436",
+          "name": "Ander Berroeta"
+        },
+        {
+          "authorId": "87169097",
+          "name": "Ander Alberdi"
+        },
+        {
+          "authorId": "14588417",
+          "name": "Be\u00f1at Zubeltzu"
+        },
+        {
+          "authorId": "87657705",
+          "name": "Asier Mitxelena"
+        },
+        {
+          "authorId": "1411836607",
+          "name": "J. J. Zubeldia"
+        },
+        {
+          "authorId": "48534824",
+          "name": "P. Aranegui"
+        },
+        {
+          "authorId": "1414025103",
+          "name": "J. M. Arteche"
+        }
+      ],
+      "abstract": "Introduction: In H.U.Donostia (Gipuzkoa) we identified multi-pathological patients with repeated admissions due to the same process. We wondered how to avoid it and design the first studies. Description of practice change implemented: Evolution of an integration strategy based on person-centered care incorporating liaison nurse, primary and hospital care and hospital at home service (HaH). Impact of new technologies. Aim: Improving patients\u2019 quality of live. Training patients and healthcare providers. Optimizing the use of healthcare resources. Establishment of objectives and care directives. Target population: - Multi-pathological patients with high readmission rates due to HF and/or COPD. - Home-dependent patients. - Nursing home residents. Timeline: 2007-2008: before-after preliminary study with a multipronged strategy (EMAI) on HF with high readmission rates. 2008-2009: RCT: EMAI vs EMAI + telemedicine. 2009-2010: before-after study with a multipronged strategy (PAMI) targeting patients with high readmission rates. 2010-2011: cluster RCT: PAMI in nursing homes. 2014-2015: RCT: PAMI vs PAMI+web. 2017: RCT: PAMI vs PAMI+osarean. 2017: cluster RCT in home-dependent patients: PAMI vs PAMI+web/APP. Highlights: - Preliminary study with multi-intervention EMAI (assignment of a liaison nurse and a hospital-based specialist, structured telephone support, communication with the GP and appointment with the hospital-based specialist):\u00a0 80% reduction in the number of bed days and in the attendances to the Emergency Department (ED) compared to the previous year. - PAMI: extension of the previous study with implementation of the multidisciplinary care programme with direct telephone line for maximum accessibility. 60.7% reduction in the number of bed days and 77% in the attendances to the ED compared to the previous year. High adherence to treatment and patient perceived good quality of care. - With reduction in-patient bed days, increased consultations. Adding telemedicine to PAMI reduced the use of health resources, without impact on the quality of life, but not being cost-effective. - Adapting PAMI to patients living in nursing homes: reduction in ED attendances and an exchange of inpatients bed days for days cared by HaH without differences in mortality. - Implementing PAMI with a web-based self-care programme during one year:\u00a0 no differences in terms of mortality, visits to the ED, hospital admissions or quality of live. - The liaison nurse call was replaced by a call-center (Osarean) compared to classical PAMI: a decrease in visits to the ED (4%) and days of admission (3%) and an increase in stays in HaH and hospital visits. - Implementing PAMI with a self-care programme (web or APP) in home-dependent patients: pending results. Sustainability: Reorganizing healthcare system would allow optimizing actual resources Transferability: The technology and protocols are available to all in the Basque Country. Conclusions: Our multipronged strategy demonstrated its efficacy to manage better patients with high rates of readmissions or those with dependency (at home and nursing homes). Discussion: A unified clinical history accessible to all the agents involved and improving the communication channels would make the strategy more efficient. Lessons learned: Training both patients and professionals and accessibility to the health system are the main keys in the future to manage multi-pathological patients."
+    },
+    {
+      "paperId": "2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "url": "https://www.semanticscholar.org/paper/2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "title": "Third International Workshop on Self-Adaptive and Self-Organising Socio-Technical Systems ( SASO ST 2015 )",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The SASO workshop addresses all aspects of self-adaptive and self-organising mechanisms in socio-technical systems, covering different perspectives of this exciting research area ranging from normative and trust management systems to socio-inspired design strategies for distributed algorithms, collaboration platforms, and communication protocols."
+      },
+      "authors": [
+        {
+          "authorId": "38403585",
+          "name": "Gerrit Anders"
+        },
+        {
+          "authorId": "2739842",
+          "name": "J. Botev"
+        },
+        {
+          "authorId": "143670698",
+          "name": "M. Esch"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8aa098ce04c73c4d7d34b783960b22ae1e229c96",
+      "url": "https://www.semanticscholar.org/paper/8aa098ce04c73c4d7d34b783960b22ae1e229c96",
+      "title": "Introducing software agents to support a Web-based collective activity",
+      "venue": "IEEE/WIC International Conference on Intelligent Agent Technology, 2003. IAT 2003.",
+      "year": 2003,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IAT.2003.1241147?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IAT.2003.1241147, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper describes a multi agent approach of the organisation of a collective activity within a pedagogical context and presents how the interactions between different human and software cognitive agents can be modelled using the general theoretical conceptualization of human activity proposed by the activity theory."
+      },
+      "authors": [
+        {
+          "authorId": "2415263",
+          "name": "N. Taurisson"
+        },
+        {
+          "authorId": "3188327",
+          "name": "P. Tchounikine"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "dad978ee9c2f87c51b23db514acfd04a6ce0e536",
+      "url": "https://www.semanticscholar.org/paper/dad978ee9c2f87c51b23db514acfd04a6ce0e536",
+      "title": "Cooperative information agents V : 5th International Workshop, CIA 2001, Modena, Italy, September 6-8, 2001 : proceedings",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Framework for the Exchange and Installation of Protocols in a Multi-agent System and a Mechanism for Temporal Reasoning by Collaborative Agents are introduced."
+      },
+      "authors": [
+        {
+          "authorId": "1798357",
+          "name": "M. Klusch"
+        },
+        {
+          "authorId": "1684412",
+          "name": "F. Zambonelli"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "84de1f5acc81962f99ca23c9688e0e15db897c2d",
+      "url": "https://www.semanticscholar.org/paper/84de1f5acc81962f99ca23c9688e0e15db897c2d",
+      "title": "Process enactment support in a distributed environment",
+      "venue": "Proceedings 4th IEEE Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE '95)",
+      "year": 1995,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ENABL.1995.484548?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ENABL.1995.484548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A way to integrate process modelling and enaction with existing configuration management systems and other repositories responsible for the storage and management of the artifacts handled by the processes is proposed."
+      },
+      "authors": [
+        {
+          "authorId": "2194845",
+          "name": "K. Alho"
+        },
+        {
+          "authorId": "1846281",
+          "name": "C. Lassenius"
+        },
+        {
+          "authorId": "2952413",
+          "name": "R. Sulonen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6dd5f0e7f58c33f8c63ac4afe7b8ef8f6f881b8b",
+      "url": "https://www.semanticscholar.org/paper/6dd5f0e7f58c33f8c63ac4afe7b8ef8f6f881b8b",
+      "title": "Cooperative Knowledge Processing: The Key Technology for Intelligent Organizations",
+      "venue": "",
+      "year": 1996,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This chapter discusses Cooperative Knowledge Processing - Research Framework and Applications, which focuses on Coordination in Organizations and the ECHOES Project, which aims to develop a model for co-operation between humans and software agents in the developing world."
+      },
+      "authors": [
+        {
+          "authorId": "1778222",
+          "name": "S. Kirn"
+        },
+        {
+          "authorId": "2144934400",
+          "name": "G. O'Hare"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "34cf773eee0d9a56d051bd3b35751c74b63c8322",
+      "url": "https://www.semanticscholar.org/paper/34cf773eee0d9a56d051bd3b35751c74b63c8322",
+      "title": "Computational science and its applications - ICCSA 2007 : International Conference Kuala Lumpur, Malaysia, August 26-29, 2007 : proceedings",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Workshop on CAD/CAM and Web Based Collaboration, Framework of Integrated System for the Innovation of Mold Manufacturing Through Process Integration and Collaboration and Workshop on Embedded Systems for Ubiquitous Computing."
+      },
+      "authors": [
+        {
+          "authorId": "1684675",
+          "name": "O. Gervasi"
+        },
+        {
+          "authorId": "1679427",
+          "name": "M. Gavrilova"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "74f54a083cb363f740a7ef6c010ed5686bb1edbf",
+      "url": "https://www.semanticscholar.org/paper/74f54a083cb363f740a7ef6c010ed5686bb1edbf",
+      "title": "Towards Specialized Wireless Networks Using an ML-Driven Radio Interface",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2502.20996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces SpecNets and explains how MLDR interfaces enable this concept, and presents three illustrative use cases for wireless local area networks (WLANs): bespoke industrial networks, traffic-aware robust THz links, and coexisting networks."
+      },
+      "authors": [
+        {
+          "authorId": "2348097532",
+          "name": "Kamil Szczech"
+        },
+        {
+          "authorId": "2214810161",
+          "name": "Maksymilian Wojnar"
+        },
+        {
+          "authorId": "1399346325",
+          "name": "Katarzyna Kosek-Szott"
+        },
+        {
+          "authorId": "2303136628",
+          "name": "Krzysztof Rusek"
+        },
+        {
+          "authorId": "1878623",
+          "name": "S. Szott"
+        },
+        {
+          "authorId": "145574925",
+          "name": "Dileepa Marasinghe"
+        },
+        {
+          "authorId": "3382552",
+          "name": "N. Rajatheva"
+        },
+        {
+          "authorId": "2348097388",
+          "name": "Richard Combes"
+        },
+        {
+          "authorId": "11174618",
+          "name": "F. Wilhelmi"
+        },
+        {
+          "authorId": "2167025843",
+          "name": "Anders Jonsson"
+        },
+        {
+          "authorId": "2274139267",
+          "name": "Boris Bellalta"
+        }
+      ],
+      "abstract": "Future wireless networks will need to support diverse applications (such as extended reality), scenarios (such as fully automated industries), and technological advances (such as terahertz communications). Current wireless networks are designed to perform adequately across multiple scenarios so they lack the adaptability needed for specific use cases. Therefore, meeting the stringent requirements of next-generation applications incorporating technology advances and operating in novel scenarios will necessitate wireless specialized networks which we refer to as SpecNets. These networks, equipped with cognitive capabilities, dynamically adapt to the unique demands of each application, e.g., by automatically selecting and configuring network mechanisms. An enabler of SpecNets are the recent advances in artificial intelligence and machine learning (AI/ML), which allow to continuously learn and react to changing requirements and scenarios. By integrating AI/ML functionalities, SpecNets will fully leverage the concept of AI/ML-defined radios (MLDRs) that are able to autonomously establish their own communication protocols by acquiring contextual information and dynamically adapting to it. In this paper, we introduce SpecNets and explain how MLDR interfaces enable this concept. We present three illustrative use cases for wireless local area networks (WLANs): bespoke industrial networks, traffic-aware robust THz links, and coexisting networks. Finally, we showcase SpecNets' benefits in the industrial use case by introducing a lightweight, fast-converging ML agent based on multi-armed bandits (MABs). This agent dynamically optimizes channel access to meet varying performance needs: high throughput, low delay, or fair access. Results demonstrate significant gains over IEEE 802.11, highlighting the system's autonomous adaptability across diverse scenarios."
+    }
+  ]
+}

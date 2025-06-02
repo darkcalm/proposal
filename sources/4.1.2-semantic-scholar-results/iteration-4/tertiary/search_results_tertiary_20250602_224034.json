@@ -1,0 +1,821 @@
+{
+  "total": 53,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "f861bd068848c79c7785d01b5b9d94c3c73c990f",
+      "url": "https://www.semanticscholar.org/paper/f861bd068848c79c7785d01b5b9d94c3c73c990f",
+      "title": "Novel Applications of Data Analytics in Gas Turbine Operation for Distributed Power Generation",
+      "venue": "Volume 4: Controls, Diagnostics, and Instrumentation",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1115/gt2024-125463?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/gt2024-125463, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "96620234",
+          "name": "Deepak Thirumurthy"
+        },
+        {
+          "authorId": "2318437936",
+          "name": "Mark Scudamore"
+        }
+      ],
+      "abstract": "\n Recent advancements in data analytics and digitalization has increased the value which power generating assets, such as gas turbines, bring to power plant customers. Distributed power generation customers are increasingly partnering with gas turbine original equipment manufacturers and third-party digital service providers for cooperation in technology, innovation, and asset management using real-time data. In the past, it has been discussed that data analytics can be a key enabler in addressing challenges such as operational flexibility and efficient asset management.\n This paper presents some of the novel applications of data analytics developed by Siemens Energy for gas turbine operation, condition monitoring, and real-time decision making. Specifically, the paper presents the idea, application, and test case of remote diagnostic system, enhanced vibration analytics, and myFleetRisk\u2122.\n Remote diagnostic system increases uptime, reduces operating cost by resource optimization, and improves plant output. This paper discusses both the reactive and proactive approach to gas turbine maintenance and how remote diagnostic system can be used with data analytics landscape for deviation monitoring.\n In addition to an overview of the underlying concept and its novelty, real-world applications are presented to show the benefits to distributed power generation customers. MyfleetRisk offers optimized and tailored maintenance solutions resulting in significant life cycle cost reduction. Enhanced vibration analytics module enables reliability centered maintenance and thereby addresses key challenges to customers."
+    },
+    {
+      "paperId": "1e236baff506c32860599b84e9197ae4b5b1b02f",
+      "url": "https://www.semanticscholar.org/paper/1e236baff506c32860599b84e9197ae4b5b1b02f",
+      "title": "Embedded intelligence supporting predictive asset management in the energy sector",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1049/CP.2015.1752?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/CP.2015.1752, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1405557102",
+          "name": "E. Miguelanez-Martin"
+        },
+        {
+          "authorId": "143836960",
+          "name": "D. Flynn"
+        }
+      ],
+      "abstract": "In recent years and across a myriad of industries, there has been a realisation that in order to optimise the Remaining Useful Life (RUL) of assets and to maintain optimal system level performance whilst assets age and at times with growing and dynamic loading demands, a transition to predictive maintenance from reactive and traditional condition based monitoring and maintenance is required to achieve return of investment (ROI) and performance targets. A sector driven by security and a need to defer investment within the asset base is the Energy sector. After a brief introduction to maintenance process's in the oil and gas domain, this paper presents a novel approach to hierarchical predictive maintenance of assets in through a distributed architecture, represented as domain knowledge-based system, that provides a viable solution for systems containing similar multiple assets."
+    },
+    {
+      "paperId": "3d4cc28c6edb1f8c308d306b383bb3241cf8aa65",
+      "url": "https://www.semanticscholar.org/paper/3d4cc28c6edb1f8c308d306b383bb3241cf8aa65",
+      "title": "Real-time Condition Monitoring and Diagnostic Solution for Utility-scale Inverters and Distribution Transformers",
+      "venue": "2023 15th Seminar on Power Electronics and Control (SEPOC)",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SEPOC58810.2023.10322629?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SEPOC58810.2023.10322629, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2267750297",
+          "name": "Abdul Haleem M I"
+        },
+        {
+          "authorId": "71697293",
+          "name": "Tareg Ghaoud"
+        },
+        {
+          "authorId": "1405694349",
+          "name": "Ali Almarzooqi"
+        },
+        {
+          "authorId": "2267738164",
+          "name": "Yogesh Kumar"
+        }
+      ],
+      "abstract": "Due to the need to decarbonize the power industry, distributed energy resources (DER) integration and penetration are increasing annually at unprecedented levels. This decarbonization will be enabled by the connection of inverter-based DER (IBD) technologies as well as the required distribution transformers(DT) to connect the inverters to the grid. Failure of these critical equipment, namely the inverters and DT, may lead to the partial or complete loss of the DER as a source or enabler of renewable generation. This paper tests and validates a real-time condition monitoring and diagnostic solution that can be used for utility-scale inverters and DTs. The solution is based on IoT edge processing technology and cloud-based data analytics, offering ease of integration, implementation, and scalability. The data analytics estimate in real-time the severity level of the asset condition using a mathematical model of the asset combined with the extended park vector approach (EPVA). This is a generic approach that could be applied to assets owned by utilities or assets owned by developers like PV generators and battery energy storage developers. In this paper, we tested this approach on two critical assets associated with the NaS battery energy storage system (BESS): DT and inverters. NaS BESS installed at the 13 MW PV plant in Dubai. This approach is a real-time monitoring and diagnostic solution for condition-based monitoring of critical assets. This is part of the utility strategy to study the effectiveness and move towards a data-driven and predictive maintenance approach."
+    },
+    {
+      "paperId": "777393a1e8caa6c1d86f8cca4fa7c53a870e33ec",
+      "url": "https://www.semanticscholar.org/paper/777393a1e8caa6c1d86f8cca4fa7c53a870e33ec",
+      "title": "Borehole Optical Fibre Distributed Temperature Sensing vs. Manual Temperature Logging for Geothermal Condition Assessment: Results of the OptiSGE Project",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11644473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2292869227",
+          "name": "M. K\u0142onowski"
+        },
+        {
+          "authorId": "2304120482",
+          "name": "A. Nermoen"
+        },
+        {
+          "authorId": "2275843551",
+          "name": "P. J. Thomas"
+        },
+        {
+          "authorId": "2292861184",
+          "name": "U. Wyrwalska"
+        },
+        {
+          "authorId": "2292861429",
+          "name": "W. Pratkowiecka"
+        },
+        {
+          "authorId": "2292871311",
+          "name": "A. \u0141adocha"
+        },
+        {
+          "authorId": "2292822061",
+          "name": "K. Midtt\u00f8mme"
+        },
+        {
+          "authorId": "2292861145",
+          "name": "P. Brytan"
+        },
+        {
+          "authorId": "2292874500",
+          "name": "A. Krzonkalla"
+        },
+        {
+          "authorId": "2292868545",
+          "name": "A. Ma\u0107ko"
+        },
+        {
+          "authorId": "2043037762",
+          "name": "K. Zawistowski"
+        },
+        {
+          "authorId": "2331961513",
+          "name": "Jolanta Duczma\u0144ska-K\u0142onowska"
+        }
+      ],
+      "abstract": "Geothermal energy is a crucial component contributing to the development of local thermal energy systems as a carbon-neutral and reliable energy source. Insights into its availability derive from knowledge of geology, hydrogeology and the thermal regime of the subsurface. This expertise helps to locate and monitor geothermal installations as well as observe diverse aspects of natural and man-made thermal effects. Temperature measurements were performed in hydrogeological boreholes in south-western Poland using two methods, i.e., manual temperature logging and optical fibre distributed temperature sensing (OF DTS). It was assumed the water column in each borehole was under thermodynamic equilibrium with the local geothermal gradient of the subsurface, meaning rocks and aquifers. Most of the acquired results show typical patterns, with the upper part of the log depending on altitude, weather and climate as well as on seasonal temperature changes. For deeper parts, the temperature normally increases depending on the local geothermal gradient. The temperature logs for some boreholes located in urban agglomerations showed anthropogenic influence caused by the presence of infrastructure, the urban heat island effect, post-mining activities, etc. The presented research methods are suitable for applications connected with studies crucial to selecting the locations of geothermal installations and to optimize their technical parameters. The observations also help to identify zones of intensified groundwater flow, groundwater inrush into wells, fractured and fissured zones and many others."
+    },
+    {
+      "paperId": "0252bf491e585fd5603a87477e67a3acbf015bc5",
+      "url": "https://www.semanticscholar.org/paper/0252bf491e585fd5603a87477e67a3acbf015bc5",
+      "title": "Development of a Water Ballast Tank Coating Monitoring System",
+      "venue": "CONFERENCE 2023",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5006/c2023-19320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5006/c2023-19320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2351123461",
+          "name": "A. Skilbred"
+        },
+        {
+          "authorId": "2355913097",
+          "name": "Kevin Farinholt"
+        },
+        {
+          "authorId": "2355910766",
+          "name": "Erik Risberg"
+        },
+        {
+          "authorId": "30698000",
+          "name": "F. Friedersdorf"
+        }
+      ],
+      "abstract": "\n Inspection of ballast tanks and enclosures is generally performed using traditional methods such as visual inspection and non-destructive evaluation (NDE) techniques. However, it is common for these methods to often be labor intensive and limited by physical restrictions that prohibit access to certain areas. It is also challenging to plan for maintenance activities before the vessel has entered drydock due to limitations for inspections at sea or during short port calls. Further, the evaluation of the coating condition is heavily dependent on the inspector, and the quality of the data gathered is varying. It is the asset owner or the class society responsible for the inspection that owns the inspection reports, hence the assessment of the in-service performance of the ballast tank coating is not readily available for the supplier of the coating. Accordingly, there is a desire to transition to embedded technologies that provide monitoring capabilities that can capture the onset, and monitor the evolution of damage in an autonomous manner and preferably to detect coating degradations before extensive corrosion has developed.\n This paper presents the capabilities and limitations of a candidate sensor system to identify and characterize the location and severity of defects and degradation of water ballast tank coatings."
+    },
+    {
+      "paperId": "c647c3eedc16d6c4c6aa9b9e6d7c9fa1e6b985e6",
+      "url": "https://www.semanticscholar.org/paper/c647c3eedc16d6c4c6aa9b9e6d7c9fa1e6b985e6",
+      "title": "Smart Monitoring System for Small-scale Wind Turbine Model",
+      "venue": "2022 IEEE International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/icdcece53908.2022.9793080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/icdcece53908.2022.9793080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "146849134",
+          "name": "G. Sudharsan"
+        },
+        {
+          "authorId": "9190141",
+          "name": "J. Vishnupriyan"
+        },
+        {
+          "authorId": "145477867",
+          "name": "K. Anand"
+        },
+        {
+          "authorId": "2100378535",
+          "name": "K. Chidambarathanu"
+        }
+      ],
+      "abstract": "The most pressing challenges in the development of fossil fuel energy resources are their high value and scarcity. Therefore, renewable energy achieved through the mismanagement of natural resources is one of the most important aspects defining the energy crisis. Solar, wind, geothermal and recurring event energy are examples of assets. The cost of wind turbines is much higher compared to diesel generators. Moreover, regular maintenance costs often account for up to one-twentieth of the total cost of a rotary engine. However, accidental failure of certain elements such as blades, gearboxes, supports, brake systems can lead to high costs. Identifying parts of a system with human resources or intelligent systems helps to stop and reduce serious failures. Therefore, a completely different condition monitoring system has been applied to wind turbines, providing a great opportunity to develop a large space for analysis in the fields of structural turbine condition monitoring and field condition monitoring systems. Assessing the health of critical system components can help you become more aware of failed components and reduce maintenance time and costs. By using a completely different kind of sensor for the rotary engine components and using the right control and data acquisition systems, a complex condition monitoring system is provided."
+    },
+    {
+      "paperId": "4d3271cb46a72a94e6021cc82b54a6d6286212b6",
+      "url": "https://www.semanticscholar.org/paper/4d3271cb46a72a94e6021cc82b54a6d6286212b6",
+      "title": "Evaluation of thermal imaging system and thermal radiation detector for real-time condition monitoring of high power frequency converters",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007%2Fs40436-014-0066-1.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S40436-014-0066-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S40436-014-0066-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "29189031",
+          "name": "A. Eriksen"
+        },
+        {
+          "authorId": "51185486",
+          "name": "Dominik Osinski"
+        },
+        {
+          "authorId": "1868946",
+          "name": "D. Hjelme"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0fc352c6e7acc8afc40fd89406ef516d22183814",
+      "url": "https://www.semanticscholar.org/paper/0fc352c6e7acc8afc40fd89406ef516d22183814",
+      "title": "Internet-of-Things (IoT) Platform for Road Energy Efficiency Monitoring",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2023,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/5/2756/pdf?version=1677808477",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10007403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The new method was validated utilizing a limited dataset of vehicles driving at a constant speed on a short highway section and applied to data obtained from ten nominally identical electric cars driven over highways and urban roads, showing that the normalized energy holds information about the road roughness."
+      },
+      "authors": [
+        {
+          "authorId": "89099889",
+          "name": "A. Skar"
+        },
+        {
+          "authorId": "2210697845",
+          "name": "Anders Vestergaard"
+        },
+        {
+          "authorId": "145647105",
+          "name": "Shahrzad M. Pour"
+        },
+        {
+          "authorId": "112882238",
+          "name": "M. Pettinari"
+        }
+      ],
+      "abstract": "The road transportation sector is a dominant and growing energy consumer. Although investigations to quantify the road infrastructure\u2019s impact on energy consumption have been carried out, there are currently no standard methods to measure or label the energy efficiency of road networks. Consequently, road agencies and operators are limited to restricted types of data when managing the road network. Moreover, initiatives meant to reduce energy consumption cannot be measured and quantified. This work is, therefore, motivated by the desire to provide road agencies with a road energy efficiency monitoring concept that can provide frequent measurements over large areas across all weather conditions. The proposed system is based on measurements from in-vehicle sensors. The measurements are collected onboard with an Internet-of-Things (IoT) device, then transmitted periodically before being processed, normalized, and saved in a database. The normalization procedure involves modeling the vehicle\u2019s primary driving resistances in the driving direction. It is hypothesized that the energy remaining after normalization holds information about wind conditions, vehicle-related inefficiencies, and the physical condition of the road. The new method was first validated utilizing a limited dataset of vehicles driving at a constant speed on a short highway section. Next, the method was applied to data obtained from ten nominally identical electric cars driven over highways and urban roads. The normalized energy was compared with road roughness measurements collected by a standard road profilometer. The average measured energy consumption was 1.55 Wh per 10 m. The average normalized energy consumption was 0.13 and 0.37 Wh per 10 m for highways and urban roads, respectively. A correlation analysis showed that normalized energy consumption was positively correlated to road roughness. The average Pearson correlation coefficient was 0.88 for aggregated data and 0.32 and 0.39 for 1000-m road sections on highways and urban roads, respectively. An increase in IRI of 1 m/km resulted in a 3.4% increase in normalized energy consumption. The results show that the normalized energy holds information about the road roughness. Thus, considering the emergence of connected vehicle technologies, the method seems promising and can potentially be used as a platform for future large-scale road energy efficiency monitoring."
+    },
+    {
+      "paperId": "5ea5ad166adf2ff2c67b910f72a0a9667b344331",
+      "url": "https://www.semanticscholar.org/paper/5ea5ad166adf2ff2c67b910f72a0a9667b344331",
+      "title": "Intelligent Machine Condition Monitoring for Cyber-Physical Systems",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The Energy Optimization, Control and Markets Lab (OCM-Lab) focuses its activities on developing state of the art research on the boundaries of power systems, control, operation research and economics, and proposing market designs and energy policies appropriate for this new setting."
+      },
+      "authors": [
+        {
+          "authorId": "2070464",
+          "name": "Arkadeb Ghosal"
+        },
+        {
+          "authorId": "40617153",
+          "name": "K. Ravindran"
+        },
+        {
+          "authorId": "1712644",
+          "name": "P. Derler"
+        },
+        {
+          "authorId": "144234436",
+          "name": "H. Andrade"
+        },
+        {
+          "authorId": "46224812",
+          "name": "J. Falcon"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "201e7f670ae4302649d2bfaeef16ac995f2b5d27",
+      "url": "https://www.semanticscholar.org/paper/201e7f670ae4302649d2bfaeef16ac995f2b5d27",
+      "title": "Remote Monitoring and Control of Microgrid using Smart Sensor Network and Internet of Thing",
+      "venue": "International Conference on Control, Automation and Information Sciences",
+      "year": 2018,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CAIS.2018.8441994?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CAIS.2018.8441994, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work implements a working MG which is controlled by an advance computer based distributed control system (DCS) from ABB Inc. (800-XA system) which provides data acquisition, accesses to the user friendly human machine interface (HMI) and supervisory control of all critical assets."
+      },
+      "authors": [
+        {
+          "authorId": "2072757348",
+          "name": "K. R. Khan"
+        },
+        {
+          "authorId": "31744044",
+          "name": "Atiqur Rahman"
+        },
+        {
+          "authorId": "6102483",
+          "name": "A. Nadeem"
+        },
+        {
+          "authorId": "2597548",
+          "name": "M. Siddiqui"
+        },
+        {
+          "authorId": "7414370",
+          "name": "R. Khan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "f4c7275bab4ba898ac50abd8d58161978f0490d3",
+      "url": "https://www.semanticscholar.org/paper/f4c7275bab4ba898ac50abd8d58161978f0490d3",
+      "title": "Fiber-Wireless Sensor Networks for Monitoring Distributed Generation in a Smart Grid Environment",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "SMRs are good alternatives for energy generation due to their passive safety feature and attractive energy output profile, and the high bandwidth and reliability of the optical fiber networks."
+      },
+      "authors": [
+        {
+          "authorId": "89762058",
+          "name": "Oyeka Michael Akerele"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ab1ae5742659425aa151c5a2d647abd27f5a1fb3",
+      "url": "https://www.semanticscholar.org/paper/ab1ae5742659425aa151c5a2d647abd27f5a1fb3",
+      "title": "Design requirements for wireless sensor-based novelty detection in machinery condition monitoring",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-0-85729-320-6_47?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-0-85729-320-6_47, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The design requirements for developing Novelty Detection techniques, as middleware components embedded on a single sensor board are studied, on the basis of which a conceptual architecture for the development of wireless sensor \u2013 board level novelty detection is discussed."
+      },
+      "authors": [
+        {
+          "authorId": "32624829",
+          "name": "C. Emmanouilidis"
+        },
+        {
+          "authorId": "2430176",
+          "name": "P. Pistofidis"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9e7f5969cf7faa088e72fed79cffe25126278ec0",
+      "url": "https://www.semanticscholar.org/paper/9e7f5969cf7faa088e72fed79cffe25126278ec0",
+      "title": "Sistem Monitoring Trafo Distribusi PT.PLN (Persero) berbasis IoT",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A Low Voltage Distribution Transformer (JTR) Management owned by PT."
+      },
+      "authors": [
+        {
+          "authorId": "2068898647",
+          "name": "Budi Prasetyo"
+        },
+        {
+          "authorId": "2053111134",
+          "name": "Widhy Hayuhardhika Nugraha Putra"
+        },
+        {
+          "authorId": "7759607",
+          "name": "Dahnial Syauqy"
+        },
+        {
+          "authorId": "1927089",
+          "name": "A. Bhawiyuga"
+        },
+        {
+          "authorId": "2067010082",
+          "name": "Sigi Syah Wibowo"
+        },
+        {
+          "authorId": "29990877",
+          "name": "F. Ronilaya"
+        },
+        {
+          "authorId": "1866812",
+          "name": "I. Siradjuddin"
+        },
+        {
+          "authorId": "41019906",
+          "name": "S. Adhisuwignjo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8fa1eb408c04fcc36c8f371f287da634e9aa9f9a",
+      "url": "https://www.semanticscholar.org/paper/8fa1eb408c04fcc36c8f371f287da634e9aa9f9a",
+      "title": "Strathprints Institutional Repository On-line Transformer Condition Monitoring through Diagnostics and Anomaly Detection. In: Ieee International Conference on Intelligent Systems Application to Power On-line Transformer Condition Monitoring through Diagnostics and Anomaly Detection",
+      "venue": "",
+      "year": null,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The end-to-end components of an on-line system for diagnostics and anomaly detection for condition monitoring capabilities for two in-service transmission transformers in the UK are described."
+      },
+      "authors": [
+        {
+          "authorId": "34838405",
+          "name": "V. Catterson"
+        },
+        {
+          "authorId": "2271213879",
+          "name": "Rudd"
+        },
+        {
+          "authorId": "2271870266",
+          "name": "S. E. And Mcarthur"
+        },
+        {
+          "authorId": "2271582233",
+          "name": "S. D. J. Moss"
+        },
+        {
+          "authorId": "38725981",
+          "name": "S. Rudd"
+        },
+        {
+          "authorId": "2271115797",
+          "name": "S. McArthur"
+        },
+        {
+          "authorId": "2271214291",
+          "name": "G. Moss"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "91ec7346f1809862f15017c4ad4f3c486125c11c",
+      "url": "https://www.semanticscholar.org/paper/91ec7346f1809862f15017c4ad4f3c486125c11c",
+      "title": "Facilitating a Generic Communication Interface to Distributed Energy Resources: Mapping IEC 61850 to RESTful Services",
+      "venue": "2010 First IEEE International Conference on Smart Grid Communications",
+      "year": 2010,
+      "citationCount": 76,
+      "openAccessPdf": {
+        "url": "https://orbit.dtu.dk/files/5186490/2D0FAF9Bd01.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SMARTGRID.2010.5622020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SMARTGRID.2010.5622020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "How IEC 61850 can benefit from the REpresentational State Transfer (REST) service concept and how a server using these technologies can be used to interface with DERs as diverse as Electric Vehicles and micro Combined Heat and Power (\u00b5CHP) units is described."
+      },
+      "authors": [
+        {
+          "authorId": "2342761",
+          "name": "A. Pedersen"
+        },
+        {
+          "authorId": "33813249",
+          "name": "Einar Bragi Hauksson"
+        },
+        {
+          "authorId": "28784076",
+          "name": "P. B. Andersen"
+        },
+        {
+          "authorId": "145491436",
+          "name": "B. Poulsen"
+        },
+        {
+          "authorId": "8999260",
+          "name": "C. Traeholt"
+        },
+        {
+          "authorId": "2649070",
+          "name": "D. Gantenbein"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "03c7aa316046cdc547a73aad4197e605608fa84b",
+      "url": "https://www.semanticscholar.org/paper/03c7aa316046cdc547a73aad4197e605608fa84b",
+      "title": "An Intelligent Real-Time Edge Processing Maintenance System for Industrial Manufacturing, Control, and Diagnostic",
+      "venue": "Frontiers in Chemical Engineering",
+      "year": 2022,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fceng.2022.900096/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/fceng.2022.900096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fceng.2022.900096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The system described addresses the components necessary for implementing the predictive maintenance (PdM) strategy in soybean industrial processing manufacturing environments and includes new elements that broaden the possibilities for prescriptive maintenance (PsM) developments to be made."
+      },
+      "authors": [
+        {
+          "authorId": "144785538",
+          "name": "O. Vermesan"
+        },
+        {
+          "authorId": "144571870",
+          "name": "M. Coppola"
+        },
+        {
+          "authorId": "49457931",
+          "name": "Roy Bahr"
+        },
+        {
+          "authorId": "2174205927",
+          "name": "Ronnie Otto Bellmann"
+        },
+        {
+          "authorId": "2174205376",
+          "name": "J\u00f8ran Edell Martinsen"
+        },
+        {
+          "authorId": "2174205941",
+          "name": "Anders Kristoffersen"
+        },
+        {
+          "authorId": "2174205950",
+          "name": "Torgeir Hjertaker"
+        },
+        {
+          "authorId": "103116976",
+          "name": "John Breiland"
+        },
+        {
+          "authorId": "2174206609",
+          "name": "Karl Andersen"
+        },
+        {
+          "authorId": "2044757314",
+          "name": "Hans-Erik Sand"
+        },
+        {
+          "authorId": "2174205829",
+          "name": "David Lindberg"
+        }
+      ],
+      "abstract": "This paper presents an artificial intelligence (AI) based edge processing real-time maintenance system for the purposes of industrial manufacturing control and diagnostics. The system is evaluated in a soybean processing manufacturing facility to identify abnormalities and possible breakdown situations, prevent damage, reduce maintenance costs, and increase production productivity. The system can be used in any other manufacturing or chemical processing facility that make use of motors rotating equipment in different process phases. The system combines condition monitoring, fault detection, and diagnosis using machine learning (ML) and deep learning (DL) algorithms. These algorithms are used with data resulting from the continuous monitoring of relevant production equipment and motor parameters, such as temperature, vibration, sound/noise, and current/voltage. The condition monitoring integrates intelligent Industrial Internet of Things (IIoT) devices with multiple sensors combined with AI-based techniques and edge processing. This is done to identify the parameter modifications and distinctive patterns that occur before a failure and predict forthcoming failure modes before they arise. The data from production equipment/motors is collected wirelessly using different communication protocols - such as Bluetooth low energy (BLE), Long range wide area network (LoRaWAN), and Wi-Fi - and aggregated into an edge computing processing unit via several gateways. The AI-based algorithms are embedded in the processing unit at the edge, allowing the prediction and intelligent control of the production equipment/motor parameters. IIoT devices for environmental sensing, vibration, temperature monitoring, and sound/ultrasound detection are used with embedded signal processing that runs on an ARM Cortex-M4 microcontroller. These devices are connected through either wired or wireless protocols. The system described addresses the components necessary for implementing the predictive maintenance (PdM) strategy in soybean industrial processing manufacturing environments. Additionally, it includes new elements that broaden the possibilities for prescriptive maintenance (PsM) developments to be made. The type of ML or DL techniques and algorithms used in maintenance modeling is dictated by the application and available data. The approach presented combines multiple data sources that improve the accuracy of condition monitoring and prediction. DL methods further increase the accuracy and require interpretable and efficient methods as well as the availability of significant amounts of (labeled) data."
+    },
+    {
+      "paperId": "b25bcee13b88a70cde891f8a158871bfdd1d59db",
+      "url": "https://www.semanticscholar.org/paper/b25bcee13b88a70cde891f8a158871bfdd1d59db",
+      "title": "4.5 AI and IIoT-based Predictive Maintenance System for Soybean Processing",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An industrial predictive maintenance system used in soybean processing based on arti\ufb01cial intelligence (AI) and Industrial Internet of Things (IIoT) technologies to identify abnormalities and potentially break down situations to prevent damage, reduce maintenance costs and increase productivity."
+      },
+      "authors": [
+        {
+          "authorId": "144785538",
+          "name": "O. Vermesan"
+        },
+        {
+          "authorId": "49457931",
+          "name": "Roy Bahr"
+        },
+        {
+          "authorId": "2174205927",
+          "name": "Ronnie Otto Bellmann"
+        },
+        {
+          "authorId": "2174205376",
+          "name": "J\u00f8ran Edell Martinsen"
+        },
+        {
+          "authorId": "2174205941",
+          "name": "Anders Kristoffersen"
+        },
+        {
+          "authorId": "2174205950",
+          "name": "Torgeir Hjertaker"
+        },
+        {
+          "authorId": "103116976",
+          "name": "John Breiland"
+        },
+        {
+          "authorId": "2174206609",
+          "name": "Karl Andersen"
+        },
+        {
+          "authorId": "2044757314",
+          "name": "Hans-Erik Sand"
+        },
+        {
+          "authorId": "1963791",
+          "name": "Parsa Rahmanpour"
+        },
+        {
+          "authorId": "2174205829",
+          "name": "David Lindberg"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "90dcbb300bf3dfe5bcdbb07ba8bda5abfcf2ddf6",
+      "url": "https://www.semanticscholar.org/paper/90dcbb300bf3dfe5bcdbb07ba8bda5abfcf2ddf6",
+      "title": "Centralized Control in Photovoltaic Distributed Maximum Power Point Tracking Systems",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-37161-6_39?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-37161-6_39, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel centralized control that matches distributed and central maximum power point tracking functions, as well as an innovative functionality that improves the dynamic performance in photovoltaic applications are proposed."
+      },
+      "authors": [
+        {
+          "authorId": "1413167702",
+          "name": "Ram\u00f3n L\u00f3pez-Erauskin"
+        },
+        {
+          "authorId": "144671027",
+          "name": "Ander Gonz\u00e1lez"
+        },
+        {
+          "authorId": "49829632",
+          "name": "J. Gyselinck"
+        },
+        {
+          "authorId": "1780066",
+          "name": "G. Petrone"
+        },
+        {
+          "authorId": "14541846",
+          "name": "G. Spagnuolo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "bcb8da03c95b9cf23ef8f331ab74e74d9a67df8e",
+      "url": "https://www.semanticscholar.org/paper/bcb8da03c95b9cf23ef8f331ab74e74d9a67df8e",
+      "title": "Micro-scale piezoelectric vibration energy harvesting: from fixed-frequency to adaptable-frequency devices",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "49158935",
+          "name": "L. Miller"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7a3b6b855d32d9356f999c9cdaf129b76222458c",
+      "url": "https://www.semanticscholar.org/paper/7a3b6b855d32d9356f999c9cdaf129b76222458c",
+      "title": "The Event Detection System in the NEXT-White Detector",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2021,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/21/2/673/pdf?version=1611196053",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7835751, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The event detection system of the NEXT-White detector, a 5 kg high pressure xenon TPC with electroluminescent amplification, located in the Laboratorio Subterr\u00e1neo de Canfranc (LSC), Spain, has been designed to detect multiple events based on online PMT signal energy measurements and a coincidence-detection algorithm."
+      },
+      "authors": [
+        {
+          "authorId": "2047242319",
+          "name": "R. Esteve Bosch"
+        },
+        {
+          "authorId": "2047226851",
+          "name": "J. F. Toledo Alarc\u00f3n"
+        },
+        {
+          "authorId": "30570026",
+          "name": "V. Herrero Bosch"
+        },
+        {
+          "authorId": "2047223761",
+          "name": "Ander Sim\u00f3n Est\u00e9vez"
+        },
+        {
+          "authorId": "100821965",
+          "name": "Francesc Monrabal Capilla"
+        },
+        {
+          "authorId": "2047223754",
+          "name": "Vicente \u00c1lvarez Puerta"
+        },
+        {
+          "authorId": "2047223814",
+          "name": "Javier Rodr\u00edguez Samaniego"
+        },
+        {
+          "authorId": "2047242438",
+          "name": "Marc Querol Segura"
+        },
+        {
+          "authorId": "2047242427",
+          "name": "Francisco Ballester Merelo"
+        }
+      ],
+      "abstract": "This article describes the event detection system of the NEXT-White detector, a 5 kg high pressure xenon TPC with electroluminescent amplification, located in the Laboratorio Subterr\u00e1neo de Canfranc (LSC), Spain. The detector is based on a plane of photomultipliers (PMTs) for energy measurements and a silicon photomultiplier (SiPM) tracking plane for offline topological event filtering. The event detection system, based on the SRS-ATCA data acquisition system developed in the framework of the CERN RD51 collaboration, has been designed to detect multiple events based on online PMT signal energy measurements and a coincidence-detection algorithm. Implemented on FPGA, the system has been successfully running and evolving during NEXT-White operation. The event detection system brings some relevant and new functionalities in the field. A distributed double event processor has been implemented to detect simultaneously two different types of events thus allowing simultaneous calibration and physics runs. This special feature provides constant monitoring of the detector conditions, being especially relevant to the lifetime and geometrical map computations which are needed to correct high-energy physics events. Other features, like primary scintillation event rejection, or a double buffer associated with the type of event being searched, help reduce the unnecessary data throughput thus minimizing dead time and improving trigger efficiency."
+    }
+  ]
+}

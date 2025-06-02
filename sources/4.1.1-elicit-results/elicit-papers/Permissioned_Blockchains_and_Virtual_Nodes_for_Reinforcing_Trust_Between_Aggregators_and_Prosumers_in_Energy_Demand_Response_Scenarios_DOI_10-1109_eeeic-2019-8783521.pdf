@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta rel="search"
+          type="application/opensearchdescription+xml"
+          href="/open_search.xml"
+          title="Academia.edu">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="google-site-verification" content="bKJMBZA7E43xhDOopFZkssMMkBRjvYERV-NaN4R6mrs">
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eS46h-FRMDf1_uxCh5Z0Q_3WwELNNdJMY5dExhYGbFiQSyDRUGiMsypNtwxCqoYraHx0UpdYmgxCbANpu0bmHQ" />
+    <meta name="citation_title" content="Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios" />
+<meta name="citation_publication_date" content="2019/01/01" />
+<meta name="citation_journal_title" content="2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&amp;amp;CPS Europe)" />
+<meta name="citation_author" content="Dimitrios Tzovaras" />
+<meta name="citation_doi" content="10.1109/EEEIC.2019.8783521" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios" />
+<meta name="twitter:title" content="Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios" />
+<meta name="twitter:description" content="Academia.edu is a platform for academics to share research papers." />
+<meta name="twitter:image" content="http://a.academia-assets.com/images/twitter-card.jpeg" />
+<meta property="fb:app_id" content="2369844204" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios" />
+<meta property="og:title" content="Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios" />
+<meta property="og:image" content="http://a.academia-assets.com/images/open-graph-icons/fb-paper.gif" />
+<meta property="og:description" content="Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios" />
+<meta property="article:author" content="https://independent.academia.edu/DimitriosTzovaras" />
+<meta name="description" content="Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios" />
+
+
+    <title>(PDF) Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios</title>
+
+      <link rel="canonical" href="https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios" />
+
+
+
+    
+
+    
+<script>
+  var $controller_name = 'single_work';
+  var $action_name = "show";
+  var $rails_env = 'production';
+  var $app_rev = 'cbbecbbbe0155685402cf89af6dccc866637f7f5';
+  var $domain = 'academia.edu';
+  var $app_host = "academia.edu";
+  var $asset_host = "academia-assets.com";
+  var $start_time = new Date().getTime();
+  var $recaptcha_key = "6LdxlRMTAAAAADnu_zyLhLg0YF9uACwz78shpjJB";
+  var $recaptcha_invisible_key = "6Lf3KHUUAAAAACggoMpmGJdQDtiyrjVlvGJ6BbAj";
+  var $disableClientRecordHit = false;
+
+</script>
+
+
+    <script>
+      window.Aedu = window.Aedu || {};
+      window.Aedu.hit_data = null;
+      window.Aedu.serverRenderTime = new Date(1748894231000);
+      window.Aedu.timeDifference = new Date().getTime() - 1748894231000;
+    </script>
+
+      <link rel="stylesheet" href="//a.academia-assets.com/assets/simpler/logged_out_header-e6174dcb01db71084c31aee4597ea02832d4e2827e95092ede6135b149702ca5.css" media="all" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5VKX33P2DS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5VKX33P2DS', {
+    cookie_domain: 'academia.edu',
+    send_page_view: false,
+  });
+  gtag('event', 'page_view', {
+    'controller': "single_work",
+    'action': "show",
+    'controller_action': 'single_work#show',
+    'logged_in': 'false',
+    'edge': 'unknown',
+    // Send nil if there is no A/B test bucket, in case some records get logged
+    // with missing data - that way we can distinguish between the two cases.
+    // ab_test_bucket should be of the form <ab_test_name>:<bucket>
+    'ab_test_bucket': null,
+  })
+</script>
+
+
+    <script>
+      window.$feature_flags = {}
+    </script>
+
+    <script>
+      window.Aedu.SiteStats = {"premium_universities_count":13787,"monthly_visitors":"31 million","monthly_visitor_count":31300000,"monthly_visitor_count_in_millions":31,"user_count":289992907,"paper_count":55203019,"paper_count_in_millions":55,"page_count":432000000,"page_count_in_millions":432,"pdf_count":16500000,"pdf_count_in_millions":16}
+    </script>
+
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","author":[{"@context":"https://schema.org","@type":"Person","name":"Dimitrios Tzovaras","url":"https://independent.academia.edu/DimitriosTzovaras","sameAs":[]}],"contributor":[],"dateCreated":"2024-05-14","datePublished":"2019-01-01","headline":"Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios","identifier":{"@type":"PropertyValue","propertyID":"DOI","value":"10.1109/EEEIC.2019.8783521"},"image":"https://attachments.academia-assets.com/114535363/thumbnails/1.jpg","inLanguage":"en","keywords":["Engineering","Computer Science","Computer Security","Smart Grid","Demand Response","Interoperability","Software Deployment"],"publication":"2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I\u0026amp;CPS Europe)","publisher":{"@context":"https://schema.org","@type":"Organization","name":"IEEE"},"sameAs":"https://doi.org/10.1109/EEEIC.2019.8783521","sourceOrganization":[{"@context":"https://schema.org","@type":"EducationalOrganization","name":null}],"thumbnailUrl":"https://attachments.academia-assets.com/114535363/thumbnails/1.jpg","url":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios"}</script><style>@media(max-width: 567px){:root{--token-mode: Rebrand;--dropshadow: 0 2px 4px 0 #22223340;--primary-brand: #0645b1;--error-dark: #b60000;--success-dark: #05b01c;--inactive-fill: #ebebee;--hover: #0c3b8d;--pressed: #082f75;--button-primary-fill-inactive: #ebebee;--button-primary-fill: #0645b1;--button-primary-text: #ffffff;--button-primary-fill-hover: #0c3b8d;--button-primary-fill-press: #082f75;--button-primary-icon: #ffffff;--button-primary-fill-inverse: #ffffff;--button-primary-text-inverse: #082f75;--button-primary-icon-inverse: #0645b1;--button-primary-fill-inverse-hover: #cddaef;--button-primary-stroke-inverse-pressed: #0645b1;--button-secondary-stroke-inactive: #b1b1ba;--button-secondary-fill: #eef2f9;--button-secondary-text: #082f75;--button-secondary-fill-press: #cddaef;--button-secondary-fill-inactive: #ebebee;--button-secondary-stroke: #cddaef;--button-secondary-stroke-hover: #386ac1;--button-secondary-stroke-press: #0645b1;--button-secondary-text-inactive: #b1b1ba;--button-secondary-icon: #082f75;--button-secondary-fill-hover: #e6ecf7;--button-secondary-stroke-inverse: #ffffff;--button-secondary-fill-inverse: rgba(255, 255, 255, 0);--button-secondary-icon-inverse: #ffffff;--button-secondary-icon-hover: #082f75;--button-secondary-icon-press: #082f75;--button-secondary-text-inverse: #ffffff;--button-secondary-text-hover: #082f75;--button-secondary-text-press: #082f75;--button-secondary-fill-inverse-hover: #043059;--button-xs-stroke: #141413;--button-xs-stroke-hover: #0c3b8d;--button-xs-stroke-press: #082f75;--button-xs-stroke-inactive: #ebebee;--button-xs-text: #141413;--button-xs-text-hover: #0c3b8d;--button-xs-text-press: #082f75;--button-xs-text-inactive: #91919e;--button-xs-icon: #141413;--button-xs-icon-hover: #0c3b8d;--button-xs-icon-press: #082f75;--button-xs-icon-inactive: #91919e;--button-xs-fill: #ffffff;--button-xs-fill-hover: #f4f7fc;--button-xs-fill-press: #eef2f9;--buttons-button-text-inactive: #91919e;--buttons-button-focus: #0645b1;--buttons-button-icon-inactive: #91919e;--buttons-small-buttons-corner-radius: 16px;--buttons-small-buttons-l-r-padding: 20px;--buttons-small-buttons-height: 48px;--buttons-small-buttons-gap: 8px;--buttons-small-buttons-icon-only-width: 48px;--buttons-small-buttons-icon-size: 20px;--buttons-small-buttons-stroke-default: 1px;--buttons-small-buttons-stroke-thick: 2px;--buttons-large-buttons-l-r-padding: 32px;--buttons-large-buttons-height: 64px;--buttons-large-buttons-icon-only-width: 64px;--buttons-large-buttons-icon-size: 20px;--buttons-large-buttons-gap: 8px;--buttons-large-buttons-corner-radius: 16px;--buttons-large-buttons-stroke-default: 1px;--buttons-large-buttons-stroke-thick: 2px;--buttons-extra-small-buttons-l-r-padding: 8px;--buttons-extra-small-buttons-height: 32px;--buttons-extra-small-buttons-icon-size: 16px;--buttons-extra-small-buttons-gap: 4px;--buttons-extra-small-buttons-corner-radius: 8px;--buttons-stroke-default: 1px;--buttons-stroke-thick: 2px;--background-beige: #f9f7f4;--error-light: #fff2f2;--text-placeholder: #6d6d7d;--stroke-dark: #141413;--stroke-light: #dddde2;--stroke-medium: #535366;--accent-green: #ccffd4;--accent-turquoise: #ccf7ff;--accent-yellow: #f7ffcc;--accent-peach: #ffd4cc;--accent-violet: #f7ccff;--accent-purple: #f4f7fc;--text-primary: #141413;--secondary-brand: #141413;--text-hover: #0c3b8d;--text-white: #ffffff;--text-link: #0645b1;--text-press: #082f75;--success-light: #f0f8f1;--background-light-blue: #f4f7fc;--background-white: #ffffff;--premium-dark: #877440;--premium-light: #f9f6ed;--stroke-white: #ffffff;--inactive-content: #b1b1ba;--annotate-light: #a35dff;--annotate-dark: #824acc;--grid: #eef2f9;--inactive-stroke: #ebebee;--shadow: rgba(34, 34, 51, 0.25);--text-inactive: #6d6d7d;--text-error: #b60000;--stroke-error: #b60000;--background-error: #fff2f2;--background-black: #141413;--icon-default: #141413;--icon-blue: #0645b1;--background-grey: #dddde2;--icon-grey: #b1b1ba;--text-focus: #082f75;--brand-colors-neutral-black: #141413;--brand-colors-neutral-900: #535366;--brand-colors-neutral-800: #6d6d7d;--brand-colors-neutral-700: #91919e;--brand-colors-neutral-600: #b1b1ba;--brand-colors-neutral-500: #c8c8cf;--brand-colors-neutral-400: #dddde2;--brand-colors-neutral-300: #ebebee;--brand-colors-neutral-200: #f8f8fb;--brand-colors-neutral-100: #fafafa;--brand-colors-neutral-white: #ffffff;--brand-colors-blue-900: #043059;--brand-colors-blue-800: #082f75;--brand-colors-blue-700: #0c3b8d;--brand-colors-blue-600: #0645b1;--brand-colors-blue-500: #386ac1;--brand-colors-blue-400: #cddaef;--brand-colors-blue-300: #e6ecf7;--brand-colors-blue-200: #eef2f9;--brand-colors-blue-100: #f4f7fc;--brand-colors-gold-500: #877440;--brand-colors-gold-400: #e9e3d4;--brand-colors-gold-300: #f2efe8;--brand-colors-gold-200: #f9f6ed;--brand-colors-gold-100: #f9f7f4;--brand-colors-error-900: #920000;--brand-colors-error-500: #b60000;--brand-colors-success-900: #035c0f;--brand-colors-green: #ccffd4;--brand-colors-turquoise: #ccf7ff;--brand-colors-yellow: #f7ffcc;--brand-colors-peach: #ffd4cc;--brand-colors-violet: #f7ccff;--brand-colors-error-100: #fff2f2;--brand-colors-success-500: #05b01c;--brand-colors-success-100: #f0f8f1;--text-secondary: #535366;--icon-white: #ffffff;--background-beige-darker: #f2efe8;--icon-dark-grey: #535366;--type-font-family-sans-serif: DM Sans;--type-font-family-serif: Gupter;--type-font-family-mono: IBM Plex Mono;--type-weights-300: 300;--type-weights-400: 400;--type-weights-500: 500;--type-weights-700: 700;--type-sizes-12: 12px;--type-sizes-14: 14px;--type-sizes-16: 16px;--type-sizes-18: 18px;--type-sizes-20: 20px;--type-sizes-22: 22px;--type-sizes-24: 24px;--type-sizes-28: 28px;--type-sizes-30: 30px;--type-sizes-32: 32px;--type-sizes-40: 40px;--type-sizes-42: 42px;--type-sizes-48-2: 48px;--type-line-heights-16: 16px;--type-line-heights-20: 20px;--type-line-heights-23: 23px;--type-line-heights-24: 24px;--type-line-heights-25: 25px;--type-line-heights-26: 26px;--type-line-heights-29: 29px;--type-line-heights-30: 30px;--type-line-heights-32: 32px;--type-line-heights-34: 34px;--type-line-heights-35: 35px;--type-line-heights-36: 36px;--type-line-heights-38: 38px;--type-line-heights-40: 40px;--type-line-heights-46: 46px;--type-line-heights-48: 48px;--type-line-heights-52: 52px;--type-line-heights-58: 58px;--type-line-heights-68: 68px;--type-line-heights-74: 74px;--type-line-heights-82: 82px;--type-paragraph-spacings-0: 0px;--type-paragraph-spacings-4: 4px;--type-paragraph-spacings-8: 8px;--type-paragraph-spacings-16: 16px;--type-sans-serif-xl-font-weight: 400;--type-sans-serif-xl-size: 32px;--type-sans-serif-xl-line-height: 46px;--type-sans-serif-xl-paragraph-spacing: 16px;--type-sans-serif-lg-font-weight: 400;--type-sans-serif-lg-size: 30px;--type-sans-serif-lg-line-height: 36px;--type-sans-serif-lg-paragraph-spacing: 16px;--type-sans-serif-md-font-weight: 400;--type-sans-serif-md-line-height: 30px;--type-sans-serif-md-paragraph-spacing: 16px;--type-sans-serif-md-size: 24px;--type-sans-serif-xs-font-weight: 700;--type-sans-serif-xs-line-height: 24px;--type-sans-serif-xs-paragraph-spacing: 0px;--type-sans-serif-xs-size: 18px;--type-sans-serif-sm-font-weight: 400;--type-sans-serif-sm-line-height: 32px;--type-sans-serif-sm-paragraph-spacing: 16px;--type-sans-serif-sm-size: 20px;--type-body-xl-font-weight: 400;--type-body-xl-size: 24px;--type-body-xl-line-height: 36px;--type-body-xl-paragraph-spacing: 0px;--type-body-sm-font-weight: 400;--type-body-sm-size: 14px;--type-body-sm-line-height: 20px;--type-body-sm-paragraph-spacing: 8px;--type-body-xs-font-weight: 400;--type-body-xs-size: 12px;--type-body-xs-line-height: 16px;--type-body-xs-paragraph-spacing: 0px;--type-body-md-font-weight: 400;--type-body-md-size: 16px;--type-body-md-line-height: 20px;--type-body-md-paragraph-spacing: 4px;--type-body-lg-font-weight: 400;--type-body-lg-size: 20px;--type-body-lg-line-height: 26px;--type-body-lg-paragraph-spacing: 16px;--type-body-lg-medium-font-weight: 500;--type-body-lg-medium-size: 20px;--type-body-lg-medium-line-height: 32px;--type-body-lg-medium-paragraph-spacing: 16px;--type-body-md-medium-font-weight: 500;--type-body-md-medium-size: 16px;--type-body-md-medium-line-height: 20px;--type-body-md-medium-paragraph-spacing: 4px;--type-body-sm-bold-font-weight: 700;--type-body-sm-bold-size: 14px;--type-body-sm-bold-line-height: 20px;--type-body-sm-bold-paragraph-spacing: 8px;--type-body-sm-medium-font-weight: 500;--type-body-sm-medium-size: 14px;--type-body-sm-medium-line-height: 20px;--type-body-sm-medium-paragraph-spacing: 8px;--type-serif-md-font-weight: 400;--type-serif-md-size: 32px;--type-serif-md-paragraph-spacing: 0px;--type-serif-md-line-height: 40px;--type-serif-sm-font-weight: 400;--type-serif-sm-size: 24px;--type-serif-sm-paragraph-spacing: 0px;--type-serif-sm-line-height: 26px;--type-serif-lg-font-weight: 400;--type-serif-lg-size: 48px;--type-serif-lg-paragraph-spacing: 0px;--type-serif-lg-line-height: 52px;--type-serif-xs-font-weight: 400;--type-serif-xs-size: 18px;--type-serif-xs-line-height: 24px;--type-serif-xs-paragraph-spacing: 0px;--type-serif-xl-font-weight: 400;--type-serif-xl-size: 48px;--type-serif-xl-paragraph-spacing: 0px;--type-serif-xl-line-height: 58px;--type-mono-md-font-weight: 400;--type-mono-md-size: 22px;--type-mono-md-line-height: 24px;--type-mono-md-paragraph-spacing: 0px;--type-mono-lg-font-weight: 400;--type-mono-lg-size: 40px;--type-mono-lg-line-height: 40px;--type-mono-lg-paragraph-spacing: 0px;--type-mono-sm-font-weight: 400;--type-mono-sm-size: 14px;--type-mono-sm-line-height: 24px;--type-mono-sm-paragraph-spacing: 0px;--spacing-xs-4: 4px;--spacing-xs-8: 8px;--spacing-xs-16: 16px;--spacing-sm-24: 24px;--spacing-sm-32: 32px;--spacing-md-40: 40px;--spacing-md-48: 48px;--spacing-lg-64: 64px;--spacing-lg-80: 80px;--spacing-xlg-104: 104px;--spacing-xlg-152: 152px;--spacing-xs-12: 12px;--spacing-page-section: 80px;--spacing-card-list-spacing: 48px;--spacing-text-section-spacing: 64px;--spacing-md-xs-headings: 40px;--corner-radius-radius-lg: 16px;--corner-radius-radius-sm: 4px;--corner-radius-radius-md: 8px;--corner-radius-radius-round: 104px}}@media(min-width: 568px)and (max-width: 1279px){:root{--token-mode: Rebrand;--dropshadow: 0 2px 4px 0 #22223340;--primary-brand: #0645b1;--error-dark: #b60000;--success-dark: #05b01c;--inactive-fill: #ebebee;--hover: #0c3b8d;--pressed: #082f75;--button-primary-fill-inactive: #ebebee;--button-primary-fill: #0645b1;--button-primary-text: #ffffff;--button-primary-fill-hover: #0c3b8d;--button-primary-fill-press: #082f75;--button-primary-icon: #ffffff;--button-primary-fill-inverse: #ffffff;--button-primary-text-inverse: #082f75;--button-primary-icon-inverse: #0645b1;--button-primary-fill-inverse-hover: #cddaef;--button-primary-stroke-inverse-pressed: #0645b1;--button-secondary-stroke-inactive: #b1b1ba;--button-secondary-fill: #eef2f9;--button-secondary-text: #082f75;--button-secondary-fill-press: #cddaef;--button-secondary-fill-inactive: #ebebee;--button-secondary-stroke: #cddaef;--button-secondary-stroke-hover: #386ac1;--button-secondary-stroke-press: #0645b1;--button-secondary-text-inactive: #b1b1ba;--button-secondary-icon: #082f75;--button-secondary-fill-hover: #e6ecf7;--button-secondary-stroke-inverse: #ffffff;--button-secondary-fill-inverse: rgba(255, 255, 255, 0);--button-secondary-icon-inverse: #ffffff;--button-secondary-icon-hover: #082f75;--button-secondary-icon-press: #082f75;--button-secondary-text-inverse: #ffffff;--button-secondary-text-hover: #082f75;--button-secondary-text-press: #082f75;--button-secondary-fill-inverse-hover: #043059;--button-xs-stroke: #141413;--button-xs-stroke-hover: #0c3b8d;--button-xs-stroke-press: #082f75;--button-xs-stroke-inactive: #ebebee;--button-xs-text: #141413;--button-xs-text-hover: #0c3b8d;--button-xs-text-press: #082f75;--button-xs-text-inactive: #91919e;--button-xs-icon: #141413;--button-xs-icon-hover: #0c3b8d;--button-xs-icon-press: #082f75;--button-xs-icon-inactive: #91919e;--button-xs-fill: #ffffff;--button-xs-fill-hover: #f4f7fc;--button-xs-fill-press: #eef2f9;--buttons-button-text-inactive: #91919e;--buttons-button-focus: #0645b1;--buttons-button-icon-inactive: #91919e;--buttons-small-buttons-corner-radius: 16px;--buttons-small-buttons-l-r-padding: 20px;--buttons-small-buttons-height: 48px;--buttons-small-buttons-gap: 8px;--buttons-small-buttons-icon-only-width: 48px;--buttons-small-buttons-icon-size: 20px;--buttons-small-buttons-stroke-default: 1px;--buttons-small-buttons-stroke-thick: 2px;--buttons-large-buttons-l-r-padding: 32px;--buttons-large-buttons-height: 64px;--buttons-large-buttons-icon-only-width: 64px;--buttons-large-buttons-icon-size: 20px;--buttons-large-buttons-gap: 8px;--buttons-large-buttons-corner-radius: 16px;--buttons-large-buttons-stroke-default: 1px;--buttons-large-buttons-stroke-thick: 2px;--buttons-extra-small-buttons-l-r-padding: 8px;--buttons-extra-small-buttons-height: 32px;--buttons-extra-small-buttons-icon-size: 16px;--buttons-extra-small-buttons-gap: 4px;--buttons-extra-small-buttons-corner-radius: 8px;--buttons-stroke-default: 1px;--buttons-stroke-thick: 2px;--background-beige: #f9f7f4;--error-light: #fff2f2;--text-placeholder: #6d6d7d;--stroke-dark: #141413;--stroke-light: #dddde2;--stroke-medium: #535366;--accent-green: #ccffd4;--accent-turquoise: #ccf7ff;--accent-yellow: #f7ffcc;--accent-peach: #ffd4cc;--accent-violet: #f7ccff;--accent-purple: #f4f7fc;--text-primary: #141413;--secondary-brand: #141413;--text-hover: #0c3b8d;--text-white: #ffffff;--text-link: #0645b1;--text-press: #082f75;--success-light: #f0f8f1;--background-light-blue: #f4f7fc;--background-white: #ffffff;--premium-dark: #877440;--premium-light: #f9f6ed;--stroke-white: #ffffff;--inactive-content: #b1b1ba;--annotate-light: #a35dff;--annotate-dark: #824acc;--grid: #eef2f9;--inactive-stroke: #ebebee;--shadow: rgba(34, 34, 51, 0.25);--text-inactive: #6d6d7d;--text-error: #b60000;--stroke-error: #b60000;--background-error: #fff2f2;--background-black: #141413;--icon-default: #141413;--icon-blue: #0645b1;--background-grey: #dddde2;--icon-grey: #b1b1ba;--text-focus: #082f75;--brand-colors-neutral-black: #141413;--brand-colors-neutral-900: #535366;--brand-colors-neutral-800: #6d6d7d;--brand-colors-neutral-700: #91919e;--brand-colors-neutral-600: #b1b1ba;--brand-colors-neutral-500: #c8c8cf;--brand-colors-neutral-400: #dddde2;--brand-colors-neutral-300: #ebebee;--brand-colors-neutral-200: #f8f8fb;--brand-colors-neutral-100: #fafafa;--brand-colors-neutral-white: #ffffff;--brand-colors-blue-900: #043059;--brand-colors-blue-800: #082f75;--brand-colors-blue-700: #0c3b8d;--brand-colors-blue-600: #0645b1;--brand-colors-blue-500: #386ac1;--brand-colors-blue-400: #cddaef;--brand-colors-blue-300: #e6ecf7;--brand-colors-blue-200: #eef2f9;--brand-colors-blue-100: #f4f7fc;--brand-colors-gold-500: #877440;--brand-colors-gold-400: #e9e3d4;--brand-colors-gold-300: #f2efe8;--brand-colors-gold-200: #f9f6ed;--brand-colors-gold-100: #f9f7f4;--brand-colors-error-900: #920000;--brand-colors-error-500: #b60000;--brand-colors-success-900: #035c0f;--brand-colors-green: #ccffd4;--brand-colors-turquoise: #ccf7ff;--brand-colors-yellow: #f7ffcc;--brand-colors-peach: #ffd4cc;--brand-colors-violet: #f7ccff;--brand-colors-error-100: #fff2f2;--brand-colors-success-500: #05b01c;--brand-colors-success-100: #f0f8f1;--text-secondary: #535366;--icon-white: #ffffff;--background-beige-darker: #f2efe8;--icon-dark-grey: #535366;--type-font-family-sans-serif: DM Sans;--type-font-family-serif: Gupter;--type-font-family-mono: IBM Plex Mono;--type-weights-300: 300;--type-weights-400: 400;--type-weights-500: 500;--type-weights-700: 700;--type-sizes-12: 12px;--type-sizes-14: 14px;--type-sizes-16: 16px;--type-sizes-18: 18px;--type-sizes-20: 20px;--type-sizes-22: 22px;--type-sizes-24: 24px;--type-sizes-28: 28px;--type-sizes-30: 30px;--type-sizes-32: 32px;--type-sizes-40: 40px;--type-sizes-42: 42px;--type-sizes-48-2: 48px;--type-line-heights-16: 16px;--type-line-heights-20: 20px;--type-line-heights-23: 23px;--type-line-heights-24: 24px;--type-line-heights-25: 25px;--type-line-heights-26: 26px;--type-line-heights-29: 29px;--type-line-heights-30: 30px;--type-line-heights-32: 32px;--type-line-heights-34: 34px;--type-line-heights-35: 35px;--type-line-heights-36: 36px;--type-line-heights-38: 38px;--type-line-heights-40: 40px;--type-line-heights-46: 46px;--type-line-heights-48: 48px;--type-line-heights-52: 52px;--type-line-heights-58: 58px;--type-line-heights-68: 68px;--type-line-heights-74: 74px;--type-line-heights-82: 82px;--type-paragraph-spacings-0: 0px;--type-paragraph-spacings-4: 4px;--type-paragraph-spacings-8: 8px;--type-paragraph-spacings-16: 16px;--type-sans-serif-xl-font-weight: 400;--type-sans-serif-xl-size: 42px;--type-sans-serif-xl-line-height: 46px;--type-sans-serif-xl-paragraph-spacing: 16px;--type-sans-serif-lg-font-weight: 400;--type-sans-serif-lg-size: 32px;--type-sans-serif-lg-line-height: 36px;--type-sans-serif-lg-paragraph-spacing: 16px;--type-sans-serif-md-font-weight: 400;--type-sans-serif-md-line-height: 34px;--type-sans-serif-md-paragraph-spacing: 16px;--type-sans-serif-md-size: 28px;--type-sans-serif-xs-font-weight: 700;--type-sans-serif-xs-line-height: 25px;--type-sans-serif-xs-paragraph-spacing: 0px;--type-sans-serif-xs-size: 20px;--type-sans-serif-sm-font-weight: 400;--type-sans-serif-sm-line-height: 30px;--type-sans-serif-sm-paragraph-spacing: 16px;--type-sans-serif-sm-size: 24px;--type-body-xl-font-weight: 400;--type-body-xl-size: 24px;--type-body-xl-line-height: 36px;--type-body-xl-paragraph-spacing: 0px;--type-body-sm-font-weight: 400;--type-body-sm-size: 14px;--type-body-sm-line-height: 20px;--type-body-sm-paragraph-spacing: 8px;--type-body-xs-font-weight: 400;--type-body-xs-size: 12px;--type-body-xs-line-height: 16px;--type-body-xs-paragraph-spacing: 0px;--type-body-md-font-weight: 400;--type-body-md-size: 16px;--type-body-md-line-height: 20px;--type-body-md-paragraph-spacing: 4px;--type-body-lg-font-weight: 400;--type-body-lg-size: 20px;--type-body-lg-line-height: 26px;--type-body-lg-paragraph-spacing: 16px;--type-body-lg-medium-font-weight: 500;--type-body-lg-medium-size: 20px;--type-body-lg-medium-line-height: 32px;--type-body-lg-medium-paragraph-spacing: 16px;--type-body-md-medium-font-weight: 500;--type-body-md-medium-size: 16px;--type-body-md-medium-line-height: 20px;--type-body-md-medium-paragraph-spacing: 4px;--type-body-sm-bold-font-weight: 700;--type-body-sm-bold-size: 14px;--type-body-sm-bold-line-height: 20px;--type-body-sm-bold-paragraph-spacing: 8px;--type-body-sm-medium-font-weight: 500;--type-body-sm-medium-size: 14px;--type-body-sm-medium-line-height: 20px;--type-body-sm-medium-paragraph-spacing: 8px;--type-serif-md-font-weight: 400;--type-serif-md-size: 40px;--type-serif-md-paragraph-spacing: 0px;--type-serif-md-line-height: 48px;--type-serif-sm-font-weight: 400;--type-serif-sm-size: 28px;--type-serif-sm-paragraph-spacing: 0px;--type-serif-sm-line-height: 32px;--type-serif-lg-font-weight: 400;--type-serif-lg-size: 58px;--type-serif-lg-paragraph-spacing: 0px;--type-serif-lg-line-height: 68px;--type-serif-xs-font-weight: 400;--type-serif-xs-size: 18px;--type-serif-xs-line-height: 24px;--type-serif-xs-paragraph-spacing: 0px;--type-serif-xl-font-weight: 400;--type-serif-xl-size: 74px;--type-serif-xl-paragraph-spacing: 0px;--type-serif-xl-line-height: 82px;--type-mono-md-font-weight: 400;--type-mono-md-size: 22px;--type-mono-md-line-height: 24px;--type-mono-md-paragraph-spacing: 0px;--type-mono-lg-font-weight: 400;--type-mono-lg-size: 40px;--type-mono-lg-line-height: 40px;--type-mono-lg-paragraph-spacing: 0px;--type-mono-sm-font-weight: 400;--type-mono-sm-size: 14px;--type-mono-sm-line-height: 24px;--type-mono-sm-paragraph-spacing: 0px;--spacing-xs-4: 4px;--spacing-xs-8: 8px;--spacing-xs-16: 16px;--spacing-sm-24: 24px;--spacing-sm-32: 32px;--spacing-md-40: 40px;--spacing-md-48: 48px;--spacing-lg-64: 64px;--spacing-lg-80: 80px;--spacing-xlg-104: 104px;--spacing-xlg-152: 152px;--spacing-xs-12: 12px;--spacing-page-section: 104px;--spacing-card-list-spacing: 48px;--spacing-text-section-spacing: 80px;--spacing-md-xs-headings: 40px;--corner-radius-radius-lg: 16px;--corner-radius-radius-sm: 4px;--corner-radius-radius-md: 8px;--corner-radius-radius-round: 104px}}@media(min-width: 1280px){:root{--token-mode: Rebrand;--dropshadow: 0 2px 4px 0 #22223340;--primary-brand: #0645b1;--error-dark: #b60000;--success-dark: #05b01c;--inactive-fill: #ebebee;--hover: #0c3b8d;--pressed: #082f75;--button-primary-fill-inactive: #ebebee;--button-primary-fill: #0645b1;--button-primary-text: #ffffff;--button-primary-fill-hover: #0c3b8d;--button-primary-fill-press: #082f75;--button-primary-icon: #ffffff;--button-primary-fill-inverse: #ffffff;--button-primary-text-inverse: #082f75;--button-primary-icon-inverse: #0645b1;--button-primary-fill-inverse-hover: #cddaef;--button-primary-stroke-inverse-pressed: #0645b1;--button-secondary-stroke-inactive: #b1b1ba;--button-secondary-fill: #eef2f9;--button-secondary-text: #082f75;--button-secondary-fill-press: #cddaef;--button-secondary-fill-inactive: #ebebee;--button-secondary-stroke: #cddaef;--button-secondary-stroke-hover: #386ac1;--button-secondary-stroke-press: #0645b1;--button-secondary-text-inactive: #b1b1ba;--button-secondary-icon: #082f75;--button-secondary-fill-hover: #e6ecf7;--button-secondary-stroke-inverse: #ffffff;--button-secondary-fill-inverse: rgba(255, 255, 255, 0);--button-secondary-icon-inverse: #ffffff;--button-secondary-icon-hover: #082f75;--button-secondary-icon-press: #082f75;--button-secondary-text-inverse: #ffffff;--button-secondary-text-hover: #082f75;--button-secondary-text-press: #082f75;--button-secondary-fill-inverse-hover: #043059;--button-xs-stroke: #141413;--button-xs-stroke-hover: #0c3b8d;--button-xs-stroke-press: #082f75;--button-xs-stroke-inactive: #ebebee;--button-xs-text: #141413;--button-xs-text-hover: #0c3b8d;--button-xs-text-press: #082f75;--button-xs-text-inactive: #91919e;--button-xs-icon: #141413;--button-xs-icon-hover: #0c3b8d;--button-xs-icon-press: #082f75;--button-xs-icon-inactive: #91919e;--button-xs-fill: #ffffff;--button-xs-fill-hover: #f4f7fc;--button-xs-fill-press: #eef2f9;--buttons-button-text-inactive: #91919e;--buttons-button-focus: #0645b1;--buttons-button-icon-inactive: #91919e;--buttons-small-buttons-corner-radius: 16px;--buttons-small-buttons-l-r-padding: 20px;--buttons-small-buttons-height: 48px;--buttons-small-buttons-gap: 8px;--buttons-small-buttons-icon-only-width: 48px;--buttons-small-buttons-icon-size: 20px;--buttons-small-buttons-stroke-default: 1px;--buttons-small-buttons-stroke-thick: 2px;--buttons-large-buttons-l-r-padding: 32px;--buttons-large-buttons-height: 64px;--buttons-large-buttons-icon-only-width: 64px;--buttons-large-buttons-icon-size: 20px;--buttons-large-buttons-gap: 8px;--buttons-large-buttons-corner-radius: 16px;--buttons-large-buttons-stroke-default: 1px;--buttons-large-buttons-stroke-thick: 2px;--buttons-extra-small-buttons-l-r-padding: 8px;--buttons-extra-small-buttons-height: 32px;--buttons-extra-small-buttons-icon-size: 16px;--buttons-extra-small-buttons-gap: 4px;--buttons-extra-small-buttons-corner-radius: 8px;--buttons-stroke-default: 1px;--buttons-stroke-thick: 2px;--background-beige: #f9f7f4;--error-light: #fff2f2;--text-placeholder: #6d6d7d;--stroke-dark: #141413;--stroke-light: #dddde2;--stroke-medium: #535366;--accent-green: #ccffd4;--accent-turquoise: #ccf7ff;--accent-yellow: #f7ffcc;--accent-peach: #ffd4cc;--accent-violet: #f7ccff;--accent-purple: #f4f7fc;--text-primary: #141413;--secondary-brand: #141413;--text-hover: #0c3b8d;--text-white: #ffffff;--text-link: #0645b1;--text-press: #082f75;--success-light: #f0f8f1;--background-light-blue: #f4f7fc;--background-white: #ffffff;--premium-dark: #877440;--premium-light: #f9f6ed;--stroke-white: #ffffff;--inactive-content: #b1b1ba;--annotate-light: #a35dff;--annotate-dark: #824acc;--grid: #eef2f9;--inactive-stroke: #ebebee;--shadow: rgba(34, 34, 51, 0.25);--text-inactive: #6d6d7d;--text-error: #b60000;--stroke-error: #b60000;--background-error: #fff2f2;--background-black: #141413;--icon-default: #141413;--icon-blue: #0645b1;--background-grey: #dddde2;--icon-grey: #b1b1ba;--text-focus: #082f75;--brand-colors-neutral-black: #141413;--brand-colors-neutral-900: #535366;--brand-colors-neutral-800: #6d6d7d;--brand-colors-neutral-700: #91919e;--brand-colors-neutral-600: #b1b1ba;--brand-colors-neutral-500: #c8c8cf;--brand-colors-neutral-400: #dddde2;--brand-colors-neutral-300: #ebebee;--brand-colors-neutral-200: #f8f8fb;--brand-colors-neutral-100: #fafafa;--brand-colors-neutral-white: #ffffff;--brand-colors-blue-900: #043059;--brand-colors-blue-800: #082f75;--brand-colors-blue-700: #0c3b8d;--brand-colors-blue-600: #0645b1;--brand-colors-blue-500: #386ac1;--brand-colors-blue-400: #cddaef;--brand-colors-blue-300: #e6ecf7;--brand-colors-blue-200: #eef2f9;--brand-colors-blue-100: #f4f7fc;--brand-colors-gold-500: #877440;--brand-colors-gold-400: #e9e3d4;--brand-colors-gold-300: #f2efe8;--brand-colors-gold-200: #f9f6ed;--brand-colors-gold-100: #f9f7f4;--brand-colors-error-900: #920000;--brand-colors-error-500: #b60000;--brand-colors-success-900: #035c0f;--brand-colors-green: #ccffd4;--brand-colors-turquoise: #ccf7ff;--brand-colors-yellow: #f7ffcc;--brand-colors-peach: #ffd4cc;--brand-colors-violet: #f7ccff;--brand-colors-error-100: #fff2f2;--brand-colors-success-500: #05b01c;--brand-colors-success-100: #f0f8f1;--text-secondary: #535366;--icon-white: #ffffff;--background-beige-darker: #f2efe8;--icon-dark-grey: #535366;--type-font-family-sans-serif: DM Sans;--type-font-family-serif: Gupter;--type-font-family-mono: IBM Plex Mono;--type-weights-300: 300;--type-weights-400: 400;--type-weights-500: 500;--type-weights-700: 700;--type-sizes-12: 12px;--type-sizes-14: 14px;--type-sizes-16: 16px;--type-sizes-18: 18px;--type-sizes-20: 20px;--type-sizes-22: 22px;--type-sizes-24: 24px;--type-sizes-28: 28px;--type-sizes-30: 30px;--type-sizes-32: 32px;--type-sizes-40: 40px;--type-sizes-42: 42px;--type-sizes-48-2: 48px;--type-line-heights-16: 16px;--type-line-heights-20: 20px;--type-line-heights-23: 23px;--type-line-heights-24: 24px;--type-line-heights-25: 25px;--type-line-heights-26: 26px;--type-line-heights-29: 29px;--type-line-heights-30: 30px;--type-line-heights-32: 32px;--type-line-heights-34: 34px;--type-line-heights-35: 35px;--type-line-heights-36: 36px;--type-line-heights-38: 38px;--type-line-heights-40: 40px;--type-line-heights-46: 46px;--type-line-heights-48: 48px;--type-line-heights-52: 52px;--type-line-heights-58: 58px;--type-line-heights-68: 68px;--type-line-heights-74: 74px;--type-line-heights-82: 82px;--type-paragraph-spacings-0: 0px;--type-paragraph-spacings-4: 4px;--type-paragraph-spacings-8: 8px;--type-paragraph-spacings-16: 16px;--type-sans-serif-xl-font-weight: 400;--type-sans-serif-xl-size: 42px;--type-sans-serif-xl-line-height: 46px;--type-sans-serif-xl-paragraph-spacing: 16px;--type-sans-serif-lg-font-weight: 400;--type-sans-serif-lg-size: 32px;--type-sans-serif-lg-line-height: 38px;--type-sans-serif-lg-paragraph-spacing: 16px;--type-sans-serif-md-font-weight: 400;--type-sans-serif-md-line-height: 34px;--type-sans-serif-md-paragraph-spacing: 16px;--type-sans-serif-md-size: 28px;--type-sans-serif-xs-font-weight: 700;--type-sans-serif-xs-line-height: 25px;--type-sans-serif-xs-paragraph-spacing: 0px;--type-sans-serif-xs-size: 20px;--type-sans-serif-sm-font-weight: 400;--type-sans-serif-sm-line-height: 30px;--type-sans-serif-sm-paragraph-spacing: 16px;--type-sans-serif-sm-size: 24px;--type-body-xl-font-weight: 400;--type-body-xl-size: 24px;--type-body-xl-line-height: 36px;--type-body-xl-paragraph-spacing: 0px;--type-body-sm-font-weight: 400;--type-body-sm-size: 14px;--type-body-sm-line-height: 20px;--type-body-sm-paragraph-spacing: 8px;--type-body-xs-font-weight: 400;--type-body-xs-size: 12px;--type-body-xs-line-height: 16px;--type-body-xs-paragraph-spacing: 0px;--type-body-md-font-weight: 400;--type-body-md-size: 16px;--type-body-md-line-height: 20px;--type-body-md-paragraph-spacing: 4px;--type-body-lg-font-weight: 400;--type-body-lg-size: 20px;--type-body-lg-line-height: 26px;--type-body-lg-paragraph-spacing: 16px;--type-body-lg-medium-font-weight: 500;--type-body-lg-medium-size: 20px;--type-body-lg-medium-line-height: 32px;--type-body-lg-medium-paragraph-spacing: 16px;--type-body-md-medium-font-weight: 500;--type-body-md-medium-size: 16px;--type-body-md-medium-line-height: 20px;--type-body-md-medium-paragraph-spacing: 4px;--type-body-sm-bold-font-weight: 700;--type-body-sm-bold-size: 14px;--type-body-sm-bold-line-height: 20px;--type-body-sm-bold-paragraph-spacing: 8px;--type-body-sm-medium-font-weight: 500;--type-body-sm-medium-size: 14px;--type-body-sm-medium-line-height: 20px;--type-body-sm-medium-paragraph-spacing: 8px;--type-serif-md-font-weight: 400;--type-serif-md-size: 40px;--type-serif-md-paragraph-spacing: 0px;--type-serif-md-line-height: 48px;--type-serif-sm-font-weight: 400;--type-serif-sm-size: 28px;--type-serif-sm-paragraph-spacing: 0px;--type-serif-sm-line-height: 32px;--type-serif-lg-font-weight: 400;--type-serif-lg-size: 58px;--type-serif-lg-paragraph-spacing: 0px;--type-serif-lg-line-height: 68px;--type-serif-xs-font-weight: 400;--type-serif-xs-size: 18px;--type-serif-xs-line-height: 24px;--type-serif-xs-paragraph-spacing: 0px;--type-serif-xl-font-weight: 400;--type-serif-xl-size: 74px;--type-serif-xl-paragraph-spacing: 0px;--type-serif-xl-line-height: 82px;--type-mono-md-font-weight: 400;--type-mono-md-size: 22px;--type-mono-md-line-height: 24px;--type-mono-md-paragraph-spacing: 0px;--type-mono-lg-font-weight: 400;--type-mono-lg-size: 40px;--type-mono-lg-line-height: 40px;--type-mono-lg-paragraph-spacing: 0px;--type-mono-sm-font-weight: 400;--type-mono-sm-size: 14px;--type-mono-sm-line-height: 24px;--type-mono-sm-paragraph-spacing: 0px;--spacing-xs-4: 4px;--spacing-xs-8: 8px;--spacing-xs-16: 16px;--spacing-sm-24: 24px;--spacing-sm-32: 32px;--spacing-md-40: 40px;--spacing-md-48: 48px;--spacing-lg-64: 64px;--spacing-lg-80: 80px;--spacing-xlg-104: 104px;--spacing-xlg-152: 152px;--spacing-xs-12: 12px;--spacing-page-section: 152px;--spacing-card-list-spacing: 48px;--spacing-text-section-spacing: 80px;--spacing-md-xs-headings: 40px;--corner-radius-radius-lg: 16px;--corner-radius-radius-sm: 4px;--corner-radius-radius-md: 8px;--corner-radius-radius-round: 104px}}</style><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/loswp-40ab3b265ee8777336fd5cb0f94b9335dd67dd47781559cd5623fd5029d348ba.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/heading-95367dc03b794f6737f30123738a886cf53b7a65cdef98a922a98591d60063e3.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/body-170d1319f0e354621e81ca17054bb147da2856ec0702fe440a99af314a6338c5.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/button-8c9ae4b5c8a2531640c354d92a1f3579c8ff103277ef74913e34c8a76d4e6c00.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/text_button-d1941ab08e91e29ee143084c4749da4aaffa350a2ac6eec2306b1d7a352d911a.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/content_section-4af8c8bb1007bf5a4011593ba0b336b7776ae6956fe1d0279fa899d7032ee27a.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/ordered_list-9123030494f589694fc98dd7b689a70398eb527516b541b1c648dce5ab690c12.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/about_hiring/footer-3bfecfbf744fbf53d9737105522c72bec66ecf67e3df35c1aed831320bee5053.css" media="all" /><link rel="preload" href="//a.academia-assets.com/fonts/design_system/DM-Sans_100-1000_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Gupter_400_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Material-Symbols-Outlined.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Roboto_100-900_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/font-faces-aea39673b93e3ad3eed287cc8e6663ec62c97be619c1583b7bf522253e52b9c6.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/common-3c00d3ae0a9cc0bf1476231d85efc602ef73468a39e42dc5dd2bb62d223c4005.css" media="all" />
+  </head>
+
+  <body>
+    <div id='react-modal'></div>
+
+
+      <div class="js-cookie-banner" style="padding: 12px; display: flex; align-items: center; justify-content: center; background-color: #4b4b4b; text-align: center;"><p style="font-size: 14px; font-weight: 400; line-height: 1.2; color: #fff; margin: 0 32px 0 0;">Academia.edu uses cookies to personalize content, tailor ads and improve the user experience.
+By using our site, you agree to our collection of information through the use of cookies.
+To learn more, view our&nbsp;<a href="https://www.academia.edu/privacy" style="color: #e8b730; text-decoration: none;">Privacy Policy.</a></p><button class="js-dismiss-cookie-banner" style="font-size: 24px; color: #fff; background: inherit; padding: 0; border: 0; cursor: pointer;">&times;</button></div><script>document.querySelector('.js-dismiss-cookie-banner').onclick = () => {
+  document.querySelector('.js-cookie-banner').style.display = 'none';
+};</script>
+
+
+    <div class="js-upgrade-ie-banner" style="display: none; text-align: center; padding: 8px 0; background-color: #ebe480;"><p style="color: #000; font-size: 12px; margin: 0 0 4px;">Academia.edu no longer supports Internet Explorer.</p><p style="color: #000; font-size: 12px; margin: 0;">To browse Academia.edu and the wider internet faster and more securely, please take a few seconds to&nbsp;<a href="https://www.academia.edu/upgrade-browser">upgrade your browser</a>.</p></div><script>// Show this banner for all versions of IE
+if (!!window.MSInputMethodContext || /(MSIE)/.test(navigator.userAgent)) {
+  document.querySelector('.js-upgrade-ie-banner').style.display = 'block';
+}</script>
+
+      <div id="fb-root"></div><script>window.fbAsyncInit = function() {
+  FB.init({
+    appId: "2369844204",
+    version: "v8.0",
+    status: true,
+    cookie: true,
+    xfbml: true
+  });
+
+  // Additional initialization code.
+  if (window.InitFacebook) {
+    // facebook.ts already loaded, set it up.
+    window.InitFacebook();
+  } else {
+    // Set a flag for facebook.ts to find when it loads.
+    window.academiaAuthReadyFacebook = true;
+  }
+};</script>
+      <div id="google-root"></div><script>window.loadGoogle = function() {
+  if (window.InitGoogle) {
+    // google.ts already loaded, set it up.
+    window.InitGoogle("331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b");
+  } else {
+    // Set a flag for google.ts to use when it loads.
+    window.GoogleClientID = "331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b";
+  }
+};</script>
+
+      <div class="header--container" id="main-header-container"><div class="header--inner-container header--inner-container-ds2"><div class="header-ds2--left-wrapper"><div class="header-ds2--left-wrapper-inner"><a data-main-header-link-target="logo_home" href="https://www.academia.edu/"><img class="hide-on-desktop-redesign" style="height: 24px; width: 24px;" alt="Academia.edu" src="//a.academia-assets.com/images/academia-logo-redesign-2015-A.svg" width="24" height="24" /><img width="145.2" height="18" class="hide-on-mobile-redesign" style="height: 24px;" alt="Academia.edu" src="//a.academia-assets.com/images/academia-logo-redesign-2015.svg" /></a><div class="header--search-container header--search-container-ds2"><form class="js-SiteSearch-form select2-no-default-pills" action="https://www.academia.edu/search" accept-charset="UTF-8" method="get"><svg style="width: 14px; height: 14px;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="header--search-icon svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><input class="header--search-input header--search-input-ds2 js-SiteSearch-form-input" data-main-header-click-target="search_input" name="q" placeholder="Search" type="text" /></form></div></div></div><nav class="header--nav-buttons header--nav-buttons-ds2 js-main-nav"><button class="ds2-5-button ds2-5-button--secondary js-header-login-url header-button-ds2 header-login-ds2 hide-on-mobile-redesign react-login-modal-opener" data-signup-modal="{&quot;location&quot;:&quot;login-button--header&quot;}" rel="nofollow">Log In</button><button class="ds2-5-button ds2-5-button--secondary header-button-ds2 hide-on-mobile-redesign react-login-modal-opener" data-signup-modal="{&quot;location&quot;:&quot;signup-button--header&quot;}" rel="nofollow">Sign Up</button><button class="header--hamburger-button header--hamburger-button-ds2 hide-on-desktop-redesign js-header-hamburger-button"><div class="icon-bar"></div><div class="icon-bar" style="margin-top: 4px;"></div><div class="icon-bar" style="margin-top: 4px;"></div></button></nav></div><ul class="header--dropdown-container js-header-dropdown"><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/login" rel="nofollow">Log In</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/signup" rel="nofollow">Sign Up</a></li><li class="header--dropdown-row js-header-dropdown-expand-button"><button class="header--dropdown-button">more<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-down" class="header--dropdown-button-icon svg-inline--fa fa-caret-down fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg></button></li><li><ul class="header--expanded-dropdown-container"><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/about">About</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/press">Press</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/documents">Papers</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/terms">Terms</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/privacy">Privacy</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/copyright">Copyright</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/hiring"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="briefcase" class="header--dropdown-row-icon svg-inline--fa fa-briefcase fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M320 336c0 8.84-7.16 16-16 16h-96c-8.84 0-16-7.16-16-16v-48H0v144c0 25.6 22.4 48 48 48h416c25.6 0 48-22.4 48-48V288H320v48zm144-208h-80V80c0-25.6-22.4-48-48-48H176c-25.6 0-48 22.4-48 48v48H48c-25.6 0-48 22.4-48 48v80h512v-80c0-25.6-22.4-48-48-48zm-144 0H192V96h128v32z"></path></svg>We&#39;re Hiring!</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://support.academia.edu/hc/en-us"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="question-circle" class="header--dropdown-row-icon svg-inline--fa fa-question-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"></path></svg>Help Center</a></li><li class="header--dropdown-row js-header-dropdown-collapse-button"><button class="header--dropdown-button">less<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-up" class="header--dropdown-button-icon svg-inline--fa fa-caret-up fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></button></li></ul></li></ul></div>
+
+    
+
+    <script src="//a.academia-assets.com/assets/webpack_bundles/fast_loswp-bundle-9d3b5e4875278d61fc1415b628efb90b56043f759b138f6661636d1ef5a4c438.js" defer="defer"></script><script>window.loswp = {};
+window.loswp.author = 35553992;
+window.loswp.bulkDownloadFilterCounts = {};
+window.loswp.hasDownloadableAttachment = true;
+window.loswp.hasViewableAttachments = true;
+// TODO: just use routes for this
+window.loswp.loginUrl = "https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2F119065462%2FPermissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios%3Fauto%3Ddownload";
+window.loswp.translateUrl = "https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2F119065462%2FPermissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios%3Fshow_translation%3Dtrue";
+window.loswp.previewableAttachments = [{"id":114535363,"identifier":"Attachment_114535363","shouldShowBulkDownload":false}];
+window.loswp.shouldDetectTimezone = true;
+window.loswp.shouldShowBulkDownload = true;
+window.loswp.showSignupCaptcha = false
+window.loswp.willEdgeCache = false;
+window.loswp.work = {"work":{"id":119065462,"created_at":"2024-05-14T04:38:05.675-07:00","from_world_paper_id":254414600,"updated_at":"2025-01-13T12:55:47.738-08:00","_data":{"publisher":"IEEE","ai_abstract":"The advancement and penetration of distributed energy resources (DERs) and renewable energy sources (RES) are transforming legacy energy systems in an attempt to reduce carbon emissions and energy waste. Demand Response (DR) has been identified as a key enabler of integrating these, and other, Smart Grid technologies, while, simultaneously, ensuring grid stability and secure energy supply. The massive deployment of smart meters, IoT devices and DERs dictate the need to move to decentralized, or even localized, DR schemes in the face of the increased scale and complexity of monitoring and coordinating the actors and devices in modern smart grids. Furthermore, there is an inherent need to guarantee interoperability, due to the vast number of, e.g., hardware and software stakeholders, and, more importantly, promote trust and incentivize the participation of customers in DR schemes, if they are to be successfully deployed.","publication_date":"2019,,","publication_name":"2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I\u0026amp;CPS Europe)"},"document_type":"paper","pre_hit_view_count_baseline":null,"quality":"low","language":"en","title":"Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios","broadcastable":false,"draft":null,"has_indexable_attachment":true,"indexable":true,"seo_quality":9}}["work"];
+window.loswp.workCoauthors = [35553992];
+window.loswp.locale = "en";
+window.loswp.countryCode = "SE";
+window.loswp.cwvAbTestBucket = "";
+window.loswp.designVariant = "safe_v1";
+window.loswp.fullPageMobileSutdModalVariant = "full_page_mobile_sutd_modal";
+window.loswp.useOptimizedScribd4genScript = false;
+
+window.loginModal = {};
+window.loginModal.appleClientId = 'edu.academia.applesignon';
+window.userInChina = "false";</script><script defer="" src="https://accounts.google.com/gsi/client"></script><div class="ds-loswp-container"><div class="ds-work-card--grid-container"><div class="breadcrumb-wrapper"><div class="topic-breadcrumb"><div class="topic-breadcrumb__item"><div class="topic-breadcrumb__link"><a href="https://www.academia.edu/topics">All Topics</a></div></div><div class="topic-breadcrumb__item"><div class="topic-breadcrumb__link"><a href="https://www.academia.edu/Documents/in/Engineering">Engineering</a></div></div><div class="topic-breadcrumb__item"><div class="topic-breadcrumb__link"><a href="https://www.academia.edu/Documents/in/Energy_Engineering_and_Power_Technology">Energy Engineering and Power Technology</a></div></div></div></div><div class="ds-work-card--container js-loswp-work-card"><div class="ds-work-card--cover"><div class="ds-work-cover--wrapper"><div class="ds-work-cover--container"><style>.login-ghost-button {
+  background: none;
+  border: none;
+  padding: 0;
+  width: 100%;
+
+  display: block;
+  cursor: pointer;
+  position: relative;
+}</style><button class="js-login-button--423b33b4 login-ghost-button ds-work-cover--clickable"><img alt="First page of “Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios”" class="ds-work-cover--cover-thumbnail" src="https://0.academia-photos.com/attachment_thumbnails/114535363/mini_magick20240802-1-kjwo10.png?1722592163" /><img alt="PDF Icon" class="ds-work-cover--file-icon" src="//a.academia-assets.com/images/single_work_splash/adobe_icon.svg" /><div class="ds-work-cover--hover-container"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span><p>Download Free PDF</p></div><div class="ds-work-cover--ribbon-container">Download Free PDF</div><div class="ds-work-cover--ribbon-triangle"></div></button><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--423b33b4'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--swp-splash-paper-cover","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div></div><div class="ds-work-card--work-information"><h1 class="ds-work-card--work-title ds2-5-heading-sans-serif-lg">Permissioned Blockchains and Virtual Nodes for Reinforcing Trust Between Aggregators and Prosumers in Energy Demand Response Scenarios</h1><div class="ds-work-card--work-authors ds-work-card--detail"><a class="ds-work-card--author js-wsj-grid-card-author ds2-5-body-md ds2-5-body-link" data-author-id="35553992" href="https://independent.academia.edu/DimitriosTzovaras"><img alt="Profile image of Dimitrios Tzovaras" class="ds-work-card--author-avatar" src="//a.academia-assets.com/images/s65_no_pic.png" />Dimitrios Tzovaras</a></div><div class="ds-work-card--detail"><p class="ds-work-card--detail ds2-5-body-sm">2019, 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&amp;amp;CPS Europe)</p><a class="js-loswp-work-card-doi-link ds2-5-body-sm ds2-5-body-link" href="https://doi.org/10.1109/EEEIC.2019.8783521" rel="nofollow">https://doi.org/10.1109/EEEIC.2019.8783521</a><div class="ds-work-card--work-metadata"><div class="ds-work-card--work-metadata__stat"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">visibility</span><p class="ds2-5-body-sm" id="work-metadata-view-count">…</p></div><div class="ds-work-card--work-metadata__stat"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">description</span><p class="ds2-5-body-sm">6 pages</p></div><div class="ds-work-card--work-metadata__stat"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">link</span><p class="ds2-5-body-sm">1 file</p></div></div><script>(async () => {
+  const workId = 119065462;
+  const worksViewsPath = "/v0/works/views?subdomain_param=api&amp;work_ids%5B%5D=119065462";
+
+  const getWorkViews = async (workId) => {
+    const response = await fetch(worksViewsPath);
+
+    if (!response.ok) {
+      throw new Error('Failed to load work views');
+    }
+
+    const data = await response.json();
+
+    return data.views[workId];
+  };
+  // Get the view count for the work - we send this immediately rather than waiting for
+  // the DOM to load, so it can be available as soon as possible (but without holding up
+  // the backend or other resource requests, because it's a bit expensive and not critical).
+  const viewCount = await getWorkViews(workId);
+
+  const updateViewCount = (viewCount) => {
+    try {
+      const viewCountNumber = parseInt(viewCount, 10);
+      if (viewCountNumber === 0) {
+        // Remove the whole views element if there are zero views.
+        document.getElementById('work-metadata-view-count')?.parentNode?.remove();
+        return;
+      }
+
+      const commaizedViewCount = viewCountNumber.toLocaleString();
+
+      const viewCountBody = document.getElementById('work-metadata-view-count');
+
+      if (!viewCountBody) {
+        throw new Error('Failed to find work views element');
+      }
+
+      viewCountBody.textContent = `${commaizedViewCount} views`;
+    } catch (error) {
+      // Remove the whole views element if there was some issue parsing.
+      document.getElementById('work-metadata-view-count')?.parentNode?.remove();
+      throw new Error(`Failed to parse view count: ${viewCount}`, error);
+    }
+  };
+
+  // If the DOM is still loading, wait for it to be ready before updating the view count.
+  if (document.readyState === "loading") {
+    document.addEventListener('DOMContentLoaded', () => {
+      updateViewCount(viewCount);
+    });
+  // Otherwise, just update it immediately.
+  } else {
+    updateViewCount(viewCount);
+  }
+})();</script></div><div class="ds-work-card--button-container"><div class="primary-buttons"><button class="ds2-5-button js-tc-loswp--continue-reading-button--work-card js-login-button--03a412d9"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">description</span>See full PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--continue-reading-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--continue-reading-button--work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--03a412d9'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--continue-reading-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><button class="ds2-5-button ds2-5-button--secondary js-tc-loswp--download-pdf-button--work-card js-login-button--61214709"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span>Download PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--download-pdf-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--download-pdf-button--work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--61214709'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios?auto=download","clickTrackingContext":{"source":"loswp--download-pdf-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Download your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue with your free download."},"emailLoginPage":{"subheader":"Log in to continue with your free download."},"emailRegistrationPage":{"subheader":"Sign up to continue with your free download.","submit":"Start Download"}},"registrationParams":{"user_source":"download","doc_id":114535363,"auto":"download"}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div><div class="share-and-save-buttons"><button class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--bookmark-button--work-card js-login-button--efce4598"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">bookmark</span><span class="ds2-5-text-link__content">Save to Library</span></button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--bookmark-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--bookmark-button--work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--efce4598'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--bookmark-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><button class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--share-button--work-card js-login-button--2217fdd3"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">share</span><span class="ds2-5-text-link__content">Share</span></button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--share-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--share-button--work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--2217fdd3'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--share-button--work-card","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="ds-signup-banner-trigger-container"><div class="ds-signup-banner-trigger ds-signup-banner-trigger-control"></div></div><div class="ds-signup-banner ds-signup-banner-control"><div id="ds-signup-banner-close-button"><button class="ds2-5-button ds2-5-button--secondary ds2-5-button--inverse"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">close</span></button></div><div class="ds-signup-banner-ctas" data-impression-entity-id="119065462" data-impression-entity-type="2" data-impression-source="signup-banner"><img src="//a.academia-assets.com/images/academia-logo-capital-white.svg" /><h4 class="ds2-5-heading-serif-sm">Sign up for access to the world's latest research</h4><button class="ds2-5-button ds2-5-button--inverse ds2-5-button--full-width js-tc-loswp--signup-banner js-login-button--ab91d827">Sign up for free<span class="material-symbols-outlined" style="font-size: 20px" translate="no">arrow_forward</span></button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--signup-banner","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--signup-banner');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--ab91d827'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--signup-banner","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div><div class="ds-signup-banner-divider"></div><div class="ds-signup-banner-reasons"><div class="ds-signup-banner-reasons-item"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">check</span><span>Get notified about relevant papers</span></div><div class="ds-signup-banner-reasons-item"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">check</span><span>Save papers to use in your research</span></div><div class="ds-signup-banner-reasons-item"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">check</span><span>Join the discussion with peers</span></div><div class="ds-signup-banner-reasons-item"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">check</span><span>Track your impact</span></div></div></div><script>(() => {
+  // Set up signup banner show/hide behavior:
+  // 1. If the signup banner trigger (a 242px-high* invisible div underneath the 'See Full PDF' / 'Download PDF' buttons)
+  //    is already fully scrolled above the viewport, show the banner by default
+  // 2. If the signup banner trigger is fully visible, show the banner
+  // 3. If the signup banner trigger has even a few pixels scrolled below the viewport, hide the banner
+  //
+  // * 242px is the empirically determined height of the signup banner. It's better to be a bit taller than
+  //   necessary than too short, so it's fine that the mobile (small breakpoint) banner is shorter.
+
+  // First check session storage for the signup banner's visibility state
+  const signupBannerHidden = sessionStorage.getItem('ds-signup-banner-hidden');
+  if (signupBannerHidden === 'true') {
+    return;
+  }
+
+  const signupBanner = document.querySelector('.ds-signup-banner');
+  const signupBannerTrigger = document.querySelector('.ds-signup-banner-trigger');
+
+  let footerShown = false;
+
+  window.addEventListener('load', () => {
+    const rect = signupBannerTrigger.getBoundingClientRect();
+    // If page loaded up already scrolled below the trigger (via scroll restoration), show the banner by default
+    if (rect.bottom < 0) {
+      footerShown = true;
+      signupBanner.classList.add('ds-signup-banner-visible');
+    }
+  });
+
+  // Wait for trigger to fully enter viewport before showing banner (ensures PDF CTAs are never covered by banner)
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting && !footerShown) {
+        footerShown = true;
+        signupBanner.classList.add('ds-signup-banner-visible');
+      } else if (!entry.isIntersecting && footerShown) {
+        if (signupBannerTrigger.getBoundingClientRect().bottom > 0) {
+          footerShown = false;
+          signupBanner.classList.remove('ds-signup-banner-visible');
+        }
+      }
+    });
+  });
+  observer.observe(signupBannerTrigger);
+
+  // Set up signup banner close button event handler:
+  const signupBannerCloseButton = document.querySelector('#ds-signup-banner-close-button');
+  signupBannerCloseButton.addEventListener('click', () => {
+    signupBanner.classList.remove('ds-signup-banner-visible');
+    observer.unobserve(signupBannerTrigger);
+
+    // Store the signup banner's visibility state in session storage
+    sessionStorage.setItem('ds-signup-banner-hidden', 'true');
+  });
+})();</script></div></div></div><style>@media screen and (min-width: 568px) and (max-width: 636px) {  .ds-work-card--button-container .primary-buttons .ds2-5-button {    font-size: var(--font-size-small);    line-height: var(--line-height-small);    padding: 0 var(--buttons-small-buttons-l-r-padding, 12px);    height: var(--buttons-small-buttons-height, 44px);    gap: var(--buttons-small-buttons-gap, 8px);    border-radius: var(--buttons-small-buttons-corner-radius, 8px);  }}</style><div data-auto_select="false" data-client_id="331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b" data-doc_id="114535363" data-landing_url="https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios" data-login_uri="https://www.academia.edu/registrations/google_one_tap" data-moment_callback="onGoogleOneTapEvent" id="g_id_onload"></div><div class="ds-abstract--grid-container"><div class="ds-abstract--container"><style>.ds-loswp-section--container{display:flex;flex-direction:column;width:100%}@media(min-width: 1280px){.ds-loswp-section--container{padding-right:40px}}</style><div class="ds2-5-content-section"><div class="ds2-5-content-section__heading"><h2 class="ds2-5-content-section__heading__text">AI-generated Abstract</h2></div><div class="ds2-5-content-section__main"><div class="ds2-5-content-section__main__content"><div class="ds-loswp-section--container"><p class="ds2-5-body-md"><style>.truncate-component {
+  position: relative;
+
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 16;
+  -webkit-line-clamp: 16;
+  -webkit-box-orient: vertical;
+}
+
+.toggle-truncation-button {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}</style><div class="truncate-component js-truncate-component--abstract"><p class="ds2-5-body-md">The advancement and penetration of distributed energy resources (DERs) and renewable energy sources (RES) are transforming legacy energy systems in an attempt to reduce carbon emissions and energy waste. Demand Response (DR) has been identified as a key enabler of integrating these, and other, Smart Grid technologies, while, simultaneously, ensuring grid stability and secure energy supply. The massive deployment of smart meters, IoT devices and DERs dictate the need to move to decentralized, or even localized, DR schemes in the face of the increased scale and complexity of monitoring and coordinating the actors and devices in modern smart grids. Furthermore, there is an inherent need to guarantee interoperability, due to the vast number of, e.g., hardware and software stakeholders, and, more importantly, promote trust and incentivize the participation of customers in DR schemes, if they are to be successfully deployed.</p><div class="toggle-truncation-button js-toggle-truncation-button--abstract"><button class="abstract--toggle-truncation-button"><span>... </span><span class="abstract--toggle-truncation-button-text">Read more</span></button></div></div></p></div></div></div></div></div></div><div class="ds-top-related-works--grid-container"><div class="ds-related-content--container ds-top-related-works--container"><style>.ds-loswp-section--container{display:flex;flex-direction:column;width:100%}@media(min-width: 1280px){.ds-loswp-section--container{padding-right:40px}}</style><div class="ds2-5-content-section"><div class="ds2-5-content-section__heading"><h2 class="ds2-5-content-section__heading__text">Related papers</h2></div><div class="ds2-5-content-section__main"><div class="ds2-5-content-section__main__content"><div class="ds-loswp-section--container"><div class="ds-related-content--container"><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="0" data-entity-id="67227818" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/67227818/A_Secured_and_Trusted_Demand_Response_system_based_on_Blockchain_technologies">A Secured and Trusted Demand Response system based on Blockchain technologies</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="35805577" href="https://upatras.academia.edu/KonstantinosVotis">Konstantinos Votis</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2018 Innovations in Intelligent Systems and Applications (INISTA)</p><p class="ds2-5-body-sm ds-related-work--abstract ">The aim of the proposed work is to introduce a secure and interoperable Demand Response (DR) management platform that will assist Aggregators (or other relevant Stakeholders involved in DR business scenarios) in their decision making mechanisms over their portfolios of prosumers. This novel architecture incorporates multiple strategies and policies provided from energy market stakeholders, establishing a more modular and future-proof DR solution. By employing an innovative multi-agent decision making system and self-learning algorithms to enable aggregation, segmentation and coordination of several diverse clusters, consisting of supply and demand assets, a fully autonomous design will be delivered. This DR framework is further fortified in terms of data security by not only implementing cutting-edge blockchain infrastructure, but also by making use of Smart Contracts and Decentralized Applications (dApps) which will further secure and facilitate Aggregators-to-Prosumers transactions. The blockchain technologies will be combined with well-known open protocols (i.e. OpenADR) towards also supporting interoperability in terms of information exchange.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--27e404fc"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":67227818,"extra":{"source_work_id":67227818}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--27e404fc'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/67227818/A_Secured_and_Trusted_Demand_Response_system_based_on_Blockchain_technologies","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":67227818,"extra":{"source_work_id":67227818}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":78123327}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/67227818/A_Secured_and_Trusted_Demand_Response_system_based_on_Blockchain_technologies"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="1" data-entity-id="100059428" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/100059428/Blockchain_Technology_Applied_to_Energy_Demand_Response_Service_Tracking_and_Data_Sharing">Blockchain Technology Applied to Energy Demand Response Service Tracking and Data Sharing</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="265411798" href="https://independent.academia.edu/AlexandreLucas30">Alexandre Lucas</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Energies, 2021</p><p class="ds2-5-body-sm ds-related-work--abstract ">Demand response (DR) services have the potential to enable large penetration of renewable energy by adjusting load consumption, thus providing balancing support to the grid. The success of such load flexibility provided by industry, communities, or prosumers and its integration in electricity markets, will depend on a redesign and adaptation of the current interactions between participants. New challenges are, however, bound to appear with the large scale contribution of smaller assets to flexibility, including, among others, the dispatch coordination, the validation of delivery of the DR provision, and the corresponding settlement of contracts, while assuring secured data access among interested parties. In this study we applied distributed ledger (DLT)/blockchain technology to securely track DR provision, focusing on the validation aspect, assuring data integrity, origin, fast registry, and sharing within a permissioned system, between all relevant parties (including transmission ...</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--75cfa0f4"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":100059428,"extra":{"source_work_id":100059428}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--75cfa0f4'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/100059428/Blockchain_Technology_Applied_to_Energy_Demand_Response_Service_Tracking_and_Data_Sharing","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":100059428,"extra":{"source_work_id":100059428}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":100984863}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/100059428/Blockchain_Technology_Applied_to_Energy_Demand_Response_Service_Tracking_and_Data_Sharing"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="2" data-entity-id="62946777" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/62946777/Blockchain_as_Key_Enabling_Technology_for_Future_Electric_Energy_Exchange_A_Vision">Blockchain as Key Enabling Technology for Future Electric Energy Exchange: A Vision</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="99050722" href="https://independent.academia.edu/AlviseBaggio">Alvise Baggio</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE Access</p><p class="ds2-5-body-sm ds-related-work--abstract ">Our energy scenario is nowadays shaped by progressive electrification of energy final use. In this context, electricity networks are seeing a growing multitude of distributed assets entering from the edges of the grid and acquiring new ICT capabilities that were limited before to a restricted number of major players. Particularly, assets like Photovoltaic Inverter (PvI), Electric Vehicle (EV) chargers, wind turbines controllers, programmable loads, storage systems, and other Distributed Energy Resources (DER) are now able to communicate through different technologies and make conscious choices under humandecisions or even independently. This is leading to a decentralization of the system&#39;s view by increasing single actor independence. Notwithstanding, a problem arises when current centrally-managed electricity networks struggle to coordinate massive amounts of new figures and adapt to this new decentralized paradigm. Therefore, a decentralized coordination-and-control framework will ensure better integration of DERs and new figures as prosumers, while allowing higher exploitation of their potential compared to centrally managed systems. This article seeks in Blockchains the enabling technology for designing and supporting such a grid infrastructure. It develops a first framework to address this need by envisioning a gridsystem based on the direct participation of nowadays-used embedded-energy-devices within a decentralized platform hosting specific coordination procedures. The platform was developed in an experimental research campaign performed at ABB Laboratories basing on embedded-devices currently designed as controlconnectivity boards for smart-inverters. Therefore this article introduces the background theory and reasons behind this proposed system. The intent here is not to give all the specific details of the implementation, but introduce the supporting reason, high-level design, and required characteristic of the Blockchain-based platform for coordinating grid operations. Blockchain technology is seen here as the appropriate technology to enable the realization of a multi-actor energy-management system and enable distributed coordination in power grids. INDEX TERMS Blockchain, distributed ledger technology, distributed energy resources, embedded software, smart inverters, digital energy.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--7f232b71"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":62946777,"extra":{"source_work_id":62946777}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--7f232b71'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/62946777/Blockchain_as_Key_Enabling_Technology_for_Future_Electric_Energy_Exchange_A_Vision","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":62946777,"extra":{"source_work_id":62946777}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":75544710}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/62946777/Blockchain_as_Key_Enabling_Technology_for_Future_Electric_Energy_Exchange_A_Vision"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="3" data-entity-id="90807706" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/90807706/Privacy_Preserving_Smart_Grid_Tariff_Decisions_with_Blockchain_Based_Smart_Contracts">Privacy-Preserving Smart Grid Tariff Decisions with Blockchain-Based Smart Contracts</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="58034196" href="https://fh-salzburg.academia.edu/GEibl">Günther  Eibl</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Sustainable Cloud and Energy Services, 2017</p><p class="ds2-5-body-sm ds-related-work--abstract ">The smart grid changes the way how energy and information are exchanged and offers opportunities for incentive-based load balancing. For instance, customers may shift the time of energy consumption of household appliances in exchange for a cheaper energy tariff. This paves the path towards a full range of modular tariffs and dynamic pricing that incorporate the overall grid capacity as well as individual customer demands. This also allows customers to frequently switch within a variety of tariffs from different utility providers based on individual energy consumption and provision forecasts. For automated tariff decisions it is desirable to have a tool that assists in choosing the optimum tariff based on a prediction of individual energy need and production. However, the revelation of individual load patterns for smart grid applications poses severe privacy threats for customers as analyzed in depth in literature. Similarly, accurate and fine-grained regional load forecasts are sensitive business information of utility providers that are not supposed to be released publicly. This paper extends previous work in the domain of privacy-preserving load profile matching where load profiles from utility providers and load profile forecasts from customers are transformed in a distance-preserving embedding in order to find a matching tariff. The embeddings neither reveal individual contributions of customers, nor those of utility providers. Prior work requires a dedicated entity that needs to be trustworthy at least to some extent for determining the matches. In this paper we propose an adaption of this protocol, where we use blockchains and smart contracts for this matching process, instead. Blockchains are gaining widespread adaption in the smart grid domain as a powerful tool for public commitments and accountable calculations. While the use of a decentralized and trust-free blockchain for this protocol comes at the price of some privacy degradation (for which a mitigation is outlined), this drawback is outweighed for it enables verifiability, reliability and transparency.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--7e5ceaf9"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":90807706,"extra":{"source_work_id":90807706}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--7e5ceaf9'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/90807706/Privacy_Preserving_Smart_Grid_Tariff_Decisions_with_Blockchain_Based_Smart_Contracts","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":90807706,"extra":{"source_work_id":90807706}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":94268668}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/90807706/Privacy_Preserving_Smart_Grid_Tariff_Decisions_with_Blockchain_Based_Smart_Contracts"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="4" data-entity-id="71734790" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/71734790/Blockchain_Based_Decentralized_Management_of_Demand_Response_Programs_in_Smart_Energy_Grids">Blockchain Based Decentralized Management of Demand Response Programs in Smart Energy Grids</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="6862803" href="https://independent.academia.edu/MBertoncini">Massimo Bertoncini</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Sensors (Basel, Switzerland), 2018</p><p class="ds2-5-body-sm ds-related-work--abstract ">In this paper, we investigate the use of decentralized blockchain mechanisms for delivering transparent, secure, reliable, and timely energy flexibility, under the form of adaptation of energy demand profiles of Distributed Energy Prosumers, to all the stakeholders involved in the flexibility markets (Distribution System Operators primarily, retailers, aggregators, etc.). In our approach, a blockchain based distributed ledger stores in a tamper proof manner the energy prosumption information collected from Internet of Things smart metering devices, while self-enforcing smart contracts programmatically define the expected energy flexibility at the level of each prosumer, the associated rewards or penalties, and the rules for balancing the energy demand with the energy production at grid level. Consensus based validation will be used for demand response programs validation and to activate the appropriate financial settlement for the flexibility providers. The approach was validated us...</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--d87a7696"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":71734790,"extra":{"source_work_id":71734790}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--d87a7696'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/71734790/Blockchain_Based_Decentralized_Management_of_Demand_Response_Programs_in_Smart_Energy_Grids","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":71734790,"extra":{"source_work_id":71734790}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":80955847}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/71734790/Blockchain_Based_Decentralized_Management_of_Demand_Response_Programs_in_Smart_Energy_Grids"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="5" data-entity-id="117007777" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/117007777/Privacy_and_Transparency_in_Blockchain_Based_Smart_Grid_Operations">Privacy and Transparency in Blockchain-Based Smart Grid Operations</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="57586252" href="https://unipa.academia.edu/PGallo">Pierluigi Gallo</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE Access</p><p class="ds2-5-body-sm ds-related-work--abstract ">In the past few years, blockchain technology has emerged in numerous smart grid applications, enabling the construction of systems without the need for a trusted third party. Blockchain offers transparency, traceability, and accountability, which lets various energy management system functionalities be executed through smart contracts, such as monitoring, consumption analysis, and intelligent energy adaptation. Nevertheless, revealing sensitive energy consumption information could render users vulnerable to digital and physical assaults. This paper presents a novel method for achieving a dual balance between privacy and transparency, as well as accountability and verifiability. This equilibrium requires the incorporation of cryptographic tools like Secure Multiparty Computation and Verifiable Secret Sharing within the distributed components of a multi-channel blockchain and its associated smart contracts. We corroborate the suggested architecture throughout the entire process of a Demand Response scenario, from the collection of energy data to the ultimate reward. To address our proposal&#39;s constraints, we present countermeasures against accidental crashes and Byzantine behavior while ensuring that the solution remains appropriate for low-performance IoT devices.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--6252db72"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007777,"extra":{"source_work_id":117007777}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--6252db72'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/117007777/Privacy_and_Transparency_in_Blockchain_Based_Smart_Grid_Operations","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007777,"extra":{"source_work_id":117007777}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":112981372}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/117007777/Privacy_and_Transparency_in_Blockchain_Based_Smart_Grid_Operations"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="6" data-entity-id="64706611" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/64706611/Blockchain_for_Smart_Grid_Flexibility_Handling_Settlements_between_the_Aggregator_and_Prosumers">Blockchain for Smart Grid Flexibility Handling Settlements between the Aggregator and Prosumers</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="23095" href="https://independent.academia.edu/MariusRohdeJohannessen">Marius Rohde Johannessen</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2021</p><p class="ds2-5-body-sm ds-related-work--abstract ">This paper shows how the Ethereum blockchain can register settlements between an aggregator and prosumers in a smart grid. By providing flexible use of electricity to the aggregator, customers get rewarded. The flexibility is valuable for the aggregator since the power infrastructure may be used more efficiently. Blockchain is an exciting technology for handling settlements which, however, also has some clear limitations. For example, the cost per transaction on the public Ethereum blockchain is too high compared to the value of the actual transactions. A private blockchain is an alternative but removes some of the original benefits of using the public blockchain. The paper concludes that blockchain is a promising technology, and a private blockchain is more suitable for transactions containing minimal amounts. Keywords-smart grid; blockchain; Ethereum; smart contract; aggregator; flexibility; Smart-MLA.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--809aef4a"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":64706611,"extra":{"source_work_id":64706611}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--809aef4a'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/64706611/Blockchain_for_Smart_Grid_Flexibility_Handling_Settlements_between_the_Aggregator_and_Prosumers","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":64706611,"extra":{"source_work_id":64706611}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":76619381}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/64706611/Blockchain_for_Smart_Grid_Flexibility_Handling_Settlements_between_the_Aggregator_and_Prosumers"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="7" data-entity-id="129040364" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/129040364/Decentralized_Community_Energy_Management_Enhancing_Demand_Response_Through_Smart_Contracts_in_a_Blockchain_Network">Decentralized Community Energy Management: Enhancing Demand Response Through Smart Contracts in a Blockchain Network</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="24237626" href="https://independent.academia.edu/TirthadipGhose">Tirthadip Ghose</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE Access</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--cd2e9844"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":129040364,"extra":{"source_work_id":129040364}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--cd2e9844'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/129040364/Decentralized_Community_Energy_Management_Enhancing_Demand_Response_Through_Smart_Contracts_in_a_Blockchain_Network","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":129040364,"extra":{"source_work_id":129040364}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":122523279}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/129040364/Decentralized_Community_Energy_Management_Enhancing_Demand_Response_Through_Smart_Contracts_in_a_Blockchain_Network"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="8" data-entity-id="34905493" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/34905493/INTEGRATION_OF_THE_BLOCKCHAIN_IN_A_SMART_GRID_MODEL">INTEGRATION OF THE BLOCKCHAIN IN A SMART GRID MODEL</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="34339851" href="https://esilv.academia.edu/GuillaumeGu%C3%A9rard">Guillaume Guérard</a></div><p class="ds2-5-body-sm ds-related-work--abstract ">Nowadays, one of the principal concerns of the scientific community is the energy transition and energy efficiency. Indeed, the expansion of objects consuming and IoT leds to a significant increase in energy demand. To find a solution to this phenomenon is essential. Currently, one of the solutions that can be applied is the Smart Grid. It would optimize the energy consumption by setting consumption patterns, adapted to a specific situation, taking into account different parameters like the pricer, the user preferences, or the parameters of the appliances of the house. Promoting renewable energies such as solar or wind power, are also part of the issues of the Smart Grid. The goal is to promote local energy production, and then avoid the energy transport loses over long distances. However, the produced energy by renewable energies is erratic, thus a numerical management is needed. A blockchain is a distributed, decentralized transaction ledger, which is owned, maintained and updated by each user. It carries peer-to-peer energy exchanges among citizens of a same microgrid, without a central control body, based on smart contracts. The smart contracts will have the role to automatically satisfy some conditions or rules of consumption, among citizens. These contracts might contain the user preferences or the consumption patterns of appliances. A city contains several microgrids, each with their own blockchain, the inhabitants would have solar panels or other energy sources, and then would feed those which claim energies by making a transaction following the smart contracts. This paper focuses on these peer-to-peer transactions in a microgrid validated by a blockchain.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--746d6e8b"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":34905493,"extra":{"source_work_id":34905493}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--746d6e8b'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/34905493/INTEGRATION_OF_THE_BLOCKCHAIN_IN_A_SMART_GRID_MODEL","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":34905493,"extra":{"source_work_id":34905493}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":54766324}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/34905493/INTEGRATION_OF_THE_BLOCKCHAIN_IN_A_SMART_GRID_MODEL"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-wsj-grid-card" data-collection-position="9" data-entity-id="36593930" data-sort-order="default"><a class="ds-related-work--title js-wsj-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/36593930/A_blockchain_based_infrastructure_for_reliable_and_cost_effective_IoT_aided_smart_grids">A blockchain-based infrastructure for reliable and cost-effective IoT-aided smart grids</a><div class="ds-related-work--metadata"><a class="js-wsj-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="50965877" href="https://soton.academia.edu/StefanoDeAngelis">Stefano De Angelis</a></div><p class="ds2-5-body-sm ds-related-work--abstract ">One of the main trends in the evolution of smart grids is transactive energy, where distributed energy resources, e.g. smart meters, develop towards Internet-of-Things (IoT) devices enabling prosumers to trade energy directly among each other, without the need of involving any centralised third party. The expected advantages in terms of cost-effectiveness would be significant, indeed technical solutions are being investigated and large-scale deployment are planned by major utilities companies. However, introducing transactive energy in the smart grid entails new security threats, such as forging energy transactions.{\ensuremath{&lt;}}br/{\ensuremath{&gt;}}This paper introduces an infrastructure to support reliable and cost-effective transactive energy, based on blockchain and smart contracts, where functionalities are implemented as fully decentralised applications. Energy transactions are stored in the blockchain, whose high replication level ensures stronger guarantees against tampering. Energy auctions are carried out according to transparent rules implemented as smart contracts, hence visible to all involved actors. Threats deriving from known vulnerabilities of smart meters are mitigated by temporarily keeping out exposed prosumers and updating their devices as soon as security patches become available.</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--691e7138"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":36593930,"extra":{"source_work_id":36593930}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--691e7138'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/36593930/A_blockchain_based_infrastructure_for_reliable_and_cost_effective_IoT_aided_smart_grids","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":36593930,"extra":{"source_work_id":36593930}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":56521871}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-wsj-grid-card-view-pdf" href="https://www.academia.edu/36593930/A_blockchain_based_infrastructure_for_reliable_and_cost_effective_IoT_aided_smart_grids"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div></div></div></div></div></div></div></div><div class="ds-sticky-ctas--wrapper js-loswp-sticky-ctas hidden"><div class="ds-sticky-ctas--grid-container"><div class="ds-sticky-ctas--container"><button class="ds2-5-button js-tc-loswp--continue-reading-button--sticky-ctas js-login-button--cae7e054">See full PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--continue-reading-button--sticky-ctas","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--continue-reading-button--sticky-ctas');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--cae7e054'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios","clickTrackingContext":{"source":"loswp--continue-reading-button--sticky-ctas","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":114535363}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><button class="ds2-5-button ds2-5-button--secondary js-tc-loswp--download-pdf-button--sticky-ctas js-login-button--9fccf416"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span>Download PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--download-pdf-button--sticky-ctas","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}};
+  const button = document.querySelector('.js-tc-loswp--download-pdf-button--sticky-ctas');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--9fccf416'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios?auto=download","clickTrackingContext":{"source":"loswp--download-pdf-button--sticky-ctas","bucket":"safe_v1","entity_id":119065462,"extra":{"source_work_id":119065462}},"configuredText":{"buttonsPage":{"header":"Download your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue with your free download."},"emailLoginPage":{"subheader":"Log in to continue with your free download."},"emailRegistrationPage":{"subheader":"Sign up to continue with your free download.","submit":"Start Download"}},"registrationParams":{"user_source":"download","doc_id":114535363,"auto":"download"}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div></div><div class="ds-below-fold--grid-container"><div class="ds-work--container js-loswp-embedded-document"><div class="attachment_preview" data-attachment="Attachment_114535363" style="display: none"><div class="js-scribd-document-container"><div class="scribd--document-loading js-scribd-document-loader" style="display: block;"><img alt="Loading..." src="//a.academia-assets.com/images/loaders/paper-load.gif" /><p>Loading Preview</p></div></div><div style="text-align: center;"><div class="scribd--no-preview-alert js-preview-unavailable"><p>Sorry, preview is currently unavailable. You can download the paper by clicking the button above.</p></div></div></div><div class="references--container"><h2 class="references--heading" id="references">References (35)</h2><ol class="ordered-list"><li class="ordered-list--item ds2-5-body-md">E. Commission, &quot;Europe2020 -a strategy for smart, sustainable and inclusive growth,&quot; http://ec.europa.eu/eu2020/pdf/COMPLET% 20EN%20BARROSO%20%20%20007%20-%20Europe%202020%20- %20EN%20version.pdf.</li><li class="ordered-list--item ds2-5-body-md">E. Commission, &quot;The 2030 climate and energy framework,&quot; https://ec.europa.eu/energy/en/topics/energy-strategy-and-energy- union/2030-energy-strategy.</li><li class="ordered-list--item ds2-5-body-md">S. E. D. Coalition, &quot;Explicit demand response in europe map- ping the markets,&quot; http://www.smarten.eu/explicit-demand-response-in- europe-mapping-the-markets-2017, 2017.</li><li class="ordered-list--item ds2-5-body-md">O. Alliance, &quot;Openadr 2.0 specifications,&quot; https://www.openadr.org/ specification.</li><li class="ordered-list--item ds2-5-body-md">U. Ahsan and A. Bais, &quot;Distributed big data management in smart grid,&quot; in 26th Wireless and Optical Communication Conference (WOCC), 2017.</li><li class="ordered-list--item ds2-5-body-md">S. Nakamoto, &quot;Bitcoin: A peer-to-peer electronic cash system,&quot; http: //bitcoin.org/bitcoin.pdf.</li><li class="ordered-list--item ds2-5-body-md">G. Wood, &quot;Ethereum: A secure decentralized generalized transaction ledger,&quot; https://ethereum.github.io/yellowpaper/paper.pdf.</li><li class="ordered-list--item ds2-5-body-md">E. Androulaki, A. Barger, V. Bortnikov, C. Cachin, K. Christidis, A. De Caro, D. Enyeart, C. Ferris, G. Laventman, Y. Manevich, S. Muralidharan, C. Murthy, B. Nguyen, M. Sethi, G. Singh, K. Smith, A. Sorniotti, C. Stathakopoulou, M. Vukolić, S. W. Cocco, and J. Yellick, &quot;Hyperledger fabric: A distributed operating system for permissioned blockchains,&quot; in Proceedings of the Thirteenth EuroSys Conference, ser. EuroSys &#39;18, 2018.</li><li class="ordered-list--item ds2-5-body-md">N. Szabo, &quot;Smart contracts: Building blocks for digital markets,&quot; http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/ Literature/LOTwinterschool2006/szabo.best.vwh.net/smart contracts 2. html.</li><li class="ordered-list--item ds2-5-body-md">S. Foundation, &quot;Self-sovereign identity,&quot; https://sovrin.org/.</li><li class="ordered-list--item ds2-5-body-md">F. Vogelsteller and V. Buterin, &quot;Eip 20: Erc-20 token standard,&quot; https: //eips.ethereum.org/EIPS/eip-20.</li><li class="ordered-list--item ds2-5-body-md">&quot;Erc-721 token standard,&quot; http://erc721.org/.</li><li class="ordered-list--item ds2-5-body-md">S. Sethi, &quot;Healthcare blockchain leads to transform healthcare industry,&quot; in International Journal of Advance Research, Ideas and Innovations in Technology, vol. 4, no. 1, 2018.</li><li class="ordered-list--item ds2-5-body-md">M. Mihaylov, S. Jurado, N. Avellana, K. Van Moffaert, I. M. de Abril, and A. Now, &quot;Nrgcoin: Virtual currency for trading of renewable energy in smart grids,&quot; in 11th International Conference on the European Energy Market (EEM14), 2014.</li><li class="ordered-list--item ds2-5-body-md">&quot;Jouliette,&quot; https://www.jouliette.net/.</li><li class="ordered-list--item ds2-5-body-md">&quot;Lo3energy,&quot; https://lo3energy.com/.</li><li class="ordered-list--item ds2-5-body-md">A. Paverd, A. Martin, and I. Brown, &quot;Security and privacy in smart grid demand response systems,&quot; in Smart Grid Security. Springer International Publishing, 2014.</li><li class="ordered-list--item ds2-5-body-md">E. M. Koruyeh, K. N. Khasawneh, C. Song, and N. Abu-Ghazaleh, &quot;Spectre returns! speculation attacks using the return stack buffer,&quot; in 12th USENIX Workshop on Offensive Technologies (WOOT 18), 2018.</li><li class="ordered-list--item ds2-5-body-md">N. Z. Aitzhan and D. Svetinovic, &quot;Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams,&quot; IEEE Transactions on Dependable and Secure Computing, 2018.</li><li class="ordered-list--item ds2-5-body-md">C. Pop, T. Cioara, M. Antal, I. Anghel, I. Salomie, and M. Bertoncini, &quot;Blockchain based decentralized management of demand response pro- grams in smart energy grids,&quot; Sensors, 2018.</li><li class="ordered-list--item ds2-5-body-md">K. Christidis and M. Devetsikiotis, &quot;Blockchains and smart contracts for the internet of things,&quot; IEEE Access, 2016.</li><li class="ordered-list--item ds2-5-body-md">Z. Li, J. Kang, R. Yu, D. Ye, Q. Deng, and Y. Zhang, &quot;Consortium blockchain for secure energy trading in industrial internet of things,&quot; IEEE Transactions on Industrial Informatics, 2018.</li><li class="ordered-list--item ds2-5-body-md">F. Lombardi, L. Aniello, S. De Angelis, A. Margheri, and V. Sassone, &quot;A blockchain-based infrastructure for reliable and cost-effective iot-aided smart grids,&quot; in Living in the Internet of Things: Cybersecurity of the IoT -2018, 2018.</li><li class="ordered-list--item ds2-5-body-md">Y. Öztürk, D. Senthilkumar, S. Kumar, and G. K. Lee, &quot;An intelligent home energy management system to improve demand response,&quot; IEEE Transactions on Smart Grid, vol. 4, pp. 694-701, 2013.</li><li class="ordered-list--item ds2-5-body-md">H. Lund, P. A. Østergaard, D. Connolly, and B. V. Mathiesen, &quot;Smart energy and smart energy systems,&quot; Energy, 2017.</li><li class="ordered-list--item ds2-5-body-md">M. Erol-Kantarci and H. T. Mouftah, &quot;Wireless sensor networks for cost-efficient residential energy management in the smart grid,&quot; IEEE Transactions on Smart Grid, 2011.</li><li class="ordered-list--item ds2-5-body-md">M. Anda and J. Temmen, &quot;Smart metering for residential energy efficiency: The use of community based social marketing for behavioural change and smart grid introduction,&quot; Renewable Energy, 2014.</li><li class="ordered-list--item ds2-5-body-md">B. Zhou, W. Li, K. W. Chan, Y. Cao, Y. Kuang, X. Liu, and X. Wang, &quot;Smart home energy management systems: Concept, configurations, and scheduling strategies,&quot; Renewable and Sustainable Energy Reviews, 2016.</li><li class="ordered-list--item ds2-5-body-md">R. Beck, M. Avital, M. Rossi, and J. B. Thatcher, &quot;Blockchain tech- nology in business and information systems research,&quot; Business &amp; Information Systems Engineering, 2017.</li><li class="ordered-list--item ds2-5-body-md">J. Sousa, A. Bessani, and M. Vukolic, &quot;A byzantine fault-tolerant ordering service for the hyperledger fabric blockchain platform,&quot; in 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2018.</li><li class="ordered-list--item ds2-5-body-md">DigiCert, &quot;Ssl digital certificate authority,&quot; https://www.digicert.com/.</li><li class="ordered-list--item ds2-5-body-md">VeriSign, &quot;Verisign, inc., is a leader in domain names and internet security,&quot; https://www.verisign.com/.</li><li class="ordered-list--item ds2-5-body-md">H. Fabric, &quot;Msp implementation with identity mixer,&quot; https:// hyperledger-fabric.readthedocs.io/en/release-1.2/idemix.html.</li><li class="ordered-list--item ds2-5-body-md">H. Fabric, &quot;Key concepts -blockchain network,&quot; https://hyperledger- fabric.readthedocs.io/en/release-1.4/network/network.html.</li><li class="ordered-list--item ds2-5-body-md">Wikipedia, &quot;Digital signature,&quot; https://en.wikipedia.org/wiki/Digital signature.</li></ol></div></div><div class="ds-sidebar--container js-work-sidebar"><div class="ds-related-content--container"><h2 class="ds-related-content--heading">Related papers</h2><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="0" data-entity-id="117007712" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/117007712/Demand_Response_Service_Certification_and_Customer_Baseline_Evaluation_Using_Blockchain_Technology">Demand Response Service Certification and Customer Baseline Evaluation Using Blockchain Technology</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="57586252" href="https://unipa.academia.edu/PGallo">Pierluigi Gallo</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE Access, 2020</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--34c0fa7a"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007712,"extra":{"source_work_id":117007712}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--34c0fa7a'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/117007712/Demand_Response_Service_Certification_and_Customer_Baseline_Evaluation_Using_Blockchain_Technology","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007712,"extra":{"source_work_id":117007712}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":112981337}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/117007712/Demand_Response_Service_Certification_and_Customer_Baseline_Evaluation_Using_Blockchain_Technology"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="1" data-entity-id="103468322" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/103468322/Tracing_and_Securing_DER_Transactions_in_the_Wholesale_Electricity_Market_using_Blockchain">Tracing and Securing DER Transactions in the Wholesale Electricity Market using Blockchain</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="274024591" href="https://independent.academia.edu/miladsoleimani8">milad soleimani</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2021 IEEE Madrid PowerTech, 2021</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--bb3d55dc"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":103468322,"extra":{"source_work_id":103468322}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--bb3d55dc'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/103468322/Tracing_and_Securing_DER_Transactions_in_the_Wholesale_Electricity_Market_using_Blockchain","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":103468322,"extra":{"source_work_id":103468322}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":103468129}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/103468322/Tracing_and_Securing_DER_Transactions_in_the_Wholesale_Electricity_Market_using_Blockchain"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="2" data-entity-id="72781523" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/72781523/Integration_Of_Smart_Grid_And_Blockchain">Integration Of Smart Grid And Blockchain</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="159167468" href="https://rtu.academia.edu/KartikeyGarg">Kartikey Garg</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2021</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--f80233c1"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":72781523,"extra":{"source_work_id":72781523}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--f80233c1'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/72781523/Integration_Of_Smart_Grid_And_Blockchain","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":72781523,"extra":{"source_work_id":72781523}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":81572378}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/72781523/Integration_Of_Smart_Grid_And_Blockchain"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="3" data-entity-id="96265037" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/96265037/Towards_a_Blockchain_Based_Peer_to_Peer_Energy_Marketplace">Towards a Blockchain-Based Peer-to-Peer Energy Marketplace</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="1257001" href="https://usal.academia.edu/AnaBel%C3%A9nGilGonz%C3%A1lez">Ana Belén Gil González</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Energies</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--b26f4272"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":96265037,"extra":{"source_work_id":96265037}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--b26f4272'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/96265037/Towards_a_Blockchain_Based_Peer_to_Peer_Energy_Marketplace","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":96265037,"extra":{"source_work_id":96265037}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":98212492}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/96265037/Towards_a_Blockchain_Based_Peer_to_Peer_Energy_Marketplace"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="4" data-entity-id="124991539" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/124991539/Blockchain_Applications_in_Smart_Grid_Challenges_and_Opportunities">Blockchain Applications in Smart Grid: Challenges and Opportunities</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="43442501" href="https://cpri.academia.edu/shyamagarwal">shyam agarwal</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE, 2023</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--71914f95"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":124991539,"extra":{"source_work_id":124991539}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--71914f95'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/124991539/Blockchain_Applications_in_Smart_Grid_Challenges_and_Opportunities","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":124991539,"extra":{"source_work_id":124991539}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":119114582}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/124991539/Blockchain_Applications_in_Smart_Grid_Challenges_and_Opportunities"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="5" data-entity-id="68105846" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/68105846/Decentralized_blockchain_flexibility_system_for_Smart_Grids_Requirements_engineering_and_use_cases">Decentralized blockchain flexibility system for Smart Grids: Requirements engineering and use cases</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="112385617" href="https://independent.academia.edu/Mastandrea">Giuseppe Mastandrea</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2018 International IEEE Conference and Workshop in Óbuda on Electrical and Power Engineering (CANDO-EPE)</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--cceecde2"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":68105846,"extra":{"source_work_id":68105846}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--cceecde2'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/68105846/Decentralized_blockchain_flexibility_system_for_Smart_Grids_Requirements_engineering_and_use_cases","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":68105846,"extra":{"source_work_id":68105846}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":78701018}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/68105846/Decentralized_blockchain_flexibility_system_for_Smart_Grids_Requirements_engineering_and_use_cases"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="6" data-entity-id="108371043" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/108371043/A_blockchain_based_architecture_and_smart_contracts_for_an_interoperable_Physical_Internet">A blockchain-based architecture and smart contracts for an interoperable Physical Internet</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="36913264" href="https://independent.academia.edu/HarrisNiavis">Harris  Niavis</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Zenodo (CERN European Organization for Nuclear Research), 2023</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--0e1ac061"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":108371043,"extra":{"source_work_id":108371043}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--0e1ac061'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/108371043/A_blockchain_based_architecture_and_smart_contracts_for_an_interoperable_Physical_Internet","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":108371043,"extra":{"source_work_id":108371043}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":106773701}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/108371043/A_blockchain_based_architecture_and_smart_contracts_for_an_interoperable_Physical_Internet"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="7" data-entity-id="104798390" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/104798390/Smart_Contract_Design_in_Distributed_Energy_Systems_A_Systematic_Review">Smart Contract Design in Distributed Energy Systems: A Systematic Review</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="278789374" href="https://independent.academia.edu/YuanLiu213">Yuan Liu</a><span>, </span><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="278883336" href="https://independent.academia.edu/ScottDick7">Scott Dick</a><span>, </span><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="101780772" href="https://independent.academia.edu/KimiaHonari">Kimia Honari</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Energies</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--1ab6455e"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":104798390,"extra":{"source_work_id":104798390}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--1ab6455e'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/104798390/Smart_Contract_Design_in_Distributed_Energy_Systems_A_Systematic_Review","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":104798390,"extra":{"source_work_id":104798390}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":104431339}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/104798390/Smart_Contract_Design_in_Distributed_Energy_Systems_A_Systematic_Review"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="8" data-entity-id="71734797" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/71734797/Enabling_New_Technologies_for_Demand_Response_Decentralized_Validation_Using_Blockchain">Enabling New Technologies for Demand Response Decentralized Validation Using Blockchain</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="6862803" href="https://independent.academia.edu/MBertoncini">Massimo Bertoncini</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&amp;CPS Europe)</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--0e9c8afb"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":71734797,"extra":{"source_work_id":71734797}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--0e9c8afb'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/71734797/Enabling_New_Technologies_for_Demand_Response_Decentralized_Validation_Using_Blockchain","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":71734797,"extra":{"source_work_id":71734797}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":80955848}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/71734797/Enabling_New_Technologies_for_Demand_Response_Decentralized_Validation_Using_Blockchain"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="9" data-entity-id="81654219" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/81654219/Improving_the_Digital_Security_of_Smart_Energy_Systems_with_Smart_Contracts">Improving the Digital Security of Smart Energy Systems with Smart Contracts</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="15689241" href="https://independent.academia.edu/ComputerScienceInformationTechnologyCSIT">Computer Science &amp; Information Technology (CS &amp; IT) Computer Science Conference Proceedings (CSCP)</a></div><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--a7f04cbd"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":81654219,"extra":{"source_work_id":81654219}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--a7f04cbd'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/81654219/Improving_the_Digital_Security_of_Smart_Energy_Systems_with_Smart_Contracts","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":81654219,"extra":{"source_work_id":81654219}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":87624072}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/81654219/Improving_the_Digital_Security_of_Smart_Energy_Systems_with_Smart_Contracts"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="10" data-entity-id="108655064" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/108655064/Impact_of_Blockchain_Technology_on_Electric_Power_Grids_A_case_study_in_LO3_Energy">Impact of Blockchain Technology on Electric Power Grids – A case study in LO3 Energy</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="278618449" href="https://independent.academia.edu/MoAhmadi3">Mo Ahmadi</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2021</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--2e5a0ff6"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":108655064,"extra":{"source_work_id":108655064}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--2e5a0ff6'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/108655064/Impact_of_Blockchain_Technology_on_Electric_Power_Grids_A_case_study_in_LO3_Energy","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":108655064,"extra":{"source_work_id":108655064}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":106981261}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/108655064/Impact_of_Blockchain_Technology_on_Electric_Power_Grids_A_case_study_in_LO3_Energy"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="11" data-entity-id="117007708" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/117007708/Aggregation_and_remuneration_in_Demand_Response_with_a_blockchain_based_framework">Aggregation and remuneration in Demand-Response with a blockchain-based framework</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="57586252" href="https://unipa.academia.edu/PGallo">Pierluigi Gallo</a></div><p class="ds-related-work--metadata ds2-5-body-xs">IEEE Transactions on Industry Applications, 2020</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--ed0faa57"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007708,"extra":{"source_work_id":117007708}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--ed0faa57'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/117007708/Aggregation_and_remuneration_in_Demand_Response_with_a_blockchain_based_framework","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":117007708,"extra":{"source_work_id":117007708}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":112981386}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/117007708/Aggregation_and_remuneration_in_Demand_Response_with_a_blockchain_based_framework"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="12" data-entity-id="91163765" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/91163765/A_Flexibility_Market_Platform_for_Electricity_System_Operators_Using_Blockchain_Technology">A Flexibility Market Platform for Electricity System Operators Using Blockchain Technology</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="236347170" href="https://independent.academia.edu/MladenovValeri">Valeri Mladenov</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Energies, 2022</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--f1902043"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":91163765,"extra":{"source_work_id":91163765}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--f1902043'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/91163765/A_Flexibility_Market_Platform_for_Electricity_System_Operators_Using_Blockchain_Technology","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":91163765,"extra":{"source_work_id":91163765}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":94528450}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/91163765/A_Flexibility_Market_Platform_for_Electricity_System_Operators_Using_Blockchain_Technology"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="13" data-entity-id="63594161" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/63594161/Review_of_Blockchain_Technology_Enhancing_the_Services_of_Distributed_Energy_Systems">Review of Blockchain Technology: Enhancing the Services of Distributed Energy Systems</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="10169820" href="https://cput.academia.edu/TariqKhan">Prof Mohamed Tariq Kahn</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Academia Letters, 2021</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--de020641"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":63594161,"extra":{"source_work_id":63594161}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--de020641'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/63594161/Review_of_Blockchain_Technology_Enhancing_the_Services_of_Distributed_Energy_Systems","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":63594161,"extra":{"source_work_id":63594161}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":75972350}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/63594161/Review_of_Blockchain_Technology_Enhancing_the_Services_of_Distributed_Energy_Systems"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="14" data-entity-id="95578272" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/95578272/Sustainable_blockchain_enabled_services_Smart_contracts">Sustainable blockchain-enabled services: Smart contracts</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="54492950" href="https://independent.academia.edu/ASerguieva">Antoaneta Serguieva</a></div><p class="ds-related-work--metadata ds2-5-body-xs">2017 IEEE International Conference on Big Data (Big Data), 2017</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--76e7995d"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":95578272,"extra":{"source_work_id":95578272}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--76e7995d'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/95578272/Sustainable_blockchain_enabled_services_Smart_contracts","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":95578272,"extra":{"source_work_id":95578272}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":97721901}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/95578272/Sustainable_blockchain_enabled_services_Smart_contracts"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="15" data-entity-id="69468612" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/69468612/A_Review_of_Blockchain_based_Smart_Grid_Applications_Opportunities_and_Future_Directions">A Review of Blockchain-based Smart Grid: Applications, Opportunities, and Future Directions</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="142926735" href="https://independent.academia.edu/SamiullahHamza">Hamza Sami ullah</a></div><p class="ds-related-work--metadata ds2-5-body-xs">ArXiv, 2020</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--4912887b"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":69468612,"extra":{"source_work_id":69468612}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--4912887b'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/69468612/A_Review_of_Blockchain_based_Smart_Grid_Applications_Opportunities_and_Future_Directions","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":69468612,"extra":{"source_work_id":69468612}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":118639218}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/69468612/A_Review_of_Blockchain_based_Smart_Grid_Applications_Opportunities_and_Future_Directions"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div><div class="ds-related-work--container js-related-work-sidebar-card" data-collection-position="16" data-entity-id="72189254" data-sort-order="default"><a class="ds-related-work--title js-related-work-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/72189254/Blockchain_for_the_Energy_Transition">Blockchain for the Energy Transition</a><div class="ds-related-work--metadata"><a class="js-related-work-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="240475" href="https://poliba.academia.edu/SVergura">Silvano  Vergura</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Renewable Energy and Power Quality Journal</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--9fdd2392"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":72189254,"extra":{"source_work_id":72189254}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--9fdd2392'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/72189254/Blockchain_for_the_Energy_Transition","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":72189254,"extra":{"source_work_id":72189254}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":81216935}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-related-work-grid-card-view-pdf" href="https://www.academia.edu/72189254/Blockchain_for_the_Energy_Transition"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div></div><div class="ds-related-content--container"><h2 class="ds-related-content--heading">Related topics</h2><div class="ds-research-interests--pills-container"><a class="js-related-research-interest ds-research-interests--pill" data-entity-id="48" href="https://www.academia.edu/Documents/in/Engineering">Engineering</a><a class="js-related-research-interest ds-research-interests--pill" data-entity-id="422" href="https://www.academia.edu/Documents/in/Computer_Science">Computer Science</a><a class="js-related-research-interest ds-research-interests--pill" data-entity-id="13923" href="https://www.academia.edu/Documents/in/Computer_Security">Computer Security</a><a class="js-related-research-interest ds-research-interests--pill" data-entity-id="42229" href="https://www.academia.edu/Documents/in/Demand_Response">Demand Response</a><a class="js-related-research-interest ds-research-interests--pill" data-entity-id="1268642" href="https://www.academia.edu/Documents/in/Software_Deployment">Software Deployment</a></div></div><div class="ds-related-content--container"><h2 class="ds-related-content--heading">Cited by</h2><div class="ds-related-work--container js-related-work-sidebar-card--cited-by" data-collection-position="0" data-entity-id="120238300" data-sort-order="default"><a class="ds-related-work--title js-cited-by-grid-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/120238300/Impact_of_Blockchain_Technology_on_Smart_Grids">Impact of Blockchain Technology on Smart Grids</a><div class="ds-related-work--metadata"><a class="js-cited-by-grid-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="231767453" href="https://independent.academia.edu/hamzahkhan37">hamzah khan</a></div><p class="ds-related-work--metadata ds2-5-body-xs">Energies</p><div class="ds-related-work--ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--wsj-grid-card-download-pdf-modal js-login-button--faf0a168"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  const csrfToken = document.querySelector("[name='csrf-token']").content;
+  const options = {"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":120238300,"extra":{"source_work_id":120238300}};
+  const button = document.querySelector('.js-tc-loswp--wsj-grid-card-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--faf0a168'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/120238300/Impact_of_Blockchain_Technology_on_Smart_Grids","clickTrackingContext":{"source":"loswp--wsj-grid-card-download-pdf-modal","bucket":"safe_v1","entity_id":120238300,"extra":{"source_work_id":120238300}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":115454243}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><a class="ds2-5-text-link ds2-5-text-link--inline js-cited-by-grid-card-view-pdf" href="https://www.academia.edu/120238300/Impact_of_Blockchain_Technology_on_Smart_Grids"><span class="ds2-5-text-link__content">View PDF</span><span class="material-symbols-outlined" style="font-size: 18px" translate="no">chevron_right</span></a></div></div></div></div></div></div><div id="js-react-on-rails-context" style="display:none" data-rails-context="{&quot;inMailer&quot;:false,&quot;i18nLocale&quot;:&quot;en&quot;,&quot;i18nDefaultLocale&quot;:&quot;en&quot;,&quot;href&quot;:&quot;https://www.academia.edu/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios&quot;,&quot;location&quot;:&quot;/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios&quot;,&quot;scheme&quot;:&quot;https&quot;,&quot;host&quot;:&quot;www.academia.edu&quot;,&quot;port&quot;:null,&quot;pathname&quot;:&quot;/119065462/Permissioned_Blockchains_and_Virtual_Nodes_for_Reinforcing_Trust_Between_Aggregators_and_Prosumers_in_Energy_Demand_Response_Scenarios&quot;,&quot;search&quot;:null,&quot;httpAcceptLanguage&quot;:null,&quot;serverSide&quot;:false}"></div>
+<div class="js-react-on-rails-component" style="display:none" data-component-name="LoginModalManager" data-props="{}" data-trace="false" data-dom-id="LoginModalManager-react-component-e929e6a4-c775-41e4-a894-f767baab7834"></div>
+    <div id="LoginModalManager-react-component-e929e6a4-c775-41e4-a894-f767baab7834"></div>
+    
+
+
+      <div class="footer-container"><div class="about-footer-container"><div class="footer-grid"><div class="links-row"><div class="text-column"><div class="academia-logo"><a href="https://www.academia.edu/?source=footer"><img alt="Academia" src="//a.academia-assets.com/images/design_system/academia_logo_short_white.svg" /></a></div></div><div class="responsive-two-column-container"><div class="inner-two-column-container"><ul class="single-column"><li class="header">Explore</li><li><a href="https://www.academia.edu/documents">Papers</a></li><li><a href="https://www.academia.edu/topics">Topics</a></li></ul><ul class="single-column"><li class="header">Features</li><li><a href="https://www.academia.edu/mentions">Mentions</a></li><li><a href="https://www.academia.edu/analytics">Analytics</a></li><li><a href="https://www.academia.edu/research">PDF Packages</a></li><li><a href="https://www.academia.edu/search/advanced">Advanced Search</a></li><li><a href="https://www.academia.edu/saved_searches">Search Alerts</a></li></ul></div><div class="inner-two-column-container"><ul class="single-column"><li class="header">Journals</li><li><a href="https://www.academia.edu/journals">Academia.edu Journals</a></li><li><a href="https://www.academia.edu/journals/submissions">My submissions</a></li><li><a href="https://www.academia.edu/journals/submissions#reviewer/invitations">Reviewer Hub</a></li><li><a href="https://www.academia.edu/journals/about/why-publish-with-us">Why publish with us</a></li><li><a href="https://www.academia.edu/journals/about/testimonials">Testimonials</a></li></ul><ul class="single-column"><li class="header">Company</li><li><a href="https://www.academia.edu/about">About</a></li><li><a href="https://www.academia.edu/careers">Careers</a></li><li><a href="https://www.academia.edu/press">Press</a></li><li><a href="https://support.academia.edu/hc/en-us">Help Center</a></li><li><a href="https://www.academia.edu/terms">Terms</a></li><li><a href="https://www.academia.edu/privacy">Privacy</a></li><li><a href="https://www.academia.edu/copyright">Copyright</a></li><li><a href="https://www.academia.edu/content_policy">Content Policy</a></li></ul></div></div></div><div class="subfooter-row"><div class="academia-logo"><a href="https://www.academia.edu/?source=footer"><img alt="Academia" src="//a.academia-assets.com/images/design_system/academia_logo_white.svg" /></a></div><div class="text"><div>580 California St., Suite 400</div><div>San Francisco, CA, 94104</div></div><div class="text"><div><a href="https://www.academia.edu/copyright">© 2025 Academia. All rights reserved</a></div></div></div></div></div></div>
+
+  </body>
+</html>

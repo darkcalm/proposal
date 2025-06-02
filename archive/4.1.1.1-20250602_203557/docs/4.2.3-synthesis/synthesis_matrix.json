@@ -1,0 +1,270 @@
+{
+  "protocol_details": {
+    "Adaptive_leader_election_for_control_of_tactical_microgrids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "A_multi-agent-based_integrated_self-healing_and_adaptive_protection_system_for_power_distribution_sy.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "A_multi-agent_system_for_distribution_network_restoration_in_future_smart_grids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Modeling and Coordination of interconnected microgrids using distributed artificial intelligence approaches.md": {
+      "score": 31,
+      "source": "elicit"
+    },
+    "An_intelligent_agent-based_distributed_architecture_for_Smart-Grid_integrated_network_management.md": {
+      "score": 25,
+      "source": "elicit"
+    },
+    "Management_of_Distributed_Energy_Resources_in_IEC_61850_using_Web_Services_on_devices.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Design and Performance Evaluation of Joint Sensing and Communication Integrated System for 5G mmWave.md": {
+      "score": 19,
+      "source": "semantic_scholar"
+    },
+    "AI in renewable energy_ A review of predictive maintenance and energy optimization.md": {
+      "score": 23,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Internet of Drones Simulator_ Design, Implementation, and Performance Evaluation.md": {
+      "score": 20,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    },
+    "Performance evaluation of wireless sensor networks using LEACH protocol.md": {
+      "score": 22,
+      "source": "semantic_scholar"
+    }
+  },
+  "implementation_approaches": {
+    "Adaptive_leader_election_for_control_of_tactical_microgrids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "GridAPPS-D_Distributed_App_Architecture_and_API_for_Modular_and_Distributed_Grid_Operations.md": {
+      "score": 19,
+      "source": "elicit"
+    },
+    "A_multi-agent-based_integrated_self-healing_and_adaptive_protection_system_for_power_distribution_sy.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Federated_Architecture_for_Secure_and_Transactive_Distributed_Energy_Resource_Management_Solutions_(.md": {
+      "score": 26,
+      "source": "elicit"
+    },
+    "A_multi-agent_system_for_distribution_network_restoration_in_future_smart_grids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Modeling and Coordination of interconnected microgrids using distributed artificial intelligence approaches.md": {
+      "score": 31,
+      "source": "elicit"
+    },
+    "An_intelligent_agent-based_distributed_architecture_for_Smart-Grid_integrated_network_management.md": {
+      "score": 25,
+      "source": "elicit"
+    },
+    "Management_of_Distributed_Energy_Resources_in_IEC_61850_using_Web_Services_on_devices.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Design and Performance Evaluation of Joint Sensing and Communication Integrated System for 5G mmWave.md": {
+      "score": 19,
+      "source": "semantic_scholar"
+    },
+    "AI in renewable energy_ A review of predictive maintenance and energy optimization.md": {
+      "score": 23,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Internet of Drones Simulator_ Design, Implementation, and Performance Evaluation.md": {
+      "score": 20,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    },
+    "Performance evaluation of wireless sensor networks using LEACH protocol.md": {
+      "score": 22,
+      "source": "semantic_scholar"
+    }
+  },
+  "security_measures": {
+    "Federated_Architecture_for_Secure_and_Transactive_Distributed_Energy_Resource_Management_Solutions_(.md": {
+      "score": 26,
+      "source": "elicit"
+    },
+    "Modeling and Coordination of interconnected microgrids using distributed artificial intelligence approaches.md": {
+      "score": 31,
+      "source": "elicit"
+    },
+    "AI in renewable energy_ A review of predictive maintenance and energy optimization.md": {
+      "score": 23,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    }
+  },
+  "performance_metrics": {
+    "Adaptive_leader_election_for_control_of_tactical_microgrids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "A_multi-agent-based_integrated_self-healing_and_adaptive_protection_system_for_power_distribution_sy.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Federated_Architecture_for_Secure_and_Transactive_Distributed_Energy_Resource_Management_Solutions_(.md": {
+      "score": 26,
+      "source": "elicit"
+    },
+    "Modeling and Coordination of interconnected microgrids using distributed artificial intelligence approaches.md": {
+      "score": 31,
+      "source": "elicit"
+    },
+    "An_intelligent_agent-based_distributed_architecture_for_Smart-Grid_integrated_network_management.md": {
+      "score": 25,
+      "source": "elicit"
+    },
+    "Management_of_Distributed_Energy_Resources_in_IEC_61850_using_Web_Services_on_devices.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Design and Performance Evaluation of Joint Sensing and Communication Integrated System for 5G mmWave.md": {
+      "score": 19,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Internet of Drones Simulator_ Design, Implementation, and Performance Evaluation.md": {
+      "score": 20,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    },
+    "Performance evaluation of wireless sensor networks using LEACH protocol.md": {
+      "score": 22,
+      "source": "semantic_scholar"
+    }
+  },
+  "integration_methods": {
+    "GridAPPS-D_Distributed_App_Architecture_and_API_for_Modular_and_Distributed_Grid_Operations.md": {
+      "score": 19,
+      "source": "elicit"
+    },
+    "A_multi-agent-based_integrated_self-healing_and_adaptive_protection_system_for_power_distribution_sy.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Federated_Architecture_for_Secure_and_Transactive_Distributed_Energy_Resource_Management_Solutions_(.md": {
+      "score": 26,
+      "source": "elicit"
+    },
+    "A_multi-agent_system_for_distribution_network_restoration_in_future_smart_grids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Modeling and Coordination of interconnected microgrids using distributed artificial intelligence approaches.md": {
+      "score": 31,
+      "source": "elicit"
+    },
+    "An_intelligent_agent-based_distributed_architecture_for_Smart-Grid_integrated_network_management.md": {
+      "score": 25,
+      "source": "elicit"
+    },
+    "Management_of_Distributed_Energy_Resources_in_IEC_61850_using_Web_Services_on_devices.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "AI in renewable energy_ A review of predictive maintenance and energy optimization.md": {
+      "score": 23,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Internet of Drones Simulator_ Design, Implementation, and Performance Evaluation.md": {
+      "score": 20,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    }
+  },
+  "validation_approaches": {
+    "Adaptive_leader_election_for_control_of_tactical_microgrids.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "GridAPPS-D_Distributed_App_Architecture_and_API_for_Modular_and_Distributed_Grid_Operations.md": {
+      "score": 19,
+      "source": "elicit"
+    },
+    "A_multi-agent-based_integrated_self-healing_and_adaptive_protection_system_for_power_distribution_sy.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Federated_Architecture_for_Secure_and_Transactive_Distributed_Energy_Resource_Management_Solutions_(.md": {
+      "score": 26,
+      "source": "elicit"
+    },
+    "Management_of_Distributed_Energy_Resources_in_IEC_61850_using_Web_Services_on_devices.md": {
+      "score": 20,
+      "source": "elicit"
+    },
+    "Design and Performance Evaluation of Joint Sensing and Communication Integrated System for 5G mmWave.md": {
+      "score": 19,
+      "source": "semantic_scholar"
+    },
+    "AI in renewable energy_ A review of predictive maintenance and energy optimization.md": {
+      "score": 23,
+      "source": "semantic_scholar"
+    },
+    "Security Provision in The Cloud Agent Architecture for Efficient User Authentication for Cloud Commu.md": {
+      "score": 21,
+      "source": "semantic_scholar"
+    },
+    "Internet of Drones Simulator_ Design, Implementation, and Performance Evaluation.md": {
+      "score": 20,
+      "source": "semantic_scholar"
+    },
+    "Device Agent Assisted Blockchain Leveraged Framework for Internet of Things.md": {
+      "score": 32,
+      "source": "semantic_scholar"
+    },
+    "Performance evaluation of wireless sensor networks using LEACH protocol.md": {
+      "score": 22,
+      "source": "semantic_scholar"
+    }
+  }
+}

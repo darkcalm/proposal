@@ -1,0 +1,406 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "777393a1e8caa6c1d86f8cca4fa7c53a870e33ec",
+      "url": "https://www.semanticscholar.org/paper/777393a1e8caa6c1d86f8cca4fa7c53a870e33ec",
+      "title": "Borehole Optical Fibre Distributed Temperature Sensing vs. Manual Temperature Logging for Geothermal Condition Assessment: Results of the OptiSGE Project",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11644473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2292869227",
+          "name": "M. K\u0142onowski"
+        },
+        {
+          "authorId": "2304120482",
+          "name": "A. Nermoen"
+        },
+        {
+          "authorId": "2275843551",
+          "name": "P. J. Thomas"
+        },
+        {
+          "authorId": "2292861184",
+          "name": "U. Wyrwalska"
+        },
+        {
+          "authorId": "2292861429",
+          "name": "W. Pratkowiecka"
+        },
+        {
+          "authorId": "2292871311",
+          "name": "A. \u0141adocha"
+        },
+        {
+          "authorId": "2292822061",
+          "name": "K. Midtt\u00f8mme"
+        },
+        {
+          "authorId": "2292861145",
+          "name": "P. Brytan"
+        },
+        {
+          "authorId": "2292874500",
+          "name": "A. Krzonkalla"
+        },
+        {
+          "authorId": "2292868545",
+          "name": "A. Ma\u0107ko"
+        },
+        {
+          "authorId": "2043037762",
+          "name": "K. Zawistowski"
+        },
+        {
+          "authorId": "2331961513",
+          "name": "Jolanta Duczma\u0144ska-K\u0142onowska"
+        }
+      ],
+      "abstract": "Geothermal energy is a crucial component contributing to the development of local thermal energy systems as a carbon-neutral and reliable energy source. Insights into its availability derive from knowledge of geology, hydrogeology and the thermal regime of the subsurface. This expertise helps to locate and monitor geothermal installations as well as observe diverse aspects of natural and man-made thermal effects. Temperature measurements were performed in hydrogeological boreholes in south-western Poland using two methods, i.e., manual temperature logging and optical fibre distributed temperature sensing (OF DTS). It was assumed the water column in each borehole was under thermodynamic equilibrium with the local geothermal gradient of the subsurface, meaning rocks and aquifers. Most of the acquired results show typical patterns, with the upper part of the log depending on altitude, weather and climate as well as on seasonal temperature changes. For deeper parts, the temperature normally increases depending on the local geothermal gradient. The temperature logs for some boreholes located in urban agglomerations showed anthropogenic influence caused by the presence of infrastructure, the urban heat island effect, post-mining activities, etc. The presented research methods are suitable for applications connected with studies crucial to selecting the locations of geothermal installations and to optimize their technical parameters. The observations also help to identify zones of intensified groundwater flow, groundwater inrush into wells, fractured and fissured zones and many others."
+    },
+    {
+      "paperId": "ce6141a89812338095003cde4f837e252c703b10",
+      "url": "https://www.semanticscholar.org/paper/ce6141a89812338095003cde4f837e252c703b10",
+      "title": "A First-order Formalization of Knowl- Edge and Action for a Multi-agent Planning System. In",
+      "venue": "",
+      "year": null,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper has mainly focused on concepts within DAI, a distributed artificial intelligence application for severe storm forecasting which has functioned as a means of gaining real experience with DAI and used a non real-time approach in order to reduce the complexity, but maintain the functionality."
+      },
+      "authors": [
+        {
+          "authorId": "2151565296",
+          "name": "J. Hayes"
+        },
+        {
+          "authorId": "145878706",
+          "name": "D. Michie"
+        },
+        {
+          "authorId": "144763324",
+          "name": "Y. Pao"
+        },
+        {
+          "authorId": "71499232",
+          "name": "H. Pattison"
+        },
+        {
+          "authorId": "1766655",
+          "name": "D. Corkill"
+        },
+        {
+          "authorId": "69857813",
+          "name": "R. Renesse"
+        },
+        {
+          "authorId": "2064662548",
+          "name": "H. Van"
+        },
+        {
+          "authorId": "150165617",
+          "name": "J. van Staveren"
+        },
+        {
+          "authorId": "120861743",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "2060139652",
+          "name": "B. Turnbull"
+        },
+        {
+          "authorId": "2099155177",
+          "name": "J. Jansen"
+        },
+        {
+          "authorId": "2058741692",
+          "name": "S. Jansen"
+        },
+        {
+          "authorId": "150079485",
+          "name": "D. Mullender"
+        },
+        {
+          "authorId": "48954279",
+          "name": "A. Holden"
+        },
+        {
+          "authorId": "69331911",
+          "name": "T. Bastable"
+        },
+        {
+          "authorId": "150074986",
+          "name": "D. Fallmyr"
+        },
+        {
+          "authorId": "32340041",
+          "name": "S. Johansen"
+        },
+        {
+          "authorId": "150339023",
+          "name": "W. Mullender"
+        },
+        {
+          "authorId": "103393200",
+          "name": "Zimmer"
+        },
+        {
+          "authorId": "95141717",
+          "name": "G. Swetnam"
+        },
+        {
+          "authorId": "2610887",
+          "name": "E. Dombroski"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c66a7e8b676c8484634bad0084853f469b2e79a9",
+      "url": "https://www.semanticscholar.org/paper/c66a7e8b676c8484634bad0084853f469b2e79a9",
+      "title": "Intelligent Sensor Networks The Integration Of Sensor Networks Signal Processing And Machine Learning",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 47,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2286375984",
+          "name": "Elizabeth"
+        },
+        {
+          "authorId": null,
+          "name": "F."
+        },
+        {
+          "authorId": "2286529929",
+          "name": "Wanner"
+        },
+        {
+          "authorId": "2071310248",
+          "name": "Ting"
+        },
+        {
+          "authorId": "2286541935",
+          "name": "Zhu And"
+        },
+        {
+          "authorId": "2286525455",
+          "name": "Ping"
+        },
+        {
+          "authorId": "2286292597",
+          "name": "Yi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "url": "https://www.semanticscholar.org/paper/3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "title": "Agent and multi-agent systems : technologies and applications : third KES international symposium, KES-AMSTA 2009 : Uppsala, Sweden, June 3-5, 2009 : proceedings",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Self-Organization in Multi-Agent Systems.- Adaptive Community Identification on Semantic Social Networks with Contextual Synchronization: An Empirical Study."
+      },
+      "authors": [
+        {
+          "authorId": "1403968948",
+          "name": "Kes-Amsta"
+        },
+        {
+          "authorId": "34557478",
+          "name": "Anne H\u00e5kansson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "72f18503d21dfce028307a2fc14a82e4ffbee91b",
+      "url": "https://www.semanticscholar.org/paper/72f18503d21dfce028307a2fc14a82e4ffbee91b",
+      "title": "Pr ep rin t O nly Active Learning for Abstract Models of Collectives *",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research proposes to apply methods from active learning to search for informative inputs in the optimization problem to be solved by the overall system when creating schedules and presents first results experimenting with Decision Forests and Gaussian Processes that motivate further research."
+      },
+      "authors": [
+        {
+          "authorId": "2989121",
+          "name": "Alexander Schiendorfer"
+        },
+        {
+          "authorId": "3266545",
+          "name": "Christoph Lassner"
+        },
+        {
+          "authorId": "38403585",
+          "name": "Gerrit Anders"
+        },
+        {
+          "authorId": "145731725",
+          "name": "W. Reif"
+        },
+        {
+          "authorId": "144739319",
+          "name": "R. Lienhart"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "url": "https://www.semanticscholar.org/paper/2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "title": "Third International Workshop on Self-Adaptive and Self-Organising Socio-Technical Systems ( SASO ST 2015 )",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The SASO workshop addresses all aspects of self-adaptive and self-organising mechanisms in socio-technical systems, covering different perspectives of this exciting research area ranging from normative and trust management systems to socio-inspired design strategies for distributed algorithms, collaboration platforms, and communication protocols."
+      },
+      "authors": [
+        {
+          "authorId": "38403585",
+          "name": "Gerrit Anders"
+        },
+        {
+          "authorId": "2739842",
+          "name": "J. Botev"
+        },
+        {
+          "authorId": "143670698",
+          "name": "M. Esch"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "605df942d6bbe1a16a0263b0b7dd009f9b589034",
+      "url": "https://www.semanticscholar.org/paper/605df942d6bbe1a16a0263b0b7dd009f9b589034",
+      "title": "Mfc problemsmfc cost rationalizations pdf",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "d3bd1f04c6d165da24a6e60ca4963a1b2a0d1102",
+      "url": "https://www.semanticscholar.org/paper/d3bd1f04c6d165da24a6e60ca4963a1b2a0d1102",
+      "title": "Embedded and Ubiquitous Computing, International Conference, EUC 2006, Seoul, Korea, August 1-4, 2006, Proceedings",
+      "venue": "IFIP International Conference on Embedded and Ubiquitous Computing",
+      "year": 2006,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/bfm:978-3-540-36681-2/1?pdf=chapter%20toc",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11802167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11802167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "On Securing Networked Real-Time Embedded Systems towards Self-coordinating Ubiquitous Computing Environments and the Frontier of Digital Technology and Future Strategy."
+      },
+      "authors": [
+        {
+          "authorId": "145157716",
+          "name": "E. Sha"
+        },
+        {
+          "authorId": "1748355",
+          "name": "Sung-Kook Han"
+        },
+        {
+          "authorId": "144486540",
+          "name": "Chengzhong Xu"
+        },
+        {
+          "authorId": "2832368",
+          "name": "Moon-hae Kim"
+        },
+        {
+          "authorId": "1690341",
+          "name": "L. Yang"
+        },
+        {
+          "authorId": "2082437237",
+          "name": "Bin Xiao"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8bb0c49973629c0e3b536478483fffbef78c17b4",
+      "url": "https://www.semanticscholar.org/paper/8bb0c49973629c0e3b536478483fffbef78c17b4",
+      "title": "Is Practice Theory in need of the concept of Community of Practice",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "46809587",
+          "name": "A. Buch"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

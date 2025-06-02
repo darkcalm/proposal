@@ -1,0 +1,170 @@
+{
+  "total": 5,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9ad454efe45bad5117776a189918e57cdbf214b7",
+      "url": "https://www.semanticscholar.org/paper/9ad454efe45bad5117776a189918e57cdbf214b7",
+      "title": "Jacobi Iteration based Distributed Regression in Wireless Sensor Networks",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.4156/AISS.VOL4.ISSUE23.38?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4156/AISS.VOL4.ISSUE23.38, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article presents energy-efficient Jacobi distributed algorithm for solving the algebraic equation towards to data regression modeling and an elegant tree-based routing structure is employed to organize the nodes in coordination to accomplish the in-network implementation of the distributed iterative scheme."
+      },
+      "authors": [
+        {
+          "authorId": "49642060",
+          "name": "Chaojun Hou"
+        },
+        {
+          "authorId": "48737933",
+          "name": "Guoli Wang"
+        }
+      ],
+      "abstract": "Data modeling is a potential way of leveraging data spatio-temporal correlations for energy-saving data acquisition in wireless sensor networks (WSNs). This article presents energy-efficient Jacobi distributed algorithm for solving the algebraic equation towards to data regression modeling. In particular, the distributed iterative scheme is proposed to seek the solution of regression algebraic equation with the mixture representation of the regression model. In doing this, an elegant tree-based routing structure is employed to organize the nodes in coordination to accomplish the in-network implementation of the distributed iterative scheme. Under this routing scheme, the intersections among nodes are decoupled via asynchronous message passing protocol, which ensure each node can receive the exact decoupled information from local neighboring nodes for updating its local models. Rather than transmitting the raw sensed data to base station through the network, our Jacobi distributed algorithm provide an energy-saving data acquisition by only collecting the optimal weighted coefficients. The experimental results show that the method proposed here outperforms over the existing schemes in both computation costs and transmission requirements."
+    },
+    {
+      "paperId": "1eac940d1492e9a73d19c2214f78377846f37818",
+      "url": "https://www.semanticscholar.org/paper/1eac940d1492e9a73d19c2214f78377846f37818",
+      "title": "A Protocol for Constraint Automata Execution in a Synchronous Network of Processors",
+      "venue": "International Workshop on Verification and Evaluation of Computer and Communication Systems",
+      "year": 2018,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-00359-3_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-00359-3_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A distributed protocol is devised to model execution the CA subject to the deployment constraints on the messaging within a network of processors derived from the Reo network structure, and guarantees all the processors do the same CA\u2019s transition as a consensus in the same round of execution."
+      },
+      "authors": [
+        {
+          "authorId": "144164080",
+          "name": "A. Farhadi"
+        },
+        {
+          "authorId": "144687977",
+          "name": "M. Izadi"
+        },
+        {
+          "authorId": "50624977",
+          "name": "J. Habibi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "71599322871e68eeafb85098aa35f80549b04ce9",
+      "url": "https://www.semanticscholar.org/paper/71599322871e68eeafb85098aa35f80549b04ce9",
+      "title": "Modelling and Verification of Web Services Business Activity Protocol",
+      "venue": "International Conference on Tools and Algorithms for Construction and Analysis of Systems",
+      "year": 2011,
+      "citationCount": 31,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-19835-9_32.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-19835-9_32?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-19835-9_32, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work uses the model checker Uppaal to analyse the Business Agreement with Coordination Completion protocol type and proves that the enhanced protocol satisfies this property for asynchronous, unreliable, order-preserving communication whereas the original protocol does not."
+      },
+      "authors": [
+        {
+          "authorId": "2168981",
+          "name": "A. Ravn"
+        },
+        {
+          "authorId": "119570282",
+          "name": "Jiri Srba"
+        },
+        {
+          "authorId": "3427205",
+          "name": "M. S. Vighio"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "99c9f06540fba9591630bec43b57a99502ef2b26",
+      "url": "https://www.semanticscholar.org/paper/99c9f06540fba9591630bec43b57a99502ef2b26",
+      "title": "Model-checking web services business activity protocols",
+      "venue": "International Journal on Software Tools for Technology Transfer (STTT)",
+      "year": 2012,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10009-012-0231-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10009-012-0231-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article proposes changes to the protocols and suggests that in case of the BAwCC protocol, messages should be received in the same order as they are sent to preserve correct behaviour, while BAwPC is now correct even for asynchronous, unordered, lossy and duplicating media."
+      },
+      "authors": [
+        {
+          "authorId": "153370680",
+          "name": "Abinoam P. Marques"
+        },
+        {
+          "authorId": "2168981",
+          "name": "A. Ravn"
+        },
+        {
+          "authorId": "119570282",
+          "name": "Jiri Srba"
+        },
+        {
+          "authorId": "3427205",
+          "name": "M. S. Vighio"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "1a24daae81da97d6b5d0751407fef8b0528d2ef2",
+      "url": "https://www.semanticscholar.org/paper/1a24daae81da97d6b5d0751407fef8b0528d2ef2",
+      "title": "Computer and information sciences : ISCIS 2004, 19th international symposium, Kemer-Antalya, Turkey, October 27-29, 2004 : proceedings",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An approach to Quality of Service and a new Classifier based on Attribute Weighted Artificial Immune System (AWAIS)."
+      },
+      "authors": [
+        {
+          "authorId": "1731638",
+          "name": "C. Aykanat"
+        },
+        {
+          "authorId": "2029749",
+          "name": "T. Dayar"
+        },
+        {
+          "authorId": "69878483",
+          "name": "\u0130brahim K\u00f6rpeo\u01e7lu"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

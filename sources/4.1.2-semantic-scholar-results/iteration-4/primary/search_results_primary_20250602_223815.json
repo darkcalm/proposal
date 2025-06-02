@@ -1,0 +1,42 @@
+{
+  "total": 1,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "fa1094d6a7b4ead96a59ea261d08b96158ac3920",
+      "url": "https://www.semanticscholar.org/paper/fa1094d6a7b4ead96a59ea261d08b96158ac3920",
+      "title": "Proceedings of the 3rd workshop on Biologically inspired algorithms for distributed systems",
+      "venue": "International Conference on Automation and Computing",
+      "year": 2011,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A forum for exploring bio-inspired and self-* algorithms to build autonomic distributed systems that can organize, configure, optimize, scale, protect and/or heal themselves with minimal human intervention, and the benefits and challenges to apply the notion of self-organization for the development of distributed systems."
+      },
+      "authors": [
+        {
+          "authorId": "1722716",
+          "name": "G. Folino"
+        },
+        {
+          "authorId": "1802472",
+          "name": "C. Mastroianni"
+        },
+        {
+          "authorId": "1714662",
+          "name": "Sanaz Mostaghim"
+        },
+        {
+          "authorId": "122573052",
+          "name": "J. Suzuki"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

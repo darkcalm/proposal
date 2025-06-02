@@ -1,0 +1,401 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ce6141a89812338095003cde4f837e252c703b10",
+      "url": "https://www.semanticscholar.org/paper/ce6141a89812338095003cde4f837e252c703b10",
+      "title": "A First-order Formalization of Knowl- Edge and Action for a Multi-agent Planning System. In",
+      "venue": "",
+      "year": null,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper has mainly focused on concepts within DAI, a distributed artificial intelligence application for severe storm forecasting which has functioned as a means of gaining real experience with DAI and used a non real-time approach in order to reduce the complexity, but maintain the functionality."
+      },
+      "authors": [
+        {
+          "authorId": "2151565296",
+          "name": "J. Hayes"
+        },
+        {
+          "authorId": "145878706",
+          "name": "D. Michie"
+        },
+        {
+          "authorId": "144763324",
+          "name": "Y. Pao"
+        },
+        {
+          "authorId": "71499232",
+          "name": "H. Pattison"
+        },
+        {
+          "authorId": "1766655",
+          "name": "D. Corkill"
+        },
+        {
+          "authorId": "69857813",
+          "name": "R. Renesse"
+        },
+        {
+          "authorId": "2064662548",
+          "name": "H. Van"
+        },
+        {
+          "authorId": "150165617",
+          "name": "J. van Staveren"
+        },
+        {
+          "authorId": "120861743",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "2060139652",
+          "name": "B. Turnbull"
+        },
+        {
+          "authorId": "2099155177",
+          "name": "J. Jansen"
+        },
+        {
+          "authorId": "2058741692",
+          "name": "S. Jansen"
+        },
+        {
+          "authorId": "150079485",
+          "name": "D. Mullender"
+        },
+        {
+          "authorId": "48954279",
+          "name": "A. Holden"
+        },
+        {
+          "authorId": "69331911",
+          "name": "T. Bastable"
+        },
+        {
+          "authorId": "150074986",
+          "name": "D. Fallmyr"
+        },
+        {
+          "authorId": "32340041",
+          "name": "S. Johansen"
+        },
+        {
+          "authorId": "150339023",
+          "name": "W. Mullender"
+        },
+        {
+          "authorId": "103393200",
+          "name": "Zimmer"
+        },
+        {
+          "authorId": "95141717",
+          "name": "G. Swetnam"
+        },
+        {
+          "authorId": "2610887",
+          "name": "E. Dombroski"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "83bfb2a8bcba58e6fe76000d7e05bb7a1a9b99a0",
+      "url": "https://www.semanticscholar.org/paper/83bfb2a8bcba58e6fe76000d7e05bb7a1a9b99a0",
+      "title": "Agent based coordination protocol for system of cyber-physical systems",
+      "venue": "Energy Informatics",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://energyinformatics.springeropen.com/track/pdf/10.1186/s42162-021-00163-7",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1186/s42162-021-00163-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s42162-021-00163-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The efficacy of the proposed mechanism is validated through simulation of different real-world acyclic SoCPSs topologies and the results show that proposed approach is able to balance the individual requirements of multiple connected CPSs while achieving SoC CPSs\u2019 mission."
+      },
+      "authors": [
+        {
+          "authorId": "3441924",
+          "name": "Aisha Umair"
+        },
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        },
+        {
+          "authorId": "1785092",
+          "name": "Y. Demazeau"
+        },
+        {
+          "authorId": "9114734",
+          "name": "B. J\u00f8rgensen"
+        }
+      ],
+      "abstract": "Nowadays, society and business rely heavily on Information and Communication Technology (ICT) systems, which are progressing faster than ever. To stay on pace with them, focus is shifted towards integration of individual ICT systems into complex systems, which offers more functionality than simply the sum of individual systems. In this regard, Cyber-Physical Systems (CPSs) have gained significant importance and System-of-Systems (SoS) approach has been suggested for modeling complex CPSs to achieve a higher level goal, by dynamically building a large system with existing autonomous, and heterogeneous constituent systems (CSs). An important challenge in a system of Cyber-Physical Systems (SoCPSs) is to develop seamless collaboration between autonomous constituent-CPSs (CCPSs) to coordinate their operations. In this paper, we propose an agent based coordination mechanism to coordinate resource allocation and demand in SoCPSs. The approach models each CCPS as an agent and describes how multiple autonomous CCPSs, i.e., Virtual Power Plant (VPP), Commercial Greenhouse Growers (CGGs), communicate and collaborate with each other asynchronously through negotiation and how potential conflicts between CCPSs with conflicting goals are resolved. The efficacy of the proposed mechanism is validated through simulation of different real-world acyclic SoCPSs topologies. The results show that proposed approach is able to balance the individual requirements of multiple connected CPSs while achieving SoCPSs\u2019 mission."
+    },
+    {
+      "paperId": "b61fc727fb7cdb05eccc715f1fb47686a1b34e6d",
+      "url": "https://www.semanticscholar.org/paper/b61fc727fb7cdb05eccc715f1fb47686a1b34e6d",
+      "title": "Multi-agent System for Coordination of Distributed Energy Resources in Virtual Power Plants",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "fc7dce09f7d93bf767188f0e9f67769f670da726",
+      "url": "https://www.semanticscholar.org/paper/fc7dce09f7d93bf767188f0e9f67769f670da726",
+      "title": "Regional consensus in discrete-time multi-agent systems subject to time-varying delays and saturating actuators",
+      "venue": "International Journal of Control",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/00207179.2022.2053207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00207179.2022.2053207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "134808979",
+          "name": "T. Silva"
+        },
+        {
+          "authorId": "33288380",
+          "name": "Valter J. S. Leite"
+        },
+        {
+          "authorId": "9030373",
+          "name": "F. O. Souza"
+        },
+        {
+          "authorId": "2159372161",
+          "name": "and Luciano C. A. Pimenta"
+        }
+      ],
+      "abstract": "This paper deals with consensus in discrete-time multi-agent systems under directed networks subject to time-varying delays and input saturation. Because saturation might prevent multi-agent systems from attaining consensus, system analysis and controller design require the characterization of the allowed region for the initial conditions. The main contributions of this work are sufficient conditions for consensus analysis and design of distributed protocols for discrete-time systems. Moreover, the conditions lead to a procedure allowing an estimate of the region of attraction. Such a procedure considers the effect of current and delayed states separately, yielding broader estimates of the allowed region for initial conditions. The results follow from the transformation of the consensus problem into a stability problem, with the subsequent employment of the Lyapunov-Krasovskii theory. The conditions are formulated as convex optimization problems. Finally, the paper presents examples and comparisons with previous approaches to illustrate the validity of the proposed methods."
+    },
+    {
+      "paperId": "75b970a17c3a54dda359d353e924d00031774da1",
+      "url": "https://www.semanticscholar.org/paper/75b970a17c3a54dda359d353e924d00031774da1",
+      "title": "Distributed consensus of multi-agent systems using distributed time delayed protocols",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.IJLEO.2015.07.076?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.IJLEO.2015.07.076, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new kind of distributed control protocol is constructed for achieving distributed consensus based on linear matrix inequalities and the Lyapunov function method, and the sufficient conditions for the achievement of the distributed consensus are obtained."
+      },
+      "authors": [
+        {
+          "authorId": "7414004",
+          "name": "Chengrong Xie"
+        },
+        {
+          "authorId": "2110176668",
+          "name": "Yuhua Xu"
+        },
+        {
+          "authorId": "103295367",
+          "name": "Shengyin Meng"
+        },
+        {
+          "authorId": "33720908",
+          "name": "Dongbing Tong"
+        },
+        {
+          "authorId": "2104462",
+          "name": "Anding Dai"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "faf9b1e7466fbef8460055979db7bfb78fd64291",
+      "url": "https://www.semanticscholar.org/paper/faf9b1e7466fbef8460055979db7bfb78fd64291",
+      "title": "Distributed Constrained Multi-Agent Reinforcement Learning with Consensus and Networked Communication",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work introduces a novel Constrained Multi-Agent Reinforcement Learning (CMARL) algorithm that integrates a consensus mechanism to ensure agent coordination and develops an enhanced scalability of policy training through problem factorization based on observed state distributions."
+      },
+      "authors": [
+        {
+          "authorId": "2344035265",
+          "name": "Santiago Amaya-Corredor"
+        },
+        {
+          "authorId": "2344043208",
+          "name": "Anders Jonsson"
+        },
+        {
+          "authorId": "1389989876",
+          "name": "Miguel Calvo-Fullana"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "03d6236cc1ffc5ba48ef757470cec71c4fc8affa",
+      "url": "https://www.semanticscholar.org/paper/03d6236cc1ffc5ba48ef757470cec71c4fc8affa",
+      "title": "An agent-based negotiation approach for balancing multiple coupled control domains",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Latin America",
+      "year": 2015,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGT-LA.2015.7381128?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGT-LA.2015.7381128, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The results show, that the proposed agent-based coordination approach is able to balance the individual requirements of multiple coupled control domains and thereby achieve a global equilibrium state for energy allocation and demand."
+      },
+      "authors": [
+        {
+          "authorId": "3441924",
+          "name": "Aisha Umair"
+        },
+        {
+          "authorId": "145318194",
+          "name": "A. Clausen"
+        },
+        {
+          "authorId": "9114734",
+          "name": "B. J\u00f8rgensen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "33355dcaf48aad63b267e02f1ae66ee3d606f756",
+      "url": "https://www.semanticscholar.org/paper/33355dcaf48aad63b267e02f1ae66ee3d606f756",
+      "title": "Distributed Decision Making and Control",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/978-1-4471-2265-4",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-1-4471-2265-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-1-4471-2265-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The text extends existing methods which represent pricing mechanisms as Lagrange multipliers to distributed optimization in a dynamic setting and includes scalable methods and tools for modeling, analysis and control synthesis, as well as reliable implementations using networked embedded systems."
+      },
+      "authors": [
+        {
+          "authorId": "144170394",
+          "name": "Rolf Johansson"
+        },
+        {
+          "authorId": "1777623",
+          "name": "A. Rantzer"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "url": "https://www.semanticscholar.org/paper/2566d2fc7f2f0df413977fc47e3a20a7151a6481",
+      "title": "Third International Workshop on Self-Adaptive and Self-Organising Socio-Technical Systems ( SASO ST 2015 )",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The SASO workshop addresses all aspects of self-adaptive and self-organising mechanisms in socio-technical systems, covering different perspectives of this exciting research area ranging from normative and trust management systems to socio-inspired design strategies for distributed algorithms, collaboration platforms, and communication protocols."
+      },
+      "authors": [
+        {
+          "authorId": "38403585",
+          "name": "Gerrit Anders"
+        },
+        {
+          "authorId": "2739842",
+          "name": "J. Botev"
+        },
+        {
+          "authorId": "143670698",
+          "name": "M. Esch"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "815242b05be36f26ee0854a1ed3eae4d26280678",
+      "url": "https://www.semanticscholar.org/paper/815242b05be36f26ee0854a1ed3eae4d26280678",
+      "title": "Network human-robot interface at service level",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A multi-agent framework is proposed that works well and provides some advantages to existing systems, and a number of experiments have been conducted successfully in the lab environment using Issac robot, a PDA for user agent and a wireless network system, operated under this framework."
+      },
+      "authors": [
+        {
+          "authorId": "40952567",
+          "name": "T. Nguyen"
+        },
+        {
+          "authorId": "3082789",
+          "name": "Sang-Rok Oh"
+        },
+        {
+          "authorId": "1714466",
+          "name": "Bum-Jae You"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

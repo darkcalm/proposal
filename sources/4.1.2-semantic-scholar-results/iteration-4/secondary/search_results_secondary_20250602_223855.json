@@ -1,0 +1,66 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "6c96aab1235f8d621368a7b09be4c9bf96f8e798",
+      "url": "https://www.semanticscholar.org/paper/6c96aab1235f8d621368a7b09be4c9bf96f8e798",
+      "title": "Innovations in applied artificial intelligence : 17th International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems, IEA/AIE 2004, Ottawa, Canada, May 17-20, 2004 : proceedings",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This book aims to provide a history of spoken language communication with machines in the developing world and some of the techniques used to achieve this goal have been described."
+      },
+      "authors": [
+        {
+          "authorId": "2358646504",
+          "name": "Bob Orchard"
+        },
+        {
+          "authorId": "2352802668",
+          "name": "Chunsheng Yang"
+        },
+        {
+          "authorId": "2359103762",
+          "name": "Moonis Ali"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "url": "https://www.semanticscholar.org/paper/3714db97139a50a4d638243f8f3b52d8be32d2e4",
+      "title": "Agent and multi-agent systems : technologies and applications : third KES international symposium, KES-AMSTA 2009 : Uppsala, Sweden, June 3-5, 2009 : proceedings",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Self-Organization in Multi-Agent Systems.- Adaptive Community Identification on Semantic Social Networks with Contextual Synchronization: An Empirical Study."
+      },
+      "authors": [
+        {
+          "authorId": "1403968948",
+          "name": "Kes-Amsta"
+        },
+        {
+          "authorId": "34557478",
+          "name": "Anne H\u00e5kansson"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}
