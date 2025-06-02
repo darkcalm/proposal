@@ -170,11 +170,11 @@
     - [x] 5.1.3 Analyze qualitative methodologies
     - [x] 5.1.4 Evaluate mixed methodologies
     - [x] 5.1.5 Research emerging methodologies
-  - [ ] 5.2 Methodology Comparison
-    - [ ] 5.2.1 Create comparison matrix
-    - [ ] 5.2.2 Evaluate strengths/limitations
-    - [ ] 5.2.3 Assess resource requirements
-    - [ ] 5.2.4 Analyze feasibility
+  - [x] 5.2 Methodology Comparison
+    - [x] 5.2.1 Create comparison matrix
+    - [x] 5.2.2 Evaluate strengths/limitations
+    - [x] 5.2.3 Assess resource requirements
+    - [x] 5.2.4 Analyze feasibility
   - [ ] 5.3 Methodology Selection
     - [ ] 5.3.1 Select primary method
     - [ ] 5.3.2 Justify selection
