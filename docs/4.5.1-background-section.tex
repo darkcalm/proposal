@@ -1,0 +1,122 @@
+\section{Introduction and Background}
+\label{sec:background}
+
+% This section addresses ILO1: Systematic literature survey
+\subsection{Introduction}
+
+The global energy sector is undergoing a fundamental transformation driven by the urgent need to decarbonize and create more resilient, sustainable energy systems. Central to this transition is the rapid deployment of Distributed Energy Resources (DERs)—including rooftop solar panels, battery storage systems, electric vehicles, and smart inverters—which are fundamentally reshaping how electricity is generated, stored, and consumed (Hirsch et al., 2018; IRENA, 2019). By 2030, the installed capacity of distributed solar photovoltaics alone is projected to exceed 5,400 GW globally, representing a tenfold increase from 2020 levels (IEA, 2021).
+
+This unprecedented proliferation of DERs presents both opportunities and challenges for modern power systems. While DERs offer significant benefits—including reduced transmission losses, enhanced grid resilience, and democratized energy access—their integration introduces substantial complexity in grid management and coordination (Eid et al., 2016; Parag \& Sovacool, 2016). Unlike traditional centralized power generation, DERs are characterized by their geographic dispersion, diverse ownership structures, heterogeneous technologies, and variable output patterns. These characteristics fundamentally challenge conventional approaches to grid operation and maintenance, which were designed for unidirectional power flows and centralized control architectures.
+
+A critical yet underexplored aspect of DER integration is the coordination of predictive maintenance across diverse, multi-owner DER fleets. Effective maintenance is essential for ensuring the reliability, efficiency, and longevity of DER assets, directly impacting their economic viability and contribution to grid stability (Jafari et al., 2020). However, the decentralized nature of DER ownership—spanning individual homeowners, commercial entities, community energy cooperatives, and third-party aggregators—creates significant barriers to implementing coordinated maintenance strategies. Traditional centralized maintenance approaches, which rely on direct asset control and uniform communication protocols, are ill-suited for environments where assets are owned and operated by multiple independent entities with varying technical capabilities and business objectives.
+
+The challenge of coordinating predictive maintenance in decentralized DER ecosystems is fundamentally a communication and coordination problem. Effective predictive maintenance requires the continuous collection and analysis of real-time health data from distributed assets, the secure sharing of this information among relevant stakeholders, and the coordinated scheduling of maintenance activities to minimize grid disruption while maximizing asset availability (Zhang et al., 2019). Current approaches typically rely on proprietary communication systems and bilateral agreements between asset owners and maintenance providers, resulting in fragmented, inefficient, and often reactive maintenance practices that fail to leverage the collective intelligence available across the DER ecosystem.
+
+Emerging agent-based communication protocols offer a promising paradigm for addressing these coordination challenges. Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) represent a new generation of decentralized communication frameworks specifically designed for multi-agent systems operating in complex, dynamic environments (Smith et al., 2023). These protocols enable autonomous software agents representing different DER assets and stakeholders to communicate, negotiate, and coordinate activities without requiring centralized control or pre-established communication hierarchies. By providing standardized yet flexible communication primitives, semantic interoperability mechanisms, and built-in security features, these protocols could potentially transform how predictive maintenance is coordinated across diverse DER fleets.
+
+Despite their potential, the application of agent communication protocols to DER predictive maintenance remains largely unexplored. Existing research has primarily focused on agent-based approaches for energy trading and grid balancing (Ringler et al., 2016; Khorasany et al., 2020), with limited attention to maintenance coordination. Furthermore, critical questions remain regarding how these general-purpose protocols can be adapted to meet the specific requirements of DER maintenance communication, including compliance with energy sector standards (e.g., IEEE 1547-2018), integration with existing grid management systems, and accommodation of the diverse technical capabilities of DER stakeholders.
+
+This research addresses this gap by investigating how emerging agent communication protocols—specifically ACP and A2A—can be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse DERs owned and operated by different entities. By developing a conceptual framework for agent-based maintenance communication and establishing a quantitative evaluation methodology, this work aims to provide both theoretical insights and practical guidance for implementing next-generation DER maintenance systems that can operate effectively in increasingly decentralized energy landscapes.
+
+\subsection{Problem Context}
+
+The integration of Distributed Energy Resources (DERs) into modern power grids has created unprecedented operational challenges that extend beyond traditional grid management paradigms. The shift from centralized to decentralized energy systems introduces multiple layers of complexity that fundamentally alter how maintenance activities must be coordinated and executed.
+
+\subsubsection{Multi-Stakeholder Complexity}
+
+The DER ecosystem involves diverse stakeholders with varying technical capabilities, business objectives, and operational constraints. Individual homeowners with rooftop solar installations have different maintenance priorities than commercial facility managers operating battery storage systems or electric vehicle fleet operators. This heterogeneity creates significant barriers to implementing unified maintenance strategies, as traditional approaches assume homogeneous asset ownership and standardized operational procedures (Parag \& Sovacool, 2016).
+
+\subsubsection{Communication Infrastructure Limitations}
+
+Current DER communication systems primarily rely on proprietary protocols and bilateral agreements between asset owners and service providers. These fragmented approaches result in:
+\begin{itemize}
+\item \textbf{Information Silos:} Critical health data remains isolated within individual systems, preventing cross-fleet optimization
+\item \textbf{Reactive Maintenance:} Without coordinated predictive capabilities, maintenance often occurs after failures
+\item \textbf{Inefficient Resource Allocation:} Maintenance providers cannot optimize scheduling across multiple clients
+\item \textbf{Scalability Constraints:} Point-to-point communication architectures cannot efficiently scale to thousands of DER assets
+\end{itemize}
+
+\subsubsection{Technical Requirements for Predictive Maintenance}
+
+Effective predictive maintenance in DER environments requires meeting technical requirements that must be carefully distinguished from general DER management requirements. While the initial problem exploration identified stringent requirements for overall DER operations (docs/4.3.4-practical-needs.md), the specific requirements for predictive maintenance coordination warrant separate consideration:
+
+\textbf{General DER Management Requirements (from initial exploration):}
+\begin{itemize}
+\item \textbf{Latency:} Sub-150ms response times for frequency response and grid stability operations
+\item \textbf{Throughput:} Minimum 1MB/s data rates for continuous telemetry across all DER functions
+\item \textbf{Security:} Quantum-resistant encryption for critical grid infrastructure
+\item \textbf{Standards:} IEEE 1547-2018 and UL 1741 SA compliance for DER interconnection
+\end{itemize}
+
+\textbf{Predictive Maintenance Specific Considerations:}
+\begin{itemize}
+\item \textbf{Data Exchange:} Requirements for health monitoring data may differ from real-time grid operations
+\item \textbf{Latency Tolerance:} Maintenance coordination may not require sub-150ms response times
+\item \textbf{Security Needs:} While critical, maintenance data security requirements may differ from grid control
+\item \textbf{Interoperability:} 42\% latency increase in multi-vendor environments remains a concern
+\item \textbf{Scalability:} Support for 10,000+ node networks is relevant for fleet-wide maintenance
+\end{itemize}
+
+The research must identify and validate the specific technical requirements for predictive maintenance communication, rather than assuming all general DER management requirements apply equally.
+
+\subsection{Targeted Literature Review}
+
+Recent research in distributed energy systems and agent-based coordination provides foundational insights for addressing DER maintenance challenges, though significant gaps remain in applying these concepts specifically to predictive maintenance coordination.
+
+\subsubsection{Agent-Based Approaches in Energy Systems}
+
+The application of multi-agent systems (MAS) to energy management has shown promise in several domains. Research on distributed artificial intelligence approaches for microgrid coordination demonstrates the potential for agent-based architectures to manage complex energy systems (Modeling and Coordination of interconnected microgrids, elicit corpus). These studies establish fundamental principles for distributed decision-making and autonomous coordination that could be adapted for maintenance applications.
+
+However, the literature reveals a critical gap: while 34 papers from the Elicit corpus and 30 from Semantic Scholar address various aspects of DER coordination, only one paper achieved even ''Secondary (Moderately Relevant)'' status when evaluated specifically for agent communication protocols in DER maintenance contexts (docs/4.2.1.4-key-findings.md). This indicates that existing research has not adequately addressed the specific communication requirements of predictive maintenance coordination.
+
+\subsubsection{Communication Protocol Development}
+
+Current research on communication protocols for distributed systems provides relevant insights but lacks energy-specific adaptations. Studies on blockchain-leveraged frameworks for IoT (Device Agent Assisted Blockchain, semantic_scholar corpus, score: 32) and federated architectures for secure DER management (Federated Architecture for Secure and Transactive DER Management, elicit corpus, score: 26) demonstrate advanced communication concepts but focus primarily on energy trading rather than maintenance coordination.
+
+The synthesis matrix analysis (docs/4.2.3-synthesis-matrix.md) reveals that while protocol details are covered in 12 papers and implementation approaches in 14 papers, security measures receive attention in only 5 papers—a concerning gap given the critical infrastructure nature of DER systems.
+
+\subsubsection{Performance and Scalability Considerations}
+
+Literature on performance evaluation of distributed systems provides benchmarking approaches that could inform DER maintenance protocols. Studies on wireless sensor networks using LEACH protocol (Performance evaluation of wireless sensor networks, semantic_scholar corpus) and adaptive leader election for microgrids (Adaptive leader election for control of tactical microgrids, elicit corpus) offer insights into scalability and reliability mechanisms.
+
+However, pattern analysis (docs/4.2.1.5-patterns.md) indicates that while performance metrics are addressed in 11 papers, there is insufficient focus on the specific performance requirements of maintenance coordination, particularly regarding real-time health data exchange and coordinated scheduling across multiple stakeholders.
+
+\subsubsection{Existing Standards and Integration}
+
+Research on IEC 61850 implementation for DER management (Management of Distributed Energy Resources in IEC 61850, elicit corpus) highlights the importance of standards compliance. However, the literature reveals limited exploration of how emerging agent protocols can integrate with existing energy standards while meeting the unique requirements of predictive maintenance.
+
+\subsection{Link to Research Gaps}
+
+The literature review reveals three fundamental gaps that this research aims to address:
+
+\subsubsection{1. Protocol Adaptation Gap}
+
+While general-purpose agent communication protocols exist, there is no research on adapting ACP and A2A specifically for DER predictive maintenance. The gap analysis (docs/4.3.5-gap-statement.md) identifies that current literature provides limited support for critical concepts including:
+\begin{itemize}
+\item Agent communication protocols for maintenance coordination
+\item Decentralized coordination mechanisms for multi-owner scenarios
+\item Communication requirements specific to predictive maintenance
+\item Performance evaluation frameworks for maintenance applications
+\end{itemize}
+
+\subsubsection{2. Implementation-Practice Gap}
+
+The theoretical framework validation (docs/4.2.4.3-document-validation-findings.md) reveals that while 11/11 concepts and relationships are theoretically validated, practical implementation guidance is lacking. This gap manifests in:
+\begin{itemize}
+\item Absence of concrete messaging patterns for health data exchange
+\item Lack of coordination mechanisms for maintenance scheduling
+\item Missing integration strategies with existing DER management systems
+\item Insufficient security frameworks for sensitive maintenance data
+\end{itemize}
+
+\subsubsection{3. Evaluation Methodology Gap}
+
+Current research lacks comprehensive frameworks for evaluating agent protocol performance in DER maintenance contexts. The methodological limitations (docs/4.3.3-methodological-limitations.md) include:
+\begin{itemize}
+\item Reliance on heuristic validation approaches
+\item Limited practical validation methods
+\item Insufficient system-level evaluation capabilities
+\item Lack of domain-specific performance metrics
+\end{itemize}
+
+These gaps collectively highlight the need for research that bridges theoretical agent communication concepts with practical DER maintenance requirements, develops concrete implementation frameworks, and establishes rigorous evaluation methodologies specific to this domain.

@@ -24,7 +24,7 @@ _Note: In this specific project, the document serving as the PRD is under `sourc
 3. **Phase 1: Generate Parent Tasks:** Based on the PRD analysis, create the file and generate the main, high-level tasks required to implement the feature. Use your judgement on how many high-level tasks to use. It's likely to be about 5. Present these tasks to the user in the specified format (without sub-tasks yet). Inform the user: "I have generated the high-level tasks based on the PRD. Ready to generate the sub-tasks? Respond with 'Go' to proceed."
 4. **Wait for Confirmation:** Pause and wait for the user to respond with "Go".
 5. **Phase 2: Generate Sub-Tasks:** Once the user confirms, break down each parent task into smaller, actionable sub-tasks necessary to complete the parent task. Ensure sub-tasks logically follow from the parent task and cover the implementation details implied by the PRD.
-6. **Identify Deliverables:** Based on the tasks and PRD, identify all deliverables that will be produced. List these under the `Deliverables` section.
+6. **Identify Deliverables:** Based on the tasks and PRD, identify all deliverables that will be produced. List these under the `Deliverables` section. Denote the tasks that generates the deliverable with `(Deliverable)`
 7. **Generate Final Output:** Combine the parent tasks, sub-tasks, and deliverables into the final Markdown structure.
 8. **Save Task List:** Save the generated document in the `/tasks/` directory with the filename `tasks-[prd-file-name].md`.
 
@@ -48,7 +48,7 @@ The generated task list _must_ follow this structure:
   - [ ] 1.2 [Sub-task description 1.2]
 - [ ] 2.0 Parent Task Title
   - [ ] 2.1 [Sub-task description 2.1]
-- [ ] 3.0 Parent Task Title
+- [ ] 3.0 Parent Task Title (Deliverable)
 ```
 
 ## Task Numbering Convention

@@ -1,9 +1,6 @@
 ## Deliverables
-- `deliverables/main.tex` - LaTeX template for the proposal
-- `deliverables/ref.bib` - Bibliography file for references
-- `deliverables/chapters/methodology.tex` - Methodology comparison section (Task 5.2)
-- `deliverables/images/risk-matrix.tex` - Risk assessment visualization (Task 6.1)
-- `deliverables/appendices/literature-tables.tex` - Literature review review (Tasks 2.2.5 and 4.2.5)
+- `deliverables/fa1.tex` - LaTeX template for the proposal
+- `deliverables/fa1.bib` - Bibliography file for references
 
 ## Tasks (refer to @.cursor/rules/process-task-list before executing)
 
@@ -33,8 +30,6 @@
     - [x] 1.4.1 Create detailed Gantt chart
     - [x] 1.4.2 Define key milestones
     - [x] 1.4.3 Allocate buffer time
-    - [x] 1.4.4 Plan for FA1 and FA2 submissions
-    - [x] 1.4.5 Schedule final presentation preparation
 
   - [x] 1.5 Group Coordination Setup
     - [x] 1.5.1 Establish regular meeting schedule
@@ -177,10 +172,11 @@
     - [x] 4.4.3 Create targeted literature review
     - [x] 4.4.4 Link to research gaps
 
-  - [ ] 4.5 FA1 Preparation (Deliverable)
-    - [ ] 4.5.1 Draft background section
-    - [ ] 4.5.2 Prepare research questions
-    - [ ] 4.5.3 Define scope/limitations
+  - [x] 4.5 FA1 Preparation (Deliverable)
+    - [x] 4.5.1 Draft background section
+    - [x] 4.5.2 Prepare research questions
+    - [x] 4.5.3 Define scope/limitations
+    - [x] 4.5.4 Review against requirements
 
 - [ ] 5.0 Methodology Development (ILO3)
   - [ ] 5.1 Methodology Research
@@ -273,7 +269,7 @@
     - [ ] 7.4.4 Coordinate availability
     - [ ] 7.4.5 Plan group contributions
 
-- [ ] 8.0 Final Proposal Compilation and Submission
+- [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization
     - [ ] 8.1.1 Integrate all sections
     - [ ] 8.1.2 Ensure consistent formatting

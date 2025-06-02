@@ -44,6 +44,7 @@ When working with task lists, the AI must:
      - `tools/` - Scripts and utilities
      - `sources/` - Input data or results of using scripts
      - `docs/` - Output files or results of analyzing sources
+     - `deliverables/` - Output for tasks marked with (Deliverable)
    - Output file under `docs/` must indicate the exact files or directories of the sources and tools used to generate its results
    - Output directories under `docs/` must be accompanied by an output markdown directly under `docs/` 
    - Output file naming must start with the associated task number
