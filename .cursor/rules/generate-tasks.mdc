@@ -15,7 +15,7 @@ _Note: In this specific project, the document serving as the PRD is under `sourc
 
 - **Format:** Markdown (`.md`)
 - **Location:** `/tasks/`
-- **Filename:** `tasks-[prd-file-name].md` (e.g., `tasks-course-research-proposal.md`)
+- **Filename:** `tasks-[prd-file-name].md` (e.g., `tasks-research-proposal.md`)
 
 ## Process
 
