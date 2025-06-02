@@ -171,19 +171,16 @@
     - [x] 4.3.4 Document practical needs
     - [x] 4.3.5 Formulate gap statement
 
-  - [ ] 4.4 Background Development
+  - [x] 4.4 Background Development
     - [x] 4.4.1 Write focused introduction
-    - [ ] 4.4.2 Develop problem context
-    - [ ] 4.4.3 Create targeted literature review
-    - [ ] 4.4.4 Integrate policy context
-    - [ ] 4.4.5 Link to research gaps
+    - [x] 4.4.2 Develop problem context
+    - [x] 4.4.3 Create targeted literature review
+    - [x] 4.4.4 Link to research gaps
 
-  - [ ] 4.5 FA1 Preparation
+  - [ ] 4.5 FA1 Preparation (Deliverable)
     - [ ] 4.5.1 Draft background section
     - [ ] 4.5.2 Prepare research questions
     - [ ] 4.5.3 Define scope/limitations
-    - [ ] 4.5.4 Review against requirements
-    - [ ] 4.5.5 Submit by April 16
 
 - [ ] 5.0 Methodology Development (ILO3)
   - [ ] 5.1 Methodology Research
@@ -214,12 +211,9 @@
     - [ ] 5.4.4 Plan pilot testing
     - [ ] 5.4.5 Create workflow diagram
 
-  - [ ] 5.5 FA2 Preparation
-    - [ ] 5.5.1 Update background based on FA1 feedback
+  - [ ] 5.5 FA2 Preparation (Deliverable)
     - [ ] 5.5.2 Document methodology choice
     - [ ] 5.5.3 Address uncertainties
-    - [ ] 5.5.4 Review against requirements
-    - [ ] 5.5.5 Submit by May 9
 
 - [ ] 6.0 Ethics and Sustainability Integration (ILO4)
   - [ ] 6.1 Ethics Assessment
