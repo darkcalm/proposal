@@ -13,9 +13,7 @@ _Note: In this specific project, the document serving as the PRD is under `sourc
 
 When working with task lists, the AI must:
 
-0. Read the task file, aware of overall progress.
-
-1. Check which sub‑task is next by validating whether the task is completed by the previous task outputs under `docs/`. If so, mark task `[x]` immediately and check the proceeding task. **One sub-task at a time:** Do **NOT** start executing the next sub‑task until you ask the user for permission and they say “yes” or "y"
+1. Read the file with the list of tasks, aware of overall progress. Read the most recent task output under `docs/`, and compare consistency to determine what the next subtask should be.
 
 2. **Before Task Execution - acquire contexts:**
    - MUST read the contexts:
@@ -50,6 +48,7 @@ When working with task lists, the AI must:
    - Output file naming must start with the associated task number
 
 4. **After Task Execution - task management:**
-   - Mark task `[x]` immediately
+   - Mark only the task you are working on with `[x]`
    - If all subtasks under parent are `[x]`, mark parent `[x]`
    - New tasks should not be created unless directed by another .mdc
+   - **One sub-task at a time:** Do **NOT** start executing the next subtask until you ask the user for permission and they say “yes” or "y"

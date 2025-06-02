@@ -1,0 +1,12 @@
+method_key,method_name,category,method_type,weighted_score
+experimental_simulation,Experimental Simulation,Quantitative,Controlled Experimentation Technique,4.499999999999999
+comparative_analysis,Multi-Criteria Comparative Analysis,Quantitative,Analytical Framework,4.049999999999999
+metrics_framework,Quantitative Evaluation Framework Development,Quantitative,Measurement Framework Design,4.1499999999999995
+case_study_analysis,DER Maintenance Case Study Analysis,Qualitative,Interpretive Analysis Technique,3.499999999999999
+document_analysis,Technical Document and Standard Analysis,Qualitative,Content Analysis Technique,4.1499999999999995
+expert_evaluation,Expert Evaluation and Validation,Qualitative,Expert Assessment Technique,3.1499999999999995
+design_science_research,Design Science Research,Mixed Methods,Integrative Research Framework,4.499999999999999
+sequential_exploratory,Sequential Exploratory Mixed Methods,Mixed Methods,Sequential Integration Technique,3.6499999999999986
+protocol_archaeology,Protocol Archaeology,Emerging,Analytical Exploration Technique,3.3499999999999988
+digital_twin_methodology,Digital Twin-Based Protocol Testing,Emerging,Simulation-Reality Integration Technique,3.4499999999999993
+ai_assisted_analysis,AI-Assisted Protocol Analysis,Emerging,Computational Analysis Technique,2.9499999999999993
