@@ -172,7 +172,7 @@
     - [x] 4.3.5 Formulate gap statement
 
   - [ ] 4.4 Background Development
-    - [ ] 4.4.1 Write focused introduction
+    - [x] 4.4.1 Write focused introduction
     - [ ] 4.4.2 Develop problem context
     - [ ] 4.4.3 Create targeted literature review
     - [ ] 4.4.4 Integrate policy context
