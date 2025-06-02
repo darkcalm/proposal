@@ -3,764 +3,302 @@
 Task 5.2.4: Analyze Feasibility
 
 Focus: Comprehensive feasibility analysis for top-ranked methodologies
-Context: Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) 
+Context: Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)
          for DER predictive maintenance coordination
 
 Based on:
-- Results from Task 5.2.3 resource requirements assessment
-- Results from Task 5.2.2 strengths and limitations analysis  
 - Results from Task 5.2.1 methodology comparison matrix
-- Research context and constraints from previous tasks
-- Focus on practical implementation feasibility for 20-week Master's thesis
+- Results from Task 5.2.2 strengths and limitations analysis
+- Results from Task 5.2.3 resource requirements assessment
+- Research context and constraints (20-week Master's thesis)
 """
 
 import json
 import os
 from datetime import datetime
-from pathlib import Path
 
 def load_previous_analyses():
     """Load previous analysis results from Tasks 5.2.1, 5.2.2, and 5.2.3"""
-    
-    # Load comparison matrix
-    matrix_file = "../docs/5.2.1-methodology-comparison-matrix.json"
+    base_path = "../docs/"
+    matrix_file = os.path.join(base_path, "5.2.1-methodology-comparison-matrix.json")
+    strengths_file = os.path.join(base_path, "5.2.2-methodology-strengths-limitations.json")
+    resources_file = os.path.join(base_path, "5.2.3-resource-requirements-assessment.json")
+
+    if not all(os.path.exists(f) for f in [matrix_file, strengths_file, resources_file]):
+        raise FileNotFoundError("One or more required input files are missing.")
+
     with open(matrix_file, 'r') as f:
         comparison_matrix = json.load(f)
-    
-    # Load strengths/limitations analysis
-    strengths_file = "../docs/5.2.2-methodology-strengths-limitations.json"
     with open(strengths_file, 'r') as f:
         strengths_analysis = json.load(f)
-    
-    # Load resource requirements assessment
-    resource_file = "../docs/5.2.3-resource-requirements-assessment.json"
-    with open(resource_file, 'r') as f:
+    with open(resources_file, 'r') as f:
         resource_assessment = json.load(f)
-    
+
     return comparison_matrix, strengths_analysis, resource_assessment
 
-def analyze_implementation_feasibility():
-    """
-    Comprehensive feasibility analysis considering:
-    - Resource constraints and availability
-    - Timeline constraints (20-week thesis)
-    - Risk factors and mitigation potential
-    - Technical implementation challenges
-    - Stakeholder access and coordination
-    - Quality outcome probability
-    """
-    
-    # Load previous analyses
+def analyze_feasibility():
+    """Analyze feasibility for the top-ranked methodologies."""
     comparison_matrix, strengths_analysis, resource_assessment = load_previous_analyses()
-    
-    # Research context for feasibility evaluation
+
     research_context = {
-        "timeframe": "20 weeks",
-        "project_type": "Master's thesis (individual)",
         "focus": "Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)",
         "domain": "Distributed Energy Resources (DER) predictive maintenance",
-        "constraints": [
-            "Academic environment with limited industry access",
-            "Individual researcher capacity",
-            "Standard academic budget limitations",
-            "Thesis quality and novelty requirements"
-        ]
+        "timeframe": "20-week Master's thesis",
+        "constraints": ["Individual project", "Academic environment", "Limited budget", "Fixed timeline"]
     }
-    
+
     feasibility_analyses = {}
-    
-    # Analyze each methodology from resource assessment
-    for method_key, resource_data in resource_assessment["resource_assessments"].items():
-        
-        # Get corresponding data from other analyses
-        strengths_data = strengths_analysis["methodology_analyses"][method_key]
-        method_matrix_data = comparison_matrix["methodologies"][method_key]
-        
-        # Comprehensive feasibility analysis
-        feasibility_analysis = {
-            "methodology_name": resource_data["methodology_name"],
-            "category": resource_data["category"],
-            "ranking_score": resource_data["ranking_score"],
-            
-            # Feasibility Dimensions
-            "timeline_feasibility": assess_timeline_feasibility(method_key, resource_data, research_context),
-            "resource_feasibility": assess_resource_feasibility(method_key, resource_data, research_context),
-            "technical_feasibility": assess_technical_feasibility(method_key, resource_data, strengths_data, research_context),
-            "stakeholder_feasibility": assess_stakeholder_feasibility(method_key, resource_data, research_context),
-            "quality_feasibility": assess_quality_feasibility(method_key, strengths_data, method_matrix_data, research_context),
-            "risk_feasibility": assess_risk_feasibility(method_key, strengths_data, resource_data, research_context),
-            
-            # Overall Assessment
-            "overall_feasibility_score": 0,  # Will be calculated
-            "feasibility_category": "",
-            "implementation_readiness": "",
-            "success_probability": "",
-            "feasibility_recommendation": ""
+
+    # Consider top 6 methodologies as per previous scripts
+    top_method_keys = list(strengths_analysis["methodology_analyses"].keys())
+
+    for method_key in top_method_keys:
+        method_matrix_data = comparison_matrix["methodologies"].get(method_key, {})
+        method_strengths_data = strengths_analysis["methodology_analyses"].get(method_key, {})
+        method_resources_data = resource_assessment["resource_assessments"].get(method_key, {})
+
+        if not all([method_matrix_data, method_strengths_data, method_resources_data]):
+            print(f"Warning: Missing data for methodology key {method_key}. Skipping.")
+            continue
+
+        # --- Feasibility Scoring ---
+        # Max possible score: 5 (suitability) + 5 (10 - resource intensity) + 5 (5 - avg risk score) + 5 (timeline alignment) = 20
+        # Adjust scales to be roughly comparable
+
+        # 1. Suitability Score (from 5.2.2, already 0-5 scale)
+        suitability_score = method_strengths_data.get("overall_assessment", {}).get("suitability_rating", 0)
+
+        # 2. Resource Intensity Score (from 5.2.3, 1-5 scale, invert so high score is good)
+        # Lower resource intensity is better for feasibility
+        resource_intensity = method_resources_data.get("resource_intensity", {}).get("intensity_score", 5) # Default to high if missing
+        resource_feasibility_score = max(0, 5 - (resource_intensity -1)) # Scale to 0-4, then adjust to make 5 best
+
+        # 3. Risk Score (from 5.2.2, qualitative, needs quantification)
+        # Average risk level (1=Low, 2=Moderate, 3=High - based on mitigation count/severity perception)
+        risks_data = method_strengths_data.get("risks", {})
+        num_timeline_risks = len(risks_data.get("timeline_risks", []))
+        num_technical_risks = len(risks_data.get("technical_risks", []))
+        # Simple risk score: lower is better.
+        # Max 5 for low risk, min 1 for high risk.
+        avg_risk_level = (num_timeline_risks + num_technical_risks) / 4 # Heuristic: >4 high, 2-4 mod, <2 low
+        if avg_risk_level <= 1: risk_score_component = 5    # Low risk
+        elif avg_risk_level <= 2: risk_score_component = 3.5  # Moderate risk
+        else: risk_score_component = 2                      # High risk
+
+
+        # 4. Timeline Alignment (from 5.2.3, qualitative, needs quantification)
+        # Considering 20-week Master's thesis
+        timeline_data = method_resources_data.get("time_resources", {})
+        project_duration_str = timeline_data.get("total_project_duration", "20 weeks")
+        timeline_alignment_score = 5 # Assume good alignment initially
+
+        if "weeks" in project_duration_str:
+            try:
+                # Extract max duration if a range, e.g., "16-20 weeks"
+                duration_max = int(project_duration_str.split('-')[-1].split(' ')[0])
+                if duration_max > 20: timeline_alignment_score = 2 # Over budget
+                elif duration_max > 18: timeline_alignment_score = 3.5 # Tight
+                elif duration_max <= 16: timeline_alignment_score = 5 # Well within
+                else: timeline_alignment_score = 4 # Good fit
+            except ValueError:
+                 if "very tight" in project_duration_str.lower() or "tight" in project_duration_str.lower() : timeline_alignment_score = 2.5
+                 elif "flexible" in project_duration_str.lower(): timeline_alignment_score = 4.5
+
+
+        # Total Feasibility Score
+        # Normalizing factors can be added if scales are too different
+        total_feasibility_score = (
+            suitability_score * 0.30 +
+            resource_feasibility_score * 0.30 +
+            risk_score_component * 0.20 +
+            timeline_alignment_score * 0.20
+        )
+        total_feasibility_score = round(max(0, min(5, total_feasibility_score)), 2) # Ensure score is 0-5
+
+        # Qualitative Feasibility Assessment
+        if total_feasibility_score >= 4.0: feasibility_category = "Highly Feasible"
+        elif total_feasibility_score >= 3.0: feasibility_category = "Feasible with Conditions"
+        elif total_feasibility_score >= 2.0: feasibility_category = "Moderately Feasible"
+        else: feasibility_category = "Low Feasibility"
+
+        # Recommendation Level
+        if total_feasibility_score >= 4.2: recommendation = "Highly Recommended"
+        elif total_feasibility_score >= 3.5: recommendation = "Recommended"
+        elif total_feasibility_score >= 2.5: recommendation = "Use with Caution"
+        else: recommendation = "Not Recommended"
+
+
+        # Feasibility Enhancers and Inhibitors
+        enhancers = []
+        inhibitors = []
+
+        # Strengths as enhancers
+        enhancers.extend(method_strengths_data.get("strengths",{}).get("contextual_strengths", [])[:2])
+        if suitability_score >=4: enhancers.append("High overall suitability for research context.")
+
+        # Resource optimization as enhancers
+        enhancers.extend(method_resources_data.get("resource_optimization",{}).get("efficiency_improvements", [])[:1])
+        if resource_feasibility_score >=4 : enhancers.append("Manageable resource intensity.")
+
+        # Limitations as inhibitors
+        inhibitors.extend(method_strengths_data.get("limitations",{}).get("contextual_limitations", [])[:2])
+        if suitability_score < 3: inhibitors.append("Lower suitability for specific research goals.")
+
+        # Critical constraints as inhibitors
+        inhibitors.extend(method_resources_data.get("feasibility_constraints",{}).get("critical_constraints", [])[:2])
+        if resource_feasibility_score < 3 : inhibitors.append("High resource intensity poses challenges.")
+
+        # Risks as inhibitors
+        if risk_score_component < 3: inhibitors.append("Notable timeline or technical risks.")
+        inhibitors.extend(risks_data.get("timeline_risks",[])[:1])
+
+
+        feasibility_analyses[method_key] = {
+            "methodology_name": method_strengths_data.get("methodology_name", method_key),
+            "category": method_strengths_data.get("category", "Unknown"),
+            "scores": {
+                "suitability_score_contrib": round(suitability_score * 0.30, 2),
+                "resource_feasibility_score_contrib": round(resource_feasibility_score * 0.30, 2),
+                "risk_score_component_contrib": round(risk_score_component * 0.20, 2),
+                "timeline_alignment_score_contrib": round(timeline_alignment_score * 0.20, 2),
+                "total_feasibility_score": total_feasibility_score
+            },
+            "feasibility_category": feasibility_category,
+            "recommendation": recommendation,
+            "key_feasibility_enhancers": list(set(enhancers)), # Remove duplicates
+            "key_feasibility_inhibitors": list(set(inhibitors)),
+            "detailed_scores": {
+                 "suitability_raw": suitability_score,
+                 "resource_intensity_raw": resource_intensity,
+                 "resource_feasibility_calc": resource_feasibility_score,
+                 "risk_level_heuristic": avg_risk_level,
+                 "risk_score_calc": risk_score_component,
+                 "timeline_duration_eval": project_duration_str,
+                 "timeline_alignment_calc": timeline_alignment_score
+            }
         }
-        
-        # Calculate overall feasibility score
-        feasibility_analysis["overall_feasibility_score"] = calculate_overall_feasibility(feasibility_analysis)
-        feasibility_analysis["feasibility_category"] = categorize_feasibility(feasibility_analysis["overall_feasibility_score"])
-        feasibility_analysis["implementation_readiness"] = assess_implementation_readiness(feasibility_analysis)
-        feasibility_analysis["success_probability"] = assess_success_probability(feasibility_analysis)
-        feasibility_analysis["feasibility_recommendation"] = generate_feasibility_recommendation(feasibility_analysis)
-        
-        feasibility_analyses[method_key] = feasibility_analysis
-    
-    return feasibility_analyses
 
-def assess_timeline_feasibility(method_key, resource_data, research_context):
-    """Assess feasibility within 20-week timeframe"""
-    
-    timeline_assessment = {
-        "estimated_duration": resource_data["time_resources"]["total_project_duration"],
-        "timeline_buffer": "",
-        "critical_path_risks": resource_data["time_resources"].get("timeline_risks", []),
-        "timeline_score": 0,
-        "timeline_challenges": [],
-        "timeline_mitigations": []
-    }
-    
-    # Extract duration and assess against 20-week constraint
-    duration_str = timeline_assessment["estimated_duration"]
-    
-    if method_key == "rapid_prototyping":
-        timeline_assessment["timeline_score"] = 4.5  # Very flexible, fits well
-        timeline_assessment["timeline_buffer"] = "Excellent - flexible scope management"
-        timeline_assessment["timeline_challenges"] = [
-            "Scope creep potential",
-            "Documentation may lag behind development"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Strict iteration boundaries",
-            "Continuous documentation practices",
-            "Regular scope review meetings"
-        ]
-    
-    elif method_key == "comparative_research":
-        timeline_assessment["timeline_score"] = 5.0  # Shortest duration
-        timeline_assessment["timeline_buffer"] = "Excellent - fits within 10 weeks"
-        timeline_assessment["timeline_challenges"] = [
-            "May appear too simple for thesis scope"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Extend scope with implementation proof-of-concept",
-            "Add validation component"
-        ]
-    
-    elif method_key == "digital_twin":
-        timeline_assessment["timeline_score"] = 3.5  # Tight but manageable
-        timeline_assessment["timeline_buffer"] = "Moderate - requires careful planning"
-        timeline_assessment["timeline_challenges"] = [
-            "Model development complexity",
-            "Validation time requirements"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Start with simplified models",
-            "Parallel development and validation"
-        ]
-    
-    elif method_key == "design_science_research":
-        timeline_assessment["timeline_score"] = 3.0  # Tight timeline
-        timeline_assessment["timeline_buffer"] = "Limited - requires efficient execution"
-        timeline_assessment["timeline_challenges"] = [
-            "Artifact development complexity",
-            "Evaluation phase time requirements"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Agile artifact development",
-            "Early evaluation planning"
-        ]
-    
-    elif method_key == "experimental_research":
-        timeline_assessment["timeline_score"] = 4.0  # Good fit
-        timeline_assessment["timeline_buffer"] = "Good - allows for extension"
-        timeline_assessment["timeline_challenges"] = [
-            "Experimental setup time",
-            "Statistical analysis complexity"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Pre-planned experimental framework",
-            "Statistical consultation early"
-        ]
-    
-    elif method_key == "sequential_explanatory":
-        timeline_assessment["timeline_score"] = 1.5  # Exceeds timeframe
-        timeline_assessment["timeline_buffer"] = "Poor - likely to exceed 20 weeks"
-        timeline_assessment["timeline_challenges"] = [
-            "Sequential phases reduce parallelism",
-            "Two complete methodological approaches required"
-        ]
-        timeline_assessment["timeline_mitigations"] = [
-            "Reduce scope of each phase",
-            "Focus on proof-of-concept rather than full implementation"
-        ]
-    
-    return timeline_assessment
+    return feasibility_analyses, research_context
 
-def assess_resource_feasibility(method_key, resource_data, research_context):
-    """Assess resource availability and constraints"""
-    
-    resource_assessment = {
-        "resource_intensity": resource_data["resource_intensity"],
-        "budget_feasibility": "",
-        "expertise_feasibility": "",
-        "access_feasibility": "",
-        "resource_score": 0,
-        "resource_challenges": [],
-        "resource_mitigations": []
-    }
-    
-    intensity_score = resource_data["resource_intensity"]["intensity_score"]
-    
-    # Budget assessment
-    estimated_budget = resource_data["financial_resources"]["total_estimated_budget"]
-    if estimated_budget:
-        if "$300-1,200" in estimated_budget:
-            resource_assessment["budget_feasibility"] = "Excellent - within student budget"
-        elif "$1,500-4,700" in estimated_budget:
-            resource_assessment["budget_feasibility"] = "Challenging - requires funding support"
-        else:
-            resource_assessment["budget_feasibility"] = "Unknown - requires detailed assessment"
-    else:
-        resource_assessment["budget_feasibility"] = "Low cost - mainly time investment"
-    
-    # Expertise assessment based on required skills
-    required_expertise = resource_data["human_resources"]["researcher_expertise_required"]
-    if len(required_expertise) <= 3:
-        resource_assessment["expertise_feasibility"] = "Good - manageable skill requirements"
-    elif len(required_expertise) <= 5:
-        resource_assessment["expertise_feasibility"] = "Moderate - significant learning curve"
-    else:
-        resource_assessment["expertise_feasibility"] = "Challenging - extensive expertise needed"
-    
-    # Access assessment
-    access_barriers = resource_data["access_resources"]["access_barriers"]
-    if len(access_barriers) <= 2:
-        resource_assessment["access_feasibility"] = "Good - minimal access constraints"
-    elif len(access_barriers) <= 4:
-        resource_assessment["access_feasibility"] = "Moderate - manageable with planning"
-    else:
-        resource_assessment["access_feasibility"] = "Challenging - significant access barriers"
-    
-    # Calculate resource score (inverse of intensity for feasibility)
-    resource_assessment["resource_score"] = 6 - intensity_score
-    
-    # Method-specific challenges and mitigations
-    if method_key == "rapid_prototyping":
-        resource_assessment["resource_challenges"] = [
-            "Stakeholder coordination throughout project",
-            "Continuous development environment maintenance"
-        ]
-        resource_assessment["resource_mitigations"] = [
-            "Early stakeholder recruitment and scheduling",
-            "Use of established development frameworks"
-        ]
-    
-    elif method_key == "digital_twin":
-        resource_assessment["resource_challenges"] = [
-            "High computational requirements",
-            "Specialized domain expertise needed",
-            "Software licensing costs"
-        ]
-        resource_assessment["resource_mitigations"] = [
-            "Use institutional computing resources",
-            "Seek expert consultation",
-            "Start with open-source alternatives"
-        ]
-    
-    return resource_assessment
+def generate_markdown_summary(feasibility_analyses, research_context_details):
+    """Generate markdown summary of feasibility analysis."""
+    output_path = "../docs/5.2.4-feasibility-analysis.md"
+    timestamp = datetime.now().isoformat()
 
-def assess_technical_feasibility(method_key, resource_data, strengths_data, research_context):
-    """Assess technical implementation challenges"""
-    
-    technical_assessment = {
-        "implementation_complexity": "",
-        "technical_risks": strengths_data["risks"]["technical_risks"],
-        "infrastructure_requirements": resource_data["technical_resources"]["infrastructure_needs"],
-        "technical_score": 0,
-        "technical_challenges": [],
-        "technical_mitigations": []
-    }
-    
-    # Assess complexity based on methodology characteristics
-    if method_key == "rapid_prototyping":
-        technical_assessment["implementation_complexity"] = "Moderate - iterative development"
-        technical_assessment["technical_score"] = 4.0
-        technical_assessment["technical_challenges"] = [
-            "Maintaining architectural consistency across iterations",
-            "Integration testing complexity"
-        ]
-        technical_assessment["technical_mitigations"] = [
-            "Clear architectural guidelines",
-            "Automated testing frameworks"
-        ]
-    
-    elif method_key == "digital_twin":
-        technical_assessment["implementation_complexity"] = "High - complex modeling"
-        technical_assessment["technical_score"] = 2.5
-        technical_assessment["technical_challenges"] = [
-            "Model fidelity vs. computational efficiency tradeoffs",
-            "Validation against real-world data"
-        ]
-        technical_assessment["technical_mitigations"] = [
-            "Incremental model complexity",
-            "Expert validation reviews"
-        ]
-    
-    elif method_key == "comparative_research":
-        technical_assessment["implementation_complexity"] = "Low - analytical approach"
-        technical_assessment["technical_score"] = 4.5
-        technical_assessment["technical_challenges"] = [
-            "Establishing fair comparison criteria",
-            "Data normalization across different sources"
-        ]
-        technical_assessment["technical_mitigations"] = [
-            "Well-defined evaluation framework",
-            "Statistical analysis support"
-        ]
-    
-    return technical_assessment
-
-def assess_stakeholder_feasibility(method_key, resource_data, research_context):
-    """Assess stakeholder access and engagement requirements"""
-    
-    stakeholder_assessment = {
-        "stakeholder_requirements": resource_data["access_resources"]["stakeholder_access_requirements"],
-        "stakeholder_availability": "",
-        "coordination_complexity": "",
-        "stakeholder_score": 0,
-        "stakeholder_challenges": [],
-        "stakeholder_mitigations": []
-    }
-    
-    num_stakeholders = len(stakeholder_assessment["stakeholder_requirements"])
-    
-    if num_stakeholders <= 2:
-        stakeholder_assessment["stakeholder_availability"] = "Good - minimal coordination"
-        stakeholder_assessment["coordination_complexity"] = "Low"
-        stakeholder_assessment["stakeholder_score"] = 4.5
-    elif num_stakeholders <= 4:
-        stakeholder_assessment["stakeholder_availability"] = "Moderate - requires planning"
-        stakeholder_assessment["coordination_complexity"] = "Moderate"
-        stakeholder_assessment["stakeholder_score"] = 3.5
-    else:
-        stakeholder_assessment["stakeholder_availability"] = "Challenging - extensive coordination"
-        stakeholder_assessment["coordination_complexity"] = "High"
-        stakeholder_assessment["stakeholder_score"] = 2.0
-    
-    # Method-specific stakeholder considerations
-    if method_key == "rapid_prototyping":
-        stakeholder_assessment["stakeholder_challenges"] = [
-            "Continuous availability throughout iterations",
-            "Consistent feedback quality"
-        ]
-        stakeholder_assessment["stakeholder_mitigations"] = [
-            "Flexible meeting scheduling",
-            "Structured feedback frameworks"
-        ]
-    
-    return stakeholder_assessment
-
-def assess_quality_feasibility(method_key, strengths_data, method_matrix_data, research_context):
-    """Assess likelihood of achieving thesis-quality outcomes"""
-    
-    quality_assessment = {
-        "innovation_potential": method_matrix_data.get("innovation_potential", "Unknown"),
-        "academic_rigor": "",
-        "contribution_scope": "",
-        "validation_strength": "",
-        "quality_score": 0,
-        "quality_challenges": [],
-        "quality_mitigations": []
-    }
-    
-    # Assess academic rigor based on methodology characteristics
-    if method_key in ["design_science_research", "experimental_research"]:
-        quality_assessment["academic_rigor"] = "High - established research methodology"
-        quality_assessment["validation_strength"] = "Strong - systematic evaluation"
-        quality_assessment["quality_score"] = 4.5
-    elif method_key in ["rapid_prototyping", "digital_twin"]:
-        quality_assessment["academic_rigor"] = "Moderate to High - emerging methodology"
-        quality_assessment["validation_strength"] = "Good - practical validation"
-        quality_assessment["quality_score"] = 4.0
-    elif method_key == "comparative_research":
-        quality_assessment["academic_rigor"] = "Good - systematic analysis"
-        quality_assessment["validation_strength"] = "Moderate - analytical validation"
-        quality_assessment["quality_score"] = 3.5
-    else:
-        quality_assessment["academic_rigor"] = "High - comprehensive approach"
-        quality_assessment["validation_strength"] = "Very Strong - multiple validation"
-        quality_assessment["quality_score"] = 4.8
-    
-    # Innovation potential assessment
-    ranking_score = strengths_data.get("ranking_score", 0)
-    if ranking_score >= 4.0:
-        quality_assessment["contribution_scope"] = "High - significant research contribution"
-    elif ranking_score >= 3.5:
-        quality_assessment["contribution_scope"] = "Good - meaningful contribution"
-    else:
-        quality_assessment["contribution_scope"] = "Moderate - acceptable contribution"
-    
-    return quality_assessment
-
-def assess_risk_feasibility(method_key, strengths_data, resource_data, research_context):
-    """Assess overall risk profile and mitigation potential"""
-    
-    risk_assessment = {
-        "timeline_risks": strengths_data["risks"]["timeline_risks"],
-        "technical_risks": strengths_data["risks"]["technical_risks"],
-        "resource_risks": strengths_data["risks"]["resource_risks"],
-        "quality_risks": strengths_data["risks"]["quality_risks"],
-        "risk_mitigation_strength": strengths_data["risks"]["mitigations"],
-        "overall_risk_level": "",
-        "risk_score": 0,
-        "critical_risks": [],
-        "risk_mitigations": []
-    }
-    
-    # Count and assess risk severity
-    total_risks = (len(risk_assessment["timeline_risks"]) + 
-                  len(risk_assessment["technical_risks"]) + 
-                  len(risk_assessment["resource_risks"]) + 
-                  len(risk_assessment["quality_risks"]))
-    
-    mitigation_count = len(risk_assessment["risk_mitigation_strength"])
-    
-    if total_risks <= 6 and mitigation_count >= 3:
-        risk_assessment["overall_risk_level"] = "Low - well-managed"
-        risk_assessment["risk_score"] = 4.5
-    elif total_risks <= 10 and mitigation_count >= 2:
-        risk_assessment["overall_risk_level"] = "Moderate - manageable"
-        risk_assessment["risk_score"] = 3.5
-    else:
-        risk_assessment["overall_risk_level"] = "High - requires careful management"
-        risk_assessment["risk_score"] = 2.5
-    
-    # Identify critical risks across all categories
-    risk_assessment["critical_risks"] = (
-        risk_assessment["timeline_risks"][:2] + 
-        risk_assessment["technical_risks"][:2]
+    # Sort by total_feasibility_score descending
+    sorted_analyses = sorted(
+        feasibility_analyses.items(),
+        key=lambda item: item[1]["scores"]["total_feasibility_score"],
+        reverse=True
     )
-    
-    return risk_assessment
 
-def calculate_overall_feasibility(feasibility_analysis):
-    """Calculate weighted overall feasibility score"""
-    
-    weights = {
-        "timeline_feasibility": 0.25,
-        "resource_feasibility": 0.20,
-        "technical_feasibility": 0.20,
-        "stakeholder_feasibility": 0.15,
-        "quality_feasibility": 0.10,
-        "risk_feasibility": 0.10
-    }
-    
-    score = 0
-    for dimension, weight in weights.items():
-        dimension_score = feasibility_analysis[dimension].get(dimension.replace("_feasibility", "_score"), 3.0)
-        score += dimension_score * weight
-    
-    return round(score, 2)
+    md_content = f"""# Methodology Feasibility Analysis (Task 5.2.4)
 
-def categorize_feasibility(score):
-    """Categorize feasibility based on score"""
-    if score >= 4.5:
-        return "Highly Feasible"
-    elif score >= 4.0:
-        return "Feasible"
-    elif score >= 3.5:
-        return "Moderately Feasible"
-    elif score >= 3.0:
-        return "Challenging but Possible"
-    else:
-        return "High Risk - Not Recommended"
-
-def assess_implementation_readiness(feasibility_analysis):
-    """Assess how ready the methodology is for immediate implementation"""
-    
-    timeline_score = feasibility_analysis["timeline_feasibility"]["timeline_score"]
-    resource_score = feasibility_analysis["resource_feasibility"]["resource_score"]
-    
-    avg_readiness = (timeline_score + resource_score) / 2
-    
-    if avg_readiness >= 4.5:
-        return "Ready for Immediate Implementation"
-    elif avg_readiness >= 4.0:
-        return "Ready with Minor Preparation"
-    elif avg_readiness >= 3.5:
-        return "Requires Moderate Preparation"
-    elif avg_readiness >= 3.0:
-        return "Requires Significant Preparation"
-    else:
-        return "Not Ready - Requires Major Preparation"
-
-def assess_success_probability(feasibility_analysis):
-    """Assess probability of successful thesis completion"""
-    
-    overall_score = feasibility_analysis["overall_feasibility_score"]
-    risk_score = feasibility_analysis["risk_feasibility"]["risk_score"]
-    
-    success_indicator = (overall_score + risk_score) / 2
-    
-    if success_indicator >= 4.5:
-        return "Very High (90-95%)"
-    elif success_indicator >= 4.0:
-        return "High (80-90%)"
-    elif success_indicator >= 3.5:
-        return "Good (70-80%)"
-    elif success_indicator >= 3.0:
-        return "Moderate (60-70%)"
-    else:
-        return "Low (40-60%)"
-
-def generate_feasibility_recommendation(feasibility_analysis):
-    """Generate specific recommendation based on feasibility analysis"""
-    
-    overall_score = feasibility_analysis["overall_feasibility_score"]
-    category = feasibility_analysis["feasibility_category"]
-    
-    if overall_score >= 4.5:
-        return "Strongly Recommended - Excellent fit for thesis requirements"
-    elif overall_score >= 4.0:
-        return "Recommended - Good fit with manageable challenges"
-    elif overall_score >= 3.5:
-        return "Conditionally Recommended - Requires careful planning and risk management"
-    elif overall_score >= 3.0:
-        return "Proceed with Caution - High effort required, consider alternatives"
-    else:
-        return "Not Recommended - Too risky for thesis scope and timeline"
-
-def main():
-    """Main execution function"""
-    
-    # Create output directories
-    os.makedirs("../docs", exist_ok=True)
-    
-    print("🔍 Task 5.2.4: Analyzing Implementation Feasibility")
-    print("=" * 70)
-    
-    try:
-        # Perform comprehensive feasibility analysis
-        print("📊 Analyzing feasibility for top-ranked methodologies...")
-        feasibility_analyses = analyze_implementation_feasibility()
-        
-        # Create comprehensive feasibility analysis report
-        analysis_report = {
-            "metadata": {
-                "task": "5.2.4 - Analyze Implementation Feasibility",
-                "timestamp": datetime.now().isoformat(),
-                "scope": "Top-ranked methodologies from Tasks 5.2.1-5.2.3",
-                "methodologies_analyzed": len(feasibility_analyses),
-                "feasibility_dimensions": [
-                    "Timeline Feasibility",
-                    "Resource Feasibility", 
-                    "Technical Feasibility",
-                    "Stakeholder Feasibility",
-                    "Quality Feasibility",
-                    "Risk Feasibility"
-                ]
-            },
-            "research_context": {
-                "focus": "Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)",
-                "domain": "Distributed Energy Resources (DER) predictive maintenance",
-                "constraints": "20-week Master's thesis, individual project, academic environment"
-            },
-            "feasibility_analyses": feasibility_analyses,
-            "comparative_feasibility": generate_comparative_feasibility_analysis(feasibility_analyses),
-            "implementation_recommendations": generate_implementation_recommendations(feasibility_analyses)
-        }
-        
-        # Save detailed JSON output
-        json_file = "../docs/5.2.4-feasibility-analysis.json"
-        with open(json_file, 'w') as f:
-            json.dump(analysis_report, f, indent=2, ensure_ascii=False)
-        
-        print(f"✅ Detailed analysis saved to: {json_file}")
-        
-        # Generate markdown summary
-        generate_markdown_summary(analysis_report)
-        
-        print(f"✅ Feasibility analysis complete for {len(feasibility_analyses)} methodologies")
-        print("🎯 Ready for Task 5.3.1: Select primary methodology")
-        
-    except Exception as e:
-        print(f"❌ Error in analysis: {e}")
-        raise
-
-def generate_comparative_feasibility_analysis(feasibility_analyses):
-    """Generate comparative analysis across methodologies"""
-    
-    comparative_analysis = {
-        "feasibility_ranking": [],
-        "implementation_readiness_ranking": [],
-        "success_probability_ranking": [],
-        "risk_assessment_summary": {}
-    }
-    
-    # Feasibility ranking
-    feasibility_scores = [(method_key, analysis["overall_feasibility_score"]) 
-                         for method_key, analysis in feasibility_analyses.items()]
-    feasibility_scores.sort(key=lambda x: x[1], reverse=True)
-    
-    comparative_analysis["feasibility_ranking"] = [
-        {
-            "methodology": feasibility_analyses[method_key]["methodology_name"],
-            "feasibility_score": score,
-            "feasibility_category": feasibility_analyses[method_key]["feasibility_category"],
-            "recommendation": feasibility_analyses[method_key]["feasibility_recommendation"]
-        }
-        for method_key, score in feasibility_scores
-    ]
-    
-    # Implementation readiness ranking
-    comparative_analysis["implementation_readiness_ranking"] = [
-        {
-            "methodology": analysis["methodology_name"],
-            "readiness": analysis["implementation_readiness"],
-            "success_probability": analysis["success_probability"]
-        }
-        for analysis in feasibility_analyses.values()
-    ]
-    
-    return comparative_analysis
-
-def generate_implementation_recommendations(feasibility_analyses):
-    """Generate specific implementation recommendations"""
-    
-    # Find highest feasibility methodology
-    best_feasibility = max(feasibility_analyses.items(), 
-                          key=lambda x: x[1]["overall_feasibility_score"])
-    
-    recommendations = {
-        "primary_recommendation": {
-            "methodology": best_feasibility[1]["methodology_name"],
-            "feasibility_score": best_feasibility[1]["overall_feasibility_score"],
-            "rationale": best_feasibility[1]["feasibility_recommendation"]
-        },
-        "implementation_priorities": [
-            "Begin with highest feasibility methodology for core thesis",
-            "Prepare contingency plan with second-highest feasibility option",
-            "Focus early efforts on addressing critical constraints",
-            "Establish stakeholder access and resource availability early"
-        ],
-        "critical_success_factors": [
-            "Realistic scope management and timeline planning",
-            "Early identification and mitigation of critical risks",
-            "Stakeholder engagement and access planning",
-            "Resource availability confirmation and backup plans"
-        ]
-    }
-    
-    return recommendations
-
-def generate_markdown_summary(analysis_report):
-    """Generate markdown summary of feasibility analysis"""
-    
-    analyses = analysis_report["feasibility_analyses"]
-    comparative = analysis_report["comparative_feasibility"]
-    recommendations = analysis_report["implementation_recommendations"]
-    
-    md_content = f"""# Implementation Feasibility Analysis (Task 5.2.4)
-
-*Generated: {analysis_report['metadata']['timestamp']}*
+*Generated: {timestamp}*
 
 ## Research Context
 
-**Focus**: {analysis_report['research_context']['focus']}
-**Domain**: {analysis_report['research_context']['domain']}  
-**Constraints**: {analysis_report['research_context']['constraints']}
-**Methodologies Analyzed**: {analysis_report['metadata']['methodologies_analyzed']}
+**Focus**: {research_context_details['focus']}
+**Domain**: {research_context_details['domain']}
+**Timeframe**: {research_context_details['timeframe']}
+**Key Constraints**: {', '.join(research_context_details['constraints'])}
+**Methodologies Analyzed**: {len(feasibility_analyses)}
 
-## Feasibility Dimensions Analyzed
+## Executive Summary - Feasibility Rankings
 
-{chr(10).join([f"- {dimension}" for dimension in analysis_report['metadata']['feasibility_dimensions']])}
-
-## Executive Summary
-
-### Primary Recommendation
-**{recommendations['primary_recommendation']['methodology']}**
-- Feasibility Score: {recommendations['primary_recommendation']['feasibility_score']}
-- {recommendations['primary_recommendation']['rationale']}
-
-### Feasibility Rankings
-{chr(10).join([f"{i+1}. **{item['methodology']}** - {item['feasibility_category']} (Score: {item['feasibility_score']})" for i, item in enumerate(comparative['feasibility_ranking'])])}
-
-## Detailed Feasibility Analysis
-
+| Rank | Methodology                 | Category             | Feasibility Score | Recommendation         |
+|------|-----------------------------|----------------------|-------------------|------------------------|
 """
-    
-    # Add detailed analysis for each methodology
-    for method_key, analysis in analyses.items():
-        md_content += f"""### {analysis['methodology_name']}
+    for i, (method_key, analysis) in enumerate(sorted_analyses):
+        md_content += f"| {i+1:<4} | {analysis['methodology_name']:<27} | {analysis['category']:<20} | {analysis['scores']['total_feasibility_score']:<17.2f} | **{analysis['recommendation']}**      |\n"
 
-**Overall Feasibility**: {analysis['feasibility_category']} (Score: {analysis['overall_feasibility_score']})
-**Implementation Readiness**: {analysis['implementation_readiness']}
-**Success Probability**: {analysis['success_probability']}
+    md_content += """
 
-#### Timeline Feasibility (Score: {analysis['timeline_feasibility']['timeline_score']})
-- **Duration**: {analysis['timeline_feasibility']['estimated_duration']}
-- **Buffer**: {analysis['timeline_feasibility']['timeline_buffer']}
-- **Key Challenges**: {', '.join(analysis['timeline_feasibility']['timeline_challenges'][:2])}
-
-#### Resource Feasibility (Score: {analysis['resource_feasibility']['resource_score']})
-- **Budget**: {analysis['resource_feasibility']['budget_feasibility']}
-- **Expertise**: {analysis['resource_feasibility']['expertise_feasibility']}
-- **Access**: {analysis['resource_feasibility']['access_feasibility']}
-
-#### Technical Feasibility (Score: {analysis['technical_feasibility']['technical_score']})
-- **Complexity**: {analysis['technical_feasibility']['implementation_complexity']}
-- **Key Risks**: {', '.join(analysis['technical_feasibility']['technical_risks'][:2])}
-
-#### Quality Feasibility (Score: {analysis['quality_feasibility']['quality_score']})
-- **Academic Rigor**: {analysis['quality_feasibility']['academic_rigor']}
-- **Validation**: {analysis['quality_feasibility']['validation_strength']}
-- **Contribution**: {analysis['quality_feasibility']['contribution_scope']}
-
-#### Risk Assessment (Score: {analysis['risk_feasibility']['risk_score']})
-- **Risk Level**: {analysis['risk_feasibility']['overall_risk_level']}
-- **Critical Risks**: {', '.join(analysis['risk_feasibility']['critical_risks'][:2])}
-
-**Recommendation**: {analysis['feasibility_recommendation']}
-
----
-
+## Detailed Feasibility Assessments
 """
-    
-    md_content += f"""## Implementation Recommendations
 
-### Critical Success Factors
-{chr(10).join([f"- {factor}" for factor in recommendations['critical_success_factors']])}
+    for method_key, analysis in sorted_analyses:
+        md_content += f"""
+### {analysis['methodology_name']}
+**Category**: {analysis['category']}
+**Total Feasibility Score**: {analysis['scores']['total_feasibility_score']:.2f} ({analysis['feasibility_category']})
+**Overall Recommendation**: **{analysis['recommendation']}**
 
-### Implementation Priorities
-{chr(10).join([f"- {priority}" for priority in recommendations['implementation_priorities']])}
+**Score Breakdown (Contributions):**
+- Suitability: {analysis['scores']['suitability_score_contrib']:.2f} (raw: {analysis['detailed_scores']['suitability_raw']:.2f})
+- Resource Feasibility: {analysis['scores']['resource_feasibility_score_contrib']:.2f} (raw intensity: {analysis['detailed_scores']['resource_intensity_raw']:.2f}, calc: {analysis['detailed_scores']['resource_feasibility_calc']:.2f})
+- Risk Mitigation: {analysis['scores']['risk_score_component_contrib']:.2f} (heuristic risk level: {analysis['detailed_scores']['risk_level_heuristic']:.2f}, calc: {analysis['detailed_scores']['risk_score_calc']:.2f})
+- Timeline Alignment: {analysis['scores']['timeline_alignment_score_contrib']:.2f} (eval: '{analysis['detailed_scores']['timeline_duration_eval']}', calc: {analysis['detailed_scores']['timeline_alignment_calc']:.2f})
 
-## Key Findings
+**Key Feasibility Enhancers:**
+"""
+        for enhancer in analysis['key_feasibility_enhancers']:
+            md_content += f"- {enhancer}\n"
+        if not analysis['key_feasibility_enhancers']: 
+            md_content += "- None explicitly identified beyond general strengths.\n"
 
-1. **Highest Feasibility**: {recommendations['primary_recommendation']['methodology']} (Score: {recommendations['primary_recommendation']['feasibility_score']})
-2. **Most Critical Factor**: Timeline management within 20-week constraint
-3. **Key Risk Area**: Stakeholder access and coordination requirements
-4. **Implementation Strategy**: Start with highest feasibility methodology, prepare alternatives
+        md_content += """
+**Key Feasibility Inhibitors:**
+"""
+        for inhibitor in analysis['key_feasibility_inhibitors']:
+            md_content += f"- {inhibitor}\n"
+        if not analysis['key_feasibility_inhibitors']:
+            md_content += "- None explicitly identified beyond general limitations/risks.\n"
+        md_content += "\n---\n"
+
+    md_content += """\n## Feasibility Considerations Summary
+
+- **Highly Recommended Methodologies** are those with strong alignment across suitability, resource manageability, risk profile, and timeline.
+- **Feasible with Conditions** methodologies may require specific strategies to mitigate identified inhibitors (e.g., securing specific resources, careful risk management).
+- **Low Feasibility** or **Not Recommended** methodologies present significant challenges within the defined research context and constraints, often due to high resource needs, excessive risks, or poor timeline fit for a 20-week individual Master's thesis.
 
 ## Next Steps
-
-- Task 5.3.1: Select primary methodology based on feasibility analysis
-- Task 5.3.2: Justify methodology selection with feasibility evidence
-- Begin early preparation for critical success factors
-
----
-
-*Task 5.2.4 completed - Comprehensive implementation feasibility analysis*
-*Sources: Tasks 5.2.1-5.2.3 methodology evaluations, feasibility assessment frameworks*
+- Task 5.3.1: Select primary methodology, considering this feasibility analysis. The user will be prompted for this selection.
 """
-    
-    # Save markdown file
-    md_file = "../docs/5.2.4-feasibility-analysis.md"
-    with open(md_file, 'w') as f:
+
+    with open(output_path, 'w') as f:
         f.write(md_content)
-    
-    print(f"✅ Summary saved to: {md_file}")
+    print(f"✅ Markdown summary saved to: {output_path}")
+
+def main():
+    """Main execution function"""
+    os.makedirs("../docs", exist_ok=True)
+    print("🔍 Task 5.2.4: Analyzing Methodology Feasibility")
+    print("=" * 70)
+
+    try:
+        print("📊 Analyzing feasibility based on previous task outputs...")
+        feasibility_analyses, research_context = analyze_feasibility()
+
+        analysis_report = {
+            "metadata": {
+                "task": "5.2.4 - Analyze Feasibility",
+                "timestamp": datetime.now().isoformat(),
+                "scope": "Top-ranked methodologies from Tasks 5.2.1, 5.2.2, and 5.2.3",
+                "methodologies_analyzed": len(feasibility_analyses)
+            },
+            "research_context": research_context,
+            "feasibility_analyses": feasibility_analyses
+        }
+
+        json_file = "../docs/5.2.4-feasibility-analysis.json"
+        with open(json_file, 'w') as f:
+            json.dump(analysis_report, f, indent=2, ensure_ascii=False)
+        print(f"✅ Detailed feasibility analysis saved to: {json_file}")
+
+        generate_markdown_summary(feasibility_analyses, research_context)
+
+        print(f"✅ Feasibility analysis complete for {len(feasibility_analyses)} methodologies.")
+        print("🎯 Ready for Task 5.3.1: Select primary methodology (User Prompt)")
+
+    except FileNotFoundError as e:
+        print(f"❌ Error: Required input file not found. {e}")
+        print("Please ensure Tasks 5.2.1, 5.2.2, and 5.2.3 have been run successfully.")
+    except Exception as e:
+        print(f"❌ Error in feasibility analysis: {e}")
+        # import traceback
+        # traceback.print_exc() # Uncomment for detailed debugging if needed
+        raise
 
 if __name__ == "__main__":
     main() 

@@ -164,7 +164,7 @@
     - [x] 4.5.4 Review against requirements
 
 - [ ] 5.0 Methodology Development (ILO3)
-  - [ ] 5.1 Methodology Research
+  - [x] 5.1 Methodology Research
     - [x] 5.1.1 Identify relevant methodologies
     - [x] 5.1.2 Document quantitative approaches
     - [x] 5.1.3 Analyze qualitative methodologies

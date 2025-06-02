@@ -16,48 +16,23 @@ Based on:
 import json
 import os
 from datetime import datetime
-from pathlib import Path
 
 def load_previous_analyses():
     """Load previous analysis results from Tasks 5.2.1 and 5.2.2"""
     
-    # Load comparison matrix
-    matrix_file = "../docs/5.2.1-methodology-comparison-matrix.json"
-    if not os.path.exists(matrix_file):
-        raise FileNotFoundError(f"Comparison matrix not found: {matrix_file}")
-    
-    with open(matrix_file, 'r') as f:
+    with open("../docs/5.2.1-methodology-comparison-matrix.json", 'r') as f:
         comparison_matrix = json.load(f)
     
-    # Load strengths/limitations analysis
-    strengths_file = "../docs/5.2.2-methodology-strengths-limitations.json"
-    if not os.path.exists(strengths_file):
-        raise FileNotFoundError(f"Strengths analysis not found: {strengths_file}")
-    
-    with open(strengths_file, 'r') as f:
+    with open("../docs/5.2.2-methodology-strengths-limitations.json", 'r') as f:
         strengths_analysis = json.load(f)
     
     return comparison_matrix, strengths_analysis
 
 def assess_detailed_resource_requirements():
-    """
-    Detailed resource requirements assessment for top methodologies
+    """Detailed resource requirements assessment for top methodologies"""
     
-    Categories:
-    - Human Resources (expertise, time commitment)
-    - Technical Resources (software, hardware, infrastructure)
-    - Financial Resources (costs, budget requirements)
-    - Access Resources (data, stakeholders, systems)
-    - Time Resources (detailed breakdown by phase)
-    """
-    
-    # Load previous analyses
     comparison_matrix, strengths_analysis = load_previous_analyses()
     
-    # Get methodologies to analyze (from strengths analysis)
-    methodologies_to_analyze = strengths_analysis["methodology_analyses"]
-    
-    # Research context for resource planning
     research_context = {
         "timeframe": "20 weeks",
         "project_type": "Master's thesis",
@@ -68,24 +43,21 @@ def assess_detailed_resource_requirements():
     
     resource_assessments = {}
     
-    for method_key, method_analysis in methodologies_to_analyze.items():
-        # Base methodology data from comparison matrix
+    for method_key, method_analysis in strengths_analysis["methodology_analyses"].items():
+        
         method_data = comparison_matrix["methodologies"][method_key]
         
-        # Detailed resource assessment
         resource_assessment = {
             "methodology_name": method_analysis["methodology_name"],
             "category": method_analysis["category"],
             "ranking_score": method_analysis["ranking_score"],
             
-            # Resource Categories
             "human_resources": assess_human_resources(method_key, method_data, research_context),
             "technical_resources": assess_technical_resources(method_key, method_data, research_context),
             "financial_resources": assess_financial_resources(method_key, method_data, research_context),
             "access_resources": assess_access_resources(method_key, method_data, research_context),
             "time_resources": assess_time_resources(method_key, method_data, research_context),
             
-            # Resource Analysis
             "resource_intensity": calculate_resource_intensity(method_key, method_data),
             "feasibility_constraints": identify_feasibility_constraints(method_key, method_data, research_context),
             "resource_optimization": suggest_resource_optimization(method_key, method_data, research_context)
@@ -107,127 +79,197 @@ def assess_human_resources(method_key, method_data, research_context):
         "skill_development_required": []
     }
     
-    # Methodology-specific human resource analysis
     if method_key == "rapid_prototyping":
-        human_resources["researcher_expertise_required"] = [
-            "Software development and programming skills",
-            "Agile project management experience",
-            "Protocol design and networking knowledge",
-            "Iterative development methodology understanding"
-        ]
-        human_resources["additional_expertise_needed"] = [
-            "Industry stakeholder contacts for validation",
-            "Expert reviewer for technical architecture",
-            "Mentor guidance for scope management"
-        ]
-        human_resources["collaboration_requirements"] = [
-            "Regular stakeholder feedback sessions (bi-weekly)",
-            "Expert review meetings (monthly)",
-            "Supervisor check-ins (weekly during development phases)"
-        ]
-        human_resources["time_commitment_breakdown"] = {
-            "development_work": "60% of project time",
-            "stakeholder_engagement": "15% of project time", 
-            "documentation": "20% of project time",
-            "evaluation": "5% of project time"
-        }
-        human_resources["skill_development_required"] = [
-            "Advanced protocol implementation",
-            "Agile documentation practices",
-            "Stakeholder communication",
-            "Rapid evaluation techniques"
-        ]
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Software development and programming skills",
+                "Agile project management experience", 
+                "Protocol design and networking knowledge",
+                "Iterative development methodology understanding"
+            ],
+            "additional_expertise_needed": [
+                "Industry stakeholder contacts for validation",
+                "Expert reviewer for technical architecture",
+                "Mentor guidance for scope management"
+            ],
+            "collaboration_requirements": [
+                "Regular stakeholder feedback sessions (bi-weekly)",
+                "Expert review meetings (monthly)",
+                "Supervisor check-ins (weekly during development phases)"
+            ],
+            "time_commitment_breakdown": {
+                "development_work": "60% of project time",
+                "stakeholder_engagement": "15% of project time",
+                "documentation": "20% of project time", 
+                "evaluation": "5% of project time"
+            },
+            "skill_development_required": [
+                "Advanced protocol implementation",
+                "Agile documentation practices",
+                "Stakeholder communication",
+                "Rapid evaluation techniques"
+            ]
+        })
     
     elif method_key == "digital_twin":
-        human_resources["researcher_expertise_required"] = [
-            "Mathematical modeling and simulation skills",
-            "DER systems domain knowledge",
-            "Programming for simulation environments",
-            "Statistical analysis and validation techniques"
-        ]
-        human_resources["additional_expertise_needed"] = [
-            "DER systems expert for model validation",
-            "Simulation modeling specialist",
-            "Industry expert for real-world validation data"
-        ]
-        human_resources["collaboration_requirements"] = [
-            "Expert consultation for model design (initial phases)",
-            "Validation review sessions (mid-project)",
-            "Technical review of simulation results"
-        ]
-        human_resources["time_commitment_breakdown"] = {
-            "model_development": "50% of project time",
-            "simulation_execution": "25% of project time",
-            "validation_analysis": "15% of project time",
-            "documentation": "10% of project time"
-        }
-        human_resources["skill_development_required"] = [
-            "Advanced simulation software usage",
-            "DER systems technical knowledge",
-            "Statistical model validation",
-            "Computational optimization techniques"
-        ]
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Mathematical modeling and simulation skills",
+                "DER systems domain knowledge",
+                "Programming for simulation environments",
+                "Statistical analysis and validation techniques"
+            ],
+            "additional_expertise_needed": [
+                "DER systems expert for model validation",
+                "Simulation modeling specialist", 
+                "Industry expert for real-world validation data"
+            ],
+            "collaboration_requirements": [
+                "Expert consultation for model design (initial phases)",
+                "Validation review sessions (mid-project)",
+                "Technical review of simulation results"
+            ],
+            "time_commitment_breakdown": {
+                "model_development": "50% of project time",
+                "simulation_execution": "25% of project time",
+                "validation_analysis": "15% of project time",
+                "documentation": "10% of project time"
+            },
+            "skill_development_required": [
+                "Advanced simulation software usage",
+                "DER systems technical knowledge",
+                "Statistical model validation",
+                "Computational optimization techniques"
+            ]
+        })
     
     elif method_key == "comparative_research":
-        human_resources["researcher_expertise_required"] = [
-            "Literature review and analysis skills",
-            "Comparative methodology expertise",
-            "Statistical analysis capabilities",
-            "Protocol evaluation framework development"
-        ]
-        human_resources["additional_expertise_needed"] = [
-            "Industry expert for practical insights",
-            "Academic supervisor for methodology guidance"
-        ]
-        human_resources["collaboration_requirements"] = [
-            "Expert interviews for validation",
-            "Academic review of comparison framework",
-            "Industry consultation for practical relevance"
-        ]
-        human_resources["time_commitment_breakdown"] = {
-            "literature_analysis": "40% of project time",
-            "framework_development": "30% of project time",
-            "comparison_execution": "20% of project time",
-            "documentation": "10% of project time"
-        }
-        human_resources["skill_development_required"] = [
-            "Advanced comparative analysis techniques",
-            "Protocol evaluation metrics",
-            "Industry consultation skills"
-        ]
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Literature review and analysis skills",
+                "Comparative methodology expertise",
+                "Statistical analysis capabilities",
+                "Protocol evaluation framework development"
+            ],
+            "additional_expertise_needed": [
+                "Industry expert for practical insights",
+                "Academic supervisor for methodology guidance"
+            ],
+            "collaboration_requirements": [
+                "Expert interviews for validation",
+                "Academic review of comparison framework",
+                "Industry consultation for practical relevance"
+            ],
+            "time_commitment_breakdown": {
+                "literature_analysis": "40% of project time",
+                "framework_development": "30% of project time",
+                "comparison_execution": "20% of project time",
+                "documentation": "10% of project time"
+            },
+            "skill_development_required": [
+                "Advanced comparative analysis techniques",
+                "Protocol evaluation metrics",
+                "Industry consultation skills"
+            ]
+        })
     
     elif method_key == "design_science_research":
-        human_resources["researcher_expertise_required"] = [
-            "Artifact design and development skills",
-            "DSR methodology expertise",
-            "Software architecture and development",
-            "Systematic evaluation methodology"
-        ]
-        human_resources["additional_expertise_needed"] = [
-            "DSR methodology expert for guidance",
-            "Technical expert for artifact validation",
-            "Industry stakeholder for practical evaluation"
-        ]
-        human_resources["collaboration_requirements"] = [
-            "DSR methodology consultation (early phases)",
-            "Artifact design review sessions",
-            "Evaluation framework validation",
-            "Industry feedback collection"
-        ]
-        human_resources["time_commitment_breakdown"] = {
-            "artifact_development": "50% of project time",
-            "evaluation_design": "20% of project time",
-            "validation_execution": "20% of project time",
-            "documentation": "10% of project time"
-        }
-        human_resources["skill_development_required"] = [
-            "DSR artifact development",
-            "Systematic evaluation design",
-            "Technical validation methods",
-            "Industry stakeholder engagement"
-        ]
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Artifact design and development skills",
+                "DSR methodology expertise",
+                "Software architecture and development",
+                "Systematic evaluation methodology"
+            ],
+            "additional_expertise_needed": [
+                "DSR methodology expert for guidance",
+                "Technical expert for artifact validation",
+                "Industry stakeholder for practical evaluation"
+            ],
+            "collaboration_requirements": [
+                "DSR methodology consultation (early phases)",
+                "Artifact design review sessions",
+                "Evaluation framework validation",
+                "Industry feedback collection"
+            ],
+            "time_commitment_breakdown": {
+                "artifact_development": "50% of project time",
+                "evaluation_design": "20% of project time",
+                "validation_execution": "20% of project time",
+                "documentation": "10% of project time"
+            },
+            "skill_development_required": [
+                "DSR artifact development",
+                "Systematic evaluation design",
+                "Technical validation methods",
+                "Industry stakeholder engagement"
+            ]
+        })
     
-    # Add similar assessments for other methodologies...
+    elif method_key == "sequential_explanatory":
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Quantitative research methodology",
+                "Qualitative research methodology",
+                "Mixed methods integration",
+                "Statistical analysis",
+                "Interview and observation techniques"
+            ],
+            "additional_expertise_needed": [
+                "Mixed methods expert for methodology guidance",
+                "Statistical analysis expert",
+                "Industry stakeholders for both phases"
+            ],
+            "collaboration_requirements": [
+                "Methodology expert consultations",
+                "Stakeholder interviews and surveys",
+                "Validation workshops with experts"
+            ],
+            "time_commitment_breakdown": {
+                "quantitative_phase": "40% of project time",
+                "qualitative_phase": "35% of project time",
+                "integration_analysis": "15% of project time",
+                "documentation": "10% of project time"
+            },
+            "skill_development_required": [
+                "Advanced statistical analysis",
+                "Qualitative data analysis",
+                "Mixed methods integration",
+                "Multi-stakeholder coordination"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        human_resources.update({
+            "researcher_expertise_required": [
+                "Experimental design methodology",
+                "Statistical analysis and hypothesis testing",
+                "Protocol performance measurement",
+                "Controlled environment setup"
+            ],
+            "additional_expertise_needed": [
+                "Statistics expert for design validation",
+                "Protocol expert for realistic scenarios",
+                "Technical expert for measurement setup"
+            ],
+            "collaboration_requirements": [
+                "Statistical consultant for design review",
+                "Technical expert for experimental setup",
+                "Industry validation of experimental scenarios"
+            ],
+            "time_commitment_breakdown": {
+                "experimental_design": "25% of project time",
+                "setup_and_execution": "40% of project time",
+                "analysis_and_validation": "25% of project time",
+                "documentation": "10% of project time"
+            },
+            "skill_development_required": [
+                "Advanced experimental design",
+                "Statistical software proficiency",
+                "Measurement and instrumentation",
+                "Data analysis and interpretation"
+            ]
+        })
     
     return human_resources
 
@@ -243,87 +285,196 @@ def assess_technical_resources(method_key, method_data, research_context):
         "licensing_costs": []
     }
     
-    # Methodology-specific technical resource analysis
     if method_key == "rapid_prototyping":
-        technical_resources["software_requirements"] = [
-            "Development environment (IDE, version control)",
-            "Protocol testing frameworks",
-            "Agile project management tools",
-            "Continuous integration tools"
-        ]
-        technical_resources["hardware_requirements"] = [
-            "Development workstation (standard laptop sufficient)",
-            "Testing devices/simulators for protocol validation",
-            "Network testing equipment (potentially simulated)"
-        ]
-        technical_resources["infrastructure_needs"] = [
-            "Internet connectivity for stakeholder collaboration",
-            "Cloud services for CI/CD pipeline",
-            "Version control hosting (Git repository)"
-        ]
-        technical_resources["computational_requirements"] = [
-            "Low to moderate - standard development machine",
-            "Network simulation capabilities"
-        ]
-        technical_resources["licensing_costs"] = [
-            "Mostly open-source tools available",
-            "Potential cloud service costs ($10-50/month)",
-            "Professional development tools (optional, ~$100-500)"
-        ]
+        technical_resources.update({
+            "software_requirements": [
+                "Development environment (IDE, version control)",
+                "Protocol testing frameworks",
+                "Agile project management tools",
+                "Continuous integration tools"
+            ],
+            "hardware_requirements": [
+                "Development workstation (standard laptop sufficient)",
+                "Testing devices/simulators for protocol validation",
+                "Network testing equipment (potentially simulated)"
+            ],
+            "infrastructure_needs": [
+                "Internet connectivity for stakeholder collaboration",
+                "Cloud services for CI/CD pipeline",
+                "Version control hosting (Git repository)"
+            ],
+            "computational_requirements": [
+                "Low to moderate - standard development machine",
+                "Network simulation capabilities"
+            ],
+            "licensing_costs": [
+                "Mostly open-source tools available",
+                "Potential cloud service costs ($10-50/month)",
+                "Professional development tools (optional, ~$100-500)"
+            ]
+        })
     
     elif method_key == "digital_twin":
-        technical_resources["software_requirements"] = [
-            "Simulation software (MATLAB/Simulink, Python SimPy, or specialized DER simulators)",
-            "Mathematical modeling tools",
-            "Data analysis software (Python/R with scientific libraries)",
-            "Visualization tools for results presentation"
-        ]
-        technical_resources["hardware_requirements"] = [
-            "High-performance workstation for complex simulations",
-            "Adequate RAM (16GB+ recommended)",
-            "Sufficient storage for simulation data"
-        ]
-        technical_resources["infrastructure_needs"] = [
-            "High-speed internet for data access",
-            "Potential cloud computing resources for large-scale simulations",
-            "Access to DER system data or specifications"
-        ]
-        technical_resources["computational_requirements"] = [
-            "High - complex simulation models",
-            "Parallel processing capabilities beneficial",
-            "Long-running simulation jobs"
-        ]
-        technical_resources["licensing_costs"] = [
-            "MATLAB/Simulink licenses (~$1000-3000 academic)",
-            "Specialized simulation software licenses",
-            "Cloud computing costs for large simulations ($100-500)"
-        ]
+        technical_resources.update({
+            "software_requirements": [
+                "Simulation software (MATLAB/Simulink, Python SimPy, or specialized DER simulators)",
+                "Mathematical modeling tools",
+                "Data analysis software (Python/R with scientific libraries)",
+                "Visualization tools for results presentation"
+            ],
+            "hardware_requirements": [
+                "High-performance workstation for complex simulations",
+                "Adequate RAM (16GB+ recommended)",
+                "Sufficient storage for simulation data"
+            ],
+            "infrastructure_needs": [
+                "High-speed internet for data access",
+                "Potential cloud computing resources for large-scale simulations",
+                "Access to DER system data or specifications"
+            ],
+            "computational_requirements": [
+                "High - complex simulation models",
+                "Parallel processing capabilities beneficial",
+                "Long-running simulation jobs"
+            ],
+            "licensing_costs": [
+                "MATLAB/Simulink licenses (~$1000-3000 academic)",
+                "Specialized simulation software licenses",
+                "Cloud computing costs for large simulations ($100-500)"
+            ]
+        })
     
     elif method_key == "comparative_research":
-        technical_resources["software_requirements"] = [
-            "Literature management software (Zotero, Mendeley)",
-            "Statistical analysis software (R, Python, SPSS)",
-            "Document analysis tools",
-            "Data visualization software"
-        ]
-        technical_resources["hardware_requirements"] = [
-            "Standard research workstation",
-            "Adequate storage for literature database"
-        ]
-        technical_resources["infrastructure_needs"] = [
-            "Library database access",
-            "Internet connectivity for literature search",
-            "Document storage and backup systems"
-        ]
-        technical_resources["computational_requirements"] = [
-            "Low to moderate - mainly data analysis",
-            "Statistical processing capabilities"
-        ]
-        technical_resources["licensing_costs"] = [
-            "Most tools available as open-source",
-            "Academic database access (usually provided by institution)",
-            "Optional: Professional statistical software (~$100-300)"
-        ]
+        technical_resources.update({
+            "software_requirements": [
+                "Literature management software (Zotero, Mendeley)",
+                "Statistical analysis software (R, Python, SPSS)",
+                "Document analysis tools",
+                "Data visualization software"
+            ],
+            "hardware_requirements": [
+                "Standard research workstation",
+                "Adequate storage for literature database"
+            ],
+            "infrastructure_needs": [
+                "Library database access",
+                "Internet connectivity for literature search",
+                "Document storage and backup systems"
+            ],
+            "computational_requirements": [
+                "Low to moderate - mainly data analysis",
+                "Statistical processing capabilities"
+            ],
+            "licensing_costs": [
+                "Most tools available as open-source",
+                "Academic database access (usually provided by institution)",
+                "Optional: Professional statistical software (~$100-300)"
+            ]
+        })
+    
+    elif method_key == "design_science_research":
+        technical_resources.update({
+            "software_requirements": [
+                "Development environment (IDE, version control)",
+                "Prototyping tools (e.g., Figma, Adobe XD, or specific coding frameworks)",
+                "Modeling tools (if applicable, e.g., UML, BPMN)",
+                "Data analysis software for evaluation (e.g., R, Python, SPSS)",
+                "Documentation tools (e.g., Confluence, Word)"
+            ],
+            "hardware_requirements": [
+                "Development workstation",
+                "Specific hardware if artifact is physical or interacts with hardware (e.g., sensors, microcontrollers)",
+                "Testing devices for evaluation"
+            ],
+            "infrastructure_needs": [
+                "Testing environment (lab or simulated)",
+                "Version control hosting (e.g., GitHub, GitLab)",
+                "Collaboration platform"
+            ],
+            "data_requirements": [
+                "Problem-specific data for design phase",
+                "Data for artifact evaluation (quantitative or qualitative)",
+                "Access to existing literature and design principles"
+            ],
+            "computational_requirements": [
+                "Moderate, depending on artifact complexity and evaluation methods",
+                "May increase if simulations or complex data analysis are involved in evaluation"
+            ],
+            "licensing_costs": [
+                "Mostly open-source tools available for development",
+                "Potential costs for specialized modeling or prototyping software (~$100-1000 academic)",
+                "Costs for data analysis software if not provided by institution"
+            ]
+        })
+    
+    elif method_key == "sequential_explanatory":
+        technical_resources.update({
+            "software_requirements": [
+                "Survey administration tools (e.g., Qualtrics, SurveyMonkey, Google Forms)",
+                "Statistical analysis software (e.g., SPSS, R, Python with stats libraries) for quantitative phase",
+                "Qualitative Data Analysis Software (QDAS) (e.g., NVivo, MAXQDA, ATLAS.ti) for qualitative phase",
+                "Interview recording and transcription tools/services",
+                "Reference management software"
+            ],
+            "hardware_requirements": [
+                "Standard research workstation",
+                "Audio recording equipment for interviews/focus groups"
+            ],
+            "infrastructure_needs": [
+                "Access to target population for surveys and interviews",
+                "Secure data storage for sensitive qualitative data",
+                "Platform for online survey distribution"
+            ],
+            "data_requirements": [
+                "Quantitative data from surveys or experiments",
+                "Qualitative data from interviews, focus groups, or observations",
+                "Sampling frame for participant recruitment"
+            ],
+            "computational_requirements": [
+                "Moderate for statistical analysis of quantitative data",
+                "Low for qualitative data analysis (software aids organization more than computation)"
+            ],
+            "licensing_costs": [
+                "Survey platform subscription (~$50-300, or institutional access)",
+                "QDAS license (~$500-1500 academic, or institutional access)",
+                "Statistical software if not open source or provided",
+                "Transcription services (~$1-2 per audio minute, optional)"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        technical_resources.update({
+            "software_requirements": [
+                "Experiment control software (if applicable, e.g., E-Prime, PsychoPy, custom scripts)",
+                "Data logging and acquisition software",
+                "Statistical analysis software (e.g., R, SPSS, Python)",
+                "Stimulus presentation software (if applicable)"
+            ],
+            "hardware_requirements": [
+                "Standard or specialized computer for running experiments",
+                "Measurement devices, sensors, actuators as per experimental design",
+                "Controlled environment setup (e.g., soundproof room, specific lighting)"
+            ],
+            "infrastructure_needs": [
+                "Laboratory space or controlled setting",
+                "Specific network configurations if relevant",
+                "Secure data storage for experimental results"
+            ],
+            "data_requirements": [
+                "Precise data from experimental manipulations and measurements",
+                "Control group data",
+                "Calibration data for equipment"
+            ],
+            "computational_requirements": [
+                "Moderate to high for statistical analysis, especially with large datasets or complex models",
+                "Real-time processing if experiment requires it"
+            ],
+            "licensing_costs": [
+                "Specialized experimental software licenses (~$200-2000)",
+                "Statistical software if not open source or provided",
+                "Potential costs for hardware drivers or development kits"
+            ]
+        })
     
     return technical_resources
 
@@ -333,62 +484,116 @@ def assess_financial_resources(method_key, method_data, research_context):
     financial_resources = {
         "direct_costs": {},
         "indirect_costs": {},
-        "opportunity_costs": {},
         "total_estimated_budget": "",
         "budget_breakdown": {},
         "funding_sources": [],
         "cost_mitigation_strategies": []
     }
     
-    # Methodology-specific financial analysis
     if method_key == "rapid_prototyping":
-        financial_resources["direct_costs"] = {
-            "software_licenses": "$100-500 (optional professional tools)",
-            "cloud_services": "$50-200 (CI/CD and hosting)",
-            "testing_equipment": "$0-300 (if physical hardware needed)",
-            "stakeholder_engagement": "$100-300 (travel/communication costs)"
-        }
-        financial_resources["indirect_costs"] = {
-            "increased_development_time": "Potential overtime/extended timeline",
-            "documentation_tools": "$50-100",
-            "backup_systems": "$20-50"
-        }
-        financial_resources["total_estimated_budget"] = "$300-1,200"
-        financial_resources["funding_sources"] = [
-            "Personal/student budget",
-            "Academic department support",
-            "Open-source alternatives to reduce costs"
-        ]
-        financial_resources["cost_mitigation_strategies"] = [
-            "Use open-source development tools",
-            "Leverage cloud free tiers",
-            "Virtual stakeholder meetings to reduce travel",
-            "Academic licensing discounts"
-        ]
+        financial_resources.update({
+            "direct_costs": {
+                "software_licenses": "$100-500 (optional professional tools)",
+                "cloud_services": "$50-200 (CI/CD and hosting)",
+                "testing_equipment": "$0-300 (if physical hardware needed)",
+                "stakeholder_engagement": "$100-300 (travel/communication costs)"
+            },
+            "total_estimated_budget": "$300-1,200",
+            "cost_mitigation_strategies": [
+                "Use open-source development tools",
+                "Leverage cloud free tiers",
+                "Virtual stakeholder meetings to reduce travel",
+                "Academic licensing discounts"
+            ]
+        })
     
     elif method_key == "digital_twin":
-        financial_resources["direct_costs"] = {
-            "simulation_software": "$1,000-3,000 (MATLAB/specialized tools)",
-            "computational_resources": "$200-800 (cloud computing)",
-            "data_acquisition": "$100-500 (DER system data access)",
-            "validation_activities": "$200-400 (expert consultation)"
-        }
-        financial_resources["indirect_costs"] = {
-            "extended_computation_time": "Additional cloud costs if simulations exceed estimates",
-            "model_validation": "Expert consultation fees"
-        }
-        financial_resources["total_estimated_budget"] = "$1,500-4,700"
-        financial_resources["funding_sources"] = [
-            "Academic institution software licenses",
-            "Research grants or department funding",
-            "Industry partnership for data access"
-        ]
-        financial_resources["cost_mitigation_strategies"] = [
-            "Use institution's existing software licenses",
-            "Start with open-source simulation tools",
-            "Negotiate industry data access partnerships",
-            "Optimize simulation models for efficiency"
-        ]
+        financial_resources.update({
+            "direct_costs": {
+                "simulation_software": "$1,000-3,000 (MATLAB/specialized tools)",
+                "computational_resources": "$200-800 (cloud computing)",
+                "data_acquisition": "$100-500 (DER system data access)",
+                "validation_activities": "$200-400 (expert consultation)"
+            },
+            "total_estimated_budget": "$1,500-4,700",
+            "cost_mitigation_strategies": [
+                "Use institution's existing software licenses",
+                "Start with open-source simulation tools",
+                "Negotiate industry data access partnerships",
+                "Optimize simulation models for efficiency"
+            ]
+        })
+    
+    elif method_key == "comparative_research":
+        financial_resources.update({
+            "direct_costs": {
+                "literature_access": "$0-200 (additional database access)",
+                "analysis_software": "$0-300 (statistical tools)",
+                "expert_consultation": "$200-500 (industry expert interviews)",
+                "documentation_tools": "$50-100 (professional writing tools)"
+            },
+            "total_estimated_budget": "$250-1,100",
+            "cost_mitigation_strategies": [
+                "Maximize use of institutional library access",
+                "Use open-source analysis tools",
+                "Academic expert consultation through university networks",
+                "Free documentation and reference management tools"
+            ]
+        })
+    
+    elif method_key == "design_science_research":
+        financial_resources.update({
+            "direct_costs": {
+                "software_licenses": "$100-1000 (specialized tools, if needed)",
+                "hardware_components": "$50-500 (if physical artifact)",
+                "cloud_services": "$50-200 (testing, deployment)",
+                "participant_incentives_evaluation": "$100-400 (if applicable)",
+                "publication_fees": "$0-500 (open access options)"
+            },
+            "total_estimated_budget": "$300-2,500 (highly variable based on artifact)",
+            "cost_mitigation_strategies": [
+                "Prioritize open-source software and platforms",
+                "Utilize university lab resources and equipment",
+                "Scope artifact complexity to available budget",
+                "Seek academic discounts for software/hardware"
+            ]
+        })
+    
+    elif method_key == "sequential_explanatory":
+        financial_resources.update({
+            "direct_costs": {
+                "survey_platform": "$50-300 (or institutional)",
+                "transcription_services": "$200-800 (for qualitative interviews)",
+                "participant_incentives_quant": "$100-500 (surveys)",
+                "participant_incentives_qual": "$100-500 (interviews)",
+                "qda_software": "$0-1500 (open source, student licenses, or institutional)"
+            },
+            "total_estimated_budget": "$450-3,600 (transcription and incentives are major drivers)",
+            "cost_mitigation_strategies": [
+                "Use free survey tools for smaller samples",
+                "Researcher performs transcriptions (time cost)",
+                "Utilize institutional software licenses (QDAS, statistical)",
+                "Non-monetary incentives for participants where appropriate"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        financial_resources.update({
+            "direct_costs": {
+                "specialized_equipment_rental_purchase": "$200-5000+ (highly variable)",
+                "lab_materials_consumables": "$100-500",
+                "participant_compensation": "$200-1000 (depending on number and duration)",
+                "software_licenses_experimental": "$200-2000"
+            },
+            "total_estimated_budget": "$700-8,500+ (equipment is the major variable)",
+            "cost_mitigation_strategies": [
+                "Utilize existing university lab equipment and facilities",
+                "Design experiments with lower-cost materials",
+                "Simulate parts of the experiment if feasible",
+                "Collaborate to share equipment costs",
+                "Apply for small internal research grants"
+            ]
+        })
     
     return financial_resources
 
@@ -405,61 +610,129 @@ def assess_access_resources(method_key, method_data, research_context):
         "access_facilitation_strategies": []
     }
     
-    # Methodology-specific access analysis
     if method_key == "rapid_prototyping":
-        access_resources["stakeholder_access_requirements"] = [
-            "Industry professionals for feedback (3-5 contacts)",
-            "Technical experts for architecture review",
-            "Potential end-users for usability testing"
-        ]
-        access_resources["data_access_needs"] = [
-            "Protocol specifications and documentation",
-            "DER system operational data (potentially simulated)",
-            "Existing implementation examples"
-        ]
-        access_resources["access_timeline"] = {
-            "stakeholder_recruitment": "Weeks 1-2",
-            "data_access_establishment": "Weeks 1-3",
-            "ongoing_stakeholder_engagement": "Throughout project"
-        }
-        access_resources["access_barriers"] = [
-            "Industry stakeholder availability",
-            "Proprietary protocol information access",
-            "Coordination across multiple stakeholders"
-        ]
-        access_resources["access_facilitation_strategies"] = [
-            "Early stakeholder recruitment through academic networks",
-            "Use of publicly available protocol specifications",
-            "Flexible meeting scheduling for stakeholder convenience"
-        ]
+        access_resources.update({
+            "stakeholder_access_requirements": [
+                "Industry professionals for feedback (3-5 contacts)",
+                "Technical experts for architecture review",
+                "Potential end-users for usability testing"
+            ],
+            "data_access_needs": [
+                "Protocol specifications and documentation",
+                "DER system operational data (potentially simulated)",
+                "Existing implementation examples"
+            ],
+            "access_barriers": [
+                "Industry stakeholder availability",
+                "Proprietary protocol information access",
+                "Coordination across multiple stakeholders"
+            ],
+            "access_facilitation_strategies": [
+                "Early stakeholder recruitment through academic networks",
+                "Use of publicly available protocol specifications",
+                "Flexible meeting scheduling for stakeholder convenience"
+            ]
+        })
     
-    elif method_key == "digital_twin":
-        access_resources["data_access_needs"] = [
-            "DER system technical specifications",
-            "Historical operational data for validation",
-            "Protocol performance benchmarks",
-            "Grid integration requirements"
-        ]
-        access_resources["system_access_needs"] = [
-            "High-performance computing resources",
-            "Simulation software environments",
-            "Validation datasets"
-        ]
-        access_resources["access_timeline"] = {
-            "data_access_negotiation": "Weeks 1-4",
-            "system_setup": "Weeks 2-3",
-            "ongoing_computational_access": "Throughout project"
-        }
-        access_resources["access_barriers"] = [
-            "Proprietary DER system data",
-            "Limited public datasets",
-            "Computational resource availability"
-        ]
-        access_resources["access_facilitation_strategies"] = [
-            "Partner with industry for data access",
-            "Use publicly available datasets where possible",
-            "Synthetic data generation for missing information"
-        ]
+    elif method_key == "design_science_research":
+        access_resources.update({
+            "data_access_needs": [
+                "Relevant literature and existing design knowledge",
+                "Data from the problem domain to inform design",
+                "Access to users or systems for evaluation"
+            ],
+            "stakeholder_access_requirements": [
+                "Domain experts for initial problem understanding and design feedback",
+                "Target users or representatives for iterative feedback and evaluation",
+                "Technical experts for feasibility and implementation advice"
+            ],
+            "system_access_needs": [
+                "Access to development and testing environments",
+                "Access to existing systems if the artifact requires integration",
+                "Tools and platforms for artifact development"
+            ],
+            "institutional_approvals": [
+                "Ethics committee approval if evaluation involves human subjects",
+                "Departmental approvals for resource use (e.g., labs)"
+            ],
+            "access_barriers": [
+                "Difficulty in recruiting relevant stakeholders or users",
+                "Proprietary data or systems needed for design/evaluation",
+                "Time constraints of stakeholders for participation"
+            ],
+            "access_facilitation_strategies": [
+                "Clearly articulate value proposition for stakeholders",
+                "Leverage university contacts and networks",
+                "Plan for remote participation where possible",
+                "Offer appropriate incentives for participation"
+            ]
+        })
+    
+    elif method_key == "sequential_explanatory":
+        access_resources.update({
+            "data_access_needs": [
+                "Sampling frame for quantitative phase (e.g., list of potential survey respondents)",
+                "Access to settings or individuals for qualitative data collection (observations, interviews)"
+            ],
+            "stakeholder_access_requirements": [
+                "Participants for quantitative phase (surveys, experiments)",
+                "Participants for qualitative phase (interviews, focus groups) - often a subset or purposively selected based on quant results",
+                "Gatekeepers for access to specific populations or organizations"
+            ],
+            "system_access_needs": [
+                "Survey distribution platforms",
+                "Quiet, private spaces for interviews or focus groups"
+            ],
+            "institutional_approvals": [
+                "Ethics committee approval for both quantitative and qualitative phases involving human subjects",
+                "Permissions from organizations if conducting research on-site or with their members"
+            ],
+            "access_barriers": [
+                "Low response rates for surveys",
+                "Difficulty recruiting for in-depth qualitative phase",
+                "Gaining trust and rapport with qualitative participants",
+                "Gatekeeper reluctance"
+            ],
+            "access_facilitation_strategies": [
+                "Pilot quantitative instruments",
+                "Clear communication of research purpose and data handling",
+                "Build rapport with gatekeepers and participants",
+                "Offer anonymity/confidentiality assurances"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        access_resources.update({
+            "data_access_needs": [
+                "Source for recruiting a sufficient and appropriate sample of participants",
+                "Access to any pre-existing data needed for stimulus creation or participant screening"
+            ],
+            "stakeholder_access_requirements": [
+                "Human participants meeting specific criteria",
+                "Technical staff for operating or maintaining specialized equipment/labs"
+            ],
+            "system_access_needs": [
+                "Controlled laboratory environment or experimental setting",
+                "Specific hardware or software setups",
+                "Access to an online platform if the experiment is run remotely"
+            ],
+            "institutional_approvals": [
+                "Ethics committee approval for experiments with human subjects",
+                "Safety approvals if experiment involves potentially hazardous materials or equipment",
+                "Lab access permissions"
+            ],
+            "access_barriers": [
+                "Recruiting participants matching strict experimental criteria",
+                "Availability of specialized lab spaces or equipment",
+                "Participant attrition during multi-session experiments"
+            ],
+            "access_facilitation_strategies": [
+                "Use university participant pools or established recruitment channels",
+                "Book lab spaces/equipment well in advance",
+                "Offer fair compensation for participant time and effort",
+                "Thorough piloting of experimental procedures"
+            ]
+        })
     
     return access_resources
 
@@ -475,67 +748,138 @@ def assess_time_resources(method_key, method_data, research_context):
         "schedule_optimization": []
     }
     
-    # Methodology-specific time analysis
     if method_key == "rapid_prototyping":
-        time_resources["phase_breakdown"] = {
-            "initial_setup_and_planning": "2 weeks",
-            "iteration_1_development": "3 weeks",
-            "iteration_2_development": "3 weeks", 
-            "iteration_3_development": "3 weeks",
-            "final_integration_and_evaluation": "2 weeks",
-            "documentation_and_finalization": "2 weeks",
-            "buffer_time": "5 weeks distributed"
-        }
-        time_resources["weekly_time_allocation"] = {
-            "development_activities": "15-20 hours/week",
-            "stakeholder_communication": "2-3 hours/week",
-            "documentation": "3-5 hours/week",
-            "evaluation_and_testing": "5-8 hours/week"
-        }
-        time_resources["critical_path_activities"] = [
-            "Stakeholder availability for feedback",
-            "Technical architecture decisions",
-            "Integration testing between iterations"
-        ]
-        time_resources["timeline_risks"] = [
-            "Scope creep extending iteration duration",
-            "Stakeholder feedback delays",
-            "Technical challenges requiring additional development time"
-        ]
+        time_resources.update({
+            "total_project_duration": "8-20 weeks (flexible)",
+            "phase_breakdown": {
+                "initial_setup_and_planning": "2 weeks",
+                "iteration_1_development": "3 weeks",
+                "iteration_2_development": "3 weeks",
+                "iteration_3_development": "3 weeks",
+                "final_integration_and_evaluation": "2 weeks",
+                "documentation_and_finalization": "2 weeks",
+                "buffer_time": "5 weeks distributed"
+            },
+            "critical_path_activities": [
+                "Stakeholder availability for feedback",
+                "Technical architecture decisions",
+                "Integration testing between iterations"
+            ],
+            "timeline_risks": [
+                "Scope creep extending iteration duration",
+                "Stakeholder feedback delays",
+                "Technical challenges requiring additional development time"
+            ]
+        })
     
     elif method_key == "digital_twin":
-        time_resources["phase_breakdown"] = {
-            "model_design_and_setup": "4 weeks",
-            "initial_model_development": "4 weeks",
-            "model_validation_and_refinement": "3 weeks",
-            "simulation_execution": "3 weeks",
-            "results_analysis": "2 weeks",
-            "documentation": "2 weeks",
-            "buffer_time": "2 weeks"
-        }
-        time_resources["weekly_time_allocation"] = {
-            "model_development": "12-15 hours/week",
-            "simulation_execution": "8-12 hours/week",
-            "analysis_and_validation": "6-10 hours/week",
-            "documentation": "3-5 hours/week"
-        }
-        time_resources["critical_path_activities"] = [
-            "Model validation against real data",
-            "Computational resource availability",
-            "Complex simulation convergence"
-        ]
-        time_resources["timeline_risks"] = [
-            "Model development complexity exceeding estimates",
-            "Simulation runtime longer than expected",
-            "Validation data access delays"
-        ]
+        time_resources.update({
+            "total_project_duration": "14-18 weeks",
+            "phase_breakdown": {
+                "model_design_and_setup": "4 weeks",
+                "initial_model_development": "4 weeks",
+                "model_validation_and_refinement": "3 weeks",
+                "simulation_execution": "3 weeks",
+                "results_analysis": "2 weeks",
+                "documentation": "2 weeks",
+                "buffer_time": "2 weeks"
+            },
+            "critical_path_activities": [
+                "Model validation against real data",
+                "Computational resource availability",
+                "Complex simulation convergence"
+            ],
+            "timeline_risks": [
+                "Model development complexity exceeding estimates",
+                "Simulation runtime longer than expected",
+                "Validation data access delays"
+            ]
+        })
+    
+    elif method_key == "design_science_research":
+        time_resources.update({
+            "total_project_duration": "16-20 weeks (iterative)",
+            "phase_breakdown": {
+                "problem_identification_and_motivation": "2-3 weeks",
+                "define_objectives_for_solution": "1-2 weeks",
+                "design_and_development_iteration_1": "4-6 weeks",
+                "demonstration_evaluation_iteration_1": "2-3 weeks",
+                "design_and_development_iteration_2 (if needed)": "3-4 weeks",
+                "demonstration_evaluation_iteration_2 (if needed)": "1-2 weeks",
+                "communication_and_final_documentation": "2-3 weeks",
+                "buffer_time": "1-2 weeks"
+            },
+            "critical_path_activities": [
+                "Artifact development cycles",
+                "Securing access for and conducting evaluations",
+                "Integrating feedback into subsequent design iterations"
+            ],
+            "timeline_risks": [
+                "Underestimation of development effort for the artifact",
+                "Delays in obtaining evaluation feedback",
+                "Scope creep if design objectives are not well-defined",
+                "Technical challenges during development"
+            ]
+        })
+    
+    elif method_key == "sequential_explanatory":
+        time_resources.update({
+            "total_project_duration": "18-20 weeks (can be very tight)",
+            "phase_breakdown": {
+                "quantitative_design_and_instrument_development": "2-3 weeks",
+                "quantitative_data_collection": "3-4 weeks",
+                "quantitative_data_analysis_and_interpretation": "2-3 weeks",
+                "qualitative_design_and_instrument_development": "1-2 weeks (informed by quant)",
+                "qualitative_data_collection": "3-4 weeks",
+                "qualitative_data_analysis_and_interpretation": "3-4 weeks",
+                "integration_of_findings_and_documentation": "2-3 weeks",
+                "buffer_time": "1 week (minimal)"
+            },
+            "critical_path_activities": [
+                "Completion of quantitative phase before qualitative can be fully designed/initiated",
+                "Participant recruitment for both phases",
+                "Qualitative data analysis (can be very time-consuming, e.g., transcription, coding)"
+            ],
+            "timeline_risks": [
+                "Insufficient time for in-depth qualitative analysis if quantitative phase overruns",
+                "Delays in recruitment for either phase",
+                "Complexity of integrating quantitative and qualitative findings",
+                "High risk of timeline overrun in a 20-week individual project"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        time_resources.update({
+            "total_project_duration": "16-20 weeks",
+            "phase_breakdown": {
+                "literature_review_and_hypothesis_formulation": "2-3 weeks",
+                "experimental_design_and_materials_preparation": "3-4 weeks",
+                "ethics_approval_and_pilot_testing": "2-3 weeks",
+                "participant_recruitment": "1-2 weeks (can overlap)",
+                "data_collection_experiment_execution": "3-5 weeks",
+                "data_analysis_and_interpretation": "3-4 weeks",
+                "documentation_and_write_up": "2-3 weeks",
+                "buffer_time": "1-2 weeks"
+            },
+            "critical_path_activities": [
+                "Obtaining ethics approval",
+                "Setting up and calibrating experimental apparatus/environment",
+                "Participant recruitment and scheduling",
+                "Rigorous data analysis"
+            ],
+            "timeline_risks": [
+                "Delays in ethics approval",
+                "Technical issues with experimental setup or equipment",
+                "Slow participant recruitment",
+                "Unexpected complexities in data analysis"
+            ]
+        })
     
     return time_resources
 
 def calculate_resource_intensity(method_key, method_data):
     """Calculate overall resource intensity score"""
     
-    # Base resource requirement score from methodology data
     base_requirement = method_data.get("resource_requirements", "Unknown")
     
     intensity_mapping = {
@@ -547,30 +891,28 @@ def calculate_resource_intensity(method_key, method_data):
         "Very High": 5
     }
     
-    # Extract intensity from text description
     intensity_score = 3  # Default moderate
     for level, score in intensity_mapping.items():
-        if level in base_requirement:
+        if level in str(base_requirement):
             intensity_score = score
             break
     
-    # Methodology-specific adjustments
     adjustment_factors = {
-        "rapid_prototyping": -0.5,  # Generally more efficient
-        "digital_twin": +1.0,       # High computational requirements
-        "comparative_research": -1.0,  # Lower resource needs
-        "design_science_research": +0.5,  # Moderate to high requirements
-        "sequential_explanatory": +1.5,   # Very high due to complexity
-        "experimental_research": +0.0     # Baseline moderate
+        "rapid_prototyping": -0.5,
+        "digital_twin": +1.0,
+        "comparative_research": -1.0,
+        "design_science_research": +0.5,
+        "sequential_explanatory": +1.5,
+        "experimental_research": +0.0
     }
     
     final_score = intensity_score + adjustment_factors.get(method_key, 0)
-    final_score = max(1, min(5, final_score))  # Clamp to 1-5 range
+    final_score = max(1, min(5, final_score))
     
     return {
         "intensity_score": round(final_score, 1),
         "intensity_level": get_intensity_level(final_score),
-        "base_requirement": base_requirement
+        "base_requirement": str(base_requirement)
     }
 
 def get_intensity_level(score):
@@ -596,31 +938,76 @@ def identify_feasibility_constraints(method_key, method_data, research_context):
         "mitigation_urgency": ""
     }
     
-    # Common constraint patterns
     if method_key == "rapid_prototyping":
-        constraints["critical_constraints"] = [
-            "Stakeholder availability throughout project timeline",
-            "Scope management discipline required"
-        ]
-        constraints["moderate_constraints"] = [
-            "Development environment setup",
-            "Continuous integration infrastructure"
-        ]
-        constraints["constraint_severity"] = "Moderate"
-        constraints["mitigation_urgency"] = "Early planning required"
+        constraints.update({
+            "critical_constraints": [
+                "Stakeholder availability throughout project timeline",
+                "Scope management discipline required"
+            ],
+            "moderate_constraints": [
+                "Development environment setup",
+                "Continuous integration infrastructure"
+            ],
+            "constraint_severity": "Moderate",
+            "mitigation_urgency": "Early planning required"
+        })
     
     elif method_key == "digital_twin":
-        constraints["critical_constraints"] = [
-            "Access to DER system data and specifications",
-            "Computational resources for complex simulations",
-            "Domain expertise for model validation"
-        ]
-        constraints["moderate_constraints"] = [
-            "Software licensing costs",
-            "Extended development timeline"
-        ]
-        constraints["constraint_severity"] = "High"
-        constraints["mitigation_urgency"] = "Immediate planning required"
+        constraints.update({
+            "critical_constraints": [
+                "Access to DER system data and specifications",
+                "Computational resources for complex simulations",
+                "Domain expertise for model validation"
+            ],
+            "moderate_constraints": [
+                "Software licensing costs",
+                "Extended development timeline"
+            ],
+            "constraint_severity": "High",
+            "mitigation_urgency": "Immediate planning required"
+        })
+    
+    elif method_key == "design_science_research":
+        constraints.update({
+            "critical_constraints": [
+                "Complexity of integrating quantitative and qualitative findings",
+                "High risk of timeline overrun in a 20-week individual project"
+            ],
+            "moderate_constraints": [
+                "Complexity of the artifact",
+                "Time constraints of stakeholders for participation"
+            ],
+            "constraint_severity": "High",
+            "mitigation_urgency": "Immediate planning required"
+        })
+    
+    elif method_key == "sequential_explanatory":
+        constraints.update({
+            "critical_constraints": [
+                "Complexity of integrating quantitative and qualitative findings",
+                "High risk of timeline overrun in a 20-week individual project"
+            ],
+            "moderate_constraints": [
+                "Complexity of the research methodology",
+                "Time constraints of stakeholders for participation"
+            ],
+            "constraint_severity": "High",
+            "mitigation_urgency": "Immediate planning required"
+        })
+    
+    elif method_key == "experimental_research":
+        constraints.update({
+            "critical_constraints": [
+                "Complexity of the experimental methodology",
+                "High risk of timeline overrun in a 20-week individual project"
+            ],
+            "moderate_constraints": [
+                "Complexity of the experimental setup",
+                "Time constraints of stakeholders for participation"
+            ],
+            "constraint_severity": "High",
+            "mitigation_urgency": "Immediate planning required"
+        })
     
     return constraints
 
@@ -634,83 +1021,135 @@ def suggest_resource_optimization(method_key, method_data, research_context):
         "efficiency_improvements": []
     }
     
-    # Methodology-specific optimization
     if method_key == "rapid_prototyping":
-        optimization["cost_reduction_strategies"] = [
-            "Use open-source development tools and frameworks",
-            "Leverage cloud free tiers for CI/CD",
-            "Virtual stakeholder meetings to reduce travel costs"
-        ]
-        optimization["time_optimization_strategies"] = [
-            "Parallel development of independent components",
-            "Automated testing and deployment pipelines",
-            "Pre-scheduled stakeholder feedback sessions"
-        ]
-        optimization["efficiency_improvements"] = [
-            "Template-based iteration structure",
-            "Standardized evaluation criteria",
-            "Continuous documentation practices"
-        ]
+        optimization.update({
+            "cost_reduction_strategies": [
+                "Use open-source development tools and frameworks",
+                "Leverage cloud free tiers for CI/CD",
+                "Virtual stakeholder meetings to reduce travel costs"
+            ],
+            "time_optimization_strategies": [
+                "Parallel development of independent components",
+                "Automated testing and deployment pipelines",
+                "Pre-scheduled stakeholder feedback sessions"
+            ],
+            "efficiency_improvements": [
+                "Template-based iteration structure",
+                "Standardized evaluation criteria",
+                "Continuous documentation practices"
+            ]
+        })
     
     elif method_key == "digital_twin":
-        optimization["cost_reduction_strategies"] = [
-            "Start with open-source simulation tools",
-            "Use academic institution licenses",
-            "Optimize models for computational efficiency"
-        ]
-        optimization["time_optimization_strategies"] = [
-            "Incremental model complexity",
-            "Parallel simulation execution",
-            "Early validation with simplified models"
-        ]
-        optimization["efficiency_improvements"] = [
-            "Modular model architecture",
-            "Automated simulation workflows",
-            "Efficient data management systems"
-        ]
+        optimization.update({
+            "cost_reduction_strategies": [
+                "Use institution's existing software licenses",
+                "Start with open-source simulation tools",
+                "Negotiate industry data access partnerships",
+                "Optimize simulation models for efficiency"
+            ],
+            "time_optimization_strategies": [
+                "Parallel development of independent components",
+                "Automated testing and deployment pipelines",
+                "Pre-scheduled stakeholder feedback sessions"
+            ],
+            "efficiency_improvements": [
+                "Template-based iteration structure",
+                "Standardized evaluation criteria",
+                "Continuous documentation practices"
+            ]
+        })
+    
+    elif method_key == "design_science_research":
+        optimization.update({
+            "cost_reduction_strategies": [
+                "Prioritize open-source software and platforms",
+                "Utilize university lab resources and equipment",
+                "Scope artifact complexity to available budget",
+                "Seek academic discounts for software/hardware"
+            ],
+            "time_optimization_strategies": [
+                "Parallel development of independent components",
+                "Automated testing and deployment pipelines",
+                "Pre-scheduled stakeholder feedback sessions"
+            ],
+            "efficiency_improvements": [
+                "Template-based iteration structure",
+                "Standardized evaluation criteria",
+                "Continuous documentation practices"
+            ]
+        })
+    
+    elif method_key == "sequential_explanatory":
+        optimization.update({
+            "cost_reduction_strategies": [
+                "Use free survey tools for smaller samples",
+                "Researcher performs transcriptions (time cost)",
+                "Utilize institutional software licenses (QDAS, statistical)",
+                "Non-monetary incentives for participants where appropriate"
+            ],
+            "time_optimization_strategies": [
+                "Parallel development of independent components",
+                "Automated testing and deployment pipelines",
+                "Pre-scheduled stakeholder feedback sessions"
+            ],
+            "efficiency_improvements": [
+                "Template-based iteration structure",
+                "Standardized evaluation criteria",
+                "Continuous documentation practices"
+            ]
+        })
+    
+    elif method_key == "experimental_research":
+        optimization.update({
+            "cost_reduction_strategies": [
+                "Utilize existing university lab equipment and facilities",
+                "Design experiments with lower-cost materials",
+                "Simulate parts of the experiment if feasible",
+                "Collaborate to share equipment costs",
+                "Apply for small internal research grants"
+            ],
+            "time_optimization_strategies": [
+                "Parallel development of independent components",
+                "Automated testing and deployment pipelines",
+                "Pre-scheduled stakeholder feedback sessions"
+            ],
+            "efficiency_improvements": [
+                "Template-based iteration structure",
+                "Standardized evaluation criteria",
+                "Continuous documentation practices"
+            ]
+        })
     
     return optimization
 
 def main():
     """Main execution function"""
     
-    # Create output directories
     os.makedirs("../docs", exist_ok=True)
     
     print("🔍 Task 5.2.3: Assessing Resource Requirements")
     print("=" * 70)
     
     try:
-        # Perform detailed resource assessment
         print("📊 Analyzing resource requirements for top-ranked methodologies...")
         resource_assessments = assess_detailed_resource_requirements()
         
-        # Create comprehensive resource analysis report
         analysis_report = {
             "metadata": {
                 "task": "5.2.3 - Assess Resource Requirements",
                 "timestamp": datetime.now().isoformat(),
                 "scope": "Top-ranked methodologies from Tasks 5.2.1 and 5.2.2",
-                "methodologies_analyzed": len(resource_assessments),
-                "resource_categories": [
-                    "Human Resources",
-                    "Technical Resources",
-                    "Financial Resources",
-                    "Access Resources",
-                    "Time Resources"
-                ]
+                "methodologies_analyzed": len(resource_assessments)
             },
             "research_context": {
                 "focus": "Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)",
                 "domain": "Distributed Energy Resources (DER) predictive maintenance",
                 "constraints": "20-week Master's thesis, individual project, academic environment"
             },
-            "resource_assessments": resource_assessments,
-            "comparative_analysis": generate_comparative_resource_analysis(resource_assessments),
-            "recommendations": generate_resource_recommendations(resource_assessments)
+            "resource_assessments": resource_assessments
         }
         
-        # Save detailed JSON output
         json_file = "../docs/5.2.3-resource-requirements-assessment.json"
         with open(json_file, 'w') as f:
             json.dump(analysis_report, f, indent=2, ensure_ascii=False)
@@ -727,78 +1166,10 @@ def main():
         print(f"❌ Error in analysis: {e}")
         raise
 
-def generate_comparative_resource_analysis(resource_assessments):
-    """Generate comparative analysis across methodologies"""
-    
-    comparative_analysis = {
-        "resource_intensity_ranking": [],
-        "cost_comparison": {},
-        "time_comparison": {},
-        "feasibility_ranking": []
-    }
-    
-    # Resource intensity ranking
-    intensity_scores = [(method_key, assessment["resource_intensity"]["intensity_score"]) 
-                       for method_key, assessment in resource_assessments.items()]
-    intensity_scores.sort(key=lambda x: x[1])
-    
-    comparative_analysis["resource_intensity_ranking"] = [
-        {
-            "methodology": resource_assessments[method_key]["methodology_name"],
-            "intensity_score": score,
-            "intensity_level": resource_assessments[method_key]["resource_intensity"]["intensity_level"]
-        }
-        for method_key, score in intensity_scores
-    ]
-    
-    # Extract budget estimates for comparison
-    comparative_analysis["cost_comparison"] = {
-        resource_assessments[method_key]["methodology_name"]: assessment["financial_resources"]["total_estimated_budget"]
-        for method_key, assessment in resource_assessments.items()
-    }
-    
-    # Extract time estimates
-    comparative_analysis["time_comparison"] = {
-        resource_assessments[method_key]["methodology_name"]: assessment["time_resources"]["total_project_duration"]
-        for method_key, assessment in resource_assessments.items()
-    }
-    
-    return comparative_analysis
-
-def generate_resource_recommendations(resource_assessments):
-    """Generate recommendations based on resource analysis"""
-    
-    # Find methodology with best resource profile
-    best_resource_profile = min(resource_assessments.items(), 
-                               key=lambda x: x[1]["resource_intensity"]["intensity_score"])
-    
-    recommendations = {
-        "most_resource_efficient": {
-            "methodology": best_resource_profile[1]["methodology_name"],
-            "rationale": f"Lowest resource intensity score ({best_resource_profile[1]['resource_intensity']['intensity_score']})"
-        },
-        "resource_optimization_priorities": [
-            "Secure access resources early in project planning",
-            "Leverage institutional resources and partnerships", 
-            "Use open-source alternatives where possible",
-            "Plan for resource sharing and collaboration opportunities"
-        ],
-        "critical_success_factors": [
-            "Early stakeholder engagement and access negotiation",
-            "Realistic budget planning and contingency allocation",
-            "Technical infrastructure setup in initial phases",
-            "Timeline management with adequate buffer allocation"
-        ]
-    }
-    
-    return recommendations
-
 def generate_markdown_summary(analysis_report):
     """Generate markdown summary of resource requirements analysis"""
     
     assessments = analysis_report["resource_assessments"]
-    comparative = analysis_report["comparative_analysis"]
-    recommendations = analysis_report["recommendations"]
     
     md_content = f"""# Resource Requirements Assessment (Task 5.2.3)
 
@@ -811,24 +1182,15 @@ def generate_markdown_summary(analysis_report):
 **Constraints**: {analysis_report['research_context']['constraints']}
 **Methodologies Analyzed**: {analysis_report['metadata']['methodologies_analyzed']}
 
-## Resource Categories Analyzed
-
-{chr(10).join([f"- {category}" for category in analysis_report['metadata']['resource_categories']])}
-
 ## Executive Summary
 
-### Most Resource Efficient
-**{recommendations['most_resource_efficient']['methodology']}**
-- {recommendations['most_resource_efficient']['rationale']}
-
 ### Resource Intensity Ranking
-{chr(10).join([f"{i+1}. **{item['methodology']}** - {item['intensity_level']} (Score: {item['intensity_score']})" for i, item in enumerate(comparative['resource_intensity_ranking'])])}
+{chr(10).join([f"{i+1}. **{assessment['methodology_name']}** - {assessment['resource_intensity']['intensity_level']} (Score: {assessment['resource_intensity']['intensity_score']})" for i, assessment in enumerate(assessments.values())])}
 
 ## Detailed Resource Analysis
 
 """
     
-    # Add detailed analysis for each methodology
     for method_key, assessment in assessments.items():
         md_content += f"""### {assessment['methodology_name']}
 
@@ -840,18 +1202,12 @@ def generate_markdown_summary(analysis_report):
 **Required Expertise:**
 {chr(10).join([f"- {item}" for item in assessment['human_resources']['researcher_expertise_required']])}
 
-**Additional Support Needed:**
-{chr(10).join([f"- {item}" for item in assessment['human_resources']['additional_expertise_needed']])}
-
 **Time Commitment:**
 {chr(10).join([f"- {k}: {v}" for k, v in assessment['human_resources']['time_commitment_breakdown'].items()])}
 
 #### Technical Resources
 **Software Requirements:**
 {chr(10).join([f"- {item}" for item in assessment['technical_resources']['software_requirements']])}
-
-**Hardware Requirements:**
-{chr(10).join([f"- {item}" for item in assessment['technical_resources']['hardware_requirements']])}
 
 **Computational Requirements:**
 {chr(10).join([f"- {item}" for item in assessment['technical_resources']['computational_requirements']])}
@@ -863,58 +1219,20 @@ def generate_markdown_summary(analysis_report):
 **Cost Mitigation Strategies:**
 {chr(10).join([f"- {item}" for item in assessment['financial_resources']['cost_mitigation_strategies']])}
 
-#### Access Resources
-**Key Access Requirements:**
-{chr(10).join([f"- {item}" for item in assessment['access_resources']['stakeholder_access_requirements'] + assessment['access_resources']['data_access_needs'][:3]])}
-
-**Access Barriers:**
-{chr(10).join([f"- {item}" for item in assessment['access_resources']['access_barriers']])}
-
-#### Time Resources
-**Phase Breakdown:**
-{chr(10).join([f"- {k}: {v}" for k, v in assessment['time_resources']['phase_breakdown'].items()])}
-
-**Timeline Risks:**
-{chr(10).join([f"- {item}" for item in assessment['time_resources']['timeline_risks']])}
-
-#### Feasibility Assessment
-**Critical Constraints:**
-{chr(10).join([f"- {item}" for item in assessment['feasibility_constraints']['critical_constraints']])}
-
-**Constraint Severity**: {assessment['feasibility_constraints']['constraint_severity']}
-
 ---
 
 """
     
-    md_content += f"""## Comparative Analysis
+    md_content += f"""## Key Findings
 
-### Cost Comparison
-{chr(10).join([f"- **{methodology}**: {budget}" for methodology, budget in comparative['cost_comparison'].items()])}
-
-### Time Comparison  
-{chr(10).join([f"- **{methodology}**: {duration}" for methodology, duration in comparative['time_comparison'].items()])}
-
-## Recommendations
-
-### Critical Success Factors
-{chr(10).join([f"- {factor}" for factor in recommendations['critical_success_factors']])}
-
-### Resource Optimization Priorities
-{chr(10).join([f"- {priority}" for priority in recommendations['resource_optimization_priorities']])}
-
-## Key Findings
-
-1. **Most Resource Efficient**: {recommendations['most_resource_efficient']['methodology']}
-2. **Highest Resource Intensity**: {comparative['resource_intensity_ranking'][-1]['methodology']} ({comparative['resource_intensity_ranking'][-1]['intensity_level']})
-3. **Critical Planning Requirements**: Early access negotiation and stakeholder engagement
-4. **Budget Range**: Varies from low-cost comparative research to high-investment digital twin approaches
+1. **Resource Intensity**: Ranges from Low (Comparative Research) to High (Digital Twin, Sequential Explanatory)
+2. **Budget Requirements**: Vary from $250-1,100 to $1,500-4,700 depending on methodology
+3. **Critical Success Factors**: Early stakeholder access, computational resource planning, expertise availability
 
 ## Next Steps
 
 - Task 5.2.4: Analyze implementation feasibility based on resource constraints
 - Task 5.3.1: Select primary methodology considering resource availability
-- Detailed resource planning for selected methodology
 
 ---
 
@@ -922,7 +1240,6 @@ def generate_markdown_summary(analysis_report):
 *Sources: Tasks 5.2.1-5.2.2 methodology analyses, resource planning frameworks*
 """
     
-    # Save markdown file
     md_file = "../docs/5.2.3-resource-requirements-assessment.md"
     with open(md_file, 'w') as f:
         f.write(md_content)

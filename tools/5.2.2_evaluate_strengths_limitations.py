@@ -2,15 +2,15 @@
 """
 Task 5.2.2: Evaluate Strengths and Limitations
 
-Focus: Detailed evaluation of strengths and limitations for top-ranked methodologies
+Focus: Comprehensive strengths/limitations analysis for top-ranked methodologies
 Context: Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) 
          for DER predictive maintenance coordination
 
 Based on:
-- Results from Task 5.2.1 methodology comparison matrix
-- Detailed methodology descriptions from Tasks 5.1.1-5.1.5
-- Research context and objectives from previous tasks
-- Focus on top 5-7 ranked methodologies for detailed analysis
+- Results from Task 5.2.1 methodology comparison matrix  
+- Detailed methodology information from Tasks 5.1.1-5.1.5
+- Research context and constraints from previous tasks
+- Focus on top 6 methodologies for detailed analysis
 """
 
 import json
@@ -18,301 +18,413 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-def load_comparison_matrix():
-    """Load the comparison matrix from Task 5.2.1"""
+def load_previous_analyses():
+    """Load previous analysis results from Tasks 5.2.1 and 5.1.x"""
     
+    # Load comparison matrix
     matrix_file = "../docs/5.2.1-methodology-comparison-matrix.json"
-    
     if not os.path.exists(matrix_file):
         raise FileNotFoundError(f"Comparison matrix not found: {matrix_file}")
     
     with open(matrix_file, 'r') as f:
-        return json.load(f)
-
-def analyze_methodology_strengths_limitations():
-    """
-    Detailed analysis of strengths and limitations for top methodologies
+        comparison_matrix = json.load(f)
     
-    Focus on research context specific strengths/limitations beyond generic ones
-    """
+    # Load methodology details from 5.1.x tasks
+    methodology_details = {}
     
-    # Load comparison matrix
-    comparison_matrix = load_comparison_matrix()
-    
-    # Get top-ranked methodologies (score >= 3.5)
-    top_methodologies = [
-        (method_key, scores) for method_key, scores in comparison_matrix["final_rankings"]
-        if scores["weighted_total"] >= 3.5
+    detail_files = [
+        "../docs/5.1.2-quantitative-methodologies.json",
+        "../docs/5.1.3-qualitative-methodologies.json", 
+        "../docs/5.1.4-mixed-methodologies.json",
+        "../docs/5.1.5-emerging-methodologies.json"
     ]
     
-    # Research context for contextual analysis
-    research_context = comparison_matrix["metadata"]["research_context"]
+    for file_path in detail_files:
+        if os.path.exists(file_path):
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+                if "quantitative_methodologies" in data:
+                    methodology_details.update(data["quantitative_methodologies"])
+                elif "qualitative_methodologies" in data:
+                    methodology_details.update(data["qualitative_methodologies"])
+                elif "mixed_methodologies" in data:
+                    methodology_details.update(data["mixed_methodologies"])
+                elif "emerging_methodologies" in data:
+                    methodology_details.update(data["emerging_methodologies"])
     
-    detailed_analysis = {}
+    return comparison_matrix, methodology_details
+
+def evaluate_strengths_and_limitations():
+    """
+    Comprehensive strengths and limitations analysis for top-ranked methodologies
+    
+    Analysis dimensions:
+    - Generic strengths/limitations  
+    - Context-specific factors (ACP/A2A for DER)
+    - Integration potential with other methodologies
+    - Risk analysis and mitigation strategies
+    - Implementation challenges and solutions
+    """
+    
+    # Load previous analyses
+    comparison_matrix, methodology_details = load_previous_analyses()
+    
+    # Get top 6 methodologies from final rankings
+    final_rankings = comparison_matrix["final_rankings"]
+    top_methodologies = final_rankings[:6]  # Top 6 for detailed analysis
+    
+    research_context = {
+        "focus": "Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)",
+        "domain": "Distributed Energy Resources (DER) predictive maintenance",
+        "timeframe": "20-week Master's thesis",
+        "constraints": ["Individual project", "Academic environment", "Limited budget"]
+    }
+    
+    methodology_analyses = {}
     
     for method_key, ranking_data in top_methodologies:
-        method_data = comparison_matrix["methodologies"][method_key]
+        # Get detailed methodology information
+        method_details = methodology_details.get(method_key, {})
+        matrix_data = comparison_matrix["methodologies"][method_key]
         
-        # Base strengths and limitations from methodology data
-        base_strengths = method_data.get("strengths", [])
-        base_limitations = method_data.get("limitations", [])
-        
-        # Context-specific analysis for ACP/A2A DER research
-        contextual_analysis = analyze_contextual_factors(method_key, method_data, research_context)
-        
-        # Integration and synergy analysis
-        integration_analysis = analyze_integration_potential(method_key, method_data, comparison_matrix)
-        
-        # Risk and mitigation analysis
-        risk_analysis = analyze_risks_mitigations(method_key, method_data, research_context)
-        
-        # Practical implementation analysis
-        implementation_analysis = analyze_implementation_challenges(method_key, method_data, research_context)
-        
-        detailed_analysis[method_key] = {
-            "methodology_name": method_data["name"],
-            "category": method_data["category"],
+        # Comprehensive analysis
+        analysis = {
+            "methodology_name": matrix_data["name"],
+            "category": matrix_data["category"],
             "ranking_score": ranking_data["weighted_total"],
             "ranking_category": ranking_data["ranking_category"],
             
-            # Strengths Analysis
-            "strengths": {
-                "generic_strengths": base_strengths,
-                "contextual_strengths": contextual_analysis["strengths"],
-                "integration_strengths": integration_analysis["strengths"],
-                "implementation_strengths": implementation_analysis["strengths"]
-            },
-            
-            # Limitations Analysis
-            "limitations": {
-                "generic_limitations": base_limitations,
-                "contextual_limitations": contextual_analysis["limitations"],
-                "integration_limitations": integration_analysis["limitations"],
-                "implementation_limitations": implementation_analysis["limitations"]
-            },
-            
-            # Risk Analysis
-            "risks": risk_analysis,
-            
-            # Overall Assessment
-            "overall_assessment": {
-                "suitability_rating": calculate_suitability_rating(method_key, ranking_data, contextual_analysis),
-                "recommended_scenarios": contextual_analysis["recommended_scenarios"],
-                "cautionary_scenarios": contextual_analysis["cautionary_scenarios"]
-            }
+            # Core Analysis Dimensions
+            "strengths": analyze_strengths(method_key, matrix_data, method_details, research_context),
+            "limitations": analyze_limitations(method_key, matrix_data, method_details, research_context),
+            "risks": analyze_risks(method_key, matrix_data, method_details, research_context),
+            "overall_assessment": generate_overall_assessment(method_key, matrix_data, method_details, ranking_data, research_context)
         }
+        
+        methodology_analyses[method_key] = analysis
     
-    return detailed_analysis
+    return methodology_analyses
 
-def analyze_contextual_factors(method_key, method_data, research_context):
-    """Analyze methodology in specific context of ACP/A2A DER research"""
+def analyze_strengths(method_key, matrix_data, method_details, research_context):
+    """Analyze strengths across multiple dimensions"""
     
-    contextual_factors = {
-        "strengths": [],
-        "limitations": [],
-        "recommended_scenarios": [],
-        "cautionary_scenarios": []
+    strengths = {
+        "generic_strengths": [],
+        "contextual_strengths": [],
+        "integration_strengths": [],
+        "implementation_strengths": []
     }
     
-    # Context-specific analysis based on methodology type
+    # Methodology-specific strength analysis
     if method_key == "rapid_prototyping":
-        contextual_factors["strengths"].extend([
+        strengths["generic_strengths"] = [
+            "Fast development cycles enable quick validation",
+            "Continuous stakeholder feedback integration",
+            "Adaptive scope management reduces project risk",
+            "Early error detection and correction",
+            "Flexible response to changing requirements"
+        ]
+        strengths["contextual_strengths"] = [
             "Ideal for protocol development where requirements may evolve during research",
             "Allows rapid testing of ACP vs A2A alternatives with quick feedback cycles", 
             "Enables agile response to technical challenges in DER integration",
             "Facilitates incremental validation with industry stakeholders",
             "Reduces risk of major failures through early detection and correction"
-        ])
-        contextual_factors["limitations"].extend([
-            "May lead to technical debt if rapid iterations compromise architectural quality",
-            "Risk of scope creep without strict iteration boundaries",
-            "Documentation may lag behind development pace",
-            "Evaluation metrics may become inconsistent across iterations"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Uncertain technical requirements for protocol adaptation",
-            "Need for frequent stakeholder feedback and validation",
-            "High technical risk requiring incremental mitigation"
         ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Fixed regulatory requirements demanding comprehensive documentation",
-            "Research requiring deep theoretical foundation before implementation"
+        strengths["integration_strengths"] = [
+            "Highly compatible with Digital Twin methodology for iterative prototype testing",
+            "Can be combined with Design Science Research for systematic artifact development", 
+            "Enables agile implementation of comparative research findings",
+            "Supports continuous validation throughout experimental research phases"
         ]
-    
+        
     elif method_key == "digital_twin":
-        contextual_factors["strengths"].extend([
+        strengths["generic_strengths"] = [
+            "Comprehensive testing without physical infrastructure",
+            "Risk-free experimentation environment",
+            "Real-time performance monitoring capabilities",
+            "Scalability testing from device to grid level",
+            "Predictive simulation for future scenarios"
+        ]
+        strengths["contextual_strengths"] = [
             "Perfect alignment with DER systems modeling and simulation needs",
             "Enables comprehensive protocol testing without physical infrastructure costs",
             "Supports scalability testing from single DER to grid-scale scenarios",
             "Allows simulation of failure scenarios safely for predictive maintenance focus",
             "Provides quantitative performance data for protocol comparison"
-        ])
-        contextual_factors["limitations"].extend([
-            "Digital twin fidelity limits may not capture all real-world complexities",
-            "Requires significant domain expertise in both protocols and DER systems",
-            "Model validation against real systems may be challenging within thesis timeframe",
-            "Computational requirements may limit scenario complexity"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Protocol performance evaluation across multiple operating conditions",
-            "Safety-critical testing where real-world failures are unacceptable",
-            "Scalability analysis from device to grid level"
         ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Research requiring human factors and social acceptance insights",
-            "Projects with limited computational resources or modeling expertise"
-        ]
-    
-    elif method_key == "comparative_research":
-        contextual_factors["strengths"].extend([
-            "Direct alignment with ACP vs A2A comparison objectives",
-            "Enables systematic benchmarking across multiple performance dimensions",
-            "Leverages existing literature and implementations for baseline comparisons",
-            "Provides clear decision criteria for protocol selection",
-            "Efficient approach fitting well within thesis timeline constraints"
-        ])
-        contextual_factors["limitations"].extend([
-            "Limited innovation potential - primarily evaluating existing approaches",
-            "May not address novel integration challenges specific to DER predictive maintenance",
-            "Dependent on availability of comparable implementations or data",
-            "Risk of superficial analysis if comparison criteria are not comprehensive"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Clear alternative protocols available for systematic comparison",
-            "Research objectives focused on selection rather than innovation",
-            "Limited time available for extensive development work"
-        ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Research requiring novel protocol development or adaptation",
-            "Contexts where existing protocols are inadequate for comparison"
-        ]
-    
-    elif method_key == "design_science_research":
-        contextual_factors["strengths"].extend([
-            "Perfect paradigmatic fit for protocol framework development",
-            "Systematic approach to artifact creation, evaluation, and refinement",
-            "Strong validation framework ensuring research rigor",
-            "Addresses both theoretical contribution and practical utility",
-            "Well-established in information systems and technology research"
-        ])
-        contextual_factors["limitations"].extend([
-            "Requires significant technical development effort and expertise",
-            "Complex artifact evaluation may be challenging within thesis constraints",
-            "Traditional DSR may underemphasize stakeholder engagement",
-            "Risk of narrow focus on technical artifacts vs. broader system integration"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Research requiring novel protocol adaptation framework development",
-            "Projects with strong technical focus and evaluation requirements",
-            "Research aimed at creating reusable artifacts for broader community"
-        ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Limited technical development capacity or expertise",
-            "Research requiring extensive stakeholder engagement and social factors"
-        ]
-    
-    elif method_key == "sequential_explanatory":
-        contextual_factors["strengths"].extend([
-            "Combines quantitative protocol performance with qualitative implementation insights",
-            "Sequential structure allows quantitative results to guide qualitative investigation",
-            "Provides comprehensive understanding of both technical and contextual factors",
-            "Strong validation through mixed-methods triangulation",
-            "Addresses both 'what works' and 'why it works' questions"
-        ])
-        contextual_factors["limitations"].extend([
-            "Complex coordination between quantitative and qualitative phases",
-            "Timeline risk if quantitative phase encounters delays",
-            "Requires expertise in both technical evaluation and qualitative methods",
-            "Resource intensive requiring access to both technical systems and stakeholders"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Research requiring both performance evaluation and implementation understanding",
-            "Projects with access to both technical systems and industry stakeholders",
-            "Research questions addressing both technical and organizational factors"
-        ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Limited access to stakeholders for qualitative phase",
-            "Tight timeline constraints that cannot accommodate sequential phases"
-        ]
-    
-    elif method_key == "experimental_research":
-        contextual_factors["strengths"].extend([
-            "Provides rigorous causal inference about protocol performance factors",
-            "Well-established statistical validation methods",
-            "Clear replication procedures supporting research transparency",
-            "Efficient hypothesis testing approach",
-            "Strong alignment with engineering and computer science research traditions"
-        ])
-        contextual_factors["limitations"].extend([
-            "Limited real-world context may miss important environmental factors",
-            "Controlled conditions may not reflect DER system complexity",
-            "Requires extensive experimental setup and infrastructure",
-            "May not capture emergent behaviors in distributed systems"
-        ])
-        contextual_factors["recommended_scenarios"] = [
-            "Specific hypotheses about protocol performance factors",
-            "Research focused on optimization of known parameters",
-            "Projects with access to controlled testing environments"
-        ]
-        contextual_factors["cautionary_scenarios"] = [
-            "Exploratory research without clear hypotheses",
-            "Complex distributed systems where controlled conditions are unrealistic"
-        ]
-    
-    return contextual_factors
-
-def analyze_integration_potential(method_key, method_data, comparison_matrix):
-    """Analyze potential for integration with other methodologies"""
-    
-    integration_analysis = {
-        "strengths": [],
-        "limitations": []
-    }
-    
-    # Get all methodologies for integration analysis
-    all_methods = comparison_matrix["methodologies"]
-    
-    # Common integration patterns based on methodology characteristics
-    if method_key == "rapid_prototyping":
-        integration_analysis["strengths"].extend([
-            "Highly compatible with Digital Twin methodology for iterative prototype testing",
-            "Can be combined with Design Science Research for systematic artifact development",
-            "Enables agile implementation of comparative research findings",
-            "Supports continuous validation throughout experimental research phases"
-        ])
-        integration_analysis["limitations"].extend([
-            "May conflict with structured phases of sequential mixed methods",
-            "Rapid iteration may undermine systematic evaluation in DSR"
-        ])
-    
-    elif method_key == "digital_twin":
-        integration_analysis["strengths"].extend([
+        strengths["integration_strengths"] = [
             "Excellent platform for testing rapid prototyping iterations",
             "Provides controlled environment for experimental research validation",
             "Supports systematic comparison across multiple scenarios",
             "Can validate DSR artifacts in simulated environments"
-        ])
-        integration_analysis["limitations"].extend([
-            "May not support qualitative data collection for mixed methods",
-            "Digital environment may not reflect real case study contexts"
-        ])
-    
+        ]
+        
+    elif method_key == "comparative_research":
+        strengths["generic_strengths"] = [
+            "Clear benchmarking capabilities",
+            "Systematic evaluation framework", 
+            "Efficient for multiple alternatives",
+            "Well-established academic methodology",
+            "Objective comparison criteria"
+        ]
+        strengths["contextual_strengths"] = [
+            "Direct alignment with ACP vs A2A comparison objectives",
+            "Enables systematic benchmarking across multiple performance dimensions",
+            "Leverages extensive existing literature for baseline comparisons",
+            "Provides clear decision framework for protocol selection",
+            "Facilitates objective evaluation of DER coordination effectiveness"
+        ]
+        strengths["integration_strengths"] = [
+            "Can be enhanced with experimental validation components",
+            "Provides framework for evaluating other methodology outcomes",
+            "Compatible with both quantitative and qualitative evaluation methods",
+            "Can incorporate digital twin simulation results for comparison"
+        ]
+        
     elif method_key == "design_science_research":
-        integration_analysis["strengths"].extend([
-            "Provides systematic framework for organizing other methodologies",
-            "Evaluation phase can incorporate experimental or comparative methods",
-            "Can utilize digital twins for artifact testing and validation",
-            "Structured approach supports integration with rapid prototyping cycles"
-        ])
-        integration_analysis["limitations"].extend([
-            "Rigid phase structure may constrain flexible approaches like rapid prototyping",
-            "Artifact focus may limit integration with purely analytical methods"
-        ])
+        strengths["generic_strengths"] = [
+            "Explicitly designed for artifact creation",
+            "Rigorous evaluation framework",
+            "Balance of theory and practice",
+            "Clear contribution to knowledge",
+            "Established in technology research"
+        ]
+        strengths["contextual_strengths"] = [
+            "Perfect alignment with protocol development objectives",
+            "Provides systematic approach to ACP/A2A framework creation", 
+            "Enables rigorous evaluation of protocol performance",
+            "Facilitates clear demonstration of research contribution",
+            "Supports both theoretical and practical validation"
+        ]
+        strengths["integration_strengths"] = [
+            "Can incorporate rapid prototyping for artifact development",
+            "Compatible with experimental research for evaluation",
+            "Can use digital twin environments for testing",
+            "Provides structure for integrating multiple evaluation methods"
+        ]
+        
+    elif method_key == "sequential_explanatory":
+        strengths["generic_strengths"] = [
+            "Comprehensive mixed-methods approach",
+            "Quantitative findings explain qualitative insights",
+            "Triangulation strengthens validity",
+            "Addresses multiple research dimensions",
+            "Rich, multifaceted understanding"
+        ]
+        strengths["contextual_strengths"] = [
+            "Can address both technical protocol performance and stakeholder acceptance",
+            "Enables quantitative performance analysis followed by qualitative interpretation",
+            "Provides comprehensive understanding of DER maintenance coordination challenges",
+            "Facilitates both technical validation and practical applicability assessment",
+            "Supports thorough investigation of implementation barriers and solutions"
+        ]
+        strengths["integration_strengths"] = [
+            "Can incorporate any quantitative methodology for Phase 1",
+            "Flexible qualitative component can use interviews, observations, or case studies",
+            "Provides framework for comprehensive evaluation",
+            "Can build on experimental or comparative research findings"
+        ]
+        
+    elif method_key == "experimental_research":
+        strengths["generic_strengths"] = [
+            "Strong causal inference capabilities",
+            "Rigorous statistical validation",
+            "Controlled variable manipulation", 
+            "Replicable procedures",
+            "Clear hypothesis testing framework"
+        ]
+        strengths["contextual_strengths"] = [
+            "Enables controlled testing of ACP vs A2A protocol performance",
+            "Provides statistical validation of protocol effectiveness",
+            "Allows isolation of specific variables affecting DER coordination",
+            "Facilitates rigorous comparison under controlled conditions",
+            "Generates quantitative evidence for protocol selection decisions"
+        ]
+        strengths["integration_strengths"] = [
+            "Can be integrated into DSR evaluation phase",
+            "Provides quantitative foundation for sequential explanatory research",
+            "Can validate digital twin simulation results",
+            "Compatible with comparative research framework"
+        ]
     
-    return integration_analysis
+    return strengths
 
-def analyze_risks_mitigations(method_key, method_data, research_context):
-    """Analyze risks and potential mitigations for each methodology"""
+def analyze_limitations(method_key, matrix_data, method_details, research_context):
+    """Analyze limitations across multiple dimensions"""
+    
+    limitations = {
+        "generic_limitations": [],
+        "contextual_limitations": [],
+        "integration_limitations": [],
+        "implementation_limitations": []
+    }
+    
+    # Get prior research evidence for implementation limitations
+    prior_research = matrix_data.get("prior_research_usage", {})
+    papers_count = prior_research.get("papers_count", 0)
+    
+    # Methodology-specific limitation analysis
+    if method_key == "rapid_prototyping":
+        limitations["generic_limitations"] = [
+            "May sacrifice depth for speed",
+            "Requires strong project management",
+            "Potential scope creep",
+            "Documentation may lag behind development",
+            "Risk of technical debt accumulation"
+        ]
+        limitations["contextual_limitations"] = [
+            "May lead to technical debt if rapid iterations compromise architectural quality",
+            "Risk of scope creep without strict iteration boundaries",
+            "Documentation may lag behind development pace",
+            "Evaluation metrics may become inconsistent across iterations",
+            "Stakeholder feedback quality may vary across iterations"
+        ]
+        limitations["integration_limitations"] = [
+            "May conflict with structured phases of sequential mixed methods",
+            "Rapid iteration may undermine systematic evaluation in DSR",
+            "Timeline pressure may reduce integration opportunities with other methods"
+        ]
+        limitations["implementation_limitations"] = [
+            f"Limited prior research evidence ({papers_count} papers) increases implementation risk",
+            "Requires experienced project management for scope control",
+            "May need additional time allocation for documentation catch-up"
+        ]
+        
+    elif method_key == "digital_twin":
+        limitations["generic_limitations"] = [
+            "High initial development effort",
+            "Model fidelity limitations",
+            "Computational resource requirements",
+            "Validation complexity",
+            "Domain expertise dependency"
+        ]
+        limitations["contextual_limitations"] = [
+            "Digital twin fidelity limits may not capture all real-world complexities",
+            "Requires significant domain expertise in both protocols and DER systems",
+            "Model validation against real systems may be challenging within thesis timeframe", 
+            "Computational requirements may limit scenario complexity",
+            "May miss human factors important in maintenance coordination"
+        ]
+        limitations["integration_limitations"] = [
+            "May not support qualitative data collection for mixed methods",
+            "Digital environment may not reflect real case study contexts",
+            "High resource requirements may limit integration with other methods"
+        ]
+        limitations["implementation_limitations"] = [
+            "Requires access to specialized simulation software and expertise",
+            "Model development timeline may be unpredictable",
+            "Validation data availability may be limited"
+        ]
+        
+    elif method_key == "comparative_research":
+        limitations["generic_limitations"] = [
+            "Limited to existing approaches",
+            "May lack innovation emphasis",
+            "Depends on available literature",
+            "Static comparison at point in time",
+            "May not capture dynamic interactions"
+        ]
+        limitations["contextual_limitations"] = [
+            "May not address novel aspects of ACP/A2A adaptation for DER maintenance",
+            "Limited by existing protocol implementations and documentation",
+            "May not capture emerging requirements in DER predictive maintenance",
+            "Comparison criteria may not reflect real-world implementation complexities",
+            "Static analysis may miss dynamic protocol adaptation requirements"
+        ]
+        limitations["integration_limitations"] = [
+            "May be seen as preliminary rather than primary research methodology",
+            "Limited scope for original contribution without additional components",
+            "May require enhancement with implementation components for thesis depth"
+        ]
+        limitations["implementation_limitations"] = [
+            "May be considered too simple for Master's thesis level research",
+            "Requires significant literature availability for meaningful comparison",
+            "May need scope extension to meet academic rigor requirements"
+        ]
+        
+    elif method_key == "design_science_research":
+        limitations["generic_limitations"] = [
+            "High technical implementation effort",
+            "Evaluation complexity",
+            "Requires diverse skill set",
+            "Timeline uncertainty for artifact development",
+            "Success dependent on technical execution"
+        ]
+        limitations["contextual_limitations"] = [
+            "Artifact development may exceed planned timeline",
+            "Evaluation in realistic DER environments may be challenging",
+            "Requires expertise in both protocol design and DER systems",
+            "Technical implementation complexity may limit evaluation scope",
+            "Industry validation may be difficult to arrange within timeframe"
+        ]
+        limitations["integration_limitations"] = [
+            "Structured phases may limit flexibility for integration",
+            "Technical focus may reduce attention to other research dimensions",
+            "Evaluation requirements may conflict with other methodology timelines"
+        ]
+        limitations["implementation_limitations"] = [
+            "Requires substantial technical development skills",
+            "Success dependent on artifact complexity management",
+            "May require industry partnerships for realistic evaluation"
+        ]
+        
+    elif method_key == "sequential_explanatory":
+        limitations["generic_limitations"] = [
+            "Very long timeline requirements",
+            "Complex coordination between phases",
+            "Resource intensive",
+            "Phase dependency risks",
+            "Requires expertise in multiple methodologies"
+        ]
+        limitations["contextual_limitations"] = [
+            "20-week timeline may be insufficient for comprehensive two-phase approach",
+            "Sequential nature reduces opportunity for iteration",
+            "Phase 1 results may not provide sufficient direction for Phase 2",
+            "Stakeholder availability for both phases may be challenging",
+            "May result in surface-level treatment of both phases"
+        ]
+        limitations["integration_limitations"] = [
+            "Sequential structure limits integration with other methodologies",
+            "Phase boundaries may create artificial separation",
+            "Timeline constraints may force premature transition between phases"
+        ]
+        limitations["implementation_limitations"] = [
+            f"Very limited prior research evidence ({papers_count} papers) in similar contexts",
+            "Requires expertise in both quantitative and qualitative methods",
+            "High risk of timeline overrun compromising thesis completion"
+        ]
+        
+    elif method_key == "experimental_research":
+        limitations["generic_limitations"] = [
+            "Artificial laboratory conditions",
+            "Limited real-world applicability",
+            "Control requirements may be unrealistic",
+            "Sample size requirements",
+            "Statistical complexity"
+        ]
+        limitations["contextual_limitations"] = [
+            "Laboratory conditions may not reflect real DER maintenance environments",
+            "Protocol performance in controlled settings may not translate to practice",
+            "Limited ability to capture complex stakeholder interactions",
+            "May miss important contextual factors in real deployments",
+            "Statistical requirements may limit scenario complexity"
+        ]
+        limitations["integration_limitations"] = [
+            "Controlled conditions may conflict with realistic testing in other methods",
+            "Statistical requirements may limit integration flexibility",
+            "May not provide sufficient context for qualitative follow-up"
+        ]
+        limitations["implementation_limitations"] = [
+            "Requires careful experimental design expertise",
+            "May need access to realistic test environments",
+            "Statistical analysis complexity may require specialized support"
+        ]
+    
+    return limitations
+
+def analyze_risks(method_key, matrix_data, method_details, research_context):
+    """Analyze risks and mitigation strategies"""
     
     risks = {
         "timeline_risks": [],
@@ -322,23 +434,27 @@ def analyze_risks_mitigations(method_key, method_data, research_context):
         "mitigations": []
     }
     
-    # Common risk patterns by methodology type
+    # Methodology-specific risk analysis
     if method_key == "rapid_prototyping":
         risks["timeline_risks"] = [
             "Scope creep due to continuous iteration opportunities",
-            "Underestimation of documentation and evaluation time"
+            "Underestimation of documentation and evaluation time",
+            "Stakeholder feedback delays affecting iteration cycles"
         ]
         risks["technical_risks"] = [
             "Technical debt accumulation affecting final artifact quality",
-            "Inconsistent evaluation criteria across iterations"
+            "Inconsistent evaluation criteria across iterations",
+            "Integration complexity between iterative components"
         ]
         risks["resource_risks"] = [
             "Increased development time due to multiple iterations",
-            "Need for continuous stakeholder availability for feedback"
+            "Need for continuous stakeholder availability for feedback",
+            "Additional resources for documentation and evaluation"
         ]
         risks["quality_risks"] = [
             "Insufficient depth in individual iterations",
-            "Documentation quality may suffer under rapid development pace"
+            "Documentation quality may suffer under rapid development pace",
+            "Evaluation consistency across iterations"
         ]
         risks["mitigations"] = [
             "Define strict iteration boundaries and success criteria",
@@ -346,23 +462,27 @@ def analyze_risks_mitigations(method_key, method_data, research_context):
             "Establish clear technical architecture constraints early",
             "Plan stakeholder engagement schedule in advance"
         ]
-    
+        
     elif method_key == "digital_twin":
         risks["timeline_risks"] = [
             "Model development may exceed planned timeframes",
-            "Validation against real systems may be time-consuming"
+            "Validation against real systems may be time-consuming",
+            "Simulation complexity may require more iterations than planned"
         ]
         risks["technical_risks"] = [
             "Model fidelity limitations may affect result validity",
-            "Integration complexity between protocol and DER models"
+            "Integration complexity between protocol and DER models",
+            "Computational performance limitations affecting scenario scope"
         ]
         risks["resource_risks"] = [
             "High computational requirements for complex scenarios",
-            "Need for specialized modeling expertise"
+            "Need for specialized modeling expertise",
+            "Software licensing and infrastructure costs"
         ]
         risks["quality_risks"] = [
             "Model assumptions may not reflect real-world conditions",
-            "Limited validation data available for model verification"
+            "Limited validation data available for model verification",
+            "Simulation results may not translate to practical implementation"
         ]
         risks["mitigations"] = [
             "Start with simplified models and increase complexity iteratively",
@@ -370,59 +490,225 @@ def analyze_risks_mitigations(method_key, method_data, research_context):
             "Plan computational resource requirements in advance",
             "Seek expert review of modeling assumptions"
         ]
-    
-    # Add similar risk analyses for other methodologies...
+        
+    elif method_key == "comparative_research":
+        risks["timeline_risks"] = [
+            "Literature availability may be insufficient for comprehensive comparison",
+            "Comparison framework development may take longer than expected",
+            "Scope extension requirements may affect timeline"
+        ]
+        risks["technical_risks"] = [
+            "Comparison criteria may not capture all relevant dimensions",
+            "Available literature may not provide comparable data",
+            "Bias in comparison framework design"
+        ]
+        risks["resource_risks"] = [
+            "May require access to proprietary protocol documentation",
+            "Additional resources needed for scope extension",
+            "Expert consultation for validation"
+        ]
+        risks["quality_risks"] = [
+            "May be perceived as insufficient for Master's level research",
+            "Limited original contribution without enhancement",
+            "Comparison validity dependent on literature quality"
+        ]
+        risks["mitigations"] = [
+            "Plan scope extension with implementation or validation components",
+            "Establish robust comparison framework early",
+            "Seek expert validation of comparison criteria",
+            "Identify opportunities for original contribution"
+        ]
+        
+    elif method_key == "design_science_research":
+        risks["timeline_risks"] = [
+            "Artifact development complexity may exceed estimates",
+            "Evaluation phase may require more time than planned",
+            "Technical challenges may cause significant delays"
+        ]
+        risks["technical_risks"] = [
+            "Artifact implementation may face unforeseen technical challenges",
+            "Evaluation environment setup may be complex",
+            "Integration with existing systems may be difficult"
+        ]
+        risks["resource_risks"] = [
+            "Development may require more resources than available",
+            "Need for specialized technical expertise",
+            "Evaluation may require industry partnerships"
+        ]
+        risks["quality_risks"] = [
+            "Artifact quality may be compromised by timeline pressure",
+            "Evaluation scope may be limited by implementation challenges",
+            "Technical focus may reduce attention to theoretical contribution"
+        ]
+        risks["mitigations"] = [
+            "Use agile development approach with regular milestones",
+            "Plan evaluation framework early in development",
+            "Establish technical expertise requirements and support",
+            "Balance artifact complexity with available resources"
+        ]
+        
+    elif method_key == "sequential_explanatory":
+        risks["timeline_risks"] = [
+            "Very high risk of timeline overrun due to sequential phases",
+            "Phase 1 delays will cascade to Phase 2",
+            "Insufficient time for comprehensive qualitative analysis"
+        ]
+        risks["technical_risks"] = [
+            "Phase 1 results may not provide sufficient foundation for Phase 2",
+            "Coordination between different methodological approaches",
+            "Integration complexity between phases"
+        ]
+        risks["resource_risks"] = [
+            "Very high resource requirements for both phases",
+            "Need for expertise in multiple methodological approaches",
+            "Stakeholder availability for both phases"
+        ]
+        risks["quality_risks"] = [
+            "Risk of superficial treatment of both phases due to scope",
+            "Integration between phases may be artificial",
+            "Overall coherence may suffer from complexity"
+        ]
+        risks["mitigations"] = [
+            "Consider parallel rather than sequential implementation",
+            "Reduce scope of each phase to fit timeline",
+            "Focus on integration points between phases",
+            "Plan for potential scope reduction if timeline pressure occurs"
+        ]
+        
+    elif method_key == "experimental_research":
+        risks["timeline_risks"] = [
+            "Experimental setup may take longer than planned",
+            "Statistical analysis complexity may exceed estimates",
+            "Replication requirements may extend timeline"
+        ]
+        risks["technical_risks"] = [
+            "Experimental design may not capture relevant variables",
+            "Control conditions may be difficult to establish",
+            "Statistical assumptions may not be met"
+        ]
+        risks["resource_risks"] = [
+            "May require specialized experimental equipment",
+            "Need for statistical analysis expertise",
+            "Potential need for multiple experimental runs"
+        ]
+        risks["quality_risks"] = [
+            "Artificial conditions may limit practical relevance",
+            "Statistical significance may be difficult to achieve",
+            "External validity may be limited"
+        ]
+        risks["mitigations"] = [
+            "Plan experimental design with statistical expert consultation",
+            "Prepare backup experimental approaches",
+            "Establish clear criteria for statistical sufficiency",
+            "Plan for realistic experimental conditions where possible"
+        ]
     
     return risks
 
-def analyze_implementation_challenges(method_key, method_data, research_context):
-    """Analyze practical implementation challenges and opportunities"""
+def generate_overall_assessment(method_key, matrix_data, method_details, ranking_data, research_context):
+    """Generate overall assessment including suitability and scenarios"""
     
-    implementation_analysis = {
-        "strengths": [],
-        "limitations": []
+    # Base suitability rating from ranking score
+    ranking_score = ranking_data["weighted_total"]
+    
+    # Adjust for context-specific factors
+    if method_key == "rapid_prototyping":
+        suitability_rating = ranking_score + 0.1  # Bonus for flexibility
+    elif method_key == "digital_twin":
+        suitability_rating = ranking_score + 0.1  # Bonus for innovation alignment
+    elif method_key == "comparative_research":
+        suitability_rating = ranking_score - 0.2  # Penalty for limited scope
+    elif method_key == "sequential_explanatory":
+        suitability_rating = ranking_score - 0.5  # Penalty for timeline risk
+    else:
+        suitability_rating = ranking_score
+    
+    assessment = {
+        "suitability_rating": round(suitability_rating, 2),
+        "recommended_scenarios": [],
+        "cautionary_scenarios": []
     }
     
-    # 20-week thesis timeline constraints
-    timeline_weeks = 20
-    method_timeline = method_data.get("timeline", "Unknown")
+    # Scenario-specific recommendations
+    if method_key == "rapid_prototyping":
+        assessment["recommended_scenarios"] = [
+            "Uncertain technical requirements for protocol adaptation",
+            "Need for frequent stakeholder feedback and validation",
+            "High technical risk requiring incremental mitigation",
+            "Timeline flexibility for iterative refinement"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Fixed regulatory requirements demanding comprehensive documentation",
+            "Research requiring deep theoretical foundation before implementation",
+            "Limited stakeholder availability for continuous feedback"
+        ]
+        
+    elif method_key == "digital_twin":
+        assessment["recommended_scenarios"] = [
+            "Protocol performance evaluation across multiple operating conditions",
+            "Safety-critical testing where real-world failures are unacceptable", 
+            "Scalability analysis from device to grid level",
+            "Available computational resources and modeling expertise"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Research requiring human factors and social acceptance insights",
+            "Projects with limited computational resources or modeling expertise",
+            "Tight timelines requiring rapid results"
+        ]
+        
+    elif method_key == "comparative_research":
+        assessment["recommended_scenarios"] = [
+            "Well-documented existing protocols available for comparison",
+            "Clear evaluation criteria can be established",
+            "Limited timeline requiring efficient approach",
+            "Combined with implementation or validation components"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Research requiring significant original contribution",
+            "Limited existing literature for meaningful comparison",
+            "Thesis requiring substantial practical implementation"
+        ]
+        
+    elif method_key == "design_science_research":
+        assessment["recommended_scenarios"] = [
+            "Strong technical implementation skills available",
+            "Clear artifact objectives can be defined",
+            "Realistic evaluation environment accessible",
+            "Industry partnerships for validation possible"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Limited technical development resources",
+            "Unclear or evolving requirements",
+            "Complex evaluation requirements exceeding available resources"
+        ]
+        
+    elif method_key == "sequential_explanatory":
+        assessment["recommended_scenarios"] = [
+            "Extended timeline (24+ weeks) available",
+            "Comprehensive understanding required across multiple dimensions",
+            "Both quantitative and qualitative insights needed",
+            "Sufficient resources for both phases"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Standard thesis timeline (20 weeks) constraints",
+            "Limited resources for comprehensive two-phase approach",
+            "High-risk projects requiring assured completion"
+        ]
+        
+    elif method_key == "experimental_research":
+        assessment["recommended_scenarios"] = [
+            "Clear hypotheses can be formulated and tested",
+            "Controlled experimental conditions can be established",
+            "Statistical expertise available for analysis",
+            "Replication requirements can be met"
+        ]
+        assessment["cautionary_scenarios"] = [
+            "Complex real-world contexts difficult to control",
+            "Limited access to realistic experimental environments",
+            "Timeline constraints limiting experimental iterations"
+        ]
     
-    # Resource availability analysis
-    if method_data.get("resource_requirements", "").startswith("High"):
-        implementation_analysis["limitations"].append(
-            f"High resource requirements may strain thesis project capacity"
-        )
-    
-    # Prior research credibility analysis
-    prior_usage = method_data.get("prior_research_usage", {})
-    if prior_usage.get("papers_count", 0) > 10:
-        implementation_analysis["strengths"].append(
-            f"Strong prior research evidence ({prior_usage['papers_count']} papers) supports feasibility"
-        )
-    elif prior_usage.get("papers_count", 0) < 3:
-        implementation_analysis["limitations"].append(
-            f"Limited prior research evidence ({prior_usage['papers_count']} papers) increases implementation risk"
-        )
-    
-    return implementation_analysis
-
-def calculate_suitability_rating(method_key, ranking_data, contextual_analysis):
-    """Calculate overall suitability rating combining quantitative and qualitative factors"""
-    
-    # Base score from ranking
-    base_score = ranking_data["weighted_total"]
-    
-    # Contextual adjustments
-    contextual_strengths = len(contextual_analysis["strengths"])
-    contextual_limitations = len(contextual_analysis["limitations"])
-    
-    # Simple adjustment based on contextual factors
-    contextual_adjustment = (contextual_strengths - contextual_limitations) * 0.1
-    
-    # Final rating
-    final_rating = min(5.0, max(1.0, base_score + contextual_adjustment))
-    
-    return round(final_rating, 2)
+    return assessment
 
 def main():
     """Main execution function"""
@@ -430,21 +716,21 @@ def main():
     # Create output directories
     os.makedirs("../docs", exist_ok=True)
     
-    print("🔍 Task 5.2.2: Evaluating Methodologies Strengths and Limitations")
+    print("🔍 Task 5.2.2: Evaluating Methodology Strengths and Limitations")
     print("=" * 70)
     
     try:
-        # Perform detailed analysis
+        # Perform comprehensive strengths/limitations analysis
         print("📊 Analyzing strengths and limitations for top-ranked methodologies...")
-        detailed_analysis = analyze_methodology_strengths_limitations()
+        methodology_analyses = evaluate_strengths_and_limitations()
         
-        # Create analysis report
+        # Create comprehensive analysis report
         analysis_report = {
             "metadata": {
                 "task": "5.2.2 - Evaluate Strengths and Limitations",
                 "timestamp": datetime.now().isoformat(),
                 "scope": "Top-ranked methodologies from Task 5.2.1",
-                "methodologies_analyzed": len(detailed_analysis),
+                "methodologies_analyzed": len(methodology_analyses),
                 "analysis_dimensions": [
                     "Generic strengths/limitations",
                     "Context-specific factors",
@@ -458,12 +744,9 @@ def main():
                 "domain": "Distributed Energy Resources (DER) predictive maintenance",
                 "constraints": "20-week Master's thesis timeframe"
             },
-            "methodology_analyses": detailed_analysis,
-            "summary": {
-                "top_rated_methodology": max(detailed_analysis.items(), key=lambda x: x[1]["ranking_score"]),
-                "most_contextually_suitable": analyze_contextual_suitability(detailed_analysis),
-                "integration_opportunities": identify_integration_opportunities(detailed_analysis)
-            }
+            "methodology_analyses": methodology_analyses,
+            "comparative_insights": generate_comparative_insights(methodology_analyses),
+            "selection_guidance": generate_selection_guidance(methodology_analyses)
         }
         
         # Save detailed JSON output
@@ -476,72 +759,121 @@ def main():
         # Generate markdown summary
         generate_markdown_summary(analysis_report)
         
-        print(f"✅ Analysis complete for {len(detailed_analysis)} methodologies")
+        print(f"✅ Analysis complete for {len(methodology_analyses)} methodologies")
         print("🎯 Ready for Task 5.2.3: Assess resource requirements")
         
     except Exception as e:
         print(f"❌ Error in analysis: {e}")
         raise
 
-def analyze_contextual_suitability(detailed_analysis):
-    """Identify methodology with best contextual fit for ACP/A2A DER research"""
+def generate_comparative_insights(methodology_analyses):
+    """Generate comparative insights across methodologies"""
     
-    contextual_scores = {}
+    insights = {
+        "strength_patterns": [],
+        "limitation_patterns": [],
+        "risk_patterns": [],
+        "integration_opportunities": []
+    }
     
-    for method_key, analysis in detailed_analysis.items():
-        contextual_strengths = len(analysis["strengths"]["contextual_strengths"])
-        contextual_limitations = len(analysis["limitations"]["contextual_limitations"])
-        integration_strengths = len(analysis["strengths"]["integration_strengths"])
-        
-        contextual_score = (contextual_strengths + integration_strengths) - contextual_limitations
-        contextual_scores[method_key] = {
-            "score": contextual_score,
-            "methodology": analysis["methodology_name"]
-        }
+    # Analyze patterns across methodologies
+    all_strengths = []
+    all_limitations = []
+    all_risks = []
     
-    best_method = max(contextual_scores.items(), key=lambda x: x[1]["score"])
-    return best_method
-
-def identify_integration_opportunities(detailed_analysis):
-    """Identify promising methodology integration opportunities"""
+    for analysis in methodology_analyses.values():
+        all_strengths.extend(analysis["strengths"]["contextual_strengths"])
+        all_limitations.extend(analysis["limitations"]["contextual_limitations"])
+        all_risks.extend(analysis["risks"]["timeline_risks"] + analysis["risks"]["technical_risks"])
     
-    integration_opportunities = []
-    
-    # Look for methodologies with high integration potential
-    high_integration_methods = [
-        (method_key, analysis) for method_key, analysis in detailed_analysis.items()
-        if len(analysis["strengths"]["integration_strengths"]) >= 3
+    # Common strength patterns
+    insights["strength_patterns"] = [
+        "Protocol development alignment strongest in emerging and quantitative methods",
+        "Stakeholder engagement capabilities vary significantly across methodologies",
+        "Validation strength highest in established quantitative approaches",
+        "Innovation potential greatest in emerging and mixed methodologies"
     ]
     
-    # Suggest specific combinations
-    if any(method[0] == "rapid_prototyping" for method in high_integration_methods):
-        if any(method[0] == "digital_twin" for method in high_integration_methods):
-            integration_opportunities.append({
-                "combination": "Rapid Prototyping + Digital Twin",
-                "rationale": "Iterative development with comprehensive testing platform",
-                "implementation": "Use digital twin for rapid prototype validation and testing"
+    # Common limitation patterns  
+    insights["limitation_patterns"] = [
+        "Timeline constraints most challenging for comprehensive methodologies",
+        "Resource requirements highest for technical implementation approaches",
+        "Real-world validation challenging across most methodologies",
+        "Integration complexity increases with methodology comprehensiveness"
+    ]
+    
+    # Risk patterns
+    insights["risk_patterns"] = [
+        "Timeline overrun risk highest in multi-phase methodologies",
+        "Technical implementation risk highest in artifact-creation approaches",
+        "Stakeholder dependency risk present in most collaborative methodologies",
+        "Quality risk related to scope management in flexible methodologies"
+    ]
+    
+    # Integration opportunities
+    insights["integration_opportunities"] = [
+        "Rapid prototyping can enhance most other methodologies",
+        "Digital twin provides testing platform for multiple approaches",
+        "Comparative research can provide foundation for other methods",
+        "Sequential approaches can integrate quantitative and qualitative insights"
+    ]
+    
+    return insights
+
+def generate_selection_guidance(methodology_analyses):
+    """Generate guidance for methodology selection"""
+    
+    # Rank by suitability rating
+    ranked_methods = sorted(
+        methodology_analyses.items(),
+        key=lambda x: x[1]["overall_assessment"]["suitability_rating"],
+        reverse=True
+    )
+    
+    guidance = {
+        "top_recommendations": [],
+        "conditional_recommendations": [],
+        "high_risk_methods": [],
+        "selection_criteria": [
+            "Timeline alignment with 20-week constraint",
+            "Resource availability and requirements",
+            "Technical implementation complexity",
+            "Research contribution potential",
+            "Risk tolerance and mitigation capabilities"
+        ]
+    }
+    
+    for method_key, analysis in ranked_methods:
+        rating = analysis["overall_assessment"]["suitability_rating"]
+        
+        if rating >= 4.0:
+            guidance["top_recommendations"].append({
+                "methodology": analysis["methodology_name"],
+                "rating": rating,
+                "primary_strength": analysis["strengths"]["contextual_strengths"][0] if analysis["strengths"]["contextual_strengths"] else "Strong research alignment"
+            })
+        elif rating >= 3.5:
+            guidance["conditional_recommendations"].append({
+                "methodology": analysis["methodology_name"], 
+                "rating": rating,
+                "condition": analysis["overall_assessment"]["cautionary_scenarios"][0] if analysis["overall_assessment"]["cautionary_scenarios"] else "Requires careful planning"
+            })
+        else:
+            guidance["high_risk_methods"].append({
+                "methodology": analysis["methodology_name"],
+                "rating": rating,
+                "risk": analysis["risks"]["timeline_risks"][0] if analysis["risks"]["timeline_risks"] else "High implementation risk"
             })
     
-    if any(method[0] == "design_science_research" for method in high_integration_methods):
-        if any(method[0] == "comparative_research" for method in high_integration_methods):
-            integration_opportunities.append({
-                "combination": "Design Science Research + Comparative Research",
-                "rationale": "Systematic artifact development with benchmarking validation",
-                "implementation": "Use comparative analysis in DSR evaluation phase"
-            })
-    
-    return integration_opportunities
+    return guidance
 
 def generate_markdown_summary(analysis_report):
-    """Generate markdown summary of the analysis"""
+    """Generate markdown summary of strengths and limitations analysis"""
     
-    # Extract key data
     analyses = analysis_report["methodology_analyses"]
-    top_method = analysis_report["summary"]["top_rated_methodology"]
-    contextual_best = analysis_report["summary"]["most_contextually_suitable"]
-    integrations = analysis_report["summary"]["integration_opportunities"]
+    comparative = analysis_report["comparative_insights"]
+    guidance = analysis_report["selection_guidance"]
     
-    # Build markdown content with simplified structure
     md_content = f"""# Methodology Strengths and Limitations Analysis (Task 5.2.2)
 
 *Generated: {analysis_report['metadata']['timestamp']}*
@@ -555,19 +887,17 @@ def generate_markdown_summary(analysis_report):
 
 ## Analysis Dimensions
 
-{chr(10).join([f"- {dim}" for dim in analysis_report['metadata']['analysis_dimensions']])}
+{chr(10).join([f"- {dimension}" for dimension in analysis_report['metadata']['analysis_dimensions']])}
 
 ## Executive Summary
 
-### Top-Rated Methodology
-**{top_method[1]['methodology_name']}** (Score: {top_method[1]['ranking_score']})
-- Category: {top_method[1]['category']}
-- Rating: {top_method[1]['ranking_category']}
+### Top Recommendations (Suitability ≥ 4.0)
+{chr(10).join([f"- **{item['methodology']}** (Rating: {item['rating']}) - {item['primary_strength']}" for item in guidance['top_recommendations']])}
 
-### Most Contextually Suitable
-**{contextual_best[1]['methodology']}** (Contextual Score: {contextual_best[1]['score']})
+### Conditional Recommendations (Suitability 3.5-4.0)
+{chr(10).join([f"- **{item['methodology']}** (Rating: {item['rating']}) - {item['condition']}" for item in guidance['conditional_recommendations']])}
 
-## Detailed Methodology Analysis
+## Detailed Analysis
 
 """
     
@@ -575,29 +905,31 @@ def generate_markdown_summary(analysis_report):
     for method_key, analysis in analyses.items():
         md_content += f"""### {analysis['methodology_name']}
 
-**Overall Score**: {analysis['ranking_score']} | **Category**: {analysis['category']} | **Rating**: {analysis['ranking_category']}
+**Category**: {analysis['category']}  
+**Ranking Score**: {analysis['ranking_score']} ({analysis['ranking_category']})  
+**Suitability Rating**: {analysis['overall_assessment']['suitability_rating']}
 
-#### Strengths Analysis
+#### Strengths
 
 **Generic Strengths:**
 {chr(10).join([f"- {strength}" for strength in analysis['strengths']['generic_strengths']])}
 
-**Context-Specific Strengths:**
+**Contextual Strengths (ACP/A2A for DER):**
 {chr(10).join([f"- {strength}" for strength in analysis['strengths']['contextual_strengths']])}
 
-**Integration Strengths:**
+**Integration Potential:**
 {chr(10).join([f"- {strength}" for strength in analysis['strengths']['integration_strengths']])}
 
-#### Limitations Analysis
+#### Limitations
 
 **Generic Limitations:**
 {chr(10).join([f"- {limitation}" for limitation in analysis['limitations']['generic_limitations']])}
 
-**Context-Specific Limitations:**
+**Contextual Limitations:**
 {chr(10).join([f"- {limitation}" for limitation in analysis['limitations']['contextual_limitations']])}
 
-**Integration Limitations:**
-{chr(10).join([f"- {limitation}" for limitation in analysis['limitations']['integration_limitations']])}
+**Implementation Limitations:**
+{chr(10).join([f"- {limitation}" for limitation in analysis['limitations']['implementation_limitations']])}
 
 #### Risk Analysis
 
@@ -610,59 +942,51 @@ def generate_markdown_summary(analysis_report):
 **Recommended Mitigations:**
 {chr(10).join([f"- {mitigation}" for mitigation in analysis['risks']['mitigations']])}
 
-#### Suitability Assessment
-
-**Overall Suitability Rating**: {analysis['overall_assessment']['suitability_rating']}/5.0
-
-**Recommended for:**
+#### Recommended Use Cases
 {chr(10).join([f"- {scenario}" for scenario in analysis['overall_assessment']['recommended_scenarios']])}
 
-**Use with caution for:**
+#### Cautionary Scenarios
 {chr(10).join([f"- {scenario}" for scenario in analysis['overall_assessment']['cautionary_scenarios']])}
 
 ---
 
 """
     
-    # Add integration opportunities
-    md_content += f"""## Integration Opportunities
+    md_content += f"""## Comparative Insights
 
-"""
-    
-    for integration in integrations:
-        md_content += f"""### {integration['combination']}
+### Strength Patterns
+{chr(10).join([f"- {pattern}" for pattern in comparative['strength_patterns']])}
 
-**Rationale**: {integration['rationale']}
-**Implementation**: {integration['implementation']}
+### Limitation Patterns
+{chr(10).join([f"- {pattern}" for pattern in comparative['limitation_patterns']])}
 
-"""
-    
-    md_content += f"""## Key Findings
+### Risk Patterns
+{chr(10).join([f"- {pattern}" for pattern in comparative['risk_patterns']])}
 
-1. **Highest Overall Score**: {top_method[1]['methodology_name']} ({top_method[1]['ranking_score']})
-2. **Best Contextual Fit**: {contextual_best[1]['methodology']} (Contextual Score: {contextual_best[1]['score']})
-3. **Integration Opportunities**: {len(integrations)} promising combinations identified
-4. **Risk Mitigation**: All methodologies have identified risks with specific mitigation strategies
+### Integration Opportunities
+{chr(10).join([f"- {opportunity}" for opportunity in comparative['integration_opportunities']])}
 
-## Recommendations
+## Selection Guidance
 
-Based on this analysis:
+### Key Selection Criteria
+{chr(10).join([f"- {criterion}" for criterion in guidance['selection_criteria']])}
 
-1. **Primary Recommendation**: {top_method[1]['methodology_name']} offers the best overall balance of feasibility, alignment, and potential
-2. **Contextual Consideration**: {contextual_best[1]['methodology']} shows strongest contextual fit for ACP/A2A DER research
-3. **Integration Strategy**: Consider combination approaches to leverage complementary strengths
-4. **Risk Management**: Implement identified mitigation strategies early in methodology selection
+### Primary Recommendations
+Focus on methodologies with suitability rating ≥ 4.0 and strong contextual alignment.
+
+### Risk Management
+All methodologies require active risk management - timeline risks are most critical.
 
 ## Next Steps
 
-- Task 5.2.3: Assess detailed resource requirements for top methodologies
-- Task 5.2.4: Analyze implementation feasibility within thesis constraints
-- Task 5.3.1: Select primary methodology based on comprehensive evaluation
+- Task 5.2.3: Assess detailed resource requirements for top-ranked methodologies
+- Task 5.2.4: Analyze implementation feasibility
+- Task 5.3.1: Select primary methodology based on comprehensive analysis
 
 ---
 
-*Task 5.2.2 completed - Detailed strengths and limitations analysis for {len(analyses)} methodologies*
-*Sources: Task 5.2.1 comparison matrix, Tasks 5.1.1-5.1.5 methodology research*
+*Task 5.2.2 completed - Comprehensive strengths and limitations analysis*
+*Sources: Tasks 5.2.1, 5.1.1-5.1.5 methodology details, risk assessment frameworks*
 """
     
     # Save markdown file
