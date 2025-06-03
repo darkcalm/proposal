@@ -7,7 +7,7 @@ alwaysApply: false
 
 Guidelines for managing task lists in markdown files to track progress on completing a PRD. All directories mentioned below are with respective to the root folder of the repository.
 
-_Note: In this specific project, the document serving as the PRD is under `sources/1.0-course_material/` censored for privacy._
+_Note: In this specific project, the document serving as the PRD is `docs/1.2.3-project-charter.md`._
 
 ## AI Instructions
 
@@ -39,8 +39,7 @@ When working with task lists, the AI must:
 3. **During Task Execution - output results:**
     - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
     - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
-    - Respond in chat explicitly why a script isn't used
-    - When output text uses contexts that involves citations to sources, cite the sources, as this retains connection with external literature
+    - When a citations is made, cite the very source to maintain connection with external literature
     - Output file locations:
         - `tools/` - Scripts and utilities
         - `sources/` - Input data or results of using scripts
@@ -49,6 +48,7 @@ When working with task lists, the AI must:
     - Output file under `docs/` must indicate the exact files or directories of the sources and tools used to generate its results
     - Output directories under `docs/` must be accompanied by an output markdown directly under `docs/` 
     - Output file naming must start with the associated task number
+    - Unless stated, do not edit files that has an older task number
 
 4. **After Task Execution - task management:**
     - Mark only the task you are working on with `[x]`

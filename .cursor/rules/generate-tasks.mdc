@@ -9,7 +9,7 @@ alwaysApply: false
 
 To guide an AI assistant in creating a detailed, step-by-step task list in Markdown format based on an existing Product Requirements Document (PRD). The task list should guide a developer through implementation.
 
-_Note: In this specific project, the document serving as the PRD is under `sources/1.0-course_material/` censored for privacy._
+_Note: In this specific project, the document serving as the PRD is `docs/1.2.3-project-charter.md`._
 
 ## Output
 
