@@ -1,0 +1,43 @@
+2025-06-03 09:28:22,833 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:28:22,834 - INFO - CORE API Dynamic Search Script - Session 13
+2025-06-03 09:28:22,834 - INFO - Starting CORE API dynamic search: 0 iterations, score threshold 0.3
+2025-06-03 09:28:22,834 - INFO - Prepared 3 initial queries to run (test_mode_limit: 3).
+2025-06-03 09:28:22,834 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:28:22,834 - INFO - Step 0 - Query 'initial_primary_0' (Page 1): 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with pageSize 10
+2025-06-03 09:28:53,054 - ERROR - Error on page 1 for query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human+operator+challenges+AND+communication+gaps+in+Distributed+Energy+Resource+%28DER%29+operations&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:28:53,054 - ERROR - Response content: 
+2025-06-03 09:28:53,055 - INFO - Step 0 - Query 'initial_primary_1' (Page 1): 'Human-in-the-loop control AND operator decision support for smart grid management...' with pageSize 10
+2025-06-03 09:29:23,303 - ERROR - Error on page 1 for query 'initial_primary_1': 'Human-in-the-loop control AND operator decision support for smart grid management': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human-in-the-loop+control+AND+operator+decision+support+for+smart+grid+management&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:29:23,303 - ERROR - Response content: 
+2025-06-03 09:29:23,304 - INFO - Step 0 - Query 'initial_primary_2' (Page 1): 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with pageSize 10
+2025-06-03 09:29:58,202 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:29:58,204 - INFO - First paper object sample is too large to log directly (Length: 106875). Logging only a few key fields.
+2025-06-03 09:29:58,204 - INFO - First paper sample (subset of fields):\n{
+  "id": 152503205,
+  "doi": null,
+  "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+  "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs ...",
+  "yearPublished": 2023,
+  "publishedDate": "2023-10-31T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/2310.19778",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Cho, Sue Min"
+    }
+  ]
+}
+2025-06-03 09:29:58,204 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/654
+2025-06-03 09:29:58,204 - INFO - Step 0 - Query 'initial_primary_2' (Page 2): 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with pageSize 10
+2025-06-03 09:30:31,087 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/654
+2025-06-03 09:30:31,087 - INFO - Step 0 - Query 'initial_primary_2' (Page 3): 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with pageSize 10
+2025-06-03 09:31:02,192 - INFO - Page 3: Retrieved 8 papers. Total for query so far: 24/654
+2025-06-03 09:31:02,192 - INFO - Step 0 - Query 'initial_primary_2' (Page 4): 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with pageSize 10
+2025-06-03 09:31:33,527 - INFO - Page 4: Retrieved 8 papers. Total for query so far: 32/654
+2025-06-03 09:31:33,531 - INFO - Saved 32 papers for query 'initial_primary_2' to sources/4.1.7-core-dynamic-results/session-13/dynamic_step_0/initial_primary_2_results_20250603_093133.json
+2025-06-03 09:31:33,539 - INFO - Step 0 found 32 papers (before unique check with overall list).
+2025-06-03 09:31:33,539 - INFO - Total unique papers after step 0: 8
+2025-06-03 09:31:33,541 - INFO - Consolidated JSON results for stage 'dynamic_search_complete' saved to sources/4.1.7-core-dynamic-results/session-13/consolidated_dynamic_search_complete_session13.json
+2025-06-03 09:31:33,542 - INFO - Markdown summary report saved to docs/4.1.7.1-core-dynamic-summary-session-13.md
+2025-06-03 09:31:33,542 - INFO - CORE API Dynamic search completed. Found 8 unique papers.

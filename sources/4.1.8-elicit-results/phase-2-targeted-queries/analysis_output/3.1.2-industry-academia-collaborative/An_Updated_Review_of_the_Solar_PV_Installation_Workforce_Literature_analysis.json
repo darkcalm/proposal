@@ -1,0 +1,39 @@
+{
+  "source_markdown_file": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/An_Updated_Review_of_the_Solar_PV_Installation_Workforce_Literature.md",
+  "title": "An Updated Review of the Solar PV Installation Workforce Literature",
+  "doi": "10.2172/1971876",
+  "extracted_contexts": {
+    "organizations_companies": [
+      "department of energy",
+      "doe",
+      "english similar records solar energy",
+      "national renewable energy laboratory",
+      "nrel",
+      "renewable power",
+      "solar energy",
+      "the doe solar energy",
+      "usdoe office of energy efficiency and renewable energy"
+    ],
+    "technologies_systems": [],
+    "practical_challenges": [
+      "data\\n\\n- **original pdf:** `gadzanku2023_an_updated_review_of_the_solar_pv_installation_workforce_literature_doi_10-2172_1971876.pdf`\\n- **title:** an updated review of the solar pv installation workforce literature\\n- **doi:** 10.2172/1971876\\n- **authors:** sika gadzanku, a. kramer, brittany smith\\n- **year:** 2023\\n- **abstract:**\\nnone\\n\\n- **markdown conversion date:** 2025-06-03t13:44:16.542289\\n- **total pages (pdf):** 6\\n---\\n\\n## full text content (extracted from pdf)\\n\\n### page 1\\n\\nskip to main content sign in create account submit research results search tools public access policy pids services & dev tools about faqs news sign in create account u.s. department of energy office of scientific and technical information search terms: \u23f7 \u00a0 osti.gov technical report: an updated review of the solar pv installation workforce literature an updated review of the solar pv installation workforce literature technical report \u00b7 wed apr 19 00:00:00 edt 2023 doi:https://doi.org/10.2172/1971876\u00b7 osti id:1971876 gadzanku, sika\u00a0[1]; kramer, alexandra\u00a0[1]; smith, brittany l. \u00a0[1] \u2022 search osti.gov for author \"smith, brittany l.\" \u2022 search osti.gov for orcid \"0000-0003-0228-6439\" \u2022 view orcid profile\\n\\n---\\n\\n### page 2\\n\\n1. national renewable energy laboratory (nrel), golden, co (united states) + show author affiliations in order to develop a well-trained, equitable, and inclusive workforce with high quality jobs, the doe solar energy technologies office (seto) identified a need for analytical context around different pv project characteristics and labor aspects, and how they might impact workforce wellbeing and pv industry growth. to determine the most valuable novel analytical contributions, this work reviews existing literature on solar workforce topics to identify what areas have been studied previously and where gaps remain. focus areas included the following topics: (1) metrics for solar workforce, deployment, costs, and associated studies capturing aspects such as demographics and regional distribution, (2) solar workforce wellbeing, including employee contracting mechanisms, compensation, occupational safety and health, and community impacts, (3) national and state policies most relevant to the u.s. solar workforce, and (4) ongoing efforts to expand solar workforce participation, including local staffing dynamics, challenges, and relevant strategies. view technical report cite citation formats \u2022 mla \u2022 apa \u2022 chicago \u2022 bibtex gadzanku, sika, et al. \"an updated review of the solar pv installation workforce literature.\" , apr. 2023. https://doi.org/10.2172/1971876\\n\\n---\\n\\n### page 3\\n\\n\ud83d\uddce copy to clipboard gadzanku, sika, kramer, alexandra, & smith, brittany l. (2023). an updated review of the solar pv installation workforce literature. https:// doi.org/10.2172/1971876 \ud83d\uddce copy to clipboard gadzanku, sika, kramer, alexandra, and smith, brittany l., \"an updated review of the solar pv installation workforce literature,\" (2023), https://doi.org/10.2172/1971876 \ud83d\uddce copy to clipboard @techreport{osti_1971876, author = {gadzanku, sika and kramer, alexandra and smith, brittany l.}, title = {an updated review of the solar pv installation workforce literature}, institution = {national renewable energy laboratory (nrel), golden, co (united states)}, annote = {in order to develop a well-trained, equitable, and inclusive workforce with high quality jobs, the doe solar energy technologies office (seto) identified a need for analytical context around different pv project characteristics and labor aspects, and how they might impact workforce wellbeing and pv industry growth. to determine the most valuable novel analytical contributions, this work reviews existing literature on solar workforce topics to identify what areas have been studied previously and where gaps remain. focus areas included the following topics: (1) metrics for solar workforce, deployment, costs, and associated studies capturing aspects such as demographics and regional distribution, (2) solar workforce wellbeing, including employee contracting mechanisms, compensation, occupational safety and health, and community impacts, (3) national and state policies most relevant to the u.s. solar workforce, and (4) ongoing efforts to expand solar\\n\\n---\\n\\n### page 4\\n\\nworkforce participation, including local staffing dynamics, challenges, and relevant strategies.}, doi = {10.2172/1971876}, url = {https:// www.osti.gov/biblio/1971876}, place = {united states}, year = {2023}, month = {04}} \ud83d\uddce copy to clipboard export \u2022 endnote \u2022 ris \u2022 csv/excel \u2022 xml \u2022 json share \u2022 facebook \u2022 twitter / x \u2022 linkedin \u2022 email save you must sign in or create an account in order to save documents to your library. print details similar records / subjects research organization: national renewable energy laboratory (nrel), golden, co (united states) sponsoring organization: usdoe office of energy efficiency and renewable energy (eere), renewable power office. solar energy technologies office doe contract number:\\n\\n---\\n\\n### page 5\\n\\nac36-08go28308 osti id: 1971876 report number(s): nrel/tp-7a40-83652; mainid:84425; uuid:17588e5d- c7e8-4982-a200-15d20692e36b; mainadminid:69332 country of publication: united states language: english similar records solar energy technologies office workforce request for information and convenings (summary) technical report \u00b7 thu jul 01 00:00:00 edt 2021 \u00b7 osti id:1859676 application of manufacturing quality"
+    ],
+    "commercial_solutions_vendors": [
+      "department of energy",
+      "doe",
+      "english similar records solar energy",
+      "national renewable energy laboratory",
+      "nrel",
+      "renewable power",
+      "solar energy",
+      "the doe solar energy",
+      "usdoe office of energy efficiency and renewable energy"
+    ],
+    "standards_protocols": [],
+    "keywords_phrases": [
+      "renewable",
+      "solar"
+    ]
+  },
+  "keywords_phrases": []
+}

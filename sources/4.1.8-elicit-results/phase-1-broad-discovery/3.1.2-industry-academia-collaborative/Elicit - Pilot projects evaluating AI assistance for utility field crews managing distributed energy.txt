@@ -1,0 +1,17 @@
+Recent pilot projects have explored AI and augmented reality applications to enhance utility field operations and grid management. Studies have evaluated assisted reality for maintenance activities (Almeida et al., 2021) and remote assistance for electric power workers (Lodetti et al., 2021). AI solutions are being developed for safety enhancement in field operations (Iaccarino et al., 2023), condition monitoring, and demand-side management in distribution grids (Vögele et al., 2020). Research has focused on AI applications for distributed energy systems planning and operation (Arévalo & Jurado, 2024), as well as accelerating AI deployment on the grid through sensor networks and cloud-based platforms (Murphy et al., 2020). Projects like GridSense have tested decentralized AI for grid resilience (Ulbig et al., 2016). Efforts are also underway to develop AI assistants for power grid operators to help manage increasing complexity (Marot et al., 2020). These initiatives aim to improve efficiency, safety, and decision-making in utility operations as the energy landscape evolves.
+
+Almeida, B., Bolas, J. M., Santos, R. J., Teodoro, J. M., Bento, J., Matos, L., Romão, E., & Guerreiro, F. (2021). APPLICATION OF ASSISTED REALITY AT MAINTENANCE ACTIVITIES: E-REDES’ PILOT PROJECT RESULTS. IET Conference Proceedings, 2021(6), 1260–1264. https://doi.org/10.1049/icp.2021.2090
+
+Ulbig, A., Cajoos, D., Gasche, M., Laeser, M., Koch, S., Hoffmann, R., SchäRer, R., Staudinger, M., Ferrucci, F., Albisetti, G., & Galli, D. (2016). GridSense Sologrid Pilot Project - Using Decentralized Artificial Intelligence for Making Distribution Grids Resilient. CIRED Workshop 2016, 150 (3 .)-150 (3 .). https://doi.org/10.1049/cp.2016.0750
+
+Iaccarino, A., Gaitán Poyatos, C., Chiovoloni, F., González Gómez, N., d’Angelo, S., & Petruzzi, J. (2023). How disruptive artificial intelligence solutions can enhance safety of field operations in the electrical sector. IET Conference Proceedings, 2023(6), 2039–2043. https://doi.org/10.1049/icp.2023.1158
+
+Vögele, T., Backe, C., Bande, M., Conradi, P., Hovila, P., Kauhaniemi, K., Kumar, H., Kyntäjä, T., Rita-Kasari, M., Shafiq, M., Werner, S., & Wiezorek, C. (2020). FUSE – using artificial intelligence in the energy grid of tomorrow. CIRED - Open Access Proceedings Journal, 2020(1), 466–468. https://doi.org/10.1049/oap-cired.2021.0091
+
+Arévalo, P., & Jurado, F. (2024). Impact of Artificial Intelligence on the Planning and Operation of Distributed Energy Systems in Smart Grids. Energies, 17(17), 4501. https://doi.org/10.3390/en17174501
+
+Murphy, S., Jones, K., Laughner, T., Bariya, M., & Von Meier, A. (2020). Accelerating Artificial Intelligence on the Grid. 2020 Clemson University Power Systems Conference (PSC), 1–7. https://doi.org/10.1109/psc50246.2020.9131317
+
+Lodetti, P. Z., Joao, D. V., Martins, M. A. I., & Almeida, J. F. B. (2021). Remote Assistance through Augmented Reality for the Electric Power Workforce. 2021 Asian Conference on Innovation in Technology (ASIANCON), 1–6. https://doi.org/10.1109/asiancon51346.2021.9544556
+
+Marot, A., Rozier, A., Dussartre, M., Crochepierre, L., & Donnot, B. (2022). Towards an AI Assistant for Power Grid Operators. In Frontiers in Artificial Intelligence and Applications. IOS Press. https://doi.org/10.3233/faia220191

@@ -1,0 +1,17 @@
+The integration of Distributed Energy Resources (DERs) in power systems presents both challenges and opportunities for utilities. Case studies demonstrate that DERs can provide grid services like frequency regulation and voltage control (Hooshyar et al., 2023; Robbins et al., 2011). However, their integration requires new management approaches, including Distributed Energy Resource Management Systems (DERMS) and hierarchical control frameworks (Strezoski et al., 2022; Xia et al., 2019). Utilities face challenges such as poor observability, reverse power flow, and protection system maloperation (Strezoski et al., 2022). Microgrids are emerging as a solution to increase grid resiliency, but their implementation requires careful consideration of control strategies (Vukojevic et al., 2020). Data-driven approaches, like anomaly detection using Empirical Mode Decomposition, can enhance system reliability and optimize energy management in DER-integrated systems (Sarangi et al., 2024). The transition to DER-rich grids necessitates reforms in utility business models and regulatory frameworks (Tabors et al., 2016; Wakefield et al., 2013).
+
+Hooshyar, H., Kadavil, R., Paduani, V., Haddadi, A., Jakaria, A., Huque, A., & Stefopoulos, G. (2023). Grid Services by Behind-the-Meter Distributed Energy Resources: NY State Grid Case Study. 2023 IEEE Power &amp; Energy Society General Meeting (PESGM), 1–5. https://doi.org/10.1109/pesgm52003.2023.10253349
+
+Tabors, R. D., He, H., & Birk, M. (2016). The Impact of Distributed Energy Resources on Incumbent Utilities: A Case Study of Long Island, New York. 2016 49th Hawaii International Conference on System Sciences (HICSS), 2576–2583. https://doi.org/10.1109/hicss.2016.321
+
+Wakefield, M., Green, J., Horst, G., Green, B., & Simmins, J. (2013). Understanding and applying research results from over 13 case studies integrating DER from EPRI’S smart grid demonstration initiative. 22nd International Conference and Exhibition on Electricity Distribution (CIRED 2013), 0230–0230. https://doi.org/10.1049/cp.2013.0620
+
+Xia, S., Bu, S., Wan, C., Lu, X., Chan, K. W., & Zhou, B. (2019). A Fully Distributed Hierarchical Control Framework for Coordinated Operation of DERs in Active Distribution Power Networks. IEEE Transactions on Power Systems, 34(6), 5184–5197. https://doi.org/10.1109/tpwrs.2018.2870153
+
+Robbins, B. A., Domínguez-García, A. D., & Hadjicostis, C. N. (2011). Control of distributed energy resources for reactive power support. 2011 North American Power Symposium, 1–5. https://doi.org/10.1109/naps.2011.6025123
+
+Strezoski, L., Padullaparti, H., Ding, F., & Baggu, M. (2022). Integration of Utility Distributed Energy Resource Management System and Aggregators for Evolving Distribution System Operators. Journal of Modern Power Systems and Clean Energy, 10(2), 277–285. https://doi.org/10.35833/mpce.2021.000667
+
+Vukojevic, A., Lukic, S., & White, L. W. (2020). Implementing an Electric Utility Microgrid: Lessons learned. IEEE Electrification Magazine, 8(1), 24–36. https://doi.org/10.1109/mele.2019.2962887
+
+Sarangi, R. R., Ray, P. K., Mohanty, S. R., Karmarkar, S., & Mohanty, A. (2024). A Data Driven Approach for Anomaly Detection in Renewable Energy Integrated Power Systems. 2024 IEEE Power &amp; Energy Society General Meeting (PESGM), 1–5. https://doi.org/10.1109/pesgm51994.2024.10688531

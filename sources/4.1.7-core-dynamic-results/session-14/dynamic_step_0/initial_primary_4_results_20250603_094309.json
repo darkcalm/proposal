@@ -1,0 +1,458 @@
+{
+  "totalHitsEncounteredAcrossPages": 771,
+  "retrievedCountForThisQuery": 16,
+  "searchIdentifier": "initial_primary_4",
+  "originalQuery": "Addressing communication inefficiencies with AI agent assistance in decentralized energy (DER) operator tasks",
+  "results": [
+    {
+      "id": 83407146,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+      "publisher": "UF Law Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 96041778,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+      "publisher": "Yale Law School Legal Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 7141083,
+      "doi": "10.2139/ssrn.1516263",
+      "title": "A Multi-Agent Energy Trading Competition",
+      "abstract": "The energy sector will undergo fundamental changes over the next ten years. Prices for fossil energy resources are continuously increasing, there is an urgent need to reduce CO2 emissions, and the United States and European Union are strongly motivated to become more independent from foreign energy imports. These factors will lead to installation of large numbers of distributed renewable energy generators, which are often intermittent in nature. This trend conflicts with the current power grid control infrastructure and strategies, where a few centralized control centers manage a limited number of large power plants such that their output meets the energy demands in real time. As the proportion of distributed and intermittent generation capacity increases, this task becomes much harder, especially as the local and regional distribution grids where renewable energy generators are usually installed are currently virtually unmanaged, lack real time metering and are not built to cope with power flow inversions (yet).\nAll this is about to change, and so the control strategies must be adapted accordingly. While the hierarchical command-and-control approach served well in a world with a few large scale generation facilities and many small consumers, a more flexible, decentralized, and self-organizing control infrastructure will have to be developed that can be actively managed to balance both the large grid as a whole, as well as the many lower voltage sub-grids.\nWe propose a competitive simulation test bed to stimulate research and development of electronic agents that help manage these tasks. Participants in the competition will develop intelligent agents that are responsible to level energy supply from generators with energy demand from consumers. The competition is designed to closely model reality by bootstrapping the simulation environment with real historic load, generation, and weather data. The simulation environment will provide a low-risk platform that combines simulated markets and real-world data to develop solutions that can be applied to help building the self-organizing intelligent energy grid of the future",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Block, C. (Carsten)"
+        },
+        {
+          "name": "Collins, J. (John)"
+        },
+        {
+          "name": "Ketter, W. (Wolfgang)"
+        },
+        {
+          "name": "Weinhardt, C. (Christof)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18511322.pdf",
+      "publisher": "Block, C. (Carsten)",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1556-5068"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 174765184,
+      "doi": "10.1109/tiv.2024.3408257",
+      "title": "Multi-Agent Reinforcement Learning: Methods, Applications, Visionary\n  Prospects, and Challenges",
+      "abstract": "Multi-agent reinforcement learning (MARL) is a widely used Artificial\nIntelligence (AI) technique. However, current studies and applications need to\naddress its scalability, non-stationarity, and trustworthiness. This paper aims\nto review methods and applications and point out research trends and visionary\nprospects for the next decade. First, this paper summarizes the basic methods\nand application scenarios of MARL. Second, this paper outlines the\ncorresponding research methods and their limitations on safety, robustness,\ngeneralization, and ethical constraints that need to be addressed in the\npractical applications of MARL. In particular, we believe that trustworthy MARL\nwill become a hot research topic in the next decade. In addition, we suggest\nthat considering human interaction is essential for the practical application\nof MARL in various societies. Therefore, this paper also analyzes the\nchallenges while MARL is applied to human-machine interaction.Comment: 43 pages, 5 figure",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Liu, Guanjun"
+        },
+        {
+          "name": "Tang, Ying"
+        },
+        {
+          "name": "Zhou, Ziyuan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2305.10091",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "text",
+      "topics": null
+    },
+    {
+      "id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306",
+      "title": "Towards next generation Internet of Energy system: Framework and trends",
+      "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Abhi, S.H."
+        },
+        {
+          "name": "Ahamed, Md. H."
+        },
+        {
+          "name": "Ali, Md. F."
+        },
+        {
+          "name": "Badal, Faisal R."
+        },
+        {
+          "name": "Das, Prangon"
+        },
+        {
+          "name": "Das, Sajal K."
+        },
+        {
+          "name": "Hasan, Md. Mehedi"
+        },
+        {
+          "name": "Islam, Md. Manirul"
+        },
+        {
+          "name": "Islam, Md. R."
+        },
+        {
+          "name": "Muqit, Farhan"
+        },
+        {
+          "name": "Muyeen, S M"
+        },
+        {
+          "name": "Reza, Tanzim N."
+        },
+        {
+          "name": "Sarker, Subrata K."
+        },
+        {
+          "name": "Tasneem, Z."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+      "publisher": "Elsevier",
+      "journals": [
+        {
+          "title": "Energy and AI",
+          "identifiers": [
+            "issn:2666-5468",
+            "2666-5468"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 155422607,
+      "doi": "10.3990/1.9789036560733",
+      "title": "Emergent Behaviors in a Resilient Logistics Supply Chain",
+      "abstract": "This PhD dissertation addresses vulnerabilities in logistics supply chains, such as disruptions from pandemics, natural disasters, and geopolitical tensions. It underscores the complexity of supply chains, likening them to socio-technical systems where resilience is key for managing unexpected events and thriving amidst adversity. The focus is on leveraging smart business objects\u2014exemplified by \u201csmart pallets\u201d with sensing and computational capabilities\u2014to augment real-time decision-making and resilience in supply chains. When strategically positioned within the supply network, these smart pallets can provide key insights into the movement of goods, enabling a rapid response to disruptions through real-time monitoring and predictive analytics. The dissertation investigates centralized, decentralized, and hybrid approaches to decision-making within these networks. Centralized methods ensure uniformity but may neglect local specifics, while decentralized ones offer adaptability at the risk of inconsistency. A hybrid model seeks to balance these extremes, combining broad guidelines with local autonomy for optimal resilience. This research aims to explore how such smart objects can anticipate and react to emergent behaviors, thereby augmenting supply chain resilience beyond mere performance indicators to actively managing and adapting to disruptions. Through various chapters, the dissertation offers an exploration, from designing resilient architectures and evaluating business rules in real-time to mining these rules from data and adapting them to evolving circumstances. Overall, this work presents a nuanced view of resilience in supply chains, emphasizing the adaptability of business rules, the importance of technological evolution alongside organizational practices, and the potential of integrating novel techniques such as process mining with multi-agent systems for better decision-making and operational efficiency",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-17T01:00:00",
+      "authors": [
+        {
+          "name": "Bemthuis, R.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/604657236.pdf",
+      "publisher": "University of Twente",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 83407146,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+      "publisher": "UF Law Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 96041778,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+      "publisher": "Yale Law School Legal Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 7141083,
+      "doi": "10.2139/ssrn.1516263",
+      "title": "A Multi-Agent Energy Trading Competition",
+      "abstract": "The energy sector will undergo fundamental changes over the next ten years. Prices for fossil energy resources are continuously increasing, there is an urgent need to reduce CO2 emissions, and the United States and European Union are strongly motivated to become more independent from foreign energy imports. These factors will lead to installation of large numbers of distributed renewable energy generators, which are often intermittent in nature. This trend conflicts with the current power grid control infrastructure and strategies, where a few centralized control centers manage a limited number of large power plants such that their output meets the energy demands in real time. As the proportion of distributed and intermittent generation capacity increases, this task becomes much harder, especially as the local and regional distribution grids where renewable energy generators are usually installed are currently virtually unmanaged, lack real time metering and are not built to cope with power flow inversions (yet).\nAll this is about to change, and so the control strategies must be adapted accordingly. While the hierarchical command-and-control approach served well in a world with a few large scale generation facilities and many small consumers, a more flexible, decentralized, and self-organizing control infrastructure will have to be developed that can be actively managed to balance both the large grid as a whole, as well as the many lower voltage sub-grids.\nWe propose a competitive simulation test bed to stimulate research and development of electronic agents that help manage these tasks. Participants in the competition will develop intelligent agents that are responsible to level energy supply from generators with energy demand from consumers. The competition is designed to closely model reality by bootstrapping the simulation environment with real historic load, generation, and weather data. The simulation environment will provide a low-risk platform that combines simulated markets and real-world data to develop solutions that can be applied to help building the self-organizing intelligent energy grid of the future",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Block, C. (Carsten)"
+        },
+        {
+          "name": "Collins, J. (John)"
+        },
+        {
+          "name": "Ketter, W. (Wolfgang)"
+        },
+        {
+          "name": "Weinhardt, C. (Christof)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18511322.pdf",
+      "publisher": "Block, C. (Carsten)",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1556-5068"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 174765184,
+      "doi": "10.1109/tiv.2024.3408257",
+      "title": "Multi-Agent Reinforcement Learning: Methods, Applications, Visionary\n  Prospects, and Challenges",
+      "abstract": "Multi-agent reinforcement learning (MARL) is a widely used Artificial\nIntelligence (AI) technique. However, current studies and applications need to\naddress its scalability, non-stationarity, and trustworthiness. This paper aims\nto review methods and applications and point out research trends and visionary\nprospects for the next decade. First, this paper summarizes the basic methods\nand application scenarios of MARL. Second, this paper outlines the\ncorresponding research methods and their limitations on safety, robustness,\ngeneralization, and ethical constraints that need to be addressed in the\npractical applications of MARL. In particular, we believe that trustworthy MARL\nwill become a hot research topic in the next decade. In addition, we suggest\nthat considering human interaction is essential for the practical application\nof MARL in various societies. Therefore, this paper also analyzes the\nchallenges while MARL is applied to human-machine interaction.Comment: 43 pages, 5 figure",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Liu, Guanjun"
+        },
+        {
+          "name": "Tang, Ying"
+        },
+        {
+          "name": "Zhou, Ziyuan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2305.10091",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "text",
+      "topics": null
+    },
+    {
+      "id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306",
+      "title": "Towards next generation Internet of Energy system: Framework and trends",
+      "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Abhi, S.H."
+        },
+        {
+          "name": "Ahamed, Md. H."
+        },
+        {
+          "name": "Ali, Md. F."
+        },
+        {
+          "name": "Badal, Faisal R."
+        },
+        {
+          "name": "Das, Prangon"
+        },
+        {
+          "name": "Das, Sajal K."
+        },
+        {
+          "name": "Hasan, Md. Mehedi"
+        },
+        {
+          "name": "Islam, Md. Manirul"
+        },
+        {
+          "name": "Islam, Md. R."
+        },
+        {
+          "name": "Muqit, Farhan"
+        },
+        {
+          "name": "Muyeen, S M"
+        },
+        {
+          "name": "Reza, Tanzim N."
+        },
+        {
+          "name": "Sarker, Subrata K."
+        },
+        {
+          "name": "Tasneem, Z."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+      "publisher": "Elsevier",
+      "journals": [
+        {
+          "title": "Energy and AI",
+          "identifiers": [
+            "issn:2666-5468",
+            "2666-5468"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 155422607,
+      "doi": "10.3990/1.9789036560733",
+      "title": "Emergent Behaviors in a Resilient Logistics Supply Chain",
+      "abstract": "This PhD dissertation addresses vulnerabilities in logistics supply chains, such as disruptions from pandemics, natural disasters, and geopolitical tensions. It underscores the complexity of supply chains, likening them to socio-technical systems where resilience is key for managing unexpected events and thriving amidst adversity. The focus is on leveraging smart business objects\u2014exemplified by \u201csmart pallets\u201d with sensing and computational capabilities\u2014to augment real-time decision-making and resilience in supply chains. When strategically positioned within the supply network, these smart pallets can provide key insights into the movement of goods, enabling a rapid response to disruptions through real-time monitoring and predictive analytics. The dissertation investigates centralized, decentralized, and hybrid approaches to decision-making within these networks. Centralized methods ensure uniformity but may neglect local specifics, while decentralized ones offer adaptability at the risk of inconsistency. A hybrid model seeks to balance these extremes, combining broad guidelines with local autonomy for optimal resilience. This research aims to explore how such smart objects can anticipate and react to emergent behaviors, thereby augmenting supply chain resilience beyond mere performance indicators to actively managing and adapting to disruptions. Through various chapters, the dissertation offers an exploration, from designing resilient architectures and evaluating business rules in real-time to mining these rules from data and adapting them to evolving circumstances. Overall, this work presents a nuanced view of resilience in supply chains, emphasizing the adaptability of business rules, the importance of technological evolution alongside organizational practices, and the potential of integrating novel techniques such as process mining with multi-agent systems for better decision-making and operational efficiency",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-17T01:00:00",
+      "authors": [
+        {
+          "name": "Bemthuis, R.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/604657236.pdf",
+      "publisher": "University of Twente",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

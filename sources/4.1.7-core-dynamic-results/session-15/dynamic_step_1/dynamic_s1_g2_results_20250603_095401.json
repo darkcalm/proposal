@@ -1,0 +1,1364 @@
+{
+  "totalHitsEncounteredAcrossPages": 17204,
+  "retrievedCountForThisQuery": 27,
+  "searchIdentifier": "dynamic_s1_g2",
+  "originalQuery": "(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) AND \"interactions\"",
+  "results": [
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 173792483,
+      "doi": "10.5445/ir/1000178670",
+      "title": "Agent-based modeling: Insights into consumer behavior, urban dynamics, grid management, and market interactions",
+      "abstract": "A future sustainable energy system is expected to be digital, de-central, de-carbonized, and democratized. As the transition unfolds, new and diverse actors of various sizes will emerge in different segments. Thereby, the future energy system could shift its attention to the actors\u2019 behavior than finding an optimum based on the physical system. Agent based modeling tools can reflect decisions from several actors in a decentralized and digital market setting. Then, such tools can enable a sustainable energy transition.\n\t\t\t\t\t\tThis work sets out to investigate how agent-based models could tackle various challenges in energy transition. This investigation covers four segments of the energy system \u2014 consumer, city, microgrid, and market. It starts with the consumer where consumer behavior is modeled. From there, expands to a city level where the dynamic characteristics of a city are simulated. The next step is distributed microgrids, particularly how to optimally plan the grid expansions. The final step in the investigation is simulating an energy market with national and international stakeholders. The selection of models presents how agent-based models can be applied to decision-making processes in the aforementioned segments. Then a novel framework with metrics for characterization is proposed and validated that addresses the challenge \u2014 which are the characteristics that make an agent-based model a better fit to tackle a modeling objective? Additionally, the framework identifies the existing knowledge gaps and the scope for further developments.\n\t\t\t\t\tIn summary, this work outlines how far agent-based models have come to tackle energy system challenges to sustain the energy transition. This work specifically highlights the scope, advantages, challenges, and trends of the agent-based models in energy sector applications. Moreover, this study finds that agent-based models reflect what a solution could be more than the traditional modeling practice that focuses on what a solution should be",
+      "yearPublished": 2025,
+      "publishedDate": "2025-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Bordin, Chiara"
+        },
+        {
+          "name": "Egner, Lars Even"
+        },
+        {
+          "name": "Hellemo, Lars"
+        },
+        {
+          "name": "Jaehnert, Stefan"
+        },
+        {
+          "name": "Mishra, Sambeet"
+        },
+        {
+          "name": "Petersen, Sobah Abbas"
+        },
+        {
+          "name": "Signer, Tim"
+        },
+        {
+          "name": "Silva, Thiago Lima"
+        },
+        {
+          "name": "Zimmermann, Florian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/651191587.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article text",
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 163192082,
+      "doi": null,
+      "title": "Final report: Integrated business platform of distributed energy resources \u2013 HEILA",
+      "abstract": "Energy systems are in a major process of transition from both technology and business perspective. The amount of distributed generation is increasing, load profiles are changing and new types of controllable and uncontrollable resources are being connected to the system (e.g. storage units, electric vehicles). In general, these resources are called distributed energy resources (DERs). The role of microgrids, energy communities and aggregators (virtual power plants) is being particularly emphasized in the electrical system because they create an opportunity for new kind of flexibility provided by DERs, but also introduce new challenges to energy system management. Business potential of intelligent energy solutions is enormous but there are still major barriers that block most of the novel business opportunities in the present energy system. One of the most significant technical barrier is the lack of widely accepted interoperable information exchange solution (data model and interfaces) that is easily accessible and fulfills business needs by all parties dealing with the energy system.\r\n HEILA project aims to define, implement and demonstrate an integrated business platform of DERs for information exchange between energy market participants. The first implementation of such a platform will be realized during the project to integrate smart grid demonstrations in Finland to develop, test, pilot and finally also commercialize new smart energy system functionalities consisting of interactions and impacts of multiple participants. Development of such a system begins as a national smart grid demonstration platform in Finland but will be designed to support Europe wide deployment of the system.Publishers versio",
+      "yearPublished": 2019,
+      "publishedDate": "2019-09-12T01:00:00",
+      "authors": [
+        {
+          "name": "Abdurafikov, Rinat"
+        },
+        {
+          "name": "Aro, Matti"
+        },
+        {
+          "name": "Honkapuro, Samuli"
+        },
+        {
+          "name": "Jafary, Peyman"
+        },
+        {
+          "name": "J\u00e4rventausta, Pertti"
+        },
+        {
+          "name": "Keski-Koukkari, Antti"
+        },
+        {
+          "name": "Kulmala, Anna"
+        },
+        {
+          "name": "Markkula, Joni"
+        },
+        {
+          "name": "Mashlakov, Aleksei"
+        },
+        {
+          "name": "Partanen, Jarmo"
+        },
+        {
+          "name": "Repo, Sami"
+        },
+        {
+          "name": "Romanenko, Aleksei"
+        },
+        {
+          "name": "Supponen, Antti"
+        },
+        {
+          "name": "Tikka, Ville"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630290744.pdf",
+      "publisher": "LUT University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158043564,
+      "doi": "10.1016/j.cities.2024.105198",
+      "title": "Decentralized AIoT based intelligence for sustainable energy prosumption in local energy communities: A citizen-centric prosumer approach",
+      "abstract": "The role of prosumers who are consumers who produce, store, and consume energy is vital to the uptake of renewable energies in Local Energy Communities (LEC). However, the integration of prosumers in the smart grid to facilitate bidirectional flows of energy and information depends on intelligent operations of energy systems and flexible structures of the existing energy markets. But existing energy trading mechanisms are faced with issues of trust, privacy, security, and energy pricing determination. Also, there are fewer studies based on a citizen-centric prosumer approach. Thus, there is need to provide reliable solutions that addresses the aforementioned challenges faced by prosumers in LEC. Advancements in disruptive technologies, such as Distributed Ledger Technologies (DLT), Artificial Intelligence (AI), and the Internet of Things (IoT) have transformed a broad spectrum of intelligent systems in smart cities. Therefore, this study examines the integration of AI and IoT as AIoT and DLT towards a citizen-centric prosumer approach for decentralized energy markets trading. Additionally, this article develops an architectural model for energy prosumption in LEC using design science approach based on a user-centred design method that shows a possible implementation concept to support energy sharing and trading in LEC. The architectural model supports trust, data privacy, security, and energy pricing determination using AI and smart contracts to provides real-time energy trading monitoring, easy access, control, and immutable logs to unearth underlying energy demand and supply patterns thereby supporting citizen-centric prosumer approach. Finally, a use case scenario of DLT and AIoT for prosumption operations is presented.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Bokolo, Anthony Junior"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617931448.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 173792483,
+      "doi": "10.5445/ir/1000178670",
+      "title": "Agent-based modeling: Insights into consumer behavior, urban dynamics, grid management, and market interactions",
+      "abstract": "A future sustainable energy system is expected to be digital, de-central, de-carbonized, and democratized. As the transition unfolds, new and diverse actors of various sizes will emerge in different segments. Thereby, the future energy system could shift its attention to the actors\u2019 behavior than finding an optimum based on the physical system. Agent based modeling tools can reflect decisions from several actors in a decentralized and digital market setting. Then, such tools can enable a sustainable energy transition.\n\t\t\t\t\t\tThis work sets out to investigate how agent-based models could tackle various challenges in energy transition. This investigation covers four segments of the energy system \u2014 consumer, city, microgrid, and market. It starts with the consumer where consumer behavior is modeled. From there, expands to a city level where the dynamic characteristics of a city are simulated. The next step is distributed microgrids, particularly how to optimally plan the grid expansions. The final step in the investigation is simulating an energy market with national and international stakeholders. The selection of models presents how agent-based models can be applied to decision-making processes in the aforementioned segments. Then a novel framework with metrics for characterization is proposed and validated that addresses the challenge \u2014 which are the characteristics that make an agent-based model a better fit to tackle a modeling objective? Additionally, the framework identifies the existing knowledge gaps and the scope for further developments.\n\t\t\t\t\tIn summary, this work outlines how far agent-based models have come to tackle energy system challenges to sustain the energy transition. This work specifically highlights the scope, advantages, challenges, and trends of the agent-based models in energy sector applications. Moreover, this study finds that agent-based models reflect what a solution could be more than the traditional modeling practice that focuses on what a solution should be",
+      "yearPublished": 2025,
+      "publishedDate": "2025-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Bordin, Chiara"
+        },
+        {
+          "name": "Egner, Lars Even"
+        },
+        {
+          "name": "Hellemo, Lars"
+        },
+        {
+          "name": "Jaehnert, Stefan"
+        },
+        {
+          "name": "Mishra, Sambeet"
+        },
+        {
+          "name": "Petersen, Sobah Abbas"
+        },
+        {
+          "name": "Signer, Tim"
+        },
+        {
+          "name": "Silva, Thiago Lima"
+        },
+        {
+          "name": "Zimmermann, Florian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/651191587.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article text",
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 163192082,
+      "doi": null,
+      "title": "Final report: Integrated business platform of distributed energy resources \u2013 HEILA",
+      "abstract": "Energy systems are in a major process of transition from both technology and business perspective. The amount of distributed generation is increasing, load profiles are changing and new types of controllable and uncontrollable resources are being connected to the system (e.g. storage units, electric vehicles). In general, these resources are called distributed energy resources (DERs). The role of microgrids, energy communities and aggregators (virtual power plants) is being particularly emphasized in the electrical system because they create an opportunity for new kind of flexibility provided by DERs, but also introduce new challenges to energy system management. Business potential of intelligent energy solutions is enormous but there are still major barriers that block most of the novel business opportunities in the present energy system. One of the most significant technical barrier is the lack of widely accepted interoperable information exchange solution (data model and interfaces) that is easily accessible and fulfills business needs by all parties dealing with the energy system.\r\n HEILA project aims to define, implement and demonstrate an integrated business platform of DERs for information exchange between energy market participants. The first implementation of such a platform will be realized during the project to integrate smart grid demonstrations in Finland to develop, test, pilot and finally also commercialize new smart energy system functionalities consisting of interactions and impacts of multiple participants. Development of such a system begins as a national smart grid demonstration platform in Finland but will be designed to support Europe wide deployment of the system.Publishers versio",
+      "yearPublished": 2019,
+      "publishedDate": "2019-09-12T01:00:00",
+      "authors": [
+        {
+          "name": "Abdurafikov, Rinat"
+        },
+        {
+          "name": "Aro, Matti"
+        },
+        {
+          "name": "Honkapuro, Samuli"
+        },
+        {
+          "name": "Jafary, Peyman"
+        },
+        {
+          "name": "J\u00e4rventausta, Pertti"
+        },
+        {
+          "name": "Keski-Koukkari, Antti"
+        },
+        {
+          "name": "Kulmala, Anna"
+        },
+        {
+          "name": "Markkula, Joni"
+        },
+        {
+          "name": "Mashlakov, Aleksei"
+        },
+        {
+          "name": "Partanen, Jarmo"
+        },
+        {
+          "name": "Repo, Sami"
+        },
+        {
+          "name": "Romanenko, Aleksei"
+        },
+        {
+          "name": "Supponen, Antti"
+        },
+        {
+          "name": "Tikka, Ville"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630290744.pdf",
+      "publisher": "LUT University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158043564,
+      "doi": "10.1016/j.cities.2024.105198",
+      "title": "Decentralized AIoT based intelligence for sustainable energy prosumption in local energy communities: A citizen-centric prosumer approach",
+      "abstract": "The role of prosumers who are consumers who produce, store, and consume energy is vital to the uptake of renewable energies in Local Energy Communities (LEC). However, the integration of prosumers in the smart grid to facilitate bidirectional flows of energy and information depends on intelligent operations of energy systems and flexible structures of the existing energy markets. But existing energy trading mechanisms are faced with issues of trust, privacy, security, and energy pricing determination. Also, there are fewer studies based on a citizen-centric prosumer approach. Thus, there is need to provide reliable solutions that addresses the aforementioned challenges faced by prosumers in LEC. Advancements in disruptive technologies, such as Distributed Ledger Technologies (DLT), Artificial Intelligence (AI), and the Internet of Things (IoT) have transformed a broad spectrum of intelligent systems in smart cities. Therefore, this study examines the integration of AI and IoT as AIoT and DLT towards a citizen-centric prosumer approach for decentralized energy markets trading. Additionally, this article develops an architectural model for energy prosumption in LEC using design science approach based on a user-centred design method that shows a possible implementation concept to support energy sharing and trading in LEC. The architectural model supports trust, data privacy, security, and energy pricing determination using AI and smart contracts to provides real-time energy trading monitoring, easy access, control, and immutable logs to unearth underlying energy demand and supply patterns thereby supporting citizen-centric prosumer approach. Finally, a use case scenario of DLT and AIoT for prosumption operations is presented.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Bokolo, Anthony Junior"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617931448.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 173792483,
+      "doi": "10.5445/ir/1000178670",
+      "title": "Agent-based modeling: Insights into consumer behavior, urban dynamics, grid management, and market interactions",
+      "abstract": "A future sustainable energy system is expected to be digital, de-central, de-carbonized, and democratized. As the transition unfolds, new and diverse actors of various sizes will emerge in different segments. Thereby, the future energy system could shift its attention to the actors\u2019 behavior than finding an optimum based on the physical system. Agent based modeling tools can reflect decisions from several actors in a decentralized and digital market setting. Then, such tools can enable a sustainable energy transition.\n\t\t\t\t\t\tThis work sets out to investigate how agent-based models could tackle various challenges in energy transition. This investigation covers four segments of the energy system \u2014 consumer, city, microgrid, and market. It starts with the consumer where consumer behavior is modeled. From there, expands to a city level where the dynamic characteristics of a city are simulated. The next step is distributed microgrids, particularly how to optimally plan the grid expansions. The final step in the investigation is simulating an energy market with national and international stakeholders. The selection of models presents how agent-based models can be applied to decision-making processes in the aforementioned segments. Then a novel framework with metrics for characterization is proposed and validated that addresses the challenge \u2014 which are the characteristics that make an agent-based model a better fit to tackle a modeling objective? Additionally, the framework identifies the existing knowledge gaps and the scope for further developments.\n\t\t\t\t\tIn summary, this work outlines how far agent-based models have come to tackle energy system challenges to sustain the energy transition. This work specifically highlights the scope, advantages, challenges, and trends of the agent-based models in energy sector applications. Moreover, this study finds that agent-based models reflect what a solution could be more than the traditional modeling practice that focuses on what a solution should be",
+      "yearPublished": 2025,
+      "publishedDate": "2025-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Bordin, Chiara"
+        },
+        {
+          "name": "Egner, Lars Even"
+        },
+        {
+          "name": "Hellemo, Lars"
+        },
+        {
+          "name": "Jaehnert, Stefan"
+        },
+        {
+          "name": "Mishra, Sambeet"
+        },
+        {
+          "name": "Petersen, Sobah Abbas"
+        },
+        {
+          "name": "Signer, Tim"
+        },
+        {
+          "name": "Silva, Thiago Lima"
+        },
+        {
+          "name": "Zimmermann, Florian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/651191587.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article text",
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 163192082,
+      "doi": null,
+      "title": "Final report: Integrated business platform of distributed energy resources \u2013 HEILA",
+      "abstract": "Energy systems are in a major process of transition from both technology and business perspective. The amount of distributed generation is increasing, load profiles are changing and new types of controllable and uncontrollable resources are being connected to the system (e.g. storage units, electric vehicles). In general, these resources are called distributed energy resources (DERs). The role of microgrids, energy communities and aggregators (virtual power plants) is being particularly emphasized in the electrical system because they create an opportunity for new kind of flexibility provided by DERs, but also introduce new challenges to energy system management. Business potential of intelligent energy solutions is enormous but there are still major barriers that block most of the novel business opportunities in the present energy system. One of the most significant technical barrier is the lack of widely accepted interoperable information exchange solution (data model and interfaces) that is easily accessible and fulfills business needs by all parties dealing with the energy system.\r\n HEILA project aims to define, implement and demonstrate an integrated business platform of DERs for information exchange between energy market participants. The first implementation of such a platform will be realized during the project to integrate smart grid demonstrations in Finland to develop, test, pilot and finally also commercialize new smart energy system functionalities consisting of interactions and impacts of multiple participants. Development of such a system begins as a national smart grid demonstration platform in Finland but will be designed to support Europe wide deployment of the system.Publishers versio",
+      "yearPublished": 2019,
+      "publishedDate": "2019-09-12T01:00:00",
+      "authors": [
+        {
+          "name": "Abdurafikov, Rinat"
+        },
+        {
+          "name": "Aro, Matti"
+        },
+        {
+          "name": "Honkapuro, Samuli"
+        },
+        {
+          "name": "Jafary, Peyman"
+        },
+        {
+          "name": "J\u00e4rventausta, Pertti"
+        },
+        {
+          "name": "Keski-Koukkari, Antti"
+        },
+        {
+          "name": "Kulmala, Anna"
+        },
+        {
+          "name": "Markkula, Joni"
+        },
+        {
+          "name": "Mashlakov, Aleksei"
+        },
+        {
+          "name": "Partanen, Jarmo"
+        },
+        {
+          "name": "Repo, Sami"
+        },
+        {
+          "name": "Romanenko, Aleksei"
+        },
+        {
+          "name": "Supponen, Antti"
+        },
+        {
+          "name": "Tikka, Ville"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630290744.pdf",
+      "publisher": "LUT University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158043564,
+      "doi": "10.1016/j.cities.2024.105198",
+      "title": "Decentralized AIoT based intelligence for sustainable energy prosumption in local energy communities: A citizen-centric prosumer approach",
+      "abstract": "The role of prosumers who are consumers who produce, store, and consume energy is vital to the uptake of renewable energies in Local Energy Communities (LEC). However, the integration of prosumers in the smart grid to facilitate bidirectional flows of energy and information depends on intelligent operations of energy systems and flexible structures of the existing energy markets. But existing energy trading mechanisms are faced with issues of trust, privacy, security, and energy pricing determination. Also, there are fewer studies based on a citizen-centric prosumer approach. Thus, there is need to provide reliable solutions that addresses the aforementioned challenges faced by prosumers in LEC. Advancements in disruptive technologies, such as Distributed Ledger Technologies (DLT), Artificial Intelligence (AI), and the Internet of Things (IoT) have transformed a broad spectrum of intelligent systems in smart cities. Therefore, this study examines the integration of AI and IoT as AIoT and DLT towards a citizen-centric prosumer approach for decentralized energy markets trading. Additionally, this article develops an architectural model for energy prosumption in LEC using design science approach based on a user-centred design method that shows a possible implementation concept to support energy sharing and trading in LEC. The architectural model supports trust, data privacy, security, and energy pricing determination using AI and smart contracts to provides real-time energy trading monitoring, easy access, control, and immutable logs to unearth underlying energy demand and supply patterns thereby supporting citizen-centric prosumer approach. Finally, a use case scenario of DLT and AIoT for prosumption operations is presented.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Bokolo, Anthony Junior"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617931448.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Field trials of AI-assisted communication protocols in utility operations have shown promising results across various applications. Early trials focused on metering systems for water, gas, and electricity utilities (Newbury, 1996). More recent studies have explored AI deployment in field service operations, identifying critical success factors such as standard protocols and people-centric approaches (Wang et al., 2021). Power line communications have been tested for fault detection in distribution systems (Jee et al., 2005), while high-speed communication-assisted tripping and sectionalizing have improved reliability in networked distribution systems (Turner, 2012). AI and automation have enhanced water distribution network monitoring, particularly during the COVID-19 pandemic (Quail, 2020). Quality-of-service considerations in utility communication networks have been examined (Hopkinson et al., 2009), and the first field trial of an LLM-powered AI agent for autonomous driving optical networks has demonstrated efficient wavelength management and fault handling (Liu et al., 2024).
+
+Newbury, J. (1996). Communications field trials for total utility metering. IEEE Transactions on Power Delivery, 11(2), 690–695. https://doi.org/10.1109/61.489324
+
+Wang, Y., Skeete, J.-P., & Owusu, G. (2021). Understanding the implications of artificial intelligence on field service operations: a case study of BT. Production Planning &amp; Control, 33(16), 1591–1607. https://doi.org/10.1080/09537287.2021.1882694
+
+Jee, G., Sciano, D., Rao, R., Cern, Y., & Nugent, B. (2005). Field trials of utility applications employing Ambient Corporation power line communications at Consolidated Edison. International Symposium on Power Line Communications and Its Applications, 2005., 381–384. https://doi.org/10.1109/isplc.2005.1430535
+
+Turner, S. (2012). High-speed communication-assisted tripping and sectionalizing for distribution systems. 2012 65th Annual Conference for Protective Relay Engineers, 129–136. https://doi.org/10.1109/cpre.2012.6201227
+
+Goldberg, L., & Quail, E. (2020). Leverage Utility Management and Artificial Intelligence in Today’s COVID‐19 World. Opflow, 46(9), 22–24. https://doi.org/10.1002/opfl.1425
+
+Hopkinson, K., Roberts, G., Xiaoru Wang, & Thorp, J. (2010). Quality of service considerations in utility communication networks. IEEE PES General Meeting, 1–1. https://doi.org/10.1109/pes.2010.5589274
+
+Turner, S. (2012). High-speed communication-assisted tripping and sectionalizing for distribution systems. 2012 IEEE PES Innovative Smart Grid Technologies (ISGT), 1–6. https://doi.org/10.1109/isgt.2012.6175677
+
+Liu, X., Qiu, Q., Zhang, Y., Cheng, Y., Yi, L., Hu, W., & Zhuge, Q. (2024). First Field Trial of LLM-Powered AI Agent for Lifecycle Management of Autonomous Driving Optical Networks. In arXiv.org (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2409.14605

@@ -1,0 +1,635 @@
+{
+  "totalHitsEncounteredAcrossPages": 1024,
+  "retrievedCountForThisQuery": 27,
+  "searchIdentifier": "initial_tertiary_1",
+  "originalQuery": "Manual task automation AND augmentation in DER lifecycle (installation, maintenance, operation)",
+  "results": [
+    {
+      "id": 145571978,
+      "doi": null,
+      "title": "MLOps: A Review",
+      "abstract": "Recently, Machine Learning (ML) has become a widely accepted method for\nsignificant progress that is rapidly evolving. Since it employs computational\nmethods to teach machines and produce acceptable answers. The significance of\nthe Machine Learning Operations (MLOps) methods, which can provide acceptable\nanswers for such problems, is examined in this study. To assist in the creation\nof software that is simple to use, the authors research MLOps methods. To\nchoose the best tool structure for certain projects, the authors also assess\nthe features and operability of various MLOps methods. A total of 22 papers\nwere assessed that attempted to apply the MLOps idea. Finally, the authors\nadmit the scarcity of fully effective MLOps methods based on which advancements\ncan self-regulate by limiting human engagement",
+      "yearPublished": 2023,
+      "publishedDate": "2023-08-19T01:00:00",
+      "authors": [
+        {
+          "name": "Kashyap, Gautam Siddharth"
+        },
+        {
+          "name": "Saxena, Parag"
+        },
+        {
+          "name": "Wazir, Samar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2308.10908",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 24877443,
+      "doi": null,
+      "title": "Third Conference on Artificial Intelligence for Space Applications, part 2",
+      "abstract": "Topics relative to the application of artificial intelligence to space operations are discussed. New technologies for space station automation, design data capture, computer vision, neural nets,  automatic programming, and real time applications  are discussed",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Denton, Judith S."
+        },
+        {
+          "name": "Freeman, Michael S."
+        },
+        {
+          "name": "Vereen, Mary"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42832274.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 152743312,
+      "doi": "10.22260/isarc2022/0003",
+      "title": "A framework for a comprehensive mobile data acquisition setting for the assessment of Urban Heat Island phenomenon",
+      "abstract": null,
+      "yearPublished": 2022,
+      "publishedDate": "2022-07-01T01:00:00",
+      "authors": [
+        {
+          "name": "Doree, Andre"
+        },
+        {
+          "name": "Pena Acosta, M."
+        },
+        {
+          "name": "Santos, Joao"
+        },
+        {
+          "name": "Vahdatikhaki, Faridaddin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/572226009.pdf",
+      "publisher": "International Association for Automation and Robotics in Construction",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 36352498,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins : Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": "Welcome to the 20th International Conference on Construction Applications of Virtual Reality (CONVR 2020). This year we are meeting on-line due to the current Coronavirus pandemic. The overarching theme for CONVR2020 is \"Enabling the development and implementation of Digital Twins\". CONVR is one of the world-leading conferences in the areas of virtual reality, augmented reality and building information modelling. Each year, more than 100 participants from all around the globe meet to discuss and exchange the latest developments and applications of virtual technologies in the architectural, engineering, construction and operation industry (AECO). The conference is also known for having a unique blend of participants from both academia and industry. This year, with all the difficulties of replicating a real face to face meetings, we are carefully planning the conference to ensure that all participants have a perfect experience. We have a group of leading keynote speakers from industry and academia who are covering up to date hot topics and are enthusiastic and keen to share their knowledge with you. CONVR participants are very loyal to the conference and have attended most of the editions over the last eighteen editions. This year we are welcoming numerous first timers and we aim to help them make the most of the conference by introducing them to other participants",
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-02T01:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/343122241.pdf",
+      "publisher": "Tesside University Press",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 276505916,
+      "doi": null,
+      "title": "Predictive maintenance for solar photovoltaic systems: deep learning-based anomaly identification using infrared thermography",
+      "abstract": "The purpose of this Ph.D. thesis is to portray deep learning applications for the Predictive Maintenance of Solar Photovoltaic Systems to identify Infrared Thermographic anomalies.\r\n\r\nThe research work carried out initiated the conceptualization, design, implementation, and evaluation of a novel Intelligent Fault Detection and Diagnosis (IFDD) System, alternatively realized as an Intelligent Remote Inspection (IRI) System for large-scale (and utility-scale) Solar Photovoltaic (SPV) Arrays having large surface areas, by deploying drone-aided Infrared Thermographic Imaging and process acquired thermal data by employing artificial intelligence (AI) techniques to precisely locate and capture SPV panels\u2019 thermal degradation pattern for operational decision-making, diagnostic monitoring and prompt maintenance.\r\n\r\nSPV cells are fragile, and temperature is a critical environmental factor for their cascaded and cyclical thermal stresses and irreparable degradation, which are further accelerated by periodical and prolonged heatwave spells and global warming effects. The emergence of AI techniques, particularly deep learning (DL) algorithms leverage the realm of diagnostic monitoring and predictive maintenance (PdM).  The thesis focuses on creating accessible, explainable end-to-end pipelines employing the DL framework, and drawing and preparing datasets from public repositories.\r\n\r\nBesides, acquiring, preparing, and labeling a quality, calibrated, and noise-free SPV panel\u2019s thermal dataset (floating-point temperature intensity values in degrees Celsius) is a challenging task, as SPV energy-producing assets are expected to operate under healthy conditions and achieving targeted output continuously, resulting in fewer faulty labeled instances, whereas a large amount of data is required to train DL models for multiclass classification (or thermal diagnosis).\r\n\r\nThe thesis work is organized into five chapters: Chapter 1 introduces the objective of Predictive Maintenance (PdM), including Fault Detection and Diagnosis (FDD), Solar Photovoltaic (SPV) energy market, global warming effect, and contribution. Chapter 2 provides a comprehensive overview of the state-of-the-art Artificial Intelligence (AI) techniques in Solar Photovoltaic (SPV) diagnostics, including their application and implementation challenges encountered while selecting and deploying AI algorithms, various Deep Learning (DL) models employed for diagnosis, explainability methods, and Infrared Radiated Thermographic (IRT) inspection for SPV power systems. Chapter 3 describes a theoretical framework for Convolutional Neural Network (CNN) comprising its architecture, layers, and training process. Chapter 4 describes the contributions proposed in Monitoring Diagnosis for Predictive Maintenance of Solar Photovoltaic Infrared Thermography. Lastly, Chapter 5 summarizes the work accomplished in this thesis and offers insights and considerations towards future works",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qureshi, Usamah Rashid"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/655535971.pdf",
+      "publisher": "Politecnico di Bari",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 127765982,
+      "doi": "10.36680/j.itcon.2022.043",
+      "title": "Artificial intelligence in construction asset management: a review of present status, challenges and future opportunities",
+      "abstract": "The built environment is responsible for roughly 40% of global greenhouse emissions, making the sector a crucial factor for climate change and sustainability. Meanwhile, other sectors (like manufacturing) adopted Artificial Intelligence (AI) to solve complex, non-linear problems to reduce waste, inefficiency, and pollution. Therefore, many research efforts in the Architecture, Engineering, and Construction community have recently tried introducing AI into building asset management (AM) processes. Since AM encompasses a broad set of disciplines, an overview of several AI applications, current research gaps, and trends is needed. In this context, this study conducted the first state-of-the-art research on AI for building asset management. A total of 578 papers were analyzed with bibliometric tools to identify prominent institutions, topics, and journals. The quantitative analysis helped determine the most researched areas of AM and which AI techniques are applied. The areas were furtherly investigated by reading in-depth the 83 most relevant studies selected by screening the articles\u2019 abstracts identified in the bibliometric analysis. The results reveal many applications for Energy Management, Condition assessment, Risk management, and Project management areas. Finally, the literature review identified three main trends that can be a reference point for future studies made by practitioners or researchers: Digital Twin, Generative Adversarial Networks (with synthetic images) for data augmentation, and Deep Reinforcement Learning",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cecconi, Fulvio Re"
+        },
+        {
+          "name": "Rampini, Luca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/541166504.pdf",
+      "publisher": "'International Council for Research and Innovation in Building and Construction'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8778015,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins:Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": null,
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dawood, Nashwan"
+        },
+        {
+          "name": "Rahimian, Farzad"
+        },
+        {
+          "name": "Seyedzadeh, Saleh"
+        },
+        {
+          "name": "Sheikhkhoshkar, Moslem"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/334594399.pdf",
+      "publisher": "Teesside University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158090437,
+      "doi": null,
+      "title": "Data Science with Foundation Models : An Evidence-Based, Comprehensive Project Methodology",
+      "abstract": "In the past decades, the interest in data science has surged across sectors and industries. Data science has been impacted by a series of paradigm shifts, such as the emergence of big data, cloud computing or the demand for developing and operating machine learning-based applications. Project methodologies have continually strived to catch-up, but with limited success, since 80% of data science projects never reach deployment. While initially data science projects ended once a useful model was obtained from carefully engineered data, nowadays models are integrated into software applications which afterwards must be maintained, improved, and adapted. This requires a careful management of all kinds of digital project artifacts.\r\n\r\nThe latest paradigm shift in machine learning, which has not yet been reflected in any project methodology so far, is due to foundation models, which have established themselves as a de facto standard across various media including text, images, video, and audio. Among them large language models play a central role, as they allow reuse for other tasks, without additional training, by prompting them with natural language. Besides, a foundation model can be fine-tuned to new tasks and domains with limited data, while building a foundation model from scratch requires enormous amounts of big data and careful provisions for alignment. Consequently, the nature of data science projects has changed.\r\n\r\nThis thesis proposes the first methodology specifically crafted for modern data science projects, placing foundation models at its core. It seamlessly integrates application development phases into the project lifecycle, adopts an encompassing view of project management, and places a particular emphasis on artifact management for cross-project business purposes. A guiding principle of our methodology is the persistent engagement of domain experts and users throughout the project lifecycle. Recognizing the limited availability of these stakeholders, we propose specific tools to enhance their efficiency, particularly in labor-intensive project activities such as data annotation, modeling, and evaluation.\r\n\r\nThe methodology fully covers a hierarchical catalog of requirements, which comprises 163 groups of project characteristics. The catalog is comprehensive and evidence-based, derived from two exhaustive literature studies. The first study provides a broad and general overview of data science projects, while the second examines the state-of-the-art literature on foundation models. The catalog is validated theoretically by matching it to 8 meta studies on data science methodologies, and practically by case studies from 26 natural language understanding projects.\r\n\r\nThe catalog provides a framework for assessing data science methodologies. 27 such methodologies are compared, and a gap analysis confirms weaknesses in each methodology. The most prominent gaps are the insufficient support for application development and cross-project artifact management, making them inadequate for modern foundation model projects. All the identified gaps are covered by our proposed methodology, proving it to be both comprehensive, dedicated to projects with foundation models and fostering cross-project reuse.\r\n\r\nThe ecosystem and frameworks around foundation models are evolving rapidly and we expect them soon to offer tools that can facilitate project management processes in our methodology",
+      "yearPublished": 2024,
+      "publishedDate": "2024-05-23T01:00:00",
+      "authors": [
+        {
+          "name": "Gie\u00dfelbach, Sven Alexander"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/618185509.pdf",
+      "publisher": "Universit\u00e4ts- und Landesbibliothek Bonn",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 145571978,
+      "doi": null,
+      "title": "MLOps: A Review",
+      "abstract": "Recently, Machine Learning (ML) has become a widely accepted method for\nsignificant progress that is rapidly evolving. Since it employs computational\nmethods to teach machines and produce acceptable answers. The significance of\nthe Machine Learning Operations (MLOps) methods, which can provide acceptable\nanswers for such problems, is examined in this study. To assist in the creation\nof software that is simple to use, the authors research MLOps methods. To\nchoose the best tool structure for certain projects, the authors also assess\nthe features and operability of various MLOps methods. A total of 22 papers\nwere assessed that attempted to apply the MLOps idea. Finally, the authors\nadmit the scarcity of fully effective MLOps methods based on which advancements\ncan self-regulate by limiting human engagement",
+      "yearPublished": 2023,
+      "publishedDate": "2023-08-19T01:00:00",
+      "authors": [
+        {
+          "name": "Kashyap, Gautam Siddharth"
+        },
+        {
+          "name": "Saxena, Parag"
+        },
+        {
+          "name": "Wazir, Samar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2308.10908",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 24877443,
+      "doi": null,
+      "title": "Third Conference on Artificial Intelligence for Space Applications, part 2",
+      "abstract": "Topics relative to the application of artificial intelligence to space operations are discussed. New technologies for space station automation, design data capture, computer vision, neural nets,  automatic programming, and real time applications  are discussed",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Denton, Judith S."
+        },
+        {
+          "name": "Freeman, Michael S."
+        },
+        {
+          "name": "Vereen, Mary"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42832274.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 152743312,
+      "doi": "10.22260/isarc2022/0003",
+      "title": "A framework for a comprehensive mobile data acquisition setting for the assessment of Urban Heat Island phenomenon",
+      "abstract": null,
+      "yearPublished": 2022,
+      "publishedDate": "2022-07-01T01:00:00",
+      "authors": [
+        {
+          "name": "Doree, Andre"
+        },
+        {
+          "name": "Pena Acosta, M."
+        },
+        {
+          "name": "Santos, Joao"
+        },
+        {
+          "name": "Vahdatikhaki, Faridaddin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/572226009.pdf",
+      "publisher": "International Association for Automation and Robotics in Construction",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 36352498,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins : Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": "Welcome to the 20th International Conference on Construction Applications of Virtual Reality (CONVR 2020). This year we are meeting on-line due to the current Coronavirus pandemic. The overarching theme for CONVR2020 is \"Enabling the development and implementation of Digital Twins\". CONVR is one of the world-leading conferences in the areas of virtual reality, augmented reality and building information modelling. Each year, more than 100 participants from all around the globe meet to discuss and exchange the latest developments and applications of virtual technologies in the architectural, engineering, construction and operation industry (AECO). The conference is also known for having a unique blend of participants from both academia and industry. This year, with all the difficulties of replicating a real face to face meetings, we are carefully planning the conference to ensure that all participants have a perfect experience. We have a group of leading keynote speakers from industry and academia who are covering up to date hot topics and are enthusiastic and keen to share their knowledge with you. CONVR participants are very loyal to the conference and have attended most of the editions over the last eighteen editions. This year we are welcoming numerous first timers and we aim to help them make the most of the conference by introducing them to other participants",
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-02T01:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/343122241.pdf",
+      "publisher": "Tesside University Press",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 276505916,
+      "doi": null,
+      "title": "Predictive maintenance for solar photovoltaic systems: deep learning-based anomaly identification using infrared thermography",
+      "abstract": "The purpose of this Ph.D. thesis is to portray deep learning applications for the Predictive Maintenance of Solar Photovoltaic Systems to identify Infrared Thermographic anomalies.\r\n\r\nThe research work carried out initiated the conceptualization, design, implementation, and evaluation of a novel Intelligent Fault Detection and Diagnosis (IFDD) System, alternatively realized as an Intelligent Remote Inspection (IRI) System for large-scale (and utility-scale) Solar Photovoltaic (SPV) Arrays having large surface areas, by deploying drone-aided Infrared Thermographic Imaging and process acquired thermal data by employing artificial intelligence (AI) techniques to precisely locate and capture SPV panels\u2019 thermal degradation pattern for operational decision-making, diagnostic monitoring and prompt maintenance.\r\n\r\nSPV cells are fragile, and temperature is a critical environmental factor for their cascaded and cyclical thermal stresses and irreparable degradation, which are further accelerated by periodical and prolonged heatwave spells and global warming effects. The emergence of AI techniques, particularly deep learning (DL) algorithms leverage the realm of diagnostic monitoring and predictive maintenance (PdM).  The thesis focuses on creating accessible, explainable end-to-end pipelines employing the DL framework, and drawing and preparing datasets from public repositories.\r\n\r\nBesides, acquiring, preparing, and labeling a quality, calibrated, and noise-free SPV panel\u2019s thermal dataset (floating-point temperature intensity values in degrees Celsius) is a challenging task, as SPV energy-producing assets are expected to operate under healthy conditions and achieving targeted output continuously, resulting in fewer faulty labeled instances, whereas a large amount of data is required to train DL models for multiclass classification (or thermal diagnosis).\r\n\r\nThe thesis work is organized into five chapters: Chapter 1 introduces the objective of Predictive Maintenance (PdM), including Fault Detection and Diagnosis (FDD), Solar Photovoltaic (SPV) energy market, global warming effect, and contribution. Chapter 2 provides a comprehensive overview of the state-of-the-art Artificial Intelligence (AI) techniques in Solar Photovoltaic (SPV) diagnostics, including their application and implementation challenges encountered while selecting and deploying AI algorithms, various Deep Learning (DL) models employed for diagnosis, explainability methods, and Infrared Radiated Thermographic (IRT) inspection for SPV power systems. Chapter 3 describes a theoretical framework for Convolutional Neural Network (CNN) comprising its architecture, layers, and training process. Chapter 4 describes the contributions proposed in Monitoring Diagnosis for Predictive Maintenance of Solar Photovoltaic Infrared Thermography. Lastly, Chapter 5 summarizes the work accomplished in this thesis and offers insights and considerations towards future works",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qureshi, Usamah Rashid"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/655535971.pdf",
+      "publisher": "Politecnico di Bari",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 127765982,
+      "doi": "10.36680/j.itcon.2022.043",
+      "title": "Artificial intelligence in construction asset management: a review of present status, challenges and future opportunities",
+      "abstract": "The built environment is responsible for roughly 40% of global greenhouse emissions, making the sector a crucial factor for climate change and sustainability. Meanwhile, other sectors (like manufacturing) adopted Artificial Intelligence (AI) to solve complex, non-linear problems to reduce waste, inefficiency, and pollution. Therefore, many research efforts in the Architecture, Engineering, and Construction community have recently tried introducing AI into building asset management (AM) processes. Since AM encompasses a broad set of disciplines, an overview of several AI applications, current research gaps, and trends is needed. In this context, this study conducted the first state-of-the-art research on AI for building asset management. A total of 578 papers were analyzed with bibliometric tools to identify prominent institutions, topics, and journals. The quantitative analysis helped determine the most researched areas of AM and which AI techniques are applied. The areas were furtherly investigated by reading in-depth the 83 most relevant studies selected by screening the articles\u2019 abstracts identified in the bibliometric analysis. The results reveal many applications for Energy Management, Condition assessment, Risk management, and Project management areas. Finally, the literature review identified three main trends that can be a reference point for future studies made by practitioners or researchers: Digital Twin, Generative Adversarial Networks (with synthetic images) for data augmentation, and Deep Reinforcement Learning",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cecconi, Fulvio Re"
+        },
+        {
+          "name": "Rampini, Luca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/541166504.pdf",
+      "publisher": "'International Council for Research and Innovation in Building and Construction'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8778015,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins:Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": null,
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dawood, Nashwan"
+        },
+        {
+          "name": "Rahimian, Farzad"
+        },
+        {
+          "name": "Seyedzadeh, Saleh"
+        },
+        {
+          "name": "Sheikhkhoshkar, Moslem"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/334594399.pdf",
+      "publisher": "Teesside University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158090437,
+      "doi": null,
+      "title": "Data Science with Foundation Models : An Evidence-Based, Comprehensive Project Methodology",
+      "abstract": "In the past decades, the interest in data science has surged across sectors and industries. Data science has been impacted by a series of paradigm shifts, such as the emergence of big data, cloud computing or the demand for developing and operating machine learning-based applications. Project methodologies have continually strived to catch-up, but with limited success, since 80% of data science projects never reach deployment. While initially data science projects ended once a useful model was obtained from carefully engineered data, nowadays models are integrated into software applications which afterwards must be maintained, improved, and adapted. This requires a careful management of all kinds of digital project artifacts.\r\n\r\nThe latest paradigm shift in machine learning, which has not yet been reflected in any project methodology so far, is due to foundation models, which have established themselves as a de facto standard across various media including text, images, video, and audio. Among them large language models play a central role, as they allow reuse for other tasks, without additional training, by prompting them with natural language. Besides, a foundation model can be fine-tuned to new tasks and domains with limited data, while building a foundation model from scratch requires enormous amounts of big data and careful provisions for alignment. Consequently, the nature of data science projects has changed.\r\n\r\nThis thesis proposes the first methodology specifically crafted for modern data science projects, placing foundation models at its core. It seamlessly integrates application development phases into the project lifecycle, adopts an encompassing view of project management, and places a particular emphasis on artifact management for cross-project business purposes. A guiding principle of our methodology is the persistent engagement of domain experts and users throughout the project lifecycle. Recognizing the limited availability of these stakeholders, we propose specific tools to enhance their efficiency, particularly in labor-intensive project activities such as data annotation, modeling, and evaluation.\r\n\r\nThe methodology fully covers a hierarchical catalog of requirements, which comprises 163 groups of project characteristics. The catalog is comprehensive and evidence-based, derived from two exhaustive literature studies. The first study provides a broad and general overview of data science projects, while the second examines the state-of-the-art literature on foundation models. The catalog is validated theoretically by matching it to 8 meta studies on data science methodologies, and practically by case studies from 26 natural language understanding projects.\r\n\r\nThe catalog provides a framework for assessing data science methodologies. 27 such methodologies are compared, and a gap analysis confirms weaknesses in each methodology. The most prominent gaps are the insufficient support for application development and cross-project artifact management, making them inadequate for modern foundation model projects. All the identified gaps are covered by our proposed methodology, proving it to be both comprehensive, dedicated to projects with foundation models and fostering cross-project reuse.\r\n\r\nThe ecosystem and frameworks around foundation models are evolving rapidly and we expect them soon to offer tools that can facilitate project management processes in our methodology",
+      "yearPublished": 2024,
+      "publishedDate": "2024-05-23T01:00:00",
+      "authors": [
+        {
+          "name": "Gie\u00dfelbach, Sven Alexander"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/618185509.pdf",
+      "publisher": "Universit\u00e4ts- und Landesbibliothek Bonn",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 145571978,
+      "doi": null,
+      "title": "MLOps: A Review",
+      "abstract": "Recently, Machine Learning (ML) has become a widely accepted method for\nsignificant progress that is rapidly evolving. Since it employs computational\nmethods to teach machines and produce acceptable answers. The significance of\nthe Machine Learning Operations (MLOps) methods, which can provide acceptable\nanswers for such problems, is examined in this study. To assist in the creation\nof software that is simple to use, the authors research MLOps methods. To\nchoose the best tool structure for certain projects, the authors also assess\nthe features and operability of various MLOps methods. A total of 22 papers\nwere assessed that attempted to apply the MLOps idea. Finally, the authors\nadmit the scarcity of fully effective MLOps methods based on which advancements\ncan self-regulate by limiting human engagement",
+      "yearPublished": 2023,
+      "publishedDate": "2023-08-19T01:00:00",
+      "authors": [
+        {
+          "name": "Kashyap, Gautam Siddharth"
+        },
+        {
+          "name": "Saxena, Parag"
+        },
+        {
+          "name": "Wazir, Samar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2308.10908",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 24877443,
+      "doi": null,
+      "title": "Third Conference on Artificial Intelligence for Space Applications, part 2",
+      "abstract": "Topics relative to the application of artificial intelligence to space operations are discussed. New technologies for space station automation, design data capture, computer vision, neural nets,  automatic programming, and real time applications  are discussed",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Denton, Judith S."
+        },
+        {
+          "name": "Freeman, Michael S."
+        },
+        {
+          "name": "Vereen, Mary"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42832274.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 152743312,
+      "doi": "10.22260/isarc2022/0003",
+      "title": "A framework for a comprehensive mobile data acquisition setting for the assessment of Urban Heat Island phenomenon",
+      "abstract": null,
+      "yearPublished": 2022,
+      "publishedDate": "2022-07-01T01:00:00",
+      "authors": [
+        {
+          "name": "Doree, Andre"
+        },
+        {
+          "name": "Pena Acosta, M."
+        },
+        {
+          "name": "Santos, Joao"
+        },
+        {
+          "name": "Vahdatikhaki, Faridaddin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/572226009.pdf",
+      "publisher": "International Association for Automation and Robotics in Construction",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 36352498,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins : Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": "Welcome to the 20th International Conference on Construction Applications of Virtual Reality (CONVR 2020). This year we are meeting on-line due to the current Coronavirus pandemic. The overarching theme for CONVR2020 is \"Enabling the development and implementation of Digital Twins\". CONVR is one of the world-leading conferences in the areas of virtual reality, augmented reality and building information modelling. Each year, more than 100 participants from all around the globe meet to discuss and exchange the latest developments and applications of virtual technologies in the architectural, engineering, construction and operation industry (AECO). The conference is also known for having a unique blend of participants from both academia and industry. This year, with all the difficulties of replicating a real face to face meetings, we are carefully planning the conference to ensure that all participants have a perfect experience. We have a group of leading keynote speakers from industry and academia who are covering up to date hot topics and are enthusiastic and keen to share their knowledge with you. CONVR participants are very loyal to the conference and have attended most of the editions over the last eighteen editions. This year we are welcoming numerous first timers and we aim to help them make the most of the conference by introducing them to other participants",
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-02T01:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/343122241.pdf",
+      "publisher": "Tesside University Press",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 276505916,
+      "doi": null,
+      "title": "Predictive maintenance for solar photovoltaic systems: deep learning-based anomaly identification using infrared thermography",
+      "abstract": "The purpose of this Ph.D. thesis is to portray deep learning applications for the Predictive Maintenance of Solar Photovoltaic Systems to identify Infrared Thermographic anomalies.\r\n\r\nThe research work carried out initiated the conceptualization, design, implementation, and evaluation of a novel Intelligent Fault Detection and Diagnosis (IFDD) System, alternatively realized as an Intelligent Remote Inspection (IRI) System for large-scale (and utility-scale) Solar Photovoltaic (SPV) Arrays having large surface areas, by deploying drone-aided Infrared Thermographic Imaging and process acquired thermal data by employing artificial intelligence (AI) techniques to precisely locate and capture SPV panels\u2019 thermal degradation pattern for operational decision-making, diagnostic monitoring and prompt maintenance.\r\n\r\nSPV cells are fragile, and temperature is a critical environmental factor for their cascaded and cyclical thermal stresses and irreparable degradation, which are further accelerated by periodical and prolonged heatwave spells and global warming effects. The emergence of AI techniques, particularly deep learning (DL) algorithms leverage the realm of diagnostic monitoring and predictive maintenance (PdM).  The thesis focuses on creating accessible, explainable end-to-end pipelines employing the DL framework, and drawing and preparing datasets from public repositories.\r\n\r\nBesides, acquiring, preparing, and labeling a quality, calibrated, and noise-free SPV panel\u2019s thermal dataset (floating-point temperature intensity values in degrees Celsius) is a challenging task, as SPV energy-producing assets are expected to operate under healthy conditions and achieving targeted output continuously, resulting in fewer faulty labeled instances, whereas a large amount of data is required to train DL models for multiclass classification (or thermal diagnosis).\r\n\r\nThe thesis work is organized into five chapters: Chapter 1 introduces the objective of Predictive Maintenance (PdM), including Fault Detection and Diagnosis (FDD), Solar Photovoltaic (SPV) energy market, global warming effect, and contribution. Chapter 2 provides a comprehensive overview of the state-of-the-art Artificial Intelligence (AI) techniques in Solar Photovoltaic (SPV) diagnostics, including their application and implementation challenges encountered while selecting and deploying AI algorithms, various Deep Learning (DL) models employed for diagnosis, explainability methods, and Infrared Radiated Thermographic (IRT) inspection for SPV power systems. Chapter 3 describes a theoretical framework for Convolutional Neural Network (CNN) comprising its architecture, layers, and training process. Chapter 4 describes the contributions proposed in Monitoring Diagnosis for Predictive Maintenance of Solar Photovoltaic Infrared Thermography. Lastly, Chapter 5 summarizes the work accomplished in this thesis and offers insights and considerations towards future works",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qureshi, Usamah Rashid"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/655535971.pdf",
+      "publisher": "Politecnico di Bari",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 127765982,
+      "doi": "10.36680/j.itcon.2022.043",
+      "title": "Artificial intelligence in construction asset management: a review of present status, challenges and future opportunities",
+      "abstract": "The built environment is responsible for roughly 40% of global greenhouse emissions, making the sector a crucial factor for climate change and sustainability. Meanwhile, other sectors (like manufacturing) adopted Artificial Intelligence (AI) to solve complex, non-linear problems to reduce waste, inefficiency, and pollution. Therefore, many research efforts in the Architecture, Engineering, and Construction community have recently tried introducing AI into building asset management (AM) processes. Since AM encompasses a broad set of disciplines, an overview of several AI applications, current research gaps, and trends is needed. In this context, this study conducted the first state-of-the-art research on AI for building asset management. A total of 578 papers were analyzed with bibliometric tools to identify prominent institutions, topics, and journals. The quantitative analysis helped determine the most researched areas of AM and which AI techniques are applied. The areas were furtherly investigated by reading in-depth the 83 most relevant studies selected by screening the articles\u2019 abstracts identified in the bibliometric analysis. The results reveal many applications for Energy Management, Condition assessment, Risk management, and Project management areas. Finally, the literature review identified three main trends that can be a reference point for future studies made by practitioners or researchers: Digital Twin, Generative Adversarial Networks (with synthetic images) for data augmentation, and Deep Reinforcement Learning",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cecconi, Fulvio Re"
+        },
+        {
+          "name": "Rampini, Luca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/541166504.pdf",
+      "publisher": "'International Council for Research and Innovation in Building and Construction'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8778015,
+      "doi": null,
+      "title": "Enabling the Development and Implementation of Digital Twins:Proceedings of the 20th International Conference on Construction Applications of Virtual Reality",
+      "abstract": null,
+      "yearPublished": 2020,
+      "publishedDate": "2020-10-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dawood, Nashwan"
+        },
+        {
+          "name": "Rahimian, Farzad"
+        },
+        {
+          "name": "Seyedzadeh, Saleh"
+        },
+        {
+          "name": "Sheikhkhoshkar, Moslem"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/334594399.pdf",
+      "publisher": "Teesside University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158090437,
+      "doi": null,
+      "title": "Data Science with Foundation Models : An Evidence-Based, Comprehensive Project Methodology",
+      "abstract": "In the past decades, the interest in data science has surged across sectors and industries. Data science has been impacted by a series of paradigm shifts, such as the emergence of big data, cloud computing or the demand for developing and operating machine learning-based applications. Project methodologies have continually strived to catch-up, but with limited success, since 80% of data science projects never reach deployment. While initially data science projects ended once a useful model was obtained from carefully engineered data, nowadays models are integrated into software applications which afterwards must be maintained, improved, and adapted. This requires a careful management of all kinds of digital project artifacts.\r\n\r\nThe latest paradigm shift in machine learning, which has not yet been reflected in any project methodology so far, is due to foundation models, which have established themselves as a de facto standard across various media including text, images, video, and audio. Among them large language models play a central role, as they allow reuse for other tasks, without additional training, by prompting them with natural language. Besides, a foundation model can be fine-tuned to new tasks and domains with limited data, while building a foundation model from scratch requires enormous amounts of big data and careful provisions for alignment. Consequently, the nature of data science projects has changed.\r\n\r\nThis thesis proposes the first methodology specifically crafted for modern data science projects, placing foundation models at its core. It seamlessly integrates application development phases into the project lifecycle, adopts an encompassing view of project management, and places a particular emphasis on artifact management for cross-project business purposes. A guiding principle of our methodology is the persistent engagement of domain experts and users throughout the project lifecycle. Recognizing the limited availability of these stakeholders, we propose specific tools to enhance their efficiency, particularly in labor-intensive project activities such as data annotation, modeling, and evaluation.\r\n\r\nThe methodology fully covers a hierarchical catalog of requirements, which comprises 163 groups of project characteristics. The catalog is comprehensive and evidence-based, derived from two exhaustive literature studies. The first study provides a broad and general overview of data science projects, while the second examines the state-of-the-art literature on foundation models. The catalog is validated theoretically by matching it to 8 meta studies on data science methodologies, and practically by case studies from 26 natural language understanding projects.\r\n\r\nThe catalog provides a framework for assessing data science methodologies. 27 such methodologies are compared, and a gap analysis confirms weaknesses in each methodology. The most prominent gaps are the insufficient support for application development and cross-project artifact management, making them inadequate for modern foundation model projects. All the identified gaps are covered by our proposed methodology, proving it to be both comprehensive, dedicated to projects with foundation models and fostering cross-project reuse.\r\n\r\nThe ecosystem and frameworks around foundation models are evolving rapidly and we expect them soon to offer tools that can facilitate project management processes in our methodology",
+      "yearPublished": 2024,
+      "publishedDate": "2024-05-23T01:00:00",
+      "authors": [
+        {
+          "name": "Gie\u00dfelbach, Sven Alexander"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/618185509.pdf",
+      "publisher": "Universit\u00e4ts- und Landesbibliothek Bonn",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

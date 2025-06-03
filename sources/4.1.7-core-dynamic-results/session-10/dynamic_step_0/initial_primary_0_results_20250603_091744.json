@@ -1,0 +1,129 @@
+{
+  "totalHits": 20416,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 274719080,
+      "doi": null,
+      "title": "Moving Beyond Direct Load Control: A Maturity Model for Realizing the Promise of Demand Flexibility",
+      "abstract": "This report discusses a new maturity model that regulators and utilities can use to guide and expand demand flexibility programs and enable the resources to provide more grid services. The model has six demand flexibility categories: planning and design; customer engagement; program operations; evaluation, measurement and verification; distributed energy resource orchestration; and data infrastructure. Within each category, capabilities are identified and described on a maturity scale that ranges from performing below expectations to improving on best practices",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-16T00:00:00",
+      "authors": [
+        {
+          "name": "Frick, Natalie Mims"
+        },
+        {
+          "name": "Schellenberg, Josh A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/635937094.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 86735010,
+      "doi": null,
+      "title": "Frequency Regulation with Heterogeneous Energy Resources: A Realization\n  using Distributed Control",
+      "abstract": "This paper presents one of the first real-life demonstrations of coordinated\nand distributed resource control for secondary frequency response in a power\ndistribution grid. We conduct a series of tests with up to 69 heterogeneous\nactive devices consisting of air handling units, unidirectional and\nbidirectional electric vehicle charging stations, a battery energy storage\nsystem, and 107 passive devices consisting of building loads and photovoltaic\ngenerators. Actuation commands for the test devices are obtained by solving an\neconomic dispatch problem at every regulation instant using distributed\nratio-consensus, primal-dual, and Newton-like algorithms. The distributed\ncontrol setup consists of a set of Raspberry Pi end-points exchanging messages\nvia an ethernet switch. The problem formulation minimizes the sum of device\ncosts while tracking the setpoints provided by the system operator. We\ndemonstrate accurate and fast real-time distributed computation of the\noptimization solution and effective tracking of the regulation signal by\nmeasuring physical device outputs over 40-minute time horizons. We also perform\nan economic benefit analysis which confirms eligibility to participate in an\nancillary services market and demonstrates up to $53K of potential annual\nrevenue for the selected population of devices",
+      "yearPublished": 2021,
+      "publishedDate": "2021-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Anderson, Tor"
+        },
+        {
+          "name": "Cortes, Jorge"
+        },
+        {
+          "name": "Haghi, Hamed Valizadeh"
+        },
+        {
+          "name": "Kleissl, Jan"
+        },
+        {
+          "name": "Martinez, Sonia"
+        },
+        {
+          "name": "Muralidharan, Manasa"
+        },
+        {
+          "name": "Srivastava, Priyank"
+        },
+        {
+          "name": "Washom, Byron"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2007.07971",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

@@ -1,0 +1,3263 @@
+{
+  "totalHitsEncounteredAcrossPages": 195402,
+  "retrievedCountForThisQuery": 105,
+  "searchIdentifier": "initial_custom_3",
+  "originalQuery": "DER field operations AND communication gap",
+  "results": [
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 19100491,
+      "doi": null,
+      "title": "Milton Wolf 2010 Seminar Report",
+      "abstract": "The 2010 Milton Wolf Seminar brought together practitioners and academics for three days of exciting debate in Vienna, Austria from March 17 to 19 at the Diplomatic Academy Vienna. Co-sponsored by the American Austrian Foundation, the Center for Global Communication Studies at the University of Pennsylvania\u2018s Annenberg School for Communication, and the Diplomatic Academy Vienna, the seminar explored the theme, \u201cNew media, new newsmakers, new public diplomacy: The changing role of journalists, NGOs, and diplomats in a multi-modal media world.\u201d\nThe PremiseDiscussion began with a recognition that: as new media and communication technologies diffuse worldwide, traditional media institutions face a range of challenges, from shortened news cycles to fragmented and shrinking audiences. Advertising revenues have declined as advertisers try to make sense of the new environment and to redirect their spending in efficient and effective ways, putting media under economic pressure. New technologies create demand for ever-more rapid news provision and non-professional, user-generated content competes directly with the products of traditional news media. In response to these pressures, many news operations have engaged in aggressive downsizing, reducing their staff complements and eliminating foreign bureaus in a bid to contain costs and refocus their operations. These institutions are attempting to adapt to new technologies while retaining their traditional role of supplying accurate and factual news, sorting the important from the irrelevant \u2013 the traditional foundations of their businesses.\nPredictably, under these difficult conditions, the quality of news products suffers. Scott Maier, an associate professor at the University of Oregon detailed the growing problem of inaccuracy in mainstream newspapers. Maier argued that, under the twin pressures of shorter news cycles and smaller newsgathering operations, the quality of news coverage is under threat, an argument echoed by several speakers. Maier\u2018s and others\u2018 research suggests that the problem is broad, applying to both the American and European contexts.\nWhat then, does this changing news landscape mean for journalists, NGOs, and public diplomacy practitioners",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Center for Global Communication Studies at the Annenberg School for Communication"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/76396234.pdf",
+      "publisher": "ScholarlyCommons",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17558963,
+      "doi": "10.11588/heidok.00014836",
+      "title": "Systemisch bedingte Gestaltungsaufgaben f\u00fcr das soziale System \u201eBetrieb\u201c \u2013 kommunikative Handlungsfelder",
+      "abstract": "The overall \u2018social system-perspective on firms and organizations points out the role of \u2018communication\u2019 as the decisive construction tool for a social system. However, this point of view in the tradition of Niklas Luhmann, \n\nneglects the concrete transfer of systemic principles into the context of daily organisational operations. The paper offers an methodological interpretation of systemic principles for firms and organisations to close the gap between the general knowledge of social system and the managerial consequences on communication fields. The achievement in the spirit of social system awareness is based on three steps: first, paraphrasing the principles, second, sensitising the observer to the interconnectedness of principles, third, thinking managerial action on the communication field through",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Krcal, Hans-Christian"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/32583684.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7138157,
+      "doi": "10.1108/01443571011075056",
+      "title": "Human Factors: Spanning the Gap between OM & HRM",
+      "abstract": "Purpose: This paper examines the claim that the application of human factors (HF) knowledge can improve both human well-being and operations system performance.  \nMethodology:  A systematic review was conducted using a general and two specialist databases to identify empirical studies addressing both human effects and operations system effects in examining manufacturing operations system design aspects.\nFindings: We found 45 empirical studies addressing both the human effects and system effects of operations system (re)design.  Of those studies providing clear directional effects, 95% showed a convergence between human effects and system effects (+,+ or -,-),  5% showed a divergence of human and system effects (+,- or -,+).  System effects included quality, productivity, implementation performance of new technologies, and also more \u2018intangible\u2019 effects in terms of improved communication and co-operation.  Human effects included employee health, attitudes, physical workload, and \u2018quality of working life\u2019. \nResearch limitations/im",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Dul, J. (Jan)"
+        },
+        {
+          "name": "Neumann, W.P. (Patrick)"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18507336.pdf",
+      "publisher": "Neumann, W.P. (Patrick)",
+      "journals": [
+        {
+          "title": "International Journal of Operations & Production Management",
+          "identifiers": [
+            "0144-3577"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4196899,
+      "doi": null,
+      "title": "Time domain analysis of switching transient fields in high voltage substations",
+      "abstract": "Switching operations of circuit breakers and disconnect switches generate transient currents propagating along the substation busbars. At the moment of switching, the busbars temporarily acts as antennae radiating transient electromagnetic fields within the substations. The radiated fields may interfere and disrupt normal operations of electronic equipment used within the substation for measurement, control and communication purposes. Hence there is the need to fully characterise the substation electromagnetic environment as early as the design stage of substation planning and operation to ensure safe operations of the electronic equipment. This paper deals with the computation of transient electromagnetic fields due to switching within a high voltage air-insulated substation (AIS) using the finite difference time domain (FDTD) metho",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-21T00:00:00",
+      "authors": [
+        {
+          "name": "Judd, M.D."
+        },
+        {
+          "name": "Musa, B.U."
+        },
+        {
+          "name": "Siew, W.H."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9023859.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 45019415,
+      "doi": null,
+      "title": "Communications",
+      "abstract": "The communications sector of an economy comprises a range of technologies, physical media, and institutions/rules that facilitate the storage of information through means other than a society\\u27s oral tradition and the transmission of that information over distances beyond the normal reach of human conversation. This chapter provides data on the historical evolution of a disparate range of industries and institutions contributing to the movement and storage of information in the United States over the past two centuries. These include the U.S. Postal Service, the newspaper industry, book publishing, the telegraph, wired and cellular telephone service, radio and television, and the Internet",
+      "yearPublished": 2006,
+      "publishedDate": "2006-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Field, Alexander J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/127620017.pdf",
+      "publisher": "Scholar Commons",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54153029,
+      "doi": null,
+      "title": "Decentralized dynamic task allocation for UAVs with limited\n  communication range",
+      "abstract": "We present the Limited-range Online Routing Problem (LORP), which involves a\nteam of Unmanned Aerial Vehicles (UAVs) with limited communication range that\nmust autonomously coordinate to service task requests. We first show a general\napproach to cast this dynamic problem as a sequence of decentralized task\nallocation problems. Then we present two solutions both based on modeling the\nallocation task as a Markov Random Field to subsequently assess decisions by\nmeans of the decentralized Max-Sum algorithm. Our first solution assumes\nindependence between requests, whereas our second solution also considers the\nUAVs' workloads. A thorough empirical evaluation shows that our workload-based\nsolution consistently outperforms current state-of-the-art methods in a wide\nrange of scenarios, lowering the average service time up to 16%. In the\nbest-case scenario there is no gap between our decentralized solution and\ncentralized techniques. In the worst-case scenario we manage to reduce by 25%\nthe gap between current decentralized and centralized techniques. Thus, our\nsolution becomes the method of choice for our problem",
+      "yearPublished": 2018,
+      "publishedDate": "2018-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "Cerquides, Jesus"
+        },
+        {
+          "name": "Meseguer, Pedro"
+        },
+        {
+          "name": "Pujol-Gonzalez, Marc"
+        },
+        {
+          "name": "Rodriguez-Aguilar, Juan A."
+        },
+        {
+          "name": "Tambe, Milind"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1809.07863",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 970333,
+      "doi": "10.1016/s0010-4655(03)00486-7",
+      "title": "Solution of the Dirac equation in lattice QCD using a domain\n  decomposition method",
+      "abstract": "Efficient algorithms for the solution of partial differential equations on\nparallel computers are often based on domain decomposition methods. Schwarz\npreconditioners combined with standard Krylov space solvers are widely used in\nthis context, and such a combination is shown here to perform very well in the\ncase of the Wilson--Dirac equation in lattice QCD. In particular, with respect\nto even-odd preconditioned solvers, the communication overhead is significantly\nreduced, which allows the computational work to be distributed over a large\nnumber of processors with only small parallelization losses.Comment: Plain TeX source, 21 pages, figures include",
+      "yearPublished": 2003,
+      "publishedDate": "2003-10-20T00:00:00",
+      "authors": [
+        {
+          "name": "Aoki"
+        },
+        {
+          "name": "Frommer"
+        },
+        {
+          "name": "Giusti"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "L\u00fcscher"
+        },
+        {
+          "name": "Martin L\u00fcscher"
+        },
+        {
+          "name": "Quarteroni"
+        },
+        {
+          "name": "Saad"
+        },
+        {
+          "name": "Schwarz"
+        },
+        {
+          "name": "Sheikholeslami"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "van der Vorst"
+        },
+        {
+          "name": "Vuik"
+        },
+        {
+          "name": "Wilson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/hep-lat/0310048",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0010-4655"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "totalHits": 80843,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 44592086,
+      "doi": "10.1109/smartgridcomm.2017.8340735",
+      "title": "Distributed Apportioning in a Power Network for providing Demand\n  Response Services",
+      "abstract": "Greater penetration of Distributed Energy Resources (DERs) in power networks\nrequires coordination strategies that allow for self-adjustment of\ncontributions in a network of DERs, owing to variability in generation and\ndemand. In this article, a distributed scheme is proposed that enables a DER in\na network to arrive at viable power reference commands that satisfies the DERs\nlocal constraints on its generation and loads it has to service, while, the\naggregated behavior of multiple DERs in the network and their respective loads\nmeet the ancillary services demanded by the grid. The Net-load Management\nsystem for a single unit is referred to as the Local Inverter System (LIS) in\nthis article . A distinguishing feature of the proposed consensus based\nsolution is the distributed finite time termination of the algorithm that\nallows each LIS unit in the network to determine power reference commands in\nthe presence of communication delays in a distributed manner. The proposed\nscheme allows prioritization of Renewable Energy Sources (RES) in the network\nand also enables auto-adjustment of contributions from LIS units with lower\npriority resources (non-RES). The methods are validated using\nhardware-in-the-loop simulations with Raspberry PI devices as distributed\ncontrol units, implementing the proposed distributed algorithm and responsible\nfor determining and dispatching realtime power reference commands to simulated\npower electronics interface emulating LIS units for demand response.Comment: 7 pages, 11 Figures, IEEE International Conference on Smart Grid\n  Communication",
+      "yearPublished": 2017,
+      "publishedDate": "2017-08-21T01:00:00",
+      "authors": [
+        {
+          "name": "Attree, Sandeep"
+        },
+        {
+          "name": "Patel, Sourav"
+        },
+        {
+          "name": "Prakash, Mangal"
+        },
+        {
+          "name": "Salapaka, Murti V."
+        },
+        {
+          "name": "Talukdar, Saurav"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1708.06414",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 5177965,
+      "doi": "10.1007/bfb0026768",
+      "title": "Analysis and design of multiagent systems using MAS-CommonKADS",
+      "abstract": "This article proposes an agent-oriented methodology called MAS-CommonKADS and develops a case study. This methodology extends the knowledge engineering methodology CommonKADSwith techniquesfrom objectoriented and protocol engineering methodologies. The methodology consists of the development of seven models: Agent Model, that describes the characteristics of each agent; Task Model, that describes the tasks that the agents carry out; Expertise Model, that describes the knowledge needed by the agents to achieve their goals; Organisation Model, that describes the structural relationships between agents (software agents and/or human agents); Coordination Model, that describes the dynamic relationships between software agents; Communication Model, that describes the dynamic relationships between human agents and their respective personal assistant software agents; and Design Model, that refines the previous models and determines the most suitable agent architecture for each agent, and the requirements of the agent network",
+      "yearPublished": 1998,
+      "publishedDate": "1998-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Garijo Ayestaran, Mercedes"
+        },
+        {
+          "name": "Gonz\u00e1lez Crist\u00f3bal, Jos\u00e9 Carlos"
+        },
+        {
+          "name": "Iglesias Fernandez, Carlos Angel"
+        },
+        {
+          "name": "Velasco P\u00e9rez, Juan Ram\u00f3n"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/148663569.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0302-9743"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 537708,
+      "doi": null,
+      "title": "Software engineering and middleware: a roadmap (Invited talk)",
+      "abstract": "The construction of a large class of distributed systems can be simplified by leveraging middleware, which is layered between network operating systems and application components. Middleware resolves heterogeneity and facilitates communication and coordination of distributed components. Existing middleware products enable software engineers to build systems that are distributed across a local-area network. State-of-the-art middleware research aims to push this boundary towards Internet-scale distribution, adaptive and reconfigurable middleware and middleware for dependable and wireless systems. The challenge for software engineering research is to devise notations, techniques, methods and tools for distributed system construction that systematically build and exploit the capabilities that middleware deliver",
+      "yearPublished": 2000,
+      "publishedDate": "2000-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Emmerich, W."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/1669452.pdf",
+      "publisher": "ACM Press",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 698968,
+      "doi": "10.1109/tsp.2010.2094613",
+      "title": "Adaptive MAC Protocols Using Memory for Networks with Critical Traffic",
+      "abstract": "We consider wireless communication networks where network users are subject\nto critical events such as emergencies and crises. If a critical event occurs\nto a user, the user needs to send critical traffic as early as possible.\nHowever, most existing medium access control (MAC) protocols are not adequate\nto meet the urgent need for data transmission by users with critical traffic.\nIn this paper, we devise a class of distributed MAC protocols that achieve\ncoordination using the finite-length memory of users containing their own\nobservations and traffic types. We formulate a protocol design problem and find\noptimal protocols that solve the problem. We show that the proposed protocols\nenable a user with critical traffic to transmit its critical traffic without\ninterruption from other users after a short delay while allowing users to share\nthe channel efficiently when there is no critical traffic. Moreover, the\nproposed protocols require short memory and can be implemented without explicit\nmessage passing.Comment: 24 pages, 7 figures, 1 tabl",
+      "yearPublished": 2010,
+      "publishedDate": "2010-05-05T00:00:00",
+      "authors": [
+        {
+          "name": "Park, Jaeok"
+        },
+        {
+          "name": "van der Schaar, Mihaela"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1005.0693",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1053-587X"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+2025-06-03 11:43:18,394 - INFO - Logging initialized for Industry Focused Search via CORE API - Script: 4.1.8.4_industry_dynamic_search
+2025-06-03 11:43:18,395 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 11:43:18,395 - INFO - Industry Focused CORE API Search Script - Session 1
+2025-06-03 11:43:18,395 - INFO - Starting Industry Focused CORE API dynamic search: 1 iterations, score threshold 0.2
+2025-06-03 11:43:18,395 - INFO - Prepared 10 initial industry-focused queries (limit: None).
+2025-06-03 11:43:18,395 - INFO - --- Industry Search Dynamic Step 0 ---
+2025-06-03 11:43:18,395 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 1): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:23,300 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:43:23,301 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/10813
+2025-06-03 11:43:23,301 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 2): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:27,199 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/10813
+2025-06-03 11:43:27,200 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 3): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:30,956 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/10813
+2025-06-03 11:43:30,957 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 4): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:34,924 - INFO - Page 4: Retrieved 9 papers. Total for query so far: 36/10813
+2025-06-03 11:43:34,924 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 5): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:40,627 - INFO - Page 5: Retrieved 9 papers. Total for query so far: 45/10813
+2025-06-03 11:43:40,627 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 6): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:44,312 - INFO - Page 6: Retrieved 9 papers. Total for query so far: 54/10813
+2025-06-03 11:43:44,313 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 7): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:48,378 - INFO - Page 7: Retrieved 9 papers. Total for query so far: 63/10813
+2025-06-03 11:43:48,378 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 8): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:52,327 - INFO - Page 8: Retrieved 9 papers. Total for query so far: 72/10813
+2025-06-03 11:43:52,327 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 9): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:43:57,404 - INFO - Page 9: Retrieved 9 papers. Total for query so far: 81/10813
+2025-06-03 11:43:57,405 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 10): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:44:01,227 - INFO - Page 10: Retrieved 9 papers. Total for query so far: 90/10813
+2025-06-03 11:44:01,227 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 11): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:44:04,963 - INFO - Page 11: Retrieved 9 papers. Total for query so far: 99/10813
+2025-06-03 11:44:04,963 - INFO - Industry Search - Step 0 - Query 'initial_custom_0' (Page 12): 'DER installation technician AND daily tasks...' with pageSize 15
+2025-06-03 11:44:09,548 - INFO - Page 12: Retrieved 9 papers. Total for query so far: 108/10813
+2025-06-03 11:44:09,552 - INFO - Saved 108 papers for industry query 'initial_custom_0' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_0_results_20250603_114409.json
+2025-06-03 11:44:09,579 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 1): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:13,693 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:44:13,693 - INFO - Page 1: Retrieved 10 papers. Total for query so far: 10/378
+2025-06-03 11:44:13,693 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 2): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:17,585 - INFO - Page 2: Retrieved 10 papers. Total for query so far: 20/378
+2025-06-03 11:44:17,585 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 3): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:21,582 - INFO - Page 3: Retrieved 10 papers. Total for query so far: 30/378
+2025-06-03 11:44:21,582 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 4): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:25,897 - INFO - Page 4: Retrieved 10 papers. Total for query so far: 40/378
+2025-06-03 11:44:25,897 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 5): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:29,675 - INFO - Page 5: Retrieved 10 papers. Total for query so far: 50/378
+2025-06-03 11:44:29,675 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 6): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:33,683 - INFO - Page 6: Retrieved 10 papers. Total for query so far: 60/378
+2025-06-03 11:44:33,683 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 7): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:37,509 - INFO - Page 7: Retrieved 10 papers. Total for query so far: 70/378
+2025-06-03 11:44:37,509 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 8): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:43,477 - INFO - Page 8: Retrieved 10 papers. Total for query so far: 80/378
+2025-06-03 11:44:43,478 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 9): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:47,259 - INFO - Page 9: Retrieved 10 papers. Total for query so far: 90/378
+2025-06-03 11:44:47,259 - INFO - Industry Search - Step 0 - Query 'initial_custom_1' (Page 10): 'Microgrid operator AND control room workflow...' with pageSize 15
+2025-06-03 11:44:51,268 - INFO - Page 10: Retrieved 10 papers. Total for query so far: 100/378
+2025-06-03 11:44:51,274 - INFO - Saved 100 papers for industry query 'initial_custom_1' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_1_results_20250603_114451.json
+2025-06-03 11:44:51,298 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 1): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:44:55,478 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:44:55,479 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/5700
+2025-06-03 11:44:55,479 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 2): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:44:59,358 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/5700
+2025-06-03 11:44:59,358 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 3): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:03,162 - INFO - Page 3: Retrieved 8 papers. Total for query so far: 24/5700
+2025-06-03 11:45:03,163 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 4): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:07,126 - INFO - Page 4: Retrieved 8 papers. Total for query so far: 32/5700
+2025-06-03 11:45:07,127 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 5): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:10,874 - INFO - Page 5: Retrieved 8 papers. Total for query so far: 40/5700
+2025-06-03 11:45:10,874 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 6): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:14,683 - INFO - Page 6: Retrieved 8 papers. Total for query so far: 48/5700
+2025-06-03 11:45:14,683 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 7): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:18,380 - INFO - Page 7: Retrieved 8 papers. Total for query so far: 56/5700
+2025-06-03 11:45:18,380 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 8): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:22,208 - INFO - Page 8: Retrieved 8 papers. Total for query so far: 64/5700
+2025-06-03 11:45:22,209 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 9): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:26,132 - INFO - Page 9: Retrieved 8 papers. Total for query so far: 72/5700
+2025-06-03 11:45:26,132 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 10): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:30,434 - INFO - Page 10: Retrieved 8 papers. Total for query so far: 80/5700
+2025-06-03 11:45:30,434 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 11): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:34,434 - INFO - Page 11: Retrieved 8 papers. Total for query so far: 88/5700
+2025-06-03 11:45:34,434 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 12): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:38,202 - INFO - Page 12: Retrieved 8 papers. Total for query so far: 96/5700
+2025-06-03 11:45:38,202 - INFO - Industry Search - Step 0 - Query 'initial_custom_2' (Page 13): 'Wind turbine maintenance AND field crew challenges...' with pageSize 15
+2025-06-03 11:45:42,151 - INFO - Page 13: Retrieved 8 papers. Total for query so far: 104/5700
+2025-06-03 11:45:42,158 - INFO - Saved 104 papers for industry query 'initial_custom_2' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_2_results_20250603_114542.json
+2025-06-03 11:45:42,194 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 1): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:45:46,358 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:45:46,359 - INFO - Page 1: Retrieved 7 papers. Total for query so far: 7/195402
+2025-06-03 11:45:46,359 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 2): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:45:50,279 - INFO - Page 2: Retrieved 7 papers. Total for query so far: 14/195402
+2025-06-03 11:45:50,280 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 3): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:45:55,956 - INFO - Page 3: Retrieved 7 papers. Total for query so far: 21/195402
+2025-06-03 11:45:55,956 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 4): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:45:59,793 - INFO - Page 4: Retrieved 7 papers. Total for query so far: 28/195402
+2025-06-03 11:45:59,793 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 5): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:03,806 - INFO - Page 5: Retrieved 7 papers. Total for query so far: 35/195402
+2025-06-03 11:46:03,807 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 6): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:07,698 - INFO - Page 6: Retrieved 7 papers. Total for query so far: 42/195402
+2025-06-03 11:46:07,698 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 7): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:11,581 - INFO - Page 7: Retrieved 7 papers. Total for query so far: 49/195402
+2025-06-03 11:46:11,581 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 8): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:15,475 - INFO - Page 8: Retrieved 7 papers. Total for query so far: 56/195402
+2025-06-03 11:46:15,476 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 9): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:19,476 - INFO - Page 9: Retrieved 7 papers. Total for query so far: 63/195402
+2025-06-03 11:46:19,477 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 10): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:23,339 - INFO - Page 10: Retrieved 7 papers. Total for query so far: 70/195402
+2025-06-03 11:46:23,340 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 11): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:27,367 - INFO - Page 11: Retrieved 7 papers. Total for query so far: 77/195402
+2025-06-03 11:46:27,367 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 12): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:33,041 - INFO - Page 12: Retrieved 7 papers. Total for query so far: 84/195402
+2025-06-03 11:46:33,041 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 13): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:37,060 - INFO - Page 13: Retrieved 7 papers. Total for query so far: 91/195402
+2025-06-03 11:46:37,060 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 14): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:40,949 - INFO - Page 14: Retrieved 7 papers. Total for query so far: 98/195402
+2025-06-03 11:46:40,949 - INFO - Industry Search - Step 0 - Query 'initial_custom_3' (Page 15): 'DER field operations AND communication gap...' with pageSize 15
+2025-06-03 11:46:44,856 - INFO - Page 15: Retrieved 7 papers. Total for query so far: 105/195402
+2025-06-03 11:46:44,865 - INFO - Saved 105 papers for industry query 'initial_custom_3' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_3_results_20250603_114644.json
+2025-06-03 11:46:44,888 - INFO - Industry Search - Step 0 - Query 'initial_custom_4' (Page 1): 'Utility operator AND DERMS HMI usability issues...' with pageSize 15
+2025-06-03 11:46:49,278 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:46:49,278 - INFO - Page 1: Retrieved 1 papers. Total for query so far: 1/1
+2025-06-03 11:46:49,280 - INFO - Saved 1 papers for industry query 'initial_custom_4' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_4_results_20250603_114649.json
+2025-06-03 11:46:49,281 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 1): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:46:56,053 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:46:56,054 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/163586
+2025-06-03 11:46:56,054 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 2): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:01,126 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/163586
+2025-06-03 11:47:01,127 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 3): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:06,581 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/163586
+2025-06-03 11:47:06,581 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 4): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:10,982 - INFO - Page 4: Retrieved 9 papers. Total for query so far: 36/163586
+2025-06-03 11:47:10,982 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 5): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:15,578 - INFO - Page 5: Retrieved 9 papers. Total for query so far: 45/163586
+2025-06-03 11:47:15,578 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 6): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:21,744 - INFO - Page 6: Retrieved 9 papers. Total for query so far: 54/163586
+2025-06-03 11:47:21,744 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 7): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:26,083 - INFO - Page 7: Retrieved 9 papers. Total for query so far: 63/163586
+2025-06-03 11:47:26,084 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 8): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:30,537 - INFO - Page 8: Retrieved 9 papers. Total for query so far: 72/163586
+2025-06-03 11:47:30,537 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 9): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:35,188 - INFO - Page 9: Retrieved 9 papers. Total for query so far: 81/163586
+2025-06-03 11:47:35,188 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 10): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:42,024 - INFO - Page 10: Retrieved 9 papers. Total for query so far: 90/163586
+2025-06-03 11:47:42,024 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 11): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:46,273 - INFO - Page 11: Retrieved 9 papers. Total for query so far: 99/163586
+2025-06-03 11:47:46,274 - INFO - Industry Search - Step 0 - Query 'initial_custom_5' (Page 12): 'AI for DER field service AND benefits...' with pageSize 15
+2025-06-03 11:47:50,826 - INFO - Page 12: Retrieved 9 papers. Total for query so far: 108/163586
+2025-06-03 11:47:50,834 - INFO - Saved 108 papers for industry query 'initial_custom_5' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_5_results_20250603_114750.json
+2025-06-03 11:47:50,858 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 1): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:47:55,466 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:47:55,466 - INFO - Page 1: Retrieved 10 papers. Total for query so far: 10/764
+2025-06-03 11:47:55,466 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 2): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:47:59,651 - INFO - Page 2: Retrieved 10 papers. Total for query so far: 20/764
+2025-06-03 11:47:59,651 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 3): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:03,560 - INFO - Page 3: Retrieved 10 papers. Total for query so far: 30/764
+2025-06-03 11:48:03,560 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 4): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:09,552 - INFO - Page 4: Retrieved 10 papers. Total for query so far: 40/764
+2025-06-03 11:48:09,552 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 5): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:15,463 - INFO - Page 5: Retrieved 10 papers. Total for query so far: 50/764
+2025-06-03 11:48:15,464 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 6): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:19,619 - INFO - Page 6: Retrieved 10 papers. Total for query so far: 60/764
+2025-06-03 11:48:19,619 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 7): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:23,741 - INFO - Page 7: Retrieved 10 papers. Total for query so far: 70/764
+2025-06-03 11:48:23,742 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 8): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:28,436 - INFO - Page 8: Retrieved 10 papers. Total for query so far: 80/764
+2025-06-03 11:48:28,437 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 9): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:32,417 - INFO - Page 9: Retrieved 10 papers. Total for query so far: 90/764
+2025-06-03 11:48:32,417 - INFO - Industry Search - Step 0 - Query 'initial_custom_6' (Page 10): 'Agent-based assistance AND DER technician safety...' with pageSize 15
+2025-06-03 11:48:36,542 - INFO - Page 10: Retrieved 10 papers. Total for query so far: 100/764
+2025-06-03 11:48:36,548 - INFO - Saved 100 papers for industry query 'initial_custom_6' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_6_results_20250603_114836.json
+2025-06-03 11:48:36,570 - INFO - Industry Search - Step 0 - Query 'initial_custom_7' (Page 1): 'DER safety AND incident report...' with pageSize 15
+2025-06-03 11:48:42,499 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 11:48:42,500 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/178546
+2025-06-03 11:48:42,500 - INFO - Industry Search - Step 0 - Query 'initial_custom_7' (Page 2): 'DER safety AND incident report...' with pageSize 15
+2025-06-03 11:48:46,291 - ERROR - Error on page 2 for industry query 'initial_custom_7': 'DER safety AND incident report': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works/?q=DER+safety+AND+incident+report&pageSize=15&page=2&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 11:48:46,291 - ERROR - Response content: 
+2025-06-03 11:48:46,293 - INFO - Saved 8 papers for industry query 'initial_custom_7' to sources/4.1.8-industry-search-results/session-1/dynamic_step_0/initial_custom_7_results_20250603_114846.json
+2025-06-03 11:48:46,297 - INFO - Industry Search - Step 0 - Query 'initial_custom_8' (Page 1): 'DER operator training AND simulator...' with pageSize 15
+2025-06-03 11:48:49,481 - ERROR - Error on page 1 for industry query 'initial_custom_8': 'DER operator training AND simulator': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=DER+operator+training+AND+simulator&pageSize=15&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 11:48:49,481 - ERROR - Response content: 
+2025-06-03 11:48:49,482 - INFO - Industry Search - Step 0 - Query 'initial_custom_9' (Page 1): 'Human factors AND DER control room design...' with pageSize 15
+2025-06-03 11:48:52,670 - ERROR - Error on page 1 for industry query 'initial_custom_9': 'Human factors AND DER control room design': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human+factors+AND+DER+control+room+design&pageSize=15&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 11:48:52,670 - ERROR - Response content: 
+2025-06-03 11:48:52,671 - INFO - Step 0 (Industry) found 634 papers. Total unique: 59
+2025-06-03 11:48:52,672 - INFO - 0 papers from step 0 met threshold 0.2 for new query generation.
+2025-06-03 11:48:52,672 - INFO - No relevant papers from industry search to generate new queries.
+2025-06-03 11:48:52,672 - INFO - Generated 0 new industry-focused queries for step 1.
+2025-06-03 11:48:52,672 - INFO - --- Industry Search Dynamic Step 1 ---
+2025-06-03 11:48:52,672 - INFO - No queries to run in dynamic step 1. Stopping.
+2025-06-03 11:48:52,687 - INFO - Consolidated JSON for 'industry_dynamic_search_complete' (Industry Search) saved to sources/4.1.8-industry-search-results/session-1/consolidated_industry_dynamic_search_complete_session1.json
+2025-06-03 11:48:52,688 - INFO - Markdown summary for Industry Search saved to docs/4.1.8.4-industry-core-search-summary-session-1.md
+2025-06-03 11:48:52,688 - INFO - Industry Focused CORE API Dynamic search completed. Found 59 unique papers.

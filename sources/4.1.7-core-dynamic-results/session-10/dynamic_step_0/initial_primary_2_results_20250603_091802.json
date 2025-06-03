@@ -1,0 +1,108 @@
+{
+  "totalHits": 654,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6",
+      "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+      "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+      "yearPublished": 2022,
+      "publishedDate": "2022-11-24T00:00:00",
+      "authors": [
+        {
+          "name": "Dignum, Frank"
+        },
+        {
+          "name": "Erdogan, Emre"
+        },
+        {
+          "name": "Verbrugge, Rineke"
+        },
+        {
+          "name": "Yolum, P\u0131nar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+      "publisher": "Springer Science and Business Media Deutschland GmbH",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066",
+      "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+      "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catalina Gomez"
+        },
+        {
+          "name": "Chien-Ming Huang"
+        },
+        {
+          "name": "Mathias Unberath"
+        },
+        {
+          "name": "Shichang Ke"
+        },
+        {
+          "name": "Sue Min Cho"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+      "publisher": "Frontiers Media S.A.",
+      "journals": [
+        {
+          "title": "Frontiers in Computer Science",
+          "identifiers": [
+            "2624-9898",
+            "issn:2624-9898"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

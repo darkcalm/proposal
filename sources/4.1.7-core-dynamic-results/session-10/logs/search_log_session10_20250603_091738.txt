@@ -1,0 +1,200 @@
+2025-06-03 09:17:38,230 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:17:38,231 - INFO - CORE API Dynamic Search Script - Session 10
+2025-06-03 09:17:38,231 - INFO - Starting CORE API dynamic search: 0 iterations, score threshold 0.3
+2025-06-03 09:17:38,231 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:17:38,231 - INFO - Step 0 - Query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with limit 5
+2025-06-03 09:17:44,356 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:17:44,356 - INFO - First paper object sample is too large to log directly (Length: 97047). Logging only a few key fields.
+2025-06-03 09:17:44,357 - INFO - First paper sample (subset of fields):\n{
+  "id": 33131981,
+  "doi": "10.1109/surv.2012.021312.00034",
+  "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+  "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a ...",
+  "yearPublished": 2013,
+  "publishedDate": "2013-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Qian, Y"
+    }
+  ]
+}
+2025-06-03 09:17:44,357 - INFO - Found 4 papers (out of 20416 total hits) for query 'initial_primary_0'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_primary_0_results_20250603_091744.json
+2025-06-03 09:17:44,358 - INFO - Step 0 - Query 'initial_primary_1': 'Human-in-the-loop control AND operator decision support for smart grid management...' with limit 5
+2025-06-03 09:17:54,702 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:17:54,703 - INFO - First paper object sample is too large to log directly (Length: 105991). Logging only a few key fields.
+2025-06-03 09:17:54,703 - INFO - First paper sample (subset of fields):\n{
+  "id": 54163871,
+  "doi": "10.1109/jproc.2019.2896243",
+  "title": "Learning and Management for Internet-of-Things: Accounting for\n  Adaptivity and Scalability",
+  "abstract": "Internet-of-Things (IoT) envisions an intelligent infrastructure of networked\nsmart devices offering task-specific monitoring and control services. The\nunique features of IoT include extreme heterogen...",
+  "yearPublished": 2018,
+  "publishedDate": "2018-10-27T01:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/195777516.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Barbarossa, Sergio"
+    }
+  ]
+}
+2025-06-03 09:17:54,704 - INFO - Found 4 papers (out of 1110 total hits) for query 'initial_primary_1'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_primary_1_results_20250603_091754.json
+2025-06-03 09:17:54,705 - INFO - Step 0 - Query 'initial_primary_2': 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with limit 5
+2025-06-03 09:18:02,651 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:02,652 - INFO - First paper object sample is too large to log directly (Length: 106875). Logging only a few key fields.
+2025-06-03 09:18:02,652 - INFO - First paper sample (subset of fields):\n{
+  "id": 152503205,
+  "doi": null,
+  "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+  "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs ...",
+  "yearPublished": 2023,
+  "publishedDate": "2023-10-31T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/2310.19778",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Cho, Sue Min"
+    }
+  ]
+}
+2025-06-03 09:18:02,653 - INFO - Found 3 papers (out of 654 total hits) for query 'initial_primary_2'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_primary_2_results_20250603_091802.json
+2025-06-03 09:18:02,654 - INFO - Step 0 - Query 'initial_primary_3': 'Workflow optimization AND human factors in distributed energy system operations...' with limit 5
+2025-06-03 09:18:15,371 - ERROR - Error searching papers for query 'initial_primary_3': 'Workflow optimization AND human factors in distributed energy system operations': 500 Server Error: Internal Server Error for url: https://api.core.ac.uk/v3/search/works/?q=Workflow+optimization+AND+human+factors+in+distributed+energy+system+operations&limit=5&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:18:15,372 - ERROR - Response content: {"message":"{\u0022total\u0022:20,\u0022successful\u0022:18,\u0022skipped\u0022:0,\u0022failed\u0022:2,\u0022failures\u0022:[{\u0022shard\u0022:1,\u0022index\u0022:\u0022articles_2021_07_12\u0022,\u0022node\u0022:\u0022dvMp2h1CTR2ptRgHmLkfbQ\u0022,\u0022reason\u0022:{\u0022type\u0022:\u0022es_rejected_execution_exception\u0022,\u0022reason\u0022:\u0022rejected execution of org.elasticsearch.common.util.concurrent.TimedRunnable@447133a7 on QueueResizingEsThreadPoolExecutor[name = indx-fcr01-node2\\\/search, queue capacity = 50, min queue capacity = 10, max queue capacity = 2000, frame size = 2000, targeted response rate = 1s, task execution EWMA = 23.4ms, adjustment amount = 50, org.elasticsearch.common.util.concurrent.QueueResizingEsThreadPoolExecutor@4417476c[Running, pool size = 90, active threads = 90, queued tasks = 50, completed tasks = 108258527]]\u0022}},{\u0022shard\u0022:13,\u0022index\u0022:\u0022articles_2021_07_12\u0022,\u0022node\u0022:\u0022dvMp2h1CTR2ptRgHmLkfbQ\u0022,\u0022reason\u0022:{\u0022type\u0022:\u0022es_rejected_execution_exception\u0022,\u0022reason\u0022:\u0022rejected execution of org.elasticsearch.common.util.concurrent.TimedRunnable@50a9434b on QueueResizingEsThreadPoolExecutor[name = indx-fcr01-node2\\\/search, queue capacity = 50, min queue capacity = 10, max queue capacity = 2000, frame size = 2000, targeted response rate = 1s, task execution EWMA = 23.4ms, adjustment amount = 50, org.elasticsearch.common.util.concurrent.QueueResizingEsThreadPoolExecutor@4417476c[Running, pool size = 90, active threads = 90, queued tasks = 50, completed tasks = 108258527]]\u0022}}]}"}
+2025-06-03 09:18:15,373 - INFO - Step 0 - Query 'initial_primary_4': 'Identifying communication inefficiencies AND opportunities for AI agent assistance in microgrid oper...' with limit 5
+2025-06-03 09:18:25,211 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:25,213 - INFO - First paper object sample is too large to log directly (Length: 200411). Logging only a few key fields.
+2025-06-03 09:18:25,213 - INFO - First paper sample (subset of fields):\n{
+  "id": 96041778,
+  "doi": null,
+  "title": "Artificial Intelligence and Climate Change",
+  "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate co...",
+  "yearPublished": 2020,
+  "publishedDate": "2020-01-01T08:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Stein, Amy L."
+    }
+  ]
+}
+2025-06-03 09:18:25,215 - INFO - Found 5 papers (out of 122 total hits) for query 'initial_primary_4'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_primary_4_results_20250603_091825.json
+2025-06-03 09:18:25,217 - INFO - Step 0 - Query 'initial_secondary_5': 'Human factors in DER management...' with limit 5
+2025-06-03 09:18:29,522 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:29,523 - INFO - First paper object sample is too large to log directly (Length: 51780). Logging only a few key fields.
+2025-06-03 09:18:29,523 - INFO - First paper sample (subset of fields):\n{
+  "id": 18018297,
+  "doi": "10.1093/humrep/deu173",
+  "title": "Clinical prediction models to inform individualized decision-making in subfertile couples : a stratified medicine approach",
+  "abstract": "Funding This work was supported by a Chief Scientist Office Postdoctoral Training Fellowship in Health Services Research and Health of the Public Research (Ref PDF/12/06). The views expressed in this ...",
+  "yearPublished": 2014,
+  "publishedDate": "2014-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/29465852.pdf",
+  "journals": [
+    {
+      "title": "Human Reproduction",
+      "identifiers": [
+        "0268-1161",
+        "issn:0268-1161"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Bhattacharya, S."
+    }
+  ]
+}
+2025-06-03 09:18:29,525 - INFO - Found 5 papers (out of 818731 total hits) for query 'initial_secondary_5'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_secondary_5_results_20250603_091829.json
+2025-06-03 09:18:29,526 - INFO - Step 0 - Query 'initial_secondary_6': 'Communication protocols for DER coordination...' with limit 5
+2025-06-03 09:18:35,387 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:35,388 - INFO - First paper object sample is too large to log directly (Length: 38724). Logging only a few key fields.
+2025-06-03 09:18:35,388 - INFO - First paper sample (subset of fields):\n{
+  "id": 44592086,
+  "doi": "10.1109/smartgridcomm.2017.8340735",
+  "title": "Distributed Apportioning in a Power Network for providing Demand\n  Response Services",
+  "abstract": "Greater penetration of Distributed Energy Resources (DERs) in power networks\nrequires coordination strategies that allow for self-adjustment of\ncontributions in a network of DERs, owing to variability...",
+  "yearPublished": 2017,
+  "publishedDate": "2017-08-21T01:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/1708.06414",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Attree, Sandeep"
+    }
+  ]
+}
+2025-06-03 09:18:35,390 - INFO - Found 4 papers (out of 80843 total hits) for query 'initial_secondary_6'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_secondary_6_results_20250603_091835.json
+2025-06-03 09:18:35,392 - INFO - Step 0 - Query 'initial_secondary_7': 'AI agent applications in smart grid operations...' with limit 5
+2025-06-03 09:18:43,008 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:43,009 - INFO - First paper object sample is too large to log directly (Length: 47692). Logging only a few key fields.
+2025-06-03 09:18:43,009 - INFO - First paper sample (subset of fields):\n{
+  "id": 4205789,
+  "doi": "10.1109/pes.2010.5590034",
+  "title": "The role of intelligent systems in delivering the smart grid",
+  "abstract": "The development of \"smart\" or \"intelligent\" energy networks has been proposed by both EPRI's IntelliGrid initiative and the European SmartGrids Technology Platform as a key step in meeting our future ...",
+  "yearPublished": 2010,
+  "publishedDate": "2010-07-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/9037661.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Catterson, Victoria"
+    }
+  ]
+}
+2025-06-03 09:18:43,011 - INFO - Found 1 papers (out of 23429 total hits) for query 'initial_secondary_7'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_secondary_7_results_20250603_091843.json
+2025-06-03 09:18:43,013 - INFO - Step 0 - Query 'initial_tertiary_8': 'Operator tools for energy systems...' with limit 5
+2025-06-03 09:18:47,612 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:47,613 - INFO - First paper object sample is too large to log directly (Length: 69517). Logging only a few key fields.
+2025-06-03 09:18:47,613 - INFO - First paper sample (subset of fields):\n{
+  "id": 148966529,
+  "doi": "10.1016/j.procir.2020.02.182",
+  "title": "A methodology for energy efficiency redesign of smart production systems",
+  "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufact...",
+  "yearPublished": 2020,
+  "publishedDate": "2020-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Alessandra Papetti"
+    }
+  ]
+}
+2025-06-03 09:18:47,614 - INFO - Found 1 papers (out of 293233 total hits) for query 'initial_tertiary_8'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_tertiary_8_results_20250603_091847.json
+2025-06-03 09:18:47,615 - INFO - Step 0 - Query 'initial_tertiary_9': 'Manual task reduction in DER maintenance...' with limit 5
+2025-06-03 09:18:57,229 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:18:57,231 - INFO - First paper object sample is too large to log directly (Length: 115007). Logging only a few key fields.
+2025-06-03 09:18:57,231 - INFO - First paper sample (subset of fields):\n{
+  "id": 18930523,
+  "doi": "10.1111/bjir.12419",
+  "title": "Long-run Patterns of Labour\nMarket Polarisation: Evidence from German Micro Data",
+  "abstract": "The past four decades have witnessed dramatic changes in the structure of employment. In particular, the rapid increase in computational power has led to large-scale reductions in employment in jobs t...",
+  "yearPublished": 2018,
+  "publishedDate": "2018-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/322823609.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Antonczyk D."
+    }
+  ]
+}
+2025-06-03 09:18:57,232 - INFO - Found 5 papers (out of 132112 total hits) for query 'initial_tertiary_9'. Saved to sources/4.1.7-core-dynamic-results/session-10/dynamic_step_0/initial_tertiary_9_results_20250603_091857.json
+2025-06-03 09:18:57,234 - INFO - Step 0 found 32 papers (before unique check with overall list).
+2025-06-03 09:18:57,234 - INFO - Total unique papers after step 0: 32
+2025-06-03 09:18:57,241 - INFO - Consolidated JSON results for stage 'dynamic_search_complete' saved to sources/4.1.7-core-dynamic-results/session-10/consolidated_dynamic_search_complete_session10.json
+2025-06-03 09:18:57,242 - INFO - Markdown summary report saved to docs/4.1.7.1-core-dynamic-summary-session-10.md
+2025-06-03 09:18:57,242 - INFO - CORE API Dynamic search completed. Found 32 unique papers.

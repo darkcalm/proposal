@@ -1,0 +1,1414 @@
+{
+  "total": 2263,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "f7755b881d525cb6fe3fb9ea44c52bdc771dcd1d",
+      "externalIds": {
+        "DOI": "10.1109/GlobConET56651.2023.10150033",
+        "CorpusId": 259179374
+      },
+      "url": "https://www.semanticscholar.org/paper/f7755b881d525cb6fe3fb9ea44c52bdc771dcd1d",
+      "title": "Machine Learning based Real Time Predictive Maintenance at the Edge for Manufacturing Systems: A Practical Example",
+      "venue": "2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 7,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://hal.science/hal-04255591/file/IEEE_GlobConET_Knittel_374_final.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/GlobConET56651.2023.10150033?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GlobConET56651.2023.10150033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "With the developed architecture the possibility is given to have distributed Machine Learning (ML) by enabling edge devices to learn local ML models, therefore, the performances of the global diagnostic models can be improved."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2023-05-19",
+      "journal": {
+        "name": "2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2220168832",
+          "name": "Nicolas Ringler"
+        },
+        {
+          "authorId": "2220169229",
+          "name": "Dominique Knittel"
+        },
+        {
+          "authorId": "49332057",
+          "name": "J. Ponsart"
+        },
+        {
+          "authorId": "144509563",
+          "name": "M. Nouari"
+        },
+        {
+          "authorId": "2220166555",
+          "name": "Abderrahmane Yakob"
+        },
+        {
+          "authorId": "32844890",
+          "name": "Daniela Romani"
+        }
+      ],
+      "abstract": "Edge Computing is becoming more and more essential for the Industrial Internet of Things (industrial IoT) for predictive maintenance in the industry 4.0 framework. The transition from central to distributed approaches (edge nodes), will enhance the capabilities of handling real-time big data from IoT by ensuring low latency and high bandwidth. Moreover, with the developed architecture the possibility is given to have distributed Machine Learning (ML) by enabling edge devices to learn local ML models. Therefore, the performances of the global diagnostic models can be improved. In this paper, the developed setup is composed of PC\u2019s, NVIDIA Jetson Nano Developers kits (for edge computing), and a smartphone for real-time displaying. The implemented real-time supervised machine learning approaches are applied on an industrial oil-injection screw compressor instrumented with vibration sensors. Time domain features are calculated online with the help of sliding windows and the features are automatically classified. Embedded in the equipment, the used algorithms obtained very good real-time diagnostic performances."
+    },
+    {
+      "paperId": "4e1cc397129bdad02cd60a264ebd6783e5b3ced0",
+      "externalIds": {
+        "DBLP": "conf/date/WaterlaatVRSD23",
+        "DOI": "10.23919/DATE56975.2023.10137073",
+        "CorpusId": 259028375
+      },
+      "url": "https://www.semanticscholar.org/paper/4e1cc397129bdad02cd60a264ebd6783e5b3ced0",
+      "title": "Quantization-Aware Neural Architecture Search with Hyperparameter Optimization for Industrial Predictive Maintenance Applications",
+      "venue": "Design, Automation and Test in Europe",
+      "year": 2023,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.23919/DATE56975.2023.10137073?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/DATE56975.2023.10137073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work shows that including hyperparameter optimization for training-related parameters alongside NAS enables substantial improvements in efficiency and task performance on a predictive maintenance task, and extends the combination of NAS and hyperparameters optimization with INT8 quantization to enhance efficiency further."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2023-04-01",
+      "journal": {
+        "name": "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+        "pages": "1-2"
+      },
+      "authors": [
+        {
+          "authorId": "2031977377",
+          "name": "Nick van de Waterlaat"
+        },
+        {
+          "authorId": "122161132",
+          "name": "Sebastian Vogel"
+        },
+        {
+          "authorId": "2219724342",
+          "name": "Hiram Rayo Torres Rodriguez"
+        },
+        {
+          "authorId": "73280782",
+          "name": "Willem P. Sanberg"
+        },
+        {
+          "authorId": "2329201472",
+          "name": "Gerardo Daalderop"
+        }
+      ],
+      "abstract": "Optimizing the efficiency of neural networks is cru-cial for ubiquitous machine learning on the edge. However, it requires specialized expertise to account for the wide variety of applications, edge devices, and deployment scenarios. An attractive approach to mitigate this bottleneck is Neural Architecture Search (NAS), as it allows for optimizing networks for both efficiency and task performance. This work shows that including hyperparameter optimization for training-related parameters alongside NAS enables substantial improvements in efficiency and task performance on a predictive maintenance task. Furthermore, this work extends the combination of NAS and hyperparameter optimization with INT8 quantization to enhance efficiency further. Our combined approach, which we refer to as Quantization-Aware NAS (QA-NAS), allows for further improvements in efficiency on the predictive maintenance task. Consequently, our work shows that QA-NAS is a promising research direction for optimizing neural networks for deployment on resource-constrained edge devices in industrial applications."
+    },
+    {
+      "paperId": "d4ceab5e68a074e925e9331858ffd615cdef7924",
+      "externalIds": {
+        "DOI": "10.52783/jes.4931",
+        "CorpusId": 270936159
+      },
+      "url": "https://www.semanticscholar.org/paper/d4ceab5e68a074e925e9331858ffd615cdef7924",
+      "title": "Energy Efficient Predictive Maintenance in Resource Constraint Industrial IoT devices using Smoothed Mish Activation Function",
+      "venue": "Journal of Electrical Systems",
+      "year": 2024,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.52783/jes.4931?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jes.4931, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The smoothed Mish activation function in the Bonsai tree algorithm outperform with low latency and power consumption, and a smooth Mish activation function in Bonsai tree algorithm is proposed to enhance accuracy with lowest ML model size."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-04-25",
+      "journal": {
+        "name": "Journal of Electrical Systems"
+      },
+      "authors": [
+        {
+          "authorId": "2309780064",
+          "name": "Neelamadhab Khaya"
+        },
+        {
+          "authorId": "2339123",
+          "name": "B. K. Pattanayak"
+        },
+        {
+          "authorId": "2136480712",
+          "name": "B. Patra"
+        },
+        {
+          "authorId": "13919174",
+          "name": "A. Habboush"
+        },
+        {
+          "authorId": "2275908807",
+          "name": "Bibhuprasad Mohanty"
+        }
+      ],
+      "abstract": "Traditionally, Industrial IoT devices collect sensor data to a cloud platform where ML/DL processing is to be done. Edge computing has the advantage of reducing latency, improved battery performance, safe transmission and reducing vulnerability. These benefits are particularly significant considering the limited resources on IoT devices, such as only a few kilobytes of RAM, and the critical importance of energy savings in industrial applications. Arduino Uno uses 2kB of RAM and 32 kB of read only flash memory. Optimal performance is required for ML inference on EDGE devices to get good accuracies and low latency. This research paper is based on memory optimization in resource constrained devices, focusing on a novel approach that combines the Bonsai tree architecture with a smoothed Mish activation function. While the Bonsai tree architecture has been explored in prior works, this research contributes to the refinement of the activation function, a crucial component in achieving superior test accuracy within limited memory constraints. Although many algorithms have been developed with good accuracy but can\u2019t be used in optimal power consumption with low latency and resource constraint like fewer RAM and ROM. A smooth Mish activation function in Bonsai tree algorithm is proposed to enhance accuracy with lowest ML model size, where Bonsai tree is a single,shallow,sparse tree where data is projected in low dimension space. Lowest ML model size consumes least power. We observed the smoothed Mish activation function in the Bonsai tree algorithm outperform with low latency and power consumption. \nThis paper aims to elucidate the methodology, experimental results, and implications of the modified activation function, shedding light on its potential to revolutionize memory-efficient edge computing in the Industrial IoT network."
+    },
+    {
+      "paperId": "9b563eeb0258e5c7319e8c8f9c9a68681a314450",
+      "externalIds": {
+        "DOI": "10.1051/itmconf/20257605012",
+        "CorpusId": 277340331
+      },
+      "url": "https://www.semanticscholar.org/paper/9b563eeb0258e5c7319e8c8f9c9a68681a314450",
+      "title": "Data Mining Techniques for Predictive Maintenance in Manufacturing Industries a Comprehensive Review",
+      "venue": "ITM Web of Conferences",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1051/itmconf/20257605012",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1051/itmconf/20257605012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/itmconf/20257605012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This survey introduces marginal AI applications in edge computing, predictive maintenance frameworks with scalability, and AI-powered anomaly identification for enhancing predictions in industrial-scale production."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "ITM Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "2212147337",
+          "name": "Narender Chinthamu"
+        },
+        {
+          "authorId": "2352090109",
+          "name": "Ashish"
+        },
+        {
+          "authorId": "2352115744",
+          "name": "Mathiyalagan P"
+        },
+        {
+          "authorId": "2352159890",
+          "name": "Devananda Rao B"
+        },
+        {
+          "authorId": "2352086022",
+          "name": "Kannadhasan S"
+        },
+        {
+          "authorId": "2352407026",
+          "name": "Suganya M"
+        }
+      ],
+      "abstract": "Predictive maintenance (PdM) is one of the major methods used in modern manufacturing to realize downtime minimization, lower the cost of maintenance and maximize machine service life by analyzing the collected data using data mining methodologies. However existing works mainly focus on conventional ML models without provide systems design real world applications systems and do not include any dimension related to network security dimension, cost and benefit analyzing dimension utility dimension and light weight A.I model for edge computing. In this paper, we contribute with a systematic literature review of state-of-the-art data-mining techniques for predictive maintenance with emphasis on hybrid AI frameworks, deep learning and online data processing approaches, as well as, privacy-aware methods. We contribute by providing a number of real-world industrial use case which differentiate us from previous researched; we discuss details of cybersecurity issues in IoT-enabled PdM; and we discuss use of XAI (Explainable AI) to build interpretable models. Moreover, this survey introduces marginal AI applications in edge computing, predictive maintenance frameworks with scalability, and AI-powered anomaly identification for enhancing predictions in industrial-scale production. It also covers a review of predictive maintenance methodologies in addition to a future research agenda, highlighting emerging patterns such as digital twins, Industry 5.0, and reinforcement learning in predictive maintenance. The current study aims to bridge critical gaps in the literature and support valuable direction for researchers, industry practitioners and policymakers for effective predictive maintenance strategies and task performance."
+    },
+    {
+      "paperId": "b25bcee13b88a70cde891f8a158871bfdd1d59db",
+      "externalIds": {
+        "CorpusId": 253393774
+      },
+      "url": "https://www.semanticscholar.org/paper/b25bcee13b88a70cde891f8a158871bfdd1d59db",
+      "title": "4.5 AI and IIoT-based Predictive Maintenance System for Soybean Processing",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An industrial predictive maintenance system used in soybean processing based on arti\ufb01cial intelligence (AI) and Industrial Internet of Things (IIoT) technologies to identify abnormalities and potentially break down situations to prevent damage, reduce maintenance costs and increase productivity."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "144785538",
+          "name": "O. Vermesan"
+        },
+        {
+          "authorId": "49457931",
+          "name": "Roy Bahr"
+        },
+        {
+          "authorId": "2174205927",
+          "name": "Ronnie Otto Bellmann"
+        },
+        {
+          "authorId": "2174205376",
+          "name": "J\u00f8ran Edell Martinsen"
+        },
+        {
+          "authorId": "2174205941",
+          "name": "Anders Kristoffersen"
+        },
+        {
+          "authorId": "2174205950",
+          "name": "Torgeir Hjertaker"
+        },
+        {
+          "authorId": "103116976",
+          "name": "John Breiland"
+        },
+        {
+          "authorId": "2174206609",
+          "name": "Karl Andersen"
+        },
+        {
+          "authorId": "2044757314",
+          "name": "Hans-Erik Sand"
+        },
+        {
+          "authorId": "1963791",
+          "name": "Parsa Rahmanpour"
+        },
+        {
+          "authorId": "2174205829",
+          "name": "David Lindberg"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "1ed855da775073d9e7ff7d5b4b5095d88ea8a765",
+      "externalIds": {
+        "DBLP": "journals/access/JamilSMA24",
+        "DOI": "10.1109/ACCESS.2024.3454812",
+        "CorpusId": 272447828
+      },
+      "url": "https://www.semanticscholar.org/paper/1ed855da775073d9e7ff7d5b4b5095d88ea8a765",
+      "title": "Enabling Industrial Internet of Things by Leveraging Distributed Edge-to-Cloud Computing: Challenges and Opportunities",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 90,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2024.3454812",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3454812?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3454812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comparative analysis of three prominent IoT platforms is provided, namely ThingsBoard, Eclipse Ditto, and Microsoft Azure IoT, and how these platforms meet the key IIoT requirements are assessed, thereby setting the stage for future work."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "127294-127308",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "1380268328",
+          "name": "Mohammad Newaj Jamil"
+        },
+        {
+          "authorId": "2509535",
+          "name": "O. Schel\u00e9n"
+        },
+        {
+          "authorId": "2321681391",
+          "name": "Ahmed Afif Monrat"
+        },
+        {
+          "authorId": "2309949057",
+          "name": "Karl Andersson"
+        }
+      ],
+      "abstract": "The Industrial Internet of Things (IIoT) promises automation, efficiency, and data-driven decision-making by real-time data collection and analysis. However, traditional IIoT architectures are cloud-centric and, therefore, struggle to handle large volumes of data, edge bandwidth constraints, and data confidentiality. Distributed edge-to-cloud computing emerges as a potential solution, also paving the ground for edge-to-cloud data analytics and distributed Artificial Intelligence (AI) to obtain insights for decision-making and predictive maintenance. Despite the potential, however, there is a lack of comprehensive studies identifying key requirements for distributed edge-to-cloud IIoT and analyzing to what extent emerging IoT platforms meet those requirements. The scope of this article is to survey existing literature to identify key requirements in IIoT from the perspective of distributed edge-to-cloud computing. We provide a comparative analysis of three prominent IoT platforms, namely ThingsBoard, Eclipse Ditto, and Microsoft Azure IoT, and assess how these platforms meet the key IIoT requirements. Finally, we identify open challenges and potential research opportunities based on the insights gained from the analysis of the three IoT platforms, thereby setting the stage for future work."
+    },
+    {
+      "paperId": "6841274deedb987ca5f324f9fd4926dc4c767a70",
+      "externalIds": {
+        "DOI": "10.36897/jme/192681",
+        "CorpusId": 272908664
+      },
+      "url": "https://www.semanticscholar.org/paper/6841274deedb987ca5f324f9fd4926dc4c767a70",
+      "title": "Machine Learning-Driven RUL Prediction and Uncertainty Quantification for Ball Screw Drives in a Cloud-Ready Maintenance Framework",
+      "venue": "Journal of Machine Engineering",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.36897/jme/192681?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36897/jme/192681, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research introduces an adaptive cloud-based model pipeline for predicting the Remaining Useful Life (RUL) of machine components, specifically ball screws, and significantly advances the adoption of digital business models within the manufacturing industry."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-09-25",
+      "journal": {
+        "name": "Journal of Machine Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2267560242",
+          "name": "Alexander Bott"
+        },
+        {
+          "authorId": "2323030871",
+          "name": "Bolin Liu"
+        },
+        {
+          "authorId": "2322975989",
+          "name": "Aleander Puchta"
+        },
+        {
+          "authorId": "2322975684",
+          "name": "Juergen Fleischer"
+        }
+      ],
+      "abstract": "In today's rapidly evolving industrial landscape, efficient predictive maintenance solutions are essential for minimizing downtime and enhancing productivity. This research introduces an adaptive cloud-based model pipeline for predicting the Remaining Useful Life (RUL) of machine components, specifically ball screws. The pipeline integrates local preprocessing, edge computing, and cloud-based adaptive model training, ensuring data privacy and reducing data transmission volumes. The system classifies wear states using various machine learning mod-els and predicts RUL through regression analysis, incorporating uncertainty quantification for robust maintenance scheduling. The experimental setup includes accelerated degradation of ball screws, with data collected via a three-dimensional accelerometer. Feature extraction and data augmentation techniques are employed to enhance prediction accuracy. Random Forest and Gradient Boosting models demonstrate superior performance, with Random Forest selected for its robustness and uncertainty quantification capabilities. Empirical results indicate high prediction accuracy, with Random Forest achieving up to 91% accuracy in Phase 2. This cloud-ready predictive maintenance framework leverages scalable cloud infrastructure for efficient data processing and real-time updates, offering a practical solution for industrial applications. The proposed approach significantly advances the adoption of digital business models within the manufacturing industry, providing a reliable and efficient tool for predictive maintenance."
+    },
+    {
+      "paperId": "1f7756b2dc48806ae241345af433392a4624944f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-07622",
+        "ArXiv": "1910.07622",
+        "MAG": "2980251184",
+        "DOI": "10.23919/AE.2019.8867032",
+        "CorpusId": 204700889
+      },
+      "url": "https://www.semanticscholar.org/paper/1f7756b2dc48806ae241345af433392a4624944f",
+      "title": "Network Scanning and Mapping for IIoT Edge Node Device Security",
+      "venue": "International Conference on Applied Electronics",
+      "year": 2019,
+      "referenceCount": 16,
+      "citationCount": 8,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "http://dspace5.zcu.cz/bitstream/11025/35527/1/Niedermaier.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/1910.07622, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces network scanning and mapping as a building block to scan directly from the Industrial Internet of Things edge node devices and scans the network in a pseudo-random periodic manner to discover devices and detect changes in the network structure."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2019-09-01",
+      "journal": {
+        "name": "2019 International Conference on Applied Electronics (AE)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "72089486",
+          "name": "Matthew Niedermaier"
+        },
+        {
+          "authorId": "1381195245",
+          "name": "Florian Fischer"
+        },
+        {
+          "authorId": "35047497",
+          "name": "D. Merli"
+        },
+        {
+          "authorId": "4547690",
+          "name": "G. Sigl"
+        }
+      ],
+      "abstract": "The amount of connected devices in the industrial environment is growing continuously, due to the ongoing demands of new features like predictive maintenance. New business models require more data, collected by IIoT edge node sensors based on inexpensive and low performance Microcontroller Units (MCUs). A negative side effect of this rise of interconnections is the increased attack surface, enabled by a larger network with more network services. Attaching badly documented and cheap devices to industrial networks often without permission of the administrator even further increases the security risk. A decent method to monitor the network and detect \u201cunwanted\u201d devices is network scanning. Typically, this scanning procedure is executed by a computer or server in each sub-network. In this paper, we introduce network scanning and mapping as a building block to scan directly from the Industrial Internet of Things (IIoT) edge node devices. This module scans the network in a pseudo-random periodic manner to discover devices and detect changes in the network structure. Furthermore, we validate our approach in an industrial testbed to show the feasibility of this approach."
+    },
+    {
+      "paperId": "d1a5abfd7f7a19fc2a15052ca8c62c9306b2baeb",
+      "externalIds": {
+        "DOI": "10.51594/estj.v5i11.1704",
+        "CorpusId": 273957046
+      },
+      "url": "https://www.semanticscholar.org/paper/d1a5abfd7f7a19fc2a15052ca8c62c9306b2baeb",
+      "title": "Exploring advanced techniques in process automation and control: A generic framework for oil and gas industry applications",
+      "venue": "Engineering Science &amp; Technology Journal",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/estj/article/download/1704/1953",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.51594/estj.v5i11.1704?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/estj.v5i11.1704, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-11-09",
+      "journal": {
+        "name": "Engineering Science &amp; Technology Journal"
+      },
+      "authors": [
+        {
+          "authorId": "2329415270",
+          "name": "Tari Yvonne Elete"
+        },
+        {
+          "authorId": "2329415523",
+          "name": "Emmanuella Onyinye Nwulu"
+        },
+        {
+          "authorId": "2327605474",
+          "name": "Ovie Vincent Erhueh"
+        },
+        {
+          "authorId": "2327358708",
+          "name": "Oluwaseyi Ayotunde Akano"
+        },
+        {
+          "authorId": "2324267314",
+          "name": "Adeoye Taofik Aderamo"
+        }
+      ],
+      "abstract": "This paper explores advanced techniques in process automation and control, offering a generic framework tailored for applications within the oil and gas industry. The framework addresses the growing need for operational efficiency, safety, and sustainability in an industry characterized by complex, high-risk processes. The adoption of cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Industrial Internet of Things (IIoT) has revolutionized process control systems, enabling real-time monitoring, predictive maintenance, and optimization of production assets. Advanced Process Control (APC) techniques, including model predictive control (MPC), multivariable control systems, and data-driven analytics, play a pivotal role in enhancing production, minimizing downtime, and reducing operational costs. This generic framework leverages the integration of AI and big data analytics for optimizing control strategies, ensuring accurate decision-making and improving operational responsiveness to changing conditions. Additionally, the paper examines how automated control systems mitigate risks associated with human error, while enhancing safety protocols by providing early warnings and real-time insights into equipment performance. Automation also supports the industry's shift towards more sustainable practices by improving energy efficiency, minimizing environmental impact, and enabling remote monitoring in hazardous locations. Through case studies and examples, the paper illustrates the successful implementation of these techniques in upstream, midstream, and downstream operations, highlighting the significant role of digital transformation in driving innovation. The proposed framework can be adapted to diverse oil and gas settings, serving as a foundation for developing scalable, flexible, and sustainable automation solutions. By outlining the key components and benefits of advanced process automation and control, this study contributes to the ongoing discourse on how technological advancements can reshape operational strategies in the oil and gas sector. \nKeywords: Process Automation, Control Systems, Oil And Gas Industry, Artificial Intelligence (AI), Machine Learning (ML), Industrial Internet of Things (IIoT), Advanced Process Control (APC), Model Predictive Control (MPC), Predictive Maintenance, Digital Transformation, Sustainability."
+    },
+    {
+      "paperId": "0e72d29fad369642b533e9e23f15cb304779636b",
+      "externalIds": {
+        "DBLP": "conf/i2mtc/SchauerGSS24",
+        "DOI": "10.1109/I2MTC60896.2024.10560978",
+        "CorpusId": 270797377
+      },
+      "url": "https://www.semanticscholar.org/paper/0e72d29fad369642b533e9e23f15cb304779636b",
+      "title": "Deep Neural Network Representation for Explainable Machine Learning Algorithms: A Method for Hardware Acceleration",
+      "venue": "International Instrumentation and Measurement Technology Conference",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/I2MTC60896.2024.10560978?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I2MTC60896.2024.10560978, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A method to represent trained explainable ML algorithms as Deep Neural Networks to utilize hardware acceleration to meet the growing demand for accelerated inference of Machine Learning algorithms on edge hardware is presented."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2024-05-20",
+      "journal": {
+        "name": "2024 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2308673498",
+          "name": "Julian Schauer"
+        },
+        {
+          "authorId": "49756172",
+          "name": "P. Goodarzi"
+        },
+        {
+          "authorId": "2239633148",
+          "name": "Andreas Sch\u00fctze"
+        },
+        {
+          "authorId": "49601719",
+          "name": "T. Schneider"
+        }
+      ],
+      "abstract": "Deep Learning and Machine Learning algorithms achieved good results in various tasks, from computer vision and speech recognition to condition monitoring and predictive maintenance. Besides the good results obtained, most Deep Learning algorithms do not provide a precise interpretation of their decisions. For the purpose of interpretability, explainable ML has gained attention. Because hardware accelerators do not support most explainable Machine Learning algorithms, they frequently experience runtime deficiencies. The resulting need for comparably inefficient software implementations limits their use on edge-computing hardware. This paper presents a method to represent trained explainable ML algorithms as Deep Neural Networks to utilize hardware acceleration to meet the growing demand for accelerated inference of Machine Learning algorithms on edge hardware. The primary approach of the paper is to disassemble the trained explainable ML algorithms' inference into their basic mathematical operations to represent them as Deep Neural Network layers. The techniques to convert the trained model functionalities to Deep Neural Network layers are described in detail, including the layer functionalities and their usage in the Deep Neural Networks. Due to the wide use of Deep Neural Networks on hardware accelerators, this method allows the usage of affordable and efficient edge hardware instead of high-price, customized hardware and replaces the programming of high-effort compiler. Finally, the method is successfully applied to a part of an open-source ML toolbox, and the resulting Deep Neural network inferences are successfully run on a Neural Processing Unit."
+    },
+    {
+      "paperId": "f56a4d6e356d5e344acd3cb8cdf348150d286a09",
+      "externalIds": {
+        "DBLP": "conf/wf-iot/SommersRCMRSJ24",
+        "ArXiv": "2404.08601",
+        "DOI": "10.1109/WF-IoT62078.2024.10811344",
+        "CorpusId": 269137508
+      },
+      "url": "https://www.semanticscholar.org/paper/f56a4d6e356d5e344acd3cb8cdf348150d286a09",
+      "title": "Generating Synthetic Time Series Data for Cyber-Physical Systems",
+      "venue": "World Forum on Internet of Things",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2404.08601",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2404.08601, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work presents a transformer based architecture hybridizing several successful priors, and a quality testing metric using power spectrum Wasserstein distances, Though promising in theory, results suggest the challenge of this task and domain combination, and highlight several valuable directions for future work."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-04-12",
+      "journal": {
+        "name": "2024 IEEE 10th World Forum on Internet of Things (WF-IoT)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "1978763973",
+          "name": "Alexander Sommers"
+        },
+        {
+          "authorId": "48149589",
+          "name": "Somayeh Bakhtiari Ramezani"
+        },
+        {
+          "authorId": "2151201755",
+          "name": "Logan Cummins"
+        },
+        {
+          "authorId": "2284767922",
+          "name": "Sudip Mittal"
+        },
+        {
+          "authorId": "2066329536",
+          "name": "Shahram Rahimi"
+        },
+        {
+          "authorId": "108141557",
+          "name": "Maria Seale"
+        },
+        {
+          "authorId": "2296600633",
+          "name": "Joseph Jaboure"
+        }
+      ],
+      "abstract": "Deep learning is at the cutting edge of machine learning in fields as critical and diverse as predictive maintenance in industry and anomaly detection in healthcare. Data augmentation can facilitate deep learning applications in these time series domain tasks, which are often data poor by virtue of involving relatively rare systemic malfunction. A literature gap exists around the application of the transformer to data augmentation in time series. This work presents a transformer based architecture hybridizing several successful priors, and a quality testing metric using power spectrum Wasserstein distances. Though promising in theory, results suggest the challenge of this task and domain combination, and highlight several valuable directions for future work."
+    },
+    {
+      "paperId": "9b57c1f444f46326ff95af6ce0e0546f2d600fbe",
+      "externalIds": {
+        "DBLP": "conf/ucc/FilippiniSA23",
+        "DOI": "10.1145/3603166.3632560",
+        "CorpusId": 268940570
+      },
+      "url": "https://www.semanticscholar.org/paper/9b57c1f444f46326ff95af6ce0e0546f2d600fbe",
+      "title": "SPACE4AI-R: a Runtime Management Tool for AI Applications Component Placement and Resource Scaling in Computing Continua",
+      "venue": "International Conference on Utility and Cloud Computing",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3603166.3632560",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1145/3603166.3632560?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3603166.3632560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "publicationTypes": [
+        "Book",
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-12-04",
+      "journal": {
+        "name": "Proceedings of the IEEE/ACM 16th International Conference on Utility and Cloud Computing"
+      },
+      "authors": [
+        {
+          "authorId": "2064482862",
+          "name": "Federica Filippini"
+        },
+        {
+          "authorId": "69964103",
+          "name": "Hamta Sedghani"
+        },
+        {
+          "authorId": "2268244141",
+          "name": "Danilo Ardagna"
+        }
+      ],
+      "abstract": "The recent migration towards Internet of Things determined the rise of a Computing Continuum paradigm where Edge and Cloud resources coordinate to support the execution of Artificial Intelligence (AI) applications, becoming the foundation of use-cases spanning from predictive maintenance to machine vision and healthcare. This generates a fragmented scenario where computing and storage power are distributed among multiple devices with highly heterogeneous capacities. The runtime management of AI applications executed in the Computing Continuum is challenging, and requires ad-hoc solutions. We propose SPACE4AI-R, which combines Random Search and Stochastic Local Search algorithms to cope with workload fluctuations by identifying the minimum-cost reconfiguration of the initial production deployment, while providing performance guarantees across heterogeneous resources including Edge devices and servers, Cloud GPU-based Virtual Machines and Function as a Service solutions. Experimental results prove the efficacy of our tool, yielding up to 60% cost reductions against a static design-time placement, with a maximum execution time under 1.5s in the most complex scenarios."
+    },
+    {
+      "paperId": "1947fc8e8e26d09c2eed70616c8c4b5614add045",
+      "externalIds": {
+        "ArXiv": "2110.05757",
+        "DBLP": "journals/corr/abs-2110-05757",
+        "DOI": "10.1109/SPAWC51858.2021.9593188",
+        "CorpusId": 238634597
+      },
+      "url": "https://www.semanticscholar.org/paper/1947fc8e8e26d09c2eed70616c8c4b5614add045",
+      "title": "Remote Anomaly Detection in Industry 4.0 Using Resource-Constrained Devices",
+      "venue": "International Workshop on Signal Processing Advances in Wireless Communications",
+      "year": 2021,
+      "referenceCount": 17,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2110.05757.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2110.05757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Mathematics",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper studies the impact of source coding on the detection accuracy with both an anomaly detector based on Principal Component Analysis (PCA) and one based on an autoencoder and shows that the coded transmission is beneficial when the signal-to-noise ratio of the channel is low, while uncoded transmission performs best in the high SNR regime."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2021-09-27",
+      "journal": {
+        "name": "2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+        "pages": "251-255"
+      },
+      "authors": [
+        {
+          "authorId": "1404339916",
+          "name": "A. Kal\u00f8r"
+        },
+        {
+          "authorId": "9686806",
+          "name": "Daniel Michelsanti"
+        },
+        {
+          "authorId": "48629851",
+          "name": "Federico Chiariotti"
+        },
+        {
+          "authorId": "1709835",
+          "name": "Zheng-Hua Tan"
+        },
+        {
+          "authorId": "1697795",
+          "name": "P. Popovski"
+        }
+      ],
+      "abstract": "A central use case for the Internet of Things (IoT) is the adoption of sensors to monitor physical processes, such as the environment and industrial manufacturing processes, where they provide data for predictive maintenance, anomaly detection, or similar. The sensor devices are typically resource-constrained in terms of computation and power, and need to rely on cloud or edge computing for data processing. However, the capacity of the wireless link and their power constraints limit the amount of data that can be transmitted to the cloud. While this is not problematic for the monitoring of slowly varying processes such as temperature, it is more problematic for complex signals such as those captured by vibration and acoustic sensors. In this paper, we consider the specific problem of remote anomaly detection based on signals that fall into the latter category over wireless channels with resource-constrained sensors. We study the impact of source coding on the detection accuracy with both an anomaly detector based on Principal Component Analysis (PCA) and one based on an autoencoder. We show that the coded transmission is beneficial when the signal-to-noise ratio (SNR) of the channel is low, while uncoded transmission performs best in the high SNR regime."
+    },
+    {
+      "paperId": "56730eed76cf1f40967b5aa03cbb82f3b390ea6c",
+      "externalIds": {
+        "DBLP": "conf/ml4cps/GaticaB18",
+        "MAG": "2905317697",
+        "DOI": "10.1007/978-3-662-58485-9_12",
+        "CorpusId": 70137930
+      },
+      "url": "https://www.semanticscholar.org/paper/56730eed76cf1f40967b5aa03cbb82f3b390ea6c",
+      "title": "Enabling Self-Diagnosis of Automation Devices through Industrial Analytics",
+      "venue": "International Conference on Machine Learning for Cyber Physical Systems",
+      "year": 2018,
+      "referenceCount": 5,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-58485-9_12.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-662-58485-9_12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-662-58485-9_12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper shows how automation components can be enhanced with self-monitoring capabilities, which are more effective than traditional rule-based methods, by using Industrial Analytics approaches."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2018-12-18",
+      "journal": {
+        "pages": "107-115"
+      },
+      "authors": [
+        {
+          "authorId": "8430660",
+          "name": "Carlos Paiz Gatica"
+        },
+        {
+          "authorId": "2131696",
+          "name": "A. Boschmann"
+        }
+      ],
+      "abstract": "This paper shows how automation components can be enhanced with self-monitoring capabilities, which are more effective than traditional rule-based methods, by using Industrial Analytics approaches. Two application examples are presented to show how this approach allows the realization of a predictive maintenance strategy, while drastically reducing the realization effort. Furthermore, the benefits of a flexible architecture combining edge- and cloud-computing for the realization of such monitoring system are discussed."
+    },
+    {
+      "paperId": "da0b3d713463ad7db2a762797f93a606b3074b73",
+      "externalIds": {
+        "CorpusId": 264560104
+      },
+      "url": "https://www.semanticscholar.org/paper/da0b3d713463ad7db2a762797f93a606b3074b73",
+      "title": "Recent Trends of Artificial Intelligence in the Internet of Things",
+      "venue": "",
+      "year": null,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Overall, the integration of AI with IoT has the potential to create a more intelligent and efficient world, and the authors can expect to see even more innovative applications emerge in the future."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "2261217205",
+          "name": "Amitava Podder"
+        },
+        {
+          "authorId": "2261363227",
+          "name": "Shyamalendu Paul"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9b720b12a0aab8b741de1c51331380823453005f",
+      "externalIds": {
+        "DBLP": "conf/etfa/EguiluzGBTVEBS18",
+        "MAG": "2899095536",
+        "DOI": "10.1109/ETFA.2018.8502525",
+        "CorpusId": 53083774
+      },
+      "url": "https://www.semanticscholar.org/paper/9b720b12a0aab8b741de1c51331380823453005f",
+      "title": "Non-Intrusive Wireless Torque Sensor Node for Shaft Monitoring in Press Machine",
+      "venue": "IEEE International Conference on Emerging Technologies and Factory Automation",
+      "year": 2018,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ETFA.2018.8502525?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ETFA.2018.8502525, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The development of this wireless torque sensor node improves maintenance strategies, monitoring and analysing non-intrusively the shaft status, and increases machines and components reliability reducing high costs caused by production downtimes with required maintenance repair operations."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2018-09-01",
+      "journal": {
+        "name": "2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA)",
+        "pages": "824-831",
+        "volume": "1"
+      },
+      "authors": [
+        {
+          "authorId": "2354436",
+          "name": "Xabier Eguiluz"
+        },
+        {
+          "authorId": "51015521",
+          "name": "I. Gabilondo"
+        },
+        {
+          "authorId": "143923253",
+          "name": "J. Berganzo"
+        },
+        {
+          "authorId": "3035356",
+          "name": "Raul Torrego"
+        },
+        {
+          "authorId": "145937803",
+          "name": "I. Val"
+        },
+        {
+          "authorId": "52196461",
+          "name": "A. Etxabe"
+        },
+        {
+          "authorId": "40515788",
+          "name": "J. Basurko"
+        },
+        {
+          "authorId": "80628583",
+          "name": "O. Sarasua"
+        }
+      ],
+      "abstract": "Press machine maintenance requires to incorporate cutting-edge technologies in the most critical elements for enhancing press and components robustness and functionality in order to facilitate proactive-predictive maintenance activities. In this work, a wireless torque sensor node has been designed, developed, tested and validated. This increases machines and components reliability reducing high costs caused by production downtimes with required maintenance repair operations. The development of this wireless torque sensor node improves maintenance strategies, monitoring and analysing non-intrusively the shaft status."
+    },
+    {
+      "paperId": "94aa2a18e525e0f732f857082dc12db3af2eadd9",
+      "externalIds": {
+        "DOI": "10.1515/zwf-2025-1054",
+        "CorpusId": 278849626
+      },
+      "url": "https://www.semanticscholar.org/paper/94aa2a18e525e0f732f857082dc12db3af2eadd9",
+      "title": "Durch fortgeschrittene Analytik zur vorausschauenden Wartung",
+      "venue": "Zeitschrift f\u00fcr wirtschaftlichen Fabrikbetrieb",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1515/zwf-2025-1054?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/zwf-2025-1054, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2025-05-20",
+      "journal": {
+        "name": "Zeitschrift f\u00fcr wirtschaftlichen Fabrikbetrieb",
+        "pages": "335 - 338",
+        "volume": "120"
+      },
+      "authors": [
+        {
+          "authorId": "2257088584",
+          "name": "Florian Disson"
+        },
+        {
+          "authorId": "1659059201",
+          "name": "F. Zscheile"
+        }
+      ],
+      "abstract": "Abstract Predictive Maintenance hat sich als effektive Strategie etabliert, mit der Maschinen- und Anlagenbauer Wartungsbedarfe fr\u00fchzeitig erkennen und ungeplante Ausf\u00e4lle vermeiden. Voraussetzung f\u00fcr die erfolgreiche Umsetzung ist ein leistungsf\u00e4higes Datenmanagement, das alle Prozesse integriert, von der Erfassung heterogener Sensordaten \u00fcber deren lokale Vorverarbeitung mittels Edge Computing bis hin zur zentralen Analyse mit Machine Learning in Cloud-Systemen. Der Aufzughersteller KONE hat ein solches Konzept f\u00fcr mehr als 150.000 Anlagen in seinem intelligenten Wartungsdienst \u201e24/7 Connected Services\u201c umgesetzt."
+    },
+    {
+      "paperId": "5ab8a5c89bb2d9000bfea6bf269e95a7925a58e2",
+      "externalIds": {
+        "MAG": "3111790904",
+        "DBLP": "conf/icphys/TzanisAMMBB20",
+        "DOI": "10.1109/ICPS48405.2020.9274723",
+        "CorpusId": 228091862
+      },
+      "url": "https://www.semanticscholar.org/paper/5ab8a5c89bb2d9000bfea6bf269e95a7925a58e2",
+      "title": "A Hybrid Cyber Physical Digital Twin Approach for Smart Grid Fault Prediction",
+      "venue": "Industrial Cyber-Physical Systems",
+      "year": 2020,
+      "referenceCount": 11,
+      "citationCount": 39,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPS48405.2020.9274723?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPS48405.2020.9274723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In case of early warning measurements acquired through the IIoT, machine learning edge computations can detect the severity of the warning, identify the network area of interest while ignite the execution of the transient state estimation."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2020-06-10",
+      "journal": {
+        "name": "2020 IEEE Conference on Industrial Cyberphysical Systems (ICPS)",
+        "pages": "393-397",
+        "volume": "1"
+      },
+      "authors": [
+        {
+          "authorId": "40997392",
+          "name": "N. Tzanis"
+        },
+        {
+          "authorId": "1996182168",
+          "name": "N. Andriopoulos"
+        },
+        {
+          "authorId": "2325610088",
+          "name": "Aris Magklaras"
+        },
+        {
+          "authorId": "1581473964",
+          "name": "E. Mylonas"
+        },
+        {
+          "authorId": "1743040",
+          "name": "M. Birbas"
+        },
+        {
+          "authorId": "3034778",
+          "name": "A. Birbas"
+        }
+      ],
+      "abstract": "The massive penetration of Distributed Energy Resources (DER) and high speed power electronics, even at the distribution grid edge, increases the management and operational complexity of the network while necessitates predictive maintenance, control and failure prediction mechanisms in near real time. A distribution subsystem comprises a CPS (Cyber Physical System) where the Cyber part is enabled by a low latency IIoT network and computational resources at the edge (distribution grid subsystem controller) while the physical system is represented (Digital Twin) by a hybrid model of the grid: a data driven machine learning representation of a limited number of nodes, along with a discrete-time model-based transient state estimator which captures the near real time physical operation of the grid. In case of early warning measurements acquired through the IIoT, machine learning edge computations can detect the severity of the warning, identify the network area of interest while ignite the execution of the transient state estimation. The transient state estimation predicts the incoming failure in near real time while the timing window allows possible preventive actuation."
+    },
+    {
+      "paperId": "922f4168f37dfc0c8b47a940211febce11c11762",
+      "externalIds": {
+        "PubMedCentral": "11678991",
+        "DOI": "10.3390/s24247918",
+        "CorpusId": 274673757,
+        "PubMed": "39771653"
+      },
+      "url": "https://www.semanticscholar.org/paper/922f4168f37dfc0c8b47a940211febce11c11762",
+      "title": "Edge-Cloud Synergy for AI-Enhanced Sensor Network Data: A Real-Time Predictive Maintenance Framework",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11678991, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research proposes an edge-cloud hybrid framework, leveraging edge devices for immediate anomaly detection and cloud servers for in-depth failure prediction, offering a scalable, efficient solution for real-time predictive maintenance, making it highly applicable to resource-constrained, data-intensive environments."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-12-01",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "24"
+      },
+      "authors": [
+        {
+          "authorId": "2330951061",
+          "name": "Kaushik Sathupadi"
+        },
+        {
+          "authorId": "2188759145",
+          "name": "Sandesh Achar"
+        },
+        {
+          "authorId": "2334975059",
+          "name": "Shinoy Vengaramkode Bhaskaran"
+        },
+        {
+          "authorId": "151147962",
+          "name": "Nuruzzaman Faruqui"
+        },
+        {
+          "authorId": "2286182661",
+          "name": "M. Abdullah-Al-Wadud"
+        },
+        {
+          "authorId": "2256837396",
+          "name": "Jia Uddin"
+        }
+      ],
+      "abstract": "Sensor networks generate vast amounts of data in real-time, which challenges existing predictive maintenance frameworks due to high latency, energy consumption, and bandwidth requirements. This research addresses these limitations by proposing an edge-cloud hybrid framework, leveraging edge devices for immediate anomaly detection and cloud servers for in-depth failure prediction. A K-Nearest Neighbors (KNNs) model is deployed on edge devices to detect anomalies in real-time, reducing the need for continuous data transfer to the cloud. Meanwhile, a Long Short-Term Memory (LSTM) model in the cloud analyzes time-series data for predictive failure analysis, enhancing maintenance scheduling and operational efficiency. The framework\u2019s dynamic workload management algorithm optimizes task distribution between edge and cloud resources, balancing latency, bandwidth usage, and energy consumption. Experimental results show that the hybrid approach achieves a 35% reduction in latency, a 28% decrease in energy consumption, and a 60% reduction in bandwidth usage compared to cloud-only solutions. This framework offers a scalable, efficient solution for real-time predictive maintenance, making it highly applicable to resource-constrained, data-intensive environments."
+    },
+    {
+      "paperId": "1f499b0923d7a505cafc750c44aed7bb18698e20",
+      "externalIds": {
+        "DOI": "10.55544/jrasb.3.1.55",
+        "CorpusId": 272862625
+      },
+      "url": "https://www.semanticscholar.org/paper/1f499b0923d7a505cafc750c44aed7bb18698e20",
+      "title": "AI-Driven Predictive Maintenance for Industrial Assets using Edge Computing and Machine Learning",
+      "venue": "Journal for Research in Applied Sciences and Biotechnology",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 7,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.55544/jrasb.3.1.55?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55544/jrasb.3.1.55, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The integration of artificial intelligence and machine learning algorithms with edge computing to develop an intelligent predictive maintenance framework for industrial assets enables real-time anomaly detection, remaining useful life (RUL) estimation, and proactive maintenance scheduling."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-02-28",
+      "journal": {
+        "name": "Journal for Research in Applied Sciences and Biotechnology"
+      },
+      "authors": [
+        {
+          "authorId": "2319372811",
+          "name": "Darshit Thakkar"
+        },
+        {
+          "authorId": "2322993137",
+          "name": "Ravi Kumar"
+        }
+      ],
+      "abstract": "The increasing complexity and scale of industrial assets, such as machinery, equipment, and infrastructure, have led to a growing need for effective predictive maintenance strategies. Traditional time-based or reactive maintenance approaches often fall short in addressing the dynamic nature of asset degradation and failure patterns. This study explores the integration of artificial intelligence (AI) and machine learning (ML) algorithms with edge computing to develop an intelligent predictive maintenance framework for industrial assets. By processing sensor data and executing ML models closer to the source, at the edge, this approach enables real-time anomaly detection, remaining useful life (RUL) estimation, and proactive maintenance scheduling. The paper outlines the key methods involved, including sensor data preprocessing, feature engineering, ML model development, and deployment on edge devices. It also discusses the benefits of this integration, such as reduced downtime, improved asset reliability, and enhanced operational efficiency. Furthermore, the study highlights emerging trends, such as transfer learning, ensemble modeling, and adaptive learning, which enhance the flexibility, accuracy, and adaptability of the AI-driven predictive maintenance system. The findings demonstrate the transformative potential of this synergy, empowering industrial operations to transition from reactive to predictive maintenance, ultimately optimizing asset performance and reducing maintenance costs."
+    }
+  ]
+}

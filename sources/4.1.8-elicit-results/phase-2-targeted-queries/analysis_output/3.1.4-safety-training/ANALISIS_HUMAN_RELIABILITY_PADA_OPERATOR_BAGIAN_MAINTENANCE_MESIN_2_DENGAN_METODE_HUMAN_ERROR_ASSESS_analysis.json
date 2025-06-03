@@ -1,0 +1,43 @@
+{
+  "source_markdown_file": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/ANALISIS_HUMAN_RELIABILITY_PADA_OPERATOR_BAGIAN_MAINTENANCE_MESIN_2_DENGAN_METODE_HUMAN_ERROR_ASSESS.md",
+  "title": "ANALISIS_HUMAN_RELIABILITY_PADA_OPERATOR_BAGIAN_MAINTENANCE_MESIN_2_DENGAN_METODE_HUMAN_ERROR_ASSESS",
+  "doi": "N/A",
+  "extracted_contexts": {
+    "organizations_companies": [
+      "akibatnya \ndapat menimbulkan kerusakan power plant dan \nmembahayakan kehidupan manusia di sekitar power",
+      "feedwater system merupakan \nsalah satu sistem yang kompleks yang mendukung \nberoperasinya suatu power",
+      "feedwater system merupakan sistem yang \nsangat penting dan sensitif bagi kelangsungan hidup \nsuatu power",
+      "feedwater system pada power",
+      "keamanan dan keselamatan pengoperasian \npower plant akan dapat terpenuhi jika sistem \nyang ada di power",
+      "kerusakan pada salah \nsatu komponen akan menyebabkan kerusakan yang \nlebih besar pada seluruh power",
+      "prentice \nhall inc",
+      "taylor and \nfrancis inc",
+      "the ohio state university"
+    ],
+    "technologies_systems": [
+      "api"
+    ],
+    "practical_challenges": [
+      "human error",
+      "risk of"
+    ],
+    "commercial_solutions_vendors": [
+      "akibatnya \ndapat menimbulkan kerusakan power plant dan \nmembahayakan kehidupan manusia di sekitar power",
+      "feedwater system merupakan \nsalah satu sistem yang kompleks yang mendukung \nberoperasinya suatu power",
+      "feedwater system merupakan sistem yang \nsangat penting dan sensitif bagi kelangsungan hidup \nsuatu power",
+      "feedwater system pada power",
+      "keamanan dan keselamatan pengoperasian \npower plant akan dapat terpenuhi jika sistem \nyang ada di power",
+      "kerusakan pada salah \nsatu komponen akan menyebabkan kerusakan yang \nlebih besar pada seluruh power",
+      "prentice \nhall inc",
+      "taylor and \nfrancis inc",
+      "the ohio state university"
+    ],
+    "standards_protocols": [],
+    "keywords_phrases": [
+      "control room",
+      "operator",
+      "solar"
+    ]
+  },
+  "keywords_phrases": []
+}

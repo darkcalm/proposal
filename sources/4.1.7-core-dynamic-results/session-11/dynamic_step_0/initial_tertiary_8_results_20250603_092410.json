@@ -1,0 +1,782 @@
+{
+  "totalHitsEncounteredAcrossPages": 293233,
+  "retrievedCountForThisQuery": 15,
+  "searchIdentifier": "initial_tertiary_8",
+  "originalQuery": "Operator tools for energy systems",
+  "results": [
+    {
+      "id": 148966529,
+      "doi": "10.1016/j.procir.2020.02.182",
+      "title": "A methodology for energy efficiency redesign of smart production systems",
+      "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufacturing process. In this paper, a methodology for energy efficiency re-design of production systems in a context of smart manufacturing is proposed. The continuous production-machine data collection with operator feedbacks enables the creation of a knowledge-based repository that provides useful support during the design of manufacturing systems. A case study in an automotive sector company has allowed to implement the methodology and to assess its effectiveness",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alessandra Papetti"
+        },
+        {
+          "name": "Marta Rossi"
+        },
+        {
+          "name": "Michele Germani"
+        },
+        {
+          "name": "Roberto Menghi"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 37639895,
+      "doi": "10.1088/1361-6455/aa5baa",
+      "title": "Generalized noise terms for the quantized fluctuational electrodynamics",
+      "abstract": "The quantization of optical fields in vacuum has been known for decades, but\nextending the field quantization to lossy and dispersive media in\nnonequilibrium conditions has proven to be complicated due to the\nposition-dependent electric and magnetic responses of the media. In fact,\nconsistent position-dependent quantum models for the photon number in resonant\nstructures have only been formulated very recently and only for dielectric\nmedia. Here we present a general position-dependent quantized fluctuational\nelectrodynamics (QFED) formalism that extends the consistent field quantization\nto describe the photon number also in the presence of magnetic field-matter\ninteractions. It is shown that the magnetic fluctuations provide an additional\ndegree of freedom in media where the magnetic coupling to the field is\nprominent. Therefore, the field quantization requires an additional independent\nnoise operator that is commuting with the conventional bosonic noise operator\ndescribing the polarization current fluctuations in dielectric media. In\naddition to allowing the detailed description of field fluctuations, our\nmethods provide practical tools for modeling optical energy transfer and the\nformation of thermal balance in general dielectric and magnetic nanodevices. We\nuse the QFED to investigate the magnetic properties of microcavity systems to\ndemonstrate an example geometry in which it is possible to probe fields arising\nfrom the electric and magnetic source terms. We show that, as a consequence of\nthe magnetic Purcell effect, the tuning of the position of an emitter layer\nplaced inside a vacuum cavity can make the emissivity of a magnetic emitter to\nexceed the emissivity of a corresponding electric emitter",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "H\u00e4yrynen, Teppo"
+        },
+        {
+          "name": "Oksanen, Jani"
+        },
+        {
+          "name": "Partanen, Mikko"
+        },
+        {
+          "name": "Tulkki, Jukka"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1611.01226",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0953-4075"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17214198,
+      "doi": "10.1007/978-3-319-05437-7_5",
+      "title": "Introduction to Configuration Path Integral Monte Carlo",
+      "abstract": "In low-temperature high-density plasmas quantum effects of the electrons are\nbecoming increasingly important. This requires the development of new\ntheoretical and computational tools. Quantum Monte Carlo methods are among the\nmost successful approaches to first-principle simulations of many-body quantum\nsystems. In this chapter we present a recently developed method---the\nconfiguration path integral Monte Carlo (CPIMC) method for moderately coupled,\nhighly degenerate fermions at finite temperatures. It is based on the second\nquantization representation of the $N$-particle density operator in a basis of\n(anti-)symmetrized $N$-particle states (configurations of occupation numbers)\nand allows to tread arbitrary pair interactions in a continuous space.\n  We give a detailed description of the method and discuss the application to\nelectrons or, more generally, Coulomb-interacting fermions. As a test case we\nconsider a few quantum particles in a one-dimensional harmonic trap. Depending\non the coupling parameter (ratio of the interaction energy to kinetic energy),\nthe method strongly reduces the sign problem as compared to direct path\nintegral Monte Carlo (DPIMC) simulations in the regime of strong degeneracy\nwhich is of particular importance for dense matter in laser plasmas or compact\nstars. In order to provide a self-contained introduction, the chapter includes\na short introduction to Metropolis Monte Carlo methods and the second\nquantization of quantum mechanics.Comment: chapter in book \"Introduction to Complex Plasmas: Scientific\n  Challenges and Technological Opportunities\", Michael Bonitz, K. Becker, J.\n  Lopez and H. Thomsen (Eds.) Springer Series \"Atomic, Optical and Plasma\n  Physics\", vol. 82, Springer 2014, pp. 153-194 ISBN: 978-3-319-05436-0 (Print)\n  978-3-319-05437-7 (Online",
+      "yearPublished": 2014,
+      "publishedDate": "2014-08-08T00:00:00",
+      "authors": [
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "Anders W. Sandvik"
+        },
+        {
+          "name": "AP Lyubartsev"
+        },
+        {
+          "name": "AV Filinov"
+        },
+        {
+          "name": "B Holst"
+        },
+        {
+          "name": "D Hochstuhl"
+        },
+        {
+          "name": "D.M. Ceperley"
+        },
+        {
+          "name": "DM Ceperley"
+        },
+        {
+          "name": "E Gull"
+        },
+        {
+          "name": "H Haberland"
+        },
+        {
+          "name": "HF Trotter"
+        },
+        {
+          "name": "JS Tse"
+        },
+        {
+          "name": "Karsten Balzer"
+        },
+        {
+          "name": "KP Driver"
+        },
+        {
+          "name": "M Bonitz"
+        },
+        {
+          "name": "M Suzuki"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "MA Morales"
+        },
+        {
+          "name": "N Metropolis"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "Proceedings of the conference. Strongly Coupled Coulomb systems"
+        },
+        {
+          "name": "R Egger"
+        },
+        {
+          "name": "R Redmer"
+        },
+        {
+          "name": "T Nakamura"
+        },
+        {
+          "name": "T Schoof"
+        },
+        {
+          "name": "Trygve Helgaker"
+        },
+        {
+          "name": "VS Filinov"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1408.2011",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1615-5653"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 673719,
+      "doi": "10.1088/1367-2630/12/6/065003",
+      "title": "Non-Commutative Tools for Topological Insulators",
+      "abstract": "This paper reviews several analytic tools for the field of topological\ninsulators, developed with the aid of non-commutative calculus and geometry.\nThe set of tools includes bulk topological invariants defined directly in the\nthermodynamic limit and in the presence of disorder, whose robustness is shown\nto have non-trivial physical consequences for the bulk states. The set of tools\nalso includes a general relation between the current of an observable and its\nedge index, relation that can be used to investigate the robustness of the edge\nstates against disorder. The paper focuses on the motivations behind creating\nsuch tools and on how to use them.Comment: Final version (some arguments were corrected",
+      "yearPublished": 2009,
+      "publishedDate": "2009-12-15T00:00:00",
+      "authors": [
+        {
+          "name": "Emil Prodan"
+        },
+        {
+          "name": "Murakami S"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Volovik G E"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/0911.2816",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": "New Journal of Physics",
+          "identifiers": [
+            "1367-2630"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 40830425,
+      "doi": "10.1016/j.eswa.2016.06.040",
+      "title": "Data-based fault detection in chemical processes: Managing records with operator intervention and uncertain labels",
+      "abstract": "Developing data-driven fault detection systems for chemical plants requires managing uncertain data labels and dynamic attributes due to operator-process interactions. Mislabeled data is a known problem in computer science that has received scarce attention from the process systems community. This work introduces and examines the effects of operator actions in records and labels, and the consequences in the development of detection models. Using a state space model, this work proposes an iterative relabeling scheme for retraining classifiers that continuously refines dynamic attributes and labels. Three case studies are presented: a reactor as a motivating example, flooding in a simulated de-Butanizer column, as a complex case, and foaming in an absorber as an industrial challenge. For the first case, detection accuracy is shown to increase by 14% while operating costs are reduced by 20%. Moreover, regarding the de-Butanizer column, the performance of the proposed strategy is shown to be 10% higher than the filtering strategy. Promising results are finally reported in regard of efficient strategies to deal with the presented problemPeer ReviewedPostprint (author's final draft",
+      "yearPublished": 2016,
+      "publishedDate": "2016-06-23T00:00:00",
+      "authors": [
+        {
+          "name": "Askarian, Mahdieh"
+        },
+        {
+          "name": "Ben\u00edtez Iglesias, Ra\u00fal"
+        },
+        {
+          "name": "Graells Sobr\u00e9, Mois\u00e8s"
+        },
+        {
+          "name": "Zarghami, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/81571354.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": "Expert Systems with Applications",
+          "identifiers": [
+            "0957-4174",
+            "issn:0957-4174"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 148966529,
+      "doi": "10.1016/j.procir.2020.02.182",
+      "title": "A methodology for energy efficiency redesign of smart production systems",
+      "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufacturing process. In this paper, a methodology for energy efficiency re-design of production systems in a context of smart manufacturing is proposed. The continuous production-machine data collection with operator feedbacks enables the creation of a knowledge-based repository that provides useful support during the design of manufacturing systems. A case study in an automotive sector company has allowed to implement the methodology and to assess its effectiveness",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alessandra Papetti"
+        },
+        {
+          "name": "Marta Rossi"
+        },
+        {
+          "name": "Michele Germani"
+        },
+        {
+          "name": "Roberto Menghi"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 37639895,
+      "doi": "10.1088/1361-6455/aa5baa",
+      "title": "Generalized noise terms for the quantized fluctuational electrodynamics",
+      "abstract": "The quantization of optical fields in vacuum has been known for decades, but\nextending the field quantization to lossy and dispersive media in\nnonequilibrium conditions has proven to be complicated due to the\nposition-dependent electric and magnetic responses of the media. In fact,\nconsistent position-dependent quantum models for the photon number in resonant\nstructures have only been formulated very recently and only for dielectric\nmedia. Here we present a general position-dependent quantized fluctuational\nelectrodynamics (QFED) formalism that extends the consistent field quantization\nto describe the photon number also in the presence of magnetic field-matter\ninteractions. It is shown that the magnetic fluctuations provide an additional\ndegree of freedom in media where the magnetic coupling to the field is\nprominent. Therefore, the field quantization requires an additional independent\nnoise operator that is commuting with the conventional bosonic noise operator\ndescribing the polarization current fluctuations in dielectric media. In\naddition to allowing the detailed description of field fluctuations, our\nmethods provide practical tools for modeling optical energy transfer and the\nformation of thermal balance in general dielectric and magnetic nanodevices. We\nuse the QFED to investigate the magnetic properties of microcavity systems to\ndemonstrate an example geometry in which it is possible to probe fields arising\nfrom the electric and magnetic source terms. We show that, as a consequence of\nthe magnetic Purcell effect, the tuning of the position of an emitter layer\nplaced inside a vacuum cavity can make the emissivity of a magnetic emitter to\nexceed the emissivity of a corresponding electric emitter",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "H\u00e4yrynen, Teppo"
+        },
+        {
+          "name": "Oksanen, Jani"
+        },
+        {
+          "name": "Partanen, Mikko"
+        },
+        {
+          "name": "Tulkki, Jukka"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1611.01226",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0953-4075"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17214198,
+      "doi": "10.1007/978-3-319-05437-7_5",
+      "title": "Introduction to Configuration Path Integral Monte Carlo",
+      "abstract": "In low-temperature high-density plasmas quantum effects of the electrons are\nbecoming increasingly important. This requires the development of new\ntheoretical and computational tools. Quantum Monte Carlo methods are among the\nmost successful approaches to first-principle simulations of many-body quantum\nsystems. In this chapter we present a recently developed method---the\nconfiguration path integral Monte Carlo (CPIMC) method for moderately coupled,\nhighly degenerate fermions at finite temperatures. It is based on the second\nquantization representation of the $N$-particle density operator in a basis of\n(anti-)symmetrized $N$-particle states (configurations of occupation numbers)\nand allows to tread arbitrary pair interactions in a continuous space.\n  We give a detailed description of the method and discuss the application to\nelectrons or, more generally, Coulomb-interacting fermions. As a test case we\nconsider a few quantum particles in a one-dimensional harmonic trap. Depending\non the coupling parameter (ratio of the interaction energy to kinetic energy),\nthe method strongly reduces the sign problem as compared to direct path\nintegral Monte Carlo (DPIMC) simulations in the regime of strong degeneracy\nwhich is of particular importance for dense matter in laser plasmas or compact\nstars. In order to provide a self-contained introduction, the chapter includes\na short introduction to Metropolis Monte Carlo methods and the second\nquantization of quantum mechanics.Comment: chapter in book \"Introduction to Complex Plasmas: Scientific\n  Challenges and Technological Opportunities\", Michael Bonitz, K. Becker, J.\n  Lopez and H. Thomsen (Eds.) Springer Series \"Atomic, Optical and Plasma\n  Physics\", vol. 82, Springer 2014, pp. 153-194 ISBN: 978-3-319-05436-0 (Print)\n  978-3-319-05437-7 (Online",
+      "yearPublished": 2014,
+      "publishedDate": "2014-08-08T00:00:00",
+      "authors": [
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "Anders W. Sandvik"
+        },
+        {
+          "name": "AP Lyubartsev"
+        },
+        {
+          "name": "AV Filinov"
+        },
+        {
+          "name": "B Holst"
+        },
+        {
+          "name": "D Hochstuhl"
+        },
+        {
+          "name": "D.M. Ceperley"
+        },
+        {
+          "name": "DM Ceperley"
+        },
+        {
+          "name": "E Gull"
+        },
+        {
+          "name": "H Haberland"
+        },
+        {
+          "name": "HF Trotter"
+        },
+        {
+          "name": "JS Tse"
+        },
+        {
+          "name": "Karsten Balzer"
+        },
+        {
+          "name": "KP Driver"
+        },
+        {
+          "name": "M Bonitz"
+        },
+        {
+          "name": "M Suzuki"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "MA Morales"
+        },
+        {
+          "name": "N Metropolis"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "Proceedings of the conference. Strongly Coupled Coulomb systems"
+        },
+        {
+          "name": "R Egger"
+        },
+        {
+          "name": "R Redmer"
+        },
+        {
+          "name": "T Nakamura"
+        },
+        {
+          "name": "T Schoof"
+        },
+        {
+          "name": "Trygve Helgaker"
+        },
+        {
+          "name": "VS Filinov"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1408.2011",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1615-5653"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 673719,
+      "doi": "10.1088/1367-2630/12/6/065003",
+      "title": "Non-Commutative Tools for Topological Insulators",
+      "abstract": "This paper reviews several analytic tools for the field of topological\ninsulators, developed with the aid of non-commutative calculus and geometry.\nThe set of tools includes bulk topological invariants defined directly in the\nthermodynamic limit and in the presence of disorder, whose robustness is shown\nto have non-trivial physical consequences for the bulk states. The set of tools\nalso includes a general relation between the current of an observable and its\nedge index, relation that can be used to investigate the robustness of the edge\nstates against disorder. The paper focuses on the motivations behind creating\nsuch tools and on how to use them.Comment: Final version (some arguments were corrected",
+      "yearPublished": 2009,
+      "publishedDate": "2009-12-15T00:00:00",
+      "authors": [
+        {
+          "name": "Emil Prodan"
+        },
+        {
+          "name": "Murakami S"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Volovik G E"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/0911.2816",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": "New Journal of Physics",
+          "identifiers": [
+            "1367-2630"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 40830425,
+      "doi": "10.1016/j.eswa.2016.06.040",
+      "title": "Data-based fault detection in chemical processes: Managing records with operator intervention and uncertain labels",
+      "abstract": "Developing data-driven fault detection systems for chemical plants requires managing uncertain data labels and dynamic attributes due to operator-process interactions. Mislabeled data is a known problem in computer science that has received scarce attention from the process systems community. This work introduces and examines the effects of operator actions in records and labels, and the consequences in the development of detection models. Using a state space model, this work proposes an iterative relabeling scheme for retraining classifiers that continuously refines dynamic attributes and labels. Three case studies are presented: a reactor as a motivating example, flooding in a simulated de-Butanizer column, as a complex case, and foaming in an absorber as an industrial challenge. For the first case, detection accuracy is shown to increase by 14% while operating costs are reduced by 20%. Moreover, regarding the de-Butanizer column, the performance of the proposed strategy is shown to be 10% higher than the filtering strategy. Promising results are finally reported in regard of efficient strategies to deal with the presented problemPeer ReviewedPostprint (author's final draft",
+      "yearPublished": 2016,
+      "publishedDate": "2016-06-23T00:00:00",
+      "authors": [
+        {
+          "name": "Askarian, Mahdieh"
+        },
+        {
+          "name": "Ben\u00edtez Iglesias, Ra\u00fal"
+        },
+        {
+          "name": "Graells Sobr\u00e9, Mois\u00e8s"
+        },
+        {
+          "name": "Zarghami, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/81571354.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": "Expert Systems with Applications",
+          "identifiers": [
+            "0957-4174",
+            "issn:0957-4174"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 148966529,
+      "doi": "10.1016/j.procir.2020.02.182",
+      "title": "A methodology for energy efficiency redesign of smart production systems",
+      "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufacturing process. In this paper, a methodology for energy efficiency re-design of production systems in a context of smart manufacturing is proposed. The continuous production-machine data collection with operator feedbacks enables the creation of a knowledge-based repository that provides useful support during the design of manufacturing systems. A case study in an automotive sector company has allowed to implement the methodology and to assess its effectiveness",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alessandra Papetti"
+        },
+        {
+          "name": "Marta Rossi"
+        },
+        {
+          "name": "Michele Germani"
+        },
+        {
+          "name": "Roberto Menghi"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 37639895,
+      "doi": "10.1088/1361-6455/aa5baa",
+      "title": "Generalized noise terms for the quantized fluctuational electrodynamics",
+      "abstract": "The quantization of optical fields in vacuum has been known for decades, but\nextending the field quantization to lossy and dispersive media in\nnonequilibrium conditions has proven to be complicated due to the\nposition-dependent electric and magnetic responses of the media. In fact,\nconsistent position-dependent quantum models for the photon number in resonant\nstructures have only been formulated very recently and only for dielectric\nmedia. Here we present a general position-dependent quantized fluctuational\nelectrodynamics (QFED) formalism that extends the consistent field quantization\nto describe the photon number also in the presence of magnetic field-matter\ninteractions. It is shown that the magnetic fluctuations provide an additional\ndegree of freedom in media where the magnetic coupling to the field is\nprominent. Therefore, the field quantization requires an additional independent\nnoise operator that is commuting with the conventional bosonic noise operator\ndescribing the polarization current fluctuations in dielectric media. In\naddition to allowing the detailed description of field fluctuations, our\nmethods provide practical tools for modeling optical energy transfer and the\nformation of thermal balance in general dielectric and magnetic nanodevices. We\nuse the QFED to investigate the magnetic properties of microcavity systems to\ndemonstrate an example geometry in which it is possible to probe fields arising\nfrom the electric and magnetic source terms. We show that, as a consequence of\nthe magnetic Purcell effect, the tuning of the position of an emitter layer\nplaced inside a vacuum cavity can make the emissivity of a magnetic emitter to\nexceed the emissivity of a corresponding electric emitter",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "H\u00e4yrynen, Teppo"
+        },
+        {
+          "name": "Oksanen, Jani"
+        },
+        {
+          "name": "Partanen, Mikko"
+        },
+        {
+          "name": "Tulkki, Jukka"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1611.01226",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0953-4075"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17214198,
+      "doi": "10.1007/978-3-319-05437-7_5",
+      "title": "Introduction to Configuration Path Integral Monte Carlo",
+      "abstract": "In low-temperature high-density plasmas quantum effects of the electrons are\nbecoming increasingly important. This requires the development of new\ntheoretical and computational tools. Quantum Monte Carlo methods are among the\nmost successful approaches to first-principle simulations of many-body quantum\nsystems. In this chapter we present a recently developed method---the\nconfiguration path integral Monte Carlo (CPIMC) method for moderately coupled,\nhighly degenerate fermions at finite temperatures. It is based on the second\nquantization representation of the $N$-particle density operator in a basis of\n(anti-)symmetrized $N$-particle states (configurations of occupation numbers)\nand allows to tread arbitrary pair interactions in a continuous space.\n  We give a detailed description of the method and discuss the application to\nelectrons or, more generally, Coulomb-interacting fermions. As a test case we\nconsider a few quantum particles in a one-dimensional harmonic trap. Depending\non the coupling parameter (ratio of the interaction energy to kinetic energy),\nthe method strongly reduces the sign problem as compared to direct path\nintegral Monte Carlo (DPIMC) simulations in the regime of strong degeneracy\nwhich is of particular importance for dense matter in laser plasmas or compact\nstars. In order to provide a self-contained introduction, the chapter includes\na short introduction to Metropolis Monte Carlo methods and the second\nquantization of quantum mechanics.Comment: chapter in book \"Introduction to Complex Plasmas: Scientific\n  Challenges and Technological Opportunities\", Michael Bonitz, K. Becker, J.\n  Lopez and H. Thomsen (Eds.) Springer Series \"Atomic, Optical and Plasma\n  Physics\", vol. 82, Springer 2014, pp. 153-194 ISBN: 978-3-319-05436-0 (Print)\n  978-3-319-05437-7 (Online",
+      "yearPublished": 2014,
+      "publishedDate": "2014-08-08T00:00:00",
+      "authors": [
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "A Filinov"
+        },
+        {
+          "name": "Anders W. Sandvik"
+        },
+        {
+          "name": "AP Lyubartsev"
+        },
+        {
+          "name": "AV Filinov"
+        },
+        {
+          "name": "B Holst"
+        },
+        {
+          "name": "D Hochstuhl"
+        },
+        {
+          "name": "D.M. Ceperley"
+        },
+        {
+          "name": "DM Ceperley"
+        },
+        {
+          "name": "E Gull"
+        },
+        {
+          "name": "H Haberland"
+        },
+        {
+          "name": "HF Trotter"
+        },
+        {
+          "name": "JS Tse"
+        },
+        {
+          "name": "Karsten Balzer"
+        },
+        {
+          "name": "KP Driver"
+        },
+        {
+          "name": "M Bonitz"
+        },
+        {
+          "name": "M Suzuki"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "M Troyer"
+        },
+        {
+          "name": "MA Morales"
+        },
+        {
+          "name": "N Metropolis"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "N.V. Prokofev"
+        },
+        {
+          "name": "Proceedings of the conference. Strongly Coupled Coulomb systems"
+        },
+        {
+          "name": "R Egger"
+        },
+        {
+          "name": "R Redmer"
+        },
+        {
+          "name": "T Nakamura"
+        },
+        {
+          "name": "T Schoof"
+        },
+        {
+          "name": "Trygve Helgaker"
+        },
+        {
+          "name": "VS Filinov"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1408.2011",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1615-5653"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 673719,
+      "doi": "10.1088/1367-2630/12/6/065003",
+      "title": "Non-Commutative Tools for Topological Insulators",
+      "abstract": "This paper reviews several analytic tools for the field of topological\ninsulators, developed with the aid of non-commutative calculus and geometry.\nThe set of tools includes bulk topological invariants defined directly in the\nthermodynamic limit and in the presence of disorder, whose robustness is shown\nto have non-trivial physical consequences for the bulk states. The set of tools\nalso includes a general relation between the current of an observable and its\nedge index, relation that can be used to investigate the robustness of the edge\nstates against disorder. The paper focuses on the motivations behind creating\nsuch tools and on how to use them.Comment: Final version (some arguments were corrected",
+      "yearPublished": 2009,
+      "publishedDate": "2009-12-15T00:00:00",
+      "authors": [
+        {
+          "name": "Emil Prodan"
+        },
+        {
+          "name": "Murakami S"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Prodan E"
+        },
+        {
+          "name": "Volovik G E"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/0911.2816",
+      "publisher": "'IOP Publishing'",
+      "journals": [
+        {
+          "title": "New Journal of Physics",
+          "identifiers": [
+            "1367-2630"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 40830425,
+      "doi": "10.1016/j.eswa.2016.06.040",
+      "title": "Data-based fault detection in chemical processes: Managing records with operator intervention and uncertain labels",
+      "abstract": "Developing data-driven fault detection systems for chemical plants requires managing uncertain data labels and dynamic attributes due to operator-process interactions. Mislabeled data is a known problem in computer science that has received scarce attention from the process systems community. This work introduces and examines the effects of operator actions in records and labels, and the consequences in the development of detection models. Using a state space model, this work proposes an iterative relabeling scheme for retraining classifiers that continuously refines dynamic attributes and labels. Three case studies are presented: a reactor as a motivating example, flooding in a simulated de-Butanizer column, as a complex case, and foaming in an absorber as an industrial challenge. For the first case, detection accuracy is shown to increase by 14% while operating costs are reduced by 20%. Moreover, regarding the de-Butanizer column, the performance of the proposed strategy is shown to be 10% higher than the filtering strategy. Promising results are finally reported in regard of efficient strategies to deal with the presented problemPeer ReviewedPostprint (author's final draft",
+      "yearPublished": 2016,
+      "publishedDate": "2016-06-23T00:00:00",
+      "authors": [
+        {
+          "name": "Askarian, Mahdieh"
+        },
+        {
+          "name": "Ben\u00edtez Iglesias, Ra\u00fal"
+        },
+        {
+          "name": "Graells Sobr\u00e9, Mois\u00e8s"
+        },
+        {
+          "name": "Zarghami, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/81571354.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": "Expert Systems with Applications",
+          "identifiers": [
+            "0957-4174",
+            "issn:0957-4174"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

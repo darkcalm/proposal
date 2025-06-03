@@ -1,0 +1,23 @@
+2025-06-03 09:17:06,558 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:17:06,558 - INFO - CORE API Dynamic Search Script - Session 10
+2025-06-03 09:17:06,558 - INFO - Starting CORE API dynamic search: 0 iterations, score threshold 0.3
+2025-06-03 09:17:06,558 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:17:06,558 - INFO - Step 0 - Query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with limit 5
+2025-06-03 09:17:16,197 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:17:16,197 - INFO - First paper object sample is too large to log directly (Length: 97047). Logging only a few key fields.
+2025-06-03 09:17:16,198 - INFO - First paper sample (subset of fields):\n{
+  "id": 33131981,
+  "doi": "10.1109/surv.2012.021312.00034",
+  "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+  "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a ...",
+  "yearPublished": 2013,
+  "publishedDate": "2013-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Qian, Y"
+    }
+  ]
+}

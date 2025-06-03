@@ -1,0 +1,820 @@
+{
+  "totalHitsEncounteredAcrossPages": 5927,
+  "retrievedCountForThisQuery": 32,
+  "searchIdentifier": "initial_primary_1",
+  "originalQuery": "Human oversight AND operator decision support systems for decentralized energy resource management",
+  "results": [
+    {
+      "id": 7091577,
+      "doi": "10.1109/mprv.2011.7",
+      "title": "Paying Attention to the Man behind the Curtain",
+      "abstract": "In the push to develop smart energy systems, designers have increasingly focused on systems that measure and predict user behavior to effect optimal energy consumption. While such focus is an important component in these systems' success, designers have paid substantially less attention to the people on the other side of the energy system loop-the supervisors of power generation processes. Smart energy systems that leverage pervasive computing could add to these supervisory control operators' workload. They'll have to predict possible power plant load and production changes caused by environmental and plant events, as well as dynamic system adaptation in response to consumer behaviors. Contrary to many assumptions, inserting more automation, including distributed sensors and algorithms to postprocess data, won't necessarily reduce operators' workload or improve system performance",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cummings, M. L."
+        },
+        {
+          "name": "Thornburg, Kristopher M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18320699.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Pervasive Computing",
+          "identifiers": [
+            "issn:1536-1268",
+            "1558-2590",
+            "1536-1268",
+            "issn:1558-2590"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 8035678,
+      "doi": "10.1016/j.erss.2017.10.033",
+      "title": "Rethinking the sustainability and institutional governance of electricity access and mini-grids: electricity as a common pool resource",
+      "abstract": "Rural mini-grids are viewed as a key technology for providing access to electricity to the billion or more people that lack it by 2030 (in line with the UN\u2019s Sustainable Energy for All commitment). But at present no model for the sustainable management of rural mini-grids exists, which contributes to high failure rates. This paper makes a number of contributions. First, it explores how electricity in mini-grids might be understood as a Common Pool Resource (CPR), opening up potential to learn from the extensive literature on institutional characteristics of sustainable CPR management in the natural resource management literature. Second, it refines Agrawal\u2019s (2001) overarching framework of enabling conditions for sustainable CPR management institutions to develop a framework applicable to rural mini-grid management in developing countries. Thirdly, the utility of this refined framework is demonstrated by applying it to analyse data from 27 semi-structured interviews with actors with expertise in mini-grid development and management in Kenya and 2 field visits to rural mini-grids there. This contributes a nuanced basis for future application of CPR theory to mini-grids and a systematic analysis of institutional challenges and possible solutions, which have hitherto received limited attention in the energy and development literature",
+      "yearPublished": 2017,
+      "publishedDate": "2017-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Ahlborg, Helene"
+        },
+        {
+          "name": "Ely, Adrian"
+        },
+        {
+          "name": "Gollwitzer, Laurenz"
+        },
+        {
+          "name": "Muok, Ben"
+        },
+        {
+          "name": "Ockwell, David"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131364601.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "2214-6296"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18868817,
+      "doi": null,
+      "title": "Regional Data Archiving and Management for Northeast Illinois",
+      "abstract": "This project studies the feasibility and implementation options for establishing a regional data archiving system to help monitor\r\nand manage traffic operations and planning for the northeastern Illinois region. It aims to provide a clear guidance to the\r\nregional transportation agencies, from both technical and business perspectives, about building such a comprehensive\r\ntransportation information system. Several implementation alternatives are identified and analyzed. This research is carried\r\nout in three phases.\r\nIn the first phase, existing documents related to ITS deployments in the broader Chicago area are summarized, and a\r\nthorough review is conducted of similar systems across the country. Various stakeholders are interviewed to collect\r\ninformation on all data elements that they store, including the format, system, and granularity. Their perception of a data\r\narchive system, such as potential benefits and costs, is also surveyed. In the second phase, a conceptual design of the\r\ndatabase is developed. This conceptual design includes system architecture, functional modules, user interfaces, and\r\nexamples of usage. In the last phase, the possible business models for the archive system to sustain itself are reviewed. We\r\nestimate initial capital and recurring operational/maintenance costs for the system based on realistic information on the\r\nhardware, software, labor, and resource requirements. We also identify possible revenue opportunities.\r\nA few implementation options for the archive system are summarized in this report; namely:\r\n1. System hosted by a partnering agency\r\n2. System contracted to a university\r\n3. System contracted to a national laboratory\r\n4. System outsourced to a service provider\r\nThe costs, advantages and disadvantages for each of these recommended options are also provided.ICT-R27-22published or submitted for publicationis peer reviewe",
+      "yearPublished": 2009,
+      "publishedDate": "2009-06-01T01:00:00",
+      "authors": [
+        {
+          "name": "Dhanaraju, Sharan"
+        },
+        {
+          "name": "Ouyang, Yanfeng"
+        },
+        {
+          "name": "Tursun, Umit Deniz"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/4823291.pdf",
+      "publisher": "Illinois Center for Transportation (ICT)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 66658525,
+      "doi": null,
+      "title": "COMMUNITY SOLAR ENERGY PROGRAMS: A BRIGHT SPOT FOR JUST ENERGY POLICY?",
+      "abstract": "Energy systems are complex, and this complexity requires diverse regulatory forms and strategies of management. Michigan\u2019s energy system is situated within a multi-scalar governance structure reaching from national to local levels. As a result, the process of energy system decision-making can leave out smaller, remote communities and those without the economic, political, and knowledge capital necessary to engage in complex bureaucratic processes. These communities can become subject to high electricity prices and unreliable electrical service from long transmission and distribution lines, raising energy justice concerns. Additionally, resulting from utility regulatory practices, small remote communities are often not afforded the opportunity to explore alternative, local, and environmentally friendly energy generation sources. This dissertation utilizes data collected from two case study sites in Michigan to examine how decisions are made regarding energy system management, who participates in what forms of decision-making, what implications community solar can have for improving energy justice, and the role of energy policy. Specifically, the research attempts to examine how community solar may create more just energy systems and the particular policy and governance dimensions that shape the use of community solar for the pursuit of energy justice. Chapter 2 explores how Michigan investor-owned utilities interpret and implement energy laws to hinder distributed generation proliferation in Michigan. Chapter 3 reflects on the community engaged research process used to determine the viability of a community solar program. It argues for incorporating collaborative governance principles to further improve the community engaged research process to help insert local control and affordability into energy systems. Finally, chapter 4 utilizes and analyzes interview, focus group discussion, and survey data to understand from a community perspective what factors are important for community solar viability. It situates this data within the community social context as it recognizes that perceptions alone do not explain program viability. Energy justice does not apply to just one level of policy making. The subsequent implementation and decision-making process of these existing policies can be determined through collaborative governance strategies, such as community solar, that align with energy justice values",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Prehoda, Emily"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/227504341.pdf",
+      "publisher": "Digital Commons @ Michigan Tech",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170240197,
+      "doi": null,
+      "title": "LEVERAGING AI IN HUMAN RESOURCE MANAGEMENT",
+      "abstract": "Autonomic computing investigates how systems can achieve (user) specified \u2018\u2018control\u2019\u2019 outcomes\r\non their own, without the intervention of a human operator. Autonomic computing\r\nfundamentals have been substantially influenced by those of control theory for closed and\r\nopen-loop systems. In practice, complex systems may exhibit a number of concurrent and\r\ninter-dependent control loops. Despite research into autonomic models for managing compute",
+      "yearPublished": 2024,
+      "publishedDate": "2024-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "PSNZ"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639191226.pdf",
+      "publisher": "'Penerbit UMT, Universiti Malaysia Terengganu'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 2638145,
+      "doi": null,
+      "title": "Institutional and policy analysis of river basin management: the Brantas river basin, East Java, Indonesia",
+      "abstract": "The authors describe and analyze an unconventional approach to river basin management in a developing country undergoing rapid economic, political, and institutional change. The founding of the Brantas River Basin Management Corporation (Perum Jasa Tirta I - PJT 1), a national state-owned company for river basin management, initiated an emphasis on river basin management to operate and maintain existing infrastructure, plan and implement the allocation of water, and address problems that affect basin-level water resources. The Brantas River basin is located within the province of East Java in Indonesia. It has an area of approximately 11,800 square kilometers and makes up 25 percent of East Java's land area. The basin's population, which amounts to nearly 15 million, has increased by 53.4 percent over the past 30 years and represents 42.4 percent of East Java's population with a density of 1,249 per square kilometer. A shift has taken place in Indonesia since the mid-1990s from emphasizing infrastructure development to strengthening institutional aspects (hydrology, flood fighting, flood warning, flood management, and so on). The institutional arrangement for water resources management in the Brantas basin through a state-owned corporation is an interesting model. PJT I has achieved results in implementing a reasonably good system of water allocation and management and a reliable flood forecasting system, as well as maintaining major infrastructure in fairly good condition. Managing water quality, catchment conditions, and the river environment, however, are the responsibility of many entities, and there is need for greater coordination and authority to address these issues.Water Supply and Sanitation Governance and Institutions,Town Water Supply and Sanitation,Drought Management,Water and Industry,Water Conservation",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Bhat, Anjali"
+        },
+        {
+          "name": "Kemper, Karin"
+        },
+        {
+          "name": "Ramu, Kikkeri"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6521590.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36990980,
+      "doi": null,
+      "title": "Investing in Sustainable Energy Futures: Multilateral Development Banks' Investments in Energy Policy",
+      "abstract": "Analyzes MDB loans for electricity projects and lays out policy reforms, regulations, and institutional capacities needed to enable public and private investment in sustainable energy and ways for MDBs to address them consistently and comprehensively",
+      "yearPublished": 2010,
+      "publishedDate": "2010-04-04T01:00:00",
+      "authors": [
+        {
+          "name": "Athena R. Ballesteros"
+        },
+        {
+          "name": "Smita Nakhooda"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71352408.pdf",
+      "publisher": "World Resources Institute (WRI)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36997163,
+      "doi": null,
+      "title": "Water and Development: An Evaluation of World Bank Support, 1997-2007, Volume 1",
+      "abstract": "The Independent Evaluation Group at the World Bank has evaluated a decade of the Bank's water lending and grants in terms of overall shifts in the water portfolio and project performance, as well as successes and failures in addressing water resource management, environment, water use and service delivery, and institutions and water. The Bank increased its lending for water during the period and has generally seen improvements in project performance; however, IWRM has made limited progress in client countries, environmental restoration has been underemphasized by the Bank, sanitation needs much greater attention, and support for institutional reform and capacity building has had limited success",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71360947.pdf",
+      "publisher": "World Bank Group, Independent Evaluation Group",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7091577,
+      "doi": "10.1109/mprv.2011.7",
+      "title": "Paying Attention to the Man behind the Curtain",
+      "abstract": "In the push to develop smart energy systems, designers have increasingly focused on systems that measure and predict user behavior to effect optimal energy consumption. While such focus is an important component in these systems' success, designers have paid substantially less attention to the people on the other side of the energy system loop-the supervisors of power generation processes. Smart energy systems that leverage pervasive computing could add to these supervisory control operators' workload. They'll have to predict possible power plant load and production changes caused by environmental and plant events, as well as dynamic system adaptation in response to consumer behaviors. Contrary to many assumptions, inserting more automation, including distributed sensors and algorithms to postprocess data, won't necessarily reduce operators' workload or improve system performance",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cummings, M. L."
+        },
+        {
+          "name": "Thornburg, Kristopher M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18320699.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Pervasive Computing",
+          "identifiers": [
+            "issn:1536-1268",
+            "1558-2590",
+            "1536-1268",
+            "issn:1558-2590"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 8035678,
+      "doi": "10.1016/j.erss.2017.10.033",
+      "title": "Rethinking the sustainability and institutional governance of electricity access and mini-grids: electricity as a common pool resource",
+      "abstract": "Rural mini-grids are viewed as a key technology for providing access to electricity to the billion or more people that lack it by 2030 (in line with the UN\u2019s Sustainable Energy for All commitment). But at present no model for the sustainable management of rural mini-grids exists, which contributes to high failure rates. This paper makes a number of contributions. First, it explores how electricity in mini-grids might be understood as a Common Pool Resource (CPR), opening up potential to learn from the extensive literature on institutional characteristics of sustainable CPR management in the natural resource management literature. Second, it refines Agrawal\u2019s (2001) overarching framework of enabling conditions for sustainable CPR management institutions to develop a framework applicable to rural mini-grid management in developing countries. Thirdly, the utility of this refined framework is demonstrated by applying it to analyse data from 27 semi-structured interviews with actors with expertise in mini-grid development and management in Kenya and 2 field visits to rural mini-grids there. This contributes a nuanced basis for future application of CPR theory to mini-grids and a systematic analysis of institutional challenges and possible solutions, which have hitherto received limited attention in the energy and development literature",
+      "yearPublished": 2017,
+      "publishedDate": "2017-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Ahlborg, Helene"
+        },
+        {
+          "name": "Ely, Adrian"
+        },
+        {
+          "name": "Gollwitzer, Laurenz"
+        },
+        {
+          "name": "Muok, Ben"
+        },
+        {
+          "name": "Ockwell, David"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131364601.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "2214-6296"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18868817,
+      "doi": null,
+      "title": "Regional Data Archiving and Management for Northeast Illinois",
+      "abstract": "This project studies the feasibility and implementation options for establishing a regional data archiving system to help monitor\r\nand manage traffic operations and planning for the northeastern Illinois region. It aims to provide a clear guidance to the\r\nregional transportation agencies, from both technical and business perspectives, about building such a comprehensive\r\ntransportation information system. Several implementation alternatives are identified and analyzed. This research is carried\r\nout in three phases.\r\nIn the first phase, existing documents related to ITS deployments in the broader Chicago area are summarized, and a\r\nthorough review is conducted of similar systems across the country. Various stakeholders are interviewed to collect\r\ninformation on all data elements that they store, including the format, system, and granularity. Their perception of a data\r\narchive system, such as potential benefits and costs, is also surveyed. In the second phase, a conceptual design of the\r\ndatabase is developed. This conceptual design includes system architecture, functional modules, user interfaces, and\r\nexamples of usage. In the last phase, the possible business models for the archive system to sustain itself are reviewed. We\r\nestimate initial capital and recurring operational/maintenance costs for the system based on realistic information on the\r\nhardware, software, labor, and resource requirements. We also identify possible revenue opportunities.\r\nA few implementation options for the archive system are summarized in this report; namely:\r\n1. System hosted by a partnering agency\r\n2. System contracted to a university\r\n3. System contracted to a national laboratory\r\n4. System outsourced to a service provider\r\nThe costs, advantages and disadvantages for each of these recommended options are also provided.ICT-R27-22published or submitted for publicationis peer reviewe",
+      "yearPublished": 2009,
+      "publishedDate": "2009-06-01T01:00:00",
+      "authors": [
+        {
+          "name": "Dhanaraju, Sharan"
+        },
+        {
+          "name": "Ouyang, Yanfeng"
+        },
+        {
+          "name": "Tursun, Umit Deniz"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/4823291.pdf",
+      "publisher": "Illinois Center for Transportation (ICT)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 66658525,
+      "doi": null,
+      "title": "COMMUNITY SOLAR ENERGY PROGRAMS: A BRIGHT SPOT FOR JUST ENERGY POLICY?",
+      "abstract": "Energy systems are complex, and this complexity requires diverse regulatory forms and strategies of management. Michigan\u2019s energy system is situated within a multi-scalar governance structure reaching from national to local levels. As a result, the process of energy system decision-making can leave out smaller, remote communities and those without the economic, political, and knowledge capital necessary to engage in complex bureaucratic processes. These communities can become subject to high electricity prices and unreliable electrical service from long transmission and distribution lines, raising energy justice concerns. Additionally, resulting from utility regulatory practices, small remote communities are often not afforded the opportunity to explore alternative, local, and environmentally friendly energy generation sources. This dissertation utilizes data collected from two case study sites in Michigan to examine how decisions are made regarding energy system management, who participates in what forms of decision-making, what implications community solar can have for improving energy justice, and the role of energy policy. Specifically, the research attempts to examine how community solar may create more just energy systems and the particular policy and governance dimensions that shape the use of community solar for the pursuit of energy justice. Chapter 2 explores how Michigan investor-owned utilities interpret and implement energy laws to hinder distributed generation proliferation in Michigan. Chapter 3 reflects on the community engaged research process used to determine the viability of a community solar program. It argues for incorporating collaborative governance principles to further improve the community engaged research process to help insert local control and affordability into energy systems. Finally, chapter 4 utilizes and analyzes interview, focus group discussion, and survey data to understand from a community perspective what factors are important for community solar viability. It situates this data within the community social context as it recognizes that perceptions alone do not explain program viability. Energy justice does not apply to just one level of policy making. The subsequent implementation and decision-making process of these existing policies can be determined through collaborative governance strategies, such as community solar, that align with energy justice values",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Prehoda, Emily"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/227504341.pdf",
+      "publisher": "Digital Commons @ Michigan Tech",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170240197,
+      "doi": null,
+      "title": "LEVERAGING AI IN HUMAN RESOURCE MANAGEMENT",
+      "abstract": "Autonomic computing investigates how systems can achieve (user) specified \u2018\u2018control\u2019\u2019 outcomes\r\non their own, without the intervention of a human operator. Autonomic computing\r\nfundamentals have been substantially influenced by those of control theory for closed and\r\nopen-loop systems. In practice, complex systems may exhibit a number of concurrent and\r\ninter-dependent control loops. Despite research into autonomic models for managing compute",
+      "yearPublished": 2024,
+      "publishedDate": "2024-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "PSNZ"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639191226.pdf",
+      "publisher": "'Penerbit UMT, Universiti Malaysia Terengganu'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 2638145,
+      "doi": null,
+      "title": "Institutional and policy analysis of river basin management: the Brantas river basin, East Java, Indonesia",
+      "abstract": "The authors describe and analyze an unconventional approach to river basin management in a developing country undergoing rapid economic, political, and institutional change. The founding of the Brantas River Basin Management Corporation (Perum Jasa Tirta I - PJT 1), a national state-owned company for river basin management, initiated an emphasis on river basin management to operate and maintain existing infrastructure, plan and implement the allocation of water, and address problems that affect basin-level water resources. The Brantas River basin is located within the province of East Java in Indonesia. It has an area of approximately 11,800 square kilometers and makes up 25 percent of East Java's land area. The basin's population, which amounts to nearly 15 million, has increased by 53.4 percent over the past 30 years and represents 42.4 percent of East Java's population with a density of 1,249 per square kilometer. A shift has taken place in Indonesia since the mid-1990s from emphasizing infrastructure development to strengthening institutional aspects (hydrology, flood fighting, flood warning, flood management, and so on). The institutional arrangement for water resources management in the Brantas basin through a state-owned corporation is an interesting model. PJT I has achieved results in implementing a reasonably good system of water allocation and management and a reliable flood forecasting system, as well as maintaining major infrastructure in fairly good condition. Managing water quality, catchment conditions, and the river environment, however, are the responsibility of many entities, and there is need for greater coordination and authority to address these issues.Water Supply and Sanitation Governance and Institutions,Town Water Supply and Sanitation,Drought Management,Water and Industry,Water Conservation",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Bhat, Anjali"
+        },
+        {
+          "name": "Kemper, Karin"
+        },
+        {
+          "name": "Ramu, Kikkeri"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6521590.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36990980,
+      "doi": null,
+      "title": "Investing in Sustainable Energy Futures: Multilateral Development Banks' Investments in Energy Policy",
+      "abstract": "Analyzes MDB loans for electricity projects and lays out policy reforms, regulations, and institutional capacities needed to enable public and private investment in sustainable energy and ways for MDBs to address them consistently and comprehensively",
+      "yearPublished": 2010,
+      "publishedDate": "2010-04-04T01:00:00",
+      "authors": [
+        {
+          "name": "Athena R. Ballesteros"
+        },
+        {
+          "name": "Smita Nakhooda"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71352408.pdf",
+      "publisher": "World Resources Institute (WRI)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36997163,
+      "doi": null,
+      "title": "Water and Development: An Evaluation of World Bank Support, 1997-2007, Volume 1",
+      "abstract": "The Independent Evaluation Group at the World Bank has evaluated a decade of the Bank's water lending and grants in terms of overall shifts in the water portfolio and project performance, as well as successes and failures in addressing water resource management, environment, water use and service delivery, and institutions and water. The Bank increased its lending for water during the period and has generally seen improvements in project performance; however, IWRM has made limited progress in client countries, environmental restoration has been underemphasized by the Bank, sanitation needs much greater attention, and support for institutional reform and capacity building has had limited success",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71360947.pdf",
+      "publisher": "World Bank Group, Independent Evaluation Group",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7091577,
+      "doi": "10.1109/mprv.2011.7",
+      "title": "Paying Attention to the Man behind the Curtain",
+      "abstract": "In the push to develop smart energy systems, designers have increasingly focused on systems that measure and predict user behavior to effect optimal energy consumption. While such focus is an important component in these systems' success, designers have paid substantially less attention to the people on the other side of the energy system loop-the supervisors of power generation processes. Smart energy systems that leverage pervasive computing could add to these supervisory control operators' workload. They'll have to predict possible power plant load and production changes caused by environmental and plant events, as well as dynamic system adaptation in response to consumer behaviors. Contrary to many assumptions, inserting more automation, including distributed sensors and algorithms to postprocess data, won't necessarily reduce operators' workload or improve system performance",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cummings, M. L."
+        },
+        {
+          "name": "Thornburg, Kristopher M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18320699.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Pervasive Computing",
+          "identifiers": [
+            "issn:1536-1268",
+            "1558-2590",
+            "1536-1268",
+            "issn:1558-2590"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 8035678,
+      "doi": "10.1016/j.erss.2017.10.033",
+      "title": "Rethinking the sustainability and institutional governance of electricity access and mini-grids: electricity as a common pool resource",
+      "abstract": "Rural mini-grids are viewed as a key technology for providing access to electricity to the billion or more people that lack it by 2030 (in line with the UN\u2019s Sustainable Energy for All commitment). But at present no model for the sustainable management of rural mini-grids exists, which contributes to high failure rates. This paper makes a number of contributions. First, it explores how electricity in mini-grids might be understood as a Common Pool Resource (CPR), opening up potential to learn from the extensive literature on institutional characteristics of sustainable CPR management in the natural resource management literature. Second, it refines Agrawal\u2019s (2001) overarching framework of enabling conditions for sustainable CPR management institutions to develop a framework applicable to rural mini-grid management in developing countries. Thirdly, the utility of this refined framework is demonstrated by applying it to analyse data from 27 semi-structured interviews with actors with expertise in mini-grid development and management in Kenya and 2 field visits to rural mini-grids there. This contributes a nuanced basis for future application of CPR theory to mini-grids and a systematic analysis of institutional challenges and possible solutions, which have hitherto received limited attention in the energy and development literature",
+      "yearPublished": 2017,
+      "publishedDate": "2017-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Ahlborg, Helene"
+        },
+        {
+          "name": "Ely, Adrian"
+        },
+        {
+          "name": "Gollwitzer, Laurenz"
+        },
+        {
+          "name": "Muok, Ben"
+        },
+        {
+          "name": "Ockwell, David"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131364601.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "2214-6296"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18868817,
+      "doi": null,
+      "title": "Regional Data Archiving and Management for Northeast Illinois",
+      "abstract": "This project studies the feasibility and implementation options for establishing a regional data archiving system to help monitor\r\nand manage traffic operations and planning for the northeastern Illinois region. It aims to provide a clear guidance to the\r\nregional transportation agencies, from both technical and business perspectives, about building such a comprehensive\r\ntransportation information system. Several implementation alternatives are identified and analyzed. This research is carried\r\nout in three phases.\r\nIn the first phase, existing documents related to ITS deployments in the broader Chicago area are summarized, and a\r\nthorough review is conducted of similar systems across the country. Various stakeholders are interviewed to collect\r\ninformation on all data elements that they store, including the format, system, and granularity. Their perception of a data\r\narchive system, such as potential benefits and costs, is also surveyed. In the second phase, a conceptual design of the\r\ndatabase is developed. This conceptual design includes system architecture, functional modules, user interfaces, and\r\nexamples of usage. In the last phase, the possible business models for the archive system to sustain itself are reviewed. We\r\nestimate initial capital and recurring operational/maintenance costs for the system based on realistic information on the\r\nhardware, software, labor, and resource requirements. We also identify possible revenue opportunities.\r\nA few implementation options for the archive system are summarized in this report; namely:\r\n1. System hosted by a partnering agency\r\n2. System contracted to a university\r\n3. System contracted to a national laboratory\r\n4. System outsourced to a service provider\r\nThe costs, advantages and disadvantages for each of these recommended options are also provided.ICT-R27-22published or submitted for publicationis peer reviewe",
+      "yearPublished": 2009,
+      "publishedDate": "2009-06-01T01:00:00",
+      "authors": [
+        {
+          "name": "Dhanaraju, Sharan"
+        },
+        {
+          "name": "Ouyang, Yanfeng"
+        },
+        {
+          "name": "Tursun, Umit Deniz"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/4823291.pdf",
+      "publisher": "Illinois Center for Transportation (ICT)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 66658525,
+      "doi": null,
+      "title": "COMMUNITY SOLAR ENERGY PROGRAMS: A BRIGHT SPOT FOR JUST ENERGY POLICY?",
+      "abstract": "Energy systems are complex, and this complexity requires diverse regulatory forms and strategies of management. Michigan\u2019s energy system is situated within a multi-scalar governance structure reaching from national to local levels. As a result, the process of energy system decision-making can leave out smaller, remote communities and those without the economic, political, and knowledge capital necessary to engage in complex bureaucratic processes. These communities can become subject to high electricity prices and unreliable electrical service from long transmission and distribution lines, raising energy justice concerns. Additionally, resulting from utility regulatory practices, small remote communities are often not afforded the opportunity to explore alternative, local, and environmentally friendly energy generation sources. This dissertation utilizes data collected from two case study sites in Michigan to examine how decisions are made regarding energy system management, who participates in what forms of decision-making, what implications community solar can have for improving energy justice, and the role of energy policy. Specifically, the research attempts to examine how community solar may create more just energy systems and the particular policy and governance dimensions that shape the use of community solar for the pursuit of energy justice. Chapter 2 explores how Michigan investor-owned utilities interpret and implement energy laws to hinder distributed generation proliferation in Michigan. Chapter 3 reflects on the community engaged research process used to determine the viability of a community solar program. It argues for incorporating collaborative governance principles to further improve the community engaged research process to help insert local control and affordability into energy systems. Finally, chapter 4 utilizes and analyzes interview, focus group discussion, and survey data to understand from a community perspective what factors are important for community solar viability. It situates this data within the community social context as it recognizes that perceptions alone do not explain program viability. Energy justice does not apply to just one level of policy making. The subsequent implementation and decision-making process of these existing policies can be determined through collaborative governance strategies, such as community solar, that align with energy justice values",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Prehoda, Emily"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/227504341.pdf",
+      "publisher": "Digital Commons @ Michigan Tech",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170240197,
+      "doi": null,
+      "title": "LEVERAGING AI IN HUMAN RESOURCE MANAGEMENT",
+      "abstract": "Autonomic computing investigates how systems can achieve (user) specified \u2018\u2018control\u2019\u2019 outcomes\r\non their own, without the intervention of a human operator. Autonomic computing\r\nfundamentals have been substantially influenced by those of control theory for closed and\r\nopen-loop systems. In practice, complex systems may exhibit a number of concurrent and\r\ninter-dependent control loops. Despite research into autonomic models for managing compute",
+      "yearPublished": 2024,
+      "publishedDate": "2024-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "PSNZ"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639191226.pdf",
+      "publisher": "'Penerbit UMT, Universiti Malaysia Terengganu'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 2638145,
+      "doi": null,
+      "title": "Institutional and policy analysis of river basin management: the Brantas river basin, East Java, Indonesia",
+      "abstract": "The authors describe and analyze an unconventional approach to river basin management in a developing country undergoing rapid economic, political, and institutional change. The founding of the Brantas River Basin Management Corporation (Perum Jasa Tirta I - PJT 1), a national state-owned company for river basin management, initiated an emphasis on river basin management to operate and maintain existing infrastructure, plan and implement the allocation of water, and address problems that affect basin-level water resources. The Brantas River basin is located within the province of East Java in Indonesia. It has an area of approximately 11,800 square kilometers and makes up 25 percent of East Java's land area. The basin's population, which amounts to nearly 15 million, has increased by 53.4 percent over the past 30 years and represents 42.4 percent of East Java's population with a density of 1,249 per square kilometer. A shift has taken place in Indonesia since the mid-1990s from emphasizing infrastructure development to strengthening institutional aspects (hydrology, flood fighting, flood warning, flood management, and so on). The institutional arrangement for water resources management in the Brantas basin through a state-owned corporation is an interesting model. PJT I has achieved results in implementing a reasonably good system of water allocation and management and a reliable flood forecasting system, as well as maintaining major infrastructure in fairly good condition. Managing water quality, catchment conditions, and the river environment, however, are the responsibility of many entities, and there is need for greater coordination and authority to address these issues.Water Supply and Sanitation Governance and Institutions,Town Water Supply and Sanitation,Drought Management,Water and Industry,Water Conservation",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Bhat, Anjali"
+        },
+        {
+          "name": "Kemper, Karin"
+        },
+        {
+          "name": "Ramu, Kikkeri"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6521590.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36990980,
+      "doi": null,
+      "title": "Investing in Sustainable Energy Futures: Multilateral Development Banks' Investments in Energy Policy",
+      "abstract": "Analyzes MDB loans for electricity projects and lays out policy reforms, regulations, and institutional capacities needed to enable public and private investment in sustainable energy and ways for MDBs to address them consistently and comprehensively",
+      "yearPublished": 2010,
+      "publishedDate": "2010-04-04T01:00:00",
+      "authors": [
+        {
+          "name": "Athena R. Ballesteros"
+        },
+        {
+          "name": "Smita Nakhooda"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71352408.pdf",
+      "publisher": "World Resources Institute (WRI)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36997163,
+      "doi": null,
+      "title": "Water and Development: An Evaluation of World Bank Support, 1997-2007, Volume 1",
+      "abstract": "The Independent Evaluation Group at the World Bank has evaluated a decade of the Bank's water lending and grants in terms of overall shifts in the water portfolio and project performance, as well as successes and failures in addressing water resource management, environment, water use and service delivery, and institutions and water. The Bank increased its lending for water during the period and has generally seen improvements in project performance; however, IWRM has made limited progress in client countries, environmental restoration has been underemphasized by the Bank, sanitation needs much greater attention, and support for institutional reform and capacity building has had limited success",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71360947.pdf",
+      "publisher": "World Bank Group, Independent Evaluation Group",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 7091577,
+      "doi": "10.1109/mprv.2011.7",
+      "title": "Paying Attention to the Man behind the Curtain",
+      "abstract": "In the push to develop smart energy systems, designers have increasingly focused on systems that measure and predict user behavior to effect optimal energy consumption. While such focus is an important component in these systems' success, designers have paid substantially less attention to the people on the other side of the energy system loop-the supervisors of power generation processes. Smart energy systems that leverage pervasive computing could add to these supervisory control operators' workload. They'll have to predict possible power plant load and production changes caused by environmental and plant events, as well as dynamic system adaptation in response to consumer behaviors. Contrary to many assumptions, inserting more automation, including distributed sensors and algorithms to postprocess data, won't necessarily reduce operators' workload or improve system performance",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Cummings, M. L."
+        },
+        {
+          "name": "Thornburg, Kristopher M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/18320699.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Pervasive Computing",
+          "identifiers": [
+            "issn:1536-1268",
+            "1558-2590",
+            "1536-1268",
+            "issn:1558-2590"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 8035678,
+      "doi": "10.1016/j.erss.2017.10.033",
+      "title": "Rethinking the sustainability and institutional governance of electricity access and mini-grids: electricity as a common pool resource",
+      "abstract": "Rural mini-grids are viewed as a key technology for providing access to electricity to the billion or more people that lack it by 2030 (in line with the UN\u2019s Sustainable Energy for All commitment). But at present no model for the sustainable management of rural mini-grids exists, which contributes to high failure rates. This paper makes a number of contributions. First, it explores how electricity in mini-grids might be understood as a Common Pool Resource (CPR), opening up potential to learn from the extensive literature on institutional characteristics of sustainable CPR management in the natural resource management literature. Second, it refines Agrawal\u2019s (2001) overarching framework of enabling conditions for sustainable CPR management institutions to develop a framework applicable to rural mini-grid management in developing countries. Thirdly, the utility of this refined framework is demonstrated by applying it to analyse data from 27 semi-structured interviews with actors with expertise in mini-grid development and management in Kenya and 2 field visits to rural mini-grids there. This contributes a nuanced basis for future application of CPR theory to mini-grids and a systematic analysis of institutional challenges and possible solutions, which have hitherto received limited attention in the energy and development literature",
+      "yearPublished": 2017,
+      "publishedDate": "2017-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Ahlborg, Helene"
+        },
+        {
+          "name": "Ely, Adrian"
+        },
+        {
+          "name": "Gollwitzer, Laurenz"
+        },
+        {
+          "name": "Muok, Ben"
+        },
+        {
+          "name": "Ockwell, David"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131364601.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "2214-6296"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18868817,
+      "doi": null,
+      "title": "Regional Data Archiving and Management for Northeast Illinois",
+      "abstract": "This project studies the feasibility and implementation options for establishing a regional data archiving system to help monitor\r\nand manage traffic operations and planning for the northeastern Illinois region. It aims to provide a clear guidance to the\r\nregional transportation agencies, from both technical and business perspectives, about building such a comprehensive\r\ntransportation information system. Several implementation alternatives are identified and analyzed. This research is carried\r\nout in three phases.\r\nIn the first phase, existing documents related to ITS deployments in the broader Chicago area are summarized, and a\r\nthorough review is conducted of similar systems across the country. Various stakeholders are interviewed to collect\r\ninformation on all data elements that they store, including the format, system, and granularity. Their perception of a data\r\narchive system, such as potential benefits and costs, is also surveyed. In the second phase, a conceptual design of the\r\ndatabase is developed. This conceptual design includes system architecture, functional modules, user interfaces, and\r\nexamples of usage. In the last phase, the possible business models for the archive system to sustain itself are reviewed. We\r\nestimate initial capital and recurring operational/maintenance costs for the system based on realistic information on the\r\nhardware, software, labor, and resource requirements. We also identify possible revenue opportunities.\r\nA few implementation options for the archive system are summarized in this report; namely:\r\n1. System hosted by a partnering agency\r\n2. System contracted to a university\r\n3. System contracted to a national laboratory\r\n4. System outsourced to a service provider\r\nThe costs, advantages and disadvantages for each of these recommended options are also provided.ICT-R27-22published or submitted for publicationis peer reviewe",
+      "yearPublished": 2009,
+      "publishedDate": "2009-06-01T01:00:00",
+      "authors": [
+        {
+          "name": "Dhanaraju, Sharan"
+        },
+        {
+          "name": "Ouyang, Yanfeng"
+        },
+        {
+          "name": "Tursun, Umit Deniz"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/4823291.pdf",
+      "publisher": "Illinois Center for Transportation (ICT)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 66658525,
+      "doi": null,
+      "title": "COMMUNITY SOLAR ENERGY PROGRAMS: A BRIGHT SPOT FOR JUST ENERGY POLICY?",
+      "abstract": "Energy systems are complex, and this complexity requires diverse regulatory forms and strategies of management. Michigan\u2019s energy system is situated within a multi-scalar governance structure reaching from national to local levels. As a result, the process of energy system decision-making can leave out smaller, remote communities and those without the economic, political, and knowledge capital necessary to engage in complex bureaucratic processes. These communities can become subject to high electricity prices and unreliable electrical service from long transmission and distribution lines, raising energy justice concerns. Additionally, resulting from utility regulatory practices, small remote communities are often not afforded the opportunity to explore alternative, local, and environmentally friendly energy generation sources. This dissertation utilizes data collected from two case study sites in Michigan to examine how decisions are made regarding energy system management, who participates in what forms of decision-making, what implications community solar can have for improving energy justice, and the role of energy policy. Specifically, the research attempts to examine how community solar may create more just energy systems and the particular policy and governance dimensions that shape the use of community solar for the pursuit of energy justice. Chapter 2 explores how Michigan investor-owned utilities interpret and implement energy laws to hinder distributed generation proliferation in Michigan. Chapter 3 reflects on the community engaged research process used to determine the viability of a community solar program. It argues for incorporating collaborative governance principles to further improve the community engaged research process to help insert local control and affordability into energy systems. Finally, chapter 4 utilizes and analyzes interview, focus group discussion, and survey data to understand from a community perspective what factors are important for community solar viability. It situates this data within the community social context as it recognizes that perceptions alone do not explain program viability. Energy justice does not apply to just one level of policy making. The subsequent implementation and decision-making process of these existing policies can be determined through collaborative governance strategies, such as community solar, that align with energy justice values",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Prehoda, Emily"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/227504341.pdf",
+      "publisher": "Digital Commons @ Michigan Tech",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170240197,
+      "doi": null,
+      "title": "LEVERAGING AI IN HUMAN RESOURCE MANAGEMENT",
+      "abstract": "Autonomic computing investigates how systems can achieve (user) specified \u2018\u2018control\u2019\u2019 outcomes\r\non their own, without the intervention of a human operator. Autonomic computing\r\nfundamentals have been substantially influenced by those of control theory for closed and\r\nopen-loop systems. In practice, complex systems may exhibit a number of concurrent and\r\ninter-dependent control loops. Despite research into autonomic models for managing compute",
+      "yearPublished": 2024,
+      "publishedDate": "2024-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "PSNZ"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639191226.pdf",
+      "publisher": "'Penerbit UMT, Universiti Malaysia Terengganu'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 2638145,
+      "doi": null,
+      "title": "Institutional and policy analysis of river basin management: the Brantas river basin, East Java, Indonesia",
+      "abstract": "The authors describe and analyze an unconventional approach to river basin management in a developing country undergoing rapid economic, political, and institutional change. The founding of the Brantas River Basin Management Corporation (Perum Jasa Tirta I - PJT 1), a national state-owned company for river basin management, initiated an emphasis on river basin management to operate and maintain existing infrastructure, plan and implement the allocation of water, and address problems that affect basin-level water resources. The Brantas River basin is located within the province of East Java in Indonesia. It has an area of approximately 11,800 square kilometers and makes up 25 percent of East Java's land area. The basin's population, which amounts to nearly 15 million, has increased by 53.4 percent over the past 30 years and represents 42.4 percent of East Java's population with a density of 1,249 per square kilometer. A shift has taken place in Indonesia since the mid-1990s from emphasizing infrastructure development to strengthening institutional aspects (hydrology, flood fighting, flood warning, flood management, and so on). The institutional arrangement for water resources management in the Brantas basin through a state-owned corporation is an interesting model. PJT I has achieved results in implementing a reasonably good system of water allocation and management and a reliable flood forecasting system, as well as maintaining major infrastructure in fairly good condition. Managing water quality, catchment conditions, and the river environment, however, are the responsibility of many entities, and there is need for greater coordination and authority to address these issues.Water Supply and Sanitation Governance and Institutions,Town Water Supply and Sanitation,Drought Management,Water and Industry,Water Conservation",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Bhat, Anjali"
+        },
+        {
+          "name": "Kemper, Karin"
+        },
+        {
+          "name": "Ramu, Kikkeri"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6521590.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36990980,
+      "doi": null,
+      "title": "Investing in Sustainable Energy Futures: Multilateral Development Banks' Investments in Energy Policy",
+      "abstract": "Analyzes MDB loans for electricity projects and lays out policy reforms, regulations, and institutional capacities needed to enable public and private investment in sustainable energy and ways for MDBs to address them consistently and comprehensively",
+      "yearPublished": 2010,
+      "publishedDate": "2010-04-04T01:00:00",
+      "authors": [
+        {
+          "name": "Athena R. Ballesteros"
+        },
+        {
+          "name": "Smita Nakhooda"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71352408.pdf",
+      "publisher": "World Resources Institute (WRI)",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 36997163,
+      "doi": null,
+      "title": "Water and Development: An Evaluation of World Bank Support, 1997-2007, Volume 1",
+      "abstract": "The Independent Evaluation Group at the World Bank has evaluated a decade of the Bank's water lending and grants in terms of overall shifts in the water portfolio and project performance, as well as successes and failures in addressing water resource management, environment, water use and service delivery, and institutions and water. The Bank increased its lending for water during the period and has generally seen improvements in project performance; however, IWRM has made limited progress in client countries, environmental restoration has been underemphasized by the Bank, sanitation needs much greater attention, and support for institutional reform and capacity building has had limited success",
+      "yearPublished": 2010,
+      "publishedDate": "2010-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/71360947.pdf",
+      "publisher": "World Bank Group, Independent Evaluation Group",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

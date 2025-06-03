@@ -1,0 +1,1598 @@
+{
+  "total": 2116,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "e6067099e5e23d14b2965dbdabe34751ffd8b63a",
+      "externalIds": {
+        "MAG": "2164432966",
+        "DOI": "10.1109/ICADIWT.2008.4664395",
+        "CorpusId": 18938691
+      },
+      "url": "https://www.semanticscholar.org/paper/e6067099e5e23d14b2965dbdabe34751ffd8b63a",
+      "title": "SOA compliant FIPA agent communication language",
+      "venue": "International Conference on Applications of Digital Information and Web Technologies",
+      "year": 2008,
+      "referenceCount": 15,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICADIWT.2008.4664395?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICADIWT.2008.4664395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research addresses the issue of interoperability between FIPA agents and grid services by proposing a communication framework for interoperation; SOA compliant FIPa ACL ontology is developed; that provides the necessary vocabulary that not only adheres to the FipA specifications but is also used by grid services."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2008-10-31",
+      "journal": {
+        "name": "2008 First International Conference on the Applications of Digital Information and Web Technologies (ICADIWT)",
+        "pages": "470-477"
+      },
+      "authors": [
+        {
+          "authorId": "2271569822",
+          "name": "M. Atif"
+        },
+        {
+          "authorId": "2271465329",
+          "name": "Nazir Raja"
+        },
+        {
+          "authorId": "2256351625",
+          "name": "H. F. Ahmad"
+        },
+        {
+          "authorId": "1958646",
+          "name": "H. Suguri"
+        },
+        {
+          "authorId": "2271650097",
+          "name": "Peter Bloodsworth"
+        },
+        {
+          "authorId": "2062619940",
+          "name": "Naeem Khalid"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "4834aaf08ffce1c5b280e6db73e7c3e5e2606ea9",
+      "externalIds": {
+        "CorpusId": 222077852
+      },
+      "url": "https://www.semanticscholar.org/paper/4834aaf08ffce1c5b280e6db73e7c3e5e2606ea9",
+      "title": "AGENT COMMUNICATION LANGUAGES COMPARISON: FIPA-ACL AND KQML",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 6,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An overview of the two main communication language - Knowledge Query and Manipulation Language (KQML) and The Foundation for Intelligent Physical Agents \u2013 Agent Communication Language (FIPA-ACL) is provided."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "13331288",
+          "name": "Georgi Tsochev"
+        },
+        {
+          "authorId": "1941333",
+          "name": "R. Trifonov"
+        },
+        {
+          "authorId": "123001632",
+          "name": "Georgi Naydenov"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "55866fd32a6d7bcda334c01c26aa2f887d22626b",
+      "externalIds": {
+        "MAG": "1541458676",
+        "DBLP": "conf/agentCL/GrosofL00",
+        "DOI": "10.1007/10722777_7",
+        "CorpusId": 14221219
+      },
+      "url": "https://www.semanticscholar.org/paper/55866fd32a6d7bcda334c01c26aa2f887d22626b",
+      "title": "An Approach to Using XML and a Rule-Based Content Language with an Agent Communication Language",
+      "venue": "Issues in Agent Communication",
+      "year": 2000,
+      "referenceCount": 33,
+      "citationCount": 110,
+      "influentialCitationCount": 11,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/10722777_7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/10722777_7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work argues for an XML encoding of FIPA Agent Communication Language (ACL), and gives an alpha version of it, called Agent Communication Markup Language ( ACML), which is implemented and a free alpha prototype of BRML/CLP, called IBM CommonRules, was released on the Web in July of 1999."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "pages": "96-117"
+      },
+      "authors": [
+        {
+          "authorId": "1764758",
+          "name": "Benjamin N. Grosof"
+        },
+        {
+          "authorId": "1776904",
+          "name": "Yannis Labrou"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "78329804934d5e0d78de5a646260550aa172790a",
+      "externalIds": {
+        "MAG": "2977860830",
+        "DOI": "10.14569/ijacsa.2019.0100970",
+        "CorpusId": 203645762
+      },
+      "url": "https://www.semanticscholar.org/paper/78329804934d5e0d78de5a646260550aa172790a",
+      "title": "Timed-Arc Petri-Nets based Agent Communication for Real-Time Multi-Agent Systems",
+      "venue": "International Journal of Advanced Computer Science and Applications",
+      "year": 2019,
+      "referenceCount": 27,
+      "citationCount": 4,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "http://thesai.org/Downloads/Volume10No9/Paper_70-Timed_Arc_Petri_Nets_based_Agent_Communication.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.14569/ijacsa.2019.0100970?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14569/ijacsa.2019.0100970, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work has used properties, such as liveness, deadlock and reachability for the formal verification of the proposed modeling technique, to provide a method of modeling existing FIPA performatives by combining Timed-Arc Petri-nets in real-time multi-agent systems."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "International Journal of Advanced Computer Science and Applications"
+      },
+      "authors": [
+        {
+          "authorId": "3470888",
+          "name": "Awais Qasim"
+        },
+        {
+          "authorId": "1557591262",
+          "name": "S. Kanwal"
+        },
+        {
+          "authorId": "145891358",
+          "name": "A. Khalid"
+        },
+        {
+          "authorId": "3469744",
+          "name": "Syed Asad Raza Kazmi"
+        },
+        {
+          "authorId": "2064857366",
+          "name": "Jawad Hassan"
+        }
+      ],
+      "abstract": "This research focuses on Timed-Arc Petri-nets-based agent communication in real-time multi-agent systems. The Agent Communication Language is a standard language for the agents to communicate. The objective is to combine Timed-Arc Petri-nets and FIPA Performatives in real-time multi-agent systems. FIPA standards provide a richer framework for the interaction of agents and makes it easier to develop a well-defined system. It also ensures the management by precisely specifying the agent\u2019s interaction. Though FIPA protocol has already been described with the help of Petri-nets but this specification lacks the timing aspect that is a dire need for real-time multi-agent systems. The main objective of this research is to provide a method of modeling existing FIPA performatives by combining Timed-Arc Petri-nets in real-time multi-agent systems. We have used properties, such as liveness, deadlock and reachability for the formal verification of the proposed modeling technique."
+    },
+    {
+      "paperId": "bdb1ef79bcac177b718213722207542105850982",
+      "externalIds": {
+        "MAG": "2354209736",
+        "CorpusId": 57278972
+      },
+      "url": "https://www.semanticscholar.org/paper/bdb1ef79bcac177b718213722207542105850982",
+      "title": "XML-based Agent Communication Language",
+      "venue": "",
+      "year": 2003,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "XML\ue011based ACL was proposed by use the mainstream technology of WWW by analyzing disadvantages of KQML and FIPA ACL including content language."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "Application Research of Computers",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2053893326",
+          "name": "Ling Xing"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "92bd6f36ebff554862d43a93c1f6f123d30e8210",
+      "externalIds": {
+        "MAG": "2807222895",
+        "DBLP": "conf/kesamsta/HassanC18",
+        "DOI": "10.1007/978-3-319-92031-3_13",
+        "CorpusId": 64740618
+      },
+      "url": "https://www.semanticscholar.org/paper/92bd6f36ebff554862d43a93c1f6f123d30e8210",
+      "title": "ER-Agent Communication Languages and Protocol for Large-Scale Emergency Responses",
+      "venue": "Agent and Multi-Agent Systems: Technologies and Applications",
+      "year": 2018,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-92031-3_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-92031-3_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new agent communication language (ER-ACL) and a corresponding protocol to be used in multi-agent systems (MAS) to assist large-scale emergency responses as a part of an Emergency Response Communication Framework."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2018-05-31",
+      "journal": {
+        "pages": "134-143"
+      },
+      "authors": [
+        {
+          "authorId": "1410183161",
+          "name": "Mohd Khairul Azmi Hassan"
+        },
+        {
+          "authorId": "1403697814",
+          "name": "Y. Chen-Burger"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "05561288ff4cab6742bb0644983b7a727a0eb6b7",
+      "externalIds": {
+        "MAG": "1607452377",
+        "CorpusId": 17517272
+      },
+      "url": "https://www.semanticscholar.org/paper/05561288ff4cab6742bb0644983b7a727a0eb6b7",
+      "title": "Inter-agent communication in a FIPA compliant intelligent distributed dynamic-information system",
+      "venue": "",
+      "year": 1999,
+      "referenceCount": 14,
+      "citationCount": 10,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper describes a traffic surveillance system as a particular case of the class of intelligent distributed dynamic-information systems (IDDIS) and shows that the FIPA ACL is a communication language powerful enough to achieve multi-agent coordination through communication."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2058146527",
+          "name": "L. Botelho"
+        },
+        {
+          "authorId": "2151027104",
+          "name": "Rui J. Lopes"
+        },
+        {
+          "authorId": "37760096",
+          "name": "M. Sequeira"
+        },
+        {
+          "authorId": "2053896608",
+          "name": "P. Almeida"
+        },
+        {
+          "authorId": "2054851042",
+          "name": "S\u00e9rgio Martins"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d2cd825b1ba9ab258aaddffb423cec908ea41fe4",
+      "externalIds": {
+        "DBLP": "books/wi/BellifemineCG07",
+        "MAG": "1904065432",
+        "DOI": "10.1007/3-540-44631-1_7",
+        "CorpusId": 12790394
+      },
+      "url": "https://www.semanticscholar.org/paper/d2cd825b1ba9ab258aaddffb423cec908ea41fe4",
+      "title": "Developing Multi-agent Systems with JADE",
+      "venue": "ATAL",
+      "year": 2007,
+      "referenceCount": 37,
+      "citationCount": 2671,
+      "influentialCitationCount": 332,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/3-540-44631-1_7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/3-540-44631-1_7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "JADE (Java Agent Development Framework) is a software framework to make easy the development of multi-agent applications in compliance with the FIPA specifications and can be considered a middle-ware that implements an efficient agent platform and supports theDevelopment of multi agent systems."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2007-04-02",
+      "journal": {
+        "pages": "1-286"
+      },
+      "authors": [
+        {
+          "authorId": "1821380",
+          "name": "F. Bellifemine"
+        },
+        {
+          "authorId": "1727736",
+          "name": "A. Poggi"
+        },
+        {
+          "authorId": "2506734",
+          "name": "G. Rimassa"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "447448459e6a965169fb55cca186ab0774d82d15",
+      "externalIds": {
+        "MAG": "2356923973",
+        "CorpusId": 59117363
+      },
+      "url": "https://www.semanticscholar.org/paper/447448459e6a965169fb55cca186ab0774d82d15",
+      "title": "A Survey on Agent Communication Languages",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 5,
+      "citationCount": 12,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper includes Foundation for intelligent physical agents (FIPA) and its own language FIPA ACL which is very similar to KQML and various applications of this language are also included."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "40911950",
+          "name": "S. Vaniya"
+        },
+        {
+          "authorId": "67139665",
+          "name": "Bhavesh Lad"
+        },
+        {
+          "authorId": "66953925",
+          "name": "Shreyansh Bhavsar"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "067e5d49f630851e029d4f4ebb5d3a5a0baa1e69",
+      "externalIds": {
+        "DBLP": "conf/kesamsta/2019",
+        "DOI": "10.1007/978-981-13-8679-4",
+        "CorpusId": 221667568
+      },
+      "url": "https://www.semanticscholar.org/paper/067e5d49f630851e029d4f4ebb5d3a5a0baa1e69",
+      "title": "Agents and Multi-agent Systems: Technologies and Applications 2019, 13th KES International Conference, KES-AMSTA-2019 St. Julians, Malta, June 2019 Proceedings",
+      "venue": "Agent and Multi-Agent Systems: Technologies and Applications",
+      "year": 2020,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-8679-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-8679-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "SPIN notation is used to model the social semantic of FIPA-ACL as it is able to link the class de\ufb01nition with SPARQL queries to capture rules and constraints to formalize the expected behaviour of classes."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "Smart Innovation, Systems and Technologies"
+      },
+      "authors": [
+        {
+          "authorId": "1693973",
+          "name": "G. Jezic"
+        },
+        {
+          "authorId": "1403697814",
+          "name": "Y. Chen-Burger"
+        },
+        {
+          "authorId": "1749549",
+          "name": "M. Kusek"
+        },
+        {
+          "authorId": "2331038077",
+          "name": "Roman \u0160 perka"
+        },
+        {
+          "authorId": "2798121",
+          "name": "R. Howlett"
+        },
+        {
+          "authorId": "2240039876",
+          "name": "Lakhmi C. Jain"
+        },
+        {
+          "authorId": "1403798853",
+          "name": "J. Chen-Burger"
+        },
+        {
+          "authorId": "2331037097",
+          "name": "Prof. Koichi Asakura"
+        },
+        {
+          "authorId": "2331036604",
+          "name": "Prof. Bruno Blaskovic"
+        },
+        {
+          "authorId": "2331036860",
+          "name": "Dr. Iva Bojic"
+        },
+        {
+          "authorId": "2331038047",
+          "name": "Dr. Angela Consoli"
+        },
+        {
+          "authorId": "2331036852",
+          "name": "Dr. Rustem Dautov"
+        },
+        {
+          "authorId": "2331040106",
+          "name": "Prof. Margarita Favorskaya"
+        },
+        {
+          "authorId": "2331037033",
+          "name": "Dra Maria del"
+        },
+        {
+          "authorId": "2331040266",
+          "name": "Rosario Baltazar"
+        },
+        {
+          "authorId": "2331037155",
+          "name": "Instituto Flores"
+        },
+        {
+          "authorId": "2331038453",
+          "name": "Mexico Tecnologico de Leon"
+        },
+        {
+          "authorId": "2331038497",
+          "name": "Dr. Arnulfo Alanis Garza"
+        },
+        {
+          "authorId": "2331036865",
+          "name": "Dr. Paulina Golinska-Dawson"
+        },
+        {
+          "authorId": "81345825",
+          "name": "Michal Hala\u0161ka"
+        },
+        {
+          "authorId": "2331038031",
+          "name": ".Tzung-Pei Hong"
+        },
+        {
+          "authorId": "2331040487",
+          "name": "Mr. Stef Janssen"
+        },
+        {
+          "authorId": "2331038338",
+          "name": "Prof. Gordan Jezic"
+        },
+        {
+          "authorId": "2331039609",
+          "name": "Prof. Dragan Jevtic"
+        },
+        {
+          "authorId": "2331036722",
+          "name": "Prof. Joanna Jozefowska"
+        },
+        {
+          "authorId": "2331040115",
+          "name": "Dr. Arkadiusz Kawa"
+        },
+        {
+          "authorId": "2331037422",
+          "name": "Dr. Adrianna Kozierkiewicz-Hetma \u00f1 ska"
+        },
+        {
+          "authorId": "2331040258",
+          "name": ".Kazuhiro Kuwabara"
+        },
+        {
+          "authorId": "2331038451",
+          "name": "Prof. Mirjana Ivanovic"
+        },
+        {
+          "authorId": "2331040256",
+          "name": "Dr. Konrad Ku \u0142 akowski"
+        },
+        {
+          "authorId": "2331037038",
+          "name": "Prof. Mario Kusek"
+        },
+        {
+          "authorId": "2331040084",
+          "name": "Dr. Lenin G. Lemus-Zuniga"
+        },
+        {
+          "authorId": "2480567",
+          "name": "D. Moldt"
+        },
+        {
+          "authorId": "2098726650",
+          "name": "Precup Radu-Emil"
+        },
+        {
+          "authorId": "2331040236",
+          "name": "Precup"
+        },
+        {
+          "authorId": "2331038026",
+          "name": "Prof. Roman \u0160 perka"
+        },
+        {
+          "authorId": "2331040254",
+          "name": "Prof. Ryszard Tadeusiewicz"
+        },
+        {
+          "authorId": "2331040099",
+          "name": "Prof. Takao Terano"
+        },
+        {
+          "authorId": "2331040081",
+          "name": "Dr. Alexander Toschev"
+        },
+        {
+          "authorId": "2331038033",
+          "name": "Dr. Bogdan Trawinski"
+        },
+        {
+          "authorId": "2331038489",
+          "name": "Prof. Dr. Jordi Vallverdu"
+        },
+        {
+          "authorId": "2331037256",
+          "name": "Dr. Arkady Zaslavsky"
+        },
+        {
+          "authorId": "2331039843",
+          "name": "Dr. Mahdi Zargayouna"
+        },
+        {
+          "authorId": "2331037022",
+          "name": "Assoc. Prof. Roman \u0160 perka"
+        },
+        {
+          "authorId": "2331039899",
+          "name": "Dr. Maria del Rosario"
+        },
+        {
+          "authorId": "2331037092",
+          "name": "Baltazar Flores Dr"
+        },
+        {
+          "authorId": "2331037899",
+          "name": "Prof. Setsuya Kurahashi"
+        },
+        {
+          "authorId": "2331038447",
+          "name": "Mexico Instituto Tecnologico de Leon"
+        },
+        {
+          "authorId": "2331040054",
+          "name": "Prof Arnulfo Alanis"
+        },
+        {
+          "authorId": "2331037463",
+          "name": "Instituto Garza"
+        },
+        {
+          "authorId": "2331036831",
+          "name": "Mexico Prof. Hiroshi Tecnol \u00f3 gico de Tijuana"
+        },
+        {
+          "authorId": "2331038445",
+          "name": "Takahashi"
+        },
+        {
+          "authorId": "2555104",
+          "name": "Kim Soon Gan"
+        },
+        {
+          "authorId": "2331040045",
+          "name": "Patricia Anthony"
+        },
+        {
+          "authorId": "2331036580",
+          "name": "Kim On Chin"
+        },
+        {
+          "authorId": "2331040262",
+          "name": "Abdul Razak Hamdan"
+        },
+        {
+          "authorId": "2331265937",
+          "name": "Liang Xiao"
+        },
+        {
+          "authorId": "30430446",
+          "name": "Renato Soic"
+        },
+        {
+          "authorId": "2331039895",
+          "name": "Marin Vukovic"
+        },
+        {
+          "authorId": "1919146",
+          "name": "Pavle Skocir"
+        },
+        {
+          "authorId": "151039464",
+          "name": "Itsuki Tago"
+        },
+        {
+          "authorId": "2331044171",
+          "name": "Naoto Suzuki"
+        },
+        {
+          "authorId": "39691561",
+          "name": "Tomofumi Matsuzawa"
+        },
+        {
+          "authorId": "1761424",
+          "name": "M. Takimoto"
+        },
+        {
+          "authorId": "1782916",
+          "name": "Y. Kambayashi"
+        },
+        {
+          "authorId": "144080814",
+          "name": "Carlos Eduardo Pantoja"
+        },
+        {
+          "authorId": "2331038043",
+          "name": "Jos \u00e9 Viterbo"
+        },
+        {
+          "authorId": "41189343",
+          "name": "A. E. Seghrouchni"
+        },
+        {
+          "authorId": "2292024577",
+          "name": "Matteo Cristani"
+        },
+        {
+          "authorId": "151123925",
+          "name": "Michele Manzato"
+        },
+        {
+          "authorId": "3032784",
+          "name": "Simone Scannapieco"
+        },
+        {
+          "authorId": "1803916",
+          "name": "Claudio Tomazzoli"
+        },
+        {
+          "authorId": "151226497",
+          "name": "Stefano-Francesco Zuliani"
+        },
+        {
+          "authorId": "2331037443",
+          "name": "Carlos R. P. dos"
+        },
+        {
+          "authorId": "2331040330",
+          "name": "Santos Junior"
+        },
+        {
+          "authorId": "2359351906",
+          "name": "J. Reginaldo"
+        },
+        {
+          "authorId": "2331039739",
+          "name": "H. Carvalho"
+        },
+        {
+          "authorId": "2331040252",
+          "name": "Heitor J. Savino"
+        },
+        {
+          "authorId": "2331037087",
+          "name": "Fernando Arroyo"
+        },
+        {
+          "authorId": "2329395871",
+          "name": "Victor Mitrana"
+        },
+        {
+          "authorId": "2331039773",
+          "name": "Andrei P \u0103 un"
+        },
+        {
+          "authorId": "2331038779",
+          "name": "Mihaela P \u0103 un"
+        },
+        {
+          "authorId": "2331038874",
+          "name": "Michal Hala \u0161 ka"
+        },
+        {
+          "authorId": "9106243",
+          "name": "R. Bucki"
+        },
+        {
+          "authorId": "2331039075",
+          "name": "Petr Such \u00e1 nek"
+        },
+        {
+          "authorId": "2331039309",
+          "name": "Guillaume Guerard"
+        },
+        {
+          "authorId": "47031905",
+          "name": "Hugo Pousseur"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "786056d3c82f987f5639c658ec5b47f633900d84",
+      "externalIds": {
+        "MAG": "1535222742",
+        "DBLP": "conf/cia/SerranoO04",
+        "DOI": "10.1007/978-3-540-30104-2_8",
+        "CorpusId": 15726098
+      },
+      "url": "https://www.semanticscholar.org/paper/786056d3c82f987f5639c658ec5b47f633900d84",
+      "title": "On the Impact of Agent Communication Languages on the Implementation of Agent Systems",
+      "venue": "International Workshop on Cooperative Information Agents",
+      "year": 2004,
+      "referenceCount": 17,
+      "citationCount": 37,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-30104-2_8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-30104-2_8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The \\(\\mathcal{RICA}\\) metamodel is considered as a programming language, in which roles, interactions, communicative actions, etc., are first-class language entities, and it is shown how this language can be effectively implemented as a software framework that extends the JADE platform, and an example that illustrates its potential."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2004-09-27",
+      "journal": {
+        "pages": "92-106"
+      },
+      "authors": [
+        {
+          "authorId": "2915384",
+          "name": "J. Serrano"
+        },
+        {
+          "authorId": "1880804",
+          "name": "Sascha Ossowski"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e54249bd51a57b0db1ac9b80e233fe4221b81f73",
+      "externalIds": {
+        "MAG": "2164454046",
+        "DBLP": "conf/webi/WillmottPMCDC05",
+        "DOI": "10.1109/WI.2005.20",
+        "CorpusId": 10079591
+      },
+      "url": "https://www.semanticscholar.org/paper/e54249bd51a57b0db1ac9b80e233fe4221b81f73",
+      "title": "Adapting agent communication languages for semantic Web service inter-communication",
+      "venue": "International Conference on Wirtschaftsinformatik",
+      "year": 2005,
+      "referenceCount": 7,
+      "citationCount": 16,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WI.2005.20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WI.2005.20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The work presented here shows how this could be done by mapping the existing agent communication language (FIPa-ACL, FIPA-SL and associated standards developed by the foundation for intelligent physical agents) into OWL based representations which may then be readily used in a Web services environment."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2005-09-19",
+      "journal": {
+        "name": "The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)",
+        "pages": "405-408"
+      },
+      "authors": [
+        {
+          "authorId": "1760092",
+          "name": "S. Willmott"
+        },
+        {
+          "authorId": "32639977",
+          "name": "F\u00e9lix Oscar Fern\u00e1ndez Pe\u00f1a"
+        },
+        {
+          "authorId": "1398660539",
+          "name": "Carlos M\u00e9rida-Campos"
+        },
+        {
+          "authorId": "1685108",
+          "name": "Ion Constantinescu"
+        },
+        {
+          "authorId": "50582922",
+          "name": "J. Dale"
+        },
+        {
+          "authorId": "2783675",
+          "name": "David Cabanillas"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "baca03124e1b8d1635251a22bad6ed1045d4b0fa",
+      "externalIds": {
+        "CorpusId": 11017161
+      },
+      "url": "https://www.semanticscholar.org/paper/baca03124e1b8d1635251a22bad6ed1045d4b0fa",
+      "title": "Adapting Agent Communication Languages for Web Service to Web Service Communication",
+      "venue": "",
+      "year": 2004,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The work presented here and on the associated web page aims to explore how an existing Agent Communication Language (FIPA-ACL, FIPa-SL and associated standards developed by the Foundation for Intelligent Physical Agents) could be mapped into representations which could be readily used in a Web Services environment."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "1760092",
+          "name": "S. Willmott"
+        },
+        {
+          "authorId": "32639977",
+          "name": "F\u00e9lix Oscar Fern\u00e1ndez Pe\u00f1a"
+        },
+        {
+          "authorId": "1398660539",
+          "name": "Carlos M\u00e9rida-Campos"
+        },
+        {
+          "authorId": "2085835526",
+          "name": "-. IonCon"
+        },
+        {
+          "authorId": "2104217782",
+          "name": "stantinescu"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "37dd9d2a46fb4d9090cbc7c5f89207cf1231fd28",
+      "externalIds": {
+        "MAG": "1826330893",
+        "DBLP": "conf/mata/ZhangKI01",
+        "DOI": "10.1007/3-540-44651-6_26",
+        "CorpusId": 38012193
+      },
+      "url": "https://www.semanticscholar.org/paper/37dd9d2a46fb4d9090cbc7c5f89207cf1231fd28",
+      "title": "Towards a Secure Agent Platform Based on FIPA",
+      "venue": "International Workshop on Mobility Aware Technologies and Applications",
+      "year": 2001,
+      "referenceCount": 15,
+      "citationCount": 11,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/3-540-44651-6_26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/3-540-44651-6_26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A two-layer architecture that includes a security layer as the security extension to FIPA-OS is proposed that provides two types of security-related services to agents: a secure communication service which prevents any eavesdropping or interference from the outside network and a secure execution environment service which protects server resources and agent services from any unauthorized access of agents."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2001-08-14",
+      "journal": {
+        "pages": "277-289"
+      },
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Min Zhang"
+        },
+        {
+          "authorId": "1681169",
+          "name": "A. Karmouch"
+        },
+        {
+          "authorId": "1693067",
+          "name": "R. Impey"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b6e4f9796f7b4b481cc4caf559adfdc46bcedd9e",
+      "externalIds": {
+        "MAG": "2953828904",
+        "DBLP": "conf/kesamsta/GanAOH19",
+        "DOI": "10.1007/978-981-13-8679-4_1",
+        "CorpusId": 198365644
+      },
+      "url": "https://www.semanticscholar.org/paper/b6e4f9796f7b4b481cc4caf559adfdc46bcedd9e",
+      "title": "Enforcing Social Semantic in FIPA-ACL Using SPIN",
+      "venue": "Agent and Multi-Agent Systems: Technologies and Applications",
+      "year": 2019,
+      "referenceCount": 27,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-8679-4_1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-8679-4_1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "SPIN notation is used to model the social semantic of FIPA-ACL as it is able to link the class definition with SPARQL queries to capture rules and constraints to formalize the expected behaviour of classes."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "pages": "3-13"
+      },
+      "authors": [
+        {
+          "authorId": "2555104",
+          "name": "Kim Soon Gan"
+        },
+        {
+          "authorId": "145758514",
+          "name": "P. Anthony"
+        },
+        {
+          "authorId": "3000542",
+          "name": "C. K. On"
+        },
+        {
+          "authorId": "2335317",
+          "name": "A. Hamdan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "4bbee6d3f5ad4d13c7244e6476fb5d459174eae3",
+      "externalIds": {
+        "MAG": "2520454632",
+        "DBLP": "conf/dalt/KonnerthHA06",
+        "DOI": "10.1007/11961536_10",
+        "CorpusId": 5581922
+      },
+      "url": "https://www.semanticscholar.org/paper/4bbee6d3f5ad4d13c7244e6476fb5d459174eae3",
+      "title": "JADL - An Agent Description Language for Smart Agents",
+      "venue": "International Workshop on Declarative Agent Languages and Technologies",
+      "year": 2006,
+      "referenceCount": 28,
+      "citationCount": 33,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11961536_10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11961536_10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The declarative agent programming language Jadl (JIAC Agent Description Language) is described, which incorporates ontologies, FIPA-based speech acts, a (procedural) scripting part for (complex) actions, and allows to define protocols and service based communication."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2006-05-08",
+      "journal": {
+        "pages": "141-155"
+      },
+      "authors": [
+        {
+          "authorId": "2680715",
+          "name": "Thomas Konnerth"
+        },
+        {
+          "authorId": "35549499",
+          "name": "Benjamin Hirsch"
+        },
+        {
+          "authorId": "1722170",
+          "name": "S. Albayrak"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d71f2306df6c6f94202a23f9fff93aae0cee036f",
+      "externalIds": {
+        "DBLP": "journals/jsi/Poggi99",
+        "MAG": "1561560042",
+        "DOI": "10.1023/A:1008445802625",
+        "CorpusId": 34405373
+      },
+      "url": "https://www.semanticscholar.org/paper/d71f2306df6c6f94202a23f9fff93aae0cee036f",
+      "title": "Developing Real Applications With Agent Technologies",
+      "venue": "Journal of Systems Integration",
+      "year": 1999,
+      "referenceCount": 19,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1023/A:1008445802625?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1023/A:1008445802625, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An agent library to develop multi-agent applications that offers the prototypes of the agents necessary for the management of a FIPA agent open system and an agent prototype that the user can specialise to build the other agent necessary for her/his application."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "1999-12-01",
+      "journal": {
+        "name": "Journal of Systems Integration",
+        "pages": "311-328",
+        "volume": "9"
+      },
+      "authors": [
+        {
+          "authorId": "1727736",
+          "name": "A. Poggi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8d326bea8703a96a071967a3dde01349e676c543",
+      "externalIds": {
+        "DBLP": "conf/kesamsta/AbdelkafiB15",
+        "MAG": "2411096326",
+        "DOI": "10.1007/978-3-319-19728-9_36",
+        "CorpusId": 46304814
+      },
+      "url": "https://www.semanticscholar.org/paper/8d326bea8703a96a071967a3dde01349e676c543",
+      "title": "Evaluating Organizational Structures for Supporting Business Processes Reengineering: An Agent Based Approach",
+      "venue": "Agent and Multi-Agent Systems: Technologies and Applications",
+      "year": 2015,
+      "referenceCount": 3,
+      "citationCount": 1,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-19728-9_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-19728-9_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposes a method allowing the evaluation of the discovered organizational structures in terms of flexibility, robustness and efficiency, and exposes the DiscopFlow tool that validates the solution."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "pages": "429-440"
+      },
+      "authors": [
+        {
+          "authorId": "1929743",
+          "name": "Mahdi Abdelkafi"
+        },
+        {
+          "authorId": "2962765",
+          "name": "L. Bouzguenda"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c9cd96284baeba5dcc90aafb0150c833e5813f8f",
+      "externalIds": {
+        "MAG": "55212474",
+        "CorpusId": 14149898
+      },
+      "url": "https://www.semanticscholar.org/paper/c9cd96284baeba5dcc90aafb0150c833e5813f8f",
+      "title": "A Protocol-Based Semantics for FIPA'97 ACL and its Implementation in JADE",
+      "venue": "",
+      "year": 1999,
+      "referenceCount": 14,
+      "citationCount": 17,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper defines a general semantic framework for a class of ACLs in terms of protocols, and develops a method for designing and specifying a member of this class, and configuring it for a particular application."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "1729790",
+          "name": "J. Pitt"
+        },
+        {
+          "authorId": "1821380",
+          "name": "F. Bellifemine"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "52f96836ce45ace89ce09561bb11343ea45a4f24",
+      "externalIds": {
+        "MAG": "2008888590",
+        "DOI": "10.1109/ICACT.2008.4493969",
+        "CorpusId": 25960415
+      },
+      "url": "https://www.semanticscholar.org/paper/52f96836ce45ace89ce09561bb11343ea45a4f24",
+      "title": "Implementation of the Converting Module from FIPA SL to XML",
+      "venue": "International Conference on Advanced Communication Technology",
+      "year": 2008,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACT.2008.4493969?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACT.2008.4493969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The FIPA SL-to-XML converting module makes the FIPa SL-based agent platforms communicate with the XML-based web applications and platforms and the starting point of the integration module that can combine the heterogeneous language-based platforms is proposed."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2008-04-22",
+      "journal": {
+        "name": "2008 10th International Conference on Advanced Communication Technology",
+        "pages": "1150-1153",
+        "volume": "2"
+      },
+      "authors": [
+        {
+          "authorId": "3242937",
+          "name": "Yoe-Jin Yoon"
+        },
+        {
+          "authorId": "2109189513",
+          "name": "Dong-Uk Kim"
+        },
+        {
+          "authorId": "8773679",
+          "name": "S. Na"
+        },
+        {
+          "authorId": "97897497",
+          "name": "D. Shin"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

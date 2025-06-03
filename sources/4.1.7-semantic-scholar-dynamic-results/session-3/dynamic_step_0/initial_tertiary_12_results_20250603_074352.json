@@ -1,0 +1,1365 @@
+{
+  "total": 7418,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "1ba14d1764ee524b70bd3f073516d29f03f9f05d",
+      "externalIds": {
+        "DOI": "10.1109/ICIS64839.2024.10887444",
+        "CorpusId": 276510040
+      },
+      "url": "https://www.semanticscholar.org/paper/1ba14d1764ee524b70bd3f073516d29f03f9f05d",
+      "title": "Computing Paradigms in Smart Grids 2.0: Exploring Computing Models and Cybersecurity Challenges",
+      "venue": "International Conference on Interaction Sciences",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIS64839.2024.10887444?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIS64839.2024.10887444, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The role of various computing models\u2014Cloud, Fog, Edge, and Distributed computing\u2014within the framework of Smart Grids 2.0 are examined, emphasizing their impact on system efficiency and security."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-10-23",
+      "journal": {
+        "name": "2024 19th Iranian Conference on Intelligent Systems (ICIS)",
+        "pages": "272-278"
+      },
+      "authors": [
+        {
+          "authorId": "2276023715",
+          "name": "Hossein Shahinzadeh"
+        },
+        {
+          "authorId": "2048020700",
+          "name": "S. M. Zanjani"
+        },
+        {
+          "authorId": "144157251",
+          "name": "G. Gharehpetian"
+        },
+        {
+          "authorId": "2346538014",
+          "name": "Amir-Emad Poursaeid"
+        },
+        {
+          "authorId": "2346519099",
+          "name": "Ehsan Etemadnia"
+        },
+        {
+          "authorId": "2346133336",
+          "name": "Saiedeh Mehrabani-Najafabadi"
+        }
+      ],
+      "abstract": "Smart Grid 2.0 represents a significant advancement in energy systems, propelled by innovations such as the Internet of Things (IoT), Blockchain technology, and 5G telecommunications. These technologies enable dynamic and intelligent energy management while introducing new challenges in data processing and cybersecurity. This paper examines the role of various computing models\u2014Cloud, Fog, Edge, and Distributed computing\u2014within the framework of Smart Grids 2.0, emphasizing their impact on system efficiency and security. We first define each computing paradigm and its specific applications in smart grids. Next, we assess the security risks and computational challenges associated with these models, offering a comparative analysis of their performance in addressing concerns such as latency, scalability, and susceptibility to cyber-attacks. Proposed solutions, including encryption techniques and real-time threat detection, are discussed to strengthen the resilience of smart grids. The paper concludes with recommendations for future research, particularly in advancing cybersecurity measures and optimizing data processing in an increasingly interconnected energy infrastructure."
+    },
+    {
+      "paperId": "a53a4f084f282662e5fcc35b2f481eecac5b4675",
+      "externalIds": {
+        "DOI": "10.1109/ICBAIE56435.2022.9985874",
+        "CorpusId": 254999439
+      },
+      "url": "https://www.semanticscholar.org/paper/a53a4f084f282662e5fcc35b2f481eecac5b4675",
+      "title": "Application of Edge Computing in Smart Grid",
+      "venue": "2022 3rd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICBAIE56435.2022.9985874?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICBAIE56435.2022.9985874, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper focuses on the analysis of how edge computing technology is combined with power grid services and discusses the application of edge computing in smart grids."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2022-07-15",
+      "journal": {
+        "name": "2022 3rd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)",
+        "pages": "62-65"
+      },
+      "authors": [
+        {
+          "authorId": "2190253781",
+          "name": "Ran Liu"
+        },
+        {
+          "authorId": "2115431986",
+          "name": "Runan Yang"
+        },
+        {
+          "authorId": "2108218851",
+          "name": "Zhigang Wang"
+        },
+        {
+          "authorId": "2155804727",
+          "name": "Xiaobo Sun"
+        }
+      ],
+      "abstract": "The development of the Internet of Things has promoted the development of smart grids. Edge computing, as one of the key technologies for Internet of Things applications, provides data services at the edge of the system through the integration of network, storage, computing and other technologies to solve the problem of real-time processing of a large amount of data. This paper focuses on the analysis of how edge computing technology is combined with power grid services. The article first analyzes the key technologies and characteristics of edge computing, and finally discusses the application of edge computing in smart grids."
+    },
+    {
+      "paperId": "1e491017de0ccf79dab99929ffdf9f5cdef943cf",
+      "externalIds": {
+        "DBLP": "conf/iscc/TrajanoSRSCC19",
+        "MAG": "3003318394",
+        "DOI": "10.1109/ISCC47284.2019.8969784",
+        "CorpusId": 210972607
+      },
+      "url": "https://www.semanticscholar.org/paper/1e491017de0ccf79dab99929ffdf9f5cdef943cf",
+      "title": "Leveraging Mobile Edge Computing on Smart Grids Using LTE Cellular Networks",
+      "venue": "International Symposium on Computers and Communications",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 15,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCC47284.2019.8969784?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCC47284.2019.8969784, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work proposes and evaluates a system architecture that copes with reliability and latency demands that are of much importance for a successful Smart Grid deployment, also considering the internal design of distributed applications in the context of Smart Grids."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-06-01",
+      "journal": {
+        "name": "2019 IEEE Symposium on Computers and Communications (ISCC)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "2641976",
+          "name": "Alex F. R. Trajano"
+        },
+        {
+          "authorId": "145320956",
+          "name": "Antonio M. de Sousa"
+        },
+        {
+          "authorId": "1872249",
+          "name": "E. Rodrigues"
+        },
+        {
+          "authorId": "2710352",
+          "name": "J. Souza"
+        },
+        {
+          "authorId": "31936430",
+          "name": "A. Callado"
+        },
+        {
+          "authorId": "33178064",
+          "name": "E. Coutinho"
+        }
+      ],
+      "abstract": "Given the advance of the Smart Grid technology, the electrical grid is now in a process of transformation never seen in history. This new grid model allows customers and providers to generate and manage electrical power efficiently. To support such transformation, a key element of the model is the communication network responsible for delivering measurement data from sensors on the grid to the applications that analyze and adapt distribution according to demands. This work proposes and evaluates a system architecture that copes with reliability and latency demands that are of much importance for a successful Smart Grid deployment, also considering the internal design of distributed applications in the context of Smart Grids. The architecture adopts a Mobile Edge Computing based infrastructure that is suitable for 4G and 5G mobile cellular networks. Experiments made on NS-3 shows that the proposed system architecture is capable of handling a realistic number of smart meters while providing low latency and network reliability, supporting many use cases of a Smart Grid deployment."
+    },
+    {
+      "paperId": "a85b2e89d971dc8341baaa01a390014e538be5f8",
+      "externalIds": {
+        "DBLP": "conf/globecom/HasnatHARK19",
+        "MAG": "3011490927",
+        "DOI": "10.1109/GCWkshps45667.2019.9024632",
+        "CorpusId": 212649342
+      },
+      "url": "https://www.semanticscholar.org/paper/a85b2e89d971dc8341baaa01a390014e538be5f8",
+      "title": "Situational Awareness Using Edge-Computing Enabled Internet of Things for Smart Grids",
+      "venue": "2019 IEEE Globecom Workshops (GC Wkshps)",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 10,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCWkshps45667.2019.9024632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCWkshps45667.2019.9024632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper considers one of the key operations for smart grid\u00e2\u20ac\u2122s reliability, which is situational awareness and discusses the role that the edge computing can play to enhance this operation by providing distributed state estimation (DSE) locally at the edge nodes."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-12-01",
+      "journal": {
+        "name": "2019 IEEE Globecom Workshops (GC Wkshps)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Md. Abul Hasnat"
+        },
+        {
+          "authorId": "145922430",
+          "name": "Md. Jakir Hossain"
+        },
+        {
+          "authorId": "1557515283",
+          "name": "Adetola Adeniran"
+        },
+        {
+          "authorId": "1403895905",
+          "name": "M. Rahnamay-Naeini"
+        },
+        {
+          "authorId": "2687705",
+          "name": "Hana Khamfroush"
+        }
+      ],
+      "abstract": "Edge computing provides an ideal platform to enable many critical and time-sensitive applications in monitoring and operation of critical cyber-physical systems, such as smart grids. In this paper, we consider one of the key operations for smart grid\u00e2\u20ac\u2122s reliability, which is situational awareness and discuss the role that the edge computing can play to enhance this operation by providing distributed state estimation (DSE) locally at the edge nodes. We specifically focus on the network of the phasor measurement units (PMUs) as an example of the industrial internet of things in smart grids and discuss the edge-computing platform architecture to enable data analytics for DSE using the PMU time-series. We discuss that it is important to consider the physics of the smart grid in designing the edge-computing layer. As an example, we present a data-driven method for detecting power line trips using the PMU data and the designed physics-aware edge-computing platform."
+    },
+    {
+      "paperId": "285b4041d66da66bf6e8e4abdf52eb53c9681123",
+      "externalIds": {
+        "DOI": "10.3390/en15176140",
+        "CorpusId": 251852496
+      },
+      "url": "https://www.semanticscholar.org/paper/285b4041d66da66bf6e8e4abdf52eb53c9681123",
+      "title": "Edge Computing for IoT-Enabled Smart Grid: The Future of Energy",
+      "venue": "Energies",
+      "year": 2022,
+      "referenceCount": 71,
+      "citationCount": 90,
+      "influentialCitationCount": 2,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/15/17/6140/pdf?version=1661338029",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en15176140?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en15176140, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work performs a comprehensive survey of edge computing for IoT-enabled smart grid systems and hopes that these study results will contribute important guidelines for in-depth research in the field of smart grids and green energy in the future."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2022-08-24",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "2182931209",
+          "name": "Quy Nguyen Minh"
+        },
+        {
+          "authorId": "2183081993",
+          "name": "Van-Hau Nguyen"
+        },
+        {
+          "authorId": "36320464",
+          "name": "V. K. Quy"
+        },
+        {
+          "authorId": "1557548361",
+          "name": "L. Ngoc"
+        },
+        {
+          "authorId": "2782896",
+          "name": "Abdellah Chehri"
+        },
+        {
+          "authorId": "31444174",
+          "name": "Gwanggil Jeon"
+        }
+      ],
+      "abstract": "The explosive development of electrical engineering in the early 19th century marked the birth of the 2nd industrial revolution, with the use of electrical energy in place of steam power, as well as changing the history of human development. The versatility of electricity allows people to apply it to a multitude of fields such as transportation, heat applications, lighting, telecommunications, and computers. Nowadays, with the breakout development of science and technology, electric energy sources are formed by many different technologies such as hydroelectricity, solar power, wind power, coal power, etc. These energy sources are connected to form grid systems to transmit electricity to cities, businesses and homes for life and work. Electrical energy today has become the backbone of all modern technologies. To ensure the safe, reliable and energy-efficient operation of the grid, a wide range of grid management applications have been proposed. However, a significant challenge for monitoring and controlling grids is service response time. In recent times, to solve this problem, smart grid management applications based on IoT and edge computing have been proposed. In this work, we perform a comprehensive survey of edge computing for IoT-enabled smart grid systems. In addition, recent smart grid frameworks based on IoT and edge computing are discussed, important requirements are presented, and the open issues and challenges are indicated. We believe that in the Internet of Things era, the smart grid will be the future of energy. We hope that these study results will contribute important guidelines for in-depth research in the field of smart grids and green energy in the future."
+    },
+    {
+      "paperId": "8c5c3eb639db10d110e1423400064490cd2b519f",
+      "externalIds": {
+        "DBLP": "journals/cluster/CardenasARM23",
+        "DOI": "10.1007/s10586-022-03797-8",
+        "CorpusId": 253487993
+      },
+      "url": "https://www.semanticscholar.org/paper/8c5c3eb639db10d110e1423400064490cd2b519f",
+      "title": "Modeling and simulation of smart grid-aware edge computing federations",
+      "venue": "Cluster Computing",
+      "year": 2022,
+      "referenceCount": 56,
+      "citationCount": 19,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s10586-022-03797-8.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10586-022-03797-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10586-022-03797-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A modeling, simulation, and optimization (M&S&O) framework for analyzing and dimensioning smart grid-aware edge computing federations and shows a realistic case study for optimizing the energy consumption and operational expenses of an edge computing federation that provides service to a driver assistance IoT application."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2022-11-11",
+      "journal": {
+        "name": "Cluster Computing",
+        "pages": "719-743",
+        "volume": "26"
+      },
+      "authors": [
+        {
+          "authorId": "89671889",
+          "name": "Rom\u00e1n C\u00e1rdenas"
+        },
+        {
+          "authorId": "3135281",
+          "name": "Patricia Arroba"
+        },
+        {
+          "authorId": "1398041485",
+          "name": "J. L. Risco-Mart\u00edn"
+        },
+        {
+          "authorId": "1794140",
+          "name": "Jose M. Moya"
+        }
+      ],
+      "abstract": "Compute-intensive Internet of Things (IoTs) applications have led to the edge computing paradigm. Edge computing decentralizes the IT infrastructure in multiple edge data centers (EDCs) across the access networks to reduce latency and network congestion. Edge computing can benefit significantly from different aspects of smart grids to achieve lower energy consumption and greater resilience to electricity price fluctuations. This paper presents a modeling, simulation, and optimization (M&S&O) framework for analyzing and dimensioning smart grid-aware edge computing federations. This tool integrates aspects of a consumer-centric smart grid model to the resource management policies of the EDCs. To illustrate the benefits of this tool, we show a realistic case study for optimizing the energy consumption and operational expenses of an edge computing federation that provides service to a driver assistance IoT application. Results show that this approach can reduce the daily energy consumption by 20.3% and the electricity budget by 30.3%."
+    },
+    {
+      "paperId": "ee73dca992dc1f7d2e8691aede149057a3b4457a",
+      "externalIds": {
+        "DOI": "10.1109/CBASE64041.2024.10824575",
+        "CorpusId": 275547786
+      },
+      "url": "https://www.semanticscholar.org/paper/ee73dca992dc1f7d2e8691aede149057a3b4457a",
+      "title": "Intent- Based Network Management and Its Application Prospects in Smart Grids",
+      "venue": "2024 3rd International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE)",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/CBASE64041.2024.10824575?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CBASE64041.2024.10824575, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Potential applications of intent-driven networks, including dynamic resource scheduling, integration with edge computing, fault detection and self-healing, energy efficiency optimization, and standardization issues, are explored, offering new perspectives for optimizing management in smart grids."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-10-11",
+      "journal": {
+        "name": "2024 3rd International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE)",
+        "pages": "884-890"
+      },
+      "authors": [
+        {
+          "authorId": "2291044550",
+          "name": "Qiuqi Han"
+        },
+        {
+          "authorId": "2340354058",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "2100708086",
+          "name": "Kunrui Tong"
+        },
+        {
+          "authorId": "2340805121",
+          "name": "Xin Xu"
+        },
+        {
+          "authorId": "2341904896",
+          "name": "Yao Lu"
+        }
+      ],
+      "abstract": "This article provides a review of the application of intent-driven networks in smart grids, suitable for domestic journals focusing on review or prospective articles. Firstly, the article introduces the concept of intent-driven networks and their enhancement based on Software-Defined Networking (SDN), emphasizing the shift from network control to adaptive management. It then reviews the requirements of smart grids for intelligent network management, discusses the role of SDN in the evolution of smart grid communications, and briefly outlines relevant research. Finally, it explores potential applications of intent-driven networks, including dynamic resource scheduling, integration with edge computing, fault detection and self-healing, energy efficiency optimization, and standardization issues, offering new perspectives for optimizing management in smart grids."
+    },
+    {
+      "paperId": "157732826473a76e6ea84734c0215f2fd3c2130e",
+      "externalIds": {
+        "DBLP": "journals/access/VelasquezMA24",
+        "DOI": "10.1109/ACCESS.2024.3396402",
+        "CorpusId": 269536265
+      },
+      "url": "https://www.semanticscholar.org/paper/157732826473a76e6ea84734c0215f2fd3c2130e",
+      "title": "Smart Grids Empowered by Software-Defined Network: A Comprehensive Review of Advancements and Challenges",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 119,
+      "citationCount": 10,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3396402?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3396402, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This comprehensive review paper explores the advancements, challenges, and future perspectives of SDN implementation in Smart Grid environments and delves into the applications of SDN in areas such as real-time monitoring, energy distribution optimization, grid resilience, integration of renewable energy sources, and demand response management."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "63400-63416",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "2101563432",
+          "name": "W. Velasquez"
+        },
+        {
+          "authorId": "2299631409",
+          "name": "Guillermo Z. Moreira-Moreira"
+        },
+        {
+          "authorId": "1409901879",
+          "name": "Manuel S. Alvarez\u2010Alvarado"
+        }
+      ],
+      "abstract": "The integration of Software-Defined Networking (SDN) technology in Smart Grids has emerged as a transformative approach to modernizing energy infrastructures and enhancing operational efficiency. This comprehensive review paper explores the advancements, challenges, and future perspectives of SDN implementation in Smart Grid environments. It delves into the applications of SDN in areas such as real-time monitoring, energy distribution optimization, grid resilience, integration of renewable energy sources, and demand response management. Additionally, the paper addresses key challenges including security concerns, interoperability issues, scalability constraints, and regulatory compliance requirements that accompany the adoption of SDN in Smart Grids. Looking ahead, the paper discusses future perspectives such as leveraging artificial intelligence, edge computing, and blockchain technology to further enhance the capabilities of SDN in Smart Grids. Through an in-depth analysis of current developments and future trends, this review provides valuable insights for researchers, practitioners, and policymakers seeking to harness the full potential of SDN for advancing Smart Grid infrastructures."
+    },
+    {
+      "paperId": "b38ede2a5ab815417e8271028634a0f16951f960",
+      "externalIds": {
+        "DBLP": "journals/access/AlanhdiT24",
+        "DOI": "10.1109/ACCESS.2024.3367118",
+        "CorpusId": 267955175
+      },
+      "url": "https://www.semanticscholar.org/paper/b38ede2a5ab815417e8271028634a0f16951f960",
+      "title": "A Survey on Integrating Edge Computing With AI and Blockchain in Maritime Domain, Aerial Systems, IoT, and Industry 4.0",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 122,
+      "citationCount": 8,
+      "influentialCitationCount": 2,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/10380310/10439195.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3367118?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3367118, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This survey addresses extensive research on the advancements of two application domains namely maritime areas and aerial systems in terms of integration with EC architecture by discussing several experiments conducted in various fields to demonstrate the value of utilizing them in the edge computing architecture."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "28684-28709",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "2287980902",
+          "name": "Amad Alanhdi"
+        },
+        {
+          "authorId": "2287109582",
+          "name": "L\u00e1szl\u00f3 Toka"
+        }
+      ],
+      "abstract": "In terms of digital transformation, organizations today are aware of the critical role that data and information play in their expansion and development in light of the Internet of Things. To increase network performance and stability, many applications are moving from cloud computing to edge computing (EC). However, in order to satisfy customers, applications like intelligent transportation systems, smart grids, smart cities, and healthcare call for even more effective services. This survey addresses extensive research on two aspects: firstly, we present the advancements of two application domains namely maritime areas and aerial systems in terms of integration with EC architecture. Secondly, we cover the most recent technologies, artificial intelligence (AI) and blockchain, combined into the EC paradigm by discussing several experiments conducted in various fields to demonstrate the value of utilizing them in the edge computing architecture. We analyze the results of eleven experiments in each technology from 2015 to 2023."
+    },
+    {
+      "paperId": "6b5e0a6320854c89daf6c82894cbfd28906d4a4e",
+      "externalIds": {
+        "DOI": "10.54254/2755-2721/2025.20262",
+        "CorpusId": 275485252
+      },
+      "url": "https://www.semanticscholar.org/paper/6b5e0a6320854c89daf6c82894cbfd28906d4a4e",
+      "title": "Embedded Smart Sensor Network Architecture Based on Edge Computing",
+      "venue": "Applied and Computational Engineering",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.54254/2755-2721/2025.20262?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2755-2721/2025.20262, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper explores the integration of lightweight machine learning models, particularly TinyML, in edge computing applications and proposes further ideas for this new architecture to make up for the shortcomings of the architecture in task allocation and data processing."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2025-01-10",
+      "journal": {
+        "name": "Applied and Computational Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2339548670",
+          "name": "Xinwei Li"
+        }
+      ],
+      "abstract": "This paper focuses on the integration of edge computing in smart sensor networks. In Internet of Things (IoT) applications, traditional cloud computing models cause data processing delays due to long-distance data transmission. This transmission delay significantly impairs real-time data processing and feedback capabilities, particularly in time-sensitive applications. Edge computing can transfer data to local devices for processing so that data that is affected by network congestion does not have to be transmitted long distances to the cloud for processing. It can greatly reduce the delay caused by network congestion and reduce energy consumption. In addition, it also provides certain guarantees for data security. Building upon these characteristics, edge computing offers several key advantages. First, it enables efficient local data processing for real-time operation. In some industrial applications such as smart grids and intelligent transportation systems, edge computing can operate highly autonomously. This avoids the delay caused by network fluctuations when transmitting to the cloud. This paper explores the integration of lightweight machine learning models, particularly TinyML, in edge computing applications. These models will improve the data processing capabilities of edge devices. Finally, the article also proposes further ideas for this new architecture to make up for the shortcomings of the architecture in task allocation and data processing."
+    },
+    {
+      "paperId": "4cc3e8193939d13b9ce6c25e4deafe973753a897",
+      "externalIds": {
+        "DOI": "10.52783/jisem.v10i5s.667",
+        "CorpusId": 276174744
+      },
+      "url": "https://www.semanticscholar.org/paper/4cc3e8193939d13b9ce6c25e4deafe973753a897",
+      "title": "Edge Computing- Smart Cities: Optimizing Data Processing & Resource Management in Urban Environments",
+      "venue": "Journal of Information Systems Engineering & Management",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.52783/jisem.v10i5s.667?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jisem.v10i5s.667, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The role of edge computing in enabling efficient, real-time decision-making by bringing computational power closer to data sources is explored, and the importance of leveraging machine learning and artificial intelligence algorithms within edge computing frameworks to predict traffic patterns, optimize energy consumption, and enhance waste management systems is highlighted."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2025-01-24",
+      "journal": {
+        "name": "Journal of Information Systems Engineering and Management"
+      },
+      "authors": [
+        {
+          "authorId": "2344155182",
+          "name": "Smitha Rajagopal"
+        }
+      ],
+      "abstract": "As urbanization accelerates, smart cities are emerging as innovative ecosystems that integrate technology to address challenges related to sustainability, mobility, and infrastructure. Among these technologies, edge computing has gained prominence as a transformative solution to optimize data processing and resource management in urban environments. This paper explores the role of edge computing in enabling efficient, real-time decision-making by bringing computational power closer to data sources. Unlike traditional cloud-centric models, edge computing reduces latency, enhances data security, and improves bandwidth utilization by distributing data processing across decentralized nodes. The integration of edge computing in smart cities supports various applications, including intelligent transportation systems, energy-efficient smart grids, and real-time public safety monitoring. By processing data locally, edge devices can handle massive volumes of information generated by Internet of Things (IoT) devices, ensuring seamless service delivery without overwhelming centralized systems. Furthermore, this decentralized approach enhances resilience by reducing dependency on remote servers, a crucial factor for mission-critical urban applications. A significant focus of this paper is on resource management, particularly the allocation of computational resources across edge nodes. Strategies such as dynamic resource scheduling, load balancing, and adaptive task offloading are analyzed for their effectiveness in maintaining operational efficiency. Moreover, the research highlights the importance of leveraging machine learning and artificial intelligence algorithms within edge computing frameworks to predict traffic patterns, optimize energy consumption, and enhance waste management systems. Security and privacy concerns, often considered barriers to edge computing adoption, are addressed through advanced encryption techniques and secure communication protocols. This paper also evaluates challenges associated with edge computing deployment, such as hardware limitations, interoperability issues, and the need for robust regulatory frameworks. Case studies from leading smart city projects illustrate successful implementations and offer insights into overcoming these obstacles. In addition to technical aspects, this research underscores the socioeconomic benefits of edge computing in urban settings. Improved public services, reduced environmental impact, and cost-effective infrastructure management demonstrate the potential of edge computing to revolutionize city living. By enabling real-time analytics and localized decision-making, edge computing supports a more responsive and adaptive urban ecosystem. The findings presented in this paper emphasize the critical role of edge computing in bridging the gap between urban challenges and technological solutions. As cities continue to evolve, adopting edge computing technologies will not only enhance operational efficiency but also foster innovation, sustainability, and inclusivity. Future research directions include exploring hybrid models combining edge and cloud computing, advancing hardware capabilities, and developing standardized frameworks to accelerate adoption. This paper contributes to the growing body of knowledge on edge computing, offering a comprehensive analysis of its applications, challenges, and potential in shaping the future of smart cities. By optimizing data processing and resource management, edge computing emerges as a cornerstone technology for creating smarter, more resilient urban environments."
+    },
+    {
+      "paperId": "0c080eee3f2abc1fc2de218719bf5e98323e9051",
+      "externalIds": {
+        "DOI": "10.47941/ijce.2130",
+        "CorpusId": 271581046
+      },
+      "url": "https://www.semanticscholar.org/paper/0c080eee3f2abc1fc2de218719bf5e98323e9051",
+      "title": "Cybersecurity Implications of Edge Computing in Data Engineering",
+      "venue": "International Journal of Computing and Engineering",
+      "year": 2024,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.47941/ijce.2130?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47941/ijce.2130, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper delves into specific security threats that edge computing environments face, including man-in-the-middle attacks, distributed denial-of-service attacks, malware and ransomware, and insider threats."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-07-30",
+      "journal": {
+        "name": "International Journal of Computing and Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2313998302",
+          "name": "Nithin Reddy Desani"
+        }
+      ],
+      "abstract": "Edge computing, as an extension of cloud computing, brings computation and data storage closer to the data source. This shift offers significant advantages in terms of latency reduction, bandwidth optimization, and real-time processing capabilities. By minimizing the distance that data needs to travel, edge computing enhances the performance of applications that require rapid data processing and immediate response times. This is particularly beneficial for Internet of Things (IoT) devices, autonomous vehicles, smart grids, and other applications that demand low-latency interactions. However, the decentralization inherent in edge computing introduces a unique set of cybersecurity challenges that are distinct from those faced in traditional centralized cloud environments. The distributed architecture of edge computing creates numerous points of vulnerability, each of which can be exploited by cyber attackers. Additionally, edge devices often operate with limited computational resources and power, which complicates the implementation of robust security measures. This paper explores the cybersecurity implications of edge computing in the context of data engineering. It begins with a comprehensive review of existing literature to establish the current understanding of edge computing security issues. The review identifies the primary vulnerabilities associated with edge computing, including those related to distributed architecture, data transmission, and resource constraints. Following the literature review, the paper delves into specific security threats that edge computing environments face. These include man-in-the-middle (MitM) attacks, distributed denial-of-service (DDoS) attacks, malware and ransomware, and insider threats. Each threat is analyzed to understand its potential impact on edge computing systems and the data they process."
+    },
+    {
+      "paperId": "48a6f9608d3f4ddc170dd1788a6e783c457f76d3",
+      "externalIds": {
+        "DOI": "10.1109/ICISCAE62304.2024.10761421",
+        "CorpusId": 274470895
+      },
+      "url": "https://www.semanticscholar.org/paper/48a6f9608d3f4ddc170dd1788a6e783c457f76d3",
+      "title": "Research on Non-Intrusive Load Identification Method Based on Edge Computing",
+      "venue": "International Conference on Information Systems and Computer Aided Education",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISCAE62304.2024.10761421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISCAE62304.2024.10761421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper explores load identification methods based on statistical and machine learning algorithms (such as XGBoost and enhanced AlexNet network), validating their effectiveness and reliability through experiments in practical applications and introduces a load monitoring technology roadmap tailored for edge computing frameworks."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-09-27",
+      "journal": {
+        "name": "2024 IEEE 7th International Conference on Information Systems and Computer Aided Education (ICISCAE)",
+        "pages": "272-277"
+      },
+      "authors": [
+        {
+          "authorId": "2293561908",
+          "name": "Zhibo Jiang"
+        },
+        {
+          "authorId": "2314602023",
+          "name": "Jie Wang"
+        },
+        {
+          "authorId": "2314144002",
+          "name": "Jiajun Zhang"
+        },
+        {
+          "authorId": "2314127107",
+          "name": "Zhixiang Mao"
+        },
+        {
+          "authorId": "2333860006",
+          "name": "He Zhao"
+        }
+      ],
+      "abstract": "This study proposes a non-intrusive load identification method based on edge computing. By constructing a repository of load steady-state characteristics and employing temporal and spectral feature analysis techniques, precise identification of operational states of various electrical appliances in household or industrial environments is achieved. The study introduces a load monitoring technology roadmap tailored for edge computing frameworks and develops a platform for load equipment analysis and testing. Furthermore, the paper explores load identification methods based on statistical and machine learning algorithms (such as XGBoost and enhanced AlexNet network), validating their effectiveness and reliability through experiments in practical applications. This research not only offers novel insights into load management for smart grids but also advances the application of edge computing technology in the energy sector."
+    },
+    {
+      "paperId": "03c3b53380e99d473efafbe0c744037b062d8883",
+      "externalIds": {
+        "DOI": "10.30574/wjaets.2024.13.2.0563",
+        "CorpusId": 274120746
+      },
+      "url": "https://www.semanticscholar.org/paper/03c3b53380e99d473efafbe0c744037b062d8883",
+      "title": "Federated learning in edge computing: Enhancing data privacy and efficiency in resource-constrained environments",
+      "venue": "World Journal of Advanced Engineering Technology and Sciences",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjaets.2024.13.2.0563?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjaets.2024.13.2.0563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The emerging studies show that federated learning in the context of edge computing improves processing capacity in the federated model by preserving privacy concerns and is applicable in smart cities, healthcare smart grids, and self-driving systems."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-11-30",
+      "journal": {
+        "name": "World Journal of Advanced Engineering Technology and Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "2361449686",
+          "name": "Dan Boruga"
+        },
+        {
+          "authorId": "2361446068",
+          "name": "Daniel Bolintineanu"
+        },
+        {
+          "authorId": "2361441177",
+          "name": "George Iulian Racates"
+        }
+      ],
+      "abstract": "Federated learning (FL) has become one of the most promising machine learning techniques that solve important data confidentiality and security challenges by training a model across decentralized devices without having raw data. Similarly, edge computing allows data analysis near the source, reducing time and using less bandwidth. This work examines the applications of federated learning in edge computing but focuses on scenarios with resource limitations, as seen with IoT devices and mobile networks. Reviewing the currently used approaches, issues, and trends, the features related to the future development involving opportunities and risks are considered. The emerging studies show that federated learning in the context of edge computing improves processing capacity in the federated model by preserving privacy concerns and is applicable in smart cities, healthcare smart grids, and self-driving systems. Some research directions for future works are suggested to address the scale-up and use of resources."
+    },
+    {
+      "paperId": "4651882ddb17f56747aea76a365a7caec190888e",
+      "externalIds": {
+        "DBLP": "conf/ict4d/GilbertNKB19",
+        "MAG": "2940750588",
+        "DOI": "10.1007/978-3-030-18400-1_62",
+        "CorpusId": 133607536
+      },
+      "url": "https://www.semanticscholar.org/paper/4651882ddb17f56747aea76a365a7caec190888e",
+      "title": "A Critical Review of Edge and Fog Computing for Smart Grid Applications",
+      "venue": "Information and Communication Technologies for Development",
+      "year": 2019,
+      "referenceCount": 72,
+      "citationCount": 25,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://hal.inria.fr/hal-02285266/file/482525_1_En_62_Chapter.pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-18400-1_62?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-18400-1_62, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A systematic literature review is used to explore the research trend of the actual implementations of edge and fog computing for smart grid applications and reveals that, there is significant increase in the number of smart Grid applications that have exploited the use edge and Fog computing approaches."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2019-05-01",
+      "journal": {
+        "pages": "763-775"
+      },
+      "authors": [
+        {
+          "authorId": "68978564",
+          "name": "Gilbert M. Gilbert"
+        },
+        {
+          "authorId": "31810287",
+          "name": "S. Naiman"
+        },
+        {
+          "authorId": "48476218",
+          "name": "H. Kimaro"
+        },
+        {
+          "authorId": "89184700",
+          "name": "Burchard Bagile"
+        }
+      ],
+      "abstract": "Smart grid and cloud computing architectures have been perfectly suiting each other naturally. As a result, over the years cloud computing architectures have dominated the implementations of smart grid applications to address computing needs. However, due to continuing additions of heterogeneous (sensing and actuating) devices, emergence of Internet of Things (IoT), and massive amount of data collected across the grids for analytics, have contributed to the complexity of smart grids, making cloud computing architectures no longer suitable to provide smart grid services effectively. Edge and Fog computing approaches have relieved the cloud computing architectures of problems related to network congestion, latency and locality by shift of control, intelligence and trust to the edge of the network. In this paper, a systematic literature review is used to explore the research trend of the actual implementations of edge and fog computing for smart grid applications. A total of 70 papers were reviewed from the popular digital repositories. The study has revealed that, there is significant increase in the number of smart grid applications that have exploited the use edge and fog computing approaches. The study also shows that, considerable number of the smart grid applications are related to energy optimizations and intelligent coordination of smart grid resources. There are also challenges and issues that hinder smooth adoption of edge and fog computing for smart grid applications, which include security, interoperability and programming models."
+    },
+    {
+      "paperId": "298b5b69fd4f112471c28b80b75bf57d8ae7836b",
+      "externalIds": {
+        "DOI": "10.52866/ijcsm.2023.04.04.011",
+        "CorpusId": 265243442
+      },
+      "url": "https://www.semanticscholar.org/paper/298b5b69fd4f112471c28b80b75bf57d8ae7836b",
+      "title": "Integrating Edge Computing and Software Defined Networking in Internet of Things: A Systematic Review",
+      "venue": "Iraqi Journal for Computer Science and Mathematics",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://journal.esj.edu.iq/index.php/IJCM/article/download/1091/322",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.52866/ijcsm.2023.04.04.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52866/ijcsm.2023.04.04.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive review of how the SDN-EC-IoT paradigm can solve IoT challenges is presented, including the development of interoperability platforms, scalable architectures, low latency and Quality of Service (QoS) guarantees, efficient handling of big data, enhanced security and privacy, optimized energy consumption, resource-aware task offloading, and incorporation of machine learning."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2023-11-13",
+      "journal": {
+        "name": "Iraqi Journal for Computer Science and Mathematics"
+      },
+      "authors": [
+        {
+          "authorId": "1886926",
+          "name": "I. E. Kamarudin"
+        },
+        {
+          "authorId": "2209464",
+          "name": "Mohamed Ariff Ameedeen"
+        },
+        {
+          "authorId": "123635158",
+          "name": "Mohd Faizal Ab Razak"
+        },
+        {
+          "authorId": "2239280918",
+          "name": "A. Zabidi"
+        }
+      ],
+      "abstract": "The Internet of Things (IoT) has transformed our interaction with the world by connecting devices,\nsensors, and systems to the Internet, enabling real-time monitoring, control, and automation in various applications\nsuch as smart cities, healthcare, transportation, homes, and grids. However, challenges related to latency, privacy,\nand bandwidth have arisen due to the massive influx of data generated by IoT devices and the limitations of\ntraditional cloud-based architectures. Moreover, network management, interoperability, security, and scalability\nissues have emerged due to the rapid growth and heterogeneous nature of IoT devices. To overcome such\nproblems, researchers proposed a new architecture called Software Defined Networking for Edge Computing in the\nInternet of Things (SDN-EC-IoT), which combines Edge Computing for the Internet of Things (EC-IoT) and\nSoftware Defined Internet of Things (SDIoT). Although researchers have studied EC-IoT and SDIoT as individual\narchitectures, they have not yet addressed the combination of both, creating a significant gap in our understanding\nof SDN-EC-IoT. This paper aims to fill this gap by presenting a comprehensive review of how the SDN-EC-IoT\nparadigm can solve IoT challenges. To achieve this goal, this study conducted a literature review covering 74\narticles published between 2019 and 2023. Finally, this paper identifies future research directions for SDN-EC-IoT,\nincluding the development of interoperability platforms, scalable architectures, low latency and Quality of Service\n(QoS) guarantees, efficient handling of big data, enhanced security and privacy, optimized energy consumption,\nresource-aware task offloading, and incorporation of machine learning."
+    },
+    {
+      "paperId": "b619ee43e6f1640248b9c46a3f53a0d22af17d06",
+      "externalIds": {
+        "DOI": "10.1109/CloudSummit57601.2023.00013",
+        "CorpusId": 260809551
+      },
+      "url": "https://www.semanticscholar.org/paper/b619ee43e6f1640248b9c46a3f53a0d22af17d06",
+      "title": "Lifespan and energy-oriented load balancing algorithms across sets of nodes in Green Edge Computing",
+      "venue": "2023 IEEE Cloud Summit",
+      "year": 2023,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://iris.uniroma1.it/bitstream/11573/1686404/1/ProiettiMattia_postprint_Lifespan_2023.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/CloudSummit57601.2023.00013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CloudSummit57601.2023.00013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Three decentralized algorithms that solve the problem of bringing computation in areas that are not reached by the power grids by making the nodes cooperatively balance the traffic in order to level and maximize their lifespan are proposed."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2023-07-01",
+      "journal": {
+        "name": "2023 IEEE Cloud Summit",
+        "pages": "41-48"
+      },
+      "authors": [
+        {
+          "authorId": "1486437474",
+          "name": "Gabriele Proietti Mattia"
+        },
+        {
+          "authorId": "2949587",
+          "name": "R. Beraldi"
+        }
+      ],
+      "abstract": "Green-powered edge computing architectures allow bringing computation in areas that are not reached by the power grids. More often, in applications for Precision Agriculture and Smart Cities, we could have a set of nodes that are coupled with an accumulator which is, during the day, re-charged by the energy harvested by small solar panels. With the latest advances in technology, the edge node is generally assimilated to be a low-power Single Board Computer (SBC), and it is able to carry out even relatively demanding tasks. For example, it can run deep learning models to images or video sequences captured in loco by cameras. However, due to the differences in terms of power consumption and weather conditions, each node experiences a different lifespan, some nodes may even shut down prematurely, causing the interruption of the portion of the deployed service. In this paper, we propose three decentralized algorithms that solve the problem by making the nodes cooperatively balance the traffic in order to level and maximize their lifespan. By comparing the approaches in two different experiments by using a cluster of Raspberry Pi 4 we show that our solutions allow to increase the lifespan of the service of 10% on average wrt the case in which no algorithm is applied."
+    },
+    {
+      "paperId": "95269b9ee9b19e0130cb345472c46407cd76228a",
+      "externalIds": {
+        "DOI": "10.18535/ijecs/v12i07.4744",
+        "CorpusId": 260072006
+      },
+      "url": "https://www.semanticscholar.org/paper/95269b9ee9b19e0130cb345472c46407cd76228a",
+      "title": "Artificial Intelligence-Based Approach on Cybersecurity Challenges and Opportunities in The Internet of Things & Edge Computing Devices",
+      "venue": "International Journal Of Engineering And Computer Science",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "http://ijecs.in/index.php/ijecs/article/download/4744/4083",
+        "status": "GOLD",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.18535/ijecs/v12i07.4744?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18535/ijecs/v12i07.4744, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "IoT's research progress is discussed in this paper, which focuses on this primary feature of IoT and describes various security issues and concerns."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-07-12",
+      "journal": {
+        "name": "International Journal of Engineering and Computer Science"
+      },
+      "authors": [
+        {
+          "authorId": "2224417171",
+          "name": "Dr Mansoor Farooq"
+        }
+      ],
+      "abstract": "The Internet of Things (IoT) presents a wide range of issues and challenges. Security is a major concern for IoT technologies, applications, and networks. IoT's research progress is discussed in this paper, which focuses on this primary feature of IoT and describes various security issues and concerns. The Internet of Things and the concept of edge computing have enabled many new IoT applications, including smart homes, intelligent transportation, pioneering health, smart grids, and smart energy. It also introduces a slew of unanticipated challenges to data security. Cybersecurity, edge computing, the Internet of Things, and artificial intelligence all present exciting new research and development prospects. There are many new threats and opportunities and this paper will focus on them."
+    },
+    {
+      "paperId": "924097df432246dad289360b84cdcfe32501b8d1",
+      "externalIds": {
+        "MAG": "2900611627",
+        "DOI": "10.1007/978-3-030-03640-9_6",
+        "CorpusId": 70146364
+      },
+      "url": "https://www.semanticscholar.org/paper/924097df432246dad289360b84cdcfe32501b8d1",
+      "title": "Edge Computing and Efficient Resource Management for Integration of Video Devices in Smart Grid Deployments",
+      "venue": "IoT for Smart Grids",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-03640-9_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-03640-9_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This chapter proposes an Edge-Computing based methodology that targets to balance the content generation of cameras in an IoT environment deployed for surveillance of a smart grid infrastructure to allow smart grid to incorporate devices that generate visual content in the existing infrastructure by meeting the applications\u2019 requirements, efficiently utilizing the available resources and achieve the highest quality of service."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2018-11-24",
+      "journal": {
+        "name": "IoT for Smart Grids"
+      },
+      "authors": [
+        {
+          "authorId": "2065366460",
+          "name": "Ioannis Galanis"
+        },
+        {
+          "authorId": "51518088",
+          "name": "Sai Saketh Nandan Perala"
+        },
+        {
+          "authorId": "145614289",
+          "name": "Iraklis Anagnostopoulos"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "4e34b5c30aef29271621095a0cf41466d4a01ba2",
+      "externalIds": {
+        "DBLP": "conf/icccn/HudsonHHKRG21",
+        "DOI": "10.1109/ICCCN52240.2021.9522360",
+        "CorpusId": 237375664
+      },
+      "url": "https://www.semanticscholar.org/paper/4e34b5c30aef29271621095a0cf41466d4a01ba2",
+      "title": "A Framework for Edge Intelligent Smart Distribution Grids via Federated Learning",
+      "venue": "International Conference on Computer Communications and Networks",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 29,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCCN52240.2021.9522360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCCN52240.2021.9522360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work approaches the non-intrusive load monitoring (NILM) problem using federated learning to train a deep recurrent neural network architecture in a 2-tier and 3-tier manner and shows that FL is able to closely match the model loss provided by standard centralized deep learning where raw data is communicated for centralized training."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2021-07-01",
+      "journal": {
+        "name": "2021 International Conference on Computer Communications and Networks (ICCCN)",
+        "pages": "1-9"
+      },
+      "authors": [
+        {
+          "authorId": "48808283",
+          "name": "Nathaniel Hudson"
+        },
+        {
+          "authorId": "145922430",
+          "name": "Md. Jakir Hossain"
+        },
+        {
+          "authorId": "2044339721",
+          "name": "Minoo Hosseinzadeh"
+        },
+        {
+          "authorId": "2687705",
+          "name": "Hana Khamfroush"
+        },
+        {
+          "authorId": "1403895905",
+          "name": "M. Rahnamay-Naeini"
+        },
+        {
+          "authorId": "145560250",
+          "name": "N. Ghani"
+        }
+      ],
+      "abstract": "Recent advances in distributed data processing and machine learning provide new opportunities to enable critical, time-sensitive functionalities of smart distribution grids in a secure and reliable fashion. Combining the recent advents of edge computing (EC) and edge intelligence (EI) with existing advanced metering infrastructure (AMI) has the potential to reduce overall communication cost, preserve user privacy, and provide improved situational awareness. In this paper, we provide an overview for how EC and EI can supplement applications relevant to AMI systems. Additionally, using such systems in tandem can enable distributed deep learning frameworks (e.g., federated learning) to empower distributed data processing and intelligent decision making for AMI. Finally, to demonstrate the efficacy of this considered architecture, we approach the non-intrusive load monitoring (NILM) problem using federated learning to train a deep recurrent neural network architecture in a 2-tier and 3-tier manner. In this approach, smart homes locally train a neural network using their metering data and only share the learned model parameters with AMI components for aggregation. Our results show this can reduce communication cost associated with distributed learning, as well as provide an immediate layer of privacy, due to no raw data being communicated to AMI components. Further, we show that FL is able to closely match the model loss provided by standard centralized deep learning where raw data is communicated for centralized training."
+    }
+  ]
+}

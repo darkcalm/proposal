@@ -1,0 +1,33 @@
+{
+  "totalHits": 23429,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 4205789,
+      "doi": "10.1109/pes.2010.5590034",
+      "title": "The role of intelligent systems in delivering the smart grid",
+      "abstract": "The development of \"smart\" or \"intelligent\" energy networks has been proposed by both EPRI's IntelliGrid initiative and the European SmartGrids Technology Platform as a key step in meeting our future energy needs. A central challenge in delivering the energy networks of the future is the judicious selection and development of an appropriate set of technologies and techniques which will form \"a toolbox of proven technical solutions\". This paper considers functionality required to deliver key parts of the Smart Grid vision of future energy networks. The role of intelligent systems in providing these networks with the requisite decision-making functionality is discussed. In addition to that functionality, the paper considers the role of intelligent systems, in particular multi-agent systems, in providing flexible and extensible architectures for deploying intelligence within the Smart Grid. Beyond exploiting intelligent systems as architectural elements of the Smart Grid, with the purpose of meeting a set of engineering requirements, the role of intelligent systems as a tool for understanding what those requirements are in the first instance, is also briefly discussed",
+      "yearPublished": 2010,
+      "publishedDate": "2010-07-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catterson, Victoria"
+        },
+        {
+          "name": "Davidson, Euan"
+        },
+        {
+          "name": "Mcarthur, Stephen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/9037661.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

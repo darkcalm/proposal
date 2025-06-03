@@ -1,0 +1,367 @@
+{
+  "totalHitsEncounteredAcrossPages": 178546,
+  "retrievedCountForThisQuery": 8,
+  "searchIdentifier": "initial_custom_7",
+  "originalQuery": "DER safety AND incident report",
+  "results": [
+    {
+      "id": 22998094,
+      "doi": "10.1371/journal.pone.0144107",
+      "title": "Can Patient Safety Incident Reports Be Used to Compare Hospital Safety? Results from a Quantitative Analysis of the English National Reporting and Learning System Data.",
+      "abstract": "BACKGROUND: The National Reporting and Learning System (NRLS) collects reports about patient safety incidents in England. Government regulators use NRLS data to assess the safety of hospitals. This study aims to examine whether annual hospital incident reporting rates can be used as a surrogate indicator of individual hospital safety. Secondly assesses which hospital characteristics are correlated with high incident reporting rates and whether a high reporting hospital is safer than those lower reporting hospitals. Finally, it assesses which health-care professionals report more incidents of patient harm, which report more near miss incidents and what hospital factors encourage reporting. These findings may suggest methods for increasing the utility of reporting systems. METHODS: This study used a mix methods approach for assessing NRLS data. The data were investigated using Pareto analysis and regression models to establish which patients are most vulnerable to reported harm. Hospital factors were correlated with institutional reporting rates over one year to examine what factors influenced reporting. Staff survey findings regarding hospital safety culture were correlated with reported rates of incidents causing harm; no harm and death to understand what barriers influence error disclosure. FINDINGS: 5,879,954 incident reports were collected from acute hospitals over the decade. 70.3% of incidents produced no harm to the patient and 0.9% were judged by the reporter to have caused severe harm or death. Obstetrics and Gynaecology reported the most no harm events [OR 1.61(95%CI: 1.12 to 2.27), p<0.01] and pharmacy was the hospital location where most near-misses were captured [OR 3.03(95%CI: 2.04 to 4.55), p<0.01]. Clinicians were significantly more likely to report death than other staff [OR 3.04(95%CI: 2.43 to 3.80) p<0.01]. A higher ratio of clinicians to beds correlated with reduced rate of harm reported [RR = -1.78(95%Cl: -3.33 to -0.23), p = 0.03]. Litigation claims per bed were significantly negatively associated with incident reports. Patient satisfaction and mortality outcomes were not significantly associated with reporting rates. Staff survey responses revealed that keeping reports confidential, keeping staff informed about incidents and giving feedback on safety initiatives increased reporting rates [r = 0.26 (p<0.01), r = 0.17 (p = 0.04), r = 0.23 (p = 0.01), r = 0.20 (p = 0.02)]. CONCLUSION: The NRLS is the largest patient safety reporting system in the world. This study did not demonstrate many hospital characteristics to significantly influence overall reporting rate. There were no association between size of hospital, number of staff, mortality outcomes or patient satisfaction outcomes and incident reporting rate. The study did show that hospitals where staff reported more incidents had reduced litigation claims and when clinician staffing is increased fewer incidents reporting patient harm are reported, whilst near misses remain the same. Certain specialties report more near misses than others, and doctors report more harm incidents than near misses. Staff survey results showed that open environments and reduced fear of punitive response increases incident reporting. We suggest that reporting rates should not be used to assess hospital safety. Different healthcare professionals focus on different types of safety incidents and focusing on these areas whilst creating a responsive, confidential learning environment will increase staff engagement with error disclosure",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Athanasiou, T"
+        },
+        {
+          "name": "Bouras, G"
+        },
+        {
+          "name": "Burns, EM"
+        },
+        {
+          "name": "Darzi, A"
+        },
+        {
+          "name": "Donaldson, LJ"
+        },
+        {
+          "name": "Howell, AR"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/77007947.pdf",
+      "publisher": "'Public Library of Science (PLoS)'",
+      "journals": [
+        {
+          "title": "PLoS ONE",
+          "identifiers": [
+            "issn:1932-6203",
+            "1932-6203"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 51601921,
+      "doi": null,
+      "title": "CDC Report on the Potential Exposure to Anthrax",
+      "abstract": null,
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-17T01:00:00",
+      "authors": [
+        {
+          "name": "CDC Report"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/159084623.pdf",
+      "publisher": "International Microbiology",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 125014860,
+      "doi": null,
+      "title": "Patient Safety in Pediatrics: a Developing Discipline",
+      "abstract": "__Abstract__\n\n\n\nThe publication of the breakthrough report \u201cTo Err is Human\u201d by the Institute of Medicine was the\n\nlaunch of patient safety initiatives all over the world. In the intensive care unit (ICU) of the Erasmus\n\nMC-Sophia Children\u2019s Hospital this resulted in the institution of a multimodal patient safety management\n\nsystem under the name Safety First in 2005. This system now includes nine major elements,\n\nrepresenting monitoring and intervention activities. In this thesis we report on the results and the\n\nimplementation of the patient safety management system called Safety First.\n\n\n\n__Outline of this thesis:__\n\nIn part I the concept of patient safety and the Safety First project are introduced. The rationale for\n\nselecting the elements of the patient safety management system is explained. As preventable mortality\n\nand morbidity are the public focus as outcome parameters for quality and safety of care, we\n\nhave studied very long stay patients in our ICU (chapter 2). The goal of this study was to determine\n\ncharacteristics and mortality in these patients as well as modes of death. Chapter 3 presents an evaluation\n\nof potentially preventable deaths in our ICU. An important question was whether five years\n\nof patient safety efforts had resulted in fewer potentially preventable deaths.\n\nPart II reflects on the difficulties in monitoring adverse events. In chapter 4 we present numbers and\n\ntypes of adverse events identified with real time physicians\u2019 registration during a 3-month period in\n\ngeneral pediatric practice. The next chapter is a study into adverse events in the surgical pediatric\n\nICU in a 2-year period. We combined the physicians\u2019 registration with the Trigger Tool methodology\n\nas developed by the Institute for Healthcare, Boston, USA. The goals were to determine the rate and\n\nnature of the adverse events and to compare the two methods.\n\nIn part III a number of elements of Safety First are described, as well as other studies into patient\n\nsafety issues relevant to bedside ICU care. Chapter 6 brings the results of critical incident analysis\n\nwith a focus on the factors contributing to the incident and the resultant recommendations. The\n\nnext study evaluated the availability and reliability of drug formularies used in our ICU, which are\n\ncrucial in safe drug prescription. In chapter 8 we discuss the safety of routine MRI scans in preterm\n\ninfants at 30 weeks gestational age, as reflected by safety incidents and adverse events. In the next\n\nchapter, safety focused Mortality and Morbidity conference reports were scrutinized for numbers\n\nand types of recommendations stemming from these meetings. Chapter 10 is a study about nursing\n\nprotocol violations established with the Critical Nursing Situation Index.\n\nPart IV describes a study of safety culture in the ICU, as it emerged from a safety attitude questionnaire\n\nadministered to all staff. We aimed to compare findings to benchmark data and explore any\n\ndeficiencies.\n\nIn the general discussion in part V the results of the studies are commented on and future directions\n\nare given, including guidelines for optimal implementation of a patient safety management system\n\nand future benchmarking",
+      "yearPublished": 2011,
+      "publishedDate": "2011-11-03T00:00:00",
+      "authors": [
+        {
+          "name": "Starre, C. (Cynthia) van der"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/43309337.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 71185115,
+      "doi": "10.1016/j.ress.2011.12.021",
+      "title": "A novel tool for organisational learning and its impact on safety culture in a hospital dispensary",
+      "abstract": "Incident reporting as a key mechanism for organisational learning and the establishment of a stronger safety culture are pillars of the current patient safety movement.  Studies have suggested that incident reporting in healthcare does not achieve its full potential due to serious barriers to reporting and that sometimes staff may feel alienated by the process.  The aim of the work reported in this paper was to prototype a novel approach to organisational learning that allows an organisation to assess and to monitor the status of processes that often give rise to latent failure conditions in the work environment, and to assess whether and through which mechanisms participation in this approach affects local safety culture.  The approach was prototyped in a hospital dispensary using Plan-Do-Study-Act (PDSA) cycles, and the effect on safety culture was described qualitatively through semi-structured interviews.  The results suggest that the approach has had a positive effect on the safety culture within the dispensary, and that staff perceive the approach to be useful and usable",
+      "yearPublished": 2012,
+      "publishedDate": "2012-05-01T00:00:00",
+      "authors": [
+        {
+          "name": "Sujan, Mark-Alexander"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/16664107.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0951-8320"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 260332,
+      "doi": null,
+      "title": "Patient safety in Europe: medication errors and hospital-acquired infections",
+      "abstract": "The Report was commissioned by the European Federation of Nurses Associations (EFN) in November 2007 in order to support its policy statements on Patient Safety (June 2004). In that statement the EFN declares its belief that European Union health services should operate within a culture of safety that is based on working towards an open culture and the immediate reporting of mistakes; exchanging best practice and research; and lobbying for the systematic collection of information and dissemination of research findings. This Report adressess specifically the culture of highly reliable organisations using the work of James Reason (2000). Medication errors and hospital-acquired infections are examined in line with the Reprt\u00b4s parameters and a range of European studies are used as evidence. An extensive reference list is provided that allows EFN to explore work in greater detail as required",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Burke, J."
+        },
+        {
+          "name": "Smith, L.N."
+        },
+        {
+          "name": "Sveinsd\u00f3ttir, H."
+        },
+        {
+          "name": "Willman, A."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/90014.pdf",
+      "publisher": "Workgroup of European Nurse Researchers",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "url:http://www.bth.se/fou/forskinfo.nsf/6753b78eb2944e0ac1256608004f0535/867e40d18571e319c1257444003ac1ef?OpenDocument"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 6434906,
+      "doi": "10.1136/adc.2007.135020",
+      "title": "Specialty-based, voluntary incident reporting in neonatal intensive care: description of 4846 incident reports",
+      "abstract": "OBJECTIVES: To examine the characteristics of incidents reported after introduction of a voluntary, non-punitive incident reporting system for neonatal intensive care units (NICUs) in the Netherlands; and to investigate which types of reported incident pose the highest risk to patients in the NICU. DESIGN: Prospective multicentre survey. METHODS: Voluntary, non-punitive incident reporting was introduced in eight level III NICUs and one paediatric surgical ICU. An incident was defined as any unintended event which (could have) reduced the safety margin for the patient. Multidisciplinary, unit-based patient safety committees systematically collected and analysed incident reports, and assigned risk scores to each reported incident. Data were centrally collected for specialty-based analysis. This paper describes the characteristics of incidents reported during the first year. Bivariate logistic regression analysis was conducted to identify high-risk incident categories. RESULTS: There were 5225 incident reports on 3859 admissions, of which 4846 were eligible for analysis. Incidents with medication were most frequently reported (27%), followed by laboratory (10%) and enteral nutrition (8%). Severe harm was described in seven incident reports, and moderate harm in 63 incident reports. Incidents involving mechanical ventilation and blood products were most likely to be assigned high-risk scores, followed by those involving parenteral nutrition, intravascular lines and medication dosing errors. CONCLUSIONS: Incidents occur much more frequently in Dutch NICUs than has been previously observed, and their impact on patient morbidity is considerable. Reported incidents concerning mechanical ventilation, blood products, intravascular lines, parenteral nutrition and medication dosing errors pose the highest risk to patients in the NIC",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Bloemendaal, E."
+        },
+        {
+          "name": "de Kleine, M. J. K."
+        },
+        {
+          "name": "Fetter, W. P. F."
+        },
+        {
+          "name": "Giezen, A."
+        },
+        {
+          "name": "Klip, H."
+        },
+        {
+          "name": "Kok, J. H."
+        },
+        {
+          "name": "Kollen, B. J."
+        },
+        {
+          "name": "Koolen, A. M. P."
+        },
+        {
+          "name": "Lavrijssen, S."
+        },
+        {
+          "name": "Lopes Cardozo, R. H."
+        },
+        {
+          "name": "Maat, H. E."
+        },
+        {
+          "name": "Molenaar, A. M."
+        },
+        {
+          "name": "Molendijk, A."
+        },
+        {
+          "name": "Molendijk, H. A."
+        },
+        {
+          "name": "Mulder, A. L. M."
+        },
+        {
+          "name": "Pas, H."
+        },
+        {
+          "name": "Schellekens, M."
+        },
+        {
+          "name": "Schotman, L."
+        },
+        {
+          "name": "Snijders, C."
+        },
+        {
+          "name": "te Pas, E."
+        },
+        {
+          "name": "Tibboel, D."
+        },
+        {
+          "name": "van der Schaaf, T. W."
+        },
+        {
+          "name": "van der Starre, C."
+        },
+        {
+          "name": "van der Tuijn, Y."
+        },
+        {
+          "name": "van der Zwaan, A."
+        },
+        {
+          "name": "van Lingen, R. A."
+        },
+        {
+          "name": "Verlaan, W."
+        },
+        {
+          "name": "Vrancken, S."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/15460965.pdf",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:1359-2998",
+            "1359-2998"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 8034956,
+      "doi": "10.3896/ibra.1.53.5.08",
+      "title": "The dose makes the poison: have \u201cfield realistic\u201d rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies?",
+      "abstract": "Recent laboratory based studies have demonstrated adverse sub-lethal effects of neonicotinoid insecticides on honey bees and bumble bees, and these studies have been influential in leading to a European Union moratorium on the use of three neonicotinoids, clothianidin, imidacloprid, and thiamethoxam on \u201cbee attractive\u201d crops. Yet so far, these same effects have not been observed in field studies. Here we review the three key dosage factors (concentration, duration and choice) relevant to field conditions, and conclude that these have probably been over estimated in many laboratory based studies",
+      "yearPublished": 2014,
+      "publishedDate": "2014-12-01T00:00:00",
+      "authors": [
+        {
+          "name": "BARON G L"
+        },
+        {
+          "name": "BONMATIN J M"
+        },
+        {
+          "name": "BONMATIN J M"
+        },
+        {
+          "name": "CARRECK N L"
+        },
+        {
+          "name": "EUROPEAN COMMISSION"
+        },
+        {
+          "name": "EUROPEAN FOOD SAFETY AUTHORITY"
+        },
+        {
+          "name": "EUROPEAN FOOD SAFETY AUTHORITY"
+        },
+        {
+          "name": "EUROPEAN FOOD SAFETY AUTHORITY"
+        },
+        {
+          "name": "FELTHAM H"
+        },
+        {
+          "name": "Francis L W Ratnieks"
+        },
+        {
+          "name": "GARBUZOV M"
+        },
+        {
+          "name": "MAUS C"
+        },
+        {
+          "name": "Norman L Carreck"
+        },
+        {
+          "name": "OSBORNE J L"
+        },
+        {
+          "name": "SCHMUCK R"
+        },
+        {
+          "name": "SCH\u00d6NING R"
+        },
+        {
+          "name": "THOMPSON H"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/30611095.pdf",
+      "publisher": "'International Bee Research Association'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0021-8839"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 37995325,
+      "doi": null,
+      "title": "Indicators of School Crime and Safety: 2013",
+      "abstract": "A joint effort by the Bureau of Justice Statistics and National Center for Education Statistics, this annual report examines crime occurring in schools and colleges. This report presents data on crime at school from the perspectives of students, teachers, principals, and the general population from an array of sources--the National Crime Victimization Survey, the School Crime Supplement to the National Crime Victimization Survey, the Youth Risk Behavior Survey, the School Survey on Crime and Safety, the School and Staffing Survey and the Campus Safety and Security Survey",
+      "yearPublished": 2014,
+      "publishedDate": "2014-06-06T01:00:00",
+      "authors": [
+        {
+          "name": "Amy Rathbun"
+        },
+        {
+          "name": "Jana Kemp"
+        },
+        {
+          "name": "Rachel Morgan"
+        },
+        {
+          "name": "Simone Robers"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/75782557.pdf",
+      "publisher": "National Center for Education Statistics",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

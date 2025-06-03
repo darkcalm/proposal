@@ -1,0 +1,296 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4500292978813934632943076a427c34859fa9b1",
+      "externalIds": {
+        "DOI": "10.30574/wjaets.2025.15.2.0685",
+        "CorpusId": 278867975
+      },
+      "url": "https://www.semanticscholar.org/paper/4500292978813934632943076a427c34859fa9b1",
+      "title": "Advances in AI-powered energy management systems for renewable-integrated smart grids",
+      "venue": "World Journal of Advanced Engineering Technology and Sciences",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjaets.2025.15.2.0685?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjaets.2025.15.2.0685, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This review critically examines how artificial intelligence is redefining energy management systems to meet the operational and strategic needs of renewable-integrated smart grids, and explores the state-of-the-art in AI-based load and generation forecasting, real-time grid state estimation, anomaly detection, and predictive maintenance."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2025-05-30",
+      "journal": {
+        "name": "World Journal of Advanced Engineering Technology and Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "2363215966",
+          "name": "Ifeanyi Kingsley Egbuna"
+        },
+        {
+          "authorId": "2363213147",
+          "name": "Faisal Benna Salihu"
+        },
+        {
+          "authorId": "2363210810",
+          "name": "Chinemeremma Collins Okara"
+        },
+        {
+          "authorId": "2363209573",
+          "name": "Damilola Emmanuel Olayiwola"
+        },
+        {
+          "authorId": "2353745705",
+          "name": "Ezekiel Ezekiel Smart"
+        },
+        {
+          "authorId": "2360496869",
+          "name": "Olabode Anifowose"
+        },
+        {
+          "authorId": "2363210685",
+          "name": "Paul Oluchukwu Mbamalu"
+        }
+      ],
+      "abstract": "The accelerating global shift toward renewable energy integration presents both a technical imperative and a systemic challenge to traditional power grid architectures. Variability, decentralization, and real-time balancing requirements have exposed the limitations of conventional control and forecasting strategies. This review critically examines how artificial intelligence (AI) is redefining energy management systems to meet the operational and strategic needs of renewable-integrated smart grids. It explores the state-of-the-art in AI-based load and generation forecasting, real-time grid state estimation, anomaly detection, and predictive maintenance, highlighting how machine learning and deep learning techniques enhance grid observability and fault resilience. Particular attention is given to AI-driven optimization of energy storage dispatch, multi-agent coordination in microgrids, and the deployment of edge intelligence for decentralized control. Furthermore, the review evaluates current barriers\u2014ranging from data sparsity and model interpretability to lack of standardization\u2014and proposes targeted research directions, including explainable AI, quantum-enhanced computing, and AI-powered coordination of distributed storage and vehicle-to-grid (V2G) networks. The convergence of AI, digital infrastructure, and policy innovation emerges as critical to unlocking the full potential of next-generation grids. This article provides researchers, engineers, and policymakers with a rigorous synthesis of current advancements and a forward-looking agenda for achieving intelligent, resilient, and decarbonized energy systems."
+    },
+    {
+      "paperId": "effeda6dcb2eb69f879e9fc9cc6a84bd5fc47181",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2401-16222",
+        "ArXiv": "2401.16222",
+        "DOI": "10.48550/arXiv.2401.16222",
+        "CorpusId": 267311693
+      },
+      "url": "https://www.semanticscholar.org/paper/effeda6dcb2eb69f879e9fc9cc6a84bd5fc47181",
+      "title": "Modelling Solar PV Adoption in Irish Dairy Farms using Agent-Based Modelling",
+      "venue": "PKDD/ECML Workshops",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2401.16222, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Physics",
+          "source": "external"
+        },
+        {
+          "category": "Agricultural and Food Sciences",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-01-15",
+      "journal": {
+        "pages": "292-300"
+      },
+      "authors": [
+        {
+          "authorId": "2232597494",
+          "name": "I. Faiud"
+        },
+        {
+          "authorId": "2281743070",
+          "name": "Michael Schukat"
+        },
+        {
+          "authorId": "2281742573",
+          "name": "Karl Mason"
+        }
+      ],
+      "abstract": "The agricultural sector is facing mounting demands to enhance energy efficiency within farm enterprises, concurrent with a steady escalation in electricity costs. This paper focuses on modelling the adoption rate of photovoltaic (PV) energy within the dairy sector in Ireland. An agent-based modelling approach is introduced to estimate the adoption rate. The model considers grid energy prices, revenue, costs, and maintenance expenses to calculate the probability of PV adoption. The ABM outputs estimate that by year 2022, 2.45% of dairy farmers have installed PV. This is a 0.45% difference to the actual PV adoption rate in year 2022. This validates the proposed ABM. The paper demonstrates the increasing interest in PV systems as evidenced by the rate of adoption, shedding light on the potential advantages of PV energy adoption in agriculture. This study possesses the potential to forecast future rates of PV energy adoption among dairy farmers. It establishes a groundwork for further research on predicting and understanding the factors influencing the adoption of renewable energy."
+    },
+    {
+      "paperId": "ad4a5a7f3f37dbf336700df9d4e5a48f2363bb0f",
+      "externalIds": {
+        "DOI": "10.52783/jes.3290",
+        "CorpusId": 269711623
+      },
+      "url": "https://www.semanticscholar.org/paper/ad4a5a7f3f37dbf336700df9d4e5a48f2363bb0f",
+      "title": "Design of an Iterative Method for Optimizing Solar Power Systems using Quad LSTM with IoT Integration Operations",
+      "venue": "Journal of Electrical Systems",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://journal.esrgroups.org/jes/article/download/3290/2610",
+        "status": "HYBRID",
+        "license": "CCBYND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.52783/jes.3290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jes.3290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This research introduces a comprehensive, integrated framework employing Internet of Things technologies alongside advanced machine learning and deep learning methodologies to enhance solar power system efficiency and reliability levels, offering a scalable, efficient, and intelligent framework that paves the way for more sustainable and reliable energy systems."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-05-02",
+      "journal": {
+        "name": "Journal of Electrical Systems"
+      },
+      "authors": [
+        {
+          "authorId": "2300966083",
+          "name": "Dr. Swapna Choudhary"
+        },
+        {
+          "authorId": "2300967446",
+          "name": "Dr. Nitin Dhote"
+        },
+        {
+          "authorId": "2300966386",
+          "name": "Dr. Hema Kale"
+        },
+        {
+          "authorId": "2300967244",
+          "name": "Dr. Kirti Vaidya"
+        },
+        {
+          "authorId": "2300894175",
+          "name": "Dr. Poorvi Joshi"
+        }
+      ],
+      "abstract": "The growing necessity for sustainable energy solutions underscores the critical need for optimizing solar power systems. Existing methodologies predominantly focus on static strategies with limited adaptability to dynamic environmental and operational conditions, often resulting in suboptimal performance and inefficiency. This research introduces a comprehensive, integrated framework employing Internet of Things (IoT) technologies alongside advanced machine learning and deep learning methodologies to enhance solar power system efficiency and reliability levels. The proposed model integrates four key components: predictive maintenance using Support Vector Machines (SVM) for enhanced anomaly detection, solar power forecasting via Quad Long Short-Term Memory (QLSTM) neural networks, dynamic load balancing through Reinforcement Learning with Deep Q-learning, and the integration with smart grids employing Decentralized Multi-Agent Systems (MAS) with Auction-Based Mechanisms. Each method is selected based on its suitability to address specific challenges within the solar power domain: SVMs for their effectiveness in high-dimensional anomaly detection, QLSTMs for their superior temporal pattern recognition in forecasting, Deep Q-learning for its adaptability in dynamic load management, and MAS for efficient decentralized energy resource coordination operations. The implementation of these methodologies demonstrates significant advancements over traditional approaches. Predictive maintenance facilitated by SVMs leads to a 20% reduction in maintenance costs, while QLSTM-based forecasting achieves a 95% accuracy rate, thereby enhancing grid management and reducing revenue losses. Moreover, reinforcement learning optimizes energy utilization, decreasing wastage and system downtime by 10% and 5% respectively. Lastly, the MAS framework promotes a 20% increase in energy trading efficiency, yielding a 10% reduction in transaction costs and bolstering grid resilience levels. This work represents a significant leap forward in solar power optimization, offering a scalable, efficient, and intelligent framework that paves the way for more sustainable and reliable energy systems. The integration of IoT with machine learning and deep learning presents a paradigm shift in renewable energy management, marking a critical step toward achieving global sustainability objectives.."
+    },
+    {
+      "paperId": "5742476321802207a5f2171b80c3188e45a40726",
+      "externalIds": {
+        "MAG": "1720874985",
+        "DBLP": "journals/icae/AmigoniGK10",
+        "DOI": "10.3233/ICA-2010-0354",
+        "CorpusId": 2490377
+      },
+      "url": "https://www.semanticscholar.org/paper/5742476321802207a5f2171b80c3188e45a40726",
+      "title": "Multi-Agent Systems for Energy Management",
+      "venue": "Integr. Comput. Aided Eng.",
+      "year": 2010,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3233/ica-2010-0354",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/ICA-2010-0354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/ICA-2010-0354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This special issue presents a representative selection of current research efforts in agent-based energy management, covering areas covered from electricity markets to monitoring and control of deployed energy systems."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2010-11-01",
+      "journal": {
+        "name": "Integrated Computer-Aided Engineering",
+        "pages": "271 - 272",
+        "volume": "17"
+      },
+      "authors": [
+        {
+          "authorId": "1733297",
+          "name": "F. Amigoni"
+        },
+        {
+          "authorId": "50234963",
+          "name": "Maria L. Gini"
+        },
+        {
+          "authorId": "1772746",
+          "name": "W. Ketter"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

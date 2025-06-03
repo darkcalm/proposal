@@ -1,0 +1,56 @@
+{
+  "source_markdown_file": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/PREDICTIVE_MAINTENANCE_UNLEASHING_APPLICATIONS_OF_MACHINE_LEARNING__A_COMPREHENSIVE_EXPLORATION.md",
+  "title": "PREDICTIVE MAINTENANCE UNLEASHING APPLICATIONS OF MACHINE LEARNING: A COMPREHENSIVE EXPLORATION",
+  "doi": "10.30780/specialissue-iset-2024/009",
+  "extracted_contexts": {
+    "organizations_companies": [
+      "algorithms for intelligent systems",
+      "based wind energy",
+      "com geetanjali institute",
+      "evolution of technical systems",
+      "expert systems",
+      "ieee",
+      "international conference on intelligent systems",
+      "journal of the national cancer institute",
+      "ml offers solutions",
+      "necessitating comprehensive laboratory",
+      "proceedings of international conference on computational intelligence and emerging power",
+      "smart energy and advancement in power",
+      "strategic initiative to implement pdm solutions",
+      "using ai techniques to improve the power quality of standalone hybrid renewable energy systems"
+    ],
+    "technologies_systems": [
+      "ai",
+      "iot",
+      "ml"
+    ],
+    "practical_challenges": [
+      "data utilization in various sectors. predictive maintenance (pdm) emerges as a pivotal strategy, leveraging data from diverse manufacturing and sensing sources to anticipate equipment failures. this paper presents a comprehensive overview of the application of machine learning (ml) techniques in pdm, categorizing advancements based on ml algorithms and data acquisition equipment. through highlighting significant contributions and ongoing pilot projects, this review provides valuable insights for optimizing maintenance strategies and enhancing equipment performance and longevity. keywords: machine learning, predictive maintenance. 1. introduction effective maintenance is vital for success in manufacturing settings. neglected equipment can cause unexpected downtime and reduced productivity, resulting in operational delays, increased waste, and lower product quality, among other negative impacts on business performance. various organizations adopt diverse maintenance strategies based on factors like maintenance objectives, equipment characteristics, operational processes, and work environment. these strategies typically fall into categories such as corrective maintenance (cm), preventive maintenance (pm), predictive maintenance (pdm), and proactive maintenance. pdm specifically targets timely maintenance decisions through real-time fault detection, component diagnosis, degradation monitoring, and failure prediction, thereby minimizing uncertainty in maintenance tasks. the advancement of it infrastructure in the era of industry 4.0 has facilitated the integration",
+      "problem of"
+    ],
+    "commercial_solutions_vendors": [
+      "algorithms for intelligent systems",
+      "based wind energy",
+      "com geetanjali institute",
+      "evolution of technical systems",
+      "expert systems",
+      "ieee",
+      "international conference on intelligent systems",
+      "journal of the national cancer institute",
+      "ml offers solutions",
+      "necessitating comprehensive laboratory",
+      "proceedings of international conference on computational intelligence and emerging power",
+      "smart energy and advancement in power",
+      "strategic initiative to implement pdm solutions",
+      "using ai techniques to improve the power quality of standalone hybrid renewable energy systems"
+    ],
+    "standards_protocols": [],
+    "keywords_phrases": [
+      "grid",
+      "renewable",
+      "storage",
+      "wind"
+    ]
+  },
+  "keywords_phrases": []
+}

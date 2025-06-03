@@ -1,0 +1,9 @@
+2025-06-03 08:50:21,288 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 08:50:21,288 - INFO - Semantic Scholar Dynamic Search Script - Session 7
+2025-06-03 08:50:21,288 - WARNING - Running without Semantic Scholar API key.
+2025-06-03 08:50:21,288 - INFO - Starting dynamic search: 1 iterations, score threshold 0.3
+2025-06-03 08:50:21,288 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 08:50:21,288 - INFO - Step 0 - Query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with limit 25
+2025-06-03 08:50:31,897 - ERROR - Error searching papers for query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations': 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=Human+operator+challenges+AND+communication+gaps+in+Distributed+Energy+Resource+%28DER%29+operations&limit=25&fields=paperId%2CexternalIds%2Curl%2Ctitle%2Cabstract%2Cvenue%2Cyear%2CreferenceCount%2CcitationCount%2CinfluentialCitationCount%2CisOpenAccess%2CopenAccessPdf%2CfieldsOfStudy%2Cs2FieldsOfStudy%2CpublicationTypes%2CpublicationDate%2Cjournal%2Cauthors%2Ctldr
+2025-06-03 08:50:31,897 - ERROR - Response content: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+2025-06-03 08:50:31,898 - INFO - Step 0 - Query 'initial_primary_1': 'Human-in-the-loop control AND operator decision support for smart grid management...' with limit 25

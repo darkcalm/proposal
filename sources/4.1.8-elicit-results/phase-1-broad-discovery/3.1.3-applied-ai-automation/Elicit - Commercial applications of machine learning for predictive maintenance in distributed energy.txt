@@ -1,0 +1,17 @@
+Machine learning (ML) techniques are increasingly applied to predictive maintenance (PdM) in energy and industrial sectors, offering proactive solutions to equipment failures and energy efficiency optimization (Diptiben Ghelani, 2024; Cruz & Garcia, 2024). ML algorithms, such as support vector machines, random forests, and neural networks, analyze data from various sources to predict failures and optimize maintenance schedules (Cruz & Garcia, 2024; Agarwal et al., 2024). This approach reduces downtime, enhances energy efficiency, and extends equipment life (Trần et al., 2021). Challenges include data quality, integration of heterogeneous sources, and model interpretability (Diptiben Ghelani, 2024). Solutions involve data preprocessing, feature engineering, and incorporating domain expertise (Diptiben Ghelani, 2024; Liulys, 2019). PdM applications span various industries, including manufacturing, energy infrastructure, and distribution transformers (Alvarez Quiñones et al., 2022; Paolanti et al., 2018). Implementation of ML-based PdM can lead to significant cost savings and improved system reliability (Alvarez Quiñones et al., 2022; Cline et al., 2017).
+
+Diptiben Ghelani. (2024). Harnessing machine learning for predictive maintenance in energy infrastructure: A review of challenges and solutions. International Journal of Science and Research Archive, 12(2), 1138–1156. https://doi.org/10.30574/ijsra.2024.12.2.0525
+
+Cruz, J. C., & Garcia, A. M. (2024). Machine Learning for Predictive Maintenance to Enhance Energy Efficiency in Industrial Operations. ITEJ (Information Technology Engineering Journals), 9(1), 15–22. https://doi.org/10.24235/itej.v9i2.125
+
+Liulys, K. (2019, April). Machine Learning Application in Predictive Maintenance. 2019 Open Conference of Electrical, Electronic and Information Sciences (eStream). 2019 Open Conference of Electrical, Electronic and Information Sciences (eStream). https://doi.org/10.1109/estream.2019.8732146
+
+Agarwal, V., Sabir, M., Mishra, S., & Sen, R. (2024). PREDICTIVE MAINTENANCE UNLEASHING APPLICATIONS OF MACHINE LEARNING: A COMPREHENSIVE EXPLORATION. International Journal of Technical Research &amp; Science, 9(Spl), 27–35. https://doi.org/10.30780/specialissue-iset-2024/009
+
+Trần, N. T., Triệu, H. T., Trần, V. T., Ngô, H. H., & Đào, Q. K. (2021). An overview of the application of machine learning in predictive maintenance. Petrovietnam Journal, 10, 47–61. https://doi.org/10.47800/pvj.2021.10-05
+
+Alvarez Quiñones, L. I., Lozano-Moncada, C. A., & Bravo Montenegro, D. A. (2022). Machine learning for predictive maintenance scheduling of distribution transformers. Journal of Quality in Maintenance Engineering, 29(1), 188–202. https://doi.org/10.1108/jqme-06-2021-0052
+
+Cline, B., Niculescu, R. S., Huffman, D., & Deckel, B. (2017). Predictive maintenance applications for machine learning. 2017 Annual Reliability and Maintainability Symposium (RAMS), 1–7. https://doi.org/10.1109/ram.2017.7889679
+
+Paolanti, M., Romeo, L., Felicetti, A., Mancini, A., Frontoni, E., & Loncarski, J. (2018). Machine Learning approach for Predictive Maintenance in Industry 4.0. 2018 14th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA), 1–6. https://doi.org/10.1109/mesa.2018.8449150

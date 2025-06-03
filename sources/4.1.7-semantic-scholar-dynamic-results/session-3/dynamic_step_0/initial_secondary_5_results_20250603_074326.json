@@ -1,0 +1,682 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "418f7f27cf140620713238c42eab3a6a11eec8d7",
+      "externalIds": {
+        "MAG": "2889361115",
+        "DOI": "10.23919/PSCC.2018.8442888",
+        "CorpusId": 52146513
+      },
+      "url": "https://www.semanticscholar.org/paper/418f7f27cf140620713238c42eab3a6a11eec8d7",
+      "title": "Power Systems Simulation Using Ontologies to Enable the Interoperability of Multi-Agent Systems",
+      "venue": "Power Systems Computation Conference",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 5,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://recipp.ipp.pt/bitstream/10400.22/17130/1/COM_GECAD_2018_power_system.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.23919/PSCC.2018.8442888?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/PSCC.2018.8442888, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A set of ontologies is proposed to enable the interoperability between different types of simulators, namely regarding electricity markets, the smart grid, and residential energy management, to enable comprehensive power system simulation studies."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2018-06-01",
+      "journal": {
+        "name": "2018 Power Systems Computation Conference (PSCC)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "144025806",
+          "name": "Gabriel Santos"
+        },
+        {
+          "authorId": "145484631",
+          "name": "Francisco Silva"
+        },
+        {
+          "authorId": "11475101",
+          "name": "B. Teixeira"
+        },
+        {
+          "authorId": "145579951",
+          "name": "Z. Vale"
+        },
+        {
+          "authorId": "145786746",
+          "name": "T. Pinto"
+        }
+      ],
+      "abstract": "A key challenge in the power and energy field is the development of decision-support systems that enable studying big problems as a whole. The interoperability between systems that address specific parts of the global problem is essential. Ontologies ease the interoperability between heterogeneous systems providing semantic meaning to the information exchanged between the various parties. The use of ontologies within Smart Grids has been proposed based on the Common Information Model, which defines a common vocabulary describing the basic components used in electricity transportation and distribution. However, these ontologies are focused on utilities needs. The development of ontologies that allow the representation of diverse knowledge sources is essential, aiming at supporting the interaction between entities of different natures, facilitating the interoperability between these systems. This paper proposes a set of ontologies to enable the interoperability between different types of simulators, namely regarding electricity markets, the smart grid, and residential energy management. A case study based on real data shows the advantages of the proposed approach in enabling comprehensive power system simulation studies."
+    },
+    {
+      "paperId": "80e4a3b3920c56e8a019c144ae00fcad3be4564a",
+      "externalIds": {
+        "MAG": "2945516344",
+        "DBLP": "conf/atal/PintoSV19",
+        "CorpusId": 169035632
+      },
+      "url": "https://www.semanticscholar.org/paper/80e4a3b3920c56e8a019c144ae00fcad3be4564a",
+      "title": "Practical Application of a Multi-Agent Systems Society for Energy Management and Control",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2019,
+      "referenceCount": 10,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The practical application of a society of multi-agent systems, which uses ontologies to enable the interoperability between different types of agent-based simulators, directed to the simulation and operation of electricity markets, smart grids and residential energy management is presented."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2019-05-08",
+      "journal": {
+        "pages": "2378-2380"
+      },
+      "authors": [
+        {
+          "authorId": "145786746",
+          "name": "T. Pinto"
+        },
+        {
+          "authorId": "144025806",
+          "name": "Gabriel Santos"
+        },
+        {
+          "authorId": "145579951",
+          "name": "Z. Vale"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "606c8d9eb5fe34d31789c9ee9d701a08ee5ed2ba",
+      "externalIds": {
+        "DBLP": "conf/mabs/SantosPV18",
+        "MAG": "2952041599",
+        "DOI": "10.1007/978-3-030-22270-3_10",
+        "CorpusId": 195352940
+      },
+      "url": "https://www.semanticscholar.org/paper/606c8d9eb5fe34d31789c9ee9d701a08ee5ed2ba",
+      "title": "Multi-agent Systems Society for Power and Energy Systems Simulation",
+      "venue": "mAbs",
+      "year": 2018,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-22270-3_10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-22270-3_10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A set of ontologies is proposed to enable the interoperability between different types of agent-based simulators, namely regarding electricity markets, the smart grid, and residential energy management, to enable comprehensive power system simulation studies."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2018-07-14",
+      "journal": {
+        "pages": "126-137"
+      },
+      "authors": [
+        {
+          "authorId": "144025806",
+          "name": "Gabriel Santos"
+        },
+        {
+          "authorId": "145786746",
+          "name": "T. Pinto"
+        },
+        {
+          "authorId": "145579951",
+          "name": "Z. Vale"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ec29f11f443d27130b8f99c6680910a547fb2487",
+      "externalIds": {
+        "MAG": "2978868396",
+        "DBLP": "conf/ic3k/TorsleffHF19",
+        "DOI": "10.5220/0008355804500457",
+        "CorpusId": 204754565
+      },
+      "url": "https://www.semanticscholar.org/paper/ec29f11f443d27130b8f99c6680910a547fb2487",
+      "title": "Development of Ontologies for Reasoning and Communication in Multi-Agent Systems",
+      "venue": "International Conference on Knowledge Engineering and Ontology Development",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5220/0008355804500457",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5220/0008355804500457?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0008355804500457, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This contribution presents a development methodology for ontologies that enable communication and reasoning in Multi-Agent Systems for cyber-physical systems that is unique in addressing a set of requirements specific to this application domain."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-09-17",
+      "journal": {
+        "pages": "450-457"
+      },
+      "authors": [
+        {
+          "authorId": "8884087",
+          "name": "Sebastian T\u00f6rsleff"
+        },
+        {
+          "authorId": "10709657",
+          "name": "C. Hildebrandt"
+        },
+        {
+          "authorId": "145649766",
+          "name": "A. Fay"
+        }
+      ],
+      "abstract": "In future cyber-physical systems, such as smart factories and energy grids, ontologies can serve as the enabler for semantically precise communication as well as for knowledge representation and reasoning. Multi-agent systems have shown to be a suitable software development paradigm for cyber-physical systems and may well profit from harnessing ontologies in terms of reduced engineering effort and better interoperability. This contribution presents a development methodology for ontologies that enable communication and reasoning in Multi-Agent Systems for cyber-physical systems. The methodology is unique in addressing a set of requirements specific to this application domain."
+    },
+    {
+      "paperId": "841902026fff6504a1dd94f4a33f5e5d481399a9",
+      "externalIds": {
+        "MAG": "2726503446",
+        "DBLP": "conf/cisis/AversaMHHVJ17",
+        "DOI": "10.1007/978-3-319-61566-0_79",
+        "CorpusId": 13220368
+      },
+      "url": "https://www.semanticscholar.org/paper/841902026fff6504a1dd94f4a33f5e5d481399a9",
+      "title": "Smart Communities of Intelligent Software Agents for Collaborating and Semantically Interoperable Micro-Grids",
+      "venue": "Computational Intelligence in Security for Information Systems",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-61566-0_79?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-61566-0_79, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The main results of the CoSSMic project, an European project that developed a multi-agent solution for smart management of energy from shared photovoltaic panels by photov electricity, are summarized."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2017-07-10",
+      "journal": {
+        "pages": "834-843"
+      },
+      "authors": [
+        {
+          "authorId": "1803063",
+          "name": "Rocco Aversa"
+        },
+        {
+          "authorId": "1790991",
+          "name": "B. D. Martino"
+        },
+        {
+          "authorId": "1762787",
+          "name": "G. Horn"
+        },
+        {
+          "authorId": "2408641",
+          "name": "Svein O. Hallsteinsen"
+        },
+        {
+          "authorId": "1770496",
+          "name": "S. Venticinque"
+        },
+        {
+          "authorId": "49048030",
+          "name": "Shanshan Jiang"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "34b20d04532a8b9645122bba74c874764014bfd4",
+      "externalIds": {
+        "MAG": "2561455716",
+        "DBLP": "conf/prima/2006",
+        "DOI": "10.1007/11802372",
+        "CorpusId": 206600015
+      },
+      "url": "https://www.semanticscholar.org/paper/34b20d04532a8b9645122bba74c874764014bfd4",
+      "title": "Agent Computing and Multi-Agent Systems, 9th Pacific Rim International Workshop on Multi-Agents, PRIMA 2006, Guilin, China, August 7-8, 2006, Proceedings",
+      "venue": "Prima",
+      "year": 2006,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11802372?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11802372, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Geography"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Geography",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Medicine",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "publicationTypes": null,
+      "publicationDate": "2006-08-01",
+      "journal": {
+        "volume": "4088"
+      },
+      "authors": [
+        {
+          "authorId": "145000409",
+          "name": "Zhongzhi Shi"
+        },
+        {
+          "authorId": "145051521",
+          "name": "R. Sadananda"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "47c9f5b96eed29d8a0ef5715d8fd8ddf7c8479b5",
+      "externalIds": {
+        "MAG": "2571435463",
+        "DBLP": "conf/icsoc/2006",
+        "DOI": "10.1007/11948148",
+        "CorpusId": 32905306
+      },
+      "url": "https://www.semanticscholar.org/paper/47c9f5b96eed29d8a0ef5715d8fd8ddf7c8479b5",
+      "title": "Service-Oriented Computing - ICSOC 2006, 4th International Conference, Chicago, IL, USA, December 4-7, 2006, Proceedings",
+      "venue": "International Conference on Service Oriented Computing",
+      "year": 2006,
+      "referenceCount": 0,
+      "citationCount": 210,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/11948148?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/11948148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Assessment of Service Interoperability using a Hierarchical Framework for Composing Nested Web Processes and a QoS-Aware Selection Model for Semantic Web Services."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "volume": "4294"
+      },
+      "authors": [
+        {
+          "authorId": "34717981",
+          "name": "A. Dan"
+        },
+        {
+          "authorId": "1692146",
+          "name": "W. Lamersdorf"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7a3dc8e0dd0dda53871f19a7797078a38ac51ea1",
+      "externalIds": {
+        "MAG": "1542309763",
+        "DBLP": "conf/cloudcom/2009",
+        "DOI": "10.1007/978-3-642-10665-1",
+        "CorpusId": 11901104
+      },
+      "url": "https://www.semanticscholar.org/paper/7a3dc8e0dd0dda53871f19a7797078a38ac51ea1",
+      "title": "Cloud Computing, First International Conference, CloudCom 2009, Beijing, China, December 1-4, 2009. Proceedings",
+      "venue": "International Conference on Cloud Computing",
+      "year": 2009,
+      "referenceCount": 0,
+      "citationCount": 11,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/978-3-642-10665-1",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-10665-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-10665-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Medicine",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The many Colors and Shapes of Cloud and the Trust Model to Enhance Security and Interoperability of Cloud Environment."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "volume": "5931"
+      },
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "da269917e41c71d3ee172adbf3c2b15103489f40",
+      "externalIds": {
+        "DBLP": "journals/ijdsn/ParkCR16",
+        "MAG": "2556967042",
+        "DOI": "10.1177/1550147716676555",
+        "CorpusId": 28832578
+      },
+      "url": "https://www.semanticscholar.org/paper/da269917e41c71d3ee172adbf3c2b15103489f40",
+      "title": "Physical and virtual sensor networks for Energy\u2013Internet of Things",
+      "venue": "Int. J. Distributed Sens. Networks",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1177/1550147716676555",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1550147716676555?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1550147716676555, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This special issue consists of the topics related to the physical and virtual sensor networks with Energy-IoT infrastructures, services, and applications for original, high-impact research papers and provides insight and future research directions to readers."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Editorial",
+        "Review"
+      ],
+      "publicationDate": "2016-11-01",
+      "journal": {
+        "name": "International Journal of Distributed Sensor Networks",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "1689207",
+          "name": "Sehyun Park"
+        },
+        {
+          "authorId": "2646662",
+          "name": "D. Chen"
+        },
+        {
+          "authorId": "143929828",
+          "name": "Seungmin Rho"
+        }
+      ],
+      "abstract": "The Internet of Things (IoT) represents a new reality. The insight derived from data collected from new Internet-connected devices can be used to develop new services, enhance productivity and efficiency, improve real-time decision making, solve critical problems, and create new and innovative experiences. In recent years, IoT related with energy, which is called Energy-IoT, is emerging as a major solution for reductions in greenhouse gas emissions, sharply falling costs and growth in use of renewable energy, energy storage, and smart grid technologies. IoT can help an organization reduce energy waste in many ways. Organizations understand the natural synergies between the IoT and energy-related issues. The Energy-IoT based on distributed sensor networks is being employed in many applications, such as smart grid, microgrid, energy management system, and industrial security. However, as more devices connect, this revolutionary Energy-IoT service and applications based on physical and virtual sensor networks are facing converging risks with increased fragmentation, interoperability, privacy, safety, and security challenges. This special issue consists of the topics related to the physical and virtual sensor networks with Energy-IoT infrastructures, services, and applications for original, high-impact research papers and provides insight and future research directions to readers. The paper entitled \u2018\u2018Synchronization Method for LTE-based Machine-Type Communication in Lowpower Cellular IoT\u2019\u2019 by R Pec et al. proposed a synchronization method for long-term evolution (LTE)-based machine-type communication. The paper entitled \u2018\u2018Resource Management Model based on Cloud Computing Environment\u2019\u2019 by A Kim et al. proposed a model of resource management in cloud computing environment. The paper entitled \u2018\u2018A Multihop Angular Routing Protocol for Wireless Sensor Networks\u2019\u2019 by M Akbar et al. proposed a protocol of multihop angular routing for wireless sensor networks. The paper entitled \u2018\u2018A Gateway Deployment Heuristic for Enhancing the Availability of Sensor Grids\u2019\u2019 by M Hussain et al. proposed a gateway deployment heuristic that enhances the sensor grids availability. The paper entitled \u2018\u2018Design of a Mass-Customization-based CostEffective Internet of Things Sensor System in Smart Building Spaces\u2019\u2019 by S Park et al. proposed an IoT sensor system in smart building spaces for cost-effectiveness. The paper entitled \u2018\u2018Effective and Reliable Malware Group Classification for a Massive Malware Environment\u2019\u2019 by T Lee et al. proposed an effective and reliable classification of malware group. The paper entitled \u2018\u2018Smart Energy Efficient Device-to-Multi Device Cooperative Clustering for Multicasting Content\u2019\u2019 by M Ashraf et al. proposed a cooperative clustering of device-to-multi device for multicasting content. The paper entitled \u2018\u2018Multi-Agent Semantical Annotation Enhancement Model for IoT based Energy Aware Data\u2019\u2019 by KR Malik et al. proposed a model of multiagent semantical annotation enhancement for IoT. The paper entitled \u2018\u2018Environment Parameters Control based on Wireless Sensor Network in Livestock Buildings\u2019\u2019 by Y Zhang et al. proposed an environment parameter control based on wireless sensor network. We have received a lot of submissions coming from different countries all around the globe in response to call for papers. Each accepted article has been reviewed by at least three reviewers. In the end, several articles based on technical novelty, integrity of the analysis, and social impacts and practical relevance have been revised and selected for publishing in this special issue. We believe that the accepted papers would be a meaningful contribution to researchers, students, and practitioners studying this field of physical and virtual sensor networks for Energy-IoT."
+    },
+    {
+      "paperId": "8e96b36fbd51369c6bc0f943f23f678e3b2b6217",
+      "externalIds": {
+        "MAG": "1482242998",
+        "CorpusId": 262829481
+      },
+      "url": "https://www.semanticscholar.org/paper/8e96b36fbd51369c6bc0f943f23f678e3b2b6217",
+      "title": "Artificial intelligence and simulation : 13th International Conference on AI, Simulation and Planning in High Autonomy Systems, AIS 2004, Jeju Island, Korea, October 4-6, 2004 : revised selected papers",
+      "venue": "",
+      "year": 2005,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "System Theory: Melding the AI and Simulation Perspectives, and Does Rational Decision Making Always Lead to High Social Welfare?"
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "96299401",
+          "name": "Planning in High Autonomy Systems"
+        },
+        {
+          "authorId": "1761763",
+          "name": "T. Kim"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

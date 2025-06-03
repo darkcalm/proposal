@@ -1,0 +1,121 @@
+{
+  "totalHits": 1110,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 54163871,
+      "doi": "10.1109/jproc.2019.2896243",
+      "title": "Learning and Management for Internet-of-Things: Accounting for\n  Adaptivity and Scalability",
+      "abstract": "Internet-of-Things (IoT) envisions an intelligent infrastructure of networked\nsmart devices offering task-specific monitoring and control services. The\nunique features of IoT include extreme heterogeneity, massive number of\ndevices, and unpredictable dynamics partially due to human interaction. These\ncall for foundational innovations in network design and management. Ideally, it\nshould allow efficient adaptation to changing environments, and low-cost\nimplementation scalable to massive number of devices, subject to stringent\nlatency constraints. To this end, the overarching goal of this paper is to\noutline a unified framework for online learning and management policies in IoT\nthrough joint advances in communication, networking, learning, and\noptimization. From the network architecture vantage point, the unified\nframework leverages a promising fog architecture that enables smart devices to\nhave proximity access to cloud functionalities at the network edge, along the\ncloud-to-things continuum. From the algorithmic perspective, key innovations\ntarget online approaches adaptive to different degrees of nonstationarity in\nIoT dynamics, and their scalable model-free implementation under limited\nfeedback that motivates blind or bandit approaches. The proposed framework\naspires to offer a stepping stone that leads to systematic designs and analysis\nof task-specific learning and management schemes for IoT, along with a host of\nnew research directions to build on.Comment: Submitted on June 15 to Proceeding of IEEE Special Issue on Adaptive\n  and Scalable Communication Network",
+      "yearPublished": 2018,
+      "publishedDate": "2018-10-27T01:00:00",
+      "authors": [
+        {
+          "name": "Barbarossa, Sergio"
+        },
+        {
+          "name": "Chen, Tianyi"
+        },
+        {
+          "name": "Giannakis, Georgios B."
+        },
+        {
+          "name": "Wang, Xin"
+        },
+        {
+          "name": "Zhang, Zhi-Li"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/195777516.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 126137655,
+      "doi": "10.3390/books978-3-03928-143-5",
+      "title": "Smart Energy Management for Smart Grids",
+      "abstract": "This book is a contribution from the authors, to share solutions for a better and sustainable power grid. Renewable energy, smart grid security and smart energy management are the main topics discussed in this book",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Longe, Omowunmi Mary"
+        },
+        {
+          "name": "Ouahada, Khmaies"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/478116113.pdf",
+      "publisher": "'MDPI AG'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 46819579,
+      "doi": "10.3390/en12173336",
+      "title": "A Novel Direct Load Control Testbed for Smart Appliances",
+      "abstract": "The effort to continuously improve and innovate smart appliances (SA) energy management requires an experimental research and development environment which integrates widely differing tools and resources seamlessly. To this end, this paper proposes a novel Direct Load Control (DLC) testbed, aiming to conveniently support the research community, as well as analyzing and comparing their designs in a laboratory environment. Based on the LabVIEW computing platform, this original testbed enables access to knowledge of major components such as online weather forecasting information, distributed energy resources (e.g., energy storage, solar photovoltaic), dynamic electricity tariff from utilities and demand response (DR) providers together with different mathematical optimization features given by General Algebraic Modelling System (GAMS). This intercommunication is possible thanks to the different applications programming interfaces (API) incorporated into the system and to intermediate agents specially developed for this case. Different basic case studies have been presented to envision the possibilities of this system in the future and more complex scenarios, to actively support the DLC strategies. These measures will offer enough flexibility to minimize the impact on user comfort combined with support for multiple DR programs. Thus, given the successful results, this platform can lead to a solution towards more efficient use of energy in the residential environment",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Garrido Zafra, Joaqu\u00edn"
+        },
+        {
+          "name": "Gil-de-Castro, Aurora"
+        },
+        {
+          "name": "Morales-Leal, Tom\u00e1s"
+        },
+        {
+          "name": "Moreno Moreno, Carlos Diego"
+        },
+        {
+          "name": "Moreno-Mu\u00f1oz, A."
+        },
+        {
+          "name": "Palacios Garc\u00eda, Emilio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/232123938.pdf",
+      "publisher": "'MDPI AG'",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 77583370,
+      "doi": null,
+      "title": "A Data-Driven Strategy to Enable Efficient Participation of Diverse Social Classes in Smart Electric Grids",
+      "abstract": "abstract: The grand transition of electric grids from conventional fossil fuel resources to intermittent bulk renewable resources and distributed energy resources (DERs) has initiated a paradigm shift in power system operation. Distributed energy resources (i.e. rooftop solar photovoltaic, battery storage, electric vehicles, and demand response), communication infrastructures, and smart measurement devices provide the opportunity for electric utility customers to play an active role in power system operation and even benefit financially from this opportunity. However, new operational challenges have been introduced due to the intrinsic characteristics of DERs such as intermittency of renewable resources, distributed nature of these resources, variety of DERs technologies and human-in-the-loop effect. Demand response (DR) is one of DERs and is highly influenced by human-in-the-loop effect. A data-driven based analysis is implemented to analyze and reveal the customers price responsiveness, and human-in-the-loop effect. The results confirm the critical impact of demographic characteristics of customers on their interaction with smart grid and their quality of service (QoS). The proposed framework is also applicable to other types of DERs. A chance-constraint based second-order-cone programming AC optimal power flow (SOCP-ACOPF) is utilized to dispatch DERs in distribution grid with knowing customers price responsiveness and energy output distribution. The simulation shows that the reliability of distribution gird can be improved by using chance-constraint.Dissertation/ThesisMasters Thesis Electrical Engineering 201",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286400854.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

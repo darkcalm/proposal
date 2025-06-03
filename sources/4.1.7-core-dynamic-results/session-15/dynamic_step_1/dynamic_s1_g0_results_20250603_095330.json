@@ -1,0 +1,964 @@
+{
+  "totalHitsEncounteredAcrossPages": 298,
+  "retrievedCountForThisQuery": 32,
+  "searchIdentifier": "dynamic_s1_g0",
+  "originalQuery": "(AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND (\"decision\" OR \"interactions\" OR \"interaction\")",
+  "results": [
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 166752211,
+      "doi": "10.1016/j.jmsy.2024.10.015",
+      "title": "From caged robots to high-fives in robotics: Exploring the paradigm shift from human\u2013robot interaction to human\u2013robot teaming in human\u2013machine interfaces",
+      "abstract": "Multi-modal human\u2013machine interfaces have recently undergone a remarkable transformation, progressing from simple human\u2013robot interaction (HRI) to more advanced human\u2013robot collaboration (HRC) and, ultimately, evolving into the concept of human\u2013robot teaming (HRT). The aim of this work is to delineate a progressive path in this evolving transition. A structured, position-oriented review is proposed. Rather than aiming for an exhaustive survey, our objective is to propose a structured approach in a field that has seen diverse and sometimes divergent definitions of HRI/C/T in the literature. This conceptual review seeks to establish a unified and systematic framework for understanding these paradigms, offering clarity and coherence amidst their evolving complexities. We focus on integrating multiple sensory modalities \u2014 such as visual, aural, and tactile inputs \u2014 within human\u2013machine interfaces. Central to our approach is a running use case of a warehouse workflow, which illustrates key aspects including modelling, control, communication, and technological integration. Additionally, we investigate recent advancements in machine learning and sensing technologies, emphasising robot perception, human intention recognition, and collaborative task engagement. Current challenges and future directions, including ethical considerations, user acceptance, and the need for explainable systems, are also addressed. By providing a structured pathway from HRI to HRT, this work aims to foster a deeper understanding and facilitate further advancements in human\u2013machine interaction paradigms.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Sanfilippo, Filippo"
+        },
+        {
+          "name": "Wiley, Timothy"
+        },
+        {
+          "name": "Zafar, Muhammad Hamza"
+        },
+        {
+          "name": "Zambetta, Fabio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639873207.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 150346470,
+      "doi": null,
+      "title": "How to Make Agents and Influence Teammates: Understanding the Social Influence AI Teammates Have in Human-AI Teams",
+      "abstract": "The introduction of computational systems in the last few decades has enabled humans to cross geographical, cultural, and even societal boundaries. Whether it was the invention of telephones or file sharing, new technologies have enabled humans to continuously work better together. Artificial Intelligence (AI) has one of the highest levels of potential as one of these technologies. Although AI has a multitude of functions within teaming, such as improving information sciences and analysis, one specific application of AI that has become a critical topic in recent years is the creation of AI systems that act as teammates alongside humans, in what is known as a human-AI team.\nHowever, as AI transitions into teammate roles they will garner new responsibilities and abilities, which ultimately gives them a greater influence over teams\\u27 shared goals and resources, otherwise known as teaming influence. Moreover, that increase in teaming influence will provide AI teammates with a level of social influence. Unfortunately, while research has observed the impact of teaming influence by examining humans\\u27 perception and performance, an explicit and literal understanding of the social influence that facilitates long-term teaming change has yet to be created. This dissertation uses three studies to create a holistic understanding of the underlying social influence that AI teammates possess.\nStudy 1 identifies the fundamental existence of AI teammate social influence and how it pertains to teaming influence. Qualitative data demonstrates that social influence is naturally created as humans actively adapt around AI teammate teaming influence. Furthermore, mixed-methods results demonstrate that the alignment of AI teammate teaming influence with a human\\u27s individual motives is the most critical factor in the acceptance of AI teammate teaming influence in existing teams.\nStudy 2 further examines the acceptance of AI teammate teaming and social influence and how the design of AI teammates and humans\\u27 individual differences can impact this acceptance. The findings of Study 2 show that humans have the greatest levels of acceptance of AI teammate teaming influence that is comparative to their own teaming influence on a single task, but the acceptance of AI teammate teaming influence across multiple tasks generally decreases as teaming influence increases. Additionally, coworker endorsements are shown to increase the acceptance of high levels of AI teammate teaming influence, and humans that perceive the capabilities of technology, in general, to be greater are potentially more likely to accept AI teammate teaming influence.\nFinally, Study 3 explores how the teaming and social influence possessed by AI teammates change when presented in a team that also contains teaming influence from multiple human teammates, which means social influence between humans also exists. Results demonstrate that AI teammate social influence can drive humans to prefer and observe their human teammates over their AI teammates, but humans\\u27 behavioral adaptations are more centered around their AI teammates than their human teammates. These effects demonstrate that AI teammate social influence, when in the presence of human-human teaming and social influence, retains potency, but its effects are different when impacting either perception or behavior.\nThe above three studies fill a currently under-served research gap in human-AI teaming, which is both the understanding of AI teammate social influence and humans\\u27 acceptance of it. In addition, each study conducted within this dissertation synthesizes its findings and contributions into actionable design recommendations that will serve as foundational design principles to allow the initial acceptance of AI teammates within society. Therefore, not only will the research community benefit from the results discussed throughout this dissertation, but so too will the developers, designers, and human teammates of human-AI teams",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Flathmann, Christopher"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/578426129.pdf",
+      "publisher": "Clemson University Libraries",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169064385,
+      "doi": "10.26083/tuprints-00028727",
+      "title": "From Assistance to Empowerment: Human-AI Collaboration in High-Risk Decision Making",
+      "abstract": "The increasing availability of large amounts of valuable data and the development of ever more powerful machine learning (ML) algorithms enable ML systems to quickly and independently identify complex relationships in data. As a result, ML systems not only generate new knowledge, but also offer significant potential to augment human capabilities and assist decision makers in challenging tasks.\n\nIn high-risk areas such as aviation or healthcare, humans retain final decision-making responsibility, but will increasingly collaborate with ML systems to improve decision-making processes. However, since ML systems rely on statistical approaches, they are susceptible to error, and the complexity of modern algorithms often renders the output of ML systems opaque to humans. While initial approaches from the field of explainable artificial intelligence (XAI) aim to make the output of ML systems more understandable and comprehensible to humans, current research investigating the impact of ML systems on human decision makers is limited and lacks approaches on how humans can improve their capabilities through collaboration to make better decisions in the long run. To fully exploit the potential of ML systems in high-risk areas, both humans and ML systems should be able to learn from each other to enhance their performance in the context of collaboration. Furthermore, it is essential to design effective collaboration that considers the unique characteristics of ML systems and enables humans to critically assess system decisions. This dissertation comprises five published papers that use a mixed-methods study, two quantitative experiments and two qualitative design science research (DSR) studies to explore the collaboration and bilateral influences between humans and ML systems in decision-making contexts within high-risk areas from three perspectives: (1) the human perspective, (2) the ML system perspective, and (3) the collaborative perspective.\n\nFrom a human perspective, this dissertation examines how humans can learn from ML systems in collaboration to enhance their own capabilities and avoid the risk of false learning due to erroneous ML output. In a mixed-methods study, radiologists segmented 690 brain tumors in MRI scans supported by either high-performing or low-performing ML systems, which provided explainable or non-explainable output design. The study shows that human decision makers can learn from ML systems to improve their decision performance and confidence. However, incorrect system outputs also lead to false learning and pose risks for decision makers. Explanations from the XAI field can significantly improve the learning success of radiologists and prevent false learning in the case of incorrect ML system output. In fact, some radiologists were even able to learn from mistakes made by low-performing ML systems when local explanations were provided with the system output. This study provides first empirical insights into the human learning potential in the context of collaborating with ML systems. The finding that explainable design of ML systems enables radiologists to identify erroneous output may facilitate earlier adoption of explainable ML systems that can improve their performance over time.\n\nThe ML system perspective, on the other hand, examines how ML systems must be designed to respond flexibly to changes in human problem perception and their dynamic deployment environment. This allows the systems to also learn from humans and ensures reliable system performance in dynamic collaborative environments. Through 15 qualitative interviews with data science and ML experts in the context of a DSR study, challenges for the long-term deployment of ML systems are identified. The results show that the requirements for flexible adaptation of systems in long-term use must be established in the early phases of the ML development process. Tangible design requirements and principles for ML systems that can learn from their environment and humans are derived for all phases of the CRISP-ML(Q) process model for the development and deployment of ML models. Implementing these principles allows ML systems to maintain or even improve their performance in the long run despite occurring changes, thus creating the prerequisites for a sustainable lifecycle of ML systems.\n\nFinally, the collaborative perspective examines how the collaboration between humans and ML systems should be designed to account for the unique characteristics of ML systems, such as error proneness and opacity, as well as the cognitive biases that are inherent to human decision making. In this context, pilots were provided with different ML systems for the visual detection of other aircraft in the airspace during 222 recorded flight simulations. The experiment examines the influence of different ML error types and XAI approaches in collaboration, and shows that an explainable output design can significantly reduce ML error-induced pilot trust and performance degradation for individual error types. However, processing explanations from the XAI field increases the pilot\u2019s mental workload. While ML errors erode the trust of human decision makers, a DSR study is conducted to derive design principles for acceptance-promoting artifacts for collaboration between humans and ML systems. Finally, the last part of the analysis shows how cognitive biases such as the IKEA effect cause humans to overvalue the results of collaboration with ML systems when a high level of personal effort is invested in the collaboration. The findings provide a broad foundation for designing effective human-AI collaboration in organizations, especially in high-risk areas where humans will be involved in decision making for the long term.\n\nOverall, the papers show how by designing effective collaboration, both humans and ML systems can benefit from each other in the long run and enhance their own capabilities. The explainable design of ML system outputs can serve as a catalyst for the adoption of ML systems, especially in high-risk areas. This dissertation defines novel requirements for the collaboration between humans and ML systems and provides guidance for ML developers, scientists, and organizations that aspire to involve both human decision makers and ML systems in decision-making processes and ensure high and robust performance in the long term",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-28T00:00:00",
+      "authors": [
+        {
+          "name": "Jourdan, Sara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636758460.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 57012744,
+      "doi": null,
+      "title": "Foundations of Human-Aware Planning -- A Tale of Three Models",
+      "abstract": "abstract: A critical challenge in the design of AI systems that operate with humans in the loop is to be able to model the intentions and capabilities of the humans, as well as their beliefs and expectations of the AI system itself. This allows the AI system to be \"human- aware\" -- i.e. the human task model enables it to envisage desired roles of the human in joint action, while the human mental model allows it to anticipate how its own actions are perceived from the point of view of the human. In my research, I explore how these concepts of human-awareness manifest themselves in the scope of planning or sequential decision making with humans in the loop. To this end, I will show (1) how the AI agent can leverage the human task model to generate symbiotic behavior; and (2) how the introduction of the human mental model in the deliberative process of the AI agent allows it to generate explanations for a plan or resort to explicable plans when explanations are not desired. The latter is in addition to traditional notions of human-aware planning which typically use the human task model alone and thus enables a new suite of capabilities of a human-aware AI agent. Finally, I will explore how the AI agent can leverage emerging mixed-reality interfaces to realize effective channels of communication with the human in the loop.Dissertation/ThesisDoctoral Dissertation Computer Science 201",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/195380053.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126135807,
+      "doi": "10.5445/ir/1000143873",
+      "title": "Human-Machine Cooperative Decision Making",
+      "abstract": "Diese Dissertation besch\u00e4ftigt sich mit der gemeinsamen Entscheidungsfindung in der Mensch-Maschine-Kooperation und liefert neue Erkenntnisse, welche von der theoretischen Modellierung bis zu experimentellen Untersuchungen reichen. Zun\u00e4chst wird eine methodische Klassifikation bestehender Forschung zur Mensch-Maschine-Kooperation vorgenommen und der Forschungsfokus dieser Dissertation mithilfe eines vorgestellten Taxonomiemodells der Mensch-Maschine-Kooperation, dem Butterfly-Modell, abgegrenzt. Darauffolgend stellt die Dissertation zwei mathematische Verhaltensmodelle der gemeinsamen Entscheidungsfindung von Mensch und Maschine vor: das Adaptive Verhandlungsmodell und den n-stufigen War of Attrition. Beide modellieren den Einigungsprozess zweier emanzipierter Kooperationspartner und unterscheiden sich hinsichtlich ihrer Urspr\u00fcnge, welche in der Verhandlungs- beziehungsweise Spieltheorie liegen. Zus\u00e4tzlich wird eine Studie vorgestellt, die die Eignung der vorgeschlagenen mathematischen Modelle zur Beschreibung des menschlichen Nachgebeverhaltens in kooperativen Entscheidungsfindungs-Prozessen nachweist. Darauf aufbauend werden zwei modellbasierte Automationsdesigns bereitgestellt, welche die Entwicklung von Maschinen erm\u00f6glichen, die an einem Einigungsprozess mit einem Menschen teilnehmen k\u00f6nnen. Zuletzt werden zwei experimentelle Untersuchungen der vorgeschlagenen Automationsdesigns im Kontext von teleoperierten mobilen Robotern in Such- und Rettungsszenarien und anhand einer Anwendung in einem hochautomatisierten Fahrzeug pr\u00e4sentiert. Die experimentellen Ergebnisse liefern empirische Evidenz f\u00fcr die \u00dcberlegenheit der vorgestellten modellbasierten Automationsdesigns gegen\u00fcber den bisherigen Ans\u00e4tzen in den Aspekten der objektiven kooperativen Performanz, des menschlichen Vertrauens in die Interaktion mit der Maschine und der Nutzerzufriedenheit. So zeigt diese Dissertation, dass Menschen eine emanzipierte Interaktion mit Bezug auf die Entscheidungsfindung bevorzugen, und leistet einen wertvollen Beitrag zur vollumf\u00e4nglichen Betrachtung und Verwirklichung von Mensch-Maschine-Kooperationen",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Rothfu\u00df, Simon"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/521172770.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 166752211,
+      "doi": "10.1016/j.jmsy.2024.10.015",
+      "title": "From caged robots to high-fives in robotics: Exploring the paradigm shift from human\u2013robot interaction to human\u2013robot teaming in human\u2013machine interfaces",
+      "abstract": "Multi-modal human\u2013machine interfaces have recently undergone a remarkable transformation, progressing from simple human\u2013robot interaction (HRI) to more advanced human\u2013robot collaboration (HRC) and, ultimately, evolving into the concept of human\u2013robot teaming (HRT). The aim of this work is to delineate a progressive path in this evolving transition. A structured, position-oriented review is proposed. Rather than aiming for an exhaustive survey, our objective is to propose a structured approach in a field that has seen diverse and sometimes divergent definitions of HRI/C/T in the literature. This conceptual review seeks to establish a unified and systematic framework for understanding these paradigms, offering clarity and coherence amidst their evolving complexities. We focus on integrating multiple sensory modalities \u2014 such as visual, aural, and tactile inputs \u2014 within human\u2013machine interfaces. Central to our approach is a running use case of a warehouse workflow, which illustrates key aspects including modelling, control, communication, and technological integration. Additionally, we investigate recent advancements in machine learning and sensing technologies, emphasising robot perception, human intention recognition, and collaborative task engagement. Current challenges and future directions, including ethical considerations, user acceptance, and the need for explainable systems, are also addressed. By providing a structured pathway from HRI to HRT, this work aims to foster a deeper understanding and facilitate further advancements in human\u2013machine interaction paradigms.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Sanfilippo, Filippo"
+        },
+        {
+          "name": "Wiley, Timothy"
+        },
+        {
+          "name": "Zafar, Muhammad Hamza"
+        },
+        {
+          "name": "Zambetta, Fabio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639873207.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 150346470,
+      "doi": null,
+      "title": "How to Make Agents and Influence Teammates: Understanding the Social Influence AI Teammates Have in Human-AI Teams",
+      "abstract": "The introduction of computational systems in the last few decades has enabled humans to cross geographical, cultural, and even societal boundaries. Whether it was the invention of telephones or file sharing, new technologies have enabled humans to continuously work better together. Artificial Intelligence (AI) has one of the highest levels of potential as one of these technologies. Although AI has a multitude of functions within teaming, such as improving information sciences and analysis, one specific application of AI that has become a critical topic in recent years is the creation of AI systems that act as teammates alongside humans, in what is known as a human-AI team.\nHowever, as AI transitions into teammate roles they will garner new responsibilities and abilities, which ultimately gives them a greater influence over teams\\u27 shared goals and resources, otherwise known as teaming influence. Moreover, that increase in teaming influence will provide AI teammates with a level of social influence. Unfortunately, while research has observed the impact of teaming influence by examining humans\\u27 perception and performance, an explicit and literal understanding of the social influence that facilitates long-term teaming change has yet to be created. This dissertation uses three studies to create a holistic understanding of the underlying social influence that AI teammates possess.\nStudy 1 identifies the fundamental existence of AI teammate social influence and how it pertains to teaming influence. Qualitative data demonstrates that social influence is naturally created as humans actively adapt around AI teammate teaming influence. Furthermore, mixed-methods results demonstrate that the alignment of AI teammate teaming influence with a human\\u27s individual motives is the most critical factor in the acceptance of AI teammate teaming influence in existing teams.\nStudy 2 further examines the acceptance of AI teammate teaming and social influence and how the design of AI teammates and humans\\u27 individual differences can impact this acceptance. The findings of Study 2 show that humans have the greatest levels of acceptance of AI teammate teaming influence that is comparative to their own teaming influence on a single task, but the acceptance of AI teammate teaming influence across multiple tasks generally decreases as teaming influence increases. Additionally, coworker endorsements are shown to increase the acceptance of high levels of AI teammate teaming influence, and humans that perceive the capabilities of technology, in general, to be greater are potentially more likely to accept AI teammate teaming influence.\nFinally, Study 3 explores how the teaming and social influence possessed by AI teammates change when presented in a team that also contains teaming influence from multiple human teammates, which means social influence between humans also exists. Results demonstrate that AI teammate social influence can drive humans to prefer and observe their human teammates over their AI teammates, but humans\\u27 behavioral adaptations are more centered around their AI teammates than their human teammates. These effects demonstrate that AI teammate social influence, when in the presence of human-human teaming and social influence, retains potency, but its effects are different when impacting either perception or behavior.\nThe above three studies fill a currently under-served research gap in human-AI teaming, which is both the understanding of AI teammate social influence and humans\\u27 acceptance of it. In addition, each study conducted within this dissertation synthesizes its findings and contributions into actionable design recommendations that will serve as foundational design principles to allow the initial acceptance of AI teammates within society. Therefore, not only will the research community benefit from the results discussed throughout this dissertation, but so too will the developers, designers, and human teammates of human-AI teams",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Flathmann, Christopher"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/578426129.pdf",
+      "publisher": "Clemson University Libraries",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169064385,
+      "doi": "10.26083/tuprints-00028727",
+      "title": "From Assistance to Empowerment: Human-AI Collaboration in High-Risk Decision Making",
+      "abstract": "The increasing availability of large amounts of valuable data and the development of ever more powerful machine learning (ML) algorithms enable ML systems to quickly and independently identify complex relationships in data. As a result, ML systems not only generate new knowledge, but also offer significant potential to augment human capabilities and assist decision makers in challenging tasks.\n\nIn high-risk areas such as aviation or healthcare, humans retain final decision-making responsibility, but will increasingly collaborate with ML systems to improve decision-making processes. However, since ML systems rely on statistical approaches, they are susceptible to error, and the complexity of modern algorithms often renders the output of ML systems opaque to humans. While initial approaches from the field of explainable artificial intelligence (XAI) aim to make the output of ML systems more understandable and comprehensible to humans, current research investigating the impact of ML systems on human decision makers is limited and lacks approaches on how humans can improve their capabilities through collaboration to make better decisions in the long run. To fully exploit the potential of ML systems in high-risk areas, both humans and ML systems should be able to learn from each other to enhance their performance in the context of collaboration. Furthermore, it is essential to design effective collaboration that considers the unique characteristics of ML systems and enables humans to critically assess system decisions. This dissertation comprises five published papers that use a mixed-methods study, two quantitative experiments and two qualitative design science research (DSR) studies to explore the collaboration and bilateral influences between humans and ML systems in decision-making contexts within high-risk areas from three perspectives: (1) the human perspective, (2) the ML system perspective, and (3) the collaborative perspective.\n\nFrom a human perspective, this dissertation examines how humans can learn from ML systems in collaboration to enhance their own capabilities and avoid the risk of false learning due to erroneous ML output. In a mixed-methods study, radiologists segmented 690 brain tumors in MRI scans supported by either high-performing or low-performing ML systems, which provided explainable or non-explainable output design. The study shows that human decision makers can learn from ML systems to improve their decision performance and confidence. However, incorrect system outputs also lead to false learning and pose risks for decision makers. Explanations from the XAI field can significantly improve the learning success of radiologists and prevent false learning in the case of incorrect ML system output. In fact, some radiologists were even able to learn from mistakes made by low-performing ML systems when local explanations were provided with the system output. This study provides first empirical insights into the human learning potential in the context of collaborating with ML systems. The finding that explainable design of ML systems enables radiologists to identify erroneous output may facilitate earlier adoption of explainable ML systems that can improve their performance over time.\n\nThe ML system perspective, on the other hand, examines how ML systems must be designed to respond flexibly to changes in human problem perception and their dynamic deployment environment. This allows the systems to also learn from humans and ensures reliable system performance in dynamic collaborative environments. Through 15 qualitative interviews with data science and ML experts in the context of a DSR study, challenges for the long-term deployment of ML systems are identified. The results show that the requirements for flexible adaptation of systems in long-term use must be established in the early phases of the ML development process. Tangible design requirements and principles for ML systems that can learn from their environment and humans are derived for all phases of the CRISP-ML(Q) process model for the development and deployment of ML models. Implementing these principles allows ML systems to maintain or even improve their performance in the long run despite occurring changes, thus creating the prerequisites for a sustainable lifecycle of ML systems.\n\nFinally, the collaborative perspective examines how the collaboration between humans and ML systems should be designed to account for the unique characteristics of ML systems, such as error proneness and opacity, as well as the cognitive biases that are inherent to human decision making. In this context, pilots were provided with different ML systems for the visual detection of other aircraft in the airspace during 222 recorded flight simulations. The experiment examines the influence of different ML error types and XAI approaches in collaboration, and shows that an explainable output design can significantly reduce ML error-induced pilot trust and performance degradation for individual error types. However, processing explanations from the XAI field increases the pilot\u2019s mental workload. While ML errors erode the trust of human decision makers, a DSR study is conducted to derive design principles for acceptance-promoting artifacts for collaboration between humans and ML systems. Finally, the last part of the analysis shows how cognitive biases such as the IKEA effect cause humans to overvalue the results of collaboration with ML systems when a high level of personal effort is invested in the collaboration. The findings provide a broad foundation for designing effective human-AI collaboration in organizations, especially in high-risk areas where humans will be involved in decision making for the long term.\n\nOverall, the papers show how by designing effective collaboration, both humans and ML systems can benefit from each other in the long run and enhance their own capabilities. The explainable design of ML system outputs can serve as a catalyst for the adoption of ML systems, especially in high-risk areas. This dissertation defines novel requirements for the collaboration between humans and ML systems and provides guidance for ML developers, scientists, and organizations that aspire to involve both human decision makers and ML systems in decision-making processes and ensure high and robust performance in the long term",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-28T00:00:00",
+      "authors": [
+        {
+          "name": "Jourdan, Sara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636758460.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 57012744,
+      "doi": null,
+      "title": "Foundations of Human-Aware Planning -- A Tale of Three Models",
+      "abstract": "abstract: A critical challenge in the design of AI systems that operate with humans in the loop is to be able to model the intentions and capabilities of the humans, as well as their beliefs and expectations of the AI system itself. This allows the AI system to be \"human- aware\" -- i.e. the human task model enables it to envisage desired roles of the human in joint action, while the human mental model allows it to anticipate how its own actions are perceived from the point of view of the human. In my research, I explore how these concepts of human-awareness manifest themselves in the scope of planning or sequential decision making with humans in the loop. To this end, I will show (1) how the AI agent can leverage the human task model to generate symbiotic behavior; and (2) how the introduction of the human mental model in the deliberative process of the AI agent allows it to generate explanations for a plan or resort to explicable plans when explanations are not desired. The latter is in addition to traditional notions of human-aware planning which typically use the human task model alone and thus enables a new suite of capabilities of a human-aware AI agent. Finally, I will explore how the AI agent can leverage emerging mixed-reality interfaces to realize effective channels of communication with the human in the loop.Dissertation/ThesisDoctoral Dissertation Computer Science 201",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/195380053.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126135807,
+      "doi": "10.5445/ir/1000143873",
+      "title": "Human-Machine Cooperative Decision Making",
+      "abstract": "Diese Dissertation besch\u00e4ftigt sich mit der gemeinsamen Entscheidungsfindung in der Mensch-Maschine-Kooperation und liefert neue Erkenntnisse, welche von der theoretischen Modellierung bis zu experimentellen Untersuchungen reichen. Zun\u00e4chst wird eine methodische Klassifikation bestehender Forschung zur Mensch-Maschine-Kooperation vorgenommen und der Forschungsfokus dieser Dissertation mithilfe eines vorgestellten Taxonomiemodells der Mensch-Maschine-Kooperation, dem Butterfly-Modell, abgegrenzt. Darauffolgend stellt die Dissertation zwei mathematische Verhaltensmodelle der gemeinsamen Entscheidungsfindung von Mensch und Maschine vor: das Adaptive Verhandlungsmodell und den n-stufigen War of Attrition. Beide modellieren den Einigungsprozess zweier emanzipierter Kooperationspartner und unterscheiden sich hinsichtlich ihrer Urspr\u00fcnge, welche in der Verhandlungs- beziehungsweise Spieltheorie liegen. Zus\u00e4tzlich wird eine Studie vorgestellt, die die Eignung der vorgeschlagenen mathematischen Modelle zur Beschreibung des menschlichen Nachgebeverhaltens in kooperativen Entscheidungsfindungs-Prozessen nachweist. Darauf aufbauend werden zwei modellbasierte Automationsdesigns bereitgestellt, welche die Entwicklung von Maschinen erm\u00f6glichen, die an einem Einigungsprozess mit einem Menschen teilnehmen k\u00f6nnen. Zuletzt werden zwei experimentelle Untersuchungen der vorgeschlagenen Automationsdesigns im Kontext von teleoperierten mobilen Robotern in Such- und Rettungsszenarien und anhand einer Anwendung in einem hochautomatisierten Fahrzeug pr\u00e4sentiert. Die experimentellen Ergebnisse liefern empirische Evidenz f\u00fcr die \u00dcberlegenheit der vorgestellten modellbasierten Automationsdesigns gegen\u00fcber den bisherigen Ans\u00e4tzen in den Aspekten der objektiven kooperativen Performanz, des menschlichen Vertrauens in die Interaktion mit der Maschine und der Nutzerzufriedenheit. So zeigt diese Dissertation, dass Menschen eine emanzipierte Interaktion mit Bezug auf die Entscheidungsfindung bevorzugen, und leistet einen wertvollen Beitrag zur vollumf\u00e4nglichen Betrachtung und Verwirklichung von Mensch-Maschine-Kooperationen",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Rothfu\u00df, Simon"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/521172770.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 166752211,
+      "doi": "10.1016/j.jmsy.2024.10.015",
+      "title": "From caged robots to high-fives in robotics: Exploring the paradigm shift from human\u2013robot interaction to human\u2013robot teaming in human\u2013machine interfaces",
+      "abstract": "Multi-modal human\u2013machine interfaces have recently undergone a remarkable transformation, progressing from simple human\u2013robot interaction (HRI) to more advanced human\u2013robot collaboration (HRC) and, ultimately, evolving into the concept of human\u2013robot teaming (HRT). The aim of this work is to delineate a progressive path in this evolving transition. A structured, position-oriented review is proposed. Rather than aiming for an exhaustive survey, our objective is to propose a structured approach in a field that has seen diverse and sometimes divergent definitions of HRI/C/T in the literature. This conceptual review seeks to establish a unified and systematic framework for understanding these paradigms, offering clarity and coherence amidst their evolving complexities. We focus on integrating multiple sensory modalities \u2014 such as visual, aural, and tactile inputs \u2014 within human\u2013machine interfaces. Central to our approach is a running use case of a warehouse workflow, which illustrates key aspects including modelling, control, communication, and technological integration. Additionally, we investigate recent advancements in machine learning and sensing technologies, emphasising robot perception, human intention recognition, and collaborative task engagement. Current challenges and future directions, including ethical considerations, user acceptance, and the need for explainable systems, are also addressed. By providing a structured pathway from HRI to HRT, this work aims to foster a deeper understanding and facilitate further advancements in human\u2013machine interaction paradigms.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Sanfilippo, Filippo"
+        },
+        {
+          "name": "Wiley, Timothy"
+        },
+        {
+          "name": "Zafar, Muhammad Hamza"
+        },
+        {
+          "name": "Zambetta, Fabio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639873207.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 150346470,
+      "doi": null,
+      "title": "How to Make Agents and Influence Teammates: Understanding the Social Influence AI Teammates Have in Human-AI Teams",
+      "abstract": "The introduction of computational systems in the last few decades has enabled humans to cross geographical, cultural, and even societal boundaries. Whether it was the invention of telephones or file sharing, new technologies have enabled humans to continuously work better together. Artificial Intelligence (AI) has one of the highest levels of potential as one of these technologies. Although AI has a multitude of functions within teaming, such as improving information sciences and analysis, one specific application of AI that has become a critical topic in recent years is the creation of AI systems that act as teammates alongside humans, in what is known as a human-AI team.\nHowever, as AI transitions into teammate roles they will garner new responsibilities and abilities, which ultimately gives them a greater influence over teams\\u27 shared goals and resources, otherwise known as teaming influence. Moreover, that increase in teaming influence will provide AI teammates with a level of social influence. Unfortunately, while research has observed the impact of teaming influence by examining humans\\u27 perception and performance, an explicit and literal understanding of the social influence that facilitates long-term teaming change has yet to be created. This dissertation uses three studies to create a holistic understanding of the underlying social influence that AI teammates possess.\nStudy 1 identifies the fundamental existence of AI teammate social influence and how it pertains to teaming influence. Qualitative data demonstrates that social influence is naturally created as humans actively adapt around AI teammate teaming influence. Furthermore, mixed-methods results demonstrate that the alignment of AI teammate teaming influence with a human\\u27s individual motives is the most critical factor in the acceptance of AI teammate teaming influence in existing teams.\nStudy 2 further examines the acceptance of AI teammate teaming and social influence and how the design of AI teammates and humans\\u27 individual differences can impact this acceptance. The findings of Study 2 show that humans have the greatest levels of acceptance of AI teammate teaming influence that is comparative to their own teaming influence on a single task, but the acceptance of AI teammate teaming influence across multiple tasks generally decreases as teaming influence increases. Additionally, coworker endorsements are shown to increase the acceptance of high levels of AI teammate teaming influence, and humans that perceive the capabilities of technology, in general, to be greater are potentially more likely to accept AI teammate teaming influence.\nFinally, Study 3 explores how the teaming and social influence possessed by AI teammates change when presented in a team that also contains teaming influence from multiple human teammates, which means social influence between humans also exists. Results demonstrate that AI teammate social influence can drive humans to prefer and observe their human teammates over their AI teammates, but humans\\u27 behavioral adaptations are more centered around their AI teammates than their human teammates. These effects demonstrate that AI teammate social influence, when in the presence of human-human teaming and social influence, retains potency, but its effects are different when impacting either perception or behavior.\nThe above three studies fill a currently under-served research gap in human-AI teaming, which is both the understanding of AI teammate social influence and humans\\u27 acceptance of it. In addition, each study conducted within this dissertation synthesizes its findings and contributions into actionable design recommendations that will serve as foundational design principles to allow the initial acceptance of AI teammates within society. Therefore, not only will the research community benefit from the results discussed throughout this dissertation, but so too will the developers, designers, and human teammates of human-AI teams",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Flathmann, Christopher"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/578426129.pdf",
+      "publisher": "Clemson University Libraries",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169064385,
+      "doi": "10.26083/tuprints-00028727",
+      "title": "From Assistance to Empowerment: Human-AI Collaboration in High-Risk Decision Making",
+      "abstract": "The increasing availability of large amounts of valuable data and the development of ever more powerful machine learning (ML) algorithms enable ML systems to quickly and independently identify complex relationships in data. As a result, ML systems not only generate new knowledge, but also offer significant potential to augment human capabilities and assist decision makers in challenging tasks.\n\nIn high-risk areas such as aviation or healthcare, humans retain final decision-making responsibility, but will increasingly collaborate with ML systems to improve decision-making processes. However, since ML systems rely on statistical approaches, they are susceptible to error, and the complexity of modern algorithms often renders the output of ML systems opaque to humans. While initial approaches from the field of explainable artificial intelligence (XAI) aim to make the output of ML systems more understandable and comprehensible to humans, current research investigating the impact of ML systems on human decision makers is limited and lacks approaches on how humans can improve their capabilities through collaboration to make better decisions in the long run. To fully exploit the potential of ML systems in high-risk areas, both humans and ML systems should be able to learn from each other to enhance their performance in the context of collaboration. Furthermore, it is essential to design effective collaboration that considers the unique characteristics of ML systems and enables humans to critically assess system decisions. This dissertation comprises five published papers that use a mixed-methods study, two quantitative experiments and two qualitative design science research (DSR) studies to explore the collaboration and bilateral influences between humans and ML systems in decision-making contexts within high-risk areas from three perspectives: (1) the human perspective, (2) the ML system perspective, and (3) the collaborative perspective.\n\nFrom a human perspective, this dissertation examines how humans can learn from ML systems in collaboration to enhance their own capabilities and avoid the risk of false learning due to erroneous ML output. In a mixed-methods study, radiologists segmented 690 brain tumors in MRI scans supported by either high-performing or low-performing ML systems, which provided explainable or non-explainable output design. The study shows that human decision makers can learn from ML systems to improve their decision performance and confidence. However, incorrect system outputs also lead to false learning and pose risks for decision makers. Explanations from the XAI field can significantly improve the learning success of radiologists and prevent false learning in the case of incorrect ML system output. In fact, some radiologists were even able to learn from mistakes made by low-performing ML systems when local explanations were provided with the system output. This study provides first empirical insights into the human learning potential in the context of collaborating with ML systems. The finding that explainable design of ML systems enables radiologists to identify erroneous output may facilitate earlier adoption of explainable ML systems that can improve their performance over time.\n\nThe ML system perspective, on the other hand, examines how ML systems must be designed to respond flexibly to changes in human problem perception and their dynamic deployment environment. This allows the systems to also learn from humans and ensures reliable system performance in dynamic collaborative environments. Through 15 qualitative interviews with data science and ML experts in the context of a DSR study, challenges for the long-term deployment of ML systems are identified. The results show that the requirements for flexible adaptation of systems in long-term use must be established in the early phases of the ML development process. Tangible design requirements and principles for ML systems that can learn from their environment and humans are derived for all phases of the CRISP-ML(Q) process model for the development and deployment of ML models. Implementing these principles allows ML systems to maintain or even improve their performance in the long run despite occurring changes, thus creating the prerequisites for a sustainable lifecycle of ML systems.\n\nFinally, the collaborative perspective examines how the collaboration between humans and ML systems should be designed to account for the unique characteristics of ML systems, such as error proneness and opacity, as well as the cognitive biases that are inherent to human decision making. In this context, pilots were provided with different ML systems for the visual detection of other aircraft in the airspace during 222 recorded flight simulations. The experiment examines the influence of different ML error types and XAI approaches in collaboration, and shows that an explainable output design can significantly reduce ML error-induced pilot trust and performance degradation for individual error types. However, processing explanations from the XAI field increases the pilot\u2019s mental workload. While ML errors erode the trust of human decision makers, a DSR study is conducted to derive design principles for acceptance-promoting artifacts for collaboration between humans and ML systems. Finally, the last part of the analysis shows how cognitive biases such as the IKEA effect cause humans to overvalue the results of collaboration with ML systems when a high level of personal effort is invested in the collaboration. The findings provide a broad foundation for designing effective human-AI collaboration in organizations, especially in high-risk areas where humans will be involved in decision making for the long term.\n\nOverall, the papers show how by designing effective collaboration, both humans and ML systems can benefit from each other in the long run and enhance their own capabilities. The explainable design of ML system outputs can serve as a catalyst for the adoption of ML systems, especially in high-risk areas. This dissertation defines novel requirements for the collaboration between humans and ML systems and provides guidance for ML developers, scientists, and organizations that aspire to involve both human decision makers and ML systems in decision-making processes and ensure high and robust performance in the long term",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-28T00:00:00",
+      "authors": [
+        {
+          "name": "Jourdan, Sara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636758460.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 57012744,
+      "doi": null,
+      "title": "Foundations of Human-Aware Planning -- A Tale of Three Models",
+      "abstract": "abstract: A critical challenge in the design of AI systems that operate with humans in the loop is to be able to model the intentions and capabilities of the humans, as well as their beliefs and expectations of the AI system itself. This allows the AI system to be \"human- aware\" -- i.e. the human task model enables it to envisage desired roles of the human in joint action, while the human mental model allows it to anticipate how its own actions are perceived from the point of view of the human. In my research, I explore how these concepts of human-awareness manifest themselves in the scope of planning or sequential decision making with humans in the loop. To this end, I will show (1) how the AI agent can leverage the human task model to generate symbiotic behavior; and (2) how the introduction of the human mental model in the deliberative process of the AI agent allows it to generate explanations for a plan or resort to explicable plans when explanations are not desired. The latter is in addition to traditional notions of human-aware planning which typically use the human task model alone and thus enables a new suite of capabilities of a human-aware AI agent. Finally, I will explore how the AI agent can leverage emerging mixed-reality interfaces to realize effective channels of communication with the human in the loop.Dissertation/ThesisDoctoral Dissertation Computer Science 201",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/195380053.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126135807,
+      "doi": "10.5445/ir/1000143873",
+      "title": "Human-Machine Cooperative Decision Making",
+      "abstract": "Diese Dissertation besch\u00e4ftigt sich mit der gemeinsamen Entscheidungsfindung in der Mensch-Maschine-Kooperation und liefert neue Erkenntnisse, welche von der theoretischen Modellierung bis zu experimentellen Untersuchungen reichen. Zun\u00e4chst wird eine methodische Klassifikation bestehender Forschung zur Mensch-Maschine-Kooperation vorgenommen und der Forschungsfokus dieser Dissertation mithilfe eines vorgestellten Taxonomiemodells der Mensch-Maschine-Kooperation, dem Butterfly-Modell, abgegrenzt. Darauffolgend stellt die Dissertation zwei mathematische Verhaltensmodelle der gemeinsamen Entscheidungsfindung von Mensch und Maschine vor: das Adaptive Verhandlungsmodell und den n-stufigen War of Attrition. Beide modellieren den Einigungsprozess zweier emanzipierter Kooperationspartner und unterscheiden sich hinsichtlich ihrer Urspr\u00fcnge, welche in der Verhandlungs- beziehungsweise Spieltheorie liegen. Zus\u00e4tzlich wird eine Studie vorgestellt, die die Eignung der vorgeschlagenen mathematischen Modelle zur Beschreibung des menschlichen Nachgebeverhaltens in kooperativen Entscheidungsfindungs-Prozessen nachweist. Darauf aufbauend werden zwei modellbasierte Automationsdesigns bereitgestellt, welche die Entwicklung von Maschinen erm\u00f6glichen, die an einem Einigungsprozess mit einem Menschen teilnehmen k\u00f6nnen. Zuletzt werden zwei experimentelle Untersuchungen der vorgeschlagenen Automationsdesigns im Kontext von teleoperierten mobilen Robotern in Such- und Rettungsszenarien und anhand einer Anwendung in einem hochautomatisierten Fahrzeug pr\u00e4sentiert. Die experimentellen Ergebnisse liefern empirische Evidenz f\u00fcr die \u00dcberlegenheit der vorgestellten modellbasierten Automationsdesigns gegen\u00fcber den bisherigen Ans\u00e4tzen in den Aspekten der objektiven kooperativen Performanz, des menschlichen Vertrauens in die Interaktion mit der Maschine und der Nutzerzufriedenheit. So zeigt diese Dissertation, dass Menschen eine emanzipierte Interaktion mit Bezug auf die Entscheidungsfindung bevorzugen, und leistet einen wertvollen Beitrag zur vollumf\u00e4nglichen Betrachtung und Verwirklichung von Mensch-Maschine-Kooperationen",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Rothfu\u00df, Simon"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/521172770.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 166752211,
+      "doi": "10.1016/j.jmsy.2024.10.015",
+      "title": "From caged robots to high-fives in robotics: Exploring the paradigm shift from human\u2013robot interaction to human\u2013robot teaming in human\u2013machine interfaces",
+      "abstract": "Multi-modal human\u2013machine interfaces have recently undergone a remarkable transformation, progressing from simple human\u2013robot interaction (HRI) to more advanced human\u2013robot collaboration (HRC) and, ultimately, evolving into the concept of human\u2013robot teaming (HRT). The aim of this work is to delineate a progressive path in this evolving transition. A structured, position-oriented review is proposed. Rather than aiming for an exhaustive survey, our objective is to propose a structured approach in a field that has seen diverse and sometimes divergent definitions of HRI/C/T in the literature. This conceptual review seeks to establish a unified and systematic framework for understanding these paradigms, offering clarity and coherence amidst their evolving complexities. We focus on integrating multiple sensory modalities \u2014 such as visual, aural, and tactile inputs \u2014 within human\u2013machine interfaces. Central to our approach is a running use case of a warehouse workflow, which illustrates key aspects including modelling, control, communication, and technological integration. Additionally, we investigate recent advancements in machine learning and sensing technologies, emphasising robot perception, human intention recognition, and collaborative task engagement. Current challenges and future directions, including ethical considerations, user acceptance, and the need for explainable systems, are also addressed. By providing a structured pathway from HRI to HRT, this work aims to foster a deeper understanding and facilitate further advancements in human\u2013machine interaction paradigms.publishedVersio",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Sanfilippo, Filippo"
+        },
+        {
+          "name": "Wiley, Timothy"
+        },
+        {
+          "name": "Zafar, Muhammad Hamza"
+        },
+        {
+          "name": "Zambetta, Fabio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/639873207.pdf",
+      "publisher": "Elsevier",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 150346470,
+      "doi": null,
+      "title": "How to Make Agents and Influence Teammates: Understanding the Social Influence AI Teammates Have in Human-AI Teams",
+      "abstract": "The introduction of computational systems in the last few decades has enabled humans to cross geographical, cultural, and even societal boundaries. Whether it was the invention of telephones or file sharing, new technologies have enabled humans to continuously work better together. Artificial Intelligence (AI) has one of the highest levels of potential as one of these technologies. Although AI has a multitude of functions within teaming, such as improving information sciences and analysis, one specific application of AI that has become a critical topic in recent years is the creation of AI systems that act as teammates alongside humans, in what is known as a human-AI team.\nHowever, as AI transitions into teammate roles they will garner new responsibilities and abilities, which ultimately gives them a greater influence over teams\\u27 shared goals and resources, otherwise known as teaming influence. Moreover, that increase in teaming influence will provide AI teammates with a level of social influence. Unfortunately, while research has observed the impact of teaming influence by examining humans\\u27 perception and performance, an explicit and literal understanding of the social influence that facilitates long-term teaming change has yet to be created. This dissertation uses three studies to create a holistic understanding of the underlying social influence that AI teammates possess.\nStudy 1 identifies the fundamental existence of AI teammate social influence and how it pertains to teaming influence. Qualitative data demonstrates that social influence is naturally created as humans actively adapt around AI teammate teaming influence. Furthermore, mixed-methods results demonstrate that the alignment of AI teammate teaming influence with a human\\u27s individual motives is the most critical factor in the acceptance of AI teammate teaming influence in existing teams.\nStudy 2 further examines the acceptance of AI teammate teaming and social influence and how the design of AI teammates and humans\\u27 individual differences can impact this acceptance. The findings of Study 2 show that humans have the greatest levels of acceptance of AI teammate teaming influence that is comparative to their own teaming influence on a single task, but the acceptance of AI teammate teaming influence across multiple tasks generally decreases as teaming influence increases. Additionally, coworker endorsements are shown to increase the acceptance of high levels of AI teammate teaming influence, and humans that perceive the capabilities of technology, in general, to be greater are potentially more likely to accept AI teammate teaming influence.\nFinally, Study 3 explores how the teaming and social influence possessed by AI teammates change when presented in a team that also contains teaming influence from multiple human teammates, which means social influence between humans also exists. Results demonstrate that AI teammate social influence can drive humans to prefer and observe their human teammates over their AI teammates, but humans\\u27 behavioral adaptations are more centered around their AI teammates than their human teammates. These effects demonstrate that AI teammate social influence, when in the presence of human-human teaming and social influence, retains potency, but its effects are different when impacting either perception or behavior.\nThe above three studies fill a currently under-served research gap in human-AI teaming, which is both the understanding of AI teammate social influence and humans\\u27 acceptance of it. In addition, each study conducted within this dissertation synthesizes its findings and contributions into actionable design recommendations that will serve as foundational design principles to allow the initial acceptance of AI teammates within society. Therefore, not only will the research community benefit from the results discussed throughout this dissertation, but so too will the developers, designers, and human teammates of human-AI teams",
+      "yearPublished": 2023,
+      "publishedDate": "2023-05-01T08:00:00",
+      "authors": [
+        {
+          "name": "Flathmann, Christopher"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/578426129.pdf",
+      "publisher": "Clemson University Libraries",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169064385,
+      "doi": "10.26083/tuprints-00028727",
+      "title": "From Assistance to Empowerment: Human-AI Collaboration in High-Risk Decision Making",
+      "abstract": "The increasing availability of large amounts of valuable data and the development of ever more powerful machine learning (ML) algorithms enable ML systems to quickly and independently identify complex relationships in data. As a result, ML systems not only generate new knowledge, but also offer significant potential to augment human capabilities and assist decision makers in challenging tasks.\n\nIn high-risk areas such as aviation or healthcare, humans retain final decision-making responsibility, but will increasingly collaborate with ML systems to improve decision-making processes. However, since ML systems rely on statistical approaches, they are susceptible to error, and the complexity of modern algorithms often renders the output of ML systems opaque to humans. While initial approaches from the field of explainable artificial intelligence (XAI) aim to make the output of ML systems more understandable and comprehensible to humans, current research investigating the impact of ML systems on human decision makers is limited and lacks approaches on how humans can improve their capabilities through collaboration to make better decisions in the long run. To fully exploit the potential of ML systems in high-risk areas, both humans and ML systems should be able to learn from each other to enhance their performance in the context of collaboration. Furthermore, it is essential to design effective collaboration that considers the unique characteristics of ML systems and enables humans to critically assess system decisions. This dissertation comprises five published papers that use a mixed-methods study, two quantitative experiments and two qualitative design science research (DSR) studies to explore the collaboration and bilateral influences between humans and ML systems in decision-making contexts within high-risk areas from three perspectives: (1) the human perspective, (2) the ML system perspective, and (3) the collaborative perspective.\n\nFrom a human perspective, this dissertation examines how humans can learn from ML systems in collaboration to enhance their own capabilities and avoid the risk of false learning due to erroneous ML output. In a mixed-methods study, radiologists segmented 690 brain tumors in MRI scans supported by either high-performing or low-performing ML systems, which provided explainable or non-explainable output design. The study shows that human decision makers can learn from ML systems to improve their decision performance and confidence. However, incorrect system outputs also lead to false learning and pose risks for decision makers. Explanations from the XAI field can significantly improve the learning success of radiologists and prevent false learning in the case of incorrect ML system output. In fact, some radiologists were even able to learn from mistakes made by low-performing ML systems when local explanations were provided with the system output. This study provides first empirical insights into the human learning potential in the context of collaborating with ML systems. The finding that explainable design of ML systems enables radiologists to identify erroneous output may facilitate earlier adoption of explainable ML systems that can improve their performance over time.\n\nThe ML system perspective, on the other hand, examines how ML systems must be designed to respond flexibly to changes in human problem perception and their dynamic deployment environment. This allows the systems to also learn from humans and ensures reliable system performance in dynamic collaborative environments. Through 15 qualitative interviews with data science and ML experts in the context of a DSR study, challenges for the long-term deployment of ML systems are identified. The results show that the requirements for flexible adaptation of systems in long-term use must be established in the early phases of the ML development process. Tangible design requirements and principles for ML systems that can learn from their environment and humans are derived for all phases of the CRISP-ML(Q) process model for the development and deployment of ML models. Implementing these principles allows ML systems to maintain or even improve their performance in the long run despite occurring changes, thus creating the prerequisites for a sustainable lifecycle of ML systems.\n\nFinally, the collaborative perspective examines how the collaboration between humans and ML systems should be designed to account for the unique characteristics of ML systems, such as error proneness and opacity, as well as the cognitive biases that are inherent to human decision making. In this context, pilots were provided with different ML systems for the visual detection of other aircraft in the airspace during 222 recorded flight simulations. The experiment examines the influence of different ML error types and XAI approaches in collaboration, and shows that an explainable output design can significantly reduce ML error-induced pilot trust and performance degradation for individual error types. However, processing explanations from the XAI field increases the pilot\u2019s mental workload. While ML errors erode the trust of human decision makers, a DSR study is conducted to derive design principles for acceptance-promoting artifacts for collaboration between humans and ML systems. Finally, the last part of the analysis shows how cognitive biases such as the IKEA effect cause humans to overvalue the results of collaboration with ML systems when a high level of personal effort is invested in the collaboration. The findings provide a broad foundation for designing effective human-AI collaboration in organizations, especially in high-risk areas where humans will be involved in decision making for the long term.\n\nOverall, the papers show how by designing effective collaboration, both humans and ML systems can benefit from each other in the long run and enhance their own capabilities. The explainable design of ML system outputs can serve as a catalyst for the adoption of ML systems, especially in high-risk areas. This dissertation defines novel requirements for the collaboration between humans and ML systems and provides guidance for ML developers, scientists, and organizations that aspire to involve both human decision makers and ML systems in decision-making processes and ensure high and robust performance in the long term",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-28T00:00:00",
+      "authors": [
+        {
+          "name": "Jourdan, Sara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636758460.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 57012744,
+      "doi": null,
+      "title": "Foundations of Human-Aware Planning -- A Tale of Three Models",
+      "abstract": "abstract: A critical challenge in the design of AI systems that operate with humans in the loop is to be able to model the intentions and capabilities of the humans, as well as their beliefs and expectations of the AI system itself. This allows the AI system to be \"human- aware\" -- i.e. the human task model enables it to envisage desired roles of the human in joint action, while the human mental model allows it to anticipate how its own actions are perceived from the point of view of the human. In my research, I explore how these concepts of human-awareness manifest themselves in the scope of planning or sequential decision making with humans in the loop. To this end, I will show (1) how the AI agent can leverage the human task model to generate symbiotic behavior; and (2) how the introduction of the human mental model in the deliberative process of the AI agent allows it to generate explanations for a plan or resort to explicable plans when explanations are not desired. The latter is in addition to traditional notions of human-aware planning which typically use the human task model alone and thus enables a new suite of capabilities of a human-aware AI agent. Finally, I will explore how the AI agent can leverage emerging mixed-reality interfaces to realize effective channels of communication with the human in the loop.Dissertation/ThesisDoctoral Dissertation Computer Science 201",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/195380053.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126135807,
+      "doi": "10.5445/ir/1000143873",
+      "title": "Human-Machine Cooperative Decision Making",
+      "abstract": "Diese Dissertation besch\u00e4ftigt sich mit der gemeinsamen Entscheidungsfindung in der Mensch-Maschine-Kooperation und liefert neue Erkenntnisse, welche von der theoretischen Modellierung bis zu experimentellen Untersuchungen reichen. Zun\u00e4chst wird eine methodische Klassifikation bestehender Forschung zur Mensch-Maschine-Kooperation vorgenommen und der Forschungsfokus dieser Dissertation mithilfe eines vorgestellten Taxonomiemodells der Mensch-Maschine-Kooperation, dem Butterfly-Modell, abgegrenzt. Darauffolgend stellt die Dissertation zwei mathematische Verhaltensmodelle der gemeinsamen Entscheidungsfindung von Mensch und Maschine vor: das Adaptive Verhandlungsmodell und den n-stufigen War of Attrition. Beide modellieren den Einigungsprozess zweier emanzipierter Kooperationspartner und unterscheiden sich hinsichtlich ihrer Urspr\u00fcnge, welche in der Verhandlungs- beziehungsweise Spieltheorie liegen. Zus\u00e4tzlich wird eine Studie vorgestellt, die die Eignung der vorgeschlagenen mathematischen Modelle zur Beschreibung des menschlichen Nachgebeverhaltens in kooperativen Entscheidungsfindungs-Prozessen nachweist. Darauf aufbauend werden zwei modellbasierte Automationsdesigns bereitgestellt, welche die Entwicklung von Maschinen erm\u00f6glichen, die an einem Einigungsprozess mit einem Menschen teilnehmen k\u00f6nnen. Zuletzt werden zwei experimentelle Untersuchungen der vorgeschlagenen Automationsdesigns im Kontext von teleoperierten mobilen Robotern in Such- und Rettungsszenarien und anhand einer Anwendung in einem hochautomatisierten Fahrzeug pr\u00e4sentiert. Die experimentellen Ergebnisse liefern empirische Evidenz f\u00fcr die \u00dcberlegenheit der vorgestellten modellbasierten Automationsdesigns gegen\u00fcber den bisherigen Ans\u00e4tzen in den Aspekten der objektiven kooperativen Performanz, des menschlichen Vertrauens in die Interaktion mit der Maschine und der Nutzerzufriedenheit. So zeigt diese Dissertation, dass Menschen eine emanzipierte Interaktion mit Bezug auf die Entscheidungsfindung bevorzugen, und leistet einen wertvollen Beitrag zur vollumf\u00e4nglichen Betrachtung und Verwirklichung von Mensch-Maschine-Kooperationen",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Rothfu\u00df, Simon"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/521172770.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

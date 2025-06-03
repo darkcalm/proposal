@@ -1,0 +1,1247 @@
+{
+  "total": 4199,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "76749ab78ff404081ecb733ebbabdf4a5c37bd63",
+      "externalIds": {
+        "DOI": "10.1016/c2015-0-06001-4",
+        "CorpusId": 241727895
+      },
+      "url": "https://www.semanticscholar.org/paper/76749ab78ff404081ecb733ebbabdf4a5c37bd63",
+      "title": "Non-Destructive Testing and Condition Monitoring Techniques for Renewable Energy Industrial Assets",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 12,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/c2015-0-06001-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/c2015-0-06001-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "48ac27453a7baf137de5bcd3641e7ecad34416a6",
+      "externalIds": {
+        "MAG": "2970381033",
+        "DOI": "10.1016/b978-0-08-101094-5.09990-1",
+        "CorpusId": 202902968
+      },
+      "url": "https://www.semanticscholar.org/paper/48ac27453a7baf137de5bcd3641e7ecad34416a6",
+      "title": "Introduction to non-destructive testing and condition monitoring techniques for renewable energy industrial assets",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/b978-0-08-101094-5.09990-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/b978-0-08-101094-5.09990-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2349646",
+          "name": "F. M\u00e1rquez"
+        },
+        {
+          "authorId": "3457065",
+          "name": "M. Papaelias"
+        },
+        {
+          "authorId": "96124385",
+          "name": "A. Karyotakis"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "58fcd34b9362e884ecf07ecbd641815f9eb18567",
+      "externalIds": {
+        "MAG": "2901510055",
+        "DOI": "10.1109/ICSEDPS.2018.8536067",
+        "CorpusId": 53436061
+      },
+      "url": "https://www.semanticscholar.org/paper/58fcd34b9362e884ecf07ecbd641815f9eb18567",
+      "title": "A Review of Diagnostic Tests and Condition Monitoring Techniques for Improving the Reliability of Power Transformers",
+      "venue": "2018 International Conference on Smart Electric Drives and Power System (ICSEDPS)",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSEDPS.2018.8536067?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSEDPS.2018.8536067, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An overview of various traditional and some new conditioning monitoring techniques are covered in this paper, which are useful for both the power transformers and distribution transformers."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2018-06-01",
+      "journal": {
+        "name": "2018 International Conference on Smart Electric Drives and Power System (ICSEDPS)",
+        "pages": "209-214"
+      },
+      "authors": [
+        {
+          "authorId": "35970446",
+          "name": "Gajanan C. Jaiswal"
+        },
+        {
+          "authorId": "35112200",
+          "name": "M. Ballal"
+        },
+        {
+          "authorId": "9447623",
+          "name": "D. Tutakne"
+        },
+        {
+          "authorId": "9458450",
+          "name": "Ashish Doorwar"
+        }
+      ],
+      "abstract": "Power transformer is a critical component for generation, transmission and distribution utility. It is expensive equipment and plays vital role in interconnecting renewable energy with main grid. The distribution transformers are installed at different locations in a power system and are critical assets in the electricity supply system as they feed power supply to the end users. In this era of deregulation, priority is given by utilities for uninterrupted and quality power supply to their consumers. However, distribution transformers are normally neglected components; less maintenance and less care have been taken in comparison with power transformers. Transformer failure causes extensive loss to the power utility, major industrial consumer and society. Proper operation and maintenance procedure may avoid failures and maintain the continuous power supply for end user. Due to these reasons conditioning monitoring of transformer become popular. Condition monitoring of transformer results in increase life span, reducing the risk of expensive equipments failure and increase high level reliability. An overview of various traditional and some new conditioning monitoring techniques are covered in this paper. The methods discussed in this paper are useful for both the power transformers and distribution transformers."
+    },
+    {
+      "paperId": "47c19f2bd5fb23ab30e41c63fe0ef035f82a00f7",
+      "externalIds": {
+        "MAG": "2281853819",
+        "CorpusId": 49322129
+      },
+      "url": "https://www.semanticscholar.org/paper/47c19f2bd5fb23ab30e41c63fe0ef035f82a00f7",
+      "title": "Condition Monitoring Techniques of Power Transformers: A Review",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 75,
+      "citationCount": 33,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2015-06-06",
+      "journal": {
+        "name": "",
+        "pages": "71-82",
+        "volume": "3"
+      },
+      "authors": [
+        {
+          "authorId": "2234069",
+          "name": "Z. Moravej"
+        },
+        {
+          "authorId": "94394845",
+          "name": "S. Bagheri"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a123d045f3b7f3ca1ed954245bd5f5b7d9602da3",
+      "externalIds": {
+        "DOI": "10.1109/SETCOM64758.2025.10932437",
+        "CorpusId": 277322175
+      },
+      "url": "https://www.semanticscholar.org/paper/a123d045f3b7f3ca1ed954245bd5f5b7d9602da3",
+      "title": "Transformer Oil Analysis using DGA and UV-Visible Spectroscopy for Condition Monitoring",
+      "venue": "2025 International Conference on Sustainable Energy Technologies and Computational Intelligence (SETCOM)",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SETCOM64758.2025.10932437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SETCOM64758.2025.10932437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2025-02-21",
+      "journal": {
+        "name": "2025 International Conference on Sustainable Energy Technologies and Computational Intelligence (SETCOM)",
+        "pages": "1-5"
+      },
+      "authors": [
+        {
+          "authorId": "30936087",
+          "name": "Hussain Kalathiripi"
+        },
+        {
+          "authorId": "2352108378",
+          "name": "Vipul Undety"
+        },
+        {
+          "authorId": "2888325",
+          "name": "P. S. Puhan"
+        }
+      ],
+      "abstract": "Oil-immersed power transformers are critical assets in electrical power system networks from generation to utilization. The insulating oil degrades as it comes under thermal and electrical stress due to continuous operation. This cause\u2019s incipient fault leads to catastrophic transformer failure if precautionary measures are not provided. This paper presents condition monitoring techniques such as Dissolved Gas Analysis (DGA) and UV-visible spectroscopy. The health status of the transformer is carried out by accurately analyzing the gas contents using DGA technique and at the same time assessment of the oil is carried out using UV-visible spectroscopy by measuring light absorbance at different wavelengths. The combined application of these two techniques facilitates an accurate diagnosis of transformer conditions, enabling effective preventive measures against potential failures."
+    },
+    {
+      "paperId": "ead5fbeb93b96abba491cdef1e74195ca4c0675d",
+      "externalIds": {
+        "MAG": "2325898995",
+        "DOI": "10.1049/CP.2013.1732",
+        "CorpusId": 112142410
+      },
+      "url": "https://www.semanticscholar.org/paper/ead5fbeb93b96abba491cdef1e74195ca4c0675d",
+      "title": "Prognostic health management techniques for intelligent condition monitoring of offshore renewable generation assets",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1049/CP.2013.1732?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/CP.2013.1732, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "pages": "1-4",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2081871363",
+          "name": "D. S. Herd"
+        },
+        {
+          "authorId": "143836960",
+          "name": "D. Flynn"
+        }
+      ],
+      "abstract": "The application of Prognostic Health Management (PHM) methods offer the potential of improved reliability in the maintenance of large, remote and complex assets ensuring they continue to achieve optimal performance throughout their designed lifetime. This paper reviews the current state-of-the-art in condition monitoring for the offshore renewable energy sector to highlight the current capabilities and limitations. Based upon this review and an examination of PHM case studies, the design and function of PHM systems for offshore renewable industry assets will be presented."
+    },
+    {
+      "paperId": "f3480373d55ac3d62e9a56caeec3c6caceed69f8",
+      "externalIds": {
+        "DOI": "10.3390/en15186762",
+        "CorpusId": 252339971
+      },
+      "url": "https://www.semanticscholar.org/paper/f3480373d55ac3d62e9a56caeec3c6caceed69f8",
+      "title": "Review of Medium-Voltage Switchgear Fault Detection in a Condition-Based Monitoring System by Using Deep Learning",
+      "venue": "Energies",
+      "year": 2022,
+      "referenceCount": 81,
+      "citationCount": 30,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/15/18/6762/pdf?version=1663253584",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en15186762?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en15186762, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work provides a current state-of-the-art evaluation of deep learning (DL)-based smart diagnostics that were used to identify partial discharges and localize them."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2022-09-15",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "2185317740",
+          "name": "Yaseen Ahmed Mohammed Alsumaidaee"
+        },
+        {
+          "authorId": "2092113",
+          "name": "C. T. Yaw"
+        },
+        {
+          "authorId": "1405860496",
+          "name": "S. Koh"
+        },
+        {
+          "authorId": "46706980",
+          "name": "S. Tiong"
+        },
+        {
+          "authorId": "1485105736",
+          "name": "C. Chen"
+        },
+        {
+          "authorId": "20226647",
+          "name": "Kharudin Ali"
+        }
+      ],
+      "abstract": "In power energy distribution networks, switchgear is considered critical equipment. This is because the act of monitoring the operation and condition of switchgear, as well as performing the required corrective maintenance on any potentially problematic equipment, is critical. A single event may harm thousands of customers over time and pose a significant risk to operational staff. Many considerations must be put in place before using outages to switch down the system since they may raise maintenance costs and disrupt the power supply to users. As a result, proper interpretation of switchgear status evaluations is critical for the early identification of possible faults. Existing ultrasound condition-based monitoring (CBM) diagnostic testing techniques require the tester to manually interpret test data. This study aims to review the status of the recent development of CBM techniques with faults in switchgear. The current trend in electrification will be toward the safety and sustainability of power grid assets, which involves an evaluation of the electrical systems\u2019 and components\u2019 health and grids for medium-voltage distribution. This work provides a current state-of-the-art evaluation of deep learning (DL)-based smart diagnostics that were used to identify partial discharges and localize them. DL techniques are discussed and categorized, with special attention given to those sophisticated in the last five years. The key features of each method, such as fundamental approach and accuracy, are outlined and compared in depth. The benefits and drawbacks of various DL algorithms are also examined. The technological constraints that hinder sophisticated PD diagnostics from being implemented in companies are also recognized. Lastly, various remedies are suggested, as well as future research prospects."
+    },
+    {
+      "paperId": "9e29e6d61af40c23f5f146ac7e48a66d14d68e1b",
+      "externalIds": {
+        "MAG": "2542110679",
+        "DOI": "10.1109/CMD.2012.6416197",
+        "CorpusId": 1164633
+      },
+      "url": "https://www.semanticscholar.org/paper/9e29e6d61af40c23f5f146ac7e48a66d14d68e1b",
+      "title": "Advanced condition monitoring of insulation systems: A building block for smarter grids",
+      "venue": "IEEE International Conference on Condition Monitoring and Diagnosis",
+      "year": 2012,
+      "referenceCount": 11,
+      "citationCount": 8,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CMD.2012.6416197?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CMD.2012.6416197, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2012-09-01",
+      "journal": {
+        "name": "2012 IEEE International Conference on Condition Monitoring and Diagnosis",
+        "pages": "533-537"
+      },
+      "authors": [
+        {
+          "authorId": "2094397598",
+          "name": "L. Fornasari"
+        },
+        {
+          "authorId": "153491659",
+          "name": "A. Cavallini"
+        },
+        {
+          "authorId": "31516317",
+          "name": "G. Montanari"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b803d84deabfed786ee79f39918b336fed92f87c",
+      "externalIds": {
+        "MAG": "2541265415",
+        "DOI": "10.1109/CATCON.2013.6737501",
+        "CorpusId": 26126803
+      },
+      "url": "https://www.semanticscholar.org/paper/b803d84deabfed786ee79f39918b336fed92f87c",
+      "title": "A smart operational monitoring approach for high voltage electrical assets",
+      "venue": "2013 IEEE 1st International Conference on Condition Assessment Techniques in Electrical Systems (CATCON)",
+      "year": 2013,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CATCON.2013.6737501?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CATCON.2013.6737501, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2013-12-01",
+      "journal": {
+        "name": "2013 IEEE 1st International Conference on Condition Assessment Techniques in Electrical Systems (CATCON)",
+        "pages": "218-222"
+      },
+      "authors": [
+        {
+          "authorId": "2094397598",
+          "name": "L. Fornasari"
+        },
+        {
+          "authorId": "153491659",
+          "name": "A. Cavallini"
+        },
+        {
+          "authorId": "31516317",
+          "name": "G. Montanari"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0d7191fa49dc9026f539515590be9a7ecb986d33",
+      "externalIds": {
+        "MAG": "2743632650",
+        "DOI": "10.1109/JSEN.2017.2735193",
+        "CorpusId": 22577516
+      },
+      "url": "https://www.semanticscholar.org/paper/0d7191fa49dc9026f539515590be9a7ecb986d33",
+      "title": "Chemical Sensing Strategies for Real-Time Monitoring of Transformer Oil: A Review",
+      "venue": "IEEE Sensors Journal",
+      "year": 2017,
+      "referenceCount": 161,
+      "citationCount": 99,
+      "influentialCitationCount": 4,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/jsen.2017.2735193",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSEN.2017.2735193?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSEN.2017.2735193, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Chemistry",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2017-09-15",
+      "journal": {
+        "name": "IEEE Sensors Journal",
+        "pages": "5786-5806",
+        "volume": "17"
+      },
+      "authors": [
+        {
+          "authorId": "14662691",
+          "name": "Chenhu Sun"
+        },
+        {
+          "authorId": "5873147",
+          "name": "P. Ohodnicki"
+        },
+        {
+          "authorId": "12002648",
+          "name": "E. Stewart"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a10e685dac7ef4d75539786d268b09c032516108",
+      "externalIds": {
+        "MAG": "3185501974",
+        "DOI": "10.1177/1748006X211035623",
+        "CorpusId": 237685088
+      },
+      "url": "https://www.semanticscholar.org/paper/a10e685dac7ef4d75539786d268b09c032516108",
+      "title": "Condition-based maintenance in hydroelectric plants: A systematic literature review",
+      "venue": "Proceedings of the Institution of Mechanical Engineers. Part O, Journal of risk and reliability",
+      "year": 2021,
+      "referenceCount": 99,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://mpra.ub.uni-muenchen.de/115912/1/MPRA_paper_115912.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1748006X211035623?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1748006X211035623, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2021-07-27",
+      "journal": {
+        "name": "Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability",
+        "pages": "631 - 646",
+        "volume": "236"
+      },
+      "authors": [
+        {
+          "authorId": "2076084310",
+          "name": "Rodrigo Barbosa de Santis"
+        },
+        {
+          "authorId": "2089403132",
+          "name": "Tiago Silveira Gontijo"
+        },
+        {
+          "authorId": "2796316",
+          "name": "M. Costa"
+        }
+      ],
+      "abstract": "Industrial maintenance has become an essential strategic factor for profit and productivity in industrial systems. In the modern industrial context, condition-based maintenance guides the interventions and repairs according to the machine\u2019s health status, calculated from monitoring variables and using statistical and computational techniques. Although several literature reviews address condition-based maintenance, no study discusses the application of these techniques in the hydroelectric sector, a fundamental source of renewable energy. We conducted a systematic literature review of articles published in the area of condition-based maintenance in the last 10\u2009years. This was followed by quantitative and thematic analyses of the most relevant categories that compose the phases of condition-based maintenance. We identified a research trend in the application of machine learning techniques, both in the diagnosis and the prognosis of the generating unit\u2019s assets, being vibration the most frequently discussed monitoring variable. Finally, there is a vast field to be explored regarding the application of statistical models to estimate the useful life, and hybrid models based on physical models and specialists\u2019 knowledge, of turbine-generators."
+    },
+    {
+      "paperId": "b9c4278d6b26fd952abac51e76d382c90ac80dbd",
+      "externalIds": {
+        "DOI": "10.3390/electronics13081545",
+        "CorpusId": 269263449
+      },
+      "url": "https://www.semanticscholar.org/paper/b9c4278d6b26fd952abac51e76d382c90ac80dbd",
+      "title": "On the Use of Indirect Measurements in Virtual Sensors for Renewable Energies: A Review",
+      "venue": "Electronics",
+      "year": 2024,
+      "referenceCount": 99,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2079-9292/13/8/1545/pdf?version=1713441772",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/electronics13081545?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/electronics13081545, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-04-18",
+      "journal": {
+        "name": "Electronics"
+      },
+      "authors": [
+        {
+          "authorId": "2297567810",
+          "name": "Abderraouf Benabdesselam"
+        },
+        {
+          "authorId": "1395159854",
+          "name": "Q. Dollon"
+        },
+        {
+          "authorId": "50203462",
+          "name": "R. Zemouri"
+        },
+        {
+          "authorId": "2288637254",
+          "name": "Francis Pelletier"
+        },
+        {
+          "authorId": "2238258228",
+          "name": "Martin Gagnon"
+        },
+        {
+          "authorId": "2238050342",
+          "name": "Antoine Tahan"
+        }
+      ],
+      "abstract": "In the dynamic landscape of renewable energy, the primary goal continues to be the enhancement of competitiveness through the implementation of cutting-edge technologies. This requires a strategic focus on reducing energy costs and maximizing system performance. Within this framework, the continuous online monitoring of assets is essential for efficient operations, by conducting measurements that describe the condition of various components. However, the execution of these measurements can present technical and economic obstacles. To overcome these challenges, the implementation of indirect measurement techniques emerges as a viable solution. By leveraging measurements obtained in easily accessible areas, these methods enable the estimation of quantities in regions that would otherwise be inaccessible. This approach improves the monitoring process\u2019s efficiency and provides previously unattainable information. Adopting indirect measurement techniques is also cost-effective, allowing the replacement of expensive sensors with existing infrastructure, which cuts down on installation costs and labor. This paper offers a detailed state-of-the-art review by providing an in-depth examination and classification of indirect measurement techniques and virtual sensing methods applied in the field of renewable energies. It also identifies and discusses the existing challenges and limitations within this topic and explores potential future developments."
+    },
+    {
+      "paperId": "c4efa6be324f221b4170eed28846ef76360f19e3",
+      "externalIds": {
+        "DOI": "10.9734/jerr/2025/v27i21402",
+        "CorpusId": 276028265
+      },
+      "url": "https://www.semanticscholar.org/paper/c4efa6be324f221b4170eed28846ef76360f19e3",
+      "title": "Optimizing Resource Allocation with Predictive Analytics: A Review of Data-Driven Approaches to Operational Efficiency",
+      "venue": "Journal of Engineering Research and Reports",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.9734/jerr/2025/v27i21402",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.9734/jerr/2025/v27i21402?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jerr/2025/v27i21402, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Predictive analytics' transformative potential for resource management is highlighted, providing actionable insights to help organizations navigate dynamic environments and best practices identified include integrating predictive models with existing systems and fostering a data-oriented organizational culture."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2025-01-30",
+      "journal": {
+        "name": "Journal of Engineering Research and Reports"
+      },
+      "authors": [
+        {
+          "authorId": "2343171992",
+          "name": "Saugat Nayak"
+        }
+      ],
+      "abstract": "Managing resources is crucial in increasing capacity utilization, reducing expenses, and increasing revenue in the current world economy. Analytical techniques, rooted in historical context, machine learning, and statistical models, provide innovative approaches to resource management in industries such as healthcare, retail, manufacturing, and energy. This paper explores predictive analytics through key methodologies, including time series forecasting, regression analysis, clustering, and optimization, to enhance resource distribution and decision-making tools. Forecasting enables more effective, efficient, and less risky planning by allowing organizations to prepare for expected demand, workload, and disruptions in supply and demand, workforce distribution, inventory, and assets. By addressing challenges such as overstocking, overstaffing, or resource shortages, organizations can optimize operations. Key applications include workforce management, inventory management, supply chain management, and condition monitoring or predictive maintenance. The advantages, such as cost reduction, increased productivity, and improved customer satisfaction, are supported with practical examples. However, challenges such as data quality, model interpretability, and scalability remain significant barriers to broader adoption. Best practices identified include integrating predictive models with existing systems and fostering a data-oriented organizational culture. With advancements in technologies such as Artificial Intelligence and Deep Learning, predictive analytics remains central to digital transformation by enabling timely and adaptive resource allocation. This study underscores predictive analytics' transformative potential for resource management, providing actionable insights to help organizations navigate dynamic environments."
+    },
+    {
+      "paperId": "c6dd681c2ec1412b2ff3a3cae384672ff21a4dd2",
+      "externalIds": {
+        "DOI": "10.3390/en16176172",
+        "CorpusId": 261192402
+      },
+      "url": "https://www.semanticscholar.org/paper/c6dd681c2ec1412b2ff3a3cae384672ff21a4dd2",
+      "title": "Subsea Power Cable Health Management Using Machine Learning Analysis of Low-Frequency Wide-Band Sonar Data",
+      "venue": "Energies",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/16/17/6172/pdf?version=1692945105",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en16176172?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en16176172, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper developed low-frequency wide-band sonar technology to collect acoustic response data from different subsea power cable sample types, with different inner structure configurations, and collate signatures from induced physical failure modes as to obtain integrity data at various cable degradation levels, and demonstrates how a machine learning approach can be used for integrity analysis under a hybrid, holistic condition monitoring framework."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-08-25",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "2043114",
+          "name": "Wenshuo Tang"
+        },
+        {
+          "authorId": "2233871938",
+          "name": "Keith Brown"
+        },
+        {
+          "authorId": "152475966",
+          "name": "D. Mitchell"
+        },
+        {
+          "authorId": "145347282",
+          "name": "J. Blanche"
+        },
+        {
+          "authorId": "2111999005",
+          "name": "D. Flynn"
+        }
+      ],
+      "abstract": "Subsea power cables are critical assets for electrical transmission and distribution networks, and highly relevant to regional, national, and international energy security and decarbonization given the growth in offshore renewable energy generation. Existing condition monitoring techniques are restricted to highly constrained online monitoring systems that only prioritize internal failure modes, representing only 30% of cable failure mechanisms, and has limited capacity to provide precursor indicators of such failures or damages. To overcome these limitations, we propose an innovative fusion prognostics approach that can provide the in situ integrity analysis of the subsea cable. In this paper, we developed low-frequency wide-band sonar (LFWBS) technology to collect acoustic response data from different subsea power cable sample types, with different inner structure configurations, and collate signatures from induced physical failure modes as to obtain integrity data at various cable degradation levels. We demonstrate how a machine learning approach, e.g., SVM, KNN, BP, and CNN algorithms, can be used for integrity analysis under a hybrid, holistic condition monitoring framework. The results of data analysis demonstrate the ability to distinguish subsea cables by differences of 5 mm in diameter and cable types, as well as achieving an overall 95%+ accuracy rate to detect different cable degradation stages. We also present a tailored, hybrid prognostic and health management solution for subsea cables, for cable remaining useful life (RUL) prediction. Our findings addresses a clear capability and knowledge gap in evaluating and forecasting subsea cable RUL. Thus, supporting a more advanced asset management and planning capability for critical subsea power cables."
+    },
+    {
+      "paperId": "4c17cb18928a613a2834f2b4107faac62ea2c434",
+      "externalIds": {
+        "DOI": "10.26480/egnes.02.2023.84.95",
+        "CorpusId": 266921996
+      },
+      "url": "https://www.semanticscholar.org/paper/4c17cb18928a613a2834f2b4107faac62ea2c434",
+      "title": "ADVANCING OFFSHORE OIL AND GAS FACILITIES: A COMPREHENSIVE REVIEW OF INNOVATIVE MAINTENANCE STRATEGIES FOR ENHANCED RELIABILITY AND EFFICIENCY",
+      "venue": "Economic Growth and Environment Sustainability",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.26480/egnes.02.2023.84.95",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.26480/egnes.02.2023.84.95?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26480/egnes.02.2023.84.95, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "Economic Growth and Environment Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "2278910560",
+          "name": "Joachim Osheyor Gidiagba"
+        },
+        {
+          "authorId": "2238692070",
+          "name": "Chibuike Daraojimba"
+        },
+        {
+          "authorId": "2278911365",
+          "name": "Oluwaseun Ayo Ogunjobi"
+        },
+        {
+          "authorId": "2278915227",
+          "name": "Kelechi Anthony Ofonagoro"
+        },
+        {
+          "authorId": "2278937475",
+          "name": "Akeeb Adepoju Fawole"
+        }
+      ],
+      "abstract": "The offshore oil and gas industry plays a crucial role in meeting global energy demands by providing reliable and efficient operations for offshore facilities. This comprehensive review explores various innovative maintenance strategies aimed at enhancing reliability and efficiency in the industry. The article emphasizes the significance of maintenance for offshore operations and delves into different innovative strategies. Condition-Based Maintenance (CBM) techniques enable proactive monitoring of equipment health, optimizing maintenance schedules, and reducing unscheduled downtime. Predictive maintenance, powered by data analytics and machine learning, allows for the prediction of potential failures and prioritization of maintenance activities. Prognostics and Health Management (PHM) systems facilitate early fault detection and preventive actions, enhancing asset reliability. Reliability-Centered Maintenance (RCM) approaches focus maintenance efforts on critical assets, ensuring efficient resource allocation. The integration of robotics and automation revolutionizes inspection, repair, and maintenance activities, reducing human intervention and enhancing safety. Digital twins, virtual replicas of physical assets, enable simulation and optimization of maintenance processes. Despite the immense potential of these innovative maintenance strategies, implementation faces challenges such as technological complexity, economic considerations, and regulatory compliance. Looking ahead, the industry\u2019s focus on sustainability and the global energy transition will drive maintenance practices that minimize environmental impact. Renewable energy integration, emission reduction efforts, and sustainable asset lifecycle management will shape future maintenance approaches. Embracing digital transformation and investing in workforce training are crucial for unlocking the full potential of innovative maintenance strategies. In conclusion, this comprehensive review highlights the diverse landscape of innovative maintenance strategies available to offshore oil and gas facilities. By embracing these transformative approaches, operators can elevate reliability, efficiency, and safety, ensuring sustainable operations amid dynamic industry demands."
+    },
+    {
+      "paperId": "e7cc4b9caceb9d1aa1889160208e053febb89dc1",
+      "externalIds": {
+        "DOI": "10.1109/SWC57546.2023.10448628",
+        "CorpusId": 268097216
+      },
+      "url": "https://www.semanticscholar.org/paper/e7cc4b9caceb9d1aa1889160208e053febb89dc1",
+      "title": "Automated Faults Diagnosis Framework for Rotating Machines Under Combined Faults Scenarios",
+      "venue": "2023 IEEE Smart World Congress (SWC)",
+      "year": 2023,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SWC57546.2023.10448628?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SWC57546.2023.10448628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study considers 4 distinct cases of which 3 are singular (i.e. healthy baseline, bent shaft and shaft rub) and a combined bent-rub case, which forms a smart fault detection and diagnosis framework."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2023-08-28",
+      "journal": {
+        "name": "2023 IEEE Smart World Congress (SWC)",
+        "pages": "1-8"
+      },
+      "authors": [
+        {
+          "authorId": "2248228368",
+          "name": "Ruifeng Cao"
+        },
+        {
+          "authorId": "1404794026",
+          "name": "A. Yunusa\u2010Kaltungo"
+        }
+      ],
+      "abstract": "Ongoing technological advancements have made it possible to design very compact industrial rotating machines that offer significantly better performances with regards to conservation of energy and materials. Consequently, such compactness implies that several failure modes are becoming more intertwined, thereby increasing downtime associated with faults classification and diagnosis. Data fusion approaches such as coherent composite spectra (CCS) and poly coherent composite spectra (pCCS) have proven very useful for reducing overall faults classification times through the harmonisation of condition monitoring data from multiple locations into a single CCS or pCCS. This approach has made it possible for owners of physical industrial assets (PIA) to swiftly ascertain the condition of their assets without necessarily possessing significant expertise in rotating machine condition monitoring. As useful as the results of the techniques are, they have been solely applied for individualized or singular faults. However, rotating machines faults seldom occur in isolation, which makes it imperative to examine the proficiency of CCS and pCCS features under combined faults scenarios. This study considers 4 distinct cases of which 3 are singular (i.e. healthy baseline, bent shaft and shaft rub) and a combined bent-rub case. CCS data fusion was initially used to rationalize measured vibration data from all sensor locations, after which principal component analysis (PCA) and kernel principal component analysis (KPCA) are used to reduce output data dimensionality. Finally, the most representative features are then automatically classified using artificial neural network (ANN). The above steps are integrated to form a smart fault detection and diagnosis framework. Details of the approach and results obtained are described in the paper."
+    },
+    {
+      "paperId": "f8ef8d9bcd0730d6b367b29b5b0cccb4be17932d",
+      "externalIds": {
+        "MAG": "1571464742",
+        "DOI": "10.4236/JGIS.2015.74028",
+        "CorpusId": 128852331
+      },
+      "url": "https://www.semanticscholar.org/paper/f8ef8d9bcd0730d6b367b29b5b0cccb4be17932d",
+      "title": "GIS Enabled Condition Based Asset Management of Gas Distribution Network: A Case Study of Shahdara, Lahore Pakistan",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=58651",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.4236/JGIS.2015.74028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4236/JGIS.2015.74028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Environmental Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Geography",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2015-07-17",
+      "journal": {
+        "name": "Journal of Geographic Information System",
+        "pages": "358-368",
+        "volume": "7"
+      },
+      "authors": [
+        {
+          "authorId": "46795049",
+          "name": "Z. Islam"
+        },
+        {
+          "authorId": "34508542",
+          "name": "S. Ahmad"
+        },
+        {
+          "authorId": "104858271",
+          "name": "Khurram Chohan"
+        },
+        {
+          "authorId": "2552671",
+          "name": "A. Ashraf"
+        }
+      ],
+      "abstract": "World energy consumption \nincreased by 56 percent, from 524 quadrillion Btu in 2010 to 820 quadrillion \nBtu in 2040. The increased demand in energy consumption is fulfilled by \ndifferent renewable and non-renewable sources such as petroleum, natural gas, \nelectricity, nuclear etc. Natural gas is one of the most important sources of \nenergy. SNGPL has been managing a 94,263 km long gas pipelines network covering \napproximately the northern part of Pakistan. In this paper we have presented \nthe use of condition based maintenance (CBM) management techniques with a\u00a0geographical information system (GIS) \nfor asset management of a gas distribution network of\u00a0SNGPL. The continuous monitoring and \nupdating of asset data reveal where the assets are located and which needs \nmaintenance or which lies in critical condition. The system helps to save time \nand reduce visits to the sites and labour reduction."
+    },
+    {
+      "paperId": "0f76d7e3db6ee9cd9149fc7744eb75091e2535c7",
+      "externalIds": {
+        "DOI": "10.1109/RAMS51457.2022.9893960",
+        "CorpusId": 252409983
+      },
+      "url": "https://www.semanticscholar.org/paper/0f76d7e3db6ee9cd9149fc7744eb75091e2535c7",
+      "title": "Improving the Reliability of a Critical Pump by Reducing Resonance Using Four Methodologies.",
+      "venue": "Reliability and Maintainability Symposium",
+      "year": 2022,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/RAMS51457.2022.9893960?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RAMS51457.2022.9893960, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2022-01-24",
+      "journal": {
+        "name": "2022 Annual Reliability and Maintainability Symposium (RAMS)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "97270620",
+          "name": "M. Aladesaye"
+        },
+        {
+          "authorId": "2185612654",
+          "name": "Priscilla Aladesaye"
+        },
+        {
+          "authorId": "2185620649",
+          "name": "Lukasz Stepien"
+        },
+        {
+          "authorId": "2185614083",
+          "name": "Mark Elverd"
+        }
+      ],
+      "abstract": "In the largest Australian-owned Brewery, loss of production can occur due to stoppages of critical pumps. The reliability team of this plant ensures the availability of assets using vibration condition monitoring. One of the critical assets, an energy store delivery pump, suffered bearing failures between two and three times a year because of high vibration due to resonance forcing frequency. Previous attempts to resolve the problem by different contractors by adding support structures were unsuccessful leading to further review and investigation. This paper describes how we used a combination of four techniques including vibration analysis, finite element analysis, motion amplification camera, and mathematical approach to address the resonance issue. Vibration data was collected on the bearings of the motor and pump, the spectrum showed resonance at forcing frequencies of 18 Hz and 50 Hz as the root cause of the high vibration. The pipe\u2019s supports were modelled in a CAD package, and a Finite Element Analysis program calculated the natural frequencies and their mode shapes. The natural frequencies were also calculated, using a five degree of freedom model of cantilever beams, to verify the results. A Motion Amplification Camera also measured the resonant modes of the base structure of the pump, the pipe, and the support frames. The values of the natural frequencies from the FEA, calculations, and MAC validate the results. We found that the natural frequency of the structure was close to the running speed of the pump. Data from these techniques was used to design new supports. The stiffness of the structure was increased by replacing the square section supports (80x80 mm) with I-beams (150 x 150 mm) and adding angle sections diagonally for triangulation. The overall vibration across the asset was reduced by 98% to an acceptable level. The pump bearings have not failed since the new frame was installed, increasing the reliability of the asset for production."
+    },
+    {
+      "paperId": "545bfc54b0497fdf42a7150e1f31d6bb1ffc3aca",
+      "externalIds": {
+        "MAG": "3097777814",
+        "DOI": "10.36001/PHMCONF.2020.V12I1.1274",
+        "CorpusId": 226288882
+      },
+      "url": "https://www.semanticscholar.org/paper/545bfc54b0497fdf42a7150e1f31d6bb1ffc3aca",
+      "title": "Contending Remaining Useful Life Algorithms",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 4,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.36001/phmconf.2020.v12i1.1274",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.36001/PHMCONF.2020.V12I1.1274?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36001/PHMCONF.2020.V12I1.1274, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Materials Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2020-11-03",
+      "journal": {
+        "name": "",
+        "pages": "9-9",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "3278303",
+          "name": "Eric Bechhoefer"
+        },
+        {
+          "authorId": "2069015500",
+          "name": "M. Dube"
+        }
+      ],
+      "abstract": "Operational readiness, reliability and safety are all enhanced through condition monitoring. That said, for many assets, there is still a need for a prognostic capability to calculate remaining useful life (RUL). RUL allows operation and maintenance personnel to better schedule assets, and logisticians to order long lead time part to help improve balance of plant/asset availability. While a number of RUL techniques have been reported, we have focused on fatigue crack growth models (as opposed to physics or deep learning of based models). This paper compares the performance of stress intensity models (linear elastic model, e.g. Paris\u2019 Law), to Head\u2019s theory (geomatical similarity hypothesis) and to Dislocation/Energy theories of crack growth. It will be shown that these models differ mainly in the crack growth exponent, and that this leads to large differences in the estimation of RUL during early state fault propagation, though the results of all three models converge as the RUL is shorted."
+    },
+    {
+      "paperId": "e4211d96135781a808b65295890f8415ede35572",
+      "externalIds": {
+        "MAG": "2981651038",
+        "DOI": "10.1088/1742-6596/1356/1/012009",
+        "CorpusId": 210627783
+      },
+      "url": "https://www.semanticscholar.org/paper/e4211d96135781a808b65295890f8415ede35572",
+      "title": "Operation of aerial inspections vehicles in HVDC environments Part A: Evaluation and mitigation of high electrostatic field impact",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 4,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1742-6596/1356/1/012009",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1356/1/012009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1356/1/012009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Environmental Science",
+        "Physics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "external"
+        },
+        {
+          "category": "Physics",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2019-10-01",
+      "journal": {
+        "name": "Journal of Physics: Conference Series",
+        "volume": "1356"
+      },
+      "authors": [
+        {
+          "authorId": "2153411",
+          "name": "M. Heggo"
+        },
+        {
+          "authorId": "31447524",
+          "name": "K. Kabbabe"
+        },
+        {
+          "authorId": "46263715",
+          "name": "V. Peesapati"
+        },
+        {
+          "authorId": "2056084594",
+          "name": "R. Gardner"
+        },
+        {
+          "authorId": "2055788344",
+          "name": "S. Watson"
+        },
+        {
+          "authorId": "2723648",
+          "name": "W. Crowther"
+        }
+      ],
+      "abstract": "Offshore high voltage DC (HVDC) wind farms offer a promising solution to growing energy demands in the future. Condition monitoring of substation assets is essential for reliable and resilient operation of electrical networks. Existing condition monitoring techniques for onshore substation and electrical network assets include regular and scheduled on-site visits by trained personnel to substation sites. However, such routine inspection is not a cost-effective solution for offshore sites. In cases where the accessibility to network assets becomes difficult, robotic and autonomous condition monitoring provides a solution. Such a robotic/autonomous solution would need to interact with the surrounding substation environment, without increasing the risk of electrical breakdown and flashovers between different energized components. In Part A of this paper, the effect of high electrostatic fields on an inspection unmanned aerial vehicle (UAV) is analyzed, with respect to: 1) AC corona emissions interference on the UAV, and 2) Air breakdown clearance characteristics. Both simulations and experiment results presented in the paper show the impact of corona emissions interference to both UAV autopilot and actuation sections, which requires a shielding mitigation solution. Also, experiment results show the limited effect of introducing a shielding solution on increasing the flashover risk between valve hall towers."
+    }
+  ]
+}

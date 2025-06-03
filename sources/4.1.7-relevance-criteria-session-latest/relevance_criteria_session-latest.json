@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "task": "4.1.7.4_Angle6",
+    "created_date": "2025-06-03T08:00:00.000000",
+    "source_documents": [
+      "docs/3.1.2-research-direction-selection.md (Angle 6)",
+      "User request to focus on Angle 6"
+    ],
+    "description": "Relevance criteria specifically for Angle 6: Agent Protocol Design for Integrating Human Operator Intent and Oversight in Automated DER Coordination."
+  },
+  "primary_research_focus": {
+    "title": "Angle 6: Agent Protocol Design for Integrating Human Operator Intent and Oversight in Automated DER Coordination",
+    "core_question": "How can agent communication protocols be designed to effectively integrate human operator intent and enable robust oversight in the coordination of automated Distributed Energy Resources (DERs), particularly in maintenance or operational contexts?",
+    "subfocus": "Designing conceptual frameworks, interaction patterns, and communication semantics for human-agent teaming in DER management."
+  },
+  "relevance_dimensions": {
+    "1_human_agent_interaction_oversight": {
+      "weight": 0.35,
+      "description": "Focus on human involvement: intent, oversight, and interaction with agent systems.",
+      "subcriteria": {
+        "operator_intent_goals": {
+          "weight": 0.3,
+          "keywords": ["human operator intent", "user goals", "operator goals", "intent recognition", "goal elicitation", "preference learning", "shared understanding"],
+          "description": "Papers addressing the elicitation, representation, or integration of human operator intent and goals into automated systems."
+        },
+        "human_oversight_supervision": {
+          "weight": 0.3,
+          "keywords": ["human oversight", "supervisory control", "human-in-the-loop control", "monitoring and control", "adjustable autonomy", "levels of automation", "human override"],
+          "description": "Papers focusing on mechanisms for human supervision and oversight of autonomous or automated agent actions."
+        },
+        "human_agent_teaming_collaboration": {
+          "weight": 0.25,
+          "keywords": ["human-agent teaming", "human-agent collaboration", "mixed-initiative systems", "collaborative agents", "joint activity", "shared workspace"],
+          "description": "Papers discussing collaborative models and teaming between humans and agents."
+        },
+        "transparency_explainability_trust": {
+          "weight": 0.15,
+          "keywords": ["transparent AI", "explainable AI", "XAI", "interpretable systems", "trust in automation", "situation awareness", "human-aware AI"],
+          "description": "Papers on making agent decisions understandable and trustworthy to human operators."
+        }
+      }
+    },
+    "2_agent_protocols_communication_for_HMI": {
+      "weight": 0.30,
+      "description": "Agent communication protocols and languages, specifically enabling human interaction and understanding.",
+      "subcriteria": {
+        "protocol_design_for_human_interaction": {
+          "weight": 0.4,
+          "keywords": ["agent communication protocol design", "human-agent communication", "interaction protocols", "dialogue management", "natural language interface for agents", "explainable communication"],
+          "description": "Design of ACPs or interaction patterns explicitly for human-agent communication or human oversight."
+        },
+        "semantic_interoperability_for_humans": {
+          "weight": 0.3,
+          "keywords": ["semantic interoperability", "ontologies for HMI", "shared mental models", "knowledge representation for HMI", "common ground"],
+          "description": "Ensuring agents and humans have a shared understanding of communicated information."
+        },
+        "multi_agent_communication_context": {
+          "weight": 0.3,
+          "keywords": ["multi-agent systems communication", "FIPA", "ACL", "KQML", "distributed agent communication", "coordination languages"],
+          "description": "General MAS communication, but with an eye towards how it could support HMI."
+        }
+      }
+    },
+    "3_der_lifecycle_human_involvement": {
+      "weight": 0.15,
+      "description": "Relevance to human involvement across the DER lifecycle, including installation, operations, maintenance, decommissioning, and the context of automated DER coordination.",
+      "subcriteria": {
+        "der_installation_construction_human_factors": {
+          "weight": 0.2,
+          "keywords": ["DER installation", "DER construction", "renewable energy site assessment", "renewable energy civil works", "DER component logistics", "DER assembly", "grid interconnection manual work", "DER commissioning tasks", "renewable energy skilled labor", "technician DER installation", "DER project management construction", "human factors in DER construction"],
+          "description": "Papers addressing human roles, manual work, safety, and human factors during the installation and construction phases of DER projects."
+        },
+        "der_operations_maintenance_human_factors": {
+          "weight": 0.3,
+          "keywords": ["DER operations manual tasks", "DER maintenance manual procedures", "renewable energy field inspection", "DER preventive maintenance human factors", "DER corrective maintenance human intervention", "DER troubleshooting human roles", "DER repair procedures", "DER component replacement manual", "energy system overhaul human factors", "DER field service technician", "DER technician tasks", "DER operational safety procedures", "manual control DER", "human factors in DER operations", "human error in energy systems"],
+          "description": "Papers focusing on human involvement in DER operations and maintenance, including manual tasks, field work, safety, human error, and broader human factors considerations, not exclusively limited to HMI/agent systems."
+        },
+        "der_decommissioning_end_of_life_human_factors": {
+          "weight": 0.2,
+          "keywords": ["DER decommissioning", "energy facility dismantling", "renewable energy end-of-life management", "DER salvaging", "DER component disposal", "DER waste management human factors", "hazardous material handling energy sector", "energy site remediation human roles", "human factors in decommissioning", "DER asset retirement planning", "workforce planning for decommissioning", "safety in DER decommissioning"],
+          "description": "Papers on human factors, workforce planning, safety, and manual processes involved in DER decommissioning, dismantling, salvaging, and site remediation."
+        },
+        "der_automated_coordination_context": {
+          "weight": 0.3,
+          "keywords": ["distributed energy resources", "DER coordination", "DER management systems (DERMS)", "microgrid control", "automated grid operations", "energy system management automation", "multi-agent systems for DER"],
+          "description": "Papers focused on the automated coordination and management of DERs, microgrids, and related energy systems where human oversight and agent protocols are relevant."
+        }
+      }
+    },
+    "4_system_properties_safety": {
+        "weight": 0.10,
+        "description": "Broader system properties relevant to human-agent systems.",
+        "subcriteria": {
+            "safety_reliability_in_hmi": {
+                "weight": 0.6,
+                "keywords": ["safety critical systems", "safe human-robot interaction", "reliable HMI", "human factors engineering", "resilient HMI", "fault tolerance HMI"],
+                "description": "Safety and reliability aspects of systems involving human-agent interaction."
+            },
+            "scalability_performance_hmi": {
+                "weight": 0.4,
+                "keywords": ["scalable HMI", "performance of human-agent systems", "efficient human oversight"],
+                "description": "Scalability or performance of HMI systems in complex domains like DER."
+            }
+        }
+    },
+    "5_general_relevance_quality": {
+      "weight": 0.10,
+      "description": "Standard academic relevance and quality indicators.",
+      "subcriteria": {
+        "publication_year": {
+          "weight": 0.4,
+          "scoring_type": "year_based",
+          "scoring": {
+            "2023-2025": 1.0, "2021-2022": 0.8, "2019-2020": 0.6,
+            "2018": 0.4, "2015-2017": 0.2, "before_2015": 0.1
+          },
+          "description": "Recency of the publication."
+        },
+        "citation_count": {
+          "weight": 0.3,
+          "scoring_type": "threshold_based",
+          "thresholds": {"high": ">50 citations", "medium": ">10 citations", "low": "<=10 citations"},
+          "scoring": {"high": 1.0, "medium": 0.6, "low": 0.2},
+          "description": "Impact based on citations (adjusted thresholds for potentially niche field)."
+        },
+        "venue_quality": {
+            "weight": 0.15,
+            "scoring_type": "placeholder",
+            "default_score": 0.5,
+            "keywords": ["ieee transactions", "journal of autonomous agents", "top conference", " reputable venue"],
+            "description": "Assumed quality of the publication venue. Keywords are illustrative."
+        },
+        "methodology_framework": {
+          "weight": 0.15,
+          "keywords": ["conceptual framework", "protocol design", "system architecture", "evaluation methodology", "case study", "empirical study"],
+          "description": "Papers presenting clear methodologies, frameworks, or evaluations."
+        }
+      }
+    }
+  }
+} 

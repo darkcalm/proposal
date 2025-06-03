@@ -1,0 +1,888 @@
+{
+  "totalHitsEncounteredAcrossPages": 21432,
+  "retrievedCountForThisQuery": 25,
+  "searchIdentifier": "initial_primary_3",
+  "originalQuery": "Workflow optimization AND human factors in distributed energy system operations",
+  "results": [
+    {
+      "id": 77693089,
+      "doi": null,
+      "title": "High-Performance Integrated Window and Fa\u00e7ade Solutions for California",
+      "abstract": "The researchers developed a new generation of high-performance fa\u00e7ade systems and supporting design and management tools to support industry in meeting California\u2019s greenhouse gas reduction targets, reduce energy consumption, and enable an adaptable response to minimize real-time demands on the electricity grid. The project resulted in five outcomes: (1) The research team developed an R-5, 1-inch thick, triplepane, insulating glass unit with a novel low-conductance aluminum frame. This technology can help significantly reduce residential cooling and heating loads, particularly during the evening. (2) The team developed a prototype of a windowintegrated local ventilation and energy recovery device that provides clean, dry fresh air through the fa\u00e7ade with minimal energy requirements. (3) A daylight-redirecting louver system was prototyped to redirect sunlight 15\u201340 feet from the window. Simulations estimated that lighting energy use could be reduced by 35\u201354 percent without glare. (4) A control system incorporating physics-based equations and a mathematical solver was prototyped and field tested to demonstrate feasibility. Simulations estimated that total electricity costs could be reduced by 9-28 percent on sunny summer days through adaptive control of operable shading and daylighting components and the thermostat compared to state-of-the-art automatic fa\u00e7ade controls in commercial building perimeter zones. (5) Supporting models and tools needed by industry for technology R&amp;D and market transformation activities were validated. Attaining California\u2019s clean energy goals require making a fundamental shift from today\u2019s ad-hoc assemblages of static components to turnkey, intelligent, responsive, integrated building fa\u00e7ade systems. These systems offered significant reductions in energy use, peak demand, and operating cost in California",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Breshears, John"
+        },
+        {
+          "name": "Curcija, Charlie"
+        },
+        {
+          "name": "Deisler-Moroder, David"
+        },
+        {
+          "name": "Fernandes, Luis"
+        },
+        {
+          "name": "Gehbauer, Christoph"
+        },
+        {
+          "name": "Kohler, Christian"
+        },
+        {
+          "name": "Lee, Eleanor"
+        },
+        {
+          "name": "Peng, Jingqing"
+        },
+        {
+          "name": "Selkowitz, Stephen"
+        },
+        {
+          "name": "Thanachareonkit, Anothai"
+        },
+        {
+          "name": "Wang, Taoning"
+        },
+        {
+          "name": "Ward, Gregory"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286728862.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 159741725,
+      "doi": null,
+      "title": "Defining Problem from Solutions: Inverse Reinforcement Learning (IRL)\n  and Its Applications for Next-Generation Networking",
+      "abstract": "Performance optimization is a critical concern in networking, on which Deep\nReinforcement Learning (DRL) has achieved great success. Nonetheless, DRL\ntraining relies on precisely defined reward functions, which formulate the\noptimization objective and indicate the positive/negative progress towards the\noptimal. With the ever-increasing environmental complexity and human\nparticipation in Next-Generation Networking (NGN), defining appropriate reward\nfunctions become challenging. In this article, we explore the applications of\nInverse Reinforcement Learning (IRL) in NGN. Particularly, if DRL aims to find\noptimal solutions to the problem, IRL finds a problem from the optimal\nsolutions, where the optimal solutions are collected from experts, and the\nproblem is defined by reward inference. Specifically, we first formally\nintroduce the IRL technique, including its fundamentals, workflow, and\ndifference from DRL. Afterward, we present the motivations of IRL applications\nin NGN and survey existing studies. Furthermore, to demonstrate the process of\napplying IRL in NGN, we perform a case study about human-centric prompt\nengineering in Generative AI-enabled networks. We demonstrate the effectiveness\nof using both DRL and IRL techniques and prove the superiority of IRL.Comment: 9 page",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-01T01:00:00",
+      "authors": [
+        {
+          "name": "Du, Hongyang"
+        },
+        {
+          "name": "Kang, Jiawen"
+        },
+        {
+          "name": "Kim, Dong In"
+        },
+        {
+          "name": "Liu, Yinqiu"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Xiong, Zehui"
+        },
+        {
+          "name": "Zhang, Ruichen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2404.01583",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17149997,
+      "doi": "10.4204/eptcs.129.18",
+      "title": "The Immune System: the ultimate fractionated cyber-physical system",
+      "abstract": "In this little vision paper we analyze the human immune system from a\ncomputer science point of view with the aim of understanding the architecture\nand features that allow robust, effective behavior to emerge from local sensing\nand actions. We then recall the notion of fractionated cyber-physical systems,\nand compare and contrast this to the immune system. We conclude with some\nchallenges.Comment: In Proceedings Festschrift for Dave Schmidt, arXiv:1309.455",
+      "yearPublished": 2013,
+      "publishedDate": "2013-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "Talcott, Carolyn"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1309.5145",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 29971648,
+      "doi": null,
+      "title": "Optimizing the Cost of an Heterogeneous Distributed Platform",
+      "abstract": "International audienceDistributed platforms become heterogeneous in more and more domains, as heterogeneous computing (HC) onto grids or reconfigurable factories in the industry. For production grids and factories, it is mandatory to control and optimize the economic cost of a such platforms regarding performance objectives. We present in this paper a study which purpose is to optimize the size of such environments depending on the workflow to execute or product to realize. The target platforms are either micro-factories, sized to manufacture products at the micrometric scale, or the heterogeneous computing domain where the key point is to reserve processors of an execution platform onto a grid to compute workflows like medical imaging applications. Thanks to the sizing of the platform, optimal or not, scheduling a workflow in HC environment or a production in the micro-factory is easy because the size of the platform already takes the performance constraints into account. In this paper, we present general results on the platform size optimization. Numerical results are also presented to illustrate 3 cases of our study",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Nicod, Jean-Marc"
+        },
+        {
+          "name": "Philippe, Laurent"
+        },
+        {
+          "name": "Sabbah, Hala"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "",
+      "publisher": "HAL CCSD",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 810336,
+      "doi": null,
+      "title": "Many-Task Computing and Blue Waters",
+      "abstract": "This report discusses many-task computing (MTC) generically and in the\ncontext of the proposed Blue Waters systems, which is planned to be the largest\nNSF-funded supercomputer when it begins production use in 2012. The aim of this\nreport is to inform the BW project about MTC, including understanding aspects\nof MTC applications that can be used to characterize the domain and\nunderstanding the implications of these aspects to middleware and policies.\nMany MTC applications do not neatly fit the stereotypes of high-performance\ncomputing (HPC) or high-throughput computing (HTC) applications. Like HTC\napplications, by definition MTC applications are structured as graphs of\ndiscrete tasks, with explicit input and output dependencies forming the graph\nedges. However, MTC applications have significant features that distinguish\nthem from typical HTC applications. In particular, different engineering\nconstraints for hardware and software must be met in order to support these\napplications. HTC applications have traditionally run on platforms such as\ngrids and clusters, through either workflow systems or parallel programming\nsystems. MTC applications, in contrast, will often demand a short time to\nsolution, may be communication intensive or data intensive, and may comprise\nvery short tasks. Therefore, hardware and software for MTC must be engineered\nto support the additional communication and I/O and must minimize task dispatch\noverheads. The hardware of large-scale HPC systems, with its high degree of\nparallelism and support for intensive communication, is well suited for MTC\napplications. However, HPC systems often lack a dynamic resource-provisioning\nfeature, are not ideal for task communication via the file system, and have an\nI/O system that is not optimized for MTC-style applications. Hence, additional\nsoftware support is likely to be required to gain full benefit from the HPC\nhardware",
+      "yearPublished": 2012,
+      "publishedDate": "2012-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Armstrong, Timothy G."
+        },
+        {
+          "name": "Katz, Daniel S."
+        },
+        {
+          "name": "Wilde, Michael"
+        },
+        {
+          "name": "Wozniak, Justin M."
+        },
+        {
+          "name": "Zhang, Zhao"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1202.3943",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 77693089,
+      "doi": null,
+      "title": "High-Performance Integrated Window and Fa\u00e7ade Solutions for California",
+      "abstract": "The researchers developed a new generation of high-performance fa\u00e7ade systems and supporting design and management tools to support industry in meeting California\u2019s greenhouse gas reduction targets, reduce energy consumption, and enable an adaptable response to minimize real-time demands on the electricity grid. The project resulted in five outcomes: (1) The research team developed an R-5, 1-inch thick, triplepane, insulating glass unit with a novel low-conductance aluminum frame. This technology can help significantly reduce residential cooling and heating loads, particularly during the evening. (2) The team developed a prototype of a windowintegrated local ventilation and energy recovery device that provides clean, dry fresh air through the fa\u00e7ade with minimal energy requirements. (3) A daylight-redirecting louver system was prototyped to redirect sunlight 15\u201340 feet from the window. Simulations estimated that lighting energy use could be reduced by 35\u201354 percent without glare. (4) A control system incorporating physics-based equations and a mathematical solver was prototyped and field tested to demonstrate feasibility. Simulations estimated that total electricity costs could be reduced by 9-28 percent on sunny summer days through adaptive control of operable shading and daylighting components and the thermostat compared to state-of-the-art automatic fa\u00e7ade controls in commercial building perimeter zones. (5) Supporting models and tools needed by industry for technology R&amp;D and market transformation activities were validated. Attaining California\u2019s clean energy goals require making a fundamental shift from today\u2019s ad-hoc assemblages of static components to turnkey, intelligent, responsive, integrated building fa\u00e7ade systems. These systems offered significant reductions in energy use, peak demand, and operating cost in California",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Breshears, John"
+        },
+        {
+          "name": "Curcija, Charlie"
+        },
+        {
+          "name": "Deisler-Moroder, David"
+        },
+        {
+          "name": "Fernandes, Luis"
+        },
+        {
+          "name": "Gehbauer, Christoph"
+        },
+        {
+          "name": "Kohler, Christian"
+        },
+        {
+          "name": "Lee, Eleanor"
+        },
+        {
+          "name": "Peng, Jingqing"
+        },
+        {
+          "name": "Selkowitz, Stephen"
+        },
+        {
+          "name": "Thanachareonkit, Anothai"
+        },
+        {
+          "name": "Wang, Taoning"
+        },
+        {
+          "name": "Ward, Gregory"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286728862.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 159741725,
+      "doi": null,
+      "title": "Defining Problem from Solutions: Inverse Reinforcement Learning (IRL)\n  and Its Applications for Next-Generation Networking",
+      "abstract": "Performance optimization is a critical concern in networking, on which Deep\nReinforcement Learning (DRL) has achieved great success. Nonetheless, DRL\ntraining relies on precisely defined reward functions, which formulate the\noptimization objective and indicate the positive/negative progress towards the\noptimal. With the ever-increasing environmental complexity and human\nparticipation in Next-Generation Networking (NGN), defining appropriate reward\nfunctions become challenging. In this article, we explore the applications of\nInverse Reinforcement Learning (IRL) in NGN. Particularly, if DRL aims to find\noptimal solutions to the problem, IRL finds a problem from the optimal\nsolutions, where the optimal solutions are collected from experts, and the\nproblem is defined by reward inference. Specifically, we first formally\nintroduce the IRL technique, including its fundamentals, workflow, and\ndifference from DRL. Afterward, we present the motivations of IRL applications\nin NGN and survey existing studies. Furthermore, to demonstrate the process of\napplying IRL in NGN, we perform a case study about human-centric prompt\nengineering in Generative AI-enabled networks. We demonstrate the effectiveness\nof using both DRL and IRL techniques and prove the superiority of IRL.Comment: 9 page",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-01T01:00:00",
+      "authors": [
+        {
+          "name": "Du, Hongyang"
+        },
+        {
+          "name": "Kang, Jiawen"
+        },
+        {
+          "name": "Kim, Dong In"
+        },
+        {
+          "name": "Liu, Yinqiu"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Xiong, Zehui"
+        },
+        {
+          "name": "Zhang, Ruichen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2404.01583",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17149997,
+      "doi": "10.4204/eptcs.129.18",
+      "title": "The Immune System: the ultimate fractionated cyber-physical system",
+      "abstract": "In this little vision paper we analyze the human immune system from a\ncomputer science point of view with the aim of understanding the architecture\nand features that allow robust, effective behavior to emerge from local sensing\nand actions. We then recall the notion of fractionated cyber-physical systems,\nand compare and contrast this to the immune system. We conclude with some\nchallenges.Comment: In Proceedings Festschrift for Dave Schmidt, arXiv:1309.455",
+      "yearPublished": 2013,
+      "publishedDate": "2013-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "Talcott, Carolyn"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1309.5145",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 29971648,
+      "doi": null,
+      "title": "Optimizing the Cost of an Heterogeneous Distributed Platform",
+      "abstract": "International audienceDistributed platforms become heterogeneous in more and more domains, as heterogeneous computing (HC) onto grids or reconfigurable factories in the industry. For production grids and factories, it is mandatory to control and optimize the economic cost of a such platforms regarding performance objectives. We present in this paper a study which purpose is to optimize the size of such environments depending on the workflow to execute or product to realize. The target platforms are either micro-factories, sized to manufacture products at the micrometric scale, or the heterogeneous computing domain where the key point is to reserve processors of an execution platform onto a grid to compute workflows like medical imaging applications. Thanks to the sizing of the platform, optimal or not, scheduling a workflow in HC environment or a production in the micro-factory is easy because the size of the platform already takes the performance constraints into account. In this paper, we present general results on the platform size optimization. Numerical results are also presented to illustrate 3 cases of our study",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Nicod, Jean-Marc"
+        },
+        {
+          "name": "Philippe, Laurent"
+        },
+        {
+          "name": "Sabbah, Hala"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "",
+      "publisher": "HAL CCSD",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 810336,
+      "doi": null,
+      "title": "Many-Task Computing and Blue Waters",
+      "abstract": "This report discusses many-task computing (MTC) generically and in the\ncontext of the proposed Blue Waters systems, which is planned to be the largest\nNSF-funded supercomputer when it begins production use in 2012. The aim of this\nreport is to inform the BW project about MTC, including understanding aspects\nof MTC applications that can be used to characterize the domain and\nunderstanding the implications of these aspects to middleware and policies.\nMany MTC applications do not neatly fit the stereotypes of high-performance\ncomputing (HPC) or high-throughput computing (HTC) applications. Like HTC\napplications, by definition MTC applications are structured as graphs of\ndiscrete tasks, with explicit input and output dependencies forming the graph\nedges. However, MTC applications have significant features that distinguish\nthem from typical HTC applications. In particular, different engineering\nconstraints for hardware and software must be met in order to support these\napplications. HTC applications have traditionally run on platforms such as\ngrids and clusters, through either workflow systems or parallel programming\nsystems. MTC applications, in contrast, will often demand a short time to\nsolution, may be communication intensive or data intensive, and may comprise\nvery short tasks. Therefore, hardware and software for MTC must be engineered\nto support the additional communication and I/O and must minimize task dispatch\noverheads. The hardware of large-scale HPC systems, with its high degree of\nparallelism and support for intensive communication, is well suited for MTC\napplications. However, HPC systems often lack a dynamic resource-provisioning\nfeature, are not ideal for task communication via the file system, and have an\nI/O system that is not optimized for MTC-style applications. Hence, additional\nsoftware support is likely to be required to gain full benefit from the HPC\nhardware",
+      "yearPublished": 2012,
+      "publishedDate": "2012-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Armstrong, Timothy G."
+        },
+        {
+          "name": "Katz, Daniel S."
+        },
+        {
+          "name": "Wilde, Michael"
+        },
+        {
+          "name": "Wozniak, Justin M."
+        },
+        {
+          "name": "Zhang, Zhao"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1202.3943",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 77693089,
+      "doi": null,
+      "title": "High-Performance Integrated Window and Fa\u00e7ade Solutions for California",
+      "abstract": "The researchers developed a new generation of high-performance fa\u00e7ade systems and supporting design and management tools to support industry in meeting California\u2019s greenhouse gas reduction targets, reduce energy consumption, and enable an adaptable response to minimize real-time demands on the electricity grid. The project resulted in five outcomes: (1) The research team developed an R-5, 1-inch thick, triplepane, insulating glass unit with a novel low-conductance aluminum frame. This technology can help significantly reduce residential cooling and heating loads, particularly during the evening. (2) The team developed a prototype of a windowintegrated local ventilation and energy recovery device that provides clean, dry fresh air through the fa\u00e7ade with minimal energy requirements. (3) A daylight-redirecting louver system was prototyped to redirect sunlight 15\u201340 feet from the window. Simulations estimated that lighting energy use could be reduced by 35\u201354 percent without glare. (4) A control system incorporating physics-based equations and a mathematical solver was prototyped and field tested to demonstrate feasibility. Simulations estimated that total electricity costs could be reduced by 9-28 percent on sunny summer days through adaptive control of operable shading and daylighting components and the thermostat compared to state-of-the-art automatic fa\u00e7ade controls in commercial building perimeter zones. (5) Supporting models and tools needed by industry for technology R&amp;D and market transformation activities were validated. Attaining California\u2019s clean energy goals require making a fundamental shift from today\u2019s ad-hoc assemblages of static components to turnkey, intelligent, responsive, integrated building fa\u00e7ade systems. These systems offered significant reductions in energy use, peak demand, and operating cost in California",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Breshears, John"
+        },
+        {
+          "name": "Curcija, Charlie"
+        },
+        {
+          "name": "Deisler-Moroder, David"
+        },
+        {
+          "name": "Fernandes, Luis"
+        },
+        {
+          "name": "Gehbauer, Christoph"
+        },
+        {
+          "name": "Kohler, Christian"
+        },
+        {
+          "name": "Lee, Eleanor"
+        },
+        {
+          "name": "Peng, Jingqing"
+        },
+        {
+          "name": "Selkowitz, Stephen"
+        },
+        {
+          "name": "Thanachareonkit, Anothai"
+        },
+        {
+          "name": "Wang, Taoning"
+        },
+        {
+          "name": "Ward, Gregory"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286728862.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 159741725,
+      "doi": null,
+      "title": "Defining Problem from Solutions: Inverse Reinforcement Learning (IRL)\n  and Its Applications for Next-Generation Networking",
+      "abstract": "Performance optimization is a critical concern in networking, on which Deep\nReinforcement Learning (DRL) has achieved great success. Nonetheless, DRL\ntraining relies on precisely defined reward functions, which formulate the\noptimization objective and indicate the positive/negative progress towards the\noptimal. With the ever-increasing environmental complexity and human\nparticipation in Next-Generation Networking (NGN), defining appropriate reward\nfunctions become challenging. In this article, we explore the applications of\nInverse Reinforcement Learning (IRL) in NGN. Particularly, if DRL aims to find\noptimal solutions to the problem, IRL finds a problem from the optimal\nsolutions, where the optimal solutions are collected from experts, and the\nproblem is defined by reward inference. Specifically, we first formally\nintroduce the IRL technique, including its fundamentals, workflow, and\ndifference from DRL. Afterward, we present the motivations of IRL applications\nin NGN and survey existing studies. Furthermore, to demonstrate the process of\napplying IRL in NGN, we perform a case study about human-centric prompt\nengineering in Generative AI-enabled networks. We demonstrate the effectiveness\nof using both DRL and IRL techniques and prove the superiority of IRL.Comment: 9 page",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-01T01:00:00",
+      "authors": [
+        {
+          "name": "Du, Hongyang"
+        },
+        {
+          "name": "Kang, Jiawen"
+        },
+        {
+          "name": "Kim, Dong In"
+        },
+        {
+          "name": "Liu, Yinqiu"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Xiong, Zehui"
+        },
+        {
+          "name": "Zhang, Ruichen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2404.01583",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17149997,
+      "doi": "10.4204/eptcs.129.18",
+      "title": "The Immune System: the ultimate fractionated cyber-physical system",
+      "abstract": "In this little vision paper we analyze the human immune system from a\ncomputer science point of view with the aim of understanding the architecture\nand features that allow robust, effective behavior to emerge from local sensing\nand actions. We then recall the notion of fractionated cyber-physical systems,\nand compare and contrast this to the immune system. We conclude with some\nchallenges.Comment: In Proceedings Festschrift for Dave Schmidt, arXiv:1309.455",
+      "yearPublished": 2013,
+      "publishedDate": "2013-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "Talcott, Carolyn"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1309.5145",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 29971648,
+      "doi": null,
+      "title": "Optimizing the Cost of an Heterogeneous Distributed Platform",
+      "abstract": "International audienceDistributed platforms become heterogeneous in more and more domains, as heterogeneous computing (HC) onto grids or reconfigurable factories in the industry. For production grids and factories, it is mandatory to control and optimize the economic cost of a such platforms regarding performance objectives. We present in this paper a study which purpose is to optimize the size of such environments depending on the workflow to execute or product to realize. The target platforms are either micro-factories, sized to manufacture products at the micrometric scale, or the heterogeneous computing domain where the key point is to reserve processors of an execution platform onto a grid to compute workflows like medical imaging applications. Thanks to the sizing of the platform, optimal or not, scheduling a workflow in HC environment or a production in the micro-factory is easy because the size of the platform already takes the performance constraints into account. In this paper, we present general results on the platform size optimization. Numerical results are also presented to illustrate 3 cases of our study",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Nicod, Jean-Marc"
+        },
+        {
+          "name": "Philippe, Laurent"
+        },
+        {
+          "name": "Sabbah, Hala"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "",
+      "publisher": "HAL CCSD",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 810336,
+      "doi": null,
+      "title": "Many-Task Computing and Blue Waters",
+      "abstract": "This report discusses many-task computing (MTC) generically and in the\ncontext of the proposed Blue Waters systems, which is planned to be the largest\nNSF-funded supercomputer when it begins production use in 2012. The aim of this\nreport is to inform the BW project about MTC, including understanding aspects\nof MTC applications that can be used to characterize the domain and\nunderstanding the implications of these aspects to middleware and policies.\nMany MTC applications do not neatly fit the stereotypes of high-performance\ncomputing (HPC) or high-throughput computing (HTC) applications. Like HTC\napplications, by definition MTC applications are structured as graphs of\ndiscrete tasks, with explicit input and output dependencies forming the graph\nedges. However, MTC applications have significant features that distinguish\nthem from typical HTC applications. In particular, different engineering\nconstraints for hardware and software must be met in order to support these\napplications. HTC applications have traditionally run on platforms such as\ngrids and clusters, through either workflow systems or parallel programming\nsystems. MTC applications, in contrast, will often demand a short time to\nsolution, may be communication intensive or data intensive, and may comprise\nvery short tasks. Therefore, hardware and software for MTC must be engineered\nto support the additional communication and I/O and must minimize task dispatch\noverheads. The hardware of large-scale HPC systems, with its high degree of\nparallelism and support for intensive communication, is well suited for MTC\napplications. However, HPC systems often lack a dynamic resource-provisioning\nfeature, are not ideal for task communication via the file system, and have an\nI/O system that is not optimized for MTC-style applications. Hence, additional\nsoftware support is likely to be required to gain full benefit from the HPC\nhardware",
+      "yearPublished": 2012,
+      "publishedDate": "2012-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Armstrong, Timothy G."
+        },
+        {
+          "name": "Katz, Daniel S."
+        },
+        {
+          "name": "Wilde, Michael"
+        },
+        {
+          "name": "Wozniak, Justin M."
+        },
+        {
+          "name": "Zhang, Zhao"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1202.3943",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 77693089,
+      "doi": null,
+      "title": "High-Performance Integrated Window and Fa\u00e7ade Solutions for California",
+      "abstract": "The researchers developed a new generation of high-performance fa\u00e7ade systems and supporting design and management tools to support industry in meeting California\u2019s greenhouse gas reduction targets, reduce energy consumption, and enable an adaptable response to minimize real-time demands on the electricity grid. The project resulted in five outcomes: (1) The research team developed an R-5, 1-inch thick, triplepane, insulating glass unit with a novel low-conductance aluminum frame. This technology can help significantly reduce residential cooling and heating loads, particularly during the evening. (2) The team developed a prototype of a windowintegrated local ventilation and energy recovery device that provides clean, dry fresh air through the fa\u00e7ade with minimal energy requirements. (3) A daylight-redirecting louver system was prototyped to redirect sunlight 15\u201340 feet from the window. Simulations estimated that lighting energy use could be reduced by 35\u201354 percent without glare. (4) A control system incorporating physics-based equations and a mathematical solver was prototyped and field tested to demonstrate feasibility. Simulations estimated that total electricity costs could be reduced by 9-28 percent on sunny summer days through adaptive control of operable shading and daylighting components and the thermostat compared to state-of-the-art automatic fa\u00e7ade controls in commercial building perimeter zones. (5) Supporting models and tools needed by industry for technology R&amp;D and market transformation activities were validated. Attaining California\u2019s clean energy goals require making a fundamental shift from today\u2019s ad-hoc assemblages of static components to turnkey, intelligent, responsive, integrated building fa\u00e7ade systems. These systems offered significant reductions in energy use, peak demand, and operating cost in California",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Breshears, John"
+        },
+        {
+          "name": "Curcija, Charlie"
+        },
+        {
+          "name": "Deisler-Moroder, David"
+        },
+        {
+          "name": "Fernandes, Luis"
+        },
+        {
+          "name": "Gehbauer, Christoph"
+        },
+        {
+          "name": "Kohler, Christian"
+        },
+        {
+          "name": "Lee, Eleanor"
+        },
+        {
+          "name": "Peng, Jingqing"
+        },
+        {
+          "name": "Selkowitz, Stephen"
+        },
+        {
+          "name": "Thanachareonkit, Anothai"
+        },
+        {
+          "name": "Wang, Taoning"
+        },
+        {
+          "name": "Ward, Gregory"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286728862.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 159741725,
+      "doi": null,
+      "title": "Defining Problem from Solutions: Inverse Reinforcement Learning (IRL)\n  and Its Applications for Next-Generation Networking",
+      "abstract": "Performance optimization is a critical concern in networking, on which Deep\nReinforcement Learning (DRL) has achieved great success. Nonetheless, DRL\ntraining relies on precisely defined reward functions, which formulate the\noptimization objective and indicate the positive/negative progress towards the\noptimal. With the ever-increasing environmental complexity and human\nparticipation in Next-Generation Networking (NGN), defining appropriate reward\nfunctions become challenging. In this article, we explore the applications of\nInverse Reinforcement Learning (IRL) in NGN. Particularly, if DRL aims to find\noptimal solutions to the problem, IRL finds a problem from the optimal\nsolutions, where the optimal solutions are collected from experts, and the\nproblem is defined by reward inference. Specifically, we first formally\nintroduce the IRL technique, including its fundamentals, workflow, and\ndifference from DRL. Afterward, we present the motivations of IRL applications\nin NGN and survey existing studies. Furthermore, to demonstrate the process of\napplying IRL in NGN, we perform a case study about human-centric prompt\nengineering in Generative AI-enabled networks. We demonstrate the effectiveness\nof using both DRL and IRL techniques and prove the superiority of IRL.Comment: 9 page",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-01T01:00:00",
+      "authors": [
+        {
+          "name": "Du, Hongyang"
+        },
+        {
+          "name": "Kang, Jiawen"
+        },
+        {
+          "name": "Kim, Dong In"
+        },
+        {
+          "name": "Liu, Yinqiu"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Xiong, Zehui"
+        },
+        {
+          "name": "Zhang, Ruichen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2404.01583",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17149997,
+      "doi": "10.4204/eptcs.129.18",
+      "title": "The Immune System: the ultimate fractionated cyber-physical system",
+      "abstract": "In this little vision paper we analyze the human immune system from a\ncomputer science point of view with the aim of understanding the architecture\nand features that allow robust, effective behavior to emerge from local sensing\nand actions. We then recall the notion of fractionated cyber-physical systems,\nand compare and contrast this to the immune system. We conclude with some\nchallenges.Comment: In Proceedings Festschrift for Dave Schmidt, arXiv:1309.455",
+      "yearPublished": 2013,
+      "publishedDate": "2013-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "Talcott, Carolyn"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1309.5145",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 29971648,
+      "doi": null,
+      "title": "Optimizing the Cost of an Heterogeneous Distributed Platform",
+      "abstract": "International audienceDistributed platforms become heterogeneous in more and more domains, as heterogeneous computing (HC) onto grids or reconfigurable factories in the industry. For production grids and factories, it is mandatory to control and optimize the economic cost of a such platforms regarding performance objectives. We present in this paper a study which purpose is to optimize the size of such environments depending on the workflow to execute or product to realize. The target platforms are either micro-factories, sized to manufacture products at the micrometric scale, or the heterogeneous computing domain where the key point is to reserve processors of an execution platform onto a grid to compute workflows like medical imaging applications. Thanks to the sizing of the platform, optimal or not, scheduling a workflow in HC environment or a production in the micro-factory is easy because the size of the platform already takes the performance constraints into account. In this paper, we present general results on the platform size optimization. Numerical results are also presented to illustrate 3 cases of our study",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Nicod, Jean-Marc"
+        },
+        {
+          "name": "Philippe, Laurent"
+        },
+        {
+          "name": "Sabbah, Hala"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "",
+      "publisher": "HAL CCSD",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 810336,
+      "doi": null,
+      "title": "Many-Task Computing and Blue Waters",
+      "abstract": "This report discusses many-task computing (MTC) generically and in the\ncontext of the proposed Blue Waters systems, which is planned to be the largest\nNSF-funded supercomputer when it begins production use in 2012. The aim of this\nreport is to inform the BW project about MTC, including understanding aspects\nof MTC applications that can be used to characterize the domain and\nunderstanding the implications of these aspects to middleware and policies.\nMany MTC applications do not neatly fit the stereotypes of high-performance\ncomputing (HPC) or high-throughput computing (HTC) applications. Like HTC\napplications, by definition MTC applications are structured as graphs of\ndiscrete tasks, with explicit input and output dependencies forming the graph\nedges. However, MTC applications have significant features that distinguish\nthem from typical HTC applications. In particular, different engineering\nconstraints for hardware and software must be met in order to support these\napplications. HTC applications have traditionally run on platforms such as\ngrids and clusters, through either workflow systems or parallel programming\nsystems. MTC applications, in contrast, will often demand a short time to\nsolution, may be communication intensive or data intensive, and may comprise\nvery short tasks. Therefore, hardware and software for MTC must be engineered\nto support the additional communication and I/O and must minimize task dispatch\noverheads. The hardware of large-scale HPC systems, with its high degree of\nparallelism and support for intensive communication, is well suited for MTC\napplications. However, HPC systems often lack a dynamic resource-provisioning\nfeature, are not ideal for task communication via the file system, and have an\nI/O system that is not optimized for MTC-style applications. Hence, additional\nsoftware support is likely to be required to gain full benefit from the HPC\nhardware",
+      "yearPublished": 2012,
+      "publishedDate": "2012-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Armstrong, Timothy G."
+        },
+        {
+          "name": "Katz, Daniel S."
+        },
+        {
+          "name": "Wilde, Michael"
+        },
+        {
+          "name": "Wozniak, Justin M."
+        },
+        {
+          "name": "Zhang, Zhao"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1202.3943",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 77693089,
+      "doi": null,
+      "title": "High-Performance Integrated Window and Fa\u00e7ade Solutions for California",
+      "abstract": "The researchers developed a new generation of high-performance fa\u00e7ade systems and supporting design and management tools to support industry in meeting California\u2019s greenhouse gas reduction targets, reduce energy consumption, and enable an adaptable response to minimize real-time demands on the electricity grid. The project resulted in five outcomes: (1) The research team developed an R-5, 1-inch thick, triplepane, insulating glass unit with a novel low-conductance aluminum frame. This technology can help significantly reduce residential cooling and heating loads, particularly during the evening. (2) The team developed a prototype of a windowintegrated local ventilation and energy recovery device that provides clean, dry fresh air through the fa\u00e7ade with minimal energy requirements. (3) A daylight-redirecting louver system was prototyped to redirect sunlight 15\u201340 feet from the window. Simulations estimated that lighting energy use could be reduced by 35\u201354 percent without glare. (4) A control system incorporating physics-based equations and a mathematical solver was prototyped and field tested to demonstrate feasibility. Simulations estimated that total electricity costs could be reduced by 9-28 percent on sunny summer days through adaptive control of operable shading and daylighting components and the thermostat compared to state-of-the-art automatic fa\u00e7ade controls in commercial building perimeter zones. (5) Supporting models and tools needed by industry for technology R&amp;D and market transformation activities were validated. Attaining California\u2019s clean energy goals require making a fundamental shift from today\u2019s ad-hoc assemblages of static components to turnkey, intelligent, responsive, integrated building fa\u00e7ade systems. These systems offered significant reductions in energy use, peak demand, and operating cost in California",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Breshears, John"
+        },
+        {
+          "name": "Curcija, Charlie"
+        },
+        {
+          "name": "Deisler-Moroder, David"
+        },
+        {
+          "name": "Fernandes, Luis"
+        },
+        {
+          "name": "Gehbauer, Christoph"
+        },
+        {
+          "name": "Kohler, Christian"
+        },
+        {
+          "name": "Lee, Eleanor"
+        },
+        {
+          "name": "Peng, Jingqing"
+        },
+        {
+          "name": "Selkowitz, Stephen"
+        },
+        {
+          "name": "Thanachareonkit, Anothai"
+        },
+        {
+          "name": "Wang, Taoning"
+        },
+        {
+          "name": "Ward, Gregory"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286728862.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 159741725,
+      "doi": null,
+      "title": "Defining Problem from Solutions: Inverse Reinforcement Learning (IRL)\n  and Its Applications for Next-Generation Networking",
+      "abstract": "Performance optimization is a critical concern in networking, on which Deep\nReinforcement Learning (DRL) has achieved great success. Nonetheless, DRL\ntraining relies on precisely defined reward functions, which formulate the\noptimization objective and indicate the positive/negative progress towards the\noptimal. With the ever-increasing environmental complexity and human\nparticipation in Next-Generation Networking (NGN), defining appropriate reward\nfunctions become challenging. In this article, we explore the applications of\nInverse Reinforcement Learning (IRL) in NGN. Particularly, if DRL aims to find\noptimal solutions to the problem, IRL finds a problem from the optimal\nsolutions, where the optimal solutions are collected from experts, and the\nproblem is defined by reward inference. Specifically, we first formally\nintroduce the IRL technique, including its fundamentals, workflow, and\ndifference from DRL. Afterward, we present the motivations of IRL applications\nin NGN and survey existing studies. Furthermore, to demonstrate the process of\napplying IRL in NGN, we perform a case study about human-centric prompt\nengineering in Generative AI-enabled networks. We demonstrate the effectiveness\nof using both DRL and IRL techniques and prove the superiority of IRL.Comment: 9 page",
+      "yearPublished": 2024,
+      "publishedDate": "2024-04-01T01:00:00",
+      "authors": [
+        {
+          "name": "Du, Hongyang"
+        },
+        {
+          "name": "Kang, Jiawen"
+        },
+        {
+          "name": "Kim, Dong In"
+        },
+        {
+          "name": "Liu, Yinqiu"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Xiong, Zehui"
+        },
+        {
+          "name": "Zhang, Ruichen"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2404.01583",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17149997,
+      "doi": "10.4204/eptcs.129.18",
+      "title": "The Immune System: the ultimate fractionated cyber-physical system",
+      "abstract": "In this little vision paper we analyze the human immune system from a\ncomputer science point of view with the aim of understanding the architecture\nand features that allow robust, effective behavior to emerge from local sensing\nand actions. We then recall the notion of fractionated cyber-physical systems,\nand compare and contrast this to the immune system. We conclude with some\nchallenges.Comment: In Proceedings Festschrift for Dave Schmidt, arXiv:1309.455",
+      "yearPublished": 2013,
+      "publishedDate": "2013-09-01T01:00:00",
+      "authors": [
+        {
+          "name": "Talcott, Carolyn"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1309.5145",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 29971648,
+      "doi": null,
+      "title": "Optimizing the Cost of an Heterogeneous Distributed Platform",
+      "abstract": "International audienceDistributed platforms become heterogeneous in more and more domains, as heterogeneous computing (HC) onto grids or reconfigurable factories in the industry. For production grids and factories, it is mandatory to control and optimize the economic cost of a such platforms regarding performance objectives. We present in this paper a study which purpose is to optimize the size of such environments depending on the workflow to execute or product to realize. The target platforms are either micro-factories, sized to manufacture products at the micrometric scale, or the heterogeneous computing domain where the key point is to reserve processors of an execution platform onto a grid to compute workflows like medical imaging applications. Thanks to the sizing of the platform, optimal or not, scheduling a workflow in HC environment or a production in the micro-factory is easy because the size of the platform already takes the performance constraints into account. In this paper, we present general results on the platform size optimization. Numerical results are also presented to illustrate 3 cases of our study",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Nicod, Jean-Marc"
+        },
+        {
+          "name": "Philippe, Laurent"
+        },
+        {
+          "name": "Sabbah, Hala"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "",
+      "publisher": "HAL CCSD",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 810336,
+      "doi": null,
+      "title": "Many-Task Computing and Blue Waters",
+      "abstract": "This report discusses many-task computing (MTC) generically and in the\ncontext of the proposed Blue Waters systems, which is planned to be the largest\nNSF-funded supercomputer when it begins production use in 2012. The aim of this\nreport is to inform the BW project about MTC, including understanding aspects\nof MTC applications that can be used to characterize the domain and\nunderstanding the implications of these aspects to middleware and policies.\nMany MTC applications do not neatly fit the stereotypes of high-performance\ncomputing (HPC) or high-throughput computing (HTC) applications. Like HTC\napplications, by definition MTC applications are structured as graphs of\ndiscrete tasks, with explicit input and output dependencies forming the graph\nedges. However, MTC applications have significant features that distinguish\nthem from typical HTC applications. In particular, different engineering\nconstraints for hardware and software must be met in order to support these\napplications. HTC applications have traditionally run on platforms such as\ngrids and clusters, through either workflow systems or parallel programming\nsystems. MTC applications, in contrast, will often demand a short time to\nsolution, may be communication intensive or data intensive, and may comprise\nvery short tasks. Therefore, hardware and software for MTC must be engineered\nto support the additional communication and I/O and must minimize task dispatch\noverheads. The hardware of large-scale HPC systems, with its high degree of\nparallelism and support for intensive communication, is well suited for MTC\napplications. However, HPC systems often lack a dynamic resource-provisioning\nfeature, are not ideal for task communication via the file system, and have an\nI/O system that is not optimized for MTC-style applications. Hence, additional\nsoftware support is likely to be required to gain full benefit from the HPC\nhardware",
+      "yearPublished": 2012,
+      "publishedDate": "2012-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Armstrong, Timothy G."
+        },
+        {
+          "name": "Katz, Daniel S."
+        },
+        {
+          "name": "Wilde, Michael"
+        },
+        {
+          "name": "Wozniak, Justin M."
+        },
+        {
+          "name": "Zhang, Zhao"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1202.3943",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

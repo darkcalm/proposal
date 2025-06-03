@@ -1,0 +1,44 @@
+2025-06-03 09:25:45,345 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:25:45,346 - INFO - CORE API Dynamic Search Script - Session 12
+2025-06-03 09:25:45,346 - INFO - Starting CORE API dynamic search: 1 iterations, score threshold 0.3
+2025-06-03 09:25:45,346 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:25:45,346 - INFO - Step 0 - Query 'initial_primary_0' (Page 1): 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with pageSize 10
+2025-06-03 09:25:55,643 - ERROR - Error on page 1 for query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human+operator+challenges+AND+communication+gaps+in+Distributed+Energy+Resource+%28DER%29+operations&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:25:55,643 - ERROR - Response content: 
+2025-06-03 09:25:55,645 - INFO - Step 0 - Query 'initial_primary_1' (Page 1): 'Human-in-the-loop control AND operator decision support for smart grid management...' with pageSize 10
+2025-06-03 09:26:05,829 - ERROR - Error on page 1 for query 'initial_primary_1': 'Human-in-the-loop control AND operator decision support for smart grid management': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human-in-the-loop+control+AND+operator+decision+support+for+smart+grid+management&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:05,829 - ERROR - Response content: 
+2025-06-03 09:26:05,830 - INFO - Step 0 - Query 'initial_primary_2' (Page 1): 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with pageSize 10
+2025-06-03 09:26:16,053 - ERROR - Error on page 1 for query 'initial_primary_2': 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=AI+agent+protocols+for+improving+manual+processes+AND+human-agent+interaction+in+DER+systems&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:16,053 - ERROR - Response content: 
+2025-06-03 09:26:16,053 - INFO - Step 0 - Query 'initial_primary_3' (Page 1): 'Workflow optimization AND human factors in distributed energy system operations...' with pageSize 10
+2025-06-03 09:26:26,197 - ERROR - Error on page 1 for query 'initial_primary_3': 'Workflow optimization AND human factors in distributed energy system operations': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Workflow+optimization+AND+human+factors+in+distributed+energy+system+operations&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:26,198 - ERROR - Response content: 
+2025-06-03 09:26:26,198 - INFO - Step 0 - Query 'initial_primary_4' (Page 1): 'Identifying communication inefficiencies AND opportunities for AI agent assistance in microgrid oper...' with pageSize 10
+2025-06-03 09:26:36,386 - ERROR - Error on page 1 for query 'initial_primary_4': 'Identifying communication inefficiencies AND opportunities for AI agent assistance in microgrid operator tasks': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Identifying+communication+inefficiencies+AND+opportunities+for+AI+agent+assistance+in+microgrid+operator+tasks&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:36,387 - ERROR - Response content: 
+2025-06-03 09:26:36,388 - INFO - Step 0 - Query 'initial_secondary_5' (Page 1): 'Human factors in DER management...' with pageSize 10
+2025-06-03 09:26:46,627 - ERROR - Error on page 1 for query 'initial_secondary_5': 'Human factors in DER management': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Human+factors+in+DER+management&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:46,627 - ERROR - Response content: 
+2025-06-03 09:26:46,628 - INFO - Step 0 - Query 'initial_secondary_6' (Page 1): 'Communication protocols for DER coordination...' with pageSize 10
+2025-06-03 09:26:56,804 - ERROR - Error on page 1 for query 'initial_secondary_6': 'Communication protocols for DER coordination': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Communication+protocols+for+DER+coordination&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:26:56,804 - ERROR - Response content: 
+2025-06-03 09:26:56,805 - INFO - Step 0 - Query 'initial_secondary_7' (Page 1): 'AI agent applications in smart grid operations...' with pageSize 10
+2025-06-03 09:27:07,066 - ERROR - Error on page 1 for query 'initial_secondary_7': 'AI agent applications in smart grid operations': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=AI+agent+applications+in+smart+grid+operations&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:27:07,066 - ERROR - Response content: 
+2025-06-03 09:27:07,066 - INFO - Step 0 - Query 'initial_tertiary_8' (Page 1): 'Operator tools for energy systems...' with pageSize 10
+2025-06-03 09:27:17,243 - ERROR - Error on page 1 for query 'initial_tertiary_8': 'Operator tools for energy systems': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Operator+tools+for+energy+systems&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:27:17,243 - ERROR - Response content: 
+2025-06-03 09:27:17,244 - INFO - Step 0 - Query 'initial_tertiary_9' (Page 1): 'Manual task reduction in DER maintenance...' with pageSize 10
+2025-06-03 09:27:27,500 - ERROR - Error on page 1 for query 'initial_tertiary_9': 'Manual task reduction in DER maintenance': 429 Client Error: Too Many Requests for url: https://api.core.ac.uk/v3/search/works?q=Manual+task+reduction+in+DER+maintenance&pageSize=10&page=1&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:27:27,501 - ERROR - Response content: 
+2025-06-03 09:27:27,502 - INFO - Step 0 found 0 papers (before unique check with overall list).
+2025-06-03 09:27:27,502 - INFO - Total unique papers after step 0: 0
+2025-06-03 09:27:27,502 - INFO - Found 0 papers from step 0 meeting threshold 0.3 for new query generation.
+2025-06-03 09:27:27,502 - INFO - No relevant papers provided to generate new queries.
+2025-06-03 09:27:27,502 - INFO - Generated 0 new queries for step 1.
+2025-06-03 09:27:27,503 - INFO - --- Dynamic Search Step 1 ---
+2025-06-03 09:27:27,503 - INFO - No queries to run in dynamic step 1. Stopping.
+2025-06-03 09:27:27,504 - INFO - Consolidated JSON results for stage 'dynamic_search_complete' saved to sources/4.1.7-core-dynamic-results/session-12/consolidated_dynamic_search_complete_session12.json
+2025-06-03 09:27:27,505 - INFO - Markdown summary report saved to docs/4.1.7.1-core-dynamic-summary-session-12.md
+2025-06-03 09:27:27,505 - INFO - CORE API Dynamic search completed. Found 0 unique papers.

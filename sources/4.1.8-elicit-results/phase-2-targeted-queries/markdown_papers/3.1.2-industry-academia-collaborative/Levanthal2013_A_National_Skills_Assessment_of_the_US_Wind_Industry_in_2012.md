@@ -1,0 +1,4352 @@
+# Levanthal2013 A National Skills Assessment of the U.S. Wind Industry in 2012
+
+## Paper Metadata
+
+- **Filename:** Levanthal2013_A_National_Skills_Assessment_of_the_U.S._Wind_Industry_in_2012_DOI_10-2172_1086363.pdf
+- **DOI:** 10.2172/1086363
+- **Authors:** Not available
+- **Year:** Not available
+- **Journal/Venue:** Not available
+- **URL:** Not available
+- **Extraction Date:** 2025-06-03T15:04:03.806778
+- **Total Pages:** 50
+
+## Abstract
+
+Abstract not available from BibTeX metadata.
+
+## Keywords
+
+Keywords not available from BibTeX metadata.
+
+---
+
+## Full Text Content
+
+
+
+### Page 1
+
+NREL is a national laboratory of the U.S. Department of Energy 
+Office of Energy Efficiency & Renewable Energy 
+Operated by the Alliance for Sustainable Energy, LLC 
+This report is available at no cost from the National Renewable Energy 
+Laboratory (NREL) at www.nrel.gov/publications. 
+
+Contract No. DE-AC36-08GO28308 
+
+A National Skills Assessment of 
+the U.S. Wind Industry in 2012 
+M. Leventhal and S. Tegen 
+Technical Report 
+NREL/TP-7A30-57512 
+June 2013
+
+---
+
+
+### Page 2
+
+NREL is a national laboratory of the U.S. Department of Energy 
+Office of Energy Efficiency & Renewable Energy 
+Operated by the Alliance for Sustainable Energy, LLC 
+This report is available at no cost from the National Renewable Energy 
+Laboratory (NREL) at www.nrel.gov/publications. 
+
+Contract No. DE-AC36-08GO28308 
+National Renewable Energy Laboratory 
+15013 Denver West Parkway 
+Golden, CO 80401 
+303-275-3000 • www.nrel.gov 
+
+A National Skills Assessment of 
+the U.S. Wind Industry in 2012 
+M. Leventhal and S. Tegen 
+Prepared under Task No. WE11.0610 
+Technical Report 
+NREL/TP-7A30-57512 
+June 2013
+
+---
+
+
+### Page 3
+
+NOTICE 
+This report was prepared as an account of work sponsored by an agency of the United States government. 
+Neither the United States government nor any agency thereof, nor any of their employees, makes any warranty, 
+express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of 
+any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately 
+owned rights. Reference herein to any specific commercial product, process, or service by trade name, 
+trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, 
+or favoring by the United States government or any agency thereof. The views and opinions of authors 
+expressed herein do not necessarily state or reflect those of the United States government or any agency thereof. 
+This report is available at no cost from the National Renewable Energy 
+Laboratory (NREL) at www.nrel.gov/publications. 
+Available electronically at http://www.osti.gov/bridge 
+Available for a processing fee to U.S. Department of Energy 
+and its contractors, in paper, from: 
+U.S. Department of Energy 
+Office of Scientific and Technical Information 
+P.O. Box 62 
+Oak Ridge, TN 37831-0062 
+phone: 865.576.8401 
+fax: 865.576.5728 
+email: mailto:reports@adonis.osti.gov 
+Available for sale to the public, in paper, from: 
+U.S. Department of Commerce 
+National Technical Information Service 
+5285 Port Royal Road 
+Springfield, VA 22161 
+phone: 800.553.6847 
+fax: 703.605.6900 
+email: orders@ntis.fedworld.gov 
+online ordering: http://www.ntis.gov/help/ordermethods.aspx 
+Cover Photos: (left to right) photo by Pat Corkery, NREL 16416, photo from Sun Edison, NREL 17423, photo by Pat Corkery, NREL 
+16560, photo by Dennis Schroeder, NREL 17613, photo by Dean Armstrong, NREL 17436, photo by Pat Corkery, NREL 17721. 
+ 
+Printed on paper containing at least 50% wastepaper, including 10% post consumer waste.
+
+---
+
+
+### Page 4
+
+i 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Acknowledgments 
+The authors thank Jonathan Bartlett, Cash Fitzpatrick, and Jose Zayas of the U.S. Department of 
+Energy’s Wind and Water Power Technologies Office for their input and for funding this 
+research. We are also grateful for Phillip Jordan of BW Research, who conducted our industry 
+survey and provided guidance about industry surveying. We thank Ian Baring-Gould of the 
+National Renewable Energy Laboratory and Charles Newcomb of Endurance Wind for their 
+insight into the wind power deployment process. Any mistakes or omissions are the 
+responsibility of the authors.
+
+---
+
+
+### Page 5
+
+ii 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Introduction ................................................................................................................................................. 1 
+Methods ........................................................................................................................................................ 1 
+Conduct Wind Industry Employer Survey ............................................................................................. 2 
+Catalog Wind-Specific Education and Training Programs .................................................................... 6 
+Correlate Employer Preferences with Available Education and Training Programs ............................. 6 
+Project New Wind Workforce Hires Needed for the 20% Wind by 2030 Scenario ............................... 8 
+Estimate Number of Graduates Needed by Degree Type ....................................................................... 8 
+Results ......................................................................................................................................................... 8 
+Wind Industry Employer Survey ............................................................................................................ 8 
+Cataloging Wind-Specific Education and Training Programs ............................................................. 16 
+Summary of Employer Educational Preferences .................................................................................. 17 
+Project New Hires in Wind Workforce Needed for the 20% Wind by 2030 Scenario ......................... 19 
+Estimate Number of Graduates Needed by Degree Type ..................................................................... 24 
+Conclusions ............................................................................................................................................... 27 
+Employer Preferences for Wind Energy Training and Education ........................................................ 27 
+Availability and Graduation Rates of Wind Workforce Training and Educational Programs ............. 27 
+Women in the Wind Industry ............................................................................................................... 28 
+Growth of the Wind Workforce ........................................................................................................... 28 
+Growth in Educational Programs Focusing on Wind Energy .............................................................. 28 
+References ................................................................................................................................................. 29 
+Appendix A: Estimate of U.S. Wind-Specific Degree Programs .......................................................... 30 
+Appendix B: Limited Feedback on Potential Class Size Increases ..................................................... 31 
+Appendix C: Alternate Scenario Produces Outcome with Smaller Shortfall of Programs ............... 32 
+Appendix D: BW Research Method for Estimating Today’s Wind Power Employees ....................... 33 
+Appendix E: BW Research Survey .......................................................................................................... 35 
+
+List of Tables 
+Table 1. Industry Classification and Occupations ................................................................................... 4 
+Table 2. Occupations Included in the Report ........................................................................................... 5 
+Table 3. Sample Educational Program ...................................................................................................... 6 
+Table 4. Example of Employer Educational Preference for an Occupation .......................................... 7 
+Table 5. Example of Relative Importance of Wind-Specific Degree ...................................................... 7 
+Table 6. Level of Difficulty in Finding Qualified Applicants (by Occupation) ....................................... 9 
+Table 7. Work Experience: Importance of Occupational Experience vs. Wind-Specific Experience10 
+Table 8. Preferred Educational Attainments for New Hires .................................................................. 11 
+Table 9. Importance of Different Levels of Wind Energy Training and Education ............................. 13 
+Table 10. Importance of Wind Energy College Degrees vs. Degrees Not Related to Wind Energy . 14 
+Table 11. Female Representation in Wind Energy Workforce by Occupation .................................... 15 
+Table 12. Response Rate (Number of Schools) ..................................................................................... 16 
+Table 13. Distribution of Degree Program Levels in Response Set .................................................... 16 
+Table 14. Graduates per Year and Percentage Entering Wind Industry .............................................. 17 
+Table 15. Percentage of Employers Who Prefer a Wind Energy-Specific Degree/Certificate for New 
+Hires by Occupation ........................................................................................................................... 18 
+Table 16. 20% Wind by 2030 Capacity Installation Requirements* ...................................................... 20 
+Table 17. Percent of Selected Occupations from the Survey in the O&M Sector .............................. 21 
+Table 18. Estimates of Additional Employees Needed by Occupation Per Year ................................ 23 
+Table 19. New Wind Energy-Specific Credential Programs Needed in the United States to Train the 
+Future Wind Workforce ...................................................................................................................... 24 
+Table 20. Percentage of Graduates Entering Wind Industry and Number of Graduates Per Program 
+Per Year ............................................................................................................................................... 25 
+Table 21. Calculating Number of Wind Energy-Specific Programs Needed to Fulfill Projected 
+Industry Demand (rounded to the nearest 10 with the exception of graduates per year) .......... 26 
+Table 22. Estimate of Number of Current Degree Programs in the United States ............................. 30
+
+---
+
+
+### Page 6
+
+iii 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 23. Potential Class Size Increases ................................................................................................ 31 
+Table 24. Calculating Number of Wind Energy-Specific Programs Needed to Fulfill Projected 
+Industry Demand (Alternate Scenario) ............................................................................................. 32
+
+---
+
+
+### Page 7
+
+1 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Introduction 
+A robust and well-trained workforce is essential to developing domestic wind power projects to 
+meet future energy demands. The future wind power workforce will include manufacturing, 
+siting, operations, maintenance, education, and research capabilities. How prepared is the United 
+States to train future employees in the wind industry? The purpose of this research is to better 
+understand: 
+• Today’s domestic wind workforce 
+• Projected future workforce needs 
+• Whether existing and new training and educational programs meet the wind industry's 
+future needs. 
+Results presented in this report provide the first published investigation into the detailed makeup 
+of the wind energy workforce as well as a glance at the educational infrastructure and training 
+needs of the wind industry. Insights from this research into the domestic wind workforce will 
+allow the private sector, educational institutions, and federal and state governmental 
+organizations to make better informed workforce-related decisions based on the current data and 
+future projections. 
+Methods 
+After completing a literature review of publicly available reports, National Renewable Energy 
+Laboratory (NREL) researchers learned that a U.S. wind workforce or labor assessment had not 
+been performed on a national scale. The U.S. Department of Energy (DOE) funded NREL to 
+assess the existing wind workforce with an emphasis on skills and training. Using projections 
+from the report 20% Wind Energy by 2030: Increasing Wind Energy’s Contribution to U.S. 
+Electricity Supply (U.S. DOE 2008; hereafter referred to as 20% Wind by 2030), we estimated 
+future industry needs and will compare them to existing wind training programs. This enables 
+NREL to provide information to DOE about whether the United States needs to increase the 
+number of educators and students attending wind training programs to meet wind deployment 
+goals. 
+Our research had five components: 
+1) Conduct a wind industry employer survey 
+2) Compile an evolving catalog of wind-specific education and training programs 
+3) Correlate employer preferences with available education and training programs 
+4) Project new hires needed in the wind workforce to account for growth needed for the 
+20% Wind by 2030 scenario 
+5) Estimate the number of graduates needed by program type (e.g., graduate-level course, 
+community college degree). 
+The following sections describe the methods used for each of these components.
+
+---
+
+
+### Page 8
+
+2 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Conduct Wind Industry Employer Survey 
+The first component of our research was a wind industry employer survey to better understand 
+the size of the domestic wind workforce and the distribution of occupations across the wind 
+industry supply chain, as well as to assess the level and types of education, training, and 
+experience preferred by employers when making hiring decisions. 
+To conduct the survey, NREL hired BW Research Partnership, a firm experienced in workforce 
+surveys and analyses. Survey data were collected in August and September 2012. Employers 
+first received the survey via e-mail. BW Research initiated a phone survey for employers who 
+did not respond online. Appendix D of this report contains the full survey questionnaire 
+The total survey size consisted of approximately 1,900 contacts from the commercial-scale wind 
+energy industry, and we received 418 completed responses. Industry contacts for the survey 
+came from various sources, including the membership lists of the American Wind Energy 
+Association (AWEA) and Windustry, and contacts within NREL’s Open EI and Wind Powering 
+America contact databases.1 
+The detailed questions for employers concerning each occupation included: 
+• Level of difficulty in finding qualified applicants (by occupation) 
+• Importance of occupational experience versus wind-specific experience 
+• Preferred educational attainment for new hires 
+• Employers’ preferences for wind energy training and education 
+• Importance of wind energy college degrees versus degrees not related to wind energy 
+• Female representation in the wind energy workforce by occupation. 
+ 
+The questionnaire included 35 occupations divided among 15 wind industry company 
+classifications, such as project development, turbine manufacturing, installation, and operation 
+(see Table 1). These occupations and wind industry company classifications were developed by 
+several NREL employees, each with extensive wind energy experience, specifically for this 
+survey. Suitable Bureau of Labor Statistics Standard Occupational Classification codes do not 
+currently exist for the full breadth of occupations within wind energy and thus could not be used. 
+The 35 occupations were selected from a larger list of wind industry jobs (the fewer number of 
+occupations allows focus while still demonstrating the wide diversity of occupations across the 
+industry). Several occupations (e.g., administrative or clerical) existed in more than one wind 
+industry classification. The questionnaire asked employers to select a primary industry 
+classification for their company (from a list of 15) and then asked them to select which 
+occupational categories best represent their employees (from a list of 5 to 8). Of course, many 
+companies employ more than five to eight occupations, so our list was not exhaustive and instead 
+focused on the most prevalent wind occupations within that industry classification. 
+ 
+1 http://en.openei.org/wiki/Main_Page and http://www.windpoweringamerica.gov
+
+---
+
+
+### Page 9
+
+3 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+To maximize response rates and minimize the number of incomplete surveys, questions and 
+response options were structured to allow respondents to complete the survey within a 15-minute 
+timeframe. This is a standard threshold to minimize fatigue and dropout (Jordan 2012). For 
+instance, if an employer noted that his company employed all eight occupations listed for his 
+industry classification, detailed questions of only four of these occupations, chosen randomly, 
+would be asked of this employer. Table 1 shows which occupations were included in each 
+industry classification. The green boxes indicate that the occupation was present in the industry 
+classification.
+
+---
+
+
+### Page 10
+
+4 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 1. Industry Classification and Occupations 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+Occupations Included Per 
+Supply Chain Classification 
+in Wind Employer Survey 
+Site Identification, Assessment, 
+or Pre-Development 
+Project Development: Legal, 
+Real Estate, or Finance 
+Project Permitting: Regulatory, 
+Environmental, or Wildlife 
+Assessment 
+Manufacturing of Engineered 
+Structures (tower, bedplate, 
+hub) 
+Manufacturing of Drive Trains 
+(couplings, bearings, gearboxes) 
+Manufacturing of Blades 
+Manufacturing of Power 
+Equipment and Electronics 
+(generators, cables, cooling, 
+lighting, etc.)
+Manufacturing of SubComponents or Materials 
+Nacelle Assembly 
+Sales, Distribution, or Transport 
+of Wind Energy Products 
+(including OEM sales) 
+On-site Civil Works (roads, 
+foundations, site improvements) 
+On-site Mechanical Assembly 
+(installation of towers or 
+turbines) 
+On-site Electrical Work 
+(substation, collection grid, final 
+grid connection) 
+Operations and Maintenance 
+Education, Training, or 
+Research 
+Admin/clerical 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+Assembly workers 
+1 
+1 
+Attorneys 
+1 
+1 
+1 
+Construction laborers 
+1 
+1 
+1 
+Construction managers 
+1 
+1 
+1 
+Development finance 
+1 
+Development managers 
+1 
+Development technical 
+specialists 
+1 
+Engineers 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+Government regulatory workers 
+1 
+Land-leasing agents 
+1 
+Managers of sales, operations, 
+& training 
+1 
+1 
+1 
+Manufacturing managers 
+1 
+1 
+1 
+1 
+1 
+1 
+Manufacturing salespeople 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+O&M accountants & 
+bookkeepers 
+1 
+Paralegals 
+1 
+Product designers 
+1 
+1 
+1 
+1 
+1 
+1 
+Professional trainers 
+1 
+Professors & teachers 
+1 
+Research engineers 
+1 
+Resource assessors & 
+surveyors 
+1 
+1 
+Scientists 
+1 
+2 
+Supply chain & purchasing 
+managers 
+1 
+1 
+1 
+1 
+1 
+1 
+Trade workers 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+Transportation/logistics workers 
+2 
+Wind technicians 
+1 
+1 
+ 
+*Industry classifications are listed in columns; occupations are listed in rows
+
+---
+
+
+### Page 11
+
+5 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+After data collection, we aggregated jobs within similar occupational categories to minimize 
+redundancy and adjusted occupation names for clarity as needed. We also deleted one 
+occupational role as only two companies claimed to employ that position. In the end, we 
+performed our full analysis on 26 occupations in the wind industry. 
+Table 2. Occupations Included in the Report 
+ 
+# of Firms Responding 
+with this Occupation 
+Admin/clerical 
+131 
+Managers of sales, operations, & training 
+88 
+Engineers 
+65 
+Trade workers 
+58 
+Supply chain & purchasing managers 
+52 
+Manufacturing managers 
+43 
+Product designers 
+40 
+Manufacturing salespeople 
+39 
+Professors & teachers 
+37 
+Attorneys 
+34 
+Research engineers 
+32 
+Professional trainers 
+30 
+Development managers 
+27 
+Construction managers 
+25 
+Scientists 
+21 
+Development finance 
+20 
+Development technical specialists 
+19 
+Construction laborers 
+15 
+O&M accountants & bookkeepers 
+15 
+Wind technicians 
+14 
+Land-leasing agents 
+13 
+Resource assessors & surveyors 
+18 
+Government regulatory workers 
+11 
+Transportation/logistics workers 
+17 
+Paralegals 
+9 
+Assembly workers 
+9
+
+---
+
+
+### Page 12
+
+6 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Catalog Wind-Specific Education and Training Programs 
+The second component of this study was to catalog available wind-specific education and 
+training programs to learn about the number of graduates and percentages of graduates working 
+in the wind industry. 
+We conducted the cataloging by searching post-secondary schools’ and educational 
+organizations’ websites to identify wind-specific programs in the United States. We searched 
+websites of schools previously identified by Wind Powering America as having some association 
+to wind energy education. We documented classes, degrees, research, and major resources (e.g., 
+a working wind turbine that could be utilized for training). We categorized degrees as Certificate, 
+Associate's, Bachelor's, Master’s, and Ph.D. The catalog only includes information on programs 
+focusing on wind energy or renewable energy with a large portion of the curriculum devoted to 
+wind. The program title or description must include the word “wind” or “renewable.” 
+After we cataloged a school’s programs, we sent an e-mail to professors and administrators 
+asking them to 1) review the school’s publicly available program descriptions for completeness 
+and accuracy, 2) enumerate how many people graduated from each program, and of those, 3) 
+identify what portion proceeded to work in the wind industry, if known. NREL researchers 
+aggregated the responses from these schools to create a dataset of wind-specific education and 
+training programs. An example is shown in Table 3. This example shows a single degree 
+program from a single school; many schools offer multiple programs. 
+Table 3. Sample Educational Program 
+Type of 
+School 
+School 
+Name 
+Extent of 
+Wind Focus 
+(Credential, 
+Courses, 
+Research, 
+Resource) 
+Program 
+(Ph.D., 
+Master's, 
+Bachelor's, 
+Associate's, 
+Certificate) 
+Name of 
+Program/ 
+Concentration 
+Graduates 
+per Year 
+Number 
+Entering 
+Wind 
+Industry 
+Percent 
+Entering 
+Wind 
+Industry 
+Universities 
+University 
+of Your 
+State 
+Credential 
+Master's 
+Graduate 
+Program in 
+Renewable 
+Energy 
+Development 
+10 
+3 
+30% 
+
+Correlate Employer Preferences with Available Education and 
+Training Programs 
+The next phase involved connecting employers' preferences regarding education level attained 
+for each occupation with wind-specific programs that meet those preferences. To achieve this, 
+we focused on two questions from our employer survey. 
+• Q7: preferred educational attainment for new hires 
+• Q8: the importance of wind-specific experience, certification, and education vs. 
+occupational-focused education that is not specific to wind.
+
+---
+
+
+### Page 13
+
+7 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+In the example in Table 4, we see that employers most frequently preferred a graduate-level 
+education for research engineers. However, some employers only required a bachelor degree, 
+while some wanted a post-bachelor professional certification. We utilized the full range of 
+employer responses in our analysis. 
+Table 4. Example of Employer Educational Preference for an Occupation 
+High School 
+Diploma 
+Post-Secondary 
+Professional 
+Certificate 
+(Journeyman, 
+Trade/Technical 
+Programs) 
+Associate's 
+Degree 
+Bachelor's 
+Degree 
+PostBachelor 
+Professional 
+Certification 
+(e.g., CPA, 
+PE, LEED) 
+Master's 
+Degree, 
+Ph.D., or Law 
+Research 
+engineers 
+0% 
+0% 
+0% 
+17% 
+11% 
+71% 
+ 
+We also need to understand whether employers require this degree to be wind-specific because 
+one focus of this research is whether enough wind-specific training and educational programs are 
+available. To achieve this, we examined the ratio of employers preferring wind-specific college 
+degrees to degrees not focused on wind (or for the few occupations that do not require some type 
+of college degree, we look at a similar ratio concerning professional certification). Table 5 shows 
+the percentage of employers indicating that they felt it was "very" or "somewhat" important for 
+employees in this particular occupation to have the specific degree. 
+Table 5. Example of Relative Importance of Wind-Specific Degree 
+ 
+College Degree 
+Wind-Specific 
+College Degree 
+Ratio of Importance of WindSpecific College Degree vs. 
+Degree Not Specific to Wind 
+Research engineers 
+97% 
+48% 
+50% 
+ 
+In the case of research engineers, we found that approximately half as many employers rated a 
+wind energy-specific degree as important relative to a general college degree. For our analysis, 
+we multiply responses from Q7 (Table 4) by responses to Q8 (Table 5) to determine the 
+percentage of wind-specific degrees that are needed by occupation, by degree level. 
+To determine whether the United States will have enough qualified employees to meet future 
+labor needs of the wind industry, we need to answer such questions as: 
+• How many new employees in a given occupation will the wind industry require over the 
+next 20 years? 
+• How many participants of qualifying programs will graduate each year? 
+ 
+The final two steps of the analysis enable us to begin to answer these questions.
+
+---
+
+
+### Page 14
+
+8 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Project New Wind Workforce Hires Needed for the 20% Wind by 2030 
+Scenario 
+The wind employer survey estimated that approximately 70,000 people are currently employed 
+in the United States in the wind energy industry.2 As construction continues each year and 
+cumulative installed capacity increases, the U.S. wind industry will require more workers. By 
+associating the current workforce with capacity installed3 in 2012 (12 GW) and cumulative 
+installed capacity (59 GW in 2012), we can estimate increases needed in the wind labor 
+workforce to meet annual installation schedules described in DOE’s 20% Wind by 2030 modeled 
+energy scenario. Such a projection includes estimates for increases in production efficiency per 
+worker, as well as attrition due to people leaving the industry to retire or pursue other careers. 
+The authors understand that the scenario as represented in the 20% Wind by 2030 report is only 
+one potential scenario that the wind industry could follow. Readers should consider projections 
+in this report indicative of future industry needs, based on current workforce trends, assuming a 
+strong future marketplace for wind energy development as outlined in the 2008 DOE report. 
+Estimate Number of Graduates Needed by Degree Type 
+After we estimate how many new employees we might need per occupation by year, we apply 
+our calculated percentage requiring a wind-specific degree of a given level. This indicates how 
+many graduates with wind-specific degrees are needed per year. By adjusting this figure by the 
+likelihood of these graduates to enter the wind industry after graduation and how many students 
+graduate from each program per year, we can develop an estimate of how many programs are 
+needed at each degree level. Our analysis focuses on the needs of the peak hiring year for the 
+industry (2016 for most occupations; 2019 for occupations in the operations and maintenance 
+(O&M) sector). The results are estimates based on the data we obtained, which are limited by the 
+small sample size of education and training programs. 
+Results 
+Wind Industry Employer Survey 
+As stated, NREL hired a contractor to conduct a wind industry employer survey for which we 
+had approximately 1,900 contacts in the utility-scale wind energy industry.4 We received 418 
+valid responses. Appendix C of this report contains the full survey questionnaire. 
+The following results are based on stated preferences of our sample of wind energy employers. 
+While our total sample consisted of more than 400 employers, since these employers occupied 
+different positions within the supply chain (and hence employed different occupations), any 
+single occupation included responses with a base size of employers ranging from nine to 131. 
+About half the occupations included responses from 30 or more employers. 
+Table 6 lists occupations ranked from high to low based on the percentage of companies citing 
+“great difficulty” finding qualified applicants for a given occupation. Overall, wind employers 
+were more likely to state they had “some difficulty” finding qualified applicants, as opposed to 
+ 
+2 See Appendix D for an explanation of how we estimated the approximately 70,000 employees. 
+3 12 GW of capacity installed in 2012 was the estimated end of year figure as of November 2012. Actual 
+installations came in slightly higher at 13 GW. 
+4 Educational institutions were also included in the survey if they offered wind education programs.
+
+---
+
+
+### Page 15
+
+9 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+“great difficulty.” According to this survey, the most difficult positions to fill are professors and 
+teachers. 
+Table 6. Level of Difficulty in Finding Qualified Applicants (by Occupation) 
+ 
+Some Difficulty 
+Great Difficulty 
+Some or Great Difficulty 
+Professors & teachers 
+41% 
+43% 
+84% 
+Product designers 
+40% 
+35% 
+75% 
+Trade workers 
+40% 
+31% 
+71% 
+Manufacturing salespeople 
+33% 
+31% 
+64% 
+Wind technicians 
+50% 
+29% 
+79% 
+Construction managers 
+44% 
+28% 
+72% 
+Professional trainers 
+50% 
+27% 
+77% 
+Development technical specialists 
+47% 
+26% 
+74% 
+Engineers 
+42% 
+25% 
+66% 
+Scientists 
+48% 
+24% 
+71% 
+Research engineers 
+47% 
+22% 
+69% 
+Managers of sales, operations, & training 
+40% 
+22% 
+61% 
+Attorneys 
+26% 
+18% 
+44% 
+Transportation/logistics workers 
+24% 
+18% 
+41% 
+Land-leasing agents 
+31% 
+15% 
+46% 
+Development managers 
+37% 
+15% 
+52% 
+Paralegals 
+33% 
+11% 
+44% 
+Supply chain & purchasing managers 
+44% 
+10% 
+54% 
+Construction laborers 
+67% 
+7% 
+73% 
+Resource assessors & surveyors 
+39% 
+6% 
+44% 
+Development finance 
+35% 
+5% 
+40% 
+Admin/clerical 
+31% 
+4% 
+35% 
+Manufacturing managers 
+72% 
+2% 
+74% 
+Government regulatory workers 
+73% 
+0% 
+73% 
+O&M accountants & bookkeepers 
+60% 
+0% 
+60% 
+Assembly workers 
+67% 
+0% 
+67% 
+Average 
+45% 
+17% 
+62% 
+
+Table 7 compares employers’ preferences for new hires with wind-specific work experience 
+relative to general occupational experience. The data are ranked by the ratio of importance of 
+each of these types of work experience. Across all occupations, wind employers agreed that it 
+was more important that new hires have experience in their occupational field over wind-specific 
+experience. Those roles near the top of the table represent the positions for which wind industry 
+experience requirements are almost as important as general experience in the occupation. 
+
+Response scale: 
+No Difficulty 
+Some Difficulty 
+Great Difficulty
+
+---
+
+
+### Page 16
+
+10 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 7. Work Experience: Importance of Occupational Experience vs. Wind-Specific Experience 
+ 
+Importance of Work Experience when Hiring 
+Employees (Mean Rating) 
+ 
+Experience in a 
+Related 
+Occupational 
+Field 
+Experience in 
+Wind Energy 
+Ratio (Wind 
+Specific/Related 
+Occupation) 
+Resource assessors & surveyors 
+1.9 
+1.8 
+94% 
+Professional trainers 
+2.6 
+2.4 
+93% 
+Managers of sales, operations, & training 
+2.3 
+2.1 
+91% 
+Research engineers 
+2.5 
+2.2 
+90% 
+Professors & teachers 
+2.6 
+2.3 
+87% 
+Engineers 
+2.3 
+2.0 
+87% 
+Construction managers 
+2.6 
+2.2 
+84% 
+Development technical specialists 
+2.7 
+2.3 
+83% 
+Development managers 
+2.8 
+2.3 
+83% 
+Transportation/logistics workers 
+2.3 
+1.9 
+82% 
+Construction laborers 
+2.0 
+1.6 
+82% 
+Assembly workers 
+2.3 
+1.9 
+81% 
+Manufacturing salespeople 
+2.2 
+1.8 
+79% 
+Wind technicians 
+2.5 
+1.9 
+78% 
+Admin/clerical 
+1.8 
+1.2 
+71% 
+Development finance 
+2.2 
+1.5 
+70% 
+Scientists 
+2.4 
+1.7 
+69% 
+Product designers 
+2.4 
+1.7 
+68% 
+Attorneys 
+2.2 
+1.5 
+66% 
+Land-leasing agents 
+2.4 
+1.6 
+66% 
+Trade workers 
+2.3 
+1.5 
+64% 
+Paralegals 
+1.8 
+1.2 
+64% 
+Manufacturing managers 
+2.4 
+1.4 
+61% 
+Supply chain & purchasing managers 
+2.2 
+1.4 
+61% 
+O&M accountants & bookkeepers 
+2.3 
+1.1 
+50% 
+Government regulatory workers 
+2.5 
+1.0 
+40% 
+Average 
+2.3 
+1.7 
+75% 
+Response scale: 
+Not Needed +1 
+Somewhat Important +2 
+Very Important +3
+
+---
+
+
+### Page 17
+
+11 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 8. Preferred Educational Attainments for New Hires 
+ 
+High 
+School 
+Diploma 
+or Less 
+Post-Secondary 
+Professional 
+Certificate 
+(Journeyman, 
+Trade/ Technical 
+Programs) 
+Associate's 
+Degree 
+Bachelor's 
+Degree 
+PostBachelor 
+Professional 
+Certification 
+(e.g., CPA, 
+PE, LEED) 
+Master's 
+Degree, 
+Ph.D., or 
+Law 
+Attorneys 
+0% 
+0% 
+0% 
+6% 
+21% 
+74% 
+Research engineers 
+0% 
+0% 
+0% 
+17% 
+11% 
+71% 
+Scientists 
+0% 
+0% 
+0% 
+19% 
+10% 
+71% 
+Government regulatory 
+workers 
+0% 
+0% 
+0% 
+42% 
+0% 
+58% 
+Professors & teachers 
+0% 
+5% 
+15% 
+10% 
+7% 
+63% 
+Development managers 
+0% 
+3% 
+0% 
+39% 
+29% 
+29% 
+Engineers 
+0% 
+2% 
+0% 
+54% 
+15% 
+29% 
+Managers of sales, 
+operations, & training 
+1% 
+2% 
+5% 
+42% 
+16% 
+34% 
+Development finance 
+0% 
+0% 
+5% 
+50% 
+23% 
+23% 
+Development technical 
+specialists 
+5% 
+5% 
+0% 
+47% 
+11% 
+32% 
+Product designers 
+3% 
+3% 
+0% 
+63% 
+10% 
+23% 
+Resource assessors & 
+surveyors 
+6% 
+6% 
+22% 
+33% 
+0% 
+33% 
+Professional trainers 
+3% 
+16% 
+10% 
+32% 
+10% 
+29% 
+O&M accountants & 
+bookkeepers 
+7% 
+0% 
+13% 
+60% 
+13% 
+7% 
+Manufacturing salespeople 
+3% 
+3% 
+10% 
+79% 
+3% 
+3% 
+Construction managers 
+4% 
+12% 
+8% 
+58% 
+12% 
+8% 
+Manufacturing managers 
+2% 
+9% 
+13% 
+69% 
+7% 
+0% 
+Supply chain & purchasing 
+managers 
+2% 
+4% 
+25% 
+68% 
+2% 
+0% 
+Paralegals 
+0% 
+0% 
+38% 
+63% 
+0% 
+0% 
+Land-leasing agents 
+0% 
+21% 
+7% 
+71% 
+0% 
+0% 
+Admin/clerical 
+18% 
+13% 
+28% 
+36% 
+1% 
+4% 
+Transportation/logistics 
+workers 
+28% 
+11% 
+22% 
+33% 
+6% 
+0% 
+Trade workers 
+27% 
+62% 
+7% 
+5% 
+0% 
+0% 
+Wind technicians 
+25% 
+58% 
+17% 
+0% 
+0% 
+0% 
+Assembly workers 
+33% 
+44% 
+22% 
+0% 
+0% 
+0% 
+Construction laborers 
+56% 
+44% 
+0% 
+0% 
+0% 
+0%
+
+---
+
+
+### Page 18
+
+12 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+ 
+In Table 8, occupations are ranked from high to low by required educational achievement (mean 
+years; not directly shown in chart). The yellow highlighting represents the most common 
+response per occupation. Wind industry employers require a wide range of educational levels for 
+the different occupations they hire. The most common educational achievement required was a 
+bachelor's degree; several occupations required an advanced degree. Employers preferred that 
+trade workers, wind technicians, and assembly workers have some form of post-high school 
+professional training and that construction workers have a high school diploma. 
+Table 9 compares the importance of three levels of wind energy-specific training by occupation: 
+• Courses, conferences, workshops 
+• Professional certification 
+• Wind energy-specific college degree. 
+The table is ranked high to low on the first column of data. 
+Yellow highlighted text represents 40% or more of wind employers rating wind energy-specific 
+professional certification or a wind-specific college degree as "very or somewhat important." 
+This applies to a minority of occupations. By comparing the average across the three, we see that 
+wind employers desire their new hires to have been exposed to some basic level of wind energy 
+training, but requirements for professional certification or wind-specific college degrees are not 
+important for the majority of occupations in the wind industry. 
+Please note that wind energy-specific programs are recent developments. Thus, it is possible that 
+employers not rating these programs as important may be due to the fact that until recently, few 
+if any were available.
+
+---
+
+
+### Page 19
+
+13 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 9. Importance of Different Levels of Wind Energy Training and Education 
+% Rating "Very or Somewhat 
+Important" 
+Wind Energy-Specific 
+Training (Including 
+Courses, Workshops, 
+Conferences, Etc.) 
+Wind Energy-Specific 
+Professional 
+Certification 
+Wind EnergySpecific College 
+Degree 
+Professional trainers 
+87% 
+57% 
+22% 
+Research engineers 
+86% 
+55% 
+48% 
+Professors & teachers 
+86% 
+56% 
+47% 
+Development technical specialists 
+84% 
+63% 
+47% 
+Development managers 
+78% 
+28% 
+28% 
+Construction managers 
+68% 
+36% 
+18% 
+Managers of sales, operations, & 
+training 
+67% 
+31% 
+24% 
+Resource assessors & surveyors 
+65% 
+18% 
+24% 
+Wind technicians 
+60% 
+47% 
+40% 
+Engineers 
+58% 
+44% 
+36% 
+Manufacturing salespeople 
+57% 
+11% 
+11% 
+Assembly workers 
+57% 
+43% 
+29% 
+Product designers 
+56% 
+26% 
+15% 
+Scientists 
+53% 
+27% 
+20% 
+Attorneys 
+48% 
+3% 
+7% 
+Land-leasing agents 
+46% 
+8% 
+15% 
+Construction laborers 
+45% 
+0% 
+0% 
+Manufacturing managers 
+43% 
+20% 
+10% 
+Development finance 
+35% 
+5% 
+5% 
+Government regulatory workers 
+33% 
+0% 
+0% 
+Paralegals 
+33% 
+17% 
+17% 
+Trade workers 
+33% 
+21% 
+7% 
+Supply chain & purchasing 
+managers 
+24% 
+12% 
+6% 
+Transportation/logistics workers 
+20% 
+0% 
+13% 
+Admin/clerical 
+19% 
+10% 
+8% 
+O&M accountants & bookkeepers 
+14% 
+0% 
+7% 
+Average 
+52% 
+24% 
+19% 
+ 
+Response scale: 
+Not Needed 
+Somewhat Important 
+Very Important
+
+---
+
+
+### Page 20
+
+14 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 10 compares the relative importance of a wind-specific college degree to that of a college 
+degree that is not specifically focused on wind energy. The table is ranked high to low on this 
+ratio, which is shown in the far right column. With the exception of a few occupations, only a 
+minority of employers required college degrees specific to wind energy. All employers requiring 
+wind technicians and assembly workers to hold a college degree felt that it is important that the 
+degree is specific to wind energy. Approximately half of wind employers claimed that it was 
+important for new hires to have a wind-specific degree in the occupations of development 
+technical specialists, research engineers, and professors/teachers. 
+ 
+Table 10. Importance of Wind Energy College Degrees vs. Degrees Not Related to Wind Energy 
+% Rating "Very" or "Somewhat" Important 
+College 
+Degree 
+Wind EnergySpecific College 
+Degree 
+Ratio of Importance of 
+Wind Energy-Specific 
+College Degree vs. Degree 
+Not Specific to Wind 
+Assembly workers 
+29% 
+29% 
+100% 
+Wind technicians 
+40% 
+40% 
+100% 
+Development technical specialists 
+84% 
+47% 
+56% 
+Research engineers 
+97% 
+48% 
+50% 
+Professors & teachers 
+100% 
+47% 
+47% 
+Trade workers 
+19% 
+7% 
+38% 
+Engineers 
+100% 
+36% 
+36% 
+Development managers 
+94% 
+28% 
+30% 
+Resource assessors & surveyors 
+88% 
+24% 
+27% 
+Managers of sales, operations, & training 
+95% 
+24% 
+25% 
+Transportation/logistics workers 
+53% 
+13% 
+25% 
+Land-leasing agents 
+62% 
+15% 
+25% 
+Professional trainers 
+91% 
+22% 
+24% 
+Construction managers 
+77% 
+18% 
+24% 
+Scientists 
+100% 
+20% 
+20% 
+Paralegals 
+100% 
+17% 
+17% 
+Product designers 
+93% 
+15% 
+16% 
+Manufacturing salespeople 
+86% 
+11% 
+13% 
+Admin/clerical 
+61% 
+8% 
+13% 
+Manufacturing managers 
+80% 
+10% 
+13% 
+O&M accountants & bookkeepers 
+93% 
+7% 
+8% 
+Supply chain & purchasing managers 
+79% 
+6% 
+7% 
+Attorneys 
+100% 
+7% 
+7% 
+Development finance 
+85% 
+5% 
+6% 
+Construction laborers 
+9% 
+0% 
+0% 
+Government regulatory workers 
+100% 
+0% 
+0% 
+Average 
+77% 
+19% 
+28% 
+Response scale: 
+Not Needed 
+Somewhat Important 
+Very Important
+
+---
+
+
+### Page 21
+
+15 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 11 exhibits the percentage of female wind employees by occupation. Employers' responses 
+indicate that the vast majority of paralegals, administrative staff, and government regulatory 
+workers in the wind industry are female (more than 80%). The majority of O&M 
+accountants/bookkeepers, supply chain/purchasing managers, and development finance 
+employees are women. Women made up less than 20% of employees in 12 of the 26 occupations 
+studied during this research. 
+Responses to survey questions asking about minority representation (including women) tend to 
+overstate the number of minorities in a business if that minority is a protected class of worker 
+(Jordan 2012). 
+Table 11. Female Representation in Wind Energy Workforce by Occupation 
+ 
+% Female by Occupation in 
+Wind Energy Industry 
+Paralegals 
+More than 90% 
+Admin/clerical 
+More than 90% 
+Government regulatory workers 
+80%-89% 
+O&M accountants & bookkeepers 
+60%-69% 
+Supply chain & purchasing managers 
+50%-59% 
+Development finance 
+50%-59% 
+Scientists 
+40%-49% 
+Manufacturing managers 
+30%-39% 
+Attorneys 
+30%-39% 
+Land-leasing agents 
+30%-39% 
+Managers of sales, operations, & training 
+20%-29% 
+Professional trainers 
+20%-29% 
+Professors & teachers 
+20%-29% 
+Development managers 
+20%-29% 
+Research engineers 
+10%-19% 
+Development technical specialists 
+10%-19% 
+Construction managers 
+10%-19% 
+Resource assessors & surveyors 
+10%-19% 
+Engineers 
+10%-19% 
+Product designers 
+10%-19% 
+Trade workers 
+10%-19% 
+Manufacturing salespeople 
+10%-19% 
+Assembly workers 
+Less than 10% 
+Construction laborers 
+Less than 10% 
+Transportation/logistics workers 
+Less than 10% 
+Wind technicians 
+Less than 10%
+
+---
+
+
+### Page 22
+
+16 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Cataloging Wind-Specific Education and Training Programs 
+The table below summarizes the number of schools we contacted, how many responded, and of 
+the responses, how many were completed thoroughly enough to use in our analysis. Eighteen 
+schools provided complete information. 
+Table 12. Response Rate (Number of Schools) 
+E-mails sent 
+49 
+Responses returned 
+31 
+63% of mail sent 
+Quality data 
+18 
+58% of responses 
+37% of mail sent 
+
+Many schools offered multiple degrees. Of the 18 schools that provided thorough feedback, on 
+average we received data for two to three programs per school. Thus, respondents provided 
+information about 43 programs. The distribution of programs across degree levels is shown in 
+Table 13. 
+Table 13. Distribution of Degree Program Levels in Response Set 
+Program Count 
+ 
+ 8 
+Post-secondary certificate 
+10 
+Associate's degree 
+4 
+Undergraduate certificate 
+8 
+Bachelor's degree 
+1 
+Graduate certificate 
+8 
+Master's degree 
+4 
+Ph.D. 
+43 
+Total 
+ 
+Of the 43 programs, 18 are at the community or technical college level and 25 are university 
+programs. 
+Table 14 lists summary statistics about post-secondary wind-specific educational programs and 
+their graduates. The mean number of graduates per year from university programs is almost three 
+times the median, indicating a strong skew generated by a few large programs in this sampling. 
+Results show that the percentage of community or technical college graduates who move into the 
+wind industry after graduation is significantly higher than that of university graduates. This is 
+likely due to the fact that 1- and 2-year technical programs offered by community colleges are 
+tailored toward careers in wind energy more than higher-level degrees. Even though we 
+attempted to focus our efforts on wind-specific degrees in university programs, many of these 
+programs included wind energy content in addition to content on other renewables such as solar. 
+These programs also included broad engineering disciplines utilized across a wide range of 
+industries, including aerospace, utilities, and civil construction. Thus, the lower percentage of 
+graduates entering the wind energy field from university programs may be due to a wider variety 
+of opportunities available to these graduates.
+
+---
+
+
+### Page 23
+
+17 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 14. Graduates per Year and Percentage Entering Wind Industry 
+ 
+Graduates per Year 
+% Entering Wind Energy Industry 
+
+Program 
+Count 
+Institution 
+Type 
+Max 
+Mean 
+Median 
+Min 
+Max 
+Mean 
+Median 
+Min 
+18 
+Community & 
+tech colleges 
+60 
+17 
+10 
+1 
+100% 
+75% 
+90% 
+0% 
+25 
+University 
+300 
+34 
+12 
+3 
+50% 
+15% 
+10% 
+0% 
+
+Summary of Employer Educational Preferences 
+We derived Table 15 by combining employer survey responses to questions #7 and #8 in the 
+questionnaire. 5 We examined the percentage of employers rating a wind energy-specific 
+degree/certification as somewhat or very important in their hiring criteria, relative to a college 
+degree/certification that is not wind-specific. We multiplied these ratios (importance of wind 
+energy-specific versus a more general focus) by the preferred educational attainment for new 
+hires by occupation. The resulting data reveal the percentage of new hires that should have a 
+wind-specific degree or certification by occupation to meet employers’ preferences. 
+Table 15 should be read across rows. For instance, these data indicate that 45% of employers 
+prefer that a newly hired wind technician have a wind energy-specific professional certificate, 
+while 17% want a wind-specific associate's degree. One can infer from this that 38% [100%-
+(45%+17%)] do not consider it important for their new wind technicians to have wind-specific 
+education of this level. For example, perhaps the employer is willing to hire and train a new 
+employee for this role if the new hire has experience in a relevant line of work. 
+
+5 Q7: preferred educational attainment for new hires; Q8: the importance of wind-specific experience, certification, 
+and education vs. occupational-focused education that is not specific to wind. 
+The much lower percentages of university graduates entering the wind industry compared to 1and 2-year programs are due in part to the fact that university-level wind programs are not as 
+narrowly focused on wind energy and also often include other renewable technologies such as 
+solar and other specialties such as aerospace and civil construction.
+
+---
+
+
+### Page 24
+
+18 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 15. Percentage of Employers Who Prefer a Wind Energy-Specific Degree/Certificate 
+for New Hires by Occupation 
+ 
+Post-Secondary 
+Professional 
+Certificate 
+(Journeyman, 
+Trade/Technical 
+Programs) 
+Associate's 
+Degree 
+Bachelor's 
+Degree 
+PostBachelor's 
+Professional 
+Certification 
+(e.g., CPA, 
+PE, LEED) 
+Master's 
+Degree, 
+Ph.D., or 
+Law 
+Admin/clerical 
+4% 
+4% 
+5% 
+0% 
+0% 
+Assembly workers 
+27% 
+22% 
+0% 
+0% 
+0% 
+Attorneys 
+0% 
+0% 
+0% 
+1% 
+5% 
+Construction laborers 
+0% 
+0% 
+0% 
+0% 
+0% 
+Construction managers 
+8% 
+2% 
+14% 
+3% 
+2% 
+Development finance 
+0% 
+0% 
+3% 
+1% 
+1% 
+Development managers 
+2% 
+0% 
+12% 
+9% 
+9% 
+Development technical specialists 
+4% 
+0% 
+27% 
+6% 
+18% 
+Engineers 
+1% 
+0% 
+19% 
+6% 
+11% 
+Government regulatory workers 
+0% 
+0% 
+0% 
+0% 
+0% 
+Land-leasing agents 
+4% 
+2% 
+18% 
+0% 
+0% 
+Managers of sales, operations, & 
+training 
+1% 
+1% 
+11% 
+4% 
+9% 
+Manufacturing managers 
+3% 
+2% 
+9% 
+1% 
+0% 
+Manufacturing salespeople 
+1% 
+1% 
+11% 
+0% 
+0% 
+O&M accountants & bookkeepers 
+0% 
+1% 
+5% 
+1% 
+1% 
+Paralegals 
+0% 
+6% 
+10% 
+0% 
+0% 
+Product designers 
+1% 
+0% 
+10% 
+2% 
+4% 
+Professional trainers 
+12% 
+2% 
+8% 
+2% 
+7% 
+Professors & teachers 
+4% 
+7% 
+5% 
+3% 
+30% 
+Research engineers 
+0% 
+0% 
+9% 
+6% 
+36% 
+Resource assessors & surveyors 
+3% 
+6% 
+9% 
+0% 
+9% 
+Scientists 
+0% 
+0% 
+4% 
+2% 
+14% 
+Supply chain & purchasing managers 
+1% 
+2% 
+5% 
+0% 
+0% 
+Trade workers 
+25% 
+3% 
+2% 
+0% 
+0% 
+Transportation/logistics workers 
+0% 
+6% 
+8% 
+1% 
+0% 
+Wind technicians 
+45% 
+17% 
+0% 
+0% 
+0%
+
+---
+
+
+### Page 25
+
+19 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Project New Hires in Wind Workforce Needed for the 20% Wind by 
+2030 Scenario 
+To estimate new hires in the wind workforce, we began with our employer survey data, which 
+served as a baseline of current wind industry employees as of August 2012, by occupation. Then 
+we used the table below to project the future workforce. Most occupations were linked to annual 
+gigawatts installed. For instance, the 20% Wind by 2030 scenario indicates that 14 GW of wind 
+will need to be installed in 2016 (DOE 2008), 17% more than in 2012. Thus, we assume that 
+some segments of the wind workforce need to expand by that percentage to meet the increase in 
+installations, all else being equal. 
+However, all else is not equal each year. Our model also included two other factors: attrition at 
+an average rate of 7% per year6 and labor productivity increases of 1% to 3% annually, 
+depending on occupation (Bloomberg 2012). Our attrition figure only accounts for retirement 
+and individuals choosing to leave the wind industry and does not adjust for people who remain in 
+the wind industry but move to a new company as that does not impact the number of new 
+employees needed. As stated previously, 20% Wind by 2030 is only one industry growth 
+scenario; if wind deployment continues above this amount, an expanded workforce would be 
+expected. If deployment is slower than that represented in this scenario, a smaller workforce will 
+be the likely outcome. 
+
+6 Attrition figures are derived from the U.S. Bureau of Labor Statistics (accessed December 26, 2012: 
+http://www.bls.gov/news.release/ecopro.htm).
+
+---
+
+
+### Page 26
+
+20 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+
+Table 16. 20% Wind by 2030 Capacity Installation Requirements* 
+ 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+Annual GW 
+Installed 
+12 
+5 
+10 
+12 
+14 
+15 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+15 
+14 
+13 
+Cumulative 
+GW Installed 
+End of Year 
+59 
+64 
+74 
+86 
+100 
+115 
+131 
+147 
+163 
+179 
+195 
+211 
+227 
+243 
+259 
+275 
+290 
+304 
+317 
+Average 
+Cumulative 
+GW Installed 
+for the Year 
+53 
+62 
+69 
+80 
+93 
+108 
+123 
+139 
+155 
+171 
+187 
+203 
+219 
+235 
+251 
+267 
+283 
+297 
+311 
+Annual 
+Capacity 
+Installed 
+Relative to 
+2012 
+1.00 
+0.42 
+0.83 
+1.00 
+1.17 
+1.25 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.33 
+1.25 
+1.17 
+1.08 
+Average 
+Cumulative 
+Installed 
+Capacity 
+Relative to 
+2012 
+1.00 
+1.16 
+1.30 
+1.51 
+1.75 
+2.03 
+2.32 
+2.62 
+2.92 
+3.23 
+3.53 
+3.83 
+4.13 
+4.43 
+4.74 
+5.04 
+5.33 
+5.60 
+5.86 
+ 
+*U.S. DOE 2008. Note: 2012 is likely to occur based on actual installations to date as of November 2012. 2013 is adjusted down based on DOE guidance due to 
+recent industry expectations.
+
+---
+
+
+### Page 27
+
+21 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Jobs in the O&M sector were projected based on the growth of total cumulative installed 
+capacity, not annual installations. The following jobs are found in the O&M sector in our survey: 
+Table 17. Percent of Selected Occupations from the Survey in the O&M Sector 
+Wind technicians 
+Primarily O&M 
+Greater than 70% 
+O&M accountants & bookkeepers 
+Significant O&M 
+Greater than 30%, less than 70% 
+Managers of sales, operations, & training 
+Significant O&M 
+Greater than 30%, less than 70% 
+Attorneys 
+Some O&M 
+Less than 30% 
+Admin/clerical 
+Some O&M 
+Less than 30% 
+Engineers 
+Some O&M 
+Less than 30% 
+ 
+These jobs are also found in other supply chain sectors, thus the relationship of their growth with 
+increases in cumulative installations is correlated with the proportion of these jobs based in the 
+O&M sector. Table 17 groups these occupations into Primarily O&M, Significant O&M, and 
+Some O&M to clarify this relationship. 
+
+Figure 1. Wind employment projections to reach 20% Wind by 2030 (with average productivity 
+increases of 2% and attrition of 7%) 
+The growth of the wind industry included in this report follows projections outlined in 20% 
+Wind by 2030. This analysis did not attempt to assess whether these estimates of wind capacity 
+installations were accurate or likely. We simply used these projections, with an adjustment to 
+2013 for the expected reduction in installations, to estimate the projected change in employment 
+overall, as well as by occupation. 
+Total Employement 
+Change in Employment 
+vs. Previous Year 
+New Employees 
+Needed 
+ (40,000)
+ (30,000)
+ (20,000)
+ (10,000)
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+ 70,000
+ 80,000
+ 90,000
+ 100,000
+ 110,000
+Employees
+
+---
+
+
+### Page 28
+
+22 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+The wind industry is expecting a significant reduction in wind employment in 2013 because 
+Congress did not renew the Production Tax Credit until January.7 Based on projected 
+installations of 5 GW in 2013, this analysis does not anticipate an increase in wind industry 
+employment in the near term. In fact, reductions in workforce are likely to occur. Assuming a 
+resolution of the issues leading to this expected decline by 2014 and continuance on the path 
+outlined in the 20% Wind by 2030 scenario, most of those who lost their jobs in 2013 will be 
+needed again, as well as almost 2,000 new employees. After that, 12,000 to 14,000 new 
+employees per year will be needed from 2015 to 2018. From 2019 through 2027, 8,000 to 9,000 
+new employees will be needed per year. Total employment declines for the remaining 3 years 
+should occur as projections for new installations in the 20% Wind by 2030 scenario begin to 
+taper off. For these final 3 years, the new employees needed are primarily due to attrition 
+replacement. 
+Table 18 breaks down our estimates of the number of new employees that will be needed by year 
+and by occupation in the utility-scale wind sector. These estimates account for changes in 
+capacity installed per year, attrition due to retirement and people choosing to leave the wind 
+industry, and improvements in worker productivity. One can readily see that the largest demand 
+is for wind technicians, as the number of technicians will continue to increase each year as the 
+cumulative number of turbines installed in the United States grows. Further, many occupations 
+are not accounted for in this research (see the last table row). Due to time constraints with our 
+employer survey (to reduce respondent fatigue), we attempted to collect information on the most 
+common occupations, but many job functions were not included. 
+Light blue boxes in Table 18 indicate that no new employees are needed for that occupation 
+during that year (in fact, in 2013 it’s expected that many employees will be dismissed). We 
+assume that employees laid off in 2013 are rehired in 2014 or 2015, before new employees are 
+hired. This is why so few occupations require new employees in 2014. The number needed in 
+2015 is still muted due to expected rehiring of employees who lost their jobs in 2013. 
+Green boxes in Table 18 represent the high point year of new workers needed. For most 
+occupations, this occurs in 2016 when the increase in annual capacity installed is 2 GW above 
+the prior year and the previous peak annual installation in 2012. The next 2 years show increases 
+in annual capacity installed of 1 GW versus the prior year. After that, the number of new workers 
+needed each year declines as only attrition replacement is needed; there are no increases to 
+annual capacity installed (it levels out at 16 GW per year). Since productivity increases are built 
+into the model as well, not all employees lost due to attrition require replacement. For those 
+occupations primarily in the O&M sector, peak hiring occurs in 2019. The decline in the number 
+of new employees needed is minimal for these occupations, as they are correlated with 
+cumulative installed capacity (which continues to increase). The increase in cumulative installed 
+capacity is steady after 2019, and productivity increases cause the slight decline in the number of 
+new hires needed. 
+ 
+7 According to a study by Navigant Consulting, half the jobs in the wind industry and hundreds of U.S. factories 
+could be lost by the first quarter of 2013 if the Production Tax Credit was allowed to expire on December 31 
+(AWEA Press Release; December 21, 2012).
+
+---
+
+
+### Page 29
+
+23 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 18. Estimates of Additional Employees Needed by Occupation Per Year 
+Annual GW Wind Capacity Installed 
+12 
+5 
+10 
+12 
+14 
+15 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+15 
+14 
+13 
+Cumulative GW Installed Capacity End of 
+Year 
+59 
+64 
+74 
+86 
+100 
+115 
+131 
+147 
+163 
+179 
+195 
+211 
+227 
+243 
+259 
+275 
+290 
+304 
+317 
+
+New Workers Needed 2013-2030 
+ 
+# of 
+Current 
+Workers 
+(2012) 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+Admin/clerical 
+3,160 
+437 
+618 
+434 
+439 
+256 
+253 
+249 
+245 
+242 
+238 
+235 
+231 
+227 
+81 
+71 
+62 
+Assembly workers 
+1,230 
+81 
+226 
+139 
+138 
+55 
+53 
+51 
+50 
+48 
+47 
+46 
+44 
+43 
+Attorneys 
+531 
+87 
+106 
+78 
+79 
+50 
+49 
+49 
+48 
+48 
+47 
+47 
+46 
+45 
+22 
+20 
+18 
+Construction laborers 
+4,056 
+512 
+885 
+594 
+608 
+305 
+302 
+299 
+296 
+293 
+291 
+288 
+285 
+282 
+Construction managers 
+1,050 
+101 
+211 
+136 
+137 
+62 
+61 
+60 
+58 
+57 
+56 
+55 
+54 
+53 
+Development finance 
+1,081 
+71 
+199 
+122 
+121 
+48 
+47 
+45 
+44 
+43 
+41 
+40 
+39 
+38 
+Development managers 
+597 
+57 
+120 
+77 
+78 
+35 
+35 
+34 
+33 
+33 
+32 
+31 
+31 
+30 
+Development technical specialists 
+393 
+26 
+72 
+44 
+44 
+17 
+17 
+16 
+16 
+15 
+15 
+15 
+14 
+14 
+Engineers 
+5,992 
+1,058 
+1,363 
+990 
+1,023 
+627 
+629 
+632 
+634 
+636 
+638 
+640 
+642 
+644 
+253 
+227 
+201 
+Government regulatory workers 
+138 
+9 
+25 
+16 
+16 
+6 
+6 
+6 
+6 
+5 
+5 
+5 
+5 
+5 
+Land-leasing agents 
+212 
+14 
+39 
+24 
+24 
+9 
+9 
+9 
+9 
+8 
+8 
+8 
+8 
+7 
+Managers of sales, operations & training 
+1,975 
+200 
+438 
+474 
+414 
+433 
+361 
+364 
+367 
+370 
+372 
+374 
+376 
+378 
+380 
+305 
+293 
+281 
+Manufacturing managers 
+711 
+68 
+143 
+92 
+93 
+42 
+41 
+40 
+40 
+39 
+38 
+37 
+36 
+36 
+Manufacturing salespeople 
+939 
+62 
+173 
+106 
+105 
+42 
+40 
+39 
+38 
+37 
+36 
+35 
+34 
+33 
+O&M accountants & bookkeepers 
+448 
+88 
+80 
+107 
+122 
+133 
+140 
+144 
+144 
+144 
+144 
+143 
+143 
+142 
+142 
+141 
+137 
+132 
+126 
+Paralegals 
+72 
+5 
+13 
+8 
+8 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+2 
+Product designers 
+1,264 
+83 
+233 
+143 
+142 
+56 
+54 
+53 
+51 
+50 
+48 
+47 
+45 
+44 
+Professional trainers 
+432 
+28 
+79 
+49 
+49 
+19 
+19 
+18 
+18 
+17 
+16 
+16 
+16 
+15 
+Professors & teachers 
+888 
+58 
+163 
+100 
+100 
+39 
+38 
+37 
+36 
+35 
+34 
+33 
+32 
+31 
+Research engineers 
+929 
+61 
+171 
+105 
+104 
+41 
+40 
+39 
+38 
+37 
+35 
+34 
+33 
+32 
+Resource assessors & surveyors 
+652 
+51 
+125 
+78 
+78 
+33 
+32 
+31 
+30 
+30 
+29 
+28 
+27 
+27 
+Scientists 
+1,340 
+88 
+247 
+151 
+151 
+60 
+58 
+56 
+54 
+53 
+51 
+50 
+48 
+47 
+Supply chain & purchasing managers 
+421 
+28 
+77 
+47 
+47 
+19 
+18 
+18 
+17 
+17 
+16 
+16 
+15 
+15 
+Trade workers 
+5,561 
+533 
+1,117 
+718 
+725 
+328 
+322 
+315 
+309 
+303 
+297 
+291 
+285 
+279 
+Transportation/logistics workers 
+844 
+72 
+165 
+104 
+105 
+45 
+44 
+43 
+42 
+41 
+40 
+39 
+39 
+38 
+Wind technicians 
+11,475 
+1,404 
+2,312 
+2,672 
+3,021 
+3,194 
+3,361 
+3,364 
+3,363 
+3,360 
+3,354 
+3,345 
+3,334 
+3,320 
+3,304 
+3,286 
+3,147 
+3,009 
+2,871 
+Other occupations not covered here 
+19,341 
+525 
+4,016 
+4,248 
+3,375 
+3,480 
+2,530 
+2,519 
+2,507 
+2,495 
+2,481 
+2,466 
+2,450 
+2,433 
+2,415 
+1,528 
+1,423 
+1,320
+
+---
+
+
+### Page 30
+
+24 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Estimate Number of Graduates Needed by Degree Type 
+Table 19 combines our projections for the number of new hires needed with the percentage of 
+these new hires that would fulfill employers’ interests in hiring people with wind-specific 
+degrees or certification. The last table row shows the totals by certificate or degree type. This 
+table outlines how many new hires are needed with these wind-specific degree levels. 
+Table 19. New Wind Energy-Specific Credential Programs Needed in the United States 
+to Train the Future Wind Workforce 
+
+Maximum New Hires Needed with Wind-Specific Degrees/Certificates 
+Occupation 
+Maximum 
+New 
+Employees 
+Needed in 
+a Year 
+Year 
+This 
+Occurs 
+Post-Secondary 
+Professional 
+Certificate 
+(Journeyman, 
+Trade/ 
+Technical 
+Programs) 
+Associate's 
+Degree 
+Bachelor's 
+Degree 
+PostBachelor 
+Professional 
+Certification 
+(e.g., CPA, 
+PE, LEED) 
+Master's 
+Degree, 
+Ph.D., or 
+Law 
+Admin/clerical 
+618 
+2016 
+23 
+22 
+29 
+1 
+3 
+Assembly workers 
+226 
+2016 
+60 
+50 
+- 
+- 
+- 
+Attorneys 
+106 
+2016 
+- 
+- 
+0 
+2 
+5 
+Construction laborers 
+885 
+2016 
+- 
+- 
+- 
+- 
+- 
+Construction managers 
+211 
+2016 
+16 
+4 
+29 
+6 
+4 
+Development finance 
+199 
+2016 
+- 
+1 
+6 
+3 
+3 
+Development 
+managers 
+120 
+2016 
+2 
+- 
+14 
+10 
+10 
+Development technical 
+specialists 
+72 
+2016 
+3 
+- 
+19 
+4 
+13 
+Engineers 
+1,363 
+2016 
+11 
+- 
+264 
+75 
+143 
+Government regulatory 
+workers 
+25 
+2016 
+- 
+- 
+- 
+- 
+- 
+Land-leasing agents 
+39 
+2016 
+2 
+1 
+7 
+- 
+- 
+Managers of sales, 
+operations, & training 
+474 
+2016 
+6 
+6 
+50 
+19 
+41 
+Manufacturing 
+managers 
+143 
+2016 
+5 
+2 
+12 
+1 
+- 
+Manufacturing 
+salespeople 
+173 
+2016 
+1 
+2 
+18 
+1 
+1 
+O&M accountants & 
+bookkeepers 
+144 
+2019 
+- 
+1 
+7 
+1 
+1 
+Paralegals 
+13 
+2016 
+- 
+1 
+1 
+- 
+- 
+Product designers 
+233 
+2016 
+3 
+- 
+23 
+4 
+8 
+Professional trainers 
+79 
+2016 
+10 
+2 
+6 
+2 
+5 
+Professors and 
+teachers 
+163 
+2016 
+6 
+11 
+8 
+6 
+49 
+Research engineers 
+171 
+2016 
+- 
+- 
+15 
+10 
+61 
+Resource assessors & 
+surveyors 
+125 
+2016 
+4 
+7 
+11 
+- 
+11
+
+---
+
+
+### Page 31
+
+25 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+
+Maximum New Hires Needed with Wind-Specific Degrees/Certificates 
+Occupation 
+Maximum 
+New 
+Employees 
+Needed in 
+a Year 
+Year 
+This 
+Occurs 
+Post-Secondary 
+Professional 
+Certificate 
+(Journeyman, 
+Trade/ 
+Technical 
+Programs) 
+Associate's 
+Degree 
+Bachelor's 
+Degree 
+PostBachelor 
+Professional 
+Certification 
+(e.g., CPA, 
+PE, LEED) 
+Master's 
+Degree, 
+Ph.D., or 
+Law 
+Scientists 
+247 
+2016 
+- 
+- 
+9 
+5 
+35 
+Supply chain & 
+purchasing managers 
+77 
+2016 
+1 
+1 
+4 
+0 
+- 
+Trade workers 
+1,117 
+2016 
+282 
+28 
+21 
+- 
+- 
+Transportation/logistics 
+workers 
+165 
+2016 
+- 
+9 
+14 
+2 
+- 
+Wind technicians 
+3,364 
+2019 
+1,526 
+560 
+- 
+- 
+- 
+Other occupations 
+4,248 
+2016 
+789 
+286 
+228 
+61 
+159 
+ 
+TOTAL 
+2,749 
+996 
+795 
+212 
+553 
+ 
+When attempting to estimate the number of wind-specific degree programs needed to satisfy 
+industry demand, we must consider that many graduates choose to enter other industries upon 
+graduation. Table 20 details graduates per year by wind-specific degree level, as well as the 
+percentage of these graduates who move on to work in wind energy (keeping in mind that 
+programs self-reported). While most graduates with wind-specific degrees from community and 
+technical colleges do proceed to work in wind energy, the same cannot be said for university 
+graduates. We believe a primary reason for this is that the university-level degree programs tend 
+to be less focused on wind energy careers. The course work at the university level is broader 
+(e.g., “Renewable Energy Policy” with a unit on wind power) and allows graduates to pursue 
+more career paths. 
+Table 20. Percentage of Graduates Entering Wind Industry and 
+Number of Graduates Per Program Per Year 
+Percentage of 
+Graduates 
+Entering Wind 
+Industry 
+Graduates Per 
+Program Per 
+Year 
+Degree/Certificate 
+Institution 
+Type 
+Median 
+Mean 
+Median 
+Mean 
+Post-secondary professional 
+certificate (journeyman, 
+trade/technical programs) 
+Community 
+& tech 
+colleges 
+90% 
+75% 
+10 
+17 
+Associate's degree 
+Bachelor's degree 
+University 
+10% 
+15% 
+12 
+34 
+Post-bachelor professional 
+certification (e.g., CPA, PE, 
+LEED) 
+Master's degree, Ph.D., or Law
+
+---
+
+
+### Page 32
+
+26 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Table 21 shows the progression from the number of desired new hires with a wind energyspecific degree/certification to the number of graduates needed, given that not all graduates enter 
+the wind industry. According to our data set, this may be an obstacle for university programs but 
+not for community college programs in the future. The final step involves dividing the number of 
+graduates needed by the estimated graduating class size to determine the number of educational 
+programs needed, assuming that the class sizes remain similar to 2012 class sizes. 
+Appendix A explains how we estimated the number of wind-focused programs currently 
+available to potential students. With the exception of associate’s degree programs, it appears a 
+shortfall exists in currently available training programs relative to projections of industry 
+demand. 
+Table 21. Calculating Number of Wind Energy-Specific Programs Needed to Fulfill Projected 
+Industry Demand (rounded to the nearest 10 with the exception of graduates per year) 
+Degree/ 
+Certificate 
+Maximum 
+New Hires 
+Needed with 
+WindSpecific 
+Degrees/ 
+Certificates 
+Type of 
+Institution 
+Offering 
+Estimated 
+Percent of 
+Graduates 
+Entering 
+Wind 
+Industry
+8 
+Number 
+Needed to 
+Graduate in 
+Max Year 
+Estimated 
+Graduates 
+Per 
+Program 
+Per Year
+9 
+# of 
+Programs 
+Needed in 
+United 
+States* 
+# of 
+Programs 
+Currently 
+Available 
+Difference 
+Post-secondary 
+professional 
+certificate 
+(journeyman, 
+trade/technical 
+programs) 
+2,750 
+Community 
+& tech 
+colleges 
+83% 
+3,310 
+14 
+240 
+70 
+170 
+Associate's 
+degree 
+1000 
+Community 
+& tech 
+colleges 
+1,200 
+90 
+90 
+0 
+Bachelor's 
+degree 
+800 
+ 
+University 
+13% 
+6,120 
+23 
+270 
+20 
+250 
+Post-bachelor's 
+professional 
+certification (e.g., 
+CPA, PE, LEED) 
+210 
+University 
+1,630 
+70 
+NA 
+NA 
+Master's degree, 
+Ph.D., or Law 
+550 
+University 
+4,250 
+190 
+20 
+170 
+* Please see Appendices B and C for scenarios that explain how new employees could be trained without 
+such a significant increase in number of programs. 
+ 
+A few important caveats must be considered for Table 21. The table shows the percentage of 
+graduates who entered the wind industry in the recent past based on a relatively small survey of 
+educational institutions. Although a small percentage of university graduates with wind-specific 
+degrees entered the wind industry in the past year or two, this does not necessarily mean that the 
+same percentage will follow suit in the future. If the wind industry needs these graduates, they 
+could competitively pursue them. 
+Further, one must consider that the average class size provided by each school does not 
+necessarily represent the maximum number of people who could graduate from each program. 
+ 
+8 These estimates are the average of the mean and median figures presented in Table 20. 
+9 Ibid.
+
+---
+
+
+### Page 33
+
+27 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+While the potential expansion of class size was not included in our original school survey, we 
+followed up with a small collection of university programs to determine whether enrollment in 
+these degree programs was at maximum capacity or if additional students could be added without 
+significant increases in expenditures. The four universities we discussed this issue with provided 
+14 wind-specific degree programs. Of these 14 programs, half claimed that educating additional 
+students would require additional resources. The other half claimed that enrollment could 
+increase without adding significant additional capital or human resources. Of the seven degree 
+programs with available expansion, the schools reported that on average the number of graduates 
+could double before significant additional resources would be required (see Appendix B for 
+details). 
+Thus, if we combine these two factors and adjust our estimates accordingly, we would see that 
+the number of additional educational programs required declines drastically relative to what is 
+shown in Table 21. While these assumptions clearly reduce the magnitude of the shortfall, a 
+shortfall is still apparent between the number of currently available programs and the number 
+that will be needed to educate the workforce required to meet wind capacity growth outlined in 
+the 20% Wind by 2030 report. Appendix C details this alternate scenario. 
+Conclusions 
+ 
+Employer Preferences for Wind Energy Training and Education 
+In most cases, employers rate experience in a relevant occupational field as more important in 
+the hiring decision than experience in the wind energy industry. Hiring qualified candidates is 
+generally considered “somewhat difficult,” as opposed to “very difficult.” The most difficult-tofill positions are professors and teachers, followed by product design engineers. 
+Employers require a wide range of educational levels for their new hires. The most commonly 
+required level of education is a bachelor's degree, although several occupations require an 
+advanced degree. Exceptions to this include trade workers, assembly workers, and wind 
+technicians (generally requiring some form of post-high school professional certification) and 
+construction laborers (requiring a high school degree or equivalent). 
+Employers prefer candidates exposed to some form of wind energy training, but requirements for 
+wind-specific professional certification or wind-specific college degrees are not the norm among 
+the majority of employers. Wind industry employers only rank energy-specific professional 
+certification as somewhat or very important for four occupations: professional trainers, research 
+engineers, professors and teachers, and technical specialists. All employers believing it is 
+important for wind technicians and assembly workers to hold a college degree feel that this 
+degree should be wind energy-specific. Across all occupational classifications, fewer than 50% 
+of employers cite a wind energy-specific college degree as “somewhat important” or “very 
+important.” 
+Availability and Graduation Rates of Wind Workforce Training and 
+Educational Programs 
+A wide variety of program levels are offered, from 1-year post-secondary certificates to Ph.D. 
+programs. Many of these programs are newer, and current graduation rates may underestimate
+
+---
+
+
+### Page 34
+
+28 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+their future potential. Our sample did not include training courses that are offered outside of 
+educational institutions, such as employer-sponsored short courses that provide field experience. 
+Associate's degrees and 1-year post-secondary certificates are more likely to definitively prepare 
+graduates for work in the wind energy industry, as a high percentage of graduates move on to 
+work in wind. University degree programs, including bachelor's degrees and higher, are much 
+less likely to see their graduates enter the wind energy workforce. For university-level programs, 
+this percentage may appear surprisingly low given that we are focusing on wind energy-specific 
+degree programs. But as stated, most of the university degree programs had a broader curriculum 
+than the community and technical colleges, which thus enabled graduates to pursue opportunities 
+in a variety of industries. 
+Women in the Wind Industry 
+According to our survey, which only captures a segment of the domestic wind industry, women 
+comprise approximately 20% of the known wind workforce. The variance across occupations is 
+large. Six occupations of the 26 in our survey exhibited a majority of women in their workforce. 
+These six included paralegals, admin/clerical, government regulatory workers, operations and 
+maintenance accountants/bookkeepers, supply chain/purchasing managers, and development 
+finance. The occupations with the lowest female representation were assembly workers, 
+construction laborers, transportation/logistics workers, and wind technicians, each with less than 
+10%. One note of caution in this section is that according to BW Research staff, companies 
+asked about numbers of female employees tend to over-report the number of women working in 
+their company (Jordan 2012). 
+Growth of the Wind Workforce 
+Extrapolating the responses to our survey indicates that the wind workforce segment we have 
+captured contains approximately 70,000 employees as of 2012. This is an educated assessment of 
+the employers included in our research, not the entire U.S. wind industry. Of the workers we 
+counted, most are employed in the utility-scale wind sector (~66,000), as opposed to smallerscale commercial wind projects (~3,000). Following the capacity growth described in the 20% 
+Wind by 2030 scenario, our methods project that the United States will require a wind industry 
+workforce of approximately 105,000 by 2027 (including direct jobs and some supply chain jobs, 
+but no induced jobs). In 2016, when the United States is projected to install 16 GW per year, the 
+largest number of new hire workers is expected. Additional hires are needed each year to replace 
+attrition, as well as for the continued growth of occupations that fall within the O&M sector. The 
+number of O&M workers continues to grow as this figure is correlated with cumulative installed 
+capacity, as opposed to annual capacity installed. In the long run, the number of new employees 
+required each year declines over time as our modeling included anticipated increases in worker 
+productivity. 
+Growth in Educational Programs Focusing on Wind Energy 
+For this report, we assumed that the sample data we collected on class size and the transition 
+from school to industry are representative of all such educational programs (even though our 
+sample was small). To meet the peak demands for an educated and well-trained wind workforce, 
+the U.S. wind industry would need hundreds of degree programs focusing on wind energy. Based 
+on our estimates, the United States would need approximately 250 to 300 post-secondary
+
+---
+
+
+### Page 35
+
+29 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+professional certification programs, 80 to 120 associate's degree programs, 200 to 250 bachelor's 
+degree programs, 40 to 80 post-bachelor's professional certification programs, and 125 to 175 
+master's level or higher programs. Given the 20% Wind by 2030 scenario, this peak demand for 
+new hires generally occurs in 2016 for university graduates and 2019 for community college 
+graduates. This number of programs is a sizable increase from what is currently available, with 
+the exception of associate’s degree programs. 
+Alternative methods to produce enough graduates include increasing the number of students per 
+year per program (e.g., increase class size), or in the case of university graduates, developing 
+industry-university collaborations that help steer a greater number of qualified graduates into the 
+wind industry, such as internships. However, a shortfall would still exist, unless new programs 
+are created. 
+References 
+American Wind Energy Association. December 21, 2012. “American Wind Families Call on 
+Congress to Extend Wind Tax Credit." Accessed March 22, 2012: 
+http://www.awea.org/newsroom/pressreleases/All-we-want-for-Christmas-is-Economicsecurity.cfm 
+Bloomberg New Energy Finance. Wind, Solar - Research Note. March 5, 2012. 17 pp. (by 
+subscription only). 
+Jordan, Phillip. (August 6, 2012). Personal communication. BW Research, Carlsbad, CA. 
+Mihelic, M. (27 August 2012). Personal communication. American Wind Energy Association 
+(AWEA), Washington, DC. 
+U.S. Bureau of Labor Statistics. (2012). "Employment Projections: 2010-20 News Release." 
+Accessed December 26, 2012: http://www.bls.gov/news.release/ecopro.htm 
+U.S. Department of Energy. (2008). 20% Wind Energy by 2030: Increasing Wind Energy’s 
+Contribution to U.S. Electricity Supply. DOE/GO-102008-2578. Golden, CO: National 
+Renewable Energy Laboratory. Accessed December 26, 2012: 
+http://www.nrel.gov/docs/fy08osti/41869.pdf 
+Windustry. “Where can I find a school or training program specific to renewable energy?” 
+Accessed March 1, 2013. http://www.windustry.org/ resources/where-can-i-find-school-ortraining-program-specific-renewable-energy 
+Wind Energy Education and Training Programs. Wind Powering America. Accessed March 1, 
+2013. http://www.windpoweringamerica.gov /schools /education/education_training.asp 
+Wind Energy Education Programs. American Wind Energy Association. Accessed March 1, 
+2013. http://www.awea.org/learnabout/education/AWEA_Academic_Members.cfm
+
+---
+
+
+### Page 36
+
+30 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Appendix A: Estimate of U.S. Wind-Specific Degree Programs 
+Table 22 shows our best estimate of the number of wind-specific programs currently available in 
+the United States. We derived this estimate by combining AWEA’s educational program 
+database10 with Wind Power America’s educational database,11 resulting in 202 programs. 
+We then compared Windustry’s school program list12 with our list. Of the 37 programs listed by 
+Windustry, 35 were also found on our aggregate list (a 95% match). However, it is logical to 
+assume that the less-publicized programs would not be included in either of our lists, so we 
+chose to lower this coverage factor from 95% to 90%. We then divided the number of programs 
+in our list (202) by this 90% coverage factor, which increases our overall count estimate to 224. 
+Table 22. Estimate of Number of Current Degree Programs in the United States 
+Program Count 
+ 
+69 
+Post-secondary certificate 
+89 
+Associate's degree 
+19 
+Undergraduate certificate 
+20 
+Bachelor's degree 
+8 
+Graduate certificate 
+14 
+Master's degree 
+6 
+Ph.D. 
+224 
+Total 
+
+10 www.awea.org/learnabout/education/AWEA_Academic_Members.cfm 
+11 www.windpoweringamerica.gov /schools /education/education_training.asp 
+12 www.windustry.org/ resources/where-can-i-find-school-or-training-program-specific-renewable-energy
+
+---
+
+
+### Page 37
+
+31 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Appendix B: Limited Feedback on Potential Class Size Increases 
+While the potential expansion of class size was not included in our original school survey, we 
+followed up with some university programs to determine whether enrollment in these degree 
+programs was maxed out or whether additional students could be added without significant 
+increases in expenditures. The four universities we conversed with on this issue possessed 14 
+wind-specific degree programs. 
+Table 23. Potential Class Size Increases 
+Programs for Which 
+We Received 
+Feedback on 
+Expandability 
+Programs that Can Be 
+Expanded without 
+Additional Resources 
+Percentage of 
+Programs that Can Be 
+Expanded 
+14 
+7 
+50% 
+Total # of Graduates 
+per Year in Classes 
+that Could Be 
+Expanded 
+Potential Number of 
+Additional Graduates 
+% Increase in # of 
+Graduates 
+% Programs 
+Expandable X 
+% Increase in # of 
+Graduates 
+107 
+120 
+112% 
+56%
+
+---
+
+
+### Page 38
+
+32 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Appendix C: Alternate Scenario Produces Outcome with Smaller 
+Shortfall of Programs 
+Following Table 21 in the report, we noted two factors that if considered would significantly 
+reduce the number of additional wind energy educational programs that would need to be created 
+to meet growing industry demand. In Table 24, we show the impact of employing these two 
+factors in an alternate projection. 
+First, we increased the percentage of university graduates that chose to enter the wind industry 
+upon graduation. Several factors could generate such an outcome, such as greater strategic 
+recruiting by the industry, higher salaries, expanding internship programs, program scholarships 
+and more. If we split the difference between the 13% estimate of those entering the wind 
+industry among university graduates with the 83% estimate for community and technical 
+colleges, we arrive at a 43% placement rate. 
+If we use the limited data we obtained for the possibility of expanding graduates per program, 
+without schools needing to invest significant additional resources (i.e., just fill up empty seats in 
+class), we would get a 50% increase in graduates per program per year (from 14 to 21 for 
+community/ technical colleges and from 23 to 34 for university programs). 
+Table 24 shows the results of using these two alternative inputs. We can see that the number of 
+programs required declines drastically relative to what is shown in Table 21. While these 
+assumptions clearly reduce the magnitude of the shortfall, a shortfall is still apparent between the 
+number of currently available programs and the number that will be needed to educate the 
+workforce required to meet wind capacity growth outlined in the 20% Wind by 2030 report. 
+Table 24. Calculating Number of Wind Energy-Specific Programs Needed to Fulfill Projected 
+Industry Demand (Alternate Scenario) 
+Degree/ 
+Certificate 
+Maximum 
+New Hires 
+Needed with 
+WindSpecific 
+Degrees/ 
+Certificates 
+Type of 
+Institution 
+Offering 
+Estimated 
+Percent of 
+Graduates 
+Entering 
+Wind 
+Industry 
+Number 
+Needed to 
+Graduate in 
+Max Year 
+Estimated 
+Graduates 
+Per 
+Program 
+Per Year 
+# of 
+Programs 
+Needed in 
+US 
+# of 
+Programs 
+Currently 
+Available 
+Difference 
+Post-secondary 
+professional 
+certificate 
+(journeyman, 
+trade/technical 
+programs) 
+2,750 
+Community 
+& tech 
+colleges 
+83% 
+3,310 
+21 
+160 
+70 
+90 
+Associate's 
+degree 
+1,000 
+Community 
+& tech 
+colleges 
+1,200 
+60 
+90 
+-30 
+Bachelor's 
+degree 
+800 
+ 
+University 
+48% 
+1,660 
+34 
+50 
+20 
+30 
+Post-bachelor's 
+professional 
+certification 
+(e.g., CPA, PE, 
+LEED) 
+210 
+University 
+440 
+10 
+NA 
+NA 
+Master's 
+degree, Ph.D., 
+or Law 
+550 
+University 
+1,150 
+30 
+20 
+10
+
+---
+
+
+### Page 39
+
+33 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Appendix D: BW Research Method for Estimating Today’s Wind Power 
+Employees 
+Note: BW Research provided this explanation. 
+Based on the sampling of wind companies conducted in August and September 2012, BW 
+Research Partnership estimates that the 15 selected domestic wind industry segments13 employ 
+69,126 workers.14 To derive this estimate, BW Research first split the responses into two 
+categories – those that reported working with large systems (i.e., utility-scale and large 
+commercial wind turbines) and those that were pre-identified by the National Renewable Energy 
+Laboratory (NREL) as working with smaller (typically residential) systems.15 Mean wind 
+employment was derived for each category (large = 27.32 workers; small = 13.71 workers). 
+In addition to mean employment, BW Research calculated the number of firms in each category. 
+For large firms, the initial database (derived from AWEA membership lists, Open EI, Windustry, 
+NREL, and other sources) included 3,023 firms. NREL pre-identified 48 firms for the small firm 
+database. A description of each process is detailed below. 
+Large-Wind Process 
+To calculate the number of large-wind firms, BW Research calculated several factors to refine 
+the database. The first of these, churn, uses a ratio of calls reaching dead air, disconnections, 
+fast-busy, wrong number, or no business locations, to the total number of telephone attempts 
+made. This rate of 5.65% is then applied to the total firm database of 3,023. 
+Next, a “not-in-United States” rate is applied, similar to the above, for all firms that were asked 
+the question (in this case, 38 of the 502 firms that reached the screener indicated that they were 
+not located in the United States, a rate of 7.57%). This ratio is then applied to the post-churn 
+database. 
+Ninety-one of the 463 respondents (19.65%) reported that their firms do not conduct windrelated activities, which again is applied to the database. 
+Finally, 30 of the 392 firms that were asked reported that they were small firms (thereby 
+terminating) for a rate of 7.65%.16 
+Once each of these rates is applied, the 3,023 firms are reduced to 2,045 firms that are active, 
+domestic, large-wind firms. 
+ 
+13 It is important to note that several industry segments were not included for study, such as government. Other 
+firms that are far removed from final goods and services, such as mining, smelting, etc., are also excluded due to 
+said firms’ inability to accurately allocate workers supporting the wind energy portions of their business. 
+14 For the purposes of this memorandum, a “worker” is an employee that spends a majority of his or her time 
+supporting the wind portion of the business. This is used as a reasonable proxy for full-time equivalent workers 
+(FTEs) but is not interchangeable. 
+15 Any firms that reported being “small” and were not pre-identified by NREL were terminated. 
+16 Other factors, such as refusals, are excluded from the churn analysis.
+
+---
+
+
+### Page 40
+
+34 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Based on our research in other sectors, including national solar studies, we estimate that the 
+original database accounts for approximately 85% of all firms. If this same rate is assumed in the 
+current instance, the number of firms that meet the screener definition of a “wind firm” is 2,406. 
+When this figure is multiplied by the (question 2) mean wind energy employment of 27.32, the 
+result is 65,729 workers.17 
+Small-Wind Process 
+With a much smaller sample size, BW Research conducted a churn rate that included all relevant 
+screen-outs. In the sample of 48 firms, 42 were attempted by telephone, and six were screenouts, for a total churn rate of 14.29%. This reduces the overall universe to 41 firms. 
+In addition to these 41 firms, BW Research added approximately 169 small-wind firms that were 
+deleted from the large universe sample for reporting that they worked with small systems. This 
+results in 211 total small firms.18 Using the same 85% capture rate assumption, this yields a total 
+of 248 small wind firms. 
+With a mean wind employment of 13.71 workers19 in the small universe, it is estimated that the 
+small-wind universe employs 3,397 wind workers. These 3,397 workers, when added to the 
+65,729 workers in the large firm universe, equals 69,126 wind workers in the 15 selected wind 
+industry categories. 
+
+17 A further assumption is made that the 15% of firms not in the database have a similar profile (mean) to the 85% of 
+firms included in the database. 
+18 Due to decimal rounding. 
+19 This assumes that the firms that screened out of the large sample have a similar profile (mean) to the preidentified firms in the small universe sample.
+
+---
+
+
+### Page 41
+
+35 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Appendix E: BW Research Survey 
+Note: NREL did not edit this survey.
+
+---
+
+
+### Page 42
+
+36 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+EL 
+Wind Skills Assessment 
+July 28 2012 
+Version 4.6 
+NREL Wind Employer Survey – Web Version 
+ 
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` 
+This research is being conducted on behalf of the National Renewable Energy Laboratory, or 
+NREL, and the Department of Energy who would value your participation in a brief survey 
+about the nation’s wind industry workforce. This is the first attempt to understand the full 
+breadth of the wind workforce in a systematic fashion. Your help in this project is the best way 
+that we can arrive at a meaningful understanding of the workforce needs of this industry. 
+Your individual responses will not be published; only aggregated information will be used in 
+reporting the survey results. 
+ 
+The survey should take approximately 15 minutes of your time. By answering this survey, you 
+can help inform how investments of time and money should be made to support the industry 
+and how to prepare the present and future wind energy labor pool based on your needs. 
+The survey is being hosted by BW Research for NREL. 
+ 
+[Show NREL Logo on Intro Page] 
+ 
+Screener Questions 
+A. What is the zip code of your current location? 
+ 
+____________________ (Accept all five-digit responses) 
+Have check box for Refused 
+B. Is your company involved with an activity related to the wind energy industry? We define 
+this as being directly involved with researching, developing, producing, manufacturing, 
+distributing or implementing components, goods or services related to wind energy. 
+ 
+1 
+Yes [CONTINUE] 
+ 
+2 
+No [TERMINATE] 
+ 
+3 
+Not sure [TERMINATE] 
+
+C. In which of the following wind industry segments does your organization participate? 
+ 
+Check all that apply. 
+1. Site Identification, Assessment or Pre-Development 
+2. Project Development: Legal, Real Estate or Finance 
+3. Project Permitting: Regulatory, Environmental or Wildlife Assessment 
+4. Manufacturing of Engineered Structures (tower, bedplate, hub) 
+5. Manufacturing of Drive Trains (couplings, bearings, gearboxes) 
+6. Manufacturing of Blades 
+7. Manufacturing of Power Equipment and Electronics (generators, cables, cooling, lighting, 
+etc.) 
+8. Manufacturing of Sub-components or Materials
+
+---
+
+
+### Page 43
+
+37 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+9. Nacelle Assembly 
+10. Sales, Distribution or Transport of Wind Energy Products (including OEM sales) 
+11. On-site Civil Works (roads, foundations, site improvements) 
+12. On-site Mechanical Assembly (installation of towers or turbines) 
+13. On-site Electrical Work (substation, collection grid, final grid connection) 
+14. Operations and Maintenance 
+15. Education, Training or Research 
+ 
+[ASK SCREENER D IF MORE THAN ONE SELECTED AT SCREENER C] 
+D. Which do you consider your organization’s primary focus as it relates to the wind industry? 
+[PIPE IN RESPONSES SELECTED AT SCREENER C, ACCEPT ONE] 
+ 
+1. Site Identification, Assessment or Pre-Development 
+2. Project Development: Legal, Real Estate or Finance 
+3. Project Permitting: Regulatory, Environmental or Wildlife Assessment 
+4. Manufacturing of Engineered Structures (tower, bedplate, hub) 
+5. Manufacturing of Drive Trains (couplings, bearings, gearboxes) 
+6. Manufacturing of Blades 
+7. Manufacturing of Power Equipment and Electronics (generators, cables, cooling, lighting, 
+etc.) 
+8. Manufacturing of Sub-components or Materials 
+9. Nacelle Assembly. 
+10. Sales, Distribution or Transport of Wind Energy Products (including OEM sales) 
+11. On-site Civil Works (roads, foundations, site improvements) 
+12. On-site Mechanical Assembly (installation of towers or turbines) 
+13. On-site Electrical Work (substation, collection grid, final grid connection) 
+14. Operations and Maintenance 
+15. Education, Training or Research 
+
+E. 
+What size systems does your firm typically work with? (do NOT ask for response 15 Question D) 
+ 
+Please choose one. 
+
+1 Residential or Small commercial 
+ 
+2 Large commercial or Utility-scale 
+3 
+Don’t know/ Refused 
+ 
+F. How many business locations does your firm have in the U.S. that conduct wind activities? 
+ 
+IF Screener F > 1 or Refused, ask Screener G 
+ 
+G. Do you feel comfortable answering questions about the hiring and staffing needs of all of 
+your firm’s locations or just your current location? 
+
+1 
+All locations [CONTINUE] 
+ 
+2 
+Only my location [CONTINUE[ – Please provide us with the email address of someone at 
+your firm who is able to answer questions about hiring and staffing at other locations so 
+that we can send him or her a survey. 
+
+Collect Email: _________
+
+---
+
+
+### Page 44
+
+38 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+ 
+3 
+No - Please provide us with the email address of someone at your firm who is able to 
+answer questions about hiring and staffing at your firm so that we can send him or her a 
+survey. 
+
+Collect Email: _________ 
+ 
+IF Screener G = 1 , state: “For the purposes of this survey, the term “firm” shall refer to all of 
+your U.S. business locations. 
+If Screener G = 2 or Screener F=1, state “For the purposes of this survey, the term “firm” shall 
+refer to your current business location only” 
+If Screener G = 3, terminate 
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` 
+SECTION 1 - Firm Profile 
+1. Including all full-time and part-time employees, how many permanent employees work at 
+your firm? 
+
+Record # of employees ___________ 
+
+Have check box for Refused 
+ 
+IF q1=0 Skip q2 and ask q3. Then Skip q4 thru q10 
+ 
+2. If you currently have [TAKE Q1 #] full-time and part-time permanent employees at your 
+firm, how many of these workers, spend at least 50% of their work time, supporting the 
+wind energy portion of your business? 
+
+Record # of employees ___________ 
+
+Have check box for Refused 
+ 
+[Q2 SHOULD BE LESS THAN OR EQUAL TO Q1 - BUILD IN CHECK] 
+ 
+3. How many temporary workers do you have at your firm that spend at least 50% of their 
+work time supporting the wind energy portion of your business? 
+
+Record # of employees ___________ 
+
+Have check box for Refused 
+[IF MORE WIND ENERGY WORKERS THAN LAST YEAR (Q3>Q4) Ask Section 2, Otherwise Skip 
+to Section 3] 
+ 
+SECTION 2 – Workforce Development and Training Needs 
+Occupation-Related Questions 
+ 
+[NOTE - PLEASE COMMUNICATE TO RESPONDENT THAT WE WILL BE USING GENERAL 
+OCCUPATIONAL TITLES RATHER THAN SPECIFIC JOB TITLES THAT MAY BE USED WITHIN 
+EACH ORGANIZATION]
+
+---
+
+
+### Page 45
+
+39 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+4. 8.4. 
+The next section of the survey will ask about the occupations within your 
+organization. The occupational titles we are using may differ from the specific position titles 
+used in your organization. For these questions, please try to equate your organization’s 
+specific position titles with the more general ones we will use here. 
+ 
+Please only assign one occupation to each employee. If they fall into more than one 
+category, please assign them to the occupation in which they devote more of their time. 
+ 
+Does your firm employ individuals in positions matching the following general occupational 
+titles? 
+ 
+(1 = Yes, 2 = No, 3 =DK/NA) 
+ 
+** After Screener D create a new variable titled sdprime. If only one choice selected at Screener 
+C, sdprime= Screener C choice, If multiple choices at Screener D, sdprime=Screener D choice ** 
+sdprime Occupation Title 
+Occ # in the data 
+14 Accountant or bookkeeper 
+1 
+2 Accountant, loan specialist or finance officer 
+2 
+1 
+Admin/ Clerical 
+3 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+3 Archaeologist 
+4 
+2 
+Attorney 
+5 
+10 
+14 
+3 Biologist 
+6 
+3 Civil Engineer 
+7 
+11 
+Construction laborers 
+8 
+12 
+13 
+1 Construction manager/Land Acquisition 
+9 
+3 Electrical Engineer 
+10 
+1 
+Engineer 
+11 
+2 
+10 
+12
+
+---
+
+
+### Page 46
+
+40 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+13 
+14 
+11 
+4 
+Engineers and product designers 
+12 
+5 
+6 
+7 
+8 
+9 
+4 
+First line managers (including ES&H) 
+13 
+5 
+6 
+7 
+8 
+9 
+3 Government Regulatory Workers 
+14 
+11 
+Heavy equipment operators (including cranes) 
+15 
+12 
+13 
+2 Land Leasing Agent 
+16 
+10 Logistics technician 
+17 
+14 Management 
+18 
+15 
+10 Manager 
+19 
+2 Paralegal 
+20 
+15 Professional trainer 
+21 
+15 Professor, teacher or educator 
+22 
+2 Project Management 
+23 
+11 
+Project managers 
+24 
+12 
+13 
+15 Research engineer 
+25 
+1 Resource Assessment Analyst 
+26 
+4 
+Salesperson 
+27 
+5 
+6 
+7 
+8 
+9 
+10 
+1 Scientist/biologist 
+28 
+4 
+Supply chain managers/purchasing 
+29 
+5 
+6 
+7 
+8 
+9 
+11 Surveyors 
+30 
+2 Technical Specialist 
+31
+
+---
+
+
+### Page 47
+
+41 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+12 Technician 
+32 
+14 
+7 Technicians and Assembly Workers 
+33 
+9 
+4 
+Trade workers and specialists 
+34 
+5 
+6 
+7 
+8 
+9 
+11 
+12 
+13 Trade workers and specialists, including electricians 
+10 Transportation workers 
+35 
+ 
+5. Thinking about the wind energy portion of your business, how many individuals do you have 
+at your firm that are currently employed either full-time, part-time or temporarily in each 
+occupation? 
+ 
+A 
+Occupation 1 
+ 
+#### (Record Number) 
+ 
+B 
+Occupation 2 
+ 
+#### (Record Number) 
+ 
+C 
+Occupation 3 
+ 
+#### (Record Number) 
+ 
+D 
+Occupation 4 
+ 
+#### (Record Number) 
+ 
+CONTINUE FOR AS MANY OCCUPATIONS IN EACH CATEGORY 
+ 
+[CREATE INTERNAL CONTROL SO THAT THE COMBINED OCCUPATIONAL EMPLOYMENT IS NOT 
+MORE THAN OVERALL WIND FOCUSED EMPLOYMENT Q2 +Q3] 
+
+6. Please indicate the level of difficulty your firm has in finding qualified applicants who 
+meet the organization’s hiring standards. 
+
+Don’t 
+
+No 
+Some 
+Great 
+know/ 
+
+difficulty 
+difficulty 
+difficulty 
+Refused 
+A. Occupation 1 ........................................................................ 1 
+2 
+3 
+4 
+Occupation 2 .............................................................................. 1 
+2 
+3 
+4 
+Occupation 3 .............................................................................. 1 
+2 
+3 
+4 
+Occupation 4 .............................................................................. 1 
+2 
+3 
+4 
+ 
+7. For each of the following occupations, please select the preferred educational attainment 
+for new hires. 
+1 High school diploma or less 
+2 Post secondary professional certificate (journeyman, trade/technical programs) 
+3 Associate Degree 
+4 Bachelor Degree 
+5 Post Bachelor professional certification (examples: CPA, PE, LEED) 
+6 Master Degree, Ph D or Law
+
+---
+
+
+### Page 48
+
+42 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+8. Thinking about the different types of [pipe in occupation] that work in the wind 
+energy portions of your business, do any of these individuals require the following 
+skills sets or educational certifications, and if so are they somewhat important or 
+very important? 
+ 
+RANDOMIZE 
+
+Don’t 
+
+No, this 
+Somewhat 
+Very 
+know/ 
+
+Is Not Needed Important Important Refused 
+A. Prior work experience in a related field 
+B. Prior work experience specifically in Wind Energy ...... 1 
+2 
+3 
+4 
+C. Wind Energy specific training (including courses, workshops, conferences, etc) 
+D. Professional Certification in their occupation 
+E. Wind Energy specific Professional Certification ........... 1 
+2 
+3 
+4 
+ ...................................................... 1 
+2 
+3 
+4 
+F. College Degree 
+G. Wind Energy specific college degree ............................ 1 
+2 
+3 
+4 
+ 
+9. For each of the following occupations, please provide any specific training credentials that 
+you deem valuable. 
+[open end] 
+10. For each of the following occupations, how many of the [pipe in q5] are women? 
+ 
+Record # of women ___________ 
+ 
+SECTION 3 – Revenue Question 
+11. Approximately how much of your firm’s work, in terms of total revenue, is related to 
+wind energy products or services? 
+
+1 
+All of it (100%) 
+ 
+2 
+Half to most of it (50% to 99%) 
+ 
+3 
+A quarter but less than half of it (25% to 49%) 
+ 
+4 
+Less than a quarter (1% to 24%) 
+ 
+5 
+Don’t know/ Refused 
+ 
+SECTION 4 – Installation Questions 
+NREL truly appreciates your assistance in answering all the previous questions related to 
+assessing your wind energy workforce. The purpose of the next question is to help us correlate 
+how many employees are needed for different levels of Wind Energy production. Please 
+provide your best estimate. 
+Ask Q12 of those responding 1,2,3,10,11,12,13,14 from Screener Question D 
+12. How many megawatts (MW) or kilowatts (k W) of Wind Energy, or Wind Energy 
+systems, has your firm developed, evaluated, sold, or installed of over the last 12 
+months? 
+ 
+Record __________ 
+
+Have check box for Refused
+
+---
+
+
+### Page 49
+
+43 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Ask Q13 of those responding 15 from Screener Question D 
+13. How many people were educated or trained in Wind Energy by your firm or 
+institution over the last 12 months? 
+ 
+i. Record __________ 
+ 
+ii. Have check box for Don’t know/Refused [IF THAT IS CHECKED 
+BRING UP INTERVAL ESTIMATE] 
+
+a. 1 to 49 
+b. 50 to 249 
+c. 250 to 499 
+d. 500 to 999 
+e. 1,000 or more 
+ 
+14. If your firm were selected to provide goods or services for a newly planned, 100 MW 
+wind farm, how many total employees would contribute labor hours to the project? 
+ 
+Record __________ 
+ 
+Ask Q15 of those responding 4,5,6,7,8,9 from Screener Question D 
+ 
+15. Thinking of an average (for example, 2.0 MW) wind turbine, how many labor hours 
+of work at your firm is attributed to producing the components necessary for one 
+wind turbine? 
+ 
+Record __________ 
+ 
+SECTION 5 – Permission Questions 
+16. Are you interested in receiving future information about the findings of this research? 
+ 
+ 1 Yes 
+ 2 No 
+ 
+17. Would you be willing to be contacted by educators and researchers to participate in a 
+follow-up interview regarding this research? 
+ 
+ 1 Yes 
+ 2 No 
+ 
+18. Would you like to have your name included into our raffle drawing for a chance to win an 
+i Pad 3? 
+1. 
+Yes 
+2. 
+No
+
+---
+
+
+### Page 50
+
+44 
+ This report is available at no cost from the 
+National Renewable Energy Laboratory (NREL) 
+at www.nrel.gov/publications. 
+Thank you for completing the survey. Since it sometimes becomes necessary for the project 
+manager to confirm responses to certain questions, please verify your contact information. 
+ 
+This information will also be used to ensure that we do not call you as part of our telephone 
+survey effort for this project. 
+
+A. First and Last Name___________________ 
+B. Position__________________________ 
+C. Phone_____________ 
+D. Email ______________ 
+E. Company Name___________________ 
+F. Company Address ___________________ 
+G. Company City ___________________ 
+H. Company State ___________________ 
+I. 
+Company Zip ___________________ 
+ 
+Thank you very much for your time. 
+
+J. Survey Date___________________ 
+K. Survey Time___________________
+
+---

@@ -1,0 +1,1247 @@
+{
+  "totalHitsEncounteredAcrossPages": 20416,
+  "retrievedCountForThisQuery": 27,
+  "searchIdentifier": "initial_primary_0",
+  "originalQuery": "Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations",
+  "results": [
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 274719080,
+      "doi": null,
+      "title": "Moving Beyond Direct Load Control: A Maturity Model for Realizing the Promise of Demand Flexibility",
+      "abstract": "This report discusses a new maturity model that regulators and utilities can use to guide and expand demand flexibility programs and enable the resources to provide more grid services. The model has six demand flexibility categories: planning and design; customer engagement; program operations; evaluation, measurement and verification; distributed energy resource orchestration; and data infrastructure. Within each category, capabilities are identified and described on a maturity scale that ranges from performing below expectations to improving on best practices",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-16T00:00:00",
+      "authors": [
+        {
+          "name": "Frick, Natalie Mims"
+        },
+        {
+          "name": "Schellenberg, Josh A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/635937094.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 86735010,
+      "doi": null,
+      "title": "Frequency Regulation with Heterogeneous Energy Resources: A Realization\n  using Distributed Control",
+      "abstract": "This paper presents one of the first real-life demonstrations of coordinated\nand distributed resource control for secondary frequency response in a power\ndistribution grid. We conduct a series of tests with up to 69 heterogeneous\nactive devices consisting of air handling units, unidirectional and\nbidirectional electric vehicle charging stations, a battery energy storage\nsystem, and 107 passive devices consisting of building loads and photovoltaic\ngenerators. Actuation commands for the test devices are obtained by solving an\neconomic dispatch problem at every regulation instant using distributed\nratio-consensus, primal-dual, and Newton-like algorithms. The distributed\ncontrol setup consists of a set of Raspberry Pi end-points exchanging messages\nvia an ethernet switch. The problem formulation minimizes the sum of device\ncosts while tracking the setpoints provided by the system operator. We\ndemonstrate accurate and fast real-time distributed computation of the\noptimization solution and effective tracking of the regulation signal by\nmeasuring physical device outputs over 40-minute time horizons. We also perform\nan economic benefit analysis which confirms eligibility to participate in an\nancillary services market and demonstrates up to $53K of potential annual\nrevenue for the selected population of devices",
+      "yearPublished": 2021,
+      "publishedDate": "2021-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Anderson, Tor"
+        },
+        {
+          "name": "Cortes, Jorge"
+        },
+        {
+          "name": "Haghi, Hamed Valizadeh"
+        },
+        {
+          "name": "Kleissl, Jan"
+        },
+        {
+          "name": "Martinez, Sonia"
+        },
+        {
+          "name": "Muralidharan, Manasa"
+        },
+        {
+          "name": "Srivastava, Priyank"
+        },
+        {
+          "name": "Washom, Byron"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2007.07971",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19067252,
+      "doi": "10.17192/z2019.0044",
+      "title": "Secure Communication in Disaster Scenarios",
+      "abstract": "W\u00e4hrend Naturkatastrophen oder terroristischer Anschl\u00e4ge ist die bestehende Kommunikationsinfrastruktur h\u00e4ufig \u00fcberlastet oder f\u00e4llt komplett aus. In diesen Situationen k\u00f6nnen mobile Ger\u00e4te mithilfe von drahtloser ad-hoc- und unterbrechungstoleranter Vernetzung miteinander verbunden werden, um ein Notfall-Kommunikationssystem f\u00fcr Zivilisten und Rettungsdienste einzurichten. Falls verf\u00fcgbar, kann eine Verbindung zu Cloud-Diensten im Internet eine wertvolle Hilfe im Krisen- und Katastrophenmanagement sein. \r\nSolche Kommunikationssysteme bergen jedoch ernsthafte Sicherheitsrisiken, da Angreifer versuchen k\u00f6nnten, vertrauliche Daten zu stehlen, gef\u00e4lschte Benachrichtigungen von Notfalldiensten einzuspeisen oder Denial-of-Service (DoS) Angriffe durchzuf\u00fchren. Diese Dissertation schl\u00e4gt neue Ans\u00e4tze zur Kommunikation in Notfallnetzen von mobilen Ger\u00e4ten vor, die von der Kommunikation zwischen Mobilfunkger\u00e4ten bis zu Cloud-Diensten auf Servern im  Internet reichen. Durch die Nutzung dieser Ans\u00e4tze werden die Sicherheit der Ger\u00e4te-zu-Ger\u00e4te-Kommunikation, die Sicherheit von Notfall-Apps auf mobilen Ger\u00e4ten und die Sicherheit von Server-Systemen f\u00fcr Cloud-Dienste verbessert",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baumg\u00e4rtner, Lars"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/226760451.pdf",
+      "publisher": "Philipps-Universit\u00e4t Marburg",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 112321073,
+      "doi": "10.5445/ir/1000131731",
+      "title": "Distributed Planning for Self-Organizing Production Systems",
+      "abstract": "F\u00fcr automatisierte Produktionsanlagen gibt es einen fundamentalen Tradeoff\n\t\t\t\t\t\tzwischen Effizienz und Flexibilit\u00e4t. In den meisten F\u00e4llen sind die Abl\u00e4ufe\n\t\t\t\t\t\tnicht nur durch den physischen Aufbau der Produktionsanlage, sondern auch durch\n\t\t\t\t\t\tdie spezielle zugeschnittene Programmierung der Anlagensteuerung fest\n\t\t\t\t\t\tvorgegeben. \u00c4nderungen m\u00fcssen aufw\u00e4ndig in einer Vielzahl von Systemen\n\t\t\t\t\t\tnachgezogen werden. Das macht die Herstellung kleiner St\u00fcckzahlen unrentabel.\n\t\t\t\t\t\tIn dieser Dissertation wird ein Ansatz entwickelt, um eine automatische\n\t\t\t\t\t\tAnpassung des Verhaltens von Produktionsanlagen an wechselnde Auftr\u00e4ge und\n\t\t\t\t\t\tRahmenbedingungen zu erreichen. Dabei kommt das Prinzip der Selbstorganisation\n\t\t\t\t\t\tdurch verteilte Planung zum Einsatz. Die aufeinander aufbauenden Ergebnisse der\n\t\t\t\t\t\tDissertation sind wie folgt:\n\t\t\t\t\t\t1. Es wird ein Modell von Produktionsanlagen entwickelt, dass nahtlos von der\n\t\t\t\t\t\t   detaillierten Betrachtung physikalischer Produktionsprozesse bis hin zu\n\t\t\t\t\t\t   Lieferbeziehungen zwischen Unternehmen skaliert. Im Vergleich zu\n\t\t\t\t\t\t   existierenden Modellen von Produktionsanlagen werden weniger limitierende\n\t\t\t\t\t\t   Annahmen gestellt. In diesem Sinne ist der Modellierungsansatz ein Kandidat\n\t\t\t\t\t\t   f\u00fcr eine h\u00e4ufig geforderte \"Theorie der Produktion\".\n\t\t\t\t\t\t2. F\u00fcr die so modellierten Szenarien wird ein Algorithmus zur Optimierung der\n\t\t\t\t\t\t   nebenl\u00e4ufigen Abl\u00e4ufe entwickelt. Der Algorithmus verbindet Techniken f\u00fcr die\n\t\t\t\t\t\t   kombinatorische und die kontinuierliche Optimierung: Je nach Detailgrad und\n\t\t\t\t\t\t   Ausgestaltung des modellierten Szenarios kann der identische Algorithmus\n\t\t\t\t\t\t   kombinatorische Fertigungsfeinplanung (Scheduling) vornehmen, weltweite\n\t\t\t\t\t\t   Lieferbeziehungen unter Einbezug von Unsicherheiten und Risiko optimieren und\n\t\t\t\t\t\t   physikalische Prozesse pr\u00e4diktiv regeln. Daf\u00fcr werden Techniken der\n\t\t\t\t\t\t   Monte-Carlo Baumsuche (die auch bei Deepminds Alpha Go zum Einsatz kommen)\n\t\t\t\t\t\t   weiterentwickelt. Durch Ausnutzung zus\u00e4tzlicher Struktur in den Modellen\n\t\t\t\t\t\t   skaliert der Ansatz auch auf gro\u00dfe Szenarien.\n\t\t\t\t\t\t3. Der Planungsalgorithmus wird auf die verteilte Optimierung durch unabh\u00e4ngige\n\t\t\t\t\t\t   Agenten \u00fcbertragen. Daf\u00fcr wird die sogenannte \"Nutzen-Propagation\" als\n\t\t\t\t\t\t   Koordinations-Mechanismus entwickelt. Diese ist von der Belief-Propagation\n\t\t\t\t\t\t   zur Inferenz in Probabilistischen Graphischen Modellen inspiriert. Jeder\n\t\t\t\t\t\t   teilnehmende Agent hat einen lokalen Handlungsraum, in dem er den\n\t\t\t\t\t\t   Systemzustand beobachten und handelnd eingreifen kann. Die Agenten sind an\n\t\t\t\t\t\t   der Maximierung der Gesamtwohlfahrt \u00fcber alle Agenten hinweg interessiert.\n\t\t\t\t\t\t   Die daf\u00fcr notwendige Kooperation entsteht \u00fcber den Austausch von Nachrichten\n\t\t\t\t\t\t   zwischen benachbarten Agenten. Die Nachrichten beschreiben den erwarteten\n\t\t\t\t\t\t   Nutzen f\u00fcr ein angenommenes Verhalten im Handlungsraum beider Agenten.\n\t\t\t\t\t\t4. Es wird eine Beschreibung der wiederverwendbaren F\u00e4higkeiten von Maschinen\n\t\t\t\t\t\t   und Anlagen auf Basis formaler Beschreibungslogiken entwickelt. Ausgehend von\n\t\t\t\t\t\t   den beschriebenen F\u00e4higkeiten, sowie der vorliegenden Auftr\u00e4ge mit ihren\n\t\t\t\t\t\t   notwendigen Produktionsschritten, werden ausf\u00fchrbare Aktionen abgeleitet. Die\n\t\t\t\t\t\t   ausf\u00fchrbaren Aktionen, mit wohldefinierten Vorbedingungen und Effekten,\n\t\t\t\t\t\t   kapseln ben\u00f6tigte Parametrierungen, programmierte Abl\u00e4ufe und die\n\t\t\t\t\t\t   Synchronisation von Maschinen zur Laufzeit.\n\t\t\t\t\t\tDie Ergebnisse zusammenfassend werden Grundlagen f\u00fcr flexible automatisierte\n\t\t\t\t\t\tProduktionssysteme geschaffen -- in einer Werkshalle, aber auch \u00fcber Standorte\n\t\t\t\t\t\tund Organisationen verteilt -- welche die ihnen innewohnenden Freiheitsgrade\n\t\t\t\t\t\tdurch Planung zur Laufzeit und agentenbasierte Koordination gezielt einsetzen\n\t\t\t\t\t\tk\u00f6nnen. Der Bezug zur Praxis wird durch Anwendungsbeispiele hergestellt. Die\n\t\t\t\t\t\tMachbarkeit des Ansatzes wurde mit realen Maschinen im Rahmen des EU-Projekts\n\t\t\t\t\tSkillPro und in einer Simulationsumgebung mit weiteren Szenarien demonstriert",
+      "yearPublished": 2021,
+      "publishedDate": "2021-04-21T01:00:00",
+      "authors": [
+        {
+          "name": "Pfrommer, Julius"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/425276032.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 274719080,
+      "doi": null,
+      "title": "Moving Beyond Direct Load Control: A Maturity Model for Realizing the Promise of Demand Flexibility",
+      "abstract": "This report discusses a new maturity model that regulators and utilities can use to guide and expand demand flexibility programs and enable the resources to provide more grid services. The model has six demand flexibility categories: planning and design; customer engagement; program operations; evaluation, measurement and verification; distributed energy resource orchestration; and data infrastructure. Within each category, capabilities are identified and described on a maturity scale that ranges from performing below expectations to improving on best practices",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-16T00:00:00",
+      "authors": [
+        {
+          "name": "Frick, Natalie Mims"
+        },
+        {
+          "name": "Schellenberg, Josh A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/635937094.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 86735010,
+      "doi": null,
+      "title": "Frequency Regulation with Heterogeneous Energy Resources: A Realization\n  using Distributed Control",
+      "abstract": "This paper presents one of the first real-life demonstrations of coordinated\nand distributed resource control for secondary frequency response in a power\ndistribution grid. We conduct a series of tests with up to 69 heterogeneous\nactive devices consisting of air handling units, unidirectional and\nbidirectional electric vehicle charging stations, a battery energy storage\nsystem, and 107 passive devices consisting of building loads and photovoltaic\ngenerators. Actuation commands for the test devices are obtained by solving an\neconomic dispatch problem at every regulation instant using distributed\nratio-consensus, primal-dual, and Newton-like algorithms. The distributed\ncontrol setup consists of a set of Raspberry Pi end-points exchanging messages\nvia an ethernet switch. The problem formulation minimizes the sum of device\ncosts while tracking the setpoints provided by the system operator. We\ndemonstrate accurate and fast real-time distributed computation of the\noptimization solution and effective tracking of the regulation signal by\nmeasuring physical device outputs over 40-minute time horizons. We also perform\nan economic benefit analysis which confirms eligibility to participate in an\nancillary services market and demonstrates up to $53K of potential annual\nrevenue for the selected population of devices",
+      "yearPublished": 2021,
+      "publishedDate": "2021-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Anderson, Tor"
+        },
+        {
+          "name": "Cortes, Jorge"
+        },
+        {
+          "name": "Haghi, Hamed Valizadeh"
+        },
+        {
+          "name": "Kleissl, Jan"
+        },
+        {
+          "name": "Martinez, Sonia"
+        },
+        {
+          "name": "Muralidharan, Manasa"
+        },
+        {
+          "name": "Srivastava, Priyank"
+        },
+        {
+          "name": "Washom, Byron"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2007.07971",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19067252,
+      "doi": "10.17192/z2019.0044",
+      "title": "Secure Communication in Disaster Scenarios",
+      "abstract": "W\u00e4hrend Naturkatastrophen oder terroristischer Anschl\u00e4ge ist die bestehende Kommunikationsinfrastruktur h\u00e4ufig \u00fcberlastet oder f\u00e4llt komplett aus. In diesen Situationen k\u00f6nnen mobile Ger\u00e4te mithilfe von drahtloser ad-hoc- und unterbrechungstoleranter Vernetzung miteinander verbunden werden, um ein Notfall-Kommunikationssystem f\u00fcr Zivilisten und Rettungsdienste einzurichten. Falls verf\u00fcgbar, kann eine Verbindung zu Cloud-Diensten im Internet eine wertvolle Hilfe im Krisen- und Katastrophenmanagement sein. \r\nSolche Kommunikationssysteme bergen jedoch ernsthafte Sicherheitsrisiken, da Angreifer versuchen k\u00f6nnten, vertrauliche Daten zu stehlen, gef\u00e4lschte Benachrichtigungen von Notfalldiensten einzuspeisen oder Denial-of-Service (DoS) Angriffe durchzuf\u00fchren. Diese Dissertation schl\u00e4gt neue Ans\u00e4tze zur Kommunikation in Notfallnetzen von mobilen Ger\u00e4ten vor, die von der Kommunikation zwischen Mobilfunkger\u00e4ten bis zu Cloud-Diensten auf Servern im  Internet reichen. Durch die Nutzung dieser Ans\u00e4tze werden die Sicherheit der Ger\u00e4te-zu-Ger\u00e4te-Kommunikation, die Sicherheit von Notfall-Apps auf mobilen Ger\u00e4ten und die Sicherheit von Server-Systemen f\u00fcr Cloud-Dienste verbessert",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baumg\u00e4rtner, Lars"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/226760451.pdf",
+      "publisher": "Philipps-Universit\u00e4t Marburg",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 112321073,
+      "doi": "10.5445/ir/1000131731",
+      "title": "Distributed Planning for Self-Organizing Production Systems",
+      "abstract": "F\u00fcr automatisierte Produktionsanlagen gibt es einen fundamentalen Tradeoff\n\t\t\t\t\t\tzwischen Effizienz und Flexibilit\u00e4t. In den meisten F\u00e4llen sind die Abl\u00e4ufe\n\t\t\t\t\t\tnicht nur durch den physischen Aufbau der Produktionsanlage, sondern auch durch\n\t\t\t\t\t\tdie spezielle zugeschnittene Programmierung der Anlagensteuerung fest\n\t\t\t\t\t\tvorgegeben. \u00c4nderungen m\u00fcssen aufw\u00e4ndig in einer Vielzahl von Systemen\n\t\t\t\t\t\tnachgezogen werden. Das macht die Herstellung kleiner St\u00fcckzahlen unrentabel.\n\t\t\t\t\t\tIn dieser Dissertation wird ein Ansatz entwickelt, um eine automatische\n\t\t\t\t\t\tAnpassung des Verhaltens von Produktionsanlagen an wechselnde Auftr\u00e4ge und\n\t\t\t\t\t\tRahmenbedingungen zu erreichen. Dabei kommt das Prinzip der Selbstorganisation\n\t\t\t\t\t\tdurch verteilte Planung zum Einsatz. Die aufeinander aufbauenden Ergebnisse der\n\t\t\t\t\t\tDissertation sind wie folgt:\n\t\t\t\t\t\t1. Es wird ein Modell von Produktionsanlagen entwickelt, dass nahtlos von der\n\t\t\t\t\t\t   detaillierten Betrachtung physikalischer Produktionsprozesse bis hin zu\n\t\t\t\t\t\t   Lieferbeziehungen zwischen Unternehmen skaliert. Im Vergleich zu\n\t\t\t\t\t\t   existierenden Modellen von Produktionsanlagen werden weniger limitierende\n\t\t\t\t\t\t   Annahmen gestellt. In diesem Sinne ist der Modellierungsansatz ein Kandidat\n\t\t\t\t\t\t   f\u00fcr eine h\u00e4ufig geforderte \"Theorie der Produktion\".\n\t\t\t\t\t\t2. F\u00fcr die so modellierten Szenarien wird ein Algorithmus zur Optimierung der\n\t\t\t\t\t\t   nebenl\u00e4ufigen Abl\u00e4ufe entwickelt. Der Algorithmus verbindet Techniken f\u00fcr die\n\t\t\t\t\t\t   kombinatorische und die kontinuierliche Optimierung: Je nach Detailgrad und\n\t\t\t\t\t\t   Ausgestaltung des modellierten Szenarios kann der identische Algorithmus\n\t\t\t\t\t\t   kombinatorische Fertigungsfeinplanung (Scheduling) vornehmen, weltweite\n\t\t\t\t\t\t   Lieferbeziehungen unter Einbezug von Unsicherheiten und Risiko optimieren und\n\t\t\t\t\t\t   physikalische Prozesse pr\u00e4diktiv regeln. Daf\u00fcr werden Techniken der\n\t\t\t\t\t\t   Monte-Carlo Baumsuche (die auch bei Deepminds Alpha Go zum Einsatz kommen)\n\t\t\t\t\t\t   weiterentwickelt. Durch Ausnutzung zus\u00e4tzlicher Struktur in den Modellen\n\t\t\t\t\t\t   skaliert der Ansatz auch auf gro\u00dfe Szenarien.\n\t\t\t\t\t\t3. Der Planungsalgorithmus wird auf die verteilte Optimierung durch unabh\u00e4ngige\n\t\t\t\t\t\t   Agenten \u00fcbertragen. Daf\u00fcr wird die sogenannte \"Nutzen-Propagation\" als\n\t\t\t\t\t\t   Koordinations-Mechanismus entwickelt. Diese ist von der Belief-Propagation\n\t\t\t\t\t\t   zur Inferenz in Probabilistischen Graphischen Modellen inspiriert. Jeder\n\t\t\t\t\t\t   teilnehmende Agent hat einen lokalen Handlungsraum, in dem er den\n\t\t\t\t\t\t   Systemzustand beobachten und handelnd eingreifen kann. Die Agenten sind an\n\t\t\t\t\t\t   der Maximierung der Gesamtwohlfahrt \u00fcber alle Agenten hinweg interessiert.\n\t\t\t\t\t\t   Die daf\u00fcr notwendige Kooperation entsteht \u00fcber den Austausch von Nachrichten\n\t\t\t\t\t\t   zwischen benachbarten Agenten. Die Nachrichten beschreiben den erwarteten\n\t\t\t\t\t\t   Nutzen f\u00fcr ein angenommenes Verhalten im Handlungsraum beider Agenten.\n\t\t\t\t\t\t4. Es wird eine Beschreibung der wiederverwendbaren F\u00e4higkeiten von Maschinen\n\t\t\t\t\t\t   und Anlagen auf Basis formaler Beschreibungslogiken entwickelt. Ausgehend von\n\t\t\t\t\t\t   den beschriebenen F\u00e4higkeiten, sowie der vorliegenden Auftr\u00e4ge mit ihren\n\t\t\t\t\t\t   notwendigen Produktionsschritten, werden ausf\u00fchrbare Aktionen abgeleitet. Die\n\t\t\t\t\t\t   ausf\u00fchrbaren Aktionen, mit wohldefinierten Vorbedingungen und Effekten,\n\t\t\t\t\t\t   kapseln ben\u00f6tigte Parametrierungen, programmierte Abl\u00e4ufe und die\n\t\t\t\t\t\t   Synchronisation von Maschinen zur Laufzeit.\n\t\t\t\t\t\tDie Ergebnisse zusammenfassend werden Grundlagen f\u00fcr flexible automatisierte\n\t\t\t\t\t\tProduktionssysteme geschaffen -- in einer Werkshalle, aber auch \u00fcber Standorte\n\t\t\t\t\t\tund Organisationen verteilt -- welche die ihnen innewohnenden Freiheitsgrade\n\t\t\t\t\t\tdurch Planung zur Laufzeit und agentenbasierte Koordination gezielt einsetzen\n\t\t\t\t\t\tk\u00f6nnen. Der Bezug zur Praxis wird durch Anwendungsbeispiele hergestellt. Die\n\t\t\t\t\t\tMachbarkeit des Ansatzes wurde mit realen Maschinen im Rahmen des EU-Projekts\n\t\t\t\t\tSkillPro und in einer Simulationsumgebung mit weiteren Szenarien demonstriert",
+      "yearPublished": 2021,
+      "publishedDate": "2021-04-21T01:00:00",
+      "authors": [
+        {
+          "name": "Pfrommer, Julius"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/425276032.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034",
+      "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+      "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+      "yearPublished": 2013,
+      "publishedDate": "2013-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Qian, Y"
+        },
+        {
+          "name": "Sharif, H"
+        },
+        {
+          "name": "Tipper, D"
+        },
+        {
+          "name": "Yan, Y"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 31329057,
+      "doi": "10.1109/inm.2015.7140291",
+      "title": "Algorithms for advance bandwidth reservation in media production networks",
+      "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Barshan, Maryam"
+        },
+        {
+          "name": "De Turck, Filip"
+        },
+        {
+          "name": "Famaey, Jeroen"
+        },
+        {
+          "name": "Moens, Hendrik"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 274719080,
+      "doi": null,
+      "title": "Moving Beyond Direct Load Control: A Maturity Model for Realizing the Promise of Demand Flexibility",
+      "abstract": "This report discusses a new maturity model that regulators and utilities can use to guide and expand demand flexibility programs and enable the resources to provide more grid services. The model has six demand flexibility categories: planning and design; customer engagement; program operations; evaluation, measurement and verification; distributed energy resource orchestration; and data infrastructure. Within each category, capabilities are identified and described on a maturity scale that ranges from performing below expectations to improving on best practices",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-16T00:00:00",
+      "authors": [
+        {
+          "name": "Frick, Natalie Mims"
+        },
+        {
+          "name": "Schellenberg, Josh A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/635937094.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 86735010,
+      "doi": null,
+      "title": "Frequency Regulation with Heterogeneous Energy Resources: A Realization\n  using Distributed Control",
+      "abstract": "This paper presents one of the first real-life demonstrations of coordinated\nand distributed resource control for secondary frequency response in a power\ndistribution grid. We conduct a series of tests with up to 69 heterogeneous\nactive devices consisting of air handling units, unidirectional and\nbidirectional electric vehicle charging stations, a battery energy storage\nsystem, and 107 passive devices consisting of building loads and photovoltaic\ngenerators. Actuation commands for the test devices are obtained by solving an\neconomic dispatch problem at every regulation instant using distributed\nratio-consensus, primal-dual, and Newton-like algorithms. The distributed\ncontrol setup consists of a set of Raspberry Pi end-points exchanging messages\nvia an ethernet switch. The problem formulation minimizes the sum of device\ncosts while tracking the setpoints provided by the system operator. We\ndemonstrate accurate and fast real-time distributed computation of the\noptimization solution and effective tracking of the regulation signal by\nmeasuring physical device outputs over 40-minute time horizons. We also perform\nan economic benefit analysis which confirms eligibility to participate in an\nancillary services market and demonstrates up to $53K of potential annual\nrevenue for the selected population of devices",
+      "yearPublished": 2021,
+      "publishedDate": "2021-02-04T00:00:00",
+      "authors": [
+        {
+          "name": "Anderson, Tor"
+        },
+        {
+          "name": "Cortes, Jorge"
+        },
+        {
+          "name": "Haghi, Hamed Valizadeh"
+        },
+        {
+          "name": "Kleissl, Jan"
+        },
+        {
+          "name": "Martinez, Sonia"
+        },
+        {
+          "name": "Muralidharan, Manasa"
+        },
+        {
+          "name": "Srivastava, Priyank"
+        },
+        {
+          "name": "Washom, Byron"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2007.07971",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 78451001,
+      "doi": null,
+      "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+      "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research funds to address critical electric grid issues, especially those arising from integrating high penetrations of variable renewable generation with the electric grid. It contains an assessment of the beneficial science and technology advances of the resultant portfolio of electric grid research projects administered under the direction of the CEC by a competitively selected contractor, the University of California\u2019s California Institute for Energy and the Environment, from 2003-2014",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Brown, Merwin"
+        },
+        {
+          "name": "Cibulka, Lloyd"
+        },
+        {
+          "name": "Mateer, Niall"
+        },
+        {
+          "name": "von Meier, Alexandra"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+      "publisher": "eScholarship, University of California",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 54755010,
+      "doi": "10.3390/en12030491",
+      "title": "The Next-Generation Retail Electricity Market in the\nContext of Distributed Energy Resources: Vision and\nIntegrating Framework",
+      "abstract": "The increasing adoption of distributed energy resources (DERs) and smart grid technologies (SGTs) by end-user retail customers is changing significantly both technical and economic operations in the distribution grid. The next-generation retail electricity market will promote decentralization, efficiency, and competitiveness by accommodating existing and new agents through new business models and transactive approaches in an advanced metering infrastructure (AMI). However, these changes will bring several technical challenges to be addressed in transmission and distribution systems. Considerable activities have been carried out worldwide to study the impacts of integrating DERs into the grid and in the wholesale electricity market. However, the big vision and framework of the next-generation retail market in the context of DERs is still unclear. This paper aims to present a brief review of the present retail electricity market, some recent developments, and a comprehensive vision of the next-generation retail electricity market by describing its expected characteristics, challenges, needs, and future research topics to be addressed. A framework of integrating retail and wholesale electricity markets is also presented and discussed. The proposed vision and framework particularly highlight the necessity of new business models and regulatory initiatives to establish decentralized markets for DERs at the retail level as well as advances in technology and infrastructure necessary to allow the widespread use of DERs in active and effective ways",
+      "yearPublished": 2019,
+      "publishedDate": "2019-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Aguero, Julio Romero"
+        },
+        {
+          "name": "do Prado, Josue Campos"
+        },
+        {
+          "name": "Qiao, Wei"
+        },
+        {
+          "name": "Qu, Liyan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/188144006.pdf",
+      "publisher": "DigitalCommons@University of Nebraska - Lincoln",
+      "journals": [
+        {
+          "title": "Energies",
+          "identifiers": [
+            "issn:1996-1073",
+            "1996-1073"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19175188,
+      "doi": "10.1007/978-3-030-35291-2_1",
+      "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+      "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing global temperatures, and energy issues). The IoT with integrated sensing and communication capabilities has the strong potential for the robust, sustainable, and informed resource management in the urban and rural communities. In this chapter, the vital concepts of sustainable community development are discussed. The IoT and sustainability interactions are explained with emphasis on Sustainable Development Goals (SDGs) and communication technologies. Moreover, IoT opportunities and challenges are discussed in the context of sustainable community development",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "A Azmoodeh"
+        },
+        {
+          "name": "A Bassi"
+        },
+        {
+          "name": "A G Merkulov"
+        },
+        {
+          "name": "A Khanna"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Salam"
+        },
+        {
+          "name": "A Schneider"
+        },
+        {
+          "name": "B Leleux"
+        },
+        {
+          "name": "B R Keeble"
+        },
+        {
+          "name": "C Zhang"
+        },
+        {
+          "name": "D Li"
+        },
+        {
+          "name": "F Al-Turjman"
+        },
+        {
+          "name": "F Cicirelli"
+        },
+        {
+          "name": "G Beier"
+        },
+        {
+          "name": "G Ding"
+        },
+        {
+          "name": "G Elhayatmy"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Fortino"
+        },
+        {
+          "name": "G Solmaz"
+        },
+        {
+          "name": "H S Kim"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I F Akyildiz"
+        },
+        {
+          "name": "I Hong"
+        },
+        {
+          "name": "J Hopkins"
+        },
+        {
+          "name": "J Zhang"
+        },
+        {
+          "name": "K Liolis"
+        },
+        {
+          "name": "L E Jackson"
+        },
+        {
+          "name": "L Xu Da"
+        },
+        {
+          "name": "M Bacco"
+        },
+        {
+          "name": "M C Vuran"
+        },
+        {
+          "name": "M J Tiusanen"
+        },
+        {
+          "name": "M Maksimovic"
+        },
+        {
+          "name": "M R Stead"
+        },
+        {
+          "name": "M Yao"
+        },
+        {
+          "name": "N R Council"
+        },
+        {
+          "name": "N Zhu"
+        },
+        {
+          "name": "P Godge"
+        },
+        {
+          "name": "R Gravina"
+        },
+        {
+          "name": "R Materese"
+        },
+        {
+          "name": "R Varatharajan"
+        },
+        {
+          "name": "S Basagni"
+        },
+        {
+          "name": "S Berke"
+        },
+        {
+          "name": "S Bluetooth"
+        },
+        {
+          "name": "S Chandrasekharan"
+        },
+        {
+          "name": "S Nandi"
+        },
+        {
+          "name": "S Schneider"
+        },
+        {
+          "name": "S Singh"
+        },
+        {
+          "name": "V Dale"
+        },
+        {
+          "name": "V N Swamy"
+        },
+        {
+          "name": "X Dong"
+        },
+        {
+          "name": "Xin Tan"
+        },
+        {
+          "name": "Y Li"
+        },
+        {
+          "name": "Y Liu"
+        },
+        {
+          "name": "Y Simmhan"
+        },
+        {
+          "name": "Y Wang"
+        },
+        {
+          "name": "Z Zhang"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+      "publisher": "'Purdue University (bepress)'",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19067252,
+      "doi": "10.17192/z2019.0044",
+      "title": "Secure Communication in Disaster Scenarios",
+      "abstract": "W\u00e4hrend Naturkatastrophen oder terroristischer Anschl\u00e4ge ist die bestehende Kommunikationsinfrastruktur h\u00e4ufig \u00fcberlastet oder f\u00e4llt komplett aus. In diesen Situationen k\u00f6nnen mobile Ger\u00e4te mithilfe von drahtloser ad-hoc- und unterbrechungstoleranter Vernetzung miteinander verbunden werden, um ein Notfall-Kommunikationssystem f\u00fcr Zivilisten und Rettungsdienste einzurichten. Falls verf\u00fcgbar, kann eine Verbindung zu Cloud-Diensten im Internet eine wertvolle Hilfe im Krisen- und Katastrophenmanagement sein. \r\nSolche Kommunikationssysteme bergen jedoch ernsthafte Sicherheitsrisiken, da Angreifer versuchen k\u00f6nnten, vertrauliche Daten zu stehlen, gef\u00e4lschte Benachrichtigungen von Notfalldiensten einzuspeisen oder Denial-of-Service (DoS) Angriffe durchzuf\u00fchren. Diese Dissertation schl\u00e4gt neue Ans\u00e4tze zur Kommunikation in Notfallnetzen von mobilen Ger\u00e4ten vor, die von der Kommunikation zwischen Mobilfunkger\u00e4ten bis zu Cloud-Diensten auf Servern im  Internet reichen. Durch die Nutzung dieser Ans\u00e4tze werden die Sicherheit der Ger\u00e4te-zu-Ger\u00e4te-Kommunikation, die Sicherheit von Notfall-Apps auf mobilen Ger\u00e4ten und die Sicherheit von Server-Systemen f\u00fcr Cloud-Dienste verbessert",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baumg\u00e4rtner, Lars"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/226760451.pdf",
+      "publisher": "Philipps-Universit\u00e4t Marburg",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 112321073,
+      "doi": "10.5445/ir/1000131731",
+      "title": "Distributed Planning for Self-Organizing Production Systems",
+      "abstract": "F\u00fcr automatisierte Produktionsanlagen gibt es einen fundamentalen Tradeoff\n\t\t\t\t\t\tzwischen Effizienz und Flexibilit\u00e4t. In den meisten F\u00e4llen sind die Abl\u00e4ufe\n\t\t\t\t\t\tnicht nur durch den physischen Aufbau der Produktionsanlage, sondern auch durch\n\t\t\t\t\t\tdie spezielle zugeschnittene Programmierung der Anlagensteuerung fest\n\t\t\t\t\t\tvorgegeben. \u00c4nderungen m\u00fcssen aufw\u00e4ndig in einer Vielzahl von Systemen\n\t\t\t\t\t\tnachgezogen werden. Das macht die Herstellung kleiner St\u00fcckzahlen unrentabel.\n\t\t\t\t\t\tIn dieser Dissertation wird ein Ansatz entwickelt, um eine automatische\n\t\t\t\t\t\tAnpassung des Verhaltens von Produktionsanlagen an wechselnde Auftr\u00e4ge und\n\t\t\t\t\t\tRahmenbedingungen zu erreichen. Dabei kommt das Prinzip der Selbstorganisation\n\t\t\t\t\t\tdurch verteilte Planung zum Einsatz. Die aufeinander aufbauenden Ergebnisse der\n\t\t\t\t\t\tDissertation sind wie folgt:\n\t\t\t\t\t\t1. Es wird ein Modell von Produktionsanlagen entwickelt, dass nahtlos von der\n\t\t\t\t\t\t   detaillierten Betrachtung physikalischer Produktionsprozesse bis hin zu\n\t\t\t\t\t\t   Lieferbeziehungen zwischen Unternehmen skaliert. Im Vergleich zu\n\t\t\t\t\t\t   existierenden Modellen von Produktionsanlagen werden weniger limitierende\n\t\t\t\t\t\t   Annahmen gestellt. In diesem Sinne ist der Modellierungsansatz ein Kandidat\n\t\t\t\t\t\t   f\u00fcr eine h\u00e4ufig geforderte \"Theorie der Produktion\".\n\t\t\t\t\t\t2. F\u00fcr die so modellierten Szenarien wird ein Algorithmus zur Optimierung der\n\t\t\t\t\t\t   nebenl\u00e4ufigen Abl\u00e4ufe entwickelt. Der Algorithmus verbindet Techniken f\u00fcr die\n\t\t\t\t\t\t   kombinatorische und die kontinuierliche Optimierung: Je nach Detailgrad und\n\t\t\t\t\t\t   Ausgestaltung des modellierten Szenarios kann der identische Algorithmus\n\t\t\t\t\t\t   kombinatorische Fertigungsfeinplanung (Scheduling) vornehmen, weltweite\n\t\t\t\t\t\t   Lieferbeziehungen unter Einbezug von Unsicherheiten und Risiko optimieren und\n\t\t\t\t\t\t   physikalische Prozesse pr\u00e4diktiv regeln. Daf\u00fcr werden Techniken der\n\t\t\t\t\t\t   Monte-Carlo Baumsuche (die auch bei Deepminds Alpha Go zum Einsatz kommen)\n\t\t\t\t\t\t   weiterentwickelt. Durch Ausnutzung zus\u00e4tzlicher Struktur in den Modellen\n\t\t\t\t\t\t   skaliert der Ansatz auch auf gro\u00dfe Szenarien.\n\t\t\t\t\t\t3. Der Planungsalgorithmus wird auf die verteilte Optimierung durch unabh\u00e4ngige\n\t\t\t\t\t\t   Agenten \u00fcbertragen. Daf\u00fcr wird die sogenannte \"Nutzen-Propagation\" als\n\t\t\t\t\t\t   Koordinations-Mechanismus entwickelt. Diese ist von der Belief-Propagation\n\t\t\t\t\t\t   zur Inferenz in Probabilistischen Graphischen Modellen inspiriert. Jeder\n\t\t\t\t\t\t   teilnehmende Agent hat einen lokalen Handlungsraum, in dem er den\n\t\t\t\t\t\t   Systemzustand beobachten und handelnd eingreifen kann. Die Agenten sind an\n\t\t\t\t\t\t   der Maximierung der Gesamtwohlfahrt \u00fcber alle Agenten hinweg interessiert.\n\t\t\t\t\t\t   Die daf\u00fcr notwendige Kooperation entsteht \u00fcber den Austausch von Nachrichten\n\t\t\t\t\t\t   zwischen benachbarten Agenten. Die Nachrichten beschreiben den erwarteten\n\t\t\t\t\t\t   Nutzen f\u00fcr ein angenommenes Verhalten im Handlungsraum beider Agenten.\n\t\t\t\t\t\t4. Es wird eine Beschreibung der wiederverwendbaren F\u00e4higkeiten von Maschinen\n\t\t\t\t\t\t   und Anlagen auf Basis formaler Beschreibungslogiken entwickelt. Ausgehend von\n\t\t\t\t\t\t   den beschriebenen F\u00e4higkeiten, sowie der vorliegenden Auftr\u00e4ge mit ihren\n\t\t\t\t\t\t   notwendigen Produktionsschritten, werden ausf\u00fchrbare Aktionen abgeleitet. Die\n\t\t\t\t\t\t   ausf\u00fchrbaren Aktionen, mit wohldefinierten Vorbedingungen und Effekten,\n\t\t\t\t\t\t   kapseln ben\u00f6tigte Parametrierungen, programmierte Abl\u00e4ufe und die\n\t\t\t\t\t\t   Synchronisation von Maschinen zur Laufzeit.\n\t\t\t\t\t\tDie Ergebnisse zusammenfassend werden Grundlagen f\u00fcr flexible automatisierte\n\t\t\t\t\t\tProduktionssysteme geschaffen -- in einer Werkshalle, aber auch \u00fcber Standorte\n\t\t\t\t\t\tund Organisationen verteilt -- welche die ihnen innewohnenden Freiheitsgrade\n\t\t\t\t\t\tdurch Planung zur Laufzeit und agentenbasierte Koordination gezielt einsetzen\n\t\t\t\t\t\tk\u00f6nnen. Der Bezug zur Praxis wird durch Anwendungsbeispiele hergestellt. Die\n\t\t\t\t\t\tMachbarkeit des Ansatzes wurde mit realen Maschinen im Rahmen des EU-Projekts\n\t\t\t\t\tSkillPro und in einer Simulationsumgebung mit weiteren Szenarien demonstriert",
+      "yearPublished": 2021,
+      "publishedDate": "2021-04-21T01:00:00",
+      "authors": [
+        {
+          "name": "Pfrommer, Julius"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/425276032.pdf",
+      "publisher": "KIT-Bibliothek, Karlsruhe",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

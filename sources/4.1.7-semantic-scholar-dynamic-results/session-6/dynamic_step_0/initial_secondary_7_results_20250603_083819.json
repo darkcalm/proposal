@@ -1,0 +1,1777 @@
+{
+  "total": 337,
+  "offset": 0,
+  "next": 25,
+  "data": [
+    {
+      "paperId": "cf56c9673e089caa6173d8a48dbdf488b9f08718",
+      "externalIds": {
+        "MAG": "3018665531",
+        "DOI": "10.5772/intechopen.90402",
+        "CorpusId": 219074608
+      },
+      "url": "https://www.semanticscholar.org/paper/cf56c9673e089caa6173d8a48dbdf488b9f08718",
+      "title": "Multi-Agent Systems Based Advanced Energy Management of Smart Micro-grid",
+      "venue": "Multi Agent Systems - Strategies and Applications",
+      "year": 2020,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.intechopen.com/citation-pdf-url/70262",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5772/intechopen.90402?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/intechopen.90402, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In this chapter, Multiagent system (MAS) is implemented with Java Agent DEvelopment (JADE) framework for advanced energy management of a microgrid, and MAS is linked with Arduino microcontroller for practical verification of agent operations."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2020-04-22",
+      "journal": {
+        "name": "Multi Agent Systems - Strategies and Applications"
+      },
+      "authors": [
+        {
+          "authorId": "145984979",
+          "name": "L. Raju"
+        },
+        {
+          "authorId": "9361305",
+          "name": "Antony Amalraj Morais"
+        }
+      ],
+      "abstract": "Microgrids play a major role in enabling the widespread adoption of renewable distributed energy resources. However, as the power generated from renewable resources is intermittent in nature, it impacts the dynamics and stability of the microgrid, and hence their integration needs new approaches to coordination and control. The existing systems lack run-time adaptive behavior. To face these constraints, the electric energy system must adapt by integrating Information and Communication Technologies (ICT). Multiagent system (MAS) is emerging as an integrated solution approach to distributed computing, communication, and data integration needs for smart grid application. Distributed and heterogeneous information can be efficiently processed locally, but utilized globally to coordinate distributed knowledge networks, resulting in reduction of information processing time and network bandwidth. Parallel operations, asynchronous communication, and autonomous actions of agents enable MAS to adapt to dynamic changes of the environment, thereby improving the reliability, responsiveness, fault tolerance, and stability of the microgrid. In this chapter, MAS is implemented with Java Agent DEvelopment (JADE) framework for advanced energy management of a microgrid. Also, MAS is linked with Arduino microcontroller for practical verification of agent operations. Three microgrids are interconnected to form a microgrid testbed, and smart grid features such as demand side management and plug and play are implemented, making it into a smart microgrid."
+    },
+    {
+      "paperId": "a678ca9d7cfdb98fea574104ac4e8d46d2a7fb87",
+      "externalIds": {
+        "MAG": "3021945300",
+        "DBLP": "journals/rita/CamposS20",
+        "DOI": "10.22456/2175-2745.97479",
+        "CorpusId": 218623998
+      },
+      "url": "https://www.semanticscholar.org/paper/a678ca9d7cfdb98fea574104ac4e8d46d2a7fb87",
+      "title": "Reactive multi-agent system applied to self-healing in Smart Grids",
+      "venue": "International Conference on Robot Intelligence Technology and Applications",
+      "year": 2020,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://seer.ufrgs.br/rita/article/download/RITA_VOL27_NR2_127/pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.22456/2175-2745.97479?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22456/2175-2745.97479, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The results show that the proposed approach is able to recover all the nodes of the grid, within the simulation conditions, and it is seen that the multi-agent system directs the work load exactly to the failure point, preventing the involvement of the entire grid to the self-healing process."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-04-27",
+      "journal": {
+        "name": "RITA",
+        "pages": "127-139",
+        "volume": "27"
+      },
+      "authors": [
+        {
+          "authorId": "2053880595",
+          "name": "I. Campos"
+        },
+        {
+          "authorId": "144788865",
+          "name": "F. Saraiva"
+        }
+      ],
+      "abstract": "This paper presents a decentralized algorithm for application in the smart grids self-healing problem, at the distribution level. The algorithm implementation is made using a reactive multi-agent system, which models the electrical grid in terms of autonomous agents which perform the algorithm operations in a distributed and parallel way. To validate this algorithm, two distribution network test models are used: a 15 bus model and a 33 bus model \u2014 standardized by IEEE. The results are obtained by means of computational simulation and shown in this paper, to each one of the network models. The results show that the proposed approach is able to recover all the nodes of the grid, within the simulation conditions. Moreover, it is seen that the multi-agent system directs the work load exactly to the failure point, preventing the involvement of the entire grid to the self-healing process."
+    },
+    {
+      "paperId": "e307c0d2aaf99ebb8bec4a0cf6e3949f2e5b4b24",
+      "externalIds": {
+        "DOI": "10.1109/RICAI64321.2024.10911567",
+        "CorpusId": 276993056
+      },
+      "url": "https://www.semanticscholar.org/paper/e307c0d2aaf99ebb8bec4a0cf6e3949f2e5b4b24",
+      "title": "A Privacy-Preserving Scheme to Support Dual-agent Selection in Smart Grid",
+      "venue": "International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/RICAI64321.2024.10911567?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RICAI64321.2024.10911567, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A privacy-preserving data aggregation scheme based on proxy reencryption, which aims to ensure the privacy and security of user data without sacrificing data utility, and is effective in protecting user privacy and system security."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-12-06",
+      "journal": {
+        "name": "2024 6th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)",
+        "pages": "1258-1256"
+      },
+      "authors": [
+        {
+          "authorId": "2285557601",
+          "name": "Yuanyuan Wang"
+        },
+        {
+          "authorId": "2350067828",
+          "name": "Liqiang Wu"
+        },
+        {
+          "authorId": "2285343018",
+          "name": "Huiyu Xie"
+        },
+        {
+          "authorId": "2350847788",
+          "name": "Shuai Yang"
+        },
+        {
+          "authorId": "2351408539",
+          "name": "Haokang Feng"
+        },
+        {
+          "authorId": "2351432645",
+          "name": "Ruifeng Li"
+        },
+        {
+          "authorId": "2350355924",
+          "name": "Yu Li"
+        },
+        {
+          "authorId": "2271829166",
+          "name": "Yiliang Han"
+        }
+      ],
+      "abstract": "With the rapid development of IoT technology, smart grid, as one of its core applications, is gradually realising the intelligent management of the power system. The popularity of smart meters and other devices enables the grid to monitor power consumption in real time, providing a large amount of data support for grid operations. However, the privacy sensitivity of these data is extremely high, and how to effectively protect user privacy has become an important challenge for the development of smart grid. To address this problem, this paper proposes a privacy-preserving data aggregation scheme based on proxy reencryption, which aims to ensure the privacy and security of user data without sacrificing data utility. The secure collection and processing of data is achieved by constructing a multi-layer system model containing a trusted centre, a control centre, a fog node and a smart meter. It enables the data to complete aggregation and conversion in an encrypted state, effectively preventing unauthorised access and data leakage. At the same time, the solution supports bidirectional selective aggregation, allowing the system to flexibly perform data aggregation operations according to demand, improving system applicability and efficiency. Security analysis and performance evaluation show that the scheme proposed in this paper is effective in protecting user privacy and system security."
+    },
+    {
+      "paperId": "fca9795677db8acf5b70f19095613d5fed716da9",
+      "externalIds": {
+        "DOI": "10.1109/ICTEM60690.2024.10631952",
+        "CorpusId": 271933584
+      },
+      "url": "https://www.semanticscholar.org/paper/fca9795677db8acf5b70f19095613d5fed716da9",
+      "title": "Comprehensive Review of Artificial Intelligence Applications in Smart Grid Operations",
+      "venue": "2024 9th International Conference on Technology and Energy Management (ICTEM)",
+      "year": 2024,
+      "referenceCount": 108,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICTEM60690.2024.10631952?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICTEM60690.2024.10631952, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive introduction to AI techniques and methods is provided, followed by a detailed examination of how they are applied in the context of SG and microgrid (MG) systems."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-02-14",
+      "journal": {
+        "name": "2024 9th International Conference on Technology and Energy Management (ICTEM)",
+        "pages": "1-13"
+      },
+      "authors": [
+        {
+          "authorId": "2189342280",
+          "name": "Amir Meydani"
+        },
+        {
+          "authorId": "2276023715",
+          "name": "Hossein Shahinzadeh"
+        },
+        {
+          "authorId": "2268532430",
+          "name": "Ali Ramezani"
+        },
+        {
+          "authorId": "38793079",
+          "name": "M. Moazzami"
+        },
+        {
+          "authorId": "3369447",
+          "name": "H. Nafisi"
+        },
+        {
+          "authorId": "2248799124",
+          "name": "Hossein Askarian-Abyaneh"
+        }
+      ],
+      "abstract": "The present electric power system is seeing a significant transition towards the adoption of Smart Grids (SGs), which are viewed as a potential approach to improve grid stability and optimize management of energy. The current state of transition is characterized by dynamic and swift alterations, necessitating the utilization of numerous sophisticated approaches to effectively analyze the substantial volume of data produced by diverse entities. In this particular context, SG is closely associated with AI as an emerging technology that aim to establish a decentralized and intelligent energy paradigm. Artificial intelligence is intended to enhance the level of intelligence in both supervisory and operational decision-making processes. This article provides a comprehensive introduction to AI techniques and methods, followed by a detailed examination of how they are applied in the context of SG and microgrid (MG) systems. This analysis is conducted through a comprehensive examination of more than 90 recent scholarly articles. The aim of this paper is to enhance the reader\u2019s comprehension regarding the potentials of AI within the context of SG and MG."
+    },
+    {
+      "paperId": "12789d27e67161a9365f6f7a9f8c5a1a99486b17",
+      "externalIds": {
+        "DOI": "10.1109/REEPE63962.2025.10971096",
+        "CorpusId": 278206092
+      },
+      "url": "https://www.semanticscholar.org/paper/12789d27e67161a9365f6f7a9f8c5a1a99486b17",
+      "title": "Ethical Considerations in Artificial Intelligence (AI) Applications in Smart Grid",
+      "venue": "2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/REEPE63962.2025.10971096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/REEPE63962.2025.10971096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Philosophy",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A framework of ethical principles tailored to the smart grid context is introduced and a constant tug-of-war is revealed: while AI can revolutionize how grids operate; the risks of prioritizing efficiency over fairness cannot be ignored."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2025-04-08",
+      "journal": {
+        "name": "2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "1915582",
+          "name": "Kadhim Hayawi"
+        },
+        {
+          "authorId": "143787727",
+          "name": "Sakib Shahriar"
+        },
+        {
+          "authorId": "2276523612",
+          "name": "A. R. Al-Ali"
+        }
+      ],
+      "abstract": "The rapid development of artificial intelligence (AI) tools, particularly advanced systems like large language models and creative AI programs, has raised urgent questions about how we should ethically develop and manage these technologies. As the global adoption of smart grid and digital power infrastructure accelerates, the role of AI becomes increasingly significant in optimizing operations like forecasting, maintenance, and energy distribution. Despite several works in the literature relating to ethical AI in domains like medicine and agriculture, a framework and recommendation are missing from the power grid lens. This study introduces a framework of ethical principles tailored to the smart grid context. Through this framework, we identify key methods and strategies, present case studies, and discuss challenges associated with ethical AI implementation in smart grids. Our research reveals a constant tug-of-war: while AI can revolutionize how grids operate; we can't ignore the risks of prioritizing efficiency over fairness. We also discuss significant challenges and outline future research directions for ethical AI use in power grid systems."
+    },
+    {
+      "paperId": "c19291060eeffe4d4d8d0b074fed80238204e14c",
+      "externalIds": {
+        "DOI": "10.1063/5.0117013",
+        "CorpusId": 267099562
+      },
+      "url": "https://www.semanticscholar.org/paper/c19291060eeffe4d4d8d0b074fed80238204e14c",
+      "title": "Artificial intelligence based phase balancing in the smart grid",
+      "venue": "INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING &amp; COMMUNICATION ENGINEERING SYSTEMS: SPACES-2021",
+      "year": 2024,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0117013/18672978/020103_1_5.0117013.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1063/5.0117013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1063/5.0117013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is concluded that integrating AI techniques can significantly enhance the reliability and resilience of smart grid systems."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING &amp; COMMUNICATION ENGINEERING SYSTEMS: SPACES-2021"
+      },
+      "authors": [
+        {
+          "authorId": "2280403026",
+          "name": "Parlapati Nagathimmaiah"
+        },
+        {
+          "authorId": "2280389766",
+          "name": "S. V. N. L. Lalitha"
+        }
+      ],
+      "abstract": "The integration of advanced metering infrastructure, control technologies, and communication technologies within the smart grid facilitates the collection of vast volumes of high-dimensional and multi-type data concerning electric power grid operations. Nonetheless, traditional modeling, optimization, and control methods encounter numerous limitations in handling such data effectively. As a result, the utilization of artificial intelligence (AI) techniques within the smart grid is gaining prominence. This survey systematically reviews existing research on various AI techniques applied to load forecasting, power grid stability assessment, fault detection, and security issues within the smart grid and power systems. Furthermore, it identifies ongoing research challenges in implementing AI technologies to achieve truly intelligent grid systems. Finally, this survey highlights the potential applications of AI in addressing smart grid challenges. Ultimately, the paper concludes that integrating AI techniques can significantly enhance the reliability and resilience of smart grid systems."
+    },
+    {
+      "paperId": "796c28313376eb5ee3cf32a8c021902b78f410e4",
+      "externalIds": {
+        "DOI": "10.1109/ITC-Egypt61547.2024.10620543",
+        "CorpusId": 271867796
+      },
+      "url": "https://www.semanticscholar.org/paper/796c28313376eb5ee3cf32a8c021902b78f410e4",
+      "title": "Empowering the Grid: A Comprehensive Review of Artificial Intelligence Techniques in Smart Grids",
+      "venue": "2024 International Telecommunications Conference (ITC-Egypt)",
+      "year": 2024,
+      "referenceCount": 52,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ITC-Egypt61547.2024.10620543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ITC-Egypt61547.2024.10620543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study thoroughly analyzes how cutting-edge AI techniques, such as multi-agent systems, deep learning, machine learning, and optimization algorithms, can be used in important smart grid applications."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-07-22",
+      "journal": {
+        "name": "2024 International Telecommunications Conference (ITC-Egypt)",
+        "pages": "513-518"
+      },
+      "authors": [
+        {
+          "authorId": "2316064091",
+          "name": "Marwa Elkholy"
+        },
+        {
+          "authorId": "2297021114",
+          "name": "Omar Shalash"
+        },
+        {
+          "authorId": "2316064225",
+          "name": "Mostafa S. Hamad"
+        },
+        {
+          "authorId": "46787160",
+          "name": "M. S. Saraya"
+        }
+      ],
+      "abstract": "There are many operational and technical obstacles in the way of the shift to a decentralized, sustainable smart grid. In the face of growing renewable energy integration, distributed resources, and cyber threats, traditional grid management techniques are ill-suited to handle the real-time optimization, predictive analytics, and autonomous control necessary for dependable and efficient electricity delivery. This study thoroughly analyzes how artificial intelligence (AI) approaches can be used to address the main problems that smart grid systems face. The paper looks at how cutting-edge AI techniques, such as multi-agent systems, deep learning, machine learning, and optimization algorithms, can be used in important smart grid applications."
+    },
+    {
+      "paperId": "045c5ed796f9c4073c1d4f29aef1e08e2d42a834",
+      "externalIds": {
+        "DOI": "10.3389/fenrg.2023.1183524",
+        "CorpusId": 258218709
+      },
+      "url": "https://www.semanticscholar.org/paper/045c5ed796f9c4073c1d4f29aef1e08e2d42a834",
+      "title": "Editorial: Advanced data-driven methods and applications for smart grid",
+      "venue": "Frontiers in Energy Research",
+      "year": 2023,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fenrg.2023.1183524/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenrg.2023.1183524?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenrg.2023.1183524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This Research Topic aims to provide a platform to promote state-of-the-art research methods and results in data-driven methods and applications for smart grid, such as: Energy Prediction, Fault Diagnosis, Equipment Inspection, Intelligent Dispatch, and Stability Assessment, etc."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-04-18",
+      "journal": {
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "2155648744",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "144595658",
+          "name": "C. Duan"
+        },
+        {
+          "authorId": "3303599",
+          "name": "C. Pang"
+        },
+        {
+          "authorId": "40262099",
+          "name": "Cheng Chen"
+        },
+        {
+          "authorId": "36440096",
+          "name": "Z. Jiao"
+        }
+      ],
+      "abstract": "During the operation of smart grid, the data of power production, transmission and consumption will be recorded (Liu et al., 2023). With the rapid development of information technology, the data volume shows an explosive growth trend (Zhou et al., 2016; Tan et al., 2017; Ahmad et al., 2020). The explosive growth of data has brought challenges to power monitoring and data transmission to a certain extent, and also restricted the development of smart grid to a certain extent. The development of smart grid requires scientific methods to optimize the configuration of data, deeply analyze the massive data stored in it, and use big data technology to effectively mine, analyze, transform and store unstructured data, so as to make the smart grid develop more directionally and achieve the goal of scientific and sustainable development (Srikantha and Kundur, 2019; Rituraj et al., 2022). Many AI technologies have important reference value in the smart grid planning, prediction, intelligent monitoring, intelligent control, auxiliary decision-making, equipment inspection, fault diagnosis and other application scenarios of the modern energy systems. Neural network, expert system, data mining and other technologies have their advantages and disadvantages and application scope. In the application, attention should be paid to the scientific selection of various technologies, and the correction and maintenance of reliability, interpretability, data sample accumulation, infrastructure preparation, and knowledge base, so as to be well prepared for potential challenges in the 21st century. This Research Topic aims to provide a platform to promote state-of-the-art research methods and results in data-driven methods and applications for smart grid, such as: Energy Prediction, Fault Diagnosis, Equipment Inspection, Intelligent Dispatch, and Stability Assessment, etc. It is hoped that this series of articles can provide valuable references for academic researchers and power industry engineers in related fields. OPEN ACCESS"
+    },
+    {
+      "paperId": "1ad647cf0827d848eaa583d2daa383e81f14ac28",
+      "externalIds": {
+        "DOI": "10.1109/AISC56616.2023.10085216",
+        "CorpusId": 257934877
+      },
+      "url": "https://www.semanticscholar.org/paper/1ad647cf0827d848eaa583d2daa383e81f14ac28",
+      "title": "Artificial Intelligence Techniques: Smart Way to Smart Grid",
+      "venue": "Artificial Intelligence and Symbolic Computation",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 13,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/AISC56616.2023.10085216?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AISC56616.2023.10085216, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "According to the report, the use of AI approaches can increase and improve the dependability and flexibility of intelligent grid systems and poses additional research hurdles for deploying AI technology to fully smart grid systems."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2023-01-27",
+      "journal": {
+        "name": "2023 International Conference on Artificial Intelligence and Smart Communication (AISC)",
+        "pages": "838-842"
+      },
+      "authors": [
+        {
+          "authorId": "2295383129",
+          "name": "Shokhrukh Davlyatov"
+        }
+      ],
+      "abstract": "By combining modern metering infrastructure, control technologies, and communication technologies, the smart grid enables the collection of vast volumes of high-dimensional and multi-type specifics regarding operations of electrical power grid. Traditional modelling, optimization, and control technologies, on the other hand, have several limits in specifics processing; hence, the applications of artificial intelligence (AI) approaches in the smart grid are becoming increasingly obvious. This study provides a systematic analysis of current study into several typical Artificial Intelligence approaches used in smart grid and load prognosticate of power system, stability evaluation of power grid, detection of fault, and security challenges. It also poses additional research hurdles for deploying AI technology to fully smart grid systems. Lastly, this study discusses the possibilities for implementing AI to smart grid concerns. According to the report, the use of AI approaches can increase and improve the dependability and flexibility of intelligent grid systems."
+    },
+    {
+      "paperId": "17f00e48b71913cb83da2bed0d1ac2f859d4722f",
+      "externalIds": {
+        "DOI": "10.3390/app142310933",
+        "CorpusId": 274285765
+      },
+      "url": "https://www.semanticscholar.org/paper/17f00e48b71913cb83da2bed0d1ac2f859d4722f",
+      "title": "The Applications and Challenges of Digital Twin Technology in Smart Grids: A Comprehensive Review",
+      "venue": "Applied Sciences",
+      "year": 2024,
+      "referenceCount": 84,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/14/23/10933/pdf?version=1732543154",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/app142310933?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app142310933, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Current challenges of Digital Twin technology in smart grids are analyzed, including data management, interoperability, cost, and ethical considerations, highlighting the potential of DTs to revolutionize smart grid networks and contribute to more efficient, reliable, and sustainable power systems."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-11-25",
+      "journal": {
+        "name": "Applied Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "2332396484",
+          "name": "Nabil Mchirgui"
+        },
+        {
+          "authorId": "1414071843",
+          "name": "Nordine Quadar"
+        },
+        {
+          "authorId": "40762160",
+          "name": "Habib Kraiem"
+        },
+        {
+          "authorId": "3091192",
+          "name": "A. Lakhssassi"
+        }
+      ],
+      "abstract": "This comprehensive review explores the applications and challenges of Digital Twin (DT) technology in smart grids. As power grid systems rapidly evolve to meet the increasing energy demands and the new requirements of renewable source integration, DTs offer promising solutions to enhance the monitoring, control, and optimization of these systems. In this paper, we examine the concept of DTs in the context of smart grids, and their requirements, challenges, and integration with the Internet of Things (IoT) and Artificial Intelligence (AI). We also discuss different applications in asset management, system operation, and disaster response. This paper analyzes current challenges, including data management, interoperability, cost, and ethical considerations. Through case studies from various sectors in Canada, we illustrate the real-world implementation and impact of DTs. Finally, we discuss emerging trends and future directions, highlighting the potential of DTs to revolutionize smart grid networks and contribute to more efficient, reliable, and sustainable power systems."
+    },
+    {
+      "paperId": "1056d9b4548b6c318e53dd1e30c08b3fa55448a0",
+      "externalIds": {
+        "DOI": "10.1109/SGC64640.2024.10983889",
+        "CorpusId": 278667552
+      },
+      "url": "https://www.semanticscholar.org/paper/1056d9b4548b6c318e53dd1e30c08b3fa55448a0",
+      "title": "Trustworthy Large Language Model Prompt Engineering for Risk-Free Smart Grid Management Education",
+      "venue": "Smart Grid Conference",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SGC64640.2024.10983889?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SGC64640.2024.10983889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Education",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that locally-hosted LLMs perform better in preventing vulnerabilities than their online counterparts and can provide guidelines for standardization, legislation and regulations of AI applications in smart grids."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-12-31",
+      "journal": {
+        "name": "2024 14th Smart Grid Conference (SGC)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2302595034",
+          "name": "Ali Imanifard"
+        },
+        {
+          "authorId": "2265216225",
+          "name": "Babak Majidi"
+        },
+        {
+          "authorId": "52241564",
+          "name": "Abdolah Shamisa"
+        }
+      ],
+      "abstract": "The management and control of smart grids are rapidly evolving to include Artificial Intelligence (AI). Large Language Models (LLMs) are the latest solution for AI-capable Industry 4.0 management. The trustworthiness of the LLMs is an important issue in the management of such systems. In this paper, the behaviors of various locally-hosted LLMs in managing unauthorized operations within smart grids are investigated. To highlight the advantages of local-hosting, we also compare the performance of these models with online LLMs. Our findings show that locally-hosted LLMs perform better in preventing vulnerabilities than their online counterparts. This study proposes an educational platform for future generations of smart grid operators and provides guidelines for teaching the vulnerabilities of LLM prompting needed to be included in the educational curriculum of the smart grid management workforce. Furthermore, the findings of this research can provide guidelines for standardization, legislation and regulations of AI applications in smart grids."
+    },
+    {
+      "paperId": "134a08b6ebf651173fe1f8be42cac81ed303fd23",
+      "externalIds": {
+        "DBLP": "journals/thms/FragkosJT22",
+        "DOI": "10.1109/thms.2022.3163185",
+        "CorpusId": 248355690
+      },
+      "url": "https://www.semanticscholar.org/paper/134a08b6ebf651173fe1f8be42cac81ed303fd23",
+      "title": "Dynamic Role-Based Access Control Policy for Smart Grid Applications: An Offline Deep Reinforcement Learning Approach",
+      "venue": "IEEE Transactions on Human-Machine Systems",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 27,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/thms.2022.3163185?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/thms.2022.3163185, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel hybrid RBAC model is proposed, based on the principles of offline deep reinforcement learning (RL) and Bayesian belief networks, that guarantees compliance of the internal users with the security rules of the system."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2022-08-01",
+      "journal": {
+        "name": "IEEE Transactions on Human-Machine Systems",
+        "pages": "761-773",
+        "volume": "52"
+      },
+      "authors": [
+        {
+          "authorId": "21577735",
+          "name": "G. Fragkos"
+        },
+        {
+          "authorId": "2115730819",
+          "name": "Jay Johnson"
+        },
+        {
+          "authorId": "2688709",
+          "name": "E. Tsiropoulou"
+        }
+      ],
+      "abstract": "Role-based access control (RBAC) is adopted in the information and communication technology domain for authentication purposes. However, due to a very large number of entities within organizational access control (AC) systems, static RBAC management can be inefficient, costly, and can lead to cybersecurity threats. In this article, a novel hybrid RBAC model is proposed, based on the principles of offline deep reinforcement learning (RL) and Bayesian belief networks. The considered framework utilizes a fully offline RL agent, which models the behavioral history of users as a Bayesian belief-based trust indicator. Thus, the initial static RBAC policy is improved in a dynamic manner through off-policy learning while guaranteeing compliance of the internal users with the security rules of the system. By deploying our implementation within the smart grid domain and specifically within a Distributed Energy Resources (DER) ecosystem, we provide an end-to-end proof of concept of our model. Finally, detailed analysis and evaluation regarding the offline training phase of the RL agent are provided, while the online deployment of the hybrid RL-based RBAC model into the DER ecosystem highlights its key operation features and salient benefits over traditional RBAC models."
+    },
+    {
+      "paperId": "1ecf72291a652e1434a4f38a053b16ff18670334",
+      "externalIds": {
+        "DOI": "10.3390/en18071837",
+        "CorpusId": 277695850
+      },
+      "url": "https://www.semanticscholar.org/paper/1ecf72291a652e1434a4f38a053b16ff18670334",
+      "title": "A Review of Smart Grid Evolution and Reinforcement Learning: Applications, Challenges and Future Directions",
+      "venue": "Energies",
+      "year": 2025,
+      "referenceCount": 91,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en18071837?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en18071837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study compares the applicability, advantages, and limitations of different reinforcement learning algorithms in practical scenarios, and reveals core challenges such as state space complexity, learning stability, and computational efficiency."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2025-04-05",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "2271735597",
+          "name": "Na Xu"
+        },
+        {
+          "authorId": "2223057487",
+          "name": "Zhuo Tang"
+        },
+        {
+          "authorId": "2352385875",
+          "name": "Chenyi Si"
+        },
+        {
+          "authorId": "2347417649",
+          "name": "Jinshan Bian"
+        },
+        {
+          "authorId": "2237244961",
+          "name": "Chaoxu Mu"
+        }
+      ],
+      "abstract": "In the face of the rapid development of smart grid technologies, it is increasingly difficult for traditional power system management methods to support the increasingly complex operation of modern power grids. This study systematically reviews new challenges and research trends in the field of smart grid optimization, focusing on key issues such as power flow optimization, load scheduling, and reactive power compensation. By analyzing the application of reinforcement learning in the smart grid, the impact of distributed new energy\u2019s high penetration on the stability of the system is thoroughly discussed, and the advantages and disadvantages of the existing control strategies are systematically reviewed. This study compares the applicability, advantages, and limitations of different reinforcement learning algorithms in practical scenarios, and reveals core challenges such as state space complexity, learning stability, and computational efficiency. On this basis, a multi-agent cooperation optimization direction based on the two-layer reinforcement learning framework is proposed to improve the dynamic coordination ability of the power grid. This study provides a theoretical reference for smart grid optimization through multi-dimensional analysis and research, advancing the application of deep reinforcement learning technology in this field."
+    },
+    {
+      "paperId": "465aa95403627248fb3619fa383ec12791d55f3a",
+      "externalIds": {
+        "DOI": "10.2166/hydro.2023.168",
+        "CorpusId": 258089629
+      },
+      "url": "https://www.semanticscholar.org/paper/465aa95403627248fb3619fa383ec12791d55f3a",
+      "title": "Artificial intelligence for decentralized water systems: a smart planning agent based on reinforcement learning for off-grid camp water infrastructures",
+      "venue": "Journal of Hydroinformatics",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://iwaponline.com/jh/article-pdf/doi/10.2166/hydro.2023.168/1210450/jh2023168.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2166/hydro.2023.168?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2166/hydro.2023.168, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A reinforcement learning-based \u2018smart planning agent\u2019 capable of designing alternative decentralized water systems under demanding operational contexts and shown that RL can be a useful addition to the arsenal of decision support systems (DSS) for distributed water system planning and management, especially under challenging, highly variable conditions."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-04-11",
+      "journal": {
+        "name": "Journal of Hydroinformatics"
+      },
+      "authors": [
+        {
+          "authorId": "1904234",
+          "name": "C. Makropoulos"
+        },
+        {
+          "authorId": "70495166",
+          "name": "D. Bouziotas"
+        }
+      ],
+      "abstract": "\n The planning and management of decentralized technologies in water systems is one of the promising, yet overlooked, domains where artificial intelligence (AI) can be successfully applied. In this study, we develop and deploy a reinforcement learning (RL)-based \u2018smart planning agent\u2019 capable of designing alternative decentralized water systems under demanding operational contexts. The agent's aim is to identify optimal water infrastructure configurations (i.e., proposed decisions on water management options and interventions) for different conditions with regard to climate, occupancy and water technology availability in a demanding, off-grid setting, i.e., a water system with high requirements of independence from centralized infrastructure. The agent is coupled with a source-to-tap water cycle simulation model (Urban Water Optioneering Tool, UWOT) capable of assessing and stress-testing the proposed configurations under different conditions. The approach is demonstrated in the case of a military camp deployed abroad for peacekeeping operations. The agent is tasked with selecting optimal interventions from an array of real-world camp water management technologies and evaluating their efficiency under highly variable, operational conditions explored through simulation. The results show that RL can be a useful addition to the arsenal of decision support systems (DSS) for distributed water system planning and management, especially under challenging, highly variable conditions."
+    },
+    {
+      "paperId": "ac2e223d9c8ee55fc193842d26eef3674418bc87",
+      "externalIds": {
+        "DOI": "10.1002/eng2.12824",
+        "CorpusId": 265686753
+      },
+      "url": "https://www.semanticscholar.org/paper/ac2e223d9c8ee55fc193842d26eef3674418bc87",
+      "title": "Knowledge graph\u2010based multimodal neural networks for smart\u2010grid defect detection",
+      "venue": "Engineering Reports",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eng2.12824",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/eng2.12824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/eng2.12824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel neural network architecture that effectively leverages the knowledge graph structure is introduced, paving the way for a new generation of AI\u2010powered defect detection in smart grids, facilitating enhanced grid reliability and operational efficiency."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-12-04",
+      "journal": {
+        "name": "Engineering Reports",
+        "volume": "6"
+      },
+      "authors": [
+        {
+          "authorId": "2270213625",
+          "name": "Kaiyang Li"
+        },
+        {
+          "authorId": "2222835092",
+          "name": "Yaoying Wang"
+        },
+        {
+          "authorId": "153615594",
+          "name": "Tianyou Zhu"
+        },
+        {
+          "authorId": "2271304184",
+          "name": "Jiwei Li"
+        },
+        {
+          "authorId": "2274220075",
+          "name": "Junda Ren"
+        },
+        {
+          "authorId": "2272001307",
+          "name": "Zhenyu Chen"
+        }
+      ],
+      "abstract": "The application of artificial intelligence in smart grid operations, particularly for defect detection, has seen remarkable progress. However, effectively leveraging multi\u2010modal data sources to enhance defect detection performance remains challenging. This paper presents a novel Knowledge Graph\u2010based Multimodal Neural Network (KGMNN) approach for robust and efficient defect detection in smart grids. Our proposed method first leverages multiple heterogeneous data sources, such as structural data, temporal sensor readings, and maintenance records, creating a comprehensive representation of the grid system. The system is then modeled as a knowledge graph, with nodes representing various entities and edges signifying their interconnections and interactions. This paper introduces a novel neural network architecture that effectively leverages the knowledge graph structure. This architecture incorporates multi\u2010modal fusion techniques, enabling the model to process and integrate diverse data sources. It can recognize intricate patterns indicative of potential defects that are often undetectable in individual data modes. Experimental results on several real\u2010world smart grid datasets demonstrate that the KGMNN significantly outperforms state\u2010of\u2010the\u2010art techniques in terms of precision, recall, and computational efficiency. Furthermore, the KGMNN's ability to provide explainable predictions, aided by the inherent interpretability of the knowledge graph structure, is of significant practical value in the field. This research paves the way for a new generation of AI\u2010powered defect detection in smart grids, facilitating enhanced grid reliability and operational efficiency."
+    },
+    {
+      "paperId": "667e4d2232485c99a1f7615357e2fb6a86442b27",
+      "externalIds": {
+        "MAG": "3154257404",
+        "DOI": "10.3390/SMARTCITIES4020029",
+        "CorpusId": 234817478
+      },
+      "url": "https://www.semanticscholar.org/paper/667e4d2232485c99a1f7615357e2fb6a86442b27",
+      "title": "Artificial Intelligence Techniques in Smart Grid: A Survey",
+      "venue": "Smart Cities",
+      "year": 2021,
+      "referenceCount": 162,
+      "citationCount": 212,
+      "influentialCitationCount": 5,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2624-6511/4/2/29/pdf?version=1619083864",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/SMARTCITIES4020029?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/SMARTCITIES4020029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper concludes that the applications of AI techniques can enhance and improve the reliability and resilience of smart grid systems."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2021-04-22",
+      "journal": {
+        "name": "Smart Cities",
+        "pages": "548-568",
+        "volume": "4"
+      },
+      "authors": [
+        {
+          "authorId": "1946878",
+          "name": "O. Omitaomu"
+        },
+        {
+          "authorId": "2059125895",
+          "name": "Haoran Niu"
+        }
+      ],
+      "abstract": "The smart grid is enabling the collection of massive amounts of high-dimensional and multi-type data about the electric power grid operations, by integrating advanced metering infrastructure, control technologies, and communication technologies. However, the traditional modeling, optimization, and control technologies have many limitations in processing the data; thus, the applications of artificial intelligence (AI) techniques in the smart grid are becoming more apparent. This survey presents a structured review of the existing research into some common AI techniques applied to load forecasting, power grid stability assessment, faults detection, and security problems in the smart grid and power systems. It also provides further research challenges for applying AI technologies to realize truly smart grid systems. Finally, this survey presents opportunities of applying AI to smart grid problems. The paper concludes that the applications of AI techniques can enhance and improve the reliability and resilience of smart grid systems."
+    },
+    {
+      "paperId": "ffb801c8435f8643136ecf6456eaccacab7f2423",
+      "externalIds": {
+        "DOI": "10.1051/e3sconf/202450503008",
+        "CorpusId": 268765324
+      },
+      "url": "https://www.semanticscholar.org/paper/ffb801c8435f8643136ecf6456eaccacab7f2423",
+      "title": "Integration of AI in Distributed Energy Resource Management for Enhanced Load Balancing and Grid Stability",
+      "venue": "E3S Web of Conferences",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/35/e3sconf_icarae2023_03008.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202450503008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202450503008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive framework leveraging Artificial Intelligence (AI) to orchestrate DER operations, thus achieving optimized load balancing and grid stability and highlighting the synergy between AI and energy resource management is presented."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "E3S Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "2838242",
+          "name": "Kavitha Dasari"
+        },
+        {
+          "authorId": "66124255",
+          "name": "Vijilius Helena Raj"
+        },
+        {
+          "authorId": "2224823970",
+          "name": "Ginni Nijhawan"
+        },
+        {
+          "authorId": "2293483892",
+          "name": "Ravi Kalra"
+        },
+        {
+          "authorId": "2256871092",
+          "name": "Shilpa Pahwa"
+        },
+        {
+          "authorId": "2142988771",
+          "name": "Dalael Saad Abdul-Zahra"
+        }
+      ],
+      "abstract": "The landscape of power systems is undergoing a transformative shift with the burgeoning inclusion of Distributed Energy Resources (DERs), which, while beneficial in enhancing the sustainability of electricity supply, introduces complexity in grid management. This paper presents a comprehensive framework leveraging Artificial Intelligence (AI) to orchestrate DER operations, thus achieving optimized load balancing and grid stability. A multi-agent system that utilizes machine learning algorithms is proposed, capable of predictive analytics and real-time decision-making. The architecture is underpinned by a robust data layer that assimilates inputs from a myriad of sensors and smart meters, facilitating the dynamic management of DERs. Through the simulation of various scenarios, the system demonstrates significant improvements in load distribution, peak shaving, and voltage regulation. The framework also showcases resilience against fluctuations and anomalies, attributing to the self-learning capability of AI models that continuously refine control strategies. The adaptability of the system is evaluated in the context of grid demand-response initiatives and the integration of intermittent renewable energy sources. Overall, the results indicate a substantial advancement in the operational efficiency of power grids, highlighting the synergy between AI and energy resource management."
+    },
+    {
+      "paperId": "5787438d18c8b00972f97947c467088863b16ddf",
+      "externalIds": {
+        "MAG": "2898189018",
+        "DOI": "10.1007/s40866-018-0052-y",
+        "CorpusId": 169142944
+      },
+      "url": "https://www.semanticscholar.org/paper/5787438d18c8b00972f97947c467088863b16ddf",
+      "title": "Multi-Agent Systems for Resource Allocation and Scheduling in a Smart Grid",
+      "venue": "Technology and Economics of Smart Grids and Sustainable Energy",
+      "year": 2018,
+      "referenceCount": 104,
+      "citationCount": 55,
+      "influentialCitationCount": 2,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s40866-018-0052-y.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40866-018-0052-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40866-018-0052-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive literature review on the application of Multi-agent systems (MAS) to Economic Dispatch (ED) and Unit Commitment (UC) in smart grids."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2018-10-29",
+      "journal": {
+        "name": "Technology and Economics of Smart Grids and Sustainable Energy",
+        "volume": "3"
+      },
+      "authors": [
+        {
+          "authorId": "9711079",
+          "name": "A. S. Nair"
+        },
+        {
+          "authorId": "30571705",
+          "name": "Tareq Hossen"
+        },
+        {
+          "authorId": "47450750",
+          "name": "Mitch Campion"
+        },
+        {
+          "authorId": "89645225",
+          "name": "D. Selvaraj"
+        },
+        {
+          "authorId": "1951085",
+          "name": "Neena Goveas"
+        },
+        {
+          "authorId": "1735112",
+          "name": "N. Kaabouch"
+        },
+        {
+          "authorId": "2723673",
+          "name": "P. Ranganathan"
+        }
+      ],
+      "abstract": "With the increasing integration of Distributed Energy Resources (DER) in the power grid, a decentralized approach becomes essential for scheduling and allocation of resources in a smart grid. Economic Dispatch (ED) and Unit Commitment (UC) are the two major resource allocation problems that play critical role in the safe and stable operation of a grid system. The uncertainty associated with renewable energy sources have made the resource allocation problems even more challenging for grid operators. The future grid will have a higher generation mix of renewable energy sources and a large load of Electrical vehicles, with the possibility of bi-directional power flow. This complex smart grid system necessitates the development of a decentralized approach to resource allocation problem, which allows inter-node communication and decision making. Multi-agent systems (MAS) is a promising platform to decentralize the traditional centralized resource allocation aspects of smart grid. This paper presents a comprehensive literature review on the application of MAS to Economic Dispatch (ED) and Unit Commitment (UC) in smart grids."
+    },
+    {
+      "paperId": "6664ad67ed3a668b00e78d3d89c04e960ab43037",
+      "externalIds": {
+        "DBLP": "conf/isgta/AhmadKSPG15",
+        "MAG": "2246297311",
+        "DOI": "10.1109/ISGT-ASIA.2015.7387092",
+        "CorpusId": 4655848
+      },
+      "url": "https://www.semanticscholar.org/paper/6664ad67ed3a668b00e78d3d89c04e960ab43037",
+      "title": "Co-simulation framework based on power system, AI and communication tools for evaluating smart grid applications",
+      "venue": "2015 IEEE Innovative Smart Grid Technologies - Asia (ISGT ASIA)",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 30,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGT-ASIA.2015.7387092?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGT-ASIA.2015.7387092, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A framework for co-simulation with the tools from three different domains covering power system, artificial intelligence and communication to simulate and analyse the smart grid applications is presented and results show that co-Simulation approach is effective for the realistic analysis of smartgrid applications."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2015-11-01",
+      "journal": {
+        "name": "2015 IEEE Innovative Smart Grid Technologies - Asia (ISGT ASIA)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2074277995",
+          "name": "Ishtiaq Ahmad"
+        },
+        {
+          "authorId": "2426903",
+          "name": "J. Kazmi"
+        },
+        {
+          "authorId": "48233074",
+          "name": "M. Shahzad"
+        },
+        {
+          "authorId": "1846124",
+          "name": "P. Palensky"
+        },
+        {
+          "authorId": "2208154",
+          "name": "W. Gawlik"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ba9f48fccc7ac5ea12bb6221cc290419ef09bba5",
+      "externalIds": {
+        "DOI": "10.1109/SSDEE64538.2025.10967831",
+        "CorpusId": 278064959
+      },
+      "url": "https://www.semanticscholar.org/paper/ba9f48fccc7ac5ea12bb6221cc290419ef09bba5",
+      "title": "Recent Advances in Energy Storage Systems for Maximizing Renewable Integration in Smart Grid",
+      "venue": "2025 IEEE 1st International Conference on Smart and Sustainable Developments in Electrical Engineering (SSDEE)",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SSDEE64538.2025.10967831?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SSDEE64538.2025.10967831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2025-02-28",
+      "journal": {
+        "name": "2025 IEEE 1st International Conference on Smart and Sustainable Developments in Electrical Engineering (SSDEE)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2357282877",
+          "name": "Swathi Lavudya"
+        },
+        {
+          "authorId": "2262319749",
+          "name": "Sachidananda Sen"
+        },
+        {
+          "authorId": "1965142",
+          "name": "Vedik Basetti"
+        }
+      ],
+      "abstract": "To address climatic change and reduce carbon emissions, the usage of non-conventional resources like solar and wind, are rapidly increasing every day. Depend on the irregularity of the nature, there are some challenges in Electrical grids, for maintaining supply consistency and balancing the grid stability. To overcome the challenges, power storage systems (PSS) play an important role due to the preserve extra energy generated during their peak time of low demand and deliver it when the power supply demand is high. This capability maintains grid flexibility by providing a reliable energy supply. Recent advancements in PSS technologies, including battery storage systems, flywheel batteries, supercapacitors, hydrogen storage, and hybrid energy storage systems (HESS), aim to improve essential Qualities like energy capacity, efficiency, scalability, and cost-effectiveness, making these systems more available for extensive implementation. The AI and ML applications used for present energy management allow flexibility in power grid operations. Additionally, hydrogen storage combined with fuel cells is emerging as a promising long-term solution. To manage seasonal variations energy backup systems, play a crucial role by preserving extra energy during the time of peak generation and delivering it when the power generation is less in renewable energy. Moreover, an innovative approach for energy optimization in the smart grids by integrating electric vehicles (EVs) used as mobile energy buffers and to enhance overall grid flexibility, when non-conventional power production is less. EVs will store energy and supply it back to the network during peak time and two-way operating through the power from grid to vehicle. This review highlights the essential roles, of ESS and EVs in smoothing the development of low-carbon, sustainable energy systems, particularly smart grids designed to maximize renewable energy combinations while assuring grid stability."
+    },
+    {
+      "paperId": "73d8effb7c8861fd6fd31f988e8e35daa4a488a0",
+      "externalIds": {
+        "DBLP": "conf/comcomap/ZhangHZWHC20",
+        "DOI": "10.1109/ComComAp51192.2020.9398885",
+        "CorpusId": 233263796
+      },
+      "url": "https://www.semanticscholar.org/paper/73d8effb7c8861fd6fd31f988e8e35daa4a488a0",
+      "title": "Research and Application of AI Services Based on 5G MEC in Smart Grid",
+      "venue": "Computers, Communications and IT Applications Conference",
+      "year": 2020,
+      "referenceCount": 10,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ComComAp51192.2020.9398885?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ComComAp51192.2020.9398885, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An AI capability center based on 5G MEC is constructed, which can provide rich AI services for smart grids and describes the applications of artificial intelligence technology in various business scenarios from the perspective of application scenario, application scheme, algorithm principle and practice effect."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-12-20",
+      "journal": {
+        "name": "2020 IEEE Computing, Communications and IoT Applications (ComComAp)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2152834159",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "2069716904",
+          "name": "Jia Hao"
+        },
+        {
+          "authorId": "32200856",
+          "name": "Guanghuai Zhao"
+        },
+        {
+          "authorId": "2077528431",
+          "name": "Mingshi Wen"
+        },
+        {
+          "authorId": "50494500",
+          "name": "Tianxiang Hai"
+        },
+        {
+          "authorId": "2136184758",
+          "name": "Kun Cao"
+        }
+      ],
+      "abstract": "5G networks will provide services for a wealth of vertical industry applications, bringing more demand for edge services. Multi-access edge computing (MEC) is one of the important technologies of 5G. By providing an information technology service environment and cloud computing capabilities close to the mobile users, it can better support low-latency and high-bandwidth services in 5G networks. This paper constructs an AI capability center based on 5G MEC, which can provide rich AI services for smart grids. The center supports the dynamic construction and operation of the intelligent data analysis application, and realizes the rapid development and flexible deployment of the business analysis process, which could improve the interaction and response time of the business analysis process. Based on AI algorithm capabilities, we focus on the typical cases of artificial intelligence service applications in smart grid e.g., monitoring of electrical equipment based on similar audio recognition. We describe the applications of artificial intelligence technology in various business scenarios from the perspective of application scenario, application scheme, algorithm principle and practice effect. The applications have been put in use and obtained good application effect."
+    },
+    {
+      "paperId": "3eae333ced988a58bb00b66eaae2dae39aa4369c",
+      "externalIds": {
+        "DOI": "10.3390/en16031480",
+        "CorpusId": 256587770
+      },
+      "url": "https://www.semanticscholar.org/paper/3eae333ced988a58bb00b66eaae2dae39aa4369c",
+      "title": "Load Forecasting Techniques and Their Applications in Smart Grids",
+      "venue": "Energies",
+      "year": 2023,
+      "referenceCount": 114,
+      "citationCount": 109,
+      "influentialCitationCount": 3,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/16/3/1480/pdf?version=1675333446",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en16031480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en16031480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Findings indicate that AI-based LF techniques, using ML and neural network models, have shown the best forecast performance compared to other methods, achieving higher overall root mean squared (RMS) and mean absolute percentage error (MAPE) values."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2023-02-02",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "2166504550",
+          "name": "H. Habbak"
+        },
+        {
+          "authorId": "2163883464",
+          "name": "Mohamed Mahmoud"
+        },
+        {
+          "authorId": "2166500890",
+          "name": "Khaled Metwally"
+        },
+        {
+          "authorId": "32453643",
+          "name": "M. Fouda"
+        },
+        {
+          "authorId": "151117838",
+          "name": "Mohamed I. Ibrahem"
+        }
+      ],
+      "abstract": "The growing success of smart grids (SGs) is driving increased interest in load forecasting (LF) as accurate predictions of energy demand are crucial for ensuring the reliability, stability, and efficiency of SGs. LF techniques aid SGs in making decisions related to power operation and planning upgrades, and can help provide efficient and reliable power services at fair prices. Advances in artificial intelligence (AI), specifically in machine learning (ML) and deep learning (DL), have also played a significant role in improving the precision of demand forecasting. It is important to evaluate different LF techniques to identify the most accurate and appropriate one for use in SGs. This paper conducts a systematic review of state-of-the-art forecasting techniques, including traditional techniques, clustering-based techniques, AI-based techniques, and time series-based techniques, and provides an analysis of their performance and results. The aim of this paper is to determine which LF technique is most suitable for specific applications in SGs. The findings indicate that AI-based LF techniques, using ML and neural network (NN) models, have shown the best forecast performance compared to other methods, achieving higher overall root mean squared (RMS) and mean absolute percentage error (MAPE) values."
+    },
+    {
+      "paperId": "a4658289c48efc02f3c8067a22ca286834051625",
+      "externalIds": {
+        "PubMedCentral": "10574949",
+        "DBLP": "journals/sensors/SulaimanNKKARAS23",
+        "DOI": "10.3390/s23198016",
+        "CorpusId": 262174991,
+        "PubMed": "37836846"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4658289c48efc02f3c8067a22ca286834051625",
+      "title": "Artificial Intelligence-Based Secured Power Grid Protocol for Smart City",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 22,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/19/8016/pdf?version=1695356016",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10574949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A federated instructional strategy for consumer sharing of power data to Power Grid (PG) that is supported by edge clouds, protects consumer privacy, and is communication-efficient is provided and two optimization problems for Energy Data Owners (EDO) and energy service operations are designed."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-09-22",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "23"
+      },
+      "authors": [
+        {
+          "authorId": "2057987490",
+          "name": "A. Sulaiman"
+        },
+        {
+          "authorId": "2215912059",
+          "name": "Bharathiraja Nagu"
+        },
+        {
+          "authorId": "2163891615",
+          "name": "Gaganpreet Kaur"
+        },
+        {
+          "authorId": "2216188178",
+          "name": "Pradeepa Karuppaiah"
+        },
+        {
+          "authorId": "2237310854",
+          "name": "Hani Alshahrani"
+        },
+        {
+          "authorId": "2282832380",
+          "name": "Mana Saleh Al Reshan"
+        },
+        {
+          "authorId": "2259683653",
+          "name": "Sultan Alyami"
+        },
+        {
+          "authorId": "2139623913",
+          "name": "A. Shaikh"
+        }
+      ],
+      "abstract": "Due to the modern power system\u2019s rapid development, more scattered smart grid components are securely linked into the power system by encircling a wide electrical power network with the underpinning communication system. By enabling a wide range of applications, such as distributed energy management, system state forecasting, and cyberattack security, these components generate vast amounts of data that automate and improve the efficiency of the smart grid. Due to traditional computer technologies\u2019 inability to handle the massive amount of data that smart grid systems generate, AI-based alternatives have received a lot of interest. Long Short-Term Memory (LSTM) and recurrent Neural Networks (RNN) will be specifically developed in this study to address this issue by incorporating the adaptively time-developing energy system\u2019s attributes to enhance the model of the dynamic properties of contemporary Smart Grid (SG) that are impacted by Revised Encoding Scheme (RES) or system reconfiguration to differentiate LSTM changes & real-time threats. More specifically, we provide a federated instructional strategy for consumer sharing of power data to Power Grid (PG) that is supported by edge clouds, protects consumer privacy, and is communication-efficient. They then design two optimization problems for Energy Data Owners (EDO) and energy service operations, as well as a local information assessment method in Federated Learning (FL) by taking non-independent and identically distributed (IID) effects into consideration. The test results revealed that LSTM had a longer training duration, four hidden levels, and higher training loss than other models. The provided method works incredibly well in several situations to identify FDIA. The suggested approach may successfully induce EDOs to employ high-quality local models, increase the payout of the ESP, and decrease task latencies, according to extensive simulations, which are the last points. According to the verification results, every assault sample could be effectively recognized utilizing the current detection methods and the LSTM RNN-based structure created by Smart."
+    },
+    {
+      "paperId": "cd9a88488bf0275ba2d330983be39fa7cf5663d1",
+      "externalIds": {
+        "MAG": "3115661238",
+        "DOI": "10.18662/brain/11.4/149",
+        "CorpusId": 235036943
+      },
+      "url": "https://www.semanticscholar.org/paper/cd9a88488bf0275ba2d330983be39fa7cf5663d1",
+      "title": "The State of the Art in Smart Grid Domain: A Network Modeling Approach",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 53,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://lumenpublishing.com/journals/index.php/brain/article/download/3574/2709",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.18662/brain/11.4/149?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18662/brain/11.4/149, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study provides a detailed statistical as well as visual analysis of agent-based smart grid research by adopting complex network-based analytical approach and covers all scientific literature available online in Web of Science database."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "Brain",
+        "pages": "201-230",
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "49871774",
+          "name": "W. Akram"
+        },
+        {
+          "authorId": "89864343",
+          "name": "S. Noor"
+        },
+        {
+          "authorId": "19317966",
+          "name": "Awais Manzoor"
+        }
+      ],
+      "abstract": "Agent-based computing and multi-agent systems are important tools in the domain of smart grid. Various properties of agents like self-organization, co-operation, autonomous behavior, and many others allow researchers to well represent the smart grid applications and models. From past few decades, various research attempts have been made in the smart grid domain by adopting the agent-based computing technology. The research publications are growing in number which makes it difficult to locate and identify the dynamics and trends in the research. Scientometric analysis is a useful tool to perform a comprehensive bibliographic review. It allows not only to understand the key areas of research but also provide visual representation of each entity involve in the research. In this study, we provide a detailed statistical as well as visual analysis of agent-based smart grid research by adopting complex network-based analytical approach. The study covers all scientific literature available online in Web of Science database. We are interested in identification of key papers, authors, and journals. Furthermore, we also investigate core countries, institutions, and categories."
+    },
+    {
+      "paperId": "c6cf47576b2cf494649a1e6ccefaf6bcc44f06e0",
+      "externalIds": {
+        "DBLP": "journals/access/Ness25c",
+        "DOI": "10.1109/ACCESS.2025.3561587",
+        "CorpusId": 277874801
+      },
+      "url": "https://www.semanticscholar.org/paper/c6cf47576b2cf494649a1e6ccefaf6bcc44f06e0",
+      "title": "Enhancing Smart Grid Reliability: Fault Detection in Phasor Measurement Unit Images With Deep Learning",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2025.3561587",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3561587?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3561587, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The study proposes a new hybrid deep learning framework that combines transfer learning and adaptive thresholding techniques and achieves accurate and efficient fault classification through the conversion of PMU data to images and then utilization of advanced deep learning models VGG16 combined with Convolutional Neural Networks."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "69257-69268",
+        "volume": "13"
+      },
+      "authors": [
+        {
+          "authorId": "2253817271",
+          "name": "Stephanie Ness"
+        }
+      ],
+      "abstract": "Stable operations of modern power networks depend on the reliability of smart grids. The expansion of modern power systems combined with renewable energy applications and decentralized networks creates difficulties for traditional fault detection methods because of high-dimensional data combined with measurement noise and delayed fault identification processes. A deep learning solution based on Phasor Measurement Unit (PMU) image data detection for smart grid faults is presented in this work. The proposed method achieves accurate and efficient fault classification through the conversion of PMU data to images and then utilization of advanced deep learning models VGG16 combined with Convolutional Neural Networks (CNNs). The experimental findings show that VGG16 reaches 98.75% accuracy in fault classification while surpassing CNNs that delivered 94.44% accuracy. In addition to reporting high classification accuracy, the study proposes a new hybrid deep learning framework that combines transfer learning and adaptive thresholding techniques. The image-based deep learning system extracts features automatically, reducing the need for human preprocessing to effectively detect fault patterns. The methodology enables immediate fault detection, allowing operators to make critical decisions to avoid major power outages. According to the research, artificial intelligence has the potential to significantly improve smart grid resilience, reduce economic losses, and improve power system operational efficiency. The research advances AI developments in energy management by developing advanced, powerful fault detection methods that will guide future changes to power system networks."
+    }
+  ]
+}

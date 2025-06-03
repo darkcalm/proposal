@@ -1,0 +1,908 @@
+{
+  "totalHitsEncounteredAcrossPages": 5592,
+  "retrievedCountForThisQuery": 28,
+  "searchIdentifier": "initial_primary_3",
+  "originalQuery": "Workflow optimization AND human factors in decentralized energy operations",
+  "results": [
+    {
+      "id": 17199341,
+      "doi": "10.1109/comst.2014.2320099",
+      "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies,\n  and Applications",
+      "abstract": "Wireless sensor networks monitor dynamic environments that change rapidly\nover time. This dynamic behavior is either caused by external factors or\ninitiated by the system designers themselves. To adapt to such conditions,\nsensor networks often adopt machine learning techniques to eliminate the need\nfor unnecessary redesign. Machine learning also inspires many practical\nsolutions that maximize resource utilization and prolong the lifespan of the\nnetwork. In this paper, we present an extensive literature review over the\nperiod 2002-2013 of machine learning methods that were used to address common\nissues in wireless sensor networks (WSNs). The advantages and disadvantages of\neach proposed algorithm are evaluated against the corresponding problem. We\nalso provide a comparative guide to aid WSN designers in developing suitable\nmachine learning solutions for their specific application challenges.Comment: Accepted for publication in IEEE Communications Surveys and Tutorial",
+      "yearPublished": 2014,
+      "publishedDate": "2014-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alsheikh, Mohammad Abu"
+        },
+        {
+          "name": "Lin, Shaowei"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Tan, Hwee-Pink"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/35456291.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1553-877X"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158251018,
+      "doi": "10.3390/iot5030025",
+      "title": "Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities",
+      "abstract": "\u00a9 2024 The Author(s). Licensee MDPI, Basel, Switzerland. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY), https://creativecommons.org/licenses/by/4.0/In response to the growing need for enhanced energy management in smart grids in sustainable smart cities, this study addresses the critical need for grid stability and efficient integration of renewable energy sources, utilizing advanced technologies like 6G IoT, AI, and blockchain. By deploying a suite of machine learning models like decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks, grid load fluctuations are predicted, especially during peak demand periods, to prevent overloads and ensure consistent power delivery. Additionally, long short-term memory recurrent neural networks analyze weather data to forecast solar energy production accurately, enabling better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning dynamically manages and optimizes photovoltaic energy usage, enhancing overall efficiency. The integration of a sophisticated visualization dashboard provides real-time updates and facilitates strategic planning by making complex data accessible. Lastly, the use of blockchain technology in verifying energy consumption readings and transactions promotes transparency and trust, which is crucial for the broader adoption of renewable resources. The combined approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a more robust adoption of renewable energies.Peer reviewe",
+      "yearPublished": 2024,
+      "publishedDate": "2024-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "A T, Mithul Raaj"
+        },
+        {
+          "name": "Aggarwal, Geetika"
+        },
+        {
+          "name": "B, Balaji"
+        },
+        {
+          "name": "Kumar, Vaegae Naveen"
+        },
+        {
+          "name": "M, Rajesh Kumar"
+        },
+        {
+          "name": "Naidu, Rani Chinnappa"
+        },
+        {
+          "name": "R R, Sai Arun Pravin"
+        },
+        {
+          "name": "Rajkumar, Sujatha"
+        },
+        {
+          "name": "Ramachandran, Prakash"
+        },
+        {
+          "name": "Siddiqui, Arooj Mubashara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617169786.pdf",
+      "publisher": "",
+      "journals": [
+        {
+          "title": "IoT",
+          "identifiers": [
+            "issn:2624-831X",
+            "2624-831x"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 18037991,
+      "doi": "10.1109/icdcs.2015.10",
+      "title": "Crowd-ML: A Privacy-Preserving Learning Framework for a Crowd of Smart\n  Devices",
+      "abstract": "Smart devices with built-in sensors, computational capabilities, and network\nconnectivity have become increasingly pervasive. The crowds of smart devices\noffer opportunities to collectively sense and perform computing tasks in an\nunprecedented scale. This paper presents Crowd-ML, a privacy-preserving machine\nlearning framework for a crowd of smart devices, which can solve a wide range\nof learning problems for crowdsensing data with differential privacy\nguarantees. Crowd-ML endows a crowdsensing system with an ability to learn\nclassifiers or predictors online from crowdsensing data privately with minimal\ncomputational overheads on devices and servers, suitable for a practical and\nlarge-scale employment of the framework. We analyze the performance and the\nscalability of Crowd-ML, and implement the system with off-the-shelf\nsmartphones as a proof of concept. We demonstrate the advantages of Crowd-ML\nwith real and simulated experiments under various conditions",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-11T00:00:00",
+      "authors": [
+        {
+          "name": "Belkin, Mikhail"
+        },
+        {
+          "name": "Champion, Adam"
+        },
+        {
+          "name": "Chen, Guoxing"
+        },
+        {
+          "name": "Hamm, Jihun"
+        },
+        {
+          "name": "Xuan, Dong"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1501.02484",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 51671695,
+      "doi": "10.5194/hess-21-6275-2017",
+      "title": "A coupled modeling framework for sustainable watershed management in transboundary river basins",
+      "abstract": "There is a growing recognition among water resource managers that sustainable watershed management needs to not only account for the diverse ways humans benefit from the environment, but also incorporate the impact of human actions on the natural system. Coupled natural\u2013 human system modeling through explicit modeling of both natural and human behavior can help reveal the reciprocal interactions and co-evolution of the natural and human systems. This study develops a spatially scalable, generalized\r\nagent-based modeling (ABM) framework consisting of a process-based semi-distributed hydrologic model (SWAT) and a decentralized water system model to simulate the impacts of water resource management decisions that affect the food\u2013water\u2013energy\u2013environment (FWEE) nexus at a watershed scale. Agents within a river basin are geographically delineated based on both political and watershed boundaries and represent key stakeholders of ecosystem services. Agents decide about the priority across three primary water uses: food production, hydropower generation and ecosystem health within their geographical domains. Agents interact with the environment (streamflow) through the SWAT model and interact with other agents through a parameter representing willingness to cooperate. The innovative twoway coupling between the water system model and SWAT enables this framework to fully explore the feedback of human decisions on the environmental dynamics and vice versa. To support non-technical stakeholder interactions, a web-based user interface has been developed that allows for role-play and participatory modeling. The generalized ABM framework is also tested in two key transboundary river basins, the Mekong River basin in Southeast Asia and the Niger River basin in West Africa, where water uses for\r\necosystem health compete with growing human demands on food and energy resources. We present modeling results\r\nfor crop production, energy generation and violation of ecohydrological indicators at both the agent and basin-wide levels\r\nto shed light on holistic FWEE management policies in these two basins",
+      "yearPublished": 2018,
+      "publishedDate": "2018-07-04T09:26:04",
+      "authors": [
+        {
+          "name": "Khan, Hassaan Furqan"
+        },
+        {
+          "name": "Ringler, Claudia"
+        },
+        {
+          "name": "Xie, Hua"
+        },
+        {
+          "name": "Yang, Y. C. Ethan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/159238496.pdf",
+      "publisher": "'Copernicus GmbH'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1027-5606",
+            "issn:1607-7938",
+            "1607-7938",
+            "issn:1027-5606"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 347478,
+      "doi": null,
+      "title": "Centralized versus market-based approaches to mobile task allocation problem: State-of-the-art",
+      "abstract": "Centralized approach has been adopted for finding solutions to resource allocation problems (RAPs) in many real-life applications. On the other hand, market-based approach has been proposed as an alternative to solve the problem due to recent advancement in ICT technologies. In spite of the existence of some efforts to review the pros and cons of each approach in RAPs, the studies cannot be directly applied to specific problem domains like mobile task allocation problem which is characterised with high level of uncertainty on the availability of resources (workers). This paper aims to review existing studies on task allocation problems(TAPs) focusing on those two approaches and their comparison and identify major issues that need to be resolved for comparing the two approaches in mobile task allocation problems. Mobile Task Allocation Problem (MTAP) is defined and its problematic structures are explained in relation with task allocation to mobile workers. Solutions produced by each approach to some applications and variations of MTAP are also discussed and compared. Finally, some future research directions are identified in order to compare both approaches in function of uncertainty emerging from the mobile nature of the MTAP",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Al-Yafi, K"
+        },
+        {
+          "name": "Lee, H"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/336587.pdf",
+      "publisher": "EMCIS2009",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 9167058,
+      "doi": null,
+      "title": "Decentralized Resource Scheduling in Grid/Cloud Computing",
+      "abstract": "In the Grid/Cloud environment, applications or services and resources belong to different organizations with different objectives. Entities in the Grid/Cloud are autonomous and self-interested; however, they are willing to share their resources and services to achieve their individual and collective goals. In such open environment, the scheduling decision is a challenge given the decentralized nature of the environment. Each entity has specific requirements and objectives that need to achieve. In this thesis, we review the Grid/Cloud computing technologies, environment characteristics and structure and indicate the challenges within the resource scheduling. We capture the Grid/Cloud scheduling model based on the complete requirement of the environment. We further create a mapping between the Grid/Cloud scheduling problem and the combinatorial allocation problem and propose an adequate economic-based optimization model based on the characteristic and the structure nature of the Grid/Cloud. By adequacy, we mean that a comprehensive view of required properties of the Grid/Cloud is captured. We utilize the captured properties and propose a bidding language that is expressive where entities have the ability to specify any set of preferences in the Grid/Cloud and simple as entities have the ability to express structured preferences directly. We propose a winner determination model and mechanism that utilizes the proposed bidding language and finds a scheduling solution. Our proposed approach integrates concepts and principles of mechanism design and classical scheduling theory. Furthermore, we argue that in such open environment privacy concerns by nature is part of the requirement in the Grid/Cloud. Hence, any scheduling decision within the Grid/Cloud computing environment is to incorporate the feasibility of privacy protection of an entity. Each entity has specific requirements in terms of scheduling and privacy preferences. We analyze the privacy problem in the Grid/Cloud computing environment and propose an economic based model and solution architecture that provides a scheduling solution given privacy concerns in the Grid/Cloud. Finally, as a demonstration of the applicability of the approach, we apply our solution by integrating with Globus toolkit (a well adopted tool to enable Grid/Cloud computing environment). We also, created simulation experimental results to capture the economic and time efficiency of the proposed solution",
+      "yearPublished": 2013,
+      "publishedDate": "2013-03-22T07:00:00",
+      "authors": [
+        {
+          "name": "Abu-Rukba, Ra\\u27afat O"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/61637089.pdf",
+      "publisher": "Scholarship@Western",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152263519,
+      "doi": null,
+      "title": "Enhancement of Metaheuristic Algorithm for Scheduling Workflows in Multi-fog Environments",
+      "abstract": "Whether in computer science, engineering, or economics, optimization lies at the heart of any challenge involving decision-making. Choosing between several options is part of the decision- making process. Our desire to make the \"better\" decision drives our decision. An objective function or performance index describes the assessment of the alternative's goodness. The theory and methods of optimization are concerned with picking the best option. There are two types of optimization methods: deterministic and stochastic. The first is a traditional approach, which works well for small and linear problems. However, they struggle to address most of the real-world problems, which have a highly dimensional, nonlinear, and complex nature. As an alternative, stochastic optimization algorithms are specifically designed to tackle these types of challenges and are more common nowadays. This study proposed two stochastic, robust swarm-based metaheuristic optimization methods. They are both hybrid algorithms, which are formulated by combining Particle Swarm Optimization and Salp Swarm Optimization algorithms. Further, these algorithms are then applied to an important and thought-provoking problem. The problem is scientific workflow scheduling in multiple fog environments. Many computer environments, such as fog computing, are plagued by security attacks that must be handled. DDoS attacks are effectively harmful to fog computing environments as they occupy the fog's resources and make them busy. Thus, the fog environments would generally have fewer resources available during these types of attacks, and then the scheduling of submitted Internet of Things (IoT) workflows would be affected. Nevertheless, the current systems disregard the impact of DDoS attacks occurring in their scheduling process, causing the amount of workflows that miss deadlines as well as increasing the amount of tasks that are offloaded to the cloud. Hence, this study proposed a hybrid optimization algorithm as a solution for dealing with the workflow scheduling issue in various fog computing locations. The proposed algorithm comprises Salp Swarm Algorithm (SSA) and Particle Swarm Optimization (PSO). In dealing with the effects of DDoS attacks on fog computing locations, two Markov-chain schemes of discrete time types were used, whereby one calculates the average network bandwidth existing in each fog while the other determines the number of virtual machines existing in every fog on average. DDoS attacks are addressed at various levels. The approach predicts the DDoS attack\u2019s influences on fog environments. Based on the simulation results, the proposed method can significantly lessen the amount of offloaded tasks that are transferred to the cloud data centers. It could also decrease the amount of workflows with missed deadlines. Moreover, the significance of green fog computing is growing in fog computing environments, in which the consumption of energy plays an essential role in determining maintenance expenses and carbon dioxide emissions. The implementation of efficient scheduling methods has the potential to mitigate the usage of energy by allocating tasks to the most appropriate resources, considering the energy efficiency of each individual resource. In order to mitigate these challenges, the proposed algorithm integrates the Dynamic Voltage and Frequency Scaling (DVFS) technique, which is commonly employed to enhance the energy efficiency of processors. The experimental findings demonstrate that the utilization of the proposed method, combined with the Dynamic Voltage and Frequency Scaling (DVFS) technique, yields improved outcomes. These benefits encompass a minimization in energy consumption. Consequently, this approach emerges as a more environmentally friendly and sustainable solution for fog computing environments",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-10T01:00:00",
+      "authors": [
+        {
+          "name": "Ahmed, Omed"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/595483419.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17199341,
+      "doi": "10.1109/comst.2014.2320099",
+      "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies,\n  and Applications",
+      "abstract": "Wireless sensor networks monitor dynamic environments that change rapidly\nover time. This dynamic behavior is either caused by external factors or\ninitiated by the system designers themselves. To adapt to such conditions,\nsensor networks often adopt machine learning techniques to eliminate the need\nfor unnecessary redesign. Machine learning also inspires many practical\nsolutions that maximize resource utilization and prolong the lifespan of the\nnetwork. In this paper, we present an extensive literature review over the\nperiod 2002-2013 of machine learning methods that were used to address common\nissues in wireless sensor networks (WSNs). The advantages and disadvantages of\neach proposed algorithm are evaluated against the corresponding problem. We\nalso provide a comparative guide to aid WSN designers in developing suitable\nmachine learning solutions for their specific application challenges.Comment: Accepted for publication in IEEE Communications Surveys and Tutorial",
+      "yearPublished": 2014,
+      "publishedDate": "2014-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alsheikh, Mohammad Abu"
+        },
+        {
+          "name": "Lin, Shaowei"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Tan, Hwee-Pink"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/35456291.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1553-877X"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158251018,
+      "doi": "10.3390/iot5030025",
+      "title": "Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities",
+      "abstract": "\u00a9 2024 The Author(s). Licensee MDPI, Basel, Switzerland. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY), https://creativecommons.org/licenses/by/4.0/In response to the growing need for enhanced energy management in smart grids in sustainable smart cities, this study addresses the critical need for grid stability and efficient integration of renewable energy sources, utilizing advanced technologies like 6G IoT, AI, and blockchain. By deploying a suite of machine learning models like decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks, grid load fluctuations are predicted, especially during peak demand periods, to prevent overloads and ensure consistent power delivery. Additionally, long short-term memory recurrent neural networks analyze weather data to forecast solar energy production accurately, enabling better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning dynamically manages and optimizes photovoltaic energy usage, enhancing overall efficiency. The integration of a sophisticated visualization dashboard provides real-time updates and facilitates strategic planning by making complex data accessible. Lastly, the use of blockchain technology in verifying energy consumption readings and transactions promotes transparency and trust, which is crucial for the broader adoption of renewable resources. The combined approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a more robust adoption of renewable energies.Peer reviewe",
+      "yearPublished": 2024,
+      "publishedDate": "2024-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "A T, Mithul Raaj"
+        },
+        {
+          "name": "Aggarwal, Geetika"
+        },
+        {
+          "name": "B, Balaji"
+        },
+        {
+          "name": "Kumar, Vaegae Naveen"
+        },
+        {
+          "name": "M, Rajesh Kumar"
+        },
+        {
+          "name": "Naidu, Rani Chinnappa"
+        },
+        {
+          "name": "R R, Sai Arun Pravin"
+        },
+        {
+          "name": "Rajkumar, Sujatha"
+        },
+        {
+          "name": "Ramachandran, Prakash"
+        },
+        {
+          "name": "Siddiqui, Arooj Mubashara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617169786.pdf",
+      "publisher": "",
+      "journals": [
+        {
+          "title": "IoT",
+          "identifiers": [
+            "issn:2624-831X",
+            "2624-831x"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 18037991,
+      "doi": "10.1109/icdcs.2015.10",
+      "title": "Crowd-ML: A Privacy-Preserving Learning Framework for a Crowd of Smart\n  Devices",
+      "abstract": "Smart devices with built-in sensors, computational capabilities, and network\nconnectivity have become increasingly pervasive. The crowds of smart devices\noffer opportunities to collectively sense and perform computing tasks in an\nunprecedented scale. This paper presents Crowd-ML, a privacy-preserving machine\nlearning framework for a crowd of smart devices, which can solve a wide range\nof learning problems for crowdsensing data with differential privacy\nguarantees. Crowd-ML endows a crowdsensing system with an ability to learn\nclassifiers or predictors online from crowdsensing data privately with minimal\ncomputational overheads on devices and servers, suitable for a practical and\nlarge-scale employment of the framework. We analyze the performance and the\nscalability of Crowd-ML, and implement the system with off-the-shelf\nsmartphones as a proof of concept. We demonstrate the advantages of Crowd-ML\nwith real and simulated experiments under various conditions",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-11T00:00:00",
+      "authors": [
+        {
+          "name": "Belkin, Mikhail"
+        },
+        {
+          "name": "Champion, Adam"
+        },
+        {
+          "name": "Chen, Guoxing"
+        },
+        {
+          "name": "Hamm, Jihun"
+        },
+        {
+          "name": "Xuan, Dong"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1501.02484",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 51671695,
+      "doi": "10.5194/hess-21-6275-2017",
+      "title": "A coupled modeling framework for sustainable watershed management in transboundary river basins",
+      "abstract": "There is a growing recognition among water resource managers that sustainable watershed management needs to not only account for the diverse ways humans benefit from the environment, but also incorporate the impact of human actions on the natural system. Coupled natural\u2013 human system modeling through explicit modeling of both natural and human behavior can help reveal the reciprocal interactions and co-evolution of the natural and human systems. This study develops a spatially scalable, generalized\r\nagent-based modeling (ABM) framework consisting of a process-based semi-distributed hydrologic model (SWAT) and a decentralized water system model to simulate the impacts of water resource management decisions that affect the food\u2013water\u2013energy\u2013environment (FWEE) nexus at a watershed scale. Agents within a river basin are geographically delineated based on both political and watershed boundaries and represent key stakeholders of ecosystem services. Agents decide about the priority across three primary water uses: food production, hydropower generation and ecosystem health within their geographical domains. Agents interact with the environment (streamflow) through the SWAT model and interact with other agents through a parameter representing willingness to cooperate. The innovative twoway coupling between the water system model and SWAT enables this framework to fully explore the feedback of human decisions on the environmental dynamics and vice versa. To support non-technical stakeholder interactions, a web-based user interface has been developed that allows for role-play and participatory modeling. The generalized ABM framework is also tested in two key transboundary river basins, the Mekong River basin in Southeast Asia and the Niger River basin in West Africa, where water uses for\r\necosystem health compete with growing human demands on food and energy resources. We present modeling results\r\nfor crop production, energy generation and violation of ecohydrological indicators at both the agent and basin-wide levels\r\nto shed light on holistic FWEE management policies in these two basins",
+      "yearPublished": 2018,
+      "publishedDate": "2018-07-04T09:26:04",
+      "authors": [
+        {
+          "name": "Khan, Hassaan Furqan"
+        },
+        {
+          "name": "Ringler, Claudia"
+        },
+        {
+          "name": "Xie, Hua"
+        },
+        {
+          "name": "Yang, Y. C. Ethan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/159238496.pdf",
+      "publisher": "'Copernicus GmbH'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1027-5606",
+            "issn:1607-7938",
+            "1607-7938",
+            "issn:1027-5606"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 347478,
+      "doi": null,
+      "title": "Centralized versus market-based approaches to mobile task allocation problem: State-of-the-art",
+      "abstract": "Centralized approach has been adopted for finding solutions to resource allocation problems (RAPs) in many real-life applications. On the other hand, market-based approach has been proposed as an alternative to solve the problem due to recent advancement in ICT technologies. In spite of the existence of some efforts to review the pros and cons of each approach in RAPs, the studies cannot be directly applied to specific problem domains like mobile task allocation problem which is characterised with high level of uncertainty on the availability of resources (workers). This paper aims to review existing studies on task allocation problems(TAPs) focusing on those two approaches and their comparison and identify major issues that need to be resolved for comparing the two approaches in mobile task allocation problems. Mobile Task Allocation Problem (MTAP) is defined and its problematic structures are explained in relation with task allocation to mobile workers. Solutions produced by each approach to some applications and variations of MTAP are also discussed and compared. Finally, some future research directions are identified in order to compare both approaches in function of uncertainty emerging from the mobile nature of the MTAP",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Al-Yafi, K"
+        },
+        {
+          "name": "Lee, H"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/336587.pdf",
+      "publisher": "EMCIS2009",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 9167058,
+      "doi": null,
+      "title": "Decentralized Resource Scheduling in Grid/Cloud Computing",
+      "abstract": "In the Grid/Cloud environment, applications or services and resources belong to different organizations with different objectives. Entities in the Grid/Cloud are autonomous and self-interested; however, they are willing to share their resources and services to achieve their individual and collective goals. In such open environment, the scheduling decision is a challenge given the decentralized nature of the environment. Each entity has specific requirements and objectives that need to achieve. In this thesis, we review the Grid/Cloud computing technologies, environment characteristics and structure and indicate the challenges within the resource scheduling. We capture the Grid/Cloud scheduling model based on the complete requirement of the environment. We further create a mapping between the Grid/Cloud scheduling problem and the combinatorial allocation problem and propose an adequate economic-based optimization model based on the characteristic and the structure nature of the Grid/Cloud. By adequacy, we mean that a comprehensive view of required properties of the Grid/Cloud is captured. We utilize the captured properties and propose a bidding language that is expressive where entities have the ability to specify any set of preferences in the Grid/Cloud and simple as entities have the ability to express structured preferences directly. We propose a winner determination model and mechanism that utilizes the proposed bidding language and finds a scheduling solution. Our proposed approach integrates concepts and principles of mechanism design and classical scheduling theory. Furthermore, we argue that in such open environment privacy concerns by nature is part of the requirement in the Grid/Cloud. Hence, any scheduling decision within the Grid/Cloud computing environment is to incorporate the feasibility of privacy protection of an entity. Each entity has specific requirements in terms of scheduling and privacy preferences. We analyze the privacy problem in the Grid/Cloud computing environment and propose an economic based model and solution architecture that provides a scheduling solution given privacy concerns in the Grid/Cloud. Finally, as a demonstration of the applicability of the approach, we apply our solution by integrating with Globus toolkit (a well adopted tool to enable Grid/Cloud computing environment). We also, created simulation experimental results to capture the economic and time efficiency of the proposed solution",
+      "yearPublished": 2013,
+      "publishedDate": "2013-03-22T07:00:00",
+      "authors": [
+        {
+          "name": "Abu-Rukba, Ra\\u27afat O"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/61637089.pdf",
+      "publisher": "Scholarship@Western",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152263519,
+      "doi": null,
+      "title": "Enhancement of Metaheuristic Algorithm for Scheduling Workflows in Multi-fog Environments",
+      "abstract": "Whether in computer science, engineering, or economics, optimization lies at the heart of any challenge involving decision-making. Choosing between several options is part of the decision- making process. Our desire to make the \"better\" decision drives our decision. An objective function or performance index describes the assessment of the alternative's goodness. The theory and methods of optimization are concerned with picking the best option. There are two types of optimization methods: deterministic and stochastic. The first is a traditional approach, which works well for small and linear problems. However, they struggle to address most of the real-world problems, which have a highly dimensional, nonlinear, and complex nature. As an alternative, stochastic optimization algorithms are specifically designed to tackle these types of challenges and are more common nowadays. This study proposed two stochastic, robust swarm-based metaheuristic optimization methods. They are both hybrid algorithms, which are formulated by combining Particle Swarm Optimization and Salp Swarm Optimization algorithms. Further, these algorithms are then applied to an important and thought-provoking problem. The problem is scientific workflow scheduling in multiple fog environments. Many computer environments, such as fog computing, are plagued by security attacks that must be handled. DDoS attacks are effectively harmful to fog computing environments as they occupy the fog's resources and make them busy. Thus, the fog environments would generally have fewer resources available during these types of attacks, and then the scheduling of submitted Internet of Things (IoT) workflows would be affected. Nevertheless, the current systems disregard the impact of DDoS attacks occurring in their scheduling process, causing the amount of workflows that miss deadlines as well as increasing the amount of tasks that are offloaded to the cloud. Hence, this study proposed a hybrid optimization algorithm as a solution for dealing with the workflow scheduling issue in various fog computing locations. The proposed algorithm comprises Salp Swarm Algorithm (SSA) and Particle Swarm Optimization (PSO). In dealing with the effects of DDoS attacks on fog computing locations, two Markov-chain schemes of discrete time types were used, whereby one calculates the average network bandwidth existing in each fog while the other determines the number of virtual machines existing in every fog on average. DDoS attacks are addressed at various levels. The approach predicts the DDoS attack\u2019s influences on fog environments. Based on the simulation results, the proposed method can significantly lessen the amount of offloaded tasks that are transferred to the cloud data centers. It could also decrease the amount of workflows with missed deadlines. Moreover, the significance of green fog computing is growing in fog computing environments, in which the consumption of energy plays an essential role in determining maintenance expenses and carbon dioxide emissions. The implementation of efficient scheduling methods has the potential to mitigate the usage of energy by allocating tasks to the most appropriate resources, considering the energy efficiency of each individual resource. In order to mitigate these challenges, the proposed algorithm integrates the Dynamic Voltage and Frequency Scaling (DVFS) technique, which is commonly employed to enhance the energy efficiency of processors. The experimental findings demonstrate that the utilization of the proposed method, combined with the Dynamic Voltage and Frequency Scaling (DVFS) technique, yields improved outcomes. These benefits encompass a minimization in energy consumption. Consequently, this approach emerges as a more environmentally friendly and sustainable solution for fog computing environments",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-10T01:00:00",
+      "authors": [
+        {
+          "name": "Ahmed, Omed"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/595483419.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17199341,
+      "doi": "10.1109/comst.2014.2320099",
+      "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies,\n  and Applications",
+      "abstract": "Wireless sensor networks monitor dynamic environments that change rapidly\nover time. This dynamic behavior is either caused by external factors or\ninitiated by the system designers themselves. To adapt to such conditions,\nsensor networks often adopt machine learning techniques to eliminate the need\nfor unnecessary redesign. Machine learning also inspires many practical\nsolutions that maximize resource utilization and prolong the lifespan of the\nnetwork. In this paper, we present an extensive literature review over the\nperiod 2002-2013 of machine learning methods that were used to address common\nissues in wireless sensor networks (WSNs). The advantages and disadvantages of\neach proposed algorithm are evaluated against the corresponding problem. We\nalso provide a comparative guide to aid WSN designers in developing suitable\nmachine learning solutions for their specific application challenges.Comment: Accepted for publication in IEEE Communications Surveys and Tutorial",
+      "yearPublished": 2014,
+      "publishedDate": "2014-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alsheikh, Mohammad Abu"
+        },
+        {
+          "name": "Lin, Shaowei"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Tan, Hwee-Pink"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/35456291.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1553-877X"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158251018,
+      "doi": "10.3390/iot5030025",
+      "title": "Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities",
+      "abstract": "\u00a9 2024 The Author(s). Licensee MDPI, Basel, Switzerland. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY), https://creativecommons.org/licenses/by/4.0/In response to the growing need for enhanced energy management in smart grids in sustainable smart cities, this study addresses the critical need for grid stability and efficient integration of renewable energy sources, utilizing advanced technologies like 6G IoT, AI, and blockchain. By deploying a suite of machine learning models like decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks, grid load fluctuations are predicted, especially during peak demand periods, to prevent overloads and ensure consistent power delivery. Additionally, long short-term memory recurrent neural networks analyze weather data to forecast solar energy production accurately, enabling better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning dynamically manages and optimizes photovoltaic energy usage, enhancing overall efficiency. The integration of a sophisticated visualization dashboard provides real-time updates and facilitates strategic planning by making complex data accessible. Lastly, the use of blockchain technology in verifying energy consumption readings and transactions promotes transparency and trust, which is crucial for the broader adoption of renewable resources. The combined approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a more robust adoption of renewable energies.Peer reviewe",
+      "yearPublished": 2024,
+      "publishedDate": "2024-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "A T, Mithul Raaj"
+        },
+        {
+          "name": "Aggarwal, Geetika"
+        },
+        {
+          "name": "B, Balaji"
+        },
+        {
+          "name": "Kumar, Vaegae Naveen"
+        },
+        {
+          "name": "M, Rajesh Kumar"
+        },
+        {
+          "name": "Naidu, Rani Chinnappa"
+        },
+        {
+          "name": "R R, Sai Arun Pravin"
+        },
+        {
+          "name": "Rajkumar, Sujatha"
+        },
+        {
+          "name": "Ramachandran, Prakash"
+        },
+        {
+          "name": "Siddiqui, Arooj Mubashara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617169786.pdf",
+      "publisher": "",
+      "journals": [
+        {
+          "title": "IoT",
+          "identifiers": [
+            "issn:2624-831X",
+            "2624-831x"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 18037991,
+      "doi": "10.1109/icdcs.2015.10",
+      "title": "Crowd-ML: A Privacy-Preserving Learning Framework for a Crowd of Smart\n  Devices",
+      "abstract": "Smart devices with built-in sensors, computational capabilities, and network\nconnectivity have become increasingly pervasive. The crowds of smart devices\noffer opportunities to collectively sense and perform computing tasks in an\nunprecedented scale. This paper presents Crowd-ML, a privacy-preserving machine\nlearning framework for a crowd of smart devices, which can solve a wide range\nof learning problems for crowdsensing data with differential privacy\nguarantees. Crowd-ML endows a crowdsensing system with an ability to learn\nclassifiers or predictors online from crowdsensing data privately with minimal\ncomputational overheads on devices and servers, suitable for a practical and\nlarge-scale employment of the framework. We analyze the performance and the\nscalability of Crowd-ML, and implement the system with off-the-shelf\nsmartphones as a proof of concept. We demonstrate the advantages of Crowd-ML\nwith real and simulated experiments under various conditions",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-11T00:00:00",
+      "authors": [
+        {
+          "name": "Belkin, Mikhail"
+        },
+        {
+          "name": "Champion, Adam"
+        },
+        {
+          "name": "Chen, Guoxing"
+        },
+        {
+          "name": "Hamm, Jihun"
+        },
+        {
+          "name": "Xuan, Dong"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1501.02484",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 51671695,
+      "doi": "10.5194/hess-21-6275-2017",
+      "title": "A coupled modeling framework for sustainable watershed management in transboundary river basins",
+      "abstract": "There is a growing recognition among water resource managers that sustainable watershed management needs to not only account for the diverse ways humans benefit from the environment, but also incorporate the impact of human actions on the natural system. Coupled natural\u2013 human system modeling through explicit modeling of both natural and human behavior can help reveal the reciprocal interactions and co-evolution of the natural and human systems. This study develops a spatially scalable, generalized\r\nagent-based modeling (ABM) framework consisting of a process-based semi-distributed hydrologic model (SWAT) and a decentralized water system model to simulate the impacts of water resource management decisions that affect the food\u2013water\u2013energy\u2013environment (FWEE) nexus at a watershed scale. Agents within a river basin are geographically delineated based on both political and watershed boundaries and represent key stakeholders of ecosystem services. Agents decide about the priority across three primary water uses: food production, hydropower generation and ecosystem health within their geographical domains. Agents interact with the environment (streamflow) through the SWAT model and interact with other agents through a parameter representing willingness to cooperate. The innovative twoway coupling between the water system model and SWAT enables this framework to fully explore the feedback of human decisions on the environmental dynamics and vice versa. To support non-technical stakeholder interactions, a web-based user interface has been developed that allows for role-play and participatory modeling. The generalized ABM framework is also tested in two key transboundary river basins, the Mekong River basin in Southeast Asia and the Niger River basin in West Africa, where water uses for\r\necosystem health compete with growing human demands on food and energy resources. We present modeling results\r\nfor crop production, energy generation and violation of ecohydrological indicators at both the agent and basin-wide levels\r\nto shed light on holistic FWEE management policies in these two basins",
+      "yearPublished": 2018,
+      "publishedDate": "2018-07-04T09:26:04",
+      "authors": [
+        {
+          "name": "Khan, Hassaan Furqan"
+        },
+        {
+          "name": "Ringler, Claudia"
+        },
+        {
+          "name": "Xie, Hua"
+        },
+        {
+          "name": "Yang, Y. C. Ethan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/159238496.pdf",
+      "publisher": "'Copernicus GmbH'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1027-5606",
+            "issn:1607-7938",
+            "1607-7938",
+            "issn:1027-5606"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 347478,
+      "doi": null,
+      "title": "Centralized versus market-based approaches to mobile task allocation problem: State-of-the-art",
+      "abstract": "Centralized approach has been adopted for finding solutions to resource allocation problems (RAPs) in many real-life applications. On the other hand, market-based approach has been proposed as an alternative to solve the problem due to recent advancement in ICT technologies. In spite of the existence of some efforts to review the pros and cons of each approach in RAPs, the studies cannot be directly applied to specific problem domains like mobile task allocation problem which is characterised with high level of uncertainty on the availability of resources (workers). This paper aims to review existing studies on task allocation problems(TAPs) focusing on those two approaches and their comparison and identify major issues that need to be resolved for comparing the two approaches in mobile task allocation problems. Mobile Task Allocation Problem (MTAP) is defined and its problematic structures are explained in relation with task allocation to mobile workers. Solutions produced by each approach to some applications and variations of MTAP are also discussed and compared. Finally, some future research directions are identified in order to compare both approaches in function of uncertainty emerging from the mobile nature of the MTAP",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Al-Yafi, K"
+        },
+        {
+          "name": "Lee, H"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/336587.pdf",
+      "publisher": "EMCIS2009",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 9167058,
+      "doi": null,
+      "title": "Decentralized Resource Scheduling in Grid/Cloud Computing",
+      "abstract": "In the Grid/Cloud environment, applications or services and resources belong to different organizations with different objectives. Entities in the Grid/Cloud are autonomous and self-interested; however, they are willing to share their resources and services to achieve their individual and collective goals. In such open environment, the scheduling decision is a challenge given the decentralized nature of the environment. Each entity has specific requirements and objectives that need to achieve. In this thesis, we review the Grid/Cloud computing technologies, environment characteristics and structure and indicate the challenges within the resource scheduling. We capture the Grid/Cloud scheduling model based on the complete requirement of the environment. We further create a mapping between the Grid/Cloud scheduling problem and the combinatorial allocation problem and propose an adequate economic-based optimization model based on the characteristic and the structure nature of the Grid/Cloud. By adequacy, we mean that a comprehensive view of required properties of the Grid/Cloud is captured. We utilize the captured properties and propose a bidding language that is expressive where entities have the ability to specify any set of preferences in the Grid/Cloud and simple as entities have the ability to express structured preferences directly. We propose a winner determination model and mechanism that utilizes the proposed bidding language and finds a scheduling solution. Our proposed approach integrates concepts and principles of mechanism design and classical scheduling theory. Furthermore, we argue that in such open environment privacy concerns by nature is part of the requirement in the Grid/Cloud. Hence, any scheduling decision within the Grid/Cloud computing environment is to incorporate the feasibility of privacy protection of an entity. Each entity has specific requirements in terms of scheduling and privacy preferences. We analyze the privacy problem in the Grid/Cloud computing environment and propose an economic based model and solution architecture that provides a scheduling solution given privacy concerns in the Grid/Cloud. Finally, as a demonstration of the applicability of the approach, we apply our solution by integrating with Globus toolkit (a well adopted tool to enable Grid/Cloud computing environment). We also, created simulation experimental results to capture the economic and time efficiency of the proposed solution",
+      "yearPublished": 2013,
+      "publishedDate": "2013-03-22T07:00:00",
+      "authors": [
+        {
+          "name": "Abu-Rukba, Ra\\u27afat O"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/61637089.pdf",
+      "publisher": "Scholarship@Western",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152263519,
+      "doi": null,
+      "title": "Enhancement of Metaheuristic Algorithm for Scheduling Workflows in Multi-fog Environments",
+      "abstract": "Whether in computer science, engineering, or economics, optimization lies at the heart of any challenge involving decision-making. Choosing between several options is part of the decision- making process. Our desire to make the \"better\" decision drives our decision. An objective function or performance index describes the assessment of the alternative's goodness. The theory and methods of optimization are concerned with picking the best option. There are two types of optimization methods: deterministic and stochastic. The first is a traditional approach, which works well for small and linear problems. However, they struggle to address most of the real-world problems, which have a highly dimensional, nonlinear, and complex nature. As an alternative, stochastic optimization algorithms are specifically designed to tackle these types of challenges and are more common nowadays. This study proposed two stochastic, robust swarm-based metaheuristic optimization methods. They are both hybrid algorithms, which are formulated by combining Particle Swarm Optimization and Salp Swarm Optimization algorithms. Further, these algorithms are then applied to an important and thought-provoking problem. The problem is scientific workflow scheduling in multiple fog environments. Many computer environments, such as fog computing, are plagued by security attacks that must be handled. DDoS attacks are effectively harmful to fog computing environments as they occupy the fog's resources and make them busy. Thus, the fog environments would generally have fewer resources available during these types of attacks, and then the scheduling of submitted Internet of Things (IoT) workflows would be affected. Nevertheless, the current systems disregard the impact of DDoS attacks occurring in their scheduling process, causing the amount of workflows that miss deadlines as well as increasing the amount of tasks that are offloaded to the cloud. Hence, this study proposed a hybrid optimization algorithm as a solution for dealing with the workflow scheduling issue in various fog computing locations. The proposed algorithm comprises Salp Swarm Algorithm (SSA) and Particle Swarm Optimization (PSO). In dealing with the effects of DDoS attacks on fog computing locations, two Markov-chain schemes of discrete time types were used, whereby one calculates the average network bandwidth existing in each fog while the other determines the number of virtual machines existing in every fog on average. DDoS attacks are addressed at various levels. The approach predicts the DDoS attack\u2019s influences on fog environments. Based on the simulation results, the proposed method can significantly lessen the amount of offloaded tasks that are transferred to the cloud data centers. It could also decrease the amount of workflows with missed deadlines. Moreover, the significance of green fog computing is growing in fog computing environments, in which the consumption of energy plays an essential role in determining maintenance expenses and carbon dioxide emissions. The implementation of efficient scheduling methods has the potential to mitigate the usage of energy by allocating tasks to the most appropriate resources, considering the energy efficiency of each individual resource. In order to mitigate these challenges, the proposed algorithm integrates the Dynamic Voltage and Frequency Scaling (DVFS) technique, which is commonly employed to enhance the energy efficiency of processors. The experimental findings demonstrate that the utilization of the proposed method, combined with the Dynamic Voltage and Frequency Scaling (DVFS) technique, yields improved outcomes. These benefits encompass a minimization in energy consumption. Consequently, this approach emerges as a more environmentally friendly and sustainable solution for fog computing environments",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-10T01:00:00",
+      "authors": [
+        {
+          "name": "Ahmed, Omed"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/595483419.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17199341,
+      "doi": "10.1109/comst.2014.2320099",
+      "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies,\n  and Applications",
+      "abstract": "Wireless sensor networks monitor dynamic environments that change rapidly\nover time. This dynamic behavior is either caused by external factors or\ninitiated by the system designers themselves. To adapt to such conditions,\nsensor networks often adopt machine learning techniques to eliminate the need\nfor unnecessary redesign. Machine learning also inspires many practical\nsolutions that maximize resource utilization and prolong the lifespan of the\nnetwork. In this paper, we present an extensive literature review over the\nperiod 2002-2013 of machine learning methods that were used to address common\nissues in wireless sensor networks (WSNs). The advantages and disadvantages of\neach proposed algorithm are evaluated against the corresponding problem. We\nalso provide a comparative guide to aid WSN designers in developing suitable\nmachine learning solutions for their specific application challenges.Comment: Accepted for publication in IEEE Communications Surveys and Tutorial",
+      "yearPublished": 2014,
+      "publishedDate": "2014-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alsheikh, Mohammad Abu"
+        },
+        {
+          "name": "Lin, Shaowei"
+        },
+        {
+          "name": "Niyato, Dusit"
+        },
+        {
+          "name": "Tan, Hwee-Pink"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/35456291.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1553-877X"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 158251018,
+      "doi": "10.3390/iot5030025",
+      "title": "Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities",
+      "abstract": "\u00a9 2024 The Author(s). Licensee MDPI, Basel, Switzerland. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY), https://creativecommons.org/licenses/by/4.0/In response to the growing need for enhanced energy management in smart grids in sustainable smart cities, this study addresses the critical need for grid stability and efficient integration of renewable energy sources, utilizing advanced technologies like 6G IoT, AI, and blockchain. By deploying a suite of machine learning models like decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks, grid load fluctuations are predicted, especially during peak demand periods, to prevent overloads and ensure consistent power delivery. Additionally, long short-term memory recurrent neural networks analyze weather data to forecast solar energy production accurately, enabling better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning dynamically manages and optimizes photovoltaic energy usage, enhancing overall efficiency. The integration of a sophisticated visualization dashboard provides real-time updates and facilitates strategic planning by making complex data accessible. Lastly, the use of blockchain technology in verifying energy consumption readings and transactions promotes transparency and trust, which is crucial for the broader adoption of renewable resources. The combined approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a more robust adoption of renewable energies.Peer reviewe",
+      "yearPublished": 2024,
+      "publishedDate": "2024-08-31T01:00:00",
+      "authors": [
+        {
+          "name": "A T, Mithul Raaj"
+        },
+        {
+          "name": "Aggarwal, Geetika"
+        },
+        {
+          "name": "B, Balaji"
+        },
+        {
+          "name": "Kumar, Vaegae Naveen"
+        },
+        {
+          "name": "M, Rajesh Kumar"
+        },
+        {
+          "name": "Naidu, Rani Chinnappa"
+        },
+        {
+          "name": "R R, Sai Arun Pravin"
+        },
+        {
+          "name": "Rajkumar, Sujatha"
+        },
+        {
+          "name": "Ramachandran, Prakash"
+        },
+        {
+          "name": "Siddiqui, Arooj Mubashara"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/617169786.pdf",
+      "publisher": "",
+      "journals": [
+        {
+          "title": "IoT",
+          "identifiers": [
+            "issn:2624-831X",
+            "2624-831x"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 18037991,
+      "doi": "10.1109/icdcs.2015.10",
+      "title": "Crowd-ML: A Privacy-Preserving Learning Framework for a Crowd of Smart\n  Devices",
+      "abstract": "Smart devices with built-in sensors, computational capabilities, and network\nconnectivity have become increasingly pervasive. The crowds of smart devices\noffer opportunities to collectively sense and perform computing tasks in an\nunprecedented scale. This paper presents Crowd-ML, a privacy-preserving machine\nlearning framework for a crowd of smart devices, which can solve a wide range\nof learning problems for crowdsensing data with differential privacy\nguarantees. Crowd-ML endows a crowdsensing system with an ability to learn\nclassifiers or predictors online from crowdsensing data privately with minimal\ncomputational overheads on devices and servers, suitable for a practical and\nlarge-scale employment of the framework. We analyze the performance and the\nscalability of Crowd-ML, and implement the system with off-the-shelf\nsmartphones as a proof of concept. We demonstrate the advantages of Crowd-ML\nwith real and simulated experiments under various conditions",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-11T00:00:00",
+      "authors": [
+        {
+          "name": "Belkin, Mikhail"
+        },
+        {
+          "name": "Champion, Adam"
+        },
+        {
+          "name": "Chen, Guoxing"
+        },
+        {
+          "name": "Hamm, Jihun"
+        },
+        {
+          "name": "Xuan, Dong"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1501.02484",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 51671695,
+      "doi": "10.5194/hess-21-6275-2017",
+      "title": "A coupled modeling framework for sustainable watershed management in transboundary river basins",
+      "abstract": "There is a growing recognition among water resource managers that sustainable watershed management needs to not only account for the diverse ways humans benefit from the environment, but also incorporate the impact of human actions on the natural system. Coupled natural\u2013 human system modeling through explicit modeling of both natural and human behavior can help reveal the reciprocal interactions and co-evolution of the natural and human systems. This study develops a spatially scalable, generalized\r\nagent-based modeling (ABM) framework consisting of a process-based semi-distributed hydrologic model (SWAT) and a decentralized water system model to simulate the impacts of water resource management decisions that affect the food\u2013water\u2013energy\u2013environment (FWEE) nexus at a watershed scale. Agents within a river basin are geographically delineated based on both political and watershed boundaries and represent key stakeholders of ecosystem services. Agents decide about the priority across three primary water uses: food production, hydropower generation and ecosystem health within their geographical domains. Agents interact with the environment (streamflow) through the SWAT model and interact with other agents through a parameter representing willingness to cooperate. The innovative twoway coupling between the water system model and SWAT enables this framework to fully explore the feedback of human decisions on the environmental dynamics and vice versa. To support non-technical stakeholder interactions, a web-based user interface has been developed that allows for role-play and participatory modeling. The generalized ABM framework is also tested in two key transboundary river basins, the Mekong River basin in Southeast Asia and the Niger River basin in West Africa, where water uses for\r\necosystem health compete with growing human demands on food and energy resources. We present modeling results\r\nfor crop production, energy generation and violation of ecohydrological indicators at both the agent and basin-wide levels\r\nto shed light on holistic FWEE management policies in these two basins",
+      "yearPublished": 2018,
+      "publishedDate": "2018-07-04T09:26:04",
+      "authors": [
+        {
+          "name": "Khan, Hassaan Furqan"
+        },
+        {
+          "name": "Ringler, Claudia"
+        },
+        {
+          "name": "Xie, Hua"
+        },
+        {
+          "name": "Yang, Y. C. Ethan"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/159238496.pdf",
+      "publisher": "'Copernicus GmbH'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1027-5606",
+            "issn:1607-7938",
+            "1607-7938",
+            "issn:1027-5606"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 347478,
+      "doi": null,
+      "title": "Centralized versus market-based approaches to mobile task allocation problem: State-of-the-art",
+      "abstract": "Centralized approach has been adopted for finding solutions to resource allocation problems (RAPs) in many real-life applications. On the other hand, market-based approach has been proposed as an alternative to solve the problem due to recent advancement in ICT technologies. In spite of the existence of some efforts to review the pros and cons of each approach in RAPs, the studies cannot be directly applied to specific problem domains like mobile task allocation problem which is characterised with high level of uncertainty on the availability of resources (workers). This paper aims to review existing studies on task allocation problems(TAPs) focusing on those two approaches and their comparison and identify major issues that need to be resolved for comparing the two approaches in mobile task allocation problems. Mobile Task Allocation Problem (MTAP) is defined and its problematic structures are explained in relation with task allocation to mobile workers. Solutions produced by each approach to some applications and variations of MTAP are also discussed and compared. Finally, some future research directions are identified in order to compare both approaches in function of uncertainty emerging from the mobile nature of the MTAP",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Al-Yafi, K"
+        },
+        {
+          "name": "Lee, H"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/336587.pdf",
+      "publisher": "EMCIS2009",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 9167058,
+      "doi": null,
+      "title": "Decentralized Resource Scheduling in Grid/Cloud Computing",
+      "abstract": "In the Grid/Cloud environment, applications or services and resources belong to different organizations with different objectives. Entities in the Grid/Cloud are autonomous and self-interested; however, they are willing to share their resources and services to achieve their individual and collective goals. In such open environment, the scheduling decision is a challenge given the decentralized nature of the environment. Each entity has specific requirements and objectives that need to achieve. In this thesis, we review the Grid/Cloud computing technologies, environment characteristics and structure and indicate the challenges within the resource scheduling. We capture the Grid/Cloud scheduling model based on the complete requirement of the environment. We further create a mapping between the Grid/Cloud scheduling problem and the combinatorial allocation problem and propose an adequate economic-based optimization model based on the characteristic and the structure nature of the Grid/Cloud. By adequacy, we mean that a comprehensive view of required properties of the Grid/Cloud is captured. We utilize the captured properties and propose a bidding language that is expressive where entities have the ability to specify any set of preferences in the Grid/Cloud and simple as entities have the ability to express structured preferences directly. We propose a winner determination model and mechanism that utilizes the proposed bidding language and finds a scheduling solution. Our proposed approach integrates concepts and principles of mechanism design and classical scheduling theory. Furthermore, we argue that in such open environment privacy concerns by nature is part of the requirement in the Grid/Cloud. Hence, any scheduling decision within the Grid/Cloud computing environment is to incorporate the feasibility of privacy protection of an entity. Each entity has specific requirements in terms of scheduling and privacy preferences. We analyze the privacy problem in the Grid/Cloud computing environment and propose an economic based model and solution architecture that provides a scheduling solution given privacy concerns in the Grid/Cloud. Finally, as a demonstration of the applicability of the approach, we apply our solution by integrating with Globus toolkit (a well adopted tool to enable Grid/Cloud computing environment). We also, created simulation experimental results to capture the economic and time efficiency of the proposed solution",
+      "yearPublished": 2013,
+      "publishedDate": "2013-03-22T07:00:00",
+      "authors": [
+        {
+          "name": "Abu-Rukba, Ra\\u27afat O"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/61637089.pdf",
+      "publisher": "Scholarship@Western",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152263519,
+      "doi": null,
+      "title": "Enhancement of Metaheuristic Algorithm for Scheduling Workflows in Multi-fog Environments",
+      "abstract": "Whether in computer science, engineering, or economics, optimization lies at the heart of any challenge involving decision-making. Choosing between several options is part of the decision- making process. Our desire to make the \"better\" decision drives our decision. An objective function or performance index describes the assessment of the alternative's goodness. The theory and methods of optimization are concerned with picking the best option. There are two types of optimization methods: deterministic and stochastic. The first is a traditional approach, which works well for small and linear problems. However, they struggle to address most of the real-world problems, which have a highly dimensional, nonlinear, and complex nature. As an alternative, stochastic optimization algorithms are specifically designed to tackle these types of challenges and are more common nowadays. This study proposed two stochastic, robust swarm-based metaheuristic optimization methods. They are both hybrid algorithms, which are formulated by combining Particle Swarm Optimization and Salp Swarm Optimization algorithms. Further, these algorithms are then applied to an important and thought-provoking problem. The problem is scientific workflow scheduling in multiple fog environments. Many computer environments, such as fog computing, are plagued by security attacks that must be handled. DDoS attacks are effectively harmful to fog computing environments as they occupy the fog's resources and make them busy. Thus, the fog environments would generally have fewer resources available during these types of attacks, and then the scheduling of submitted Internet of Things (IoT) workflows would be affected. Nevertheless, the current systems disregard the impact of DDoS attacks occurring in their scheduling process, causing the amount of workflows that miss deadlines as well as increasing the amount of tasks that are offloaded to the cloud. Hence, this study proposed a hybrid optimization algorithm as a solution for dealing with the workflow scheduling issue in various fog computing locations. The proposed algorithm comprises Salp Swarm Algorithm (SSA) and Particle Swarm Optimization (PSO). In dealing with the effects of DDoS attacks on fog computing locations, two Markov-chain schemes of discrete time types were used, whereby one calculates the average network bandwidth existing in each fog while the other determines the number of virtual machines existing in every fog on average. DDoS attacks are addressed at various levels. The approach predicts the DDoS attack\u2019s influences on fog environments. Based on the simulation results, the proposed method can significantly lessen the amount of offloaded tasks that are transferred to the cloud data centers. It could also decrease the amount of workflows with missed deadlines. Moreover, the significance of green fog computing is growing in fog computing environments, in which the consumption of energy plays an essential role in determining maintenance expenses and carbon dioxide emissions. The implementation of efficient scheduling methods has the potential to mitigate the usage of energy by allocating tasks to the most appropriate resources, considering the energy efficiency of each individual resource. In order to mitigate these challenges, the proposed algorithm integrates the Dynamic Voltage and Frequency Scaling (DVFS) technique, which is commonly employed to enhance the energy efficiency of processors. The experimental findings demonstrate that the utilization of the proposed method, combined with the Dynamic Voltage and Frequency Scaling (DVFS) technique, yields improved outcomes. These benefits encompass a minimization in energy consumption. Consequently, this approach emerges as a more environmentally friendly and sustainable solution for fog computing environments",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-10T01:00:00",
+      "authors": [
+        {
+          "name": "Ahmed, Omed"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/595483419.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

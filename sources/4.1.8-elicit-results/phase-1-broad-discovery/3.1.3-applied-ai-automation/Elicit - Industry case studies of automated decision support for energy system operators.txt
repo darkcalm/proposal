@@ -1,0 +1,17 @@
+Recent research highlights the development of automated decision support systems for energy system operators across various industrial applications. These systems aim to optimize energy consumption (Marques et al., 2016), balance electricity grids (Marco Potenziani et al., 2014), and manage renewable energy sources in microgrids (Stamatescu et al., 2017). Advanced visualization techniques and user interfaces are being designed to enhance situational awareness and support operator decision-making in complex power networks (Chen et al., 2017; Zaher et al., 2016; Handschin & Leder, 2001). Automated fault location systems have been implemented to expedite service restoration and improve system reliability (Vasco et al., 2008). The integration of Industry 4.0 concepts, including digitalisation and machine learning models, is being applied to enhance energy efficiency and sustainability in manufacturing processes (Ranade et al., 2024). These developments collectively aim to address the increasing challenges faced by operators in managing highly automated and interconnected energy systems.
+
+Marco, P., M., C., & Roberto, S. (2014). 3DHOP: A Novel Technological Solution for the Development of Online Virtual Museums. ERCIM News.
+
+M., M., B., S., & T., V. (2016). Context-based decision support for sustainable optimization of energy consumption.
+
+Stamatescu, I., Arghira, N., Făgărăşan, I., Stamatescu, G., Iliescu, S., & Calofir, V. (2017). Decision Support System for a Low Voltage Renewable Energy System. Energies, 10(1), 118. https://doi.org/10.3390/en10010118
+
+Chen, M., Catterson, V., Syed, M., Mcarthur, S., Burt, G., Marinelli, M., Prostejovsky, A. M., & Heussen, K. (2017). Supporting control room operators in highly automated future power networks. CIRED - Open Access Proceedings Journal, 2017(1), 1492–1495. https://doi.org/10.1049/oap-cired.2017.1107
+
+Zaher, A. S., Catterson, V. M., Syed, M. H., McArthur, S. D. J., Burt, G. M., Chen, M., Marinelli, M., & Prostejovsky, A. (2016). Enhanced situational awareness and decision support for operators of future distributed power network architectures. 2016 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 1–6. https://doi.org/10.1109/isgteurope.2016.7856198
+
+Vasco, J., Ramlachan, R., Wong, J., & Lee Wang. (2008). An Automated Fault Location System as a Decision Support Tool for System Operators. 2008 61st Annual Conference for Protective Relay Engineers, 556–572. https://doi.org/10.1109/cpre.2008.4515080
+
+Handschin, E., & Leder, C. (2001). Automatic decision support with a new visualization concept for power systems. 2001 IEEE Porto Power Tech Proceedings (Cat. No.01EX502), vol.2, 5. https://doi.org/10.1109/ptc.2001.964758
+
+Ranade, A., Gómez, J., de Juan, A., Chicaiza, W. D., Ahern, M., Escaño, J. M., Hryshchenko, A., Casey, O., Cloonan, A., O’Sullivan, D., Bruton, K., & McGibney, A. (2024). Implementing Industry 4.0: An In-Depth Case Study Integrating Digitalisation and Modelling for Decision Support System Applications. Energies, 17(8), 1818. https://doi.org/10.3390/en17081818

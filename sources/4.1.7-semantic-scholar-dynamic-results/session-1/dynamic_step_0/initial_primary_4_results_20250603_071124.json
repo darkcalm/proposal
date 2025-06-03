@@ -1,0 +1,184 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "5dc849b03f40ec514dd77c16ff7cd3a2df167123",
+      "externalIds": {
+        "CorpusId": 13261107
+      },
+      "url": "https://www.semanticscholar.org/paper/5dc849b03f40ec514dd77c16ff7cd3a2df167123",
+      "title": "SIGMA: A Multi-Agent System Architecture for Monitoring and Diagnosis in Supervisory Systems",
+      "venue": "International Conference on Intelligent and Adaptive Systems and Software Engineering",
+      "year": 2005,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new dynamic resource allocation problem is introduced, i.e., the degradation of machine is considered and simulation results for different types of the resource allocation problems are given to show the ability of the proposal decentralized multi-agents system."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2285462035",
+          "name": "Frank L. Lewis"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "df1d5a10b8cb22ca79ae3e295679a1895e5668fd",
+      "externalIds": {
+        "MAG": "8074274",
+        "DOI": "10.4233/UUID:099882A9-B6D8-406D-AC13-F695384CACBB",
+        "CorpusId": 108039405
+      },
+      "url": "https://www.semanticscholar.org/paper/df1d5a10b8cb22ca79ae3e295679a1895e5668fd",
+      "title": "Multi-Agent Model-Based Optimization for Future Electrical Grids",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 36,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.4233/UUID:099882A9-B6D8-406D-AC13-F695384CACBB?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4233/UUID:099882A9-B6D8-406D-AC13-F695384CACBB, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Using agent theory, a concept of an intelligent component is described in this thesis and a hierarchical structure of intelligent components has been developed in the intelligent network concept, which is used to illustrate the concept of intelligent networks."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2014-02-03",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "9958011",
+          "name": "G. Bajracharya"
+        }
+      ],
+      "abstract": "The electricity grid is one of the most complex systems created by human beings. It consists of an intricate network of components such as generators, transmission and distribution lines, transformers, breakers, various controllers, and various measurement and monitoring systems. The grid has been going through significant changes in past decades with new technological developments, deregulation, distributed generation, smart grid, and asset management. A synergy of these new developments has contributed to a better grid by improving its reliability and performance. However, the efficient coordination between various components of the grid and various new developments has been a constant challenge. For instance, new components that are introduced in the grid often have state of the art measurement and monitoring systems whereas the aging components have limited measurement and monitoring systems. We need to maintain the balance between these new and old technologies such that the new developments should be exploited to their full extent and the old systems should be reinforced such that their operational life could be extended without affecting their reliability significantly. Due to the complexity of the grid control, a centralized control of every component and every aspect of the grid is practically impossible. A distributed control system provides the ability to simplify the complexity of the grid control problem while solving the complex problem of coordination between its sub-systems. A distributed system is modular in nature and this system could be introduced to the grid in incremental phases within large networks. Multi-agent control can be used in the grid to realize a distributed system. Using agent theory, a concept of an intelligent component is described in this thesis. The intelligent component has the ability to make intelligent decisions based on the state of the component. With developments in measurement and monitoring technologies, we are better informed of the state of the grid components. By using these systems, we have the ability to better predict the health state of the grid components. There has also been significant developments in understanding how the health state of the grid components evolves over their lifetime. A model of the health state coupled with the new measurement and monitoring system allows us to predict the health state of the system. A framework of model-based optimization is included in the intelligent component. This framework consists of a predictive health model. An optimization is performed based on the prediction of the health model and the control decision of the intelligent component is made on the basis of this optimization. In order to solve the whole problem of the electricity grid, the intelligent components need to collaborate within each other. A concept of an intelligent network is also proposed in this thesis. In the intelligent network concept, a hierarchical structure of intelligent components has been developed. In order to optimize their global performance, the intelligent components need to collaborate with each other. The intelligent components within this hierarchical structure coordinate by exchanging their local states and their future plans. Coordination within intelligent network is only possible if all their intelligent components can communicate effectively. For this, an information interface was developed. The interface is particularly of importance in the electricity grid as different control systems used within the grid are often developed by different vendors. Common Information Model (CIM) has been deployed in the grid for network control, data exchange, and energy management systems. This CIM is further developed in this thesis so that it can accommodate the concept of the intelligent component and the intelligent network developed in this thesis. A case study of dynamic loading of transformers is used to illustrate the concept. The example is used throughout the thesis to demonstrate applicability of concepts of the intelligent component, the intelligent networks and the information interface. A dynamic loading scheme of transformer is developed based on the concept of intelligent components. A predictive health model for the top-oil temperature and the hot-spot temperature is developed. The predictive heath model predicts the top-oil temperature and the hot-spot temperature based on the loading of the transformer. An optimization method is developed which gives the dynamic rating of the transformer based on these predictions. The dynamic loading (DL) agent, developed here, could make local decisions on its dynamic rating based on the predicted loading of the transformer. This dynamic loading is applied in a electricity grid to illustrate the concept of intelligent networks. Multiple transformers within the grid have their own dynamic loading agents. An optimal power flow (OPF) agent is developed which controls the grid based on an optimal power flow algorithm. The OPF agent obtains the dynamic ratings from the dynamic loading agents of the transformers. Based on these dynamic ratings, the OPF agent controls the power flow of the grid. The OPF agent also sends predicted loadings of the transformers to its DL agents. These predicted loading is used by the dynamic loading agents which use this information for the next time step. The information interface is also described for this intelligent network implementation. In order to communicate dynamic ratings and predicted loadings of transformers, an extension to the CIM is developed. The workflow of the intelligent agent and its interaction with the extended CIM is also demonstrated. It is concluded that the use of the predictive health model enables the optimization for the future prediction horizon. The intelligent component concept is modular in nature which is useful for the electricity grid. The intelligent network concept effectively combines intelligent components within it. The framework developed in this thesis is also demonstrated with examples of dynamic loading of transformers within an electricity network in which the loading of the transformers are increased by 50 % of its nominal rating. Possible future extension of the predictive health model to include other electrical components models such as cables, circuit breakers, and generators, etc. is also discussed. A suggestion on the implementation phases of the concept developed in this thesis is also presented. It is suggested that the concept would be practical to be implemented in gradual phases to the electricity grid. New developments are also a potential opportunity for the implementation of the concept as the marginal cost is minimal for introducing the concept."
+    },
+    {
+      "paperId": "9db4f2c7075ab83b3cc4379d5deaa772c883e932",
+      "externalIds": {
+        "MAG": "2494884142",
+        "DBLP": "conf/nbis/2007",
+        "DOI": "10.1007/978-3-540-74573-0",
+        "CorpusId": 8270094
+      },
+      "url": "https://www.semanticscholar.org/paper/9db4f2c7075ab83b3cc4379d5deaa772c883e932",
+      "title": "Network-Based Information Systems, First International Conference, NBiS 2007, Regensburg, Germany, September 3-7, 2007, Proceedings",
+      "venue": "International Conference on Network-Based Information Systems",
+      "year": 2007,
+      "referenceCount": 26,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-540-74573-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-540-74573-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Improvement of JXTA Protocols for Supporting Reliable Distributed Applications in P2P Systems and Applications and Guidelines for Network Service Pricing are published."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "volume": "4658"
+      },
+      "authors": [
+        {
+          "authorId": "52121124",
+          "name": "\u698e\u6238 \u667a\u4e5f"
+        },
+        {
+          "authorId": "1706664",
+          "name": "L. Barolli"
+        },
+        {
+          "authorId": "52122190",
+          "name": "\u6edd\u6ca2 \u8aa0"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

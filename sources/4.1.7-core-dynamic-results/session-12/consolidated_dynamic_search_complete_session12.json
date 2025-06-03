@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "session_id": 12,
+    "timestamp": "2025-06-03T09:27:27.503249",
+    "script_used": "tools/4.1.7.1_core_dynamic_search.py",
+    "stage": "dynamic_search_complete",
+    "relevance_criteria_source": "sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json"
+  },
+  "summary": {
+    "total_unique_papers_retrieved": 0
+  },
+  "papers": []
+}

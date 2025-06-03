@@ -1,0 +1,17 @@
+Human error in maintenance operations is a significant concern across various industries, including power plants and wind farms. Studies have shown that human factors contribute to 40% of wind turbine failures (Keprate et al., 2024). Common causes of maintenance errors include work environment, organizational factors, individual characteristics, and task complexity (Pasquale et al., 2017; Dhillon & Liu, 2006). Maintenance errors can lead to reduced equipment reliability, safety issues, and economic losses (Dhillon, 2014; Alharran et al., 2023). To mitigate these risks, researchers have proposed various approaches, including human reliability analysis methods, performance shape factors, and AI-based recommendation systems (Keprate et al., 2024; Tavakoli & Nafar, 2021). Improving work instructions, providing adequate training, and enhancing safety culture are also recommended (Arini & Mulyono, 2013). While high-risk sectors like nuclear power and aviation have extensively addressed maintenance errors, manufacturing systems require more attention in this area (Pasquale et al., 2017).
+
+V., P., Chiara, F., R., I., Ilaria, M., & S., M. (2017). Human error in industrial maintenance: A systematic literature review.
+
+Dhillon, B. S. (2014). Human error in maintenance: An investigative study for the factories of the future. IOP Conference Series: Materials Science and Engineering, 65, 012031. https://doi.org/10.1088/1757-899x/65/1/012031
+
+Dhillon, B. S., & Liu, Y. (2006). Human error in maintenance: a review. Journal of Quality in Maintenance Engineering, 12(1), 21–36. https://doi.org/10.1108/13552510610654510
+
+Alharran, D., Norazahar, Dr. N., Ahmad, A., Bakhary, N., & Noh@Seth, N. H. (2023). The Survey And Perspective Of Human Factors Associated With Maintenance Activity. Journal of Energy and Safety Technology (JEST), 5(2), 61–69. https://doi.org/10.11113/jest.v5n2.119
+
+Dhillon, B. S. (2014). Human Error in Power Plant Maintenance. In Springer Series in Reliability Engineering (pp. 135–149). Springer International Publishing. https://doi.org/10.1007/978-3-319-04019-6_10
+
+Tavakoli, M., & Nafar, M. (2021). Estimating and ranking the impact of human error roots on power grid maintenance group based on a combination of mathematical expectation, Shannon entropy, and TOPSIS. Quality and Reliability Engineering International, 37(8), 3673–3692. https://doi.org/10.1002/qre.2941
+
+Astri, A., & Mulyono. (2013). ANALISIS HUMAN RELIABILITY PADA OPERATOR BAGIAN MAINTENANCE MESIN 2 DENGAN METODE HUMAN ERROR ASSESSMENT AND REDUCTION TECHNIQUE DI PT. PJB UP PAITON TAHUN 2013.
+
+Keprate, A., Kilskar, S., & Andrews, P. (2024). Towards Efficient Operation and Maintenance of Wind Farms: Leveraging AI for Minimizing Human Error. PHM Society European Conference, 8(1), 9. https://doi.org/10.36001/phme.2024.v8i1.4067

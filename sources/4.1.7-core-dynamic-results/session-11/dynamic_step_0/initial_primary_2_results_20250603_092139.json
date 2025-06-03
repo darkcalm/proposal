@@ -1,0 +1,1316 @@
+{
+  "totalHitsEncounteredAcrossPages": 654,
+  "retrievedCountForThisQuery": 32,
+  "searchIdentifier": "initial_primary_2",
+  "originalQuery": "AI agent protocols for improving manual processes AND human-agent interaction in DER systems",
+  "results": [
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6",
+      "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+      "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+      "yearPublished": 2022,
+      "publishedDate": "2022-11-24T00:00:00",
+      "authors": [
+        {
+          "name": "Dignum, Frank"
+        },
+        {
+          "name": "Erdogan, Emre"
+        },
+        {
+          "name": "Verbrugge, Rineke"
+        },
+        {
+          "name": "Yolum, P\u0131nar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+      "publisher": "Springer Science and Business Media Deutschland GmbH",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066",
+      "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+      "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catalina Gomez"
+        },
+        {
+          "name": "Chien-Ming Huang"
+        },
+        {
+          "name": "Mathias Unberath"
+        },
+        {
+          "name": "Shichang Ke"
+        },
+        {
+          "name": "Sue Min Cho"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+      "publisher": "Frontiers Media S.A.",
+      "journals": [
+        {
+          "title": "Frontiers in Computer Science",
+          "identifiers": [
+            "2624-9898",
+            "issn:2624-9898"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 449583,
+      "doi": null,
+      "title": "Agent Technology: Computing as Interaction (A Roadmap for Agent Based Computing)",
+      "abstract": null,
+      "yearPublished": 2005,
+      "publishedDate": "2005-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Luck, M"
+        },
+        {
+          "name": "McBurney, P"
+        },
+        {
+          "name": "Shehory, O"
+        },
+        {
+          "name": "Willmott, S"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/29914283.pdf",
+      "publisher": "'University of Southampton'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 275336674,
+      "doi": "10.3390/jsan10020033",
+      "title": "Agents and robots for reliable engineered autonomy: A perspective from the organisers of area 2020",
+      "abstract": "Multi-agent systems, robotics and software engineering are large and active research areas with many applications in academia and industry. The First Workshop on Agents and Robots for reliable Engineered Autonomy (AREA), organised the first time in 2020, aims at encouraging cross-disciplinary collaborations and exchange of ideas among researchers working in these research areas. This paper presents a perspective of the organisers that aims at highlighting the latest research trends, future directions, challenges, and open problems. It also includes feedback from the discussions held during the AREA workshop. The goal of this perspective is to provide a high-level view of current research trends for researchers that aim at working in the intersection of these research areas",
+      "yearPublished": 2021,
+      "publishedDate": "2021-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Menghi, Claudio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630963064.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article",
+      "topics": null
+    },
+    {
+      "id": 4862168,
+      "doi": "10.1007/s00146-007-0135-0",
+      "title": "Pro-active Meeting Assistants: Attention Please!",
+      "abstract": "This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all. This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Anton Nijholt"
+        },
+        {
+          "name": "E Bowring"
+        },
+        {
+          "name": "H Nakanishi"
+        },
+        {
+          "name": "J Sellen"
+        },
+        {
+          "name": "JF Nunamaker Jr"
+        },
+        {
+          "name": "LK Tracy"
+        },
+        {
+          "name": "M Deutsch"
+        },
+        {
+          "name": "P Barthelmess"
+        },
+        {
+          "name": "P Cook"
+        },
+        {
+          "name": "Paulo Barthelmess"
+        },
+        {
+          "name": "PM Berry"
+        },
+        {
+          "name": "R Oehlmann"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "Rutger Rienks"
+        },
+        {
+          "name": "S Shum"
+        },
+        {
+          "name": "TL Ruble"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/11467800.pdf",
+      "publisher": "Springer-Verlag",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0951-5666"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6",
+      "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+      "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+      "yearPublished": 2022,
+      "publishedDate": "2022-11-24T00:00:00",
+      "authors": [
+        {
+          "name": "Dignum, Frank"
+        },
+        {
+          "name": "Erdogan, Emre"
+        },
+        {
+          "name": "Verbrugge, Rineke"
+        },
+        {
+          "name": "Yolum, P\u0131nar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+      "publisher": "Springer Science and Business Media Deutschland GmbH",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066",
+      "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+      "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catalina Gomez"
+        },
+        {
+          "name": "Chien-Ming Huang"
+        },
+        {
+          "name": "Mathias Unberath"
+        },
+        {
+          "name": "Shichang Ke"
+        },
+        {
+          "name": "Sue Min Cho"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+      "publisher": "Frontiers Media S.A.",
+      "journals": [
+        {
+          "title": "Frontiers in Computer Science",
+          "identifiers": [
+            "2624-9898",
+            "issn:2624-9898"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 449583,
+      "doi": null,
+      "title": "Agent Technology: Computing as Interaction (A Roadmap for Agent Based Computing)",
+      "abstract": null,
+      "yearPublished": 2005,
+      "publishedDate": "2005-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Luck, M"
+        },
+        {
+          "name": "McBurney, P"
+        },
+        {
+          "name": "Shehory, O"
+        },
+        {
+          "name": "Willmott, S"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/29914283.pdf",
+      "publisher": "'University of Southampton'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 275336674,
+      "doi": "10.3390/jsan10020033",
+      "title": "Agents and robots for reliable engineered autonomy: A perspective from the organisers of area 2020",
+      "abstract": "Multi-agent systems, robotics and software engineering are large and active research areas with many applications in academia and industry. The First Workshop on Agents and Robots for reliable Engineered Autonomy (AREA), organised the first time in 2020, aims at encouraging cross-disciplinary collaborations and exchange of ideas among researchers working in these research areas. This paper presents a perspective of the organisers that aims at highlighting the latest research trends, future directions, challenges, and open problems. It also includes feedback from the discussions held during the AREA workshop. The goal of this perspective is to provide a high-level view of current research trends for researchers that aim at working in the intersection of these research areas",
+      "yearPublished": 2021,
+      "publishedDate": "2021-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Menghi, Claudio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630963064.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article",
+      "topics": null
+    },
+    {
+      "id": 4862168,
+      "doi": "10.1007/s00146-007-0135-0",
+      "title": "Pro-active Meeting Assistants: Attention Please!",
+      "abstract": "This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all. This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Anton Nijholt"
+        },
+        {
+          "name": "E Bowring"
+        },
+        {
+          "name": "H Nakanishi"
+        },
+        {
+          "name": "J Sellen"
+        },
+        {
+          "name": "JF Nunamaker Jr"
+        },
+        {
+          "name": "LK Tracy"
+        },
+        {
+          "name": "M Deutsch"
+        },
+        {
+          "name": "P Barthelmess"
+        },
+        {
+          "name": "P Cook"
+        },
+        {
+          "name": "Paulo Barthelmess"
+        },
+        {
+          "name": "PM Berry"
+        },
+        {
+          "name": "R Oehlmann"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "Rutger Rienks"
+        },
+        {
+          "name": "S Shum"
+        },
+        {
+          "name": "TL Ruble"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/11467800.pdf",
+      "publisher": "Springer-Verlag",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0951-5666"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6",
+      "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+      "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+      "yearPublished": 2022,
+      "publishedDate": "2022-11-24T00:00:00",
+      "authors": [
+        {
+          "name": "Dignum, Frank"
+        },
+        {
+          "name": "Erdogan, Emre"
+        },
+        {
+          "name": "Verbrugge, Rineke"
+        },
+        {
+          "name": "Yolum, P\u0131nar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+      "publisher": "Springer Science and Business Media Deutschland GmbH",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066",
+      "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+      "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catalina Gomez"
+        },
+        {
+          "name": "Chien-Ming Huang"
+        },
+        {
+          "name": "Mathias Unberath"
+        },
+        {
+          "name": "Shichang Ke"
+        },
+        {
+          "name": "Sue Min Cho"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+      "publisher": "Frontiers Media S.A.",
+      "journals": [
+        {
+          "title": "Frontiers in Computer Science",
+          "identifiers": [
+            "2624-9898",
+            "issn:2624-9898"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 449583,
+      "doi": null,
+      "title": "Agent Technology: Computing as Interaction (A Roadmap for Agent Based Computing)",
+      "abstract": null,
+      "yearPublished": 2005,
+      "publishedDate": "2005-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Luck, M"
+        },
+        {
+          "name": "McBurney, P"
+        },
+        {
+          "name": "Shehory, O"
+        },
+        {
+          "name": "Willmott, S"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/29914283.pdf",
+      "publisher": "'University of Southampton'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 275336674,
+      "doi": "10.3390/jsan10020033",
+      "title": "Agents and robots for reliable engineered autonomy: A perspective from the organisers of area 2020",
+      "abstract": "Multi-agent systems, robotics and software engineering are large and active research areas with many applications in academia and industry. The First Workshop on Agents and Robots for reliable Engineered Autonomy (AREA), organised the first time in 2020, aims at encouraging cross-disciplinary collaborations and exchange of ideas among researchers working in these research areas. This paper presents a perspective of the organisers that aims at highlighting the latest research trends, future directions, challenges, and open problems. It also includes feedback from the discussions held during the AREA workshop. The goal of this perspective is to provide a high-level view of current research trends for researchers that aim at working in the intersection of these research areas",
+      "yearPublished": 2021,
+      "publishedDate": "2021-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Menghi, Claudio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630963064.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article",
+      "topics": null
+    },
+    {
+      "id": 4862168,
+      "doi": "10.1007/s00146-007-0135-0",
+      "title": "Pro-active Meeting Assistants: Attention Please!",
+      "abstract": "This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all. This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Anton Nijholt"
+        },
+        {
+          "name": "E Bowring"
+        },
+        {
+          "name": "H Nakanishi"
+        },
+        {
+          "name": "J Sellen"
+        },
+        {
+          "name": "JF Nunamaker Jr"
+        },
+        {
+          "name": "LK Tracy"
+        },
+        {
+          "name": "M Deutsch"
+        },
+        {
+          "name": "P Barthelmess"
+        },
+        {
+          "name": "P Cook"
+        },
+        {
+          "name": "Paulo Barthelmess"
+        },
+        {
+          "name": "PM Berry"
+        },
+        {
+          "name": "R Oehlmann"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "Rutger Rienks"
+        },
+        {
+          "name": "S Shum"
+        },
+        {
+          "name": "TL Ruble"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/11467800.pdf",
+      "publisher": "Springer-Verlag",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0951-5666"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 152503205,
+      "doi": null,
+      "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+      "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-31T00:00:00",
+      "authors": [
+        {
+          "name": "Cho, Sue Min"
+        },
+        {
+          "name": "Gomez, Catalina"
+        },
+        {
+          "name": "Huang, Chien-Ming"
+        },
+        {
+          "name": "Ke, Shichang"
+        },
+        {
+          "name": "Unberath, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2310.19778",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6",
+      "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+      "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+      "yearPublished": 2022,
+      "publishedDate": "2022-11-24T00:00:00",
+      "authors": [
+        {
+          "name": "Dignum, Frank"
+        },
+        {
+          "name": "Erdogan, Emre"
+        },
+        {
+          "name": "Verbrugge, Rineke"
+        },
+        {
+          "name": "Yolum, P\u0131nar"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+      "publisher": "Springer Science and Business Media Deutschland GmbH",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066",
+      "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+      "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+      "yearPublished": 2025,
+      "publishedDate": "2025-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Catalina Gomez"
+        },
+        {
+          "name": "Chien-Ming Huang"
+        },
+        {
+          "name": "Mathias Unberath"
+        },
+        {
+          "name": "Shichang Ke"
+        },
+        {
+          "name": "Sue Min Cho"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+      "publisher": "Frontiers Media S.A.",
+      "journals": [
+        {
+          "title": "Frontiers in Computer Science",
+          "identifiers": [
+            "2624-9898",
+            "issn:2624-9898"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 449583,
+      "doi": null,
+      "title": "Agent Technology: Computing as Interaction (A Roadmap for Agent Based Computing)",
+      "abstract": null,
+      "yearPublished": 2005,
+      "publishedDate": "2005-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Luck, M"
+        },
+        {
+          "name": "McBurney, P"
+        },
+        {
+          "name": "Shehory, O"
+        },
+        {
+          "name": "Willmott, S"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/29914283.pdf",
+      "publisher": "'University of Southampton'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 170171113,
+      "doi": "10.1007/978-3-031-46452-2",
+      "title": "Artificial Intelligence in Manufacturing",
+      "abstract": "This open access book presents a rich set of innovative solutions for artificial intelligence (AI) in manufacturing. The various chapters of the book provide a broad coverage of AI systems for state of the art flexible production lines including both cyber-physical production systems (Industry 4.0) and emerging trustworthy and human-centered manufacturing systems (Industry 5.0). From a technology perspective, the book addresses a wide range of AI paradigms such as deep learning, reinforcement learning, active learning, agent-based systems, explainable AI, industrial robots, and AI-based digital twins. Emphasis is put on system architectures and technologies that foster human-AI collaboration based on trusted interactions between workers and AI systems. From a manufacturing applications perspective, the book illustrates the deployment of these AI paradigms in a variety of use cases spanning production planning, quality control, anomaly detection, metrology, workers\u2019 training, supply chain management, as well as various production optimization scenarios. This is an open access book",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/637933269.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 275336674,
+      "doi": "10.3390/jsan10020033",
+      "title": "Agents and robots for reliable engineered autonomy: A perspective from the organisers of area 2020",
+      "abstract": "Multi-agent systems, robotics and software engineering are large and active research areas with many applications in academia and industry. The First Workshop on Agents and Robots for reliable Engineered Autonomy (AREA), organised the first time in 2020, aims at encouraging cross-disciplinary collaborations and exchange of ideas among researchers working in these research areas. This paper presents a perspective of the organisers that aims at highlighting the latest research trends, future directions, challenges, and open problems. It also includes feedback from the discussions held during the AREA workshop. The goal of this perspective is to provide a high-level view of current research trends for researchers that aim at working in the intersection of these research areas",
+      "yearPublished": 2021,
+      "publishedDate": "2021-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Menghi, Claudio"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/630963064.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research article",
+      "topics": null
+    },
+    {
+      "id": 4862168,
+      "doi": "10.1007/s00146-007-0135-0",
+      "title": "Pro-active Meeting Assistants: Attention Please!",
+      "abstract": "This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all. This paper gives an overview of pro-active meeting assistants, what they are and when they can be useful. We explain how to develop such assistants with respect to requirement definitions and elaborate on a set of Wizard of Oz experiments, aiming to find out in which form a meeting assistant should operate to be accepted by participants and whether the meeting effectiveness and efficiency can be improved by an assistant at all",
+      "yearPublished": 2009,
+      "publishedDate": "2009-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Anton Nijholt"
+        },
+        {
+          "name": "E Bowring"
+        },
+        {
+          "name": "H Nakanishi"
+        },
+        {
+          "name": "J Sellen"
+        },
+        {
+          "name": "JF Nunamaker Jr"
+        },
+        {
+          "name": "LK Tracy"
+        },
+        {
+          "name": "M Deutsch"
+        },
+        {
+          "name": "P Barthelmess"
+        },
+        {
+          "name": "P Cook"
+        },
+        {
+          "name": "Paulo Barthelmess"
+        },
+        {
+          "name": "PM Berry"
+        },
+        {
+          "name": "R Oehlmann"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "R Rienks"
+        },
+        {
+          "name": "Rutger Rienks"
+        },
+        {
+          "name": "S Shum"
+        },
+        {
+          "name": "TL Ruble"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/11467800.pdf",
+      "publisher": "Springer-Verlag",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0951-5666"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 164485113,
+      "doi": null,
+      "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+      "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advancing problem-solving and\ndecision-making processes. The advent of Large Pre-trained Models (LPtM) has\nsignificantly transformed this landscape, offering unprecedented capabilities\nby leveraging vast amounts of data to understand and predict complex patterns.\nThis paper surveys the pivotal integration of LPtMs with HAI, emphasizing how\nthese models enhance collaborative intelligence beyond traditional approaches.\nIt examines the potential of LPtMs in augmenting human capabilities, discussing\nthis collaboration for AI model improvements, effective teaming, ethical\nconsiderations, and their broad applied implications in various sectors.\nThrough this exploration, the study sheds light on the transformative impact of\nLPtM-enhanced HAI Teaming, providing insights for future research, policy\ndevelopment, and strategic implementations aimed at harnessing the full\npotential of this collaboration for research and societal benefit",
+      "yearPublished": 2024,
+      "publishedDate": "2024-06-26T01:00:00",
+      "authors": [
+        {
+          "name": "Aggarwal, Riya"
+        },
+        {
+          "name": "Davis, James"
+        },
+        {
+          "name": "Ding, Lei"
+        },
+        {
+          "name": "Gandamani, Devanathan Nallur"
+        },
+        {
+          "name": "Ghosalkar, Rohan"
+        },
+        {
+          "name": "Grinnell, Nathan"
+        },
+        {
+          "name": "Ho, Richard"
+        },
+        {
+          "name": "Hussain, Nafisa"
+        },
+        {
+          "name": "Liu, Li"
+        },
+        {
+          "name": "Liu, Minghao"
+        },
+        {
+          "name": "Malreddy, Sai Venkat"
+        },
+        {
+          "name": "Mehta, Jay"
+        },
+        {
+          "name": "Nizam, Marzia Binta"
+        },
+        {
+          "name": "Prasad, Mohnish Sai"
+        },
+        {
+          "name": "Ravichandran, Kesav"
+        },
+        {
+          "name": "Shen, Celeste"
+        },
+        {
+          "name": "Shen, Rachel"
+        },
+        {
+          "name": "Tang, Xinyi"
+        },
+        {
+          "name": "Titterton, Vincent"
+        },
+        {
+          "name": "Vats, Vanshika"
+        },
+        {
+          "name": "Wang, Ziyuan"
+        },
+        {
+          "name": "Xu, Yanwen"
+        },
+        {
+          "name": "Zhong, Sijia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/2403.04931",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

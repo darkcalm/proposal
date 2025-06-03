@@ -1,0 +1,32 @@
+2025-06-03 09:13:20,888 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:13:20,888 - INFO - CORE API Dynamic Search Script - Session 8
+2025-06-03 09:13:20,888 - INFO - Starting CORE API dynamic search: 1 iterations, score threshold 0.3
+2025-06-03 09:13:20,888 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:13:20,889 - INFO - Step 0 - Query 'initial_primary_0': 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with limit 10
+2025-06-03 09:13:28,912 - INFO - Found 9 papers (out of 20416 total hits) for query 'initial_primary_0'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_primary_0_results_20250603_091328.json
+2025-06-03 09:13:28,915 - INFO - Step 0 - Query 'initial_primary_1': 'Human-in-the-loop control AND operator decision support for smart grid management...' with limit 10
+2025-06-03 09:13:39,642 - INFO - Found 8 papers (out of 1145 total hits) for query 'initial_primary_1'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_primary_1_results_20250603_091339.json
+2025-06-03 09:13:39,644 - INFO - Step 0 - Query 'initial_primary_2': 'AI agent protocols for improving manual processes AND human-agent interaction in DER systems...' with limit 10
+2025-06-03 09:13:45,644 - INFO - Found 8 papers (out of 654 total hits) for query 'initial_primary_2'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_primary_2_results_20250603_091345.json
+2025-06-03 09:13:45,646 - INFO - Step 0 - Query 'initial_primary_3': 'Workflow optimization AND human factors in distributed energy system operations...' with limit 10
+2025-06-03 09:13:51,503 - INFO - Found 5 papers (out of 21432 total hits) for query 'initial_primary_3'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_primary_3_results_20250603_091351.json
+2025-06-03 09:13:51,505 - INFO - Step 0 - Query 'initial_primary_4': 'Identifying communication inefficiencies AND opportunities for AI agent assistance in microgrid oper...' with limit 10
+2025-06-03 09:13:57,825 - INFO - Found 10 papers (out of 129 total hits) for query 'initial_primary_4'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_primary_4_results_20250603_091357.json
+2025-06-03 09:13:57,828 - INFO - Step 0 - Query 'initial_secondary_5': 'Human factors in DER management...' with limit 10
+2025-06-03 09:14:03,626 - INFO - Found 10 papers (out of 818730 total hits) for query 'initial_secondary_5'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_secondary_5_results_20250603_091403.json
+2025-06-03 09:14:03,629 - INFO - Step 0 - Query 'initial_secondary_6': 'Communication protocols for DER coordination...' with limit 10
+2025-06-03 09:14:07,373 - INFO - Found 6 papers (out of 80843 total hits) for query 'initial_secondary_6'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_secondary_6_results_20250603_091407.json
+2025-06-03 09:14:07,376 - INFO - Step 0 - Query 'initial_secondary_7': 'AI agent applications in smart grid operations...' with limit 10
+2025-06-03 09:14:11,868 - INFO - Found 2 papers (out of 23429 total hits) for query 'initial_secondary_7'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_secondary_7_results_20250603_091411.json
+2025-06-03 09:14:11,869 - INFO - Step 0 - Query 'initial_tertiary_8': 'Operator tools for energy systems...' with limit 10
+2025-06-03 09:14:16,128 - INFO - Found 5 papers (out of 293232 total hits) for query 'initial_tertiary_8'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_tertiary_8_results_20250603_091416.json
+2025-06-03 09:14:16,131 - INFO - Step 0 - Query 'initial_tertiary_9': 'Manual task reduction in DER maintenance...' with limit 10
+2025-06-03 09:14:23,488 - INFO - Found 10 papers (out of 132112 total hits) for query 'initial_tertiary_9'. Saved to sources/4.1.7-core-dynamic-results/session-8/dynamic_step_0/initial_tertiary_9_results_20250603_091423.json
+2025-06-03 09:14:23,490 - INFO - Step 0 found 73 papers (before unique check with overall list).
+2025-06-03 09:14:23,490 - INFO - Total unique papers after step 0: 72
+2025-06-03 09:14:23,490 - INFO - Generated 0 new queries for step 1.
+2025-06-03 09:14:23,490 - INFO - --- Dynamic Search Step 1 ---
+2025-06-03 09:14:23,490 - INFO - No queries to run in dynamic step 1. Stopping.
+2025-06-03 09:14:23,597 - INFO - Consolidated JSON results for stage 'dynamic_search_complete' saved to sources/4.1.7-core-dynamic-results/session-8/consolidated_dynamic_search_complete_session8.json
+2025-06-03 09:14:23,598 - INFO - Markdown summary report saved to docs/4.1.7.1-core-dynamic-summary-session-8.md
+2025-06-03 09:14:23,598 - INFO - CORE API Dynamic search completed. Found 72 unique papers.

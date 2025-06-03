@@ -5,7 +5,7 @@ alwaysApply: false
 ---
 # Task List Management
 
-Guidelines for managing task lists in markdown files to track progress on completing a PRD
+Guidelines for managing task lists in markdown files to track progress on completing a PRD. All directories mentioned below are with respective to the root folder of the repository.
 
 _Note: In this specific project, the document serving as the PRD is under `sources/1.0-course_material/` censored for privacy._
 
@@ -13,42 +13,45 @@ _Note: In this specific project, the document serving as the PRD is under `sourc
 
 When working with task lists, the AI must:
 
-1. Read the file with the list of tasks, aware of overall progress. Read the most recent task output under `(repo root/)docs/`, and compare consistency to determine what the next subtask should be.
+1. Read the referenced task file under `task/`, to identify the next step. Read the most recent task output under `docs/` and check whether the next step is what should be done
 
-2. **Before Task Execution - acquire contexts:**
-   - MUST read the contexts:
-     - Look in `(repo root/)tools/`, `sources/` and `docs/` directories
-     - For `sources/` and `docs/`, Follow recency pattern for task numbers:
-       - For task X.Y.Z, check dependencies in order:
-         1. X.Y.Z-1 (most recent)
-         2. ...X.Y.1
-         3. X.Y-1.*
-         4. ...X.1.*
-         7. X-1.*.*
-       - If a document from a previous task is mentioned in a recent context, read recursively
-       - If a keyword from the current task is mentioned in the name of `docs/` files, read them
-       - Stop dependency chain when no additional context would change the execution
-     - Check PRD if:
-       - Required context is not found in recent dependencies
-       - Task has direct PRD requirements
-       - Task is a major milestone or deliverable
+2. **Before Task Execution - MUST read the contexts:**
+    - Read the most recent entry in `tools/`, `sources/` and `docs/`
+    - If few (<3) files are read, use recency pattern:
+        - Fetch associated files using task number, not full name
+        - For task X.Y.Z:
+            1. X.Y.Z-1 (most recent)
+            2. ...X.Y.1
+            3. X.Y-1.*
+            4. ...X.1.*
+            7. X-1.*.*
+        - Stop when an additional context would not change the execution
+    - Reading `docs/`, use recursive pattern:
+        - If the name of a prior doc is mentioned in the contents of a files you are reading, read the prior doc
+        - Fetch associated files using full name
+        - Stop when an additional context would not change the execution
+    - Read PRD if:
+        - Required context is not found in recent dependencies
+        - Task has direct PRD requirements
+        - Task is a major milestone or deliverable
+    - Read `archive/X.Y.Z-.../README.md`if exists
 
 3. **During Task Execution - output results:**
-   - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
-   - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
-   - Respond in chat explicitly why a script isn't used
-   - When output text uses contexts that involves citations to sources, cite the sources, as this retains the connection between external literature and this work 
-   - Output file locations:
-     - `tools/` - Scripts and utilities
-     - `sources/` - Input data or results of using scripts
-     - `docs/` - Output files or results of analyzing sources
-     - `deliverables/` - Output for tasks marked with (Deliverable)
-   - Output file under `docs/` must indicate the exact files or directories of the sources and tools used to generate its results
-   - Output directories under `docs/` must be accompanied by an output markdown directly under `docs/` 
-   - Output file naming must start with the associated task number
+    - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
+    - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
+    - Respond in chat explicitly why a script isn't used
+    - When output text uses contexts that involves citations to sources, cite the sources, as this retains connection with external literature
+    - Output file locations:
+        - `tools/` - Scripts and utilities
+        - `sources/` - Input data or results of using scripts
+        - `docs/` - Output files or results of analyzing sources
+        - `deliverables/` - Output for tasks marked with (Deliverable)
+    - Output file under `docs/` must indicate the exact files or directories of the sources and tools used to generate its results
+    - Output directories under `docs/` must be accompanied by an output markdown directly under `docs/` 
+    - Output file naming must start with the associated task number
 
 4. **After Task Execution - task management:**
-   - Mark only the task you are working on with `[x]`
-   - If all subtasks under parent are `[x]`, mark parent `[x]`
-   - New tasks should not be created unless directed by another .mdc
-   - **One sub-task at a time:** Do **NOT** start executing the next subtask until you ask the user for permission and they say “yes” or "y"
+    - Mark only the task you are working on with `[x]`
+    - If all subtasks under parent are `[x]`, mark parent `[x]`
+    - New tasks should not be created unless directed by another .mdc
+    - **One sub-task at a time:** Do **NOT** start executing the next task until you ask the user for permission and they say “yes” or "y"

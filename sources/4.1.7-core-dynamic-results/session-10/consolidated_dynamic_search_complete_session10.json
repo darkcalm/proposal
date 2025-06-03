@@ -1,0 +1,2655 @@
+{
+  "metadata": {
+    "session_id": 10,
+    "timestamp": "2025-06-03T09:18:57.234642",
+    "script_used": "tools/4.1.7.1_core_dynamic_search.py",
+    "stage": "dynamic_search_complete",
+    "relevance_criteria_source": "sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json"
+  },
+  "summary": {
+    "total_unique_papers_retrieved": 32
+  },
+  "papers": [
+    {
+      "original_data": {
+        "id": 33131981,
+        "doi": "10.1109/surv.2012.021312.00034",
+        "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+        "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a smart grid. In this paper, we present the background and motivation of communication infrastructures in smart grid systems. We also summarize major requirements that smart grid communications must meet. From the experience of several industrial trials on smart grid with communication infrastructures, we expect that the traditional carbon fuel based power plants can cooperate with emerging distributed renewable energy such as wind, solar, etc, to reduce the carbon fuel consumption and consequent green house gas such as carbon dioxide emission. The consumers can minimize their expense on energy by adjusting their intelligent home appliance operations to avoid the peak hours and utilize the renewable energy instead. We further explore the challenges for a communication infrastructure as the part of a complex smart grid system. Since a smart grid system might have over millions of consumers and devices, the demand of its reliability and security is extremely critical. Through a communication infrastructure, a smart grid can improve power reliability and quality to eliminate electricity blackout. Security is a challenging issue since the on-going smart grid systems facing increasing vulnerabilities as more and more automation, remote monitoring/controlling and supervision entities are interconnected. \u00a9 1998-2012 IEEE",
+        "yearPublished": 2013,
+        "publishedDate": "2013-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Qian, Y"
+          },
+          {
+            "name": "Sharif, H"
+          },
+          {
+            "name": "Tipper, D"
+          },
+          {
+            "name": "Yan, Y"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+        "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+        "journals": [],
+        "language": null,
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2013 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_0",
+      "dynamic_step": 0,
+      "core_id": 33131981,
+      "doi": "10.1109/surv.2012.021312.00034"
+    },
+    {
+      "original_data": {
+        "id": 31329057,
+        "doi": "10.1109/inm.2015.7140291",
+        "title": "Algorithms for advance bandwidth reservation in media production networks",
+        "abstract": "Media production generally requires many geographically distributed actors (e.g., production houses, broadcasters, advertisers) to exchange huge amounts of raw video and audio data. Traditional distribution techniques, such as dedicated point-to-point optical links, are highly inefficient in terms of installation time and cost. To improve efficiency, shared media production networks that connect all involved actors over a large geographical area, are currently being deployed. The traffic in such networks is often predictable, as the timing and bandwidth requirements of data transfers are generally known hours or even days in advance. As such, the use of advance bandwidth reservation (AR) can greatly increase resource utilization and cost efficiency. In this paper, we propose an Integer Linear Programming formulation of the bandwidth scheduling problem, which takes into account the specific characteristics of media production networks, is presented. Two novel optimization algorithms based on this model are thoroughly evaluated and compared by means of in-depth simulation results",
+        "yearPublished": 2015,
+        "publishedDate": "2015-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Barshan, Maryam"
+          },
+          {
+            "name": "De Turck, Filip"
+          },
+          {
+            "name": "Famaey, Jeroen"
+          },
+          {
+            "name": "Moens, Hendrik"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/55825883.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0215,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.215,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0215,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2015 (Norm. Score: 0.2)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_0",
+      "dynamic_step": 0,
+      "core_id": 31329057,
+      "doi": "10.1109/inm.2015.7140291"
+    },
+    {
+      "original_data": {
+        "id": 274719080,
+        "doi": null,
+        "title": "Moving Beyond Direct Load Control: A Maturity Model for Realizing the Promise of Demand Flexibility",
+        "abstract": "This report discusses a new maturity model that regulators and utilities can use to guide and expand demand flexibility programs and enable the resources to provide more grid services. The model has six demand flexibility categories: planning and design; customer engagement; program operations; evaluation, measurement and verification; distributed energy resource orchestration; and data infrastructure. Within each category, capabilities are identified and described on a maturity scale that ranges from performing below expectations to improving on best practices",
+        "yearPublished": 2025,
+        "publishedDate": "2025-01-16T00:00:00",
+        "authors": [
+          {
+            "name": "Frick, Natalie Mims"
+          },
+          {
+            "name": "Schellenberg, Josh A"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/635937094.pdf",
+        "publisher": "eScholarship, University of California",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0535,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.535,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0535,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2025 (Norm. Score: 1.0)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_0",
+      "dynamic_step": 0,
+      "core_id": 274719080,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 86735010,
+        "doi": null,
+        "title": "Frequency Regulation with Heterogeneous Energy Resources: A Realization\n  using Distributed Control",
+        "abstract": "This paper presents one of the first real-life demonstrations of coordinated\nand distributed resource control for secondary frequency response in a power\ndistribution grid. We conduct a series of tests with up to 69 heterogeneous\nactive devices consisting of air handling units, unidirectional and\nbidirectional electric vehicle charging stations, a battery energy storage\nsystem, and 107 passive devices consisting of building loads and photovoltaic\ngenerators. Actuation commands for the test devices are obtained by solving an\neconomic dispatch problem at every regulation instant using distributed\nratio-consensus, primal-dual, and Newton-like algorithms. The distributed\ncontrol setup consists of a set of Raspberry Pi end-points exchanging messages\nvia an ethernet switch. The problem formulation minimizes the sum of device\ncosts while tracking the setpoints provided by the system operator. We\ndemonstrate accurate and fast real-time distributed computation of the\noptimization solution and effective tracking of the regulation signal by\nmeasuring physical device outputs over 40-minute time horizons. We also perform\nan economic benefit analysis which confirms eligibility to participate in an\nancillary services market and demonstrates up to $53K of potential annual\nrevenue for the selected population of devices",
+        "yearPublished": 2021,
+        "publishedDate": "2021-02-04T00:00:00",
+        "authors": [
+          {
+            "name": "Anderson, Tor"
+          },
+          {
+            "name": "Cortes, Jorge"
+          },
+          {
+            "name": "Haghi, Hamed Valizadeh"
+          },
+          {
+            "name": "Kleissl, Jan"
+          },
+          {
+            "name": "Martinez, Sonia"
+          },
+          {
+            "name": "Muralidharan, Manasa"
+          },
+          {
+            "name": "Srivastava, Priyank"
+          },
+          {
+            "name": "Washom, Byron"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "http://arxiv.org/abs/2007.07971",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0455,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.455,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0455,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2021 (Norm. Score: 0.8)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_0",
+      "dynamic_step": 0,
+      "core_id": 86735010,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 54163871,
+        "doi": "10.1109/jproc.2019.2896243",
+        "title": "Learning and Management for Internet-of-Things: Accounting for\n  Adaptivity and Scalability",
+        "abstract": "Internet-of-Things (IoT) envisions an intelligent infrastructure of networked\nsmart devices offering task-specific monitoring and control services. The\nunique features of IoT include extreme heterogeneity, massive number of\ndevices, and unpredictable dynamics partially due to human interaction. These\ncall for foundational innovations in network design and management. Ideally, it\nshould allow efficient adaptation to changing environments, and low-cost\nimplementation scalable to massive number of devices, subject to stringent\nlatency constraints. To this end, the overarching goal of this paper is to\noutline a unified framework for online learning and management policies in IoT\nthrough joint advances in communication, networking, learning, and\noptimization. From the network architecture vantage point, the unified\nframework leverages a promising fog architecture that enables smart devices to\nhave proximity access to cloud functionalities at the network edge, along the\ncloud-to-things continuum. From the algorithmic perspective, key innovations\ntarget online approaches adaptive to different degrees of nonstationarity in\nIoT dynamics, and their scalable model-free implementation under limited\nfeedback that motivates blind or bandit approaches. The proposed framework\naspires to offer a stepping stone that leads to systematic designs and analysis\nof task-specific learning and management schemes for IoT, along with a host of\nnew research directions to build on.Comment: Submitted on June 15 to Proceeding of IEEE Special Issue on Adaptive\n  and Scalable Communication Network",
+        "yearPublished": 2018,
+        "publishedDate": "2018-10-27T01:00:00",
+        "authors": [
+          {
+            "name": "Barbarossa, Sergio"
+          },
+          {
+            "name": "Chen, Tianyi"
+          },
+          {
+            "name": "Giannakis, Georgios B."
+          },
+          {
+            "name": "Wang, Xin"
+          },
+          {
+            "name": "Zhang, Zhi-Li"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/195777516.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.1345,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.105,
+          "matched_keywords_detail": {
+            "human_oversight_supervision": [
+              "monitoring and control"
+            ]
+          }
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.295,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0295,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2018 (Norm. Score: 0.4)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_1",
+      "dynamic_step": 0,
+      "core_id": 54163871,
+      "doi": "10.1109/jproc.2019.2896243"
+    },
+    {
+      "original_data": {
+        "id": 126137655,
+        "doi": "10.3390/books978-3-03928-143-5",
+        "title": "Smart Energy Management for Smart Grids",
+        "abstract": "This book is a contribution from the authors, to share solutions for a better and sustainable power grid. Renewable energy, smart grid security and smart energy management are the main topics discussed in this book",
+        "yearPublished": 2020,
+        "publishedDate": "2020-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Longe, Omowunmi Mary"
+          },
+          {
+            "name": "Ouahada, Khmaies"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/478116113.pdf",
+        "publisher": "'MDPI AG'",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0375,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.375,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0375,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2020 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_1",
+      "dynamic_step": 0,
+      "core_id": 126137655,
+      "doi": "10.3390/books978-3-03928-143-5"
+    },
+    {
+      "original_data": {
+        "id": 46819579,
+        "doi": "10.3390/en12173336",
+        "title": "A Novel Direct Load Control Testbed for Smart Appliances",
+        "abstract": "The effort to continuously improve and innovate smart appliances (SA) energy management requires an experimental research and development environment which integrates widely differing tools and resources seamlessly. To this end, this paper proposes a novel Direct Load Control (DLC) testbed, aiming to conveniently support the research community, as well as analyzing and comparing their designs in a laboratory environment. Based on the LabVIEW computing platform, this original testbed enables access to knowledge of major components such as online weather forecasting information, distributed energy resources (e.g., energy storage, solar photovoltaic), dynamic electricity tariff from utilities and demand response (DR) providers together with different mathematical optimization features given by General Algebraic Modelling System (GAMS). This intercommunication is possible thanks to the different applications programming interfaces (API) incorporated into the system and to intermediate agents specially developed for this case. Different basic case studies have been presented to envision the possibilities of this system in the future and more complex scenarios, to actively support the DLC strategies. These measures will offer enough flexibility to minimize the impact on user comfort combined with support for multiple DR programs. Thus, given the successful results, this platform can lead to a solution towards more efficient use of energy in the residential environment",
+        "yearPublished": 2019,
+        "publishedDate": "2019-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Garrido Zafra, Joaqu\u00edn"
+          },
+          {
+            "name": "Gil-de-Castro, Aurora"
+          },
+          {
+            "name": "Morales-Leal, Tom\u00e1s"
+          },
+          {
+            "name": "Moreno Moreno, Carlos Diego"
+          },
+          {
+            "name": "Moreno-Mu\u00f1oz, A."
+          },
+          {
+            "name": "Palacios Garc\u00eda, Emilio"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/232123938.pdf",
+        "publisher": "'MDPI AG'",
+        "journals": [
+          {
+            "title": "Energies",
+            "identifiers": [
+              "issn:1996-1073",
+              "1996-1073"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0825,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.045,
+          "matched_keywords_detail": {
+            "der_automated_coordination_context": [
+              "distributed energy resources"
+            ]
+          }
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.375,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0375,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2019 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_1",
+      "dynamic_step": 0,
+      "core_id": 46819579,
+      "doi": "10.3390/en12173336"
+    },
+    {
+      "original_data": {
+        "id": 77583370,
+        "doi": null,
+        "title": "A Data-Driven Strategy to Enable Efficient Participation of Diverse Social Classes in Smart Electric Grids",
+        "abstract": "abstract: The grand transition of electric grids from conventional fossil fuel resources to intermittent bulk renewable resources and distributed energy resources (DERs) has initiated a paradigm shift in power system operation. Distributed energy resources (i.e. rooftop solar photovoltaic, battery storage, electric vehicles, and demand response), communication infrastructures, and smart measurement devices provide the opportunity for electric utility customers to play an active role in power system operation and even benefit financially from this opportunity. However, new operational challenges have been introduced due to the intrinsic characteristics of DERs such as intermittency of renewable resources, distributed nature of these resources, variety of DERs technologies and human-in-the-loop effect. Demand response (DR) is one of DERs and is highly influenced by human-in-the-loop effect. A data-driven based analysis is implemented to analyze and reveal the customers price responsiveness, and human-in-the-loop effect. The results confirm the critical impact of demographic characteristics of customers on their interaction with smart grid and their quality of service (QoS). The proposed framework is also applicable to other types of DERs. A chance-constraint based second-order-cone programming AC optimal power flow (SOCP-ACOPF) is utilized to dispatch DERs in distribution grid with knowing customers price responsiveness and energy output distribution. The simulation shows that the reliability of distribution gird can be improved by using chance-constraint.Dissertation/ThesisMasters Thesis Electrical Engineering 201",
+        "yearPublished": 2019,
+        "publishedDate": "2019-01-01T00:00:00",
+        "authors": [],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/286400854.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0825,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.045,
+          "matched_keywords_detail": {
+            "der_automated_coordination_context": [
+              "distributed energy resources"
+            ]
+          }
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.375,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0375,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2019 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_1",
+      "dynamic_step": 0,
+      "core_id": 77583370,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 152503205,
+        "doi": null,
+        "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+        "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs and human expectations.\nTo address this, explainable AI promotes AI development from a more\nhuman-centered perspective. Determining what information AI should provide to\naid humans is vital, however, how the information is presented, e. g., the\nsequence of recommendations and the solicitation of interpretations, is equally\ncrucial. This motivates the need to more precisely study Human-AI interaction\nas a pivotal component of AI-based decision support. While several empirical\nstudies have evaluated Human-AI interactions in multiple application domains in\nwhich interactions can take many forms, there is not yet a common vocabulary to\ndescribe human-AI interaction protocols. To address this gap, we describe the\nresults of a systematic review of the AI-assisted decision making literature,\nanalyzing 105 selected articles, which grounds the introduction of a taxonomy\nof interaction patterns that delineate various modes of human-AI interactivity.\nWe find that current interactions are dominated by simplistic collaboration\nparadigms and report comparatively little support for truly interactive\nfunctionality. Our taxonomy serves as a valuable tool to understand how\ninteractivity with AI is currently supported in decision-making contexts and\nfoster deliberate choices of interaction designs",
+        "yearPublished": 2023,
+        "publishedDate": "2023-10-31T00:00:00",
+        "authors": [
+          {
+            "name": "Cho, Sue Min"
+          },
+          {
+            "name": "Gomez, Catalina"
+          },
+          {
+            "name": "Huang, Chien-Ming"
+          },
+          {
+            "name": "Ke, Shichang"
+          },
+          {
+            "name": "Unberath, Mathias"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "http://arxiv.org/abs/2310.19778",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.226,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.15,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0525,
+          "matched_keywords_detail": {
+            "transparency_explainability_trust": [
+              "explainable AI"
+            ]
+          }
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.4,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.12,
+          "matched_keywords_detail": {
+            "protocol_design_for_human_interaction": [
+              "interaction protocols"
+            ]
+          }
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.535,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0535,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2023 (Norm. Score: 1.0)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_2",
+      "dynamic_step": 0,
+      "core_id": 152503205,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 149021242,
+        "doi": "10.1007/978-3-031-20845-4_6",
+        "title": "Computational Theory of\u00a0Mind for\u00a0Human-Agent Coordination",
+        "abstract": "In everyday life, people often depend on their theory of mind, i.e., their ability to reason about unobservable mental content of others to understand, explain, and predict their behaviour. Many agent-based models have been designed to develop computational theory of mind and analyze its effectiveness in various tasks and settings. However, most existing models are not generic (e.g., only applied in a given setting), not feasible (e.g., require too much information to be processed), or not human-inspired (e.g., do not capture the behavioral heuristics of humans). This hinders their applicability in many settings. Accordingly, we propose a new computational theory of mind, which captures the human decision heuristics of reasoning by abstracting individual beliefs about others. We specifically study computational affinity and show how it can be used in tandem with theory of mind reasoning when designing agent models for human-agent negotiation. We perform two-agent simulations to analyze the role of affinity in getting to agreements when there is a bound on the time to be spent for negotiating. Our results suggest that modeling affinity can ease the negotiation process by decreasing the number of rounds needed for an agreement as well as yield a higher benefit for agents with theory of mind reasoning.</p",
+        "yearPublished": 2022,
+        "publishedDate": "2022-11-24T00:00:00",
+        "authors": [
+          {
+            "name": "Dignum, Frank"
+          },
+          {
+            "name": "Erdogan, Emre"
+          },
+          {
+            "name": "Verbrugge, Rineke"
+          },
+          {
+            "name": "Yolum, P\u0131nar"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/581191271.pdf",
+        "publisher": "Springer Science and Business Media Deutschland GmbH",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0455,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.455,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0455,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2022 (Norm. Score: 0.8)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_2",
+      "dynamic_step": 0,
+      "core_id": 149021242,
+      "doi": "10.1007/978-3-031-20845-4_6"
+    },
+    {
+      "original_data": {
+        "id": 171599971,
+        "doi": "10.3389/fcomp.2024.1521066",
+        "title": "Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review",
+        "abstract": "Leveraging Artificial Intelligence (AI) in decision support systems has disproportionately focused on technological advancements, often overlooking the alignment between algorithmic outputs and human expectations. A human-centered perspective attempts to alleviate this concern by designing AI solutions for seamless integration with existing processes. Determining what information AI should provide to aid humans is vital, a concept underscored by explainable AI's efforts to justify AI predictions. However, how the information is presented, e.g., the sequence of recommendations and solicitation of interpretations, is equally crucial as complex interactions may emerge between humans and AI. While empirical studies have evaluated human-AI dynamics across domains, a common vocabulary for human-AI interaction protocols is lacking. To promote more deliberate consideration of interaction designs, we introduce a taxonomy of interaction patterns that delineate various modes of human-AI interactivity. We summarize the results of a systematic review of AI-assisted decision making literature and identify trends and opportunities in existing interactions across application domains from 105 articles. We find that current interactions are dominated by simplistic collaboration paradigms, leading to little support for truly interactive functionality. Our taxonomy offers a tool to understand interactivity with AI in decision-making and foster interaction designs for achieving clear communication, trustworthiness, and collaboration",
+        "yearPublished": 2025,
+        "publishedDate": "2025-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Catalina Gomez"
+          },
+          {
+            "name": "Chien-Ming Huang"
+          },
+          {
+            "name": "Mathias Unberath"
+          },
+          {
+            "name": "Shichang Ke"
+          },
+          {
+            "name": "Sue Min Cho"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/648140148.pdf",
+        "publisher": "Frontiers Media S.A.",
+        "journals": [
+          {
+            "title": "Frontiers in Computer Science",
+            "identifiers": [
+              "2624-9898",
+              "issn:2624-9898"
+            ]
+          }
+        ],
+        "language": null,
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.226,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.15,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0525,
+          "matched_keywords_detail": {
+            "transparency_explainability_trust": [
+              "explainable AI"
+            ]
+          }
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.4,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.12,
+          "matched_keywords_detail": {
+            "protocol_design_for_human_interaction": [
+              "interaction protocols"
+            ]
+          }
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.535,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0535,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2025 (Norm. Score: 1.0)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_2",
+      "dynamic_step": 0,
+      "core_id": 171599971,
+      "doi": "10.3389/fcomp.2024.1521066"
+    },
+    {
+      "original_data": {
+        "id": 96041778,
+        "doi": null,
+        "title": "Artificial Intelligence and Climate Change",
+        "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+        "yearPublished": 2020,
+        "publishedDate": "2020-01-01T08:00:00",
+        "authors": [
+          {
+            "name": "Stein, Amy L."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+        "publisher": "Yale Law School Legal Scholarship Repository",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0375,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.375,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0375,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2020 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_4",
+      "dynamic_step": 0,
+      "core_id": 96041778,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 83407146,
+        "doi": null,
+        "title": "Artificial Intelligence and Climate Change",
+        "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+        "yearPublished": 2020,
+        "publishedDate": "2020-01-01T08:00:00",
+        "authors": [
+          {
+            "name": "Stein, Amy L."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+        "publisher": "UF Law Scholarship Repository",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0375,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.375,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0375,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2020 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_4",
+      "dynamic_step": 0,
+      "core_id": 83407146,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 160688785,
+        "doi": null,
+        "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+        "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+        "yearPublished": 2024,
+        "publishedDate": "2024-01-24T00:00:00",
+        "authors": [
+          {
+            "name": "AGOSTINELLI, SOFIA"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+        "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0985,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.045,
+          "matched_keywords_detail": {
+            "der_automated_coordination_context": [
+              "distributed energy resources"
+            ]
+          }
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.535,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0535,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2024 (Norm. Score: 1.0)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_4",
+      "dynamic_step": 0,
+      "core_id": 160688785,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 8548569,
+        "doi": null,
+        "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+        "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+        "yearPublished": 2017,
+        "publishedDate": "2017-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "HUTCHINSON, HARRIET"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "thesis",
+        "topics": null
+      },
+      "relevance_score": 0.0665,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.045,
+          "matched_keywords_detail": {
+            "der_automated_coordination_context": [
+              "distributed energy resources"
+            ]
+          }
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.215,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0215,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2017 (Norm. Score: 0.2)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_4",
+      "dynamic_step": 0,
+      "core_id": 8548569,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 169150360,
+        "doi": "10.1016/j.egyai.2023.100306",
+        "title": "Towards next generation Internet of Energy system: Framework and trends",
+        "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+        "yearPublished": 2023,
+        "publishedDate": "2023-10-01T01:00:00",
+        "authors": [
+          {
+            "name": "Abhi, S.H."
+          },
+          {
+            "name": "Ahamed, Md. H."
+          },
+          {
+            "name": "Ali, Md. F."
+          },
+          {
+            "name": "Badal, Faisal R."
+          },
+          {
+            "name": "Das, Prangon"
+          },
+          {
+            "name": "Das, Sajal K."
+          },
+          {
+            "name": "Hasan, Md. Mehedi"
+          },
+          {
+            "name": "Islam, Md. Manirul"
+          },
+          {
+            "name": "Islam, Md. R."
+          },
+          {
+            "name": "Muqit, Farhan"
+          },
+          {
+            "name": "Muyeen, S M"
+          },
+          {
+            "name": "Reza, Tanzim N."
+          },
+          {
+            "name": "Sarker, Subrata K."
+          },
+          {
+            "name": "Tasneem, Z."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+        "publisher": "Elsevier",
+        "journals": [
+          {
+            "title": "Energy and AI",
+            "identifiers": [
+              "issn:2666-5468",
+              "2666-5468"
+            ]
+          }
+        ],
+        "language": null,
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0535,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.535,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0535,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2023 (Norm. Score: 1.0)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_primary_4",
+      "dynamic_step": 0,
+      "core_id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306"
+    },
+    {
+      "original_data": {
+        "id": 18018297,
+        "doi": "10.1093/humrep/deu173",
+        "title": "Clinical prediction models to inform individualized decision-making in subfertile couples : a stratified medicine approach",
+        "abstract": "Funding This work was supported by a Chief Scientist Office Postdoctoral Training Fellowship in Health Services Research and Health of the Public Research (Ref PDF/12/06). The views expressed in this paper represent the views of the authors and not necessarily the views of the funding body.Peer reviewedPostprin",
+        "yearPublished": 2014,
+        "publishedDate": "2014-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Bhattacharya, S."
+          },
+          {
+            "name": "McLernon, D.J."
+          },
+          {
+            "name": "Mol, B.W.J."
+          },
+          {
+            "name": "Steyerberg, E.W."
+          },
+          {
+            "name": "te Velde, E.R."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/29465852.pdf",
+        "publisher": "'Oxford University Press (OUP)'",
+        "journals": [
+          {
+            "title": "Human Reproduction",
+            "identifiers": [
+              "0268-1161",
+              "issn:0268-1161"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2014 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_5",
+      "dynamic_step": 0,
+      "core_id": 18018297,
+      "doi": "10.1093/humrep/deu173"
+    },
+    {
+      "original_data": {
+        "id": 19205692,
+        "doi": null,
+        "title": "Assessment The Agricultural Student's Attitudes Towards Organic Farming (Case of Iran)",
+        "abstract": "A surveying research was conducted to study and recognize the knowledge and attitude of students toward organic farming at three universities of Iran in 2010. Our consumption patterns and environmental behaviors are rooted in long lived practices and habits. Social norms and values are among the factors that determine what we buy or what we think about organic products. As they are largely unconscious it is difficult to change them. Students are the agriculturist of tomorrow; therefore policies aimed at developing organic farming should address the needs of this group. To discover agriculturist's knowledge organic farming, a survey among 100 agricultural students was conducted. Questionnaire was used to examine students\u2019 knowledge regarding organic farming. Finding is shown that agriculturist's awareness towards organic farming are low, especially in Pests management and Organic product standards aspect. The result of factor analysis showed that nine factors named as concepts, Nutrient safety and security, Organic farming economic, Organic farming extension, Social issue, fertility, Pests management, Environment safety, Organic product standard explained 73.71% of total variance that the first factor accounts for 11.98% of the variance, the second 10.954%, the third 9.191%, the fourth 8.505%, the fifth 8.426%, the sixth 7.536%, the seventh 7.015%, the eighth 5.746% and the ninth 4.364%. In conclusion, to enhance student knowledge about organic farming, it is important that curriculum develops for familiar student with organic farming practices and concepts such as: ecological equilibrium, agro ecosystem sustainability, new technology and indigenous knowledge, nutrition value, human safety, favorite yield production, soil structure improvement, erosion reduces and etc",
+        "yearPublished": 2012,
+        "publishedDate": "2012-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Ali, Asadi"
+          },
+          {
+            "name": "Farid, Golzardi"
+          },
+          {
+            "name": "Khalil, Kalantari"
+          },
+          {
+            "name": "M. Reza, Ardakani"
+          },
+          {
+            "name": "Shabnam, Sarvaramini"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/10933245.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2012 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_5",
+      "dynamic_step": 0,
+      "core_id": 19205692,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 4975200,
+        "doi": null,
+        "title": "The toll of the automobile",
+        "abstract": "Animal-vehicle collisions are a common phenomenon worldwide, causing injury or death to millions of animals and hundreds of human passengers each year. Collision numbers can be significant to species conservation, wildlife management, traffic safety, as well as from an economic and political point of view, and should thus be evaluated from these different perspectives. In this thesis, I assess, evaluate, analyse and predict animal-vehicle collisions with respect to their extent, their effect on populations, and their broad and fine scale distribution. A questionnaire with Swedish drivers indicated that nationwide road traffic in 1992 may caused an annual loss in harvest of common game species of 7% to 97% and of 1% to 12% of estimated populations. Road mortality did not appear as an existential threat to most species, although in badgers (Meles meles), traffic probably is the largest single cause of death. A slow population growth rate coupled with a high proportion of adult badger road-kills is responsible for their sensitivity to road mortality. Provided that road mortality is additive, we predicted that losses due to nationwide traffic might already exceed birth rates and limit badger population growth. In roe deer (Capreolus capreolus) and moose (Alces alces), road mortality is of minor importance to the population. Broad-scale trends and patterns in collision numbers correlate with harvest and traffic volumes, thus providing a simple means to monitor the toll of road traffic. To predict local collision risks with these species, information on animal abundance and landscape composition, on road traffic parameters, and on the spatial coincidence of roads and landscape elements is needed. However, vehicle speed appeared as one of the most important factors determining collision risks with moose, underlining the influence of human factors on collision risks. Successful counteraction therefore requires an interdisciplinary approach that addresses both the animal and the driver in their shared environment",
+        "yearPublished": 2003,
+        "publishedDate": "2003-11-01T00:00:00",
+        "authors": [
+          {
+            "name": "Seiler, Andreas"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/11694660.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2003 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_5",
+      "dynamic_step": 0,
+      "core_id": 4975200,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 2351002,
+        "doi": null,
+        "title": "Mental Health in the Workplace: Situation Analyses, Germany",
+        "abstract": "[From Introduction] The ILO\u2019s primary goals regarding disability are to prepare and empower people with disabilities to pursue their employment goals and facilitate access to work and job opportunities in open labour markets, while sensitising policy makers, trade unions and employers to these issues. The ILO\u2019s mandate on disability issues is specified in the ILO Convention 159 (1983) on vocational rehabilitation and employment. No. 159 defines a disabled person as an individual whose prospects of securing, retaining, and advancing in suitable employment are substantially reduced as a result of a duly recognised physical or mental impairment. The Convention established the principle of equal treatment and employment for workers with disabilities",
+        "yearPublished": 2000,
+        "publishedDate": "2000-01-01T08:00:00",
+        "authors": [
+          {
+            "name": "Breucker, Gregor"
+          },
+          {
+            "name": "International Labour Organisation"
+          },
+          {
+            "name": "Wilken, Ulrich  J."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/5129291.pdf",
+        "publisher": "DigitalCommons@ILR",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2000 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_5",
+      "dynamic_step": 0,
+      "core_id": 2351002,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 4611854,
+        "doi": null,
+        "title": "Workshop ANIPLAN - Payerbach Reichenau. Programme and presentations",
+        "abstract": "Workshop ANIPLAN, May\u00a011th-14th,\u00a02009,\u00a0Reichenau,\u00a0Payerbach Reichenau, Austria.\n\n\n\nProgramme and presentations",
+        "yearPublished": 2009,
+        "publishedDate": "2009-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Brinkmann, Jan"
+          },
+          {
+            "name": "Gratzer, Elisabeth"
+          },
+          {
+            "name": "Hansen, Berit"
+          },
+          {
+            "name": "Henriksen, Britt I. F."
+          },
+          {
+            "name": "Hofer, T."
+          },
+          {
+            "name": "Huber, H."
+          },
+          {
+            "name": "Huber, Johann"
+          },
+          {
+            "name": "Ivemeyer, Silvia"
+          },
+          {
+            "name": "Kilchsperger, Rahel"
+          },
+          {
+            "name": "Leeb, Christine"
+          },
+          {
+            "name": "Lund, Vonne"
+          },
+          {
+            "name": "March, Solveig"
+          },
+          {
+            "name": "Neale, Madeleine"
+          },
+          {
+            "name": "Nicholas, Phillipa"
+          },
+          {
+            "name": "Roderick, Stephen"
+          },
+          {
+            "name": "Smolders, Gidi"
+          },
+          {
+            "name": "Str\u00f6ger, Elisabeth"
+          },
+          {
+            "name": "Vaarst, Mette"
+          },
+          {
+            "name": "Walkenhorst, Michael"
+          },
+          {
+            "name": "Whistance, Lindsay"
+          },
+          {
+            "name": "Winckler, Christoph"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/10930607.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2009 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_5",
+      "dynamic_step": 0,
+      "core_id": 4611854,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 44592086,
+        "doi": "10.1109/smartgridcomm.2017.8340735",
+        "title": "Distributed Apportioning in a Power Network for providing Demand\n  Response Services",
+        "abstract": "Greater penetration of Distributed Energy Resources (DERs) in power networks\nrequires coordination strategies that allow for self-adjustment of\ncontributions in a network of DERs, owing to variability in generation and\ndemand. In this article, a distributed scheme is proposed that enables a DER in\na network to arrive at viable power reference commands that satisfies the DERs\nlocal constraints on its generation and loads it has to service, while, the\naggregated behavior of multiple DERs in the network and their respective loads\nmeet the ancillary services demanded by the grid. The Net-load Management\nsystem for a single unit is referred to as the Local Inverter System (LIS) in\nthis article . A distinguishing feature of the proposed consensus based\nsolution is the distributed finite time termination of the algorithm that\nallows each LIS unit in the network to determine power reference commands in\nthe presence of communication delays in a distributed manner. The proposed\nscheme allows prioritization of Renewable Energy Sources (RES) in the network\nand also enables auto-adjustment of contributions from LIS units with lower\npriority resources (non-RES). The methods are validated using\nhardware-in-the-loop simulations with Raspberry PI devices as distributed\ncontrol units, implementing the proposed distributed algorithm and responsible\nfor determining and dispatching realtime power reference commands to simulated\npower electronics interface emulating LIS units for demand response.Comment: 7 pages, 11 Figures, IEEE International Conference on Smart Grid\n  Communication",
+        "yearPublished": 2017,
+        "publishedDate": "2017-08-21T01:00:00",
+        "authors": [
+          {
+            "name": "Attree, Sandeep"
+          },
+          {
+            "name": "Patel, Sourav"
+          },
+          {
+            "name": "Prakash, Mangal"
+          },
+          {
+            "name": "Salapaka, Murti V."
+          },
+          {
+            "name": "Talukdar, Saurav"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "http://arxiv.org/abs/1708.06414",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0665,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.3,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.045,
+          "matched_keywords_detail": {
+            "der_automated_coordination_context": [
+              "distributed energy resources"
+            ]
+          }
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.215,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0215,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2017 (Norm. Score: 0.2)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_6",
+      "dynamic_step": 0,
+      "core_id": 44592086,
+      "doi": "10.1109/smartgridcomm.2017.8340735"
+    },
+    {
+      "original_data": {
+        "id": 5177965,
+        "doi": "10.1007/bfb0026768",
+        "title": "Analysis and design of multiagent systems using MAS-CommonKADS",
+        "abstract": "This article proposes an agent-oriented methodology called MAS-CommonKADS and develops a case study. This methodology extends the knowledge engineering methodology CommonKADSwith techniquesfrom objectoriented and protocol engineering methodologies. The methodology consists of the development of seven models: Agent Model, that describes the characteristics of each agent; Task Model, that describes the tasks that the agents carry out; Expertise Model, that describes the knowledge needed by the agents to achieve their goals; Organisation Model, that describes the structural relationships between agents (software agents and/or human agents); Coordination Model, that describes the dynamic relationships between software agents; Communication Model, that describes the dynamic relationships between human agents and their respective personal assistant software agents; and Design Model, that refines the previous models and determines the most suitable agent architecture for each agent, and the requirements of the agent network",
+        "yearPublished": 1998,
+        "publishedDate": "1998-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Garijo Ayestaran, Mercedes"
+          },
+          {
+            "name": "Gonz\u00e1lez Crist\u00f3bal, Jos\u00e9 Carlos"
+          },
+          {
+            "name": "Iglesias Fernandez, Carlos Angel"
+          },
+          {
+            "name": "Velasco P\u00e9rez, Juan Ram\u00f3n"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/148663569.pdf",
+        "publisher": "'Springer Science and Business Media LLC'",
+        "journals": [
+          {
+            "title": null,
+            "identifiers": [
+              "0302-9743"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0325,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.325,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0325,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 1998 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ],
+            "methodology_framework": [
+              "case study"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_6",
+      "dynamic_step": 0,
+      "core_id": 5177965,
+      "doi": "10.1007/bfb0026768"
+    },
+    {
+      "original_data": {
+        "id": 537708,
+        "doi": null,
+        "title": "Software engineering and middleware: a roadmap (Invited talk)",
+        "abstract": "The construction of a large class of distributed systems can be simplified by leveraging middleware, which is layered between network operating systems and application components. Middleware resolves heterogeneity and facilitates communication and coordination of distributed components. Existing middleware products enable software engineers to build systems that are distributed across a local-area network. State-of-the-art middleware research aims to push this boundary towards Internet-scale distribution, adaptive and reconfigurable middleware and middleware for dependable and wireless systems. The challenge for software engineering research is to devise notations, techniques, methods and tools for distributed system construction that systematically build and exploit the capabilities that middleware deliver",
+        "yearPublished": 2000,
+        "publishedDate": "2000-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Emmerich, W."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/1669452.pdf",
+        "publisher": "ACM Press",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2000 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_6",
+      "dynamic_step": 0,
+      "core_id": 537708,
+      "doi": null
+    },
+    {
+      "original_data": {
+        "id": 698968,
+        "doi": "10.1109/tsp.2010.2094613",
+        "title": "Adaptive MAC Protocols Using Memory for Networks with Critical Traffic",
+        "abstract": "We consider wireless communication networks where network users are subject\nto critical events such as emergencies and crises. If a critical event occurs\nto a user, the user needs to send critical traffic as early as possible.\nHowever, most existing medium access control (MAC) protocols are not adequate\nto meet the urgent need for data transmission by users with critical traffic.\nIn this paper, we devise a class of distributed MAC protocols that achieve\ncoordination using the finite-length memory of users containing their own\nobservations and traffic types. We formulate a protocol design problem and find\noptimal protocols that solve the problem. We show that the proposed protocols\nenable a user with critical traffic to transmit its critical traffic without\ninterruption from other users after a short delay while allowing users to share\nthe channel efficiently when there is no critical traffic. Moreover, the\nproposed protocols require short memory and can be implemented without explicit\nmessage passing.Comment: 24 pages, 7 figures, 1 tabl",
+        "yearPublished": 2010,
+        "publishedDate": "2010-05-05T00:00:00",
+        "authors": [
+          {
+            "name": "Park, Jaeok"
+          },
+          {
+            "name": "van der Schaar, Mihaela"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "http://arxiv.org/abs/1005.0693",
+        "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+        "journals": [
+          {
+            "title": null,
+            "identifiers": [
+              "1053-587X"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0325,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.325,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0325,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2010 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ],
+            "methodology_framework": [
+              "protocol design"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_6",
+      "dynamic_step": 0,
+      "core_id": 698968,
+      "doi": "10.1109/tsp.2010.2094613"
+    },
+    {
+      "original_data": {
+        "id": 4205789,
+        "doi": "10.1109/pes.2010.5590034",
+        "title": "The role of intelligent systems in delivering the smart grid",
+        "abstract": "The development of \"smart\" or \"intelligent\" energy networks has been proposed by both EPRI's IntelliGrid initiative and the European SmartGrids Technology Platform as a key step in meeting our future energy needs. A central challenge in delivering the energy networks of the future is the judicious selection and development of an appropriate set of technologies and techniques which will form \"a toolbox of proven technical solutions\". This paper considers functionality required to deliver key parts of the Smart Grid vision of future energy networks. The role of intelligent systems in providing these networks with the requisite decision-making functionality is discussed. In addition to that functionality, the paper considers the role of intelligent systems, in particular multi-agent systems, in providing flexible and extensible architectures for deploying intelligence within the Smart Grid. Beyond exploiting intelligent systems as architectural elements of the Smart Grid, with the purpose of meeting a set of engineering requirements, the role of intelligent systems as a tool for understanding what those requirements are in the first instance, is also briefly discussed",
+        "yearPublished": 2010,
+        "publishedDate": "2010-07-01T00:00:00",
+        "authors": [
+          {
+            "name": "Catterson, Victoria"
+          },
+          {
+            "name": "Davidson, Euan"
+          },
+          {
+            "name": "Mcarthur, Stephen"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/9037661.pdf",
+        "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2010 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_secondary_7",
+      "dynamic_step": 0,
+      "core_id": 4205789,
+      "doi": "10.1109/pes.2010.5590034"
+    },
+    {
+      "original_data": {
+        "id": 148966529,
+        "doi": "10.1016/j.procir.2020.02.182",
+        "title": "A methodology for energy efficiency redesign of smart production systems",
+        "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufacturing process. In this paper, a methodology for energy efficiency re-design of production systems in a context of smart manufacturing is proposed. The continuous production-machine data collection with operator feedbacks enables the creation of a knowledge-based repository that provides useful support during the design of manufacturing systems. A case study in an automotive sector company has allowed to implement the methodology and to assess its effectiveness",
+        "yearPublished": 2020,
+        "publishedDate": "2020-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Alessandra Papetti"
+          },
+          {
+            "name": "Marta Rossi"
+          },
+          {
+            "name": "Michele Germani"
+          },
+          {
+            "name": "Roberto Menghi"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": null,
+        "topics": null
+      },
+      "relevance_score": 0.0525,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.525,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0525,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2020 (Norm. Score: 0.6)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ],
+            "methodology_framework": [
+              "case study"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_8",
+      "dynamic_step": 0,
+      "core_id": 148966529,
+      "doi": "10.1016/j.procir.2020.02.182"
+    },
+    {
+      "original_data": {
+        "id": 18930523,
+        "doi": "10.1111/bjir.12419",
+        "title": "Long-run Patterns of Labour\nMarket Polarisation: Evidence from German Micro Data",
+        "abstract": "The past four decades have witnessed dramatic changes in the structure of employment. In particular, the rapid increase in computational power has led to large-scale reductions in employment in jobs that can be described as intensive in routine tasks. These jobs have been shown to be concentrated in middle skill occupations. A large literature on labour market polarisation characterises and measures these processes at an aggregate level. How- ever to date there is little information regarding the individual worker adjustment processes related to routine- biased technological change. Using an administrative panel data set for Germany, we follow workers over an ex- tended period of time and provide evidence of both the short-term adjustment process and medium-run effects of routine task intensive job loss at an individual level. We initially demonstrate a marked, and steady, shift in em- ployment away from routine, middle-skill, occupations. In subsequent analysis, we demonstrate how exposure to jobs with higher routine task content is associated with a reduced likelihood of being in employment in both the short term (after one year) and medium term (five years). This employment penalty to routineness of work has increased over the past four decades. More generally, we demonstrate that routine task work is associated with reduced job stability and more likelihood of experiencing periods of unemployment. However, these negative ef- fects of routine work appear to be concentrated in increased employment to employment, and employment to unemployment transitions rather than longer periods of unemployment",
+        "yearPublished": 2018,
+        "publishedDate": "2018-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Antonczyk D."
+          },
+          {
+            "name": "Autor D. H."
+          },
+          {
+            "name": "Lancaster T."
+          },
+          {
+            "name": "Tiemann M."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/322823609.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0295,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.295,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0295,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2018 (Norm. Score: 0.4)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_9",
+      "dynamic_step": 0,
+      "core_id": 18930523,
+      "doi": "10.1111/bjir.12419"
+    },
+    {
+      "original_data": {
+        "id": 4608819,
+        "doi": "10.13031/2013.23014",
+        "title": "Hortibot: Feasibility study of a plant nursing robot performing weeding operations \u2013 part IV",
+        "abstract": "Based on the development of a robotic tool carrier (Hortibot) equipped with weeding tools, a feasibility study was carried out to evaluate the viability of this innovative technology. The feasibility was demonstrated through a targeted evaluation adapted to the obtainable knowledge on the system performance in horticulture.\n\n\n\nA usage scenario was designed to set the implementation of the robotic system in a row crop of seeded bulb onions considering operational and functional constraints in organic crop, production. This usage scenario together with the technical specifications of the implemented system provided the basis for the feasibility analysis, including a comparison with a conventional weeding system. Preliminary results show that the automation of the weeding tasks within a row crop has the potential of significantly reducing the costs and still fulfill the operational requirements set forth. \n\n\n\nThe potential benefits in terms of operational capabilities and economic viability have been quantified. Profitability gains ranging from 20 to 50% are achievable through targeted applications. In general, the analyses demonstrate the operational and economic feasibility of using small automated vehicles and targeted tools in specialized production settings",
+        "yearPublished": 2007,
+        "publishedDate": "2007-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Jensen, Kjeld"
+          },
+          {
+            "name": "Jensen, Lars Aa."
+          },
+          {
+            "name": "J\u00f8rgensen, Rasmus N."
+          },
+          {
+            "name": "Maagaard, J\u00f8rgen"
+          },
+          {
+            "name": "N\u00f8rremark, Michael"
+          },
+          {
+            "name": "S\u00f8rensen, Claus G."
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/10925909.pdf",
+        "publisher": "",
+        "journals": [],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2007 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_9",
+      "dynamic_step": 0,
+      "core_id": 4608819,
+      "doi": "10.13031/2013.23014"
+    },
+    {
+      "original_data": {
+        "id": 31314021,
+        "doi": "10.1016/j.brat.2013.02.006",
+        "title": "Executive function training with game elements for obese children: a novel treatment to enhance self-regulatory abilities for weight-control",
+        "abstract": null,
+        "yearPublished": 2013,
+        "publishedDate": "2013-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Braet, Caroline"
+          },
+          {
+            "name": "Goossens, Lien"
+          },
+          {
+            "name": "van der Oord, Saskia"
+          },
+          {
+            "name": "Verbeken, Sandra"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/55809093.pdf",
+        "publisher": "'Elsevier BV'",
+        "journals": [
+          {
+            "title": null,
+            "identifiers": [
+              "0005-7967"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0175,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.175,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0175,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2013 (Norm. Score: 0.1)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_9",
+      "dynamic_step": 0,
+      "core_id": 31314021,
+      "doi": "10.1016/j.brat.2013.02.006"
+    },
+    {
+      "original_data": {
+        "id": 43468200,
+        "doi": "10.1167/17.3.6",
+        "title": "Working memory load modulates microsaccadic rate",
+        "abstract": null,
+        "yearPublished": 2017,
+        "publishedDate": "2017-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "Castelli, LUIGI ALESSANDRO"
+          },
+          {
+            "name": "Dalmaso, Mario"
+          },
+          {
+            "name": "Galfano, Giovanni"
+          },
+          {
+            "name": "Scatturin, Pietro"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/84920288.pdf",
+        "publisher": "'Association for Research in Vision and Ophthalmology (ARVO)'",
+        "journals": [
+          {
+            "title": "Journal of Vision",
+            "identifiers": [
+              "1534-7362"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0215,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.215,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0215,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2017 (Norm. Score: 0.2)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_9",
+      "dynamic_step": 0,
+      "core_id": 43468200,
+      "doi": "10.1167/17.3.6"
+    },
+    {
+      "original_data": {
+        "id": 30331366,
+        "doi": "10.23937/2572-4053.1510001",
+        "title": "Insomnia and emotion regulation. Recent findings and suggestions for treatment",
+        "abstract": "Recent findings suggest that insomnia and emotion regulation are closely connected. Insomnia is widely associated with medical and psychiatric conditions as well as with impaired quality of life and emotional functioning. Additionally empirical evidence suggests that emotional dysregulation plays a crucial role in the onset and maintenance of psychopathological disorders. Although these seem to interact, very few studies investigated the relationship between disturbed sleep and problems in emotion regulation. Cognitive Behavioral Therapy for Insomnia (CBT-I) has been demonstrated to be effective in comorbid insomnia. However, emotion regulation skills are not included in this intervention. After reviewing the recent findings of the literature, we aim to discuss future directions for the inclusion of emotion regulation training in the treatment of insomnia disorde",
+        "yearPublished": 2015,
+        "publishedDate": "2015-01-01T00:00:00",
+        "authors": [
+          {
+            "name": "BALLESIO, ANDREA"
+          },
+          {
+            "name": "CEROLINI, SILVIA"
+          },
+          {
+            "name": "LOMBARDO, Caterina"
+          }
+        ],
+        "citationCount": 0,
+        "downloadUrl": "https://core.ac.uk/download/54522490.pdf",
+        "publisher": "'ClinMed International Library'",
+        "journals": [
+          {
+            "title": null,
+            "identifiers": [
+              "2572-4053"
+            ]
+          }
+        ],
+        "language": "English",
+        "documentType": "research",
+        "topics": null
+      },
+      "relevance_score": 0.0215,
+      "dimension_scores": {
+        "1_human_agent_interaction_oversight": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.35,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "2_agent_protocols_communication_for_HMI": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.3,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "3_der_lifecycle_human_involvement": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.15,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "4_system_properties_safety": {
+          "score_sum_sub_weighted": 0.0,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0,
+          "matched_keywords_detail": {}
+        },
+        "5_general_relevance_quality": {
+          "score_sum_sub_weighted": 0.215,
+          "dimension_weight": 0.1,
+          "weighted_score": 0.0215,
+          "matched_keywords_detail": {
+            "publication_year": [
+              "Year: 2015 (Norm. Score: 0.2)"
+            ],
+            "citation_count": [
+              "Citations: 0 (Norm. Score: 0.2)"
+            ],
+            "venue_quality": [
+              "Assumed Venue Quality (Norm. Score: 0.5)"
+            ]
+          }
+        }
+      },
+      "source_query_id": "initial_tertiary_9",
+      "dynamic_step": 0,
+      "core_id": 30331366,
+      "doi": "10.23937/2572-4053.1510001"
+    }
+  ]
+}

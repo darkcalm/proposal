@@ -1,0 +1,424 @@
+2025-06-03 09:49:57,907 - INFO - Successfully loaded relevance criteria from /Users/para/proposal/sources/4.1.7-relevance-criteria-session-latest/relevance_criteria_session-latest.json
+2025-06-03 09:49:57,907 - INFO - CORE API Dynamic Search Script - Session 15
+2025-06-03 09:49:57,907 - INFO - Starting CORE API dynamic search: 1 iterations, score threshold 0.15
+2025-06-03 09:49:57,907 - INFO - Prepared 11 initial queries to run (test_mode_limit: None).
+2025-06-03 09:49:57,907 - INFO - --- Dynamic Search Step 0 ---
+2025-06-03 09:49:57,907 - INFO - Step 0 - Query 'initial_primary_0' (Page 1): 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with pageSize 10
+2025-06-03 09:50:04,872 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:50:04,873 - INFO - First paper object sample is too large to log directly (Length: 97047). Logging only a few key fields.
+2025-06-03 09:50:04,873 - INFO - First paper sample (subset of fields):\n{
+  "id": 33131981,
+  "doi": "10.1109/surv.2012.021312.00034",
+  "title": "A survey on smart grid communication infrastructures: Motivations, requirements and challenges",
+  "abstract": "A communication infrastructure is an essential part to the success of the emerging smart grid. A scalable and pervasive communication infrastructure is crucial in both construction and operation of a ...",
+  "yearPublished": 2013,
+  "publishedDate": "2013-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/12211338.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Qian, Y"
+    }
+  ]
+}
+2025-06-03 09:50:04,873 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/20417
+2025-06-03 09:50:04,873 - INFO - Step 0 - Query 'initial_primary_0' (Page 2): 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with pageSize 10
+2025-06-03 09:50:08,868 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/20417
+2025-06-03 09:50:08,868 - INFO - Step 0 - Query 'initial_primary_0' (Page 3): 'Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations...' with pageSize 10
+2025-06-03 09:50:13,640 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/20417
+2025-06-03 09:50:13,644 - INFO - Saved 27 papers for query 'initial_primary_0' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_primary_0_results_20250603_095013.json
+2025-06-03 09:50:13,652 - INFO - Step 0 - Query 'initial_primary_1' (Page 1): 'Human oversight AND operator decision support systems for decentralized energy resource management...' with pageSize 10
+2025-06-03 09:50:18,044 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:50:18,046 - INFO - First paper object sample is too large to log directly (Length: 45517). Logging only a few key fields.
+2025-06-03 09:50:18,046 - INFO - First paper sample (subset of fields):\n{
+  "id": 7091577,
+  "doi": "10.1109/mprv.2011.7",
+  "title": "Paying Attention to the Man behind the Curtain",
+  "abstract": "In the push to develop smart energy systems, designers have increasingly focused on systems that measure and predict user behavior to effect optimal energy consumption. While such focus is an importan...",
+  "yearPublished": 2011,
+  "publishedDate": "2011-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/18320699.pdf",
+  "journals": [
+    {
+      "title": "IEEE Pervasive Computing",
+      "identifiers": [
+        "issn:1536-1268",
+        "1558-2590",
+        "1536-1268",
+        "issn:1558-2590"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Cummings, M. L."
+    }
+  ]
+}
+2025-06-03 09:50:18,046 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/5927
+2025-06-03 09:50:18,046 - INFO - Step 0 - Query 'initial_primary_1' (Page 2): 'Human oversight AND operator decision support systems for decentralized energy resource management...' with pageSize 10
+2025-06-03 09:50:22,092 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/5927
+2025-06-03 09:50:22,093 - INFO - Step 0 - Query 'initial_primary_1' (Page 3): 'Human oversight AND operator decision support systems for decentralized energy resource management...' with pageSize 10
+2025-06-03 09:50:26,704 - INFO - Page 3: Retrieved 8 papers. Total for query so far: 24/5927
+2025-06-03 09:50:26,704 - INFO - Step 0 - Query 'initial_primary_1' (Page 4): 'Human oversight AND operator decision support systems for decentralized energy resource management...' with pageSize 10
+2025-06-03 09:50:31,157 - INFO - Page 4: Retrieved 8 papers. Total for query so far: 32/5927
+2025-06-03 09:50:31,160 - INFO - Saved 32 papers for query 'initial_primary_1' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_primary_1_results_20250603_095031.json
+2025-06-03 09:50:31,169 - INFO - Step 0 - Query 'initial_primary_2' (Page 1): 'AI agent protocols improving manual processes AND human-machine teaming in DER systems...' with pageSize 10
+2025-06-03 09:50:36,251 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:50:36,253 - INFO - First paper object sample is too large to log directly (Length: 139910). Logging only a few key fields.
+2025-06-03 09:50:36,253 - INFO - First paper sample (subset of fields):\n{
+  "id": 164485113,
+  "doi": null,
+  "title": "A Survey on Human-AI Teaming with Large Pre-Trained Models",
+  "abstract": "In the rapidly evolving landscape of artificial intelligence (AI), the\ncollaboration between human intelligence and AI systems, known as Human-AI\n(HAI) Teaming, has emerged as a cornerstone for advanc...",
+  "yearPublished": 2024,
+  "publishedDate": "2024-06-26T01:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/2403.04931",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Aggarwal, Riya"
+    }
+  ]
+}
+2025-06-03 09:50:36,253 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/298
+2025-06-03 09:50:36,253 - INFO - Step 0 - Query 'initial_primary_2' (Page 2): 'AI agent protocols improving manual processes AND human-machine teaming in DER systems...' with pageSize 10
+2025-06-03 09:50:40,611 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/298
+2025-06-03 09:50:40,613 - INFO - Step 0 - Query 'initial_primary_2' (Page 3): 'AI agent protocols improving manual processes AND human-machine teaming in DER systems...' with pageSize 10
+2025-06-03 09:50:44,808 - INFO - Page 3: Retrieved 8 papers. Total for query so far: 24/298
+2025-06-03 09:50:44,808 - INFO - Step 0 - Query 'initial_primary_2' (Page 4): 'AI agent protocols improving manual processes AND human-machine teaming in DER systems...' with pageSize 10
+2025-06-03 09:50:49,084 - INFO - Page 4: Retrieved 8 papers. Total for query so far: 32/298
+2025-06-03 09:50:49,088 - INFO - Saved 32 papers for query 'initial_primary_2' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_primary_2_results_20250603_095049.json
+2025-06-03 09:50:49,102 - INFO - Step 0 - Query 'initial_primary_3' (Page 1): 'Workflow optimization AND human factors in decentralized energy operations...' with pageSize 10
+2025-06-03 09:50:54,865 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:50:54,867 - INFO - First paper object sample is too large to log directly (Length: 147652). Logging only a few key fields.
+2025-06-03 09:50:54,867 - INFO - First paper sample (subset of fields):\n{
+  "id": 17199341,
+  "doi": "10.1109/comst.2014.2320099",
+  "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies,\n  and Applications",
+  "abstract": "Wireless sensor networks monitor dynamic environments that change rapidly\nover time. This dynamic behavior is either caused by external factors or\ninitiated by the system designers themselves. To adap...",
+  "yearPublished": 2014,
+  "publishedDate": "2014-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/35456291.pdf",
+  "journals": [
+    {
+      "title": null,
+      "identifiers": [
+        "1553-877X"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Alsheikh, Mohammad Abu"
+    }
+  ]
+}
+2025-06-03 09:50:54,868 - INFO - Page 1: Retrieved 7 papers. Total for query so far: 7/5592
+2025-06-03 09:50:54,868 - INFO - Step 0 - Query 'initial_primary_3' (Page 2): 'Workflow optimization AND human factors in decentralized energy operations...' with pageSize 10
+2025-06-03 09:50:58,800 - INFO - Page 2: Retrieved 7 papers. Total for query so far: 14/5592
+2025-06-03 09:50:58,800 - INFO - Step 0 - Query 'initial_primary_3' (Page 3): 'Workflow optimization AND human factors in decentralized energy operations...' with pageSize 10
+2025-06-03 09:51:02,461 - INFO - Page 3: Retrieved 7 papers. Total for query so far: 21/5592
+2025-06-03 09:51:02,461 - INFO - Step 0 - Query 'initial_primary_3' (Page 4): 'Workflow optimization AND human factors in decentralized energy operations...' with pageSize 10
+2025-06-03 09:51:06,176 - INFO - Page 4: Retrieved 7 papers. Total for query so far: 28/5592
+2025-06-03 09:51:06,178 - INFO - Saved 28 papers for query 'initial_primary_3' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_primary_3_results_20250603_095106.json
+2025-06-03 09:51:06,186 - INFO - Step 0 - Query 'initial_primary_4' (Page 1): 'Addressing communication inefficiencies with AI agent assistance in decentralized energy (DER) opera...' with pageSize 10
+2025-06-03 09:51:14,779 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:51:14,781 - INFO - First paper object sample is too large to log directly (Length: 196914). Logging only a few key fields.
+2025-06-03 09:51:14,781 - INFO - First paper sample (subset of fields):\n{
+  "id": 83407146,
+  "doi": null,
+  "title": "Artificial Intelligence and Climate Change",
+  "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate co...",
+  "yearPublished": 2020,
+  "publishedDate": "2020-01-01T08:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Stein, Amy L."
+    }
+  ]
+}
+2025-06-03 09:51:14,781 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/771
+2025-06-03 09:51:14,781 - INFO - Step 0 - Query 'initial_primary_4' (Page 2): 'Addressing communication inefficiencies with AI agent assistance in decentralized energy (DER) opera...' with pageSize 10
+2025-06-03 09:51:20,939 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/771
+2025-06-03 09:51:20,939 - INFO - Step 0 - Query 'initial_primary_4' (Page 3): 'Addressing communication inefficiencies with AI agent assistance in decentralized energy (DER) opera...' with pageSize 10
+2025-06-03 09:51:26,954 - ERROR - Error on page 3 for query 'initial_primary_4': 'Addressing communication inefficiencies with AI agent assistance in decentralized energy (DER) operator tasks': 500 Server Error: Internal Server Error for url: https://api.core.ac.uk/v3/search/works/?q=Addressing+communication+inefficiencies+with+AI+agent+assistance+in+decentralized+energy+%28DER%29+operator+tasks&pageSize=10&page=3&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:51:26,954 - ERROR - Response content: {"message":"{\u0022total\u0022:20,\u0022successful\u0022:18,\u0022skipped\u0022:0,\u0022failed\u0022:2,\u0022failures\u0022:[{\u0022shard\u0022:4,\u0022index\u0022:\u0022works_2022_04_14\u0022,\u0022node\u0022:\u0022gJzv9OvzQN6iIfbz-WGg7g\u0022,\u0022reason\u0022:{\u0022type\u0022:\u0022es_rejected_execution_exception\u0022,\u0022reason\u0022:\u0022rejected execution of org.elasticsearch.common.util.concurrent.TimedRunnable@53cbe7bc on QueueResizingEsThreadPoolExecutor[name = indx-fcr01-node1\\\/search, queue capacity = 50, min queue capacity = 10, max queue capacity = 2000, frame size = 2000, targeted response rate = 1s, task execution EWMA = 721ms, adjustment amount = 50, org.elasticsearch.common.util.concurrent.QueueResizingEsThreadPoolExecutor@200d0a72[Running, pool size = 90, active threads = 90, queued tasks = 50, completed tasks = 121850480]]\u0022}},{\u0022shard\u0022:15,\u0022index\u0022:\u0022works_2022_04_14\u0022,\u0022node\u0022:\u0022gJzv9OvzQN6iIfbz-WGg7g\u0022,\u0022reason\u0022:{\u0022type\u0022:\u0022es_rejected_execution_exception\u0022,\u0022reason\u0022:\u0022rejected execution of org.elasticsearch.common.util.concurrent.TimedRunnable@78f35a11 on QueueResizingEsThreadPoolExecutor[name = indx-fcr01-node1\\\/search, queue capacity = 50, min queue capacity = 10, max queue capacity = 2000, frame size = 2000, targeted response rate = 1s, task execution EWMA = 1s, adjustment amount = 50, org.elasticsearch.common.util.concurrent.QueueResizingEsThreadPoolExecutor@200d0a72[Running, pool size = 90, active threads = 90, queued tasks = 50, completed tasks = 121850479]]\u0022}}]}"}
+2025-06-03 09:51:26,955 - INFO - Saved 16 papers for query 'initial_primary_4' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_primary_4_results_20250603_095126.json
+2025-06-03 09:51:26,959 - INFO - Step 0 - Query 'initial_secondary_0' (Page 1): 'Human factors in decentralized energy resource (DER) lifecycle management...' with pageSize 10
+2025-06-03 09:51:34,954 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:51:34,956 - INFO - First paper object sample is too large to log directly (Length: 499574). Logging only a few key fields.
+2025-06-03 09:51:34,956 - INFO - First paper sample (subset of fields):\n{
+  "id": 5757384,
+  "doi": null,
+  "title": "Renewable Energy in the Context of Sustainable Development",
+  "abstract": "Historically, economic development has been strongly correlated with increasing energy use and growth of greenhouse gas (GHG) emissions. Renewable energy (RE) can help decouple that correlation, contr...",
+  "yearPublished": 2011,
+  "publishedDate": "2011-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/13750495.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Angerer, Gerhard"
+    }
+  ]
+}
+2025-06-03 09:51:34,957 - INFO - Page 1: Retrieved 6 papers. Total for query so far: 6/5889
+2025-06-03 09:51:34,957 - INFO - Step 0 - Query 'initial_secondary_0' (Page 2): 'Human factors in decentralized energy resource (DER) lifecycle management...' with pageSize 10
+2025-06-03 09:51:38,854 - INFO - Page 2: Retrieved 6 papers. Total for query so far: 12/5889
+2025-06-03 09:51:38,856 - INFO - Step 0 - Query 'initial_secondary_0' (Page 3): 'Human factors in decentralized energy resource (DER) lifecycle management...' with pageSize 10
+2025-06-03 09:51:44,167 - INFO - Page 3: Retrieved 6 papers. Total for query so far: 18/5889
+2025-06-03 09:51:44,167 - INFO - Step 0 - Query 'initial_secondary_0' (Page 4): 'Human factors in decentralized energy resource (DER) lifecycle management...' with pageSize 10
+2025-06-03 09:51:51,937 - INFO - Page 4: Retrieved 6 papers. Total for query so far: 24/5889
+2025-06-03 09:51:51,937 - INFO - Step 0 - Query 'initial_secondary_0' (Page 5): 'Human factors in decentralized energy resource (DER) lifecycle management...' with pageSize 10
+2025-06-03 09:51:55,843 - INFO - Page 5: Retrieved 6 papers. Total for query so far: 30/5889
+2025-06-03 09:51:55,848 - INFO - Saved 30 papers for query 'initial_secondary_0' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_secondary_0_results_20250603_095155.json
+2025-06-03 09:51:55,864 - INFO - Step 0 - Query 'initial_secondary_1' (Page 1): 'Operator communication tools AND protocols for DER coordination...' with pageSize 10
+2025-06-03 09:52:00,250 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:52:00,252 - INFO - First paper object sample is too large to log directly (Length: 63363). Logging only a few key fields.
+2025-06-03 09:52:00,252 - INFO - First paper sample (subset of fields):\n{
+  "id": 18059274,
+  "doi": "10.4204/eptcs.175.1",
+  "title": "Handshaking Protocol for Distributed Implementation of Reo",
+  "abstract": "Reo, an exogenous channel-based coordination language, is a model for service\ncoordination wherein services communicate through connectors formed by joining\nbinary communication channels. In order to ...",
+  "yearPublished": 2015,
+  "publishedDate": "2015-02-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/1504.03553",
+  "journals": [
+    {
+      "title": "Electronic Proceedings in Theoretical Computer Science",
+      "identifiers": [
+        "2075-2180"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Kokash, Natallia"
+    }
+  ]
+}
+2025-06-03 09:52:00,252 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/21525
+2025-06-03 09:52:00,252 - INFO - Step 0 - Query 'initial_secondary_1' (Page 2): 'Operator communication tools AND protocols for DER coordination...' with pageSize 10
+2025-06-03 09:52:04,438 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/21525
+2025-06-03 09:52:04,439 - INFO - Step 0 - Query 'initial_secondary_1' (Page 3): 'Operator communication tools AND protocols for DER coordination...' with pageSize 10
+2025-06-03 09:52:08,515 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/21525
+2025-06-03 09:52:08,519 - INFO - Saved 27 papers for query 'initial_secondary_1' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_secondary_1_results_20250603_095208.json
+2025-06-03 09:52:08,526 - INFO - Step 0 - Query 'initial_secondary_2' (Page 1): 'AI agent applications supporting human operators in decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:12,716 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:52:12,719 - INFO - First paper object sample is too large to log directly (Length: 231590). Logging only a few key fields.
+2025-06-03 09:52:12,719 - INFO - First paper sample (subset of fields):\n{
+  "id": 58948281,
+  "doi": "10.1109/comst.2020.2965856",
+  "title": "Thirty Years of Machine Learning: The Road to Pareto-Optimal Wireless\n  Networks",
+  "abstract": "Future wireless networks have a substantial potential in terms of supporting\na broad range of complex compelling applications both in military and civilian\nfields, where the users are able to enjoy hi...",
+  "yearPublished": 2019,
+  "publishedDate": "2019-01-13T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/1902.01946",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Chen, Kwang-Cheng"
+    }
+  ]
+}
+2025-06-03 09:52:12,719 - INFO - Page 1: Retrieved 5 papers. Total for query so far: 5/7850
+2025-06-03 09:52:12,719 - INFO - Step 0 - Query 'initial_secondary_2' (Page 2): 'AI agent applications supporting human operators in decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:16,401 - INFO - Page 2: Retrieved 5 papers. Total for query so far: 10/7850
+2025-06-03 09:52:16,402 - INFO - Step 0 - Query 'initial_secondary_2' (Page 3): 'AI agent applications supporting human operators in decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:20,089 - INFO - Page 3: Retrieved 5 papers. Total for query so far: 15/7850
+2025-06-03 09:52:20,090 - INFO - Step 0 - Query 'initial_secondary_2' (Page 4): 'AI agent applications supporting human operators in decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:23,769 - INFO - Page 4: Retrieved 5 papers. Total for query so far: 20/7850
+2025-06-03 09:52:23,769 - INFO - Step 0 - Query 'initial_secondary_2' (Page 5): 'AI agent applications supporting human operators in decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:27,868 - INFO - Page 5: Retrieved 5 papers. Total for query so far: 25/7850
+2025-06-03 09:52:27,871 - INFO - Saved 25 papers for query 'initial_secondary_2' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_secondary_2_results_20250603_095227.json
+2025-06-03 09:52:27,878 - INFO - Step 0 - Query 'initial_tertiary_0' (Page 1): 'Operator decision-making tools for decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:32,303 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:52:32,304 - INFO - First paper object sample is too large to log directly (Length: 66546). Logging only a few key fields.
+2025-06-03 09:52:32,304 - INFO - First paper sample (subset of fields):\n{
+  "id": 17226551,
+  "doi": "10.1109/tsg.2014.2362994",
+  "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+  "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of rene...",
+  "yearPublished": 2014,
+  "publishedDate": "2014-09-20T01:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+  "journals": [
+    {
+      "title": "IEEE Transactions on Smart Grid",
+      "identifiers": [
+        "1949-3053",
+        "1949-3061"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Bayram, Islam Safak"
+    }
+  ]
+}
+2025-06-03 09:52:32,305 - INFO - Page 1: Retrieved 5 papers. Total for query so far: 5/25176
+2025-06-03 09:52:32,305 - INFO - Step 0 - Query 'initial_tertiary_0' (Page 2): 'Operator decision-making tools for decentralized energy systems...' with pageSize 10
+2025-06-03 09:52:40,071 - ERROR - Error on page 2 for query 'initial_tertiary_0': 'Operator decision-making tools for decentralized energy systems': 500 Server Error: Internal Server Error for url: https://api.core.ac.uk/v3/search/works/?q=Operator+decision-making+tools+for+decentralized+energy+systems&pageSize=10&page=2&apiKey=FeJVa6KG3ISf8iqN7sZw9RCHBgQPTxW2
+2025-06-03 09:52:40,071 - ERROR - Response content: {"message":"{\u0022total\u0022:20,\u0022successful\u0022:19,\u0022skipped\u0022:0,\u0022failed\u0022:1,\u0022failures\u0022:[{\u0022shard\u0022:11,\u0022index\u0022:\u0022works_2022_04_14\u0022,\u0022node\u0022:\u0022C0GTOn6aRl-PVrx8HiA4DQ\u0022,\u0022reason\u0022:{\u0022type\u0022:\u0022es_rejected_execution_exception\u0022,\u0022reason\u0022:\u0022rejected execution of org.elasticsearch.common.util.concurrent.TimedRunnable@4fc99e14 on QueueResizingEsThreadPoolExecutor[name = indx-pcr01-node1\\\/search, queue capacity = 50, min queue capacity = 10, max queue capacity = 2000, frame size = 2000, targeted response rate = 1s, task execution EWMA = 206ms, adjustment amount = 50, org.elasticsearch.common.util.concurrent.QueueResizingEsThreadPoolExecutor@5d33d5c1[Running, pool size = 30, active threads = 30, queued tasks = 50, completed tasks = 414668619]]\u0022}}]}"}
+2025-06-03 09:52:40,073 - INFO - Saved 5 papers for query 'initial_tertiary_0' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_tertiary_0_results_20250603_095240.json
+2025-06-03 09:52:40,074 - INFO - Step 0 - Query 'initial_tertiary_1' (Page 1): 'Manual task automation AND augmentation in DER lifecycle (installation, maintenance, operation)...' with pageSize 10
+2025-06-03 09:52:46,697 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:52:46,698 - INFO - First paper object sample is too large to log directly (Length: 51836). Logging only a few key fields.
+2025-06-03 09:52:46,698 - INFO - First paper sample (subset of fields):\n{
+  "id": 145571978,
+  "doi": null,
+  "title": "MLOps: A Review",
+  "abstract": "Recently, Machine Learning (ML) has become a widely accepted method for\nsignificant progress that is rapidly evolving. Since it employs computational\nmethods to teach machines and produce acceptable a...",
+  "yearPublished": 2023,
+  "publishedDate": "2023-08-19T01:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/2308.10908",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Kashyap, Gautam Siddharth"
+    }
+  ]
+}
+2025-06-03 09:52:46,698 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/1024
+2025-06-03 09:52:46,698 - INFO - Step 0 - Query 'initial_tertiary_1' (Page 2): 'Manual task automation AND augmentation in DER lifecycle (installation, maintenance, operation)...' with pageSize 10
+2025-06-03 09:52:51,700 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/1024
+2025-06-03 09:52:51,700 - INFO - Step 0 - Query 'initial_tertiary_1' (Page 3): 'Manual task automation AND augmentation in DER lifecycle (installation, maintenance, operation)...' with pageSize 10
+2025-06-03 09:52:56,541 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/1024
+2025-06-03 09:52:56,544 - INFO - Saved 27 papers for query 'initial_tertiary_1' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_tertiary_1_results_20250603_095256.json
+2025-06-03 09:52:56,552 - INFO - Step 0 - Query 'initial_tertiary_2' (Page 1): 'Human intervention strategies for DER fault diagnosis AND system recovery...' with pageSize 10
+2025-06-03 09:53:02,624 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:53:02,625 - INFO - First paper object sample is too large to log directly (Length: 90248). Logging only a few key fields.
+2025-06-03 09:53:02,625 - INFO - First paper sample (subset of fields):\n{
+  "id": 37631933,
+  "doi": "10.1016/j.robot.2017.11.010",
+  "title": "Reset-free Trial-and-Error Learning for Robot Damage Recovery",
+  "abstract": "The high probability of hardware failures prevents many advanced robots\n(e.g., legged robots) from being confidently deployed in real-world situations\n(e.g., post-disaster rescue). Instead of attempti...",
+  "yearPublished": 2017,
+  "publishedDate": "2017-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/145170263.pdf",
+  "journals": [
+    {
+      "title": null,
+      "identifiers": [
+        "0921-8890"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Baranes"
+    }
+  ]
+}
+2025-06-03 09:53:02,625 - INFO - Page 1: Retrieved 10 papers. Total for query so far: 10/16406
+2025-06-03 09:53:02,626 - INFO - Step 0 - Query 'initial_tertiary_2' (Page 2): 'Human intervention strategies for DER fault diagnosis AND system recovery...' with pageSize 10
+2025-06-03 09:53:07,237 - INFO - Page 2: Retrieved 10 papers. Total for query so far: 20/16406
+2025-06-03 09:53:07,237 - INFO - Step 0 - Query 'initial_tertiary_2' (Page 3): 'Human intervention strategies for DER fault diagnosis AND system recovery...' with pageSize 10
+2025-06-03 09:53:11,471 - INFO - Page 3: Retrieved 10 papers. Total for query so far: 30/16406
+2025-06-03 09:53:11,475 - INFO - Saved 30 papers for query 'initial_tertiary_2' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_0/initial_tertiary_2_results_20250603_095311.json
+2025-06-03 09:53:11,485 - INFO - Step 0 found 279 papers (before unique check with overall list).
+2025-06-03 09:53:11,485 - INFO - Total unique papers after step 0: 83
+2025-06-03 09:53:11,485 - INFO - Found 4 papers from step 0 meeting threshold 0.15 for new query generation.
+2025-06-03 09:53:11,487 - INFO - Generated new query (from parent 'AI agent protocols improving manual processes AND ...'): (AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND ("decision" OR "interactions" OR "interaction")
+2025-06-03 09:53:11,487 - INFO - Generated new query (fallback strategy with base 'Human operator challenges AND ...'): (Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) AND "decision"
+2025-06-03 09:53:11,487 - INFO - Generated new query (fallback strategy with base 'Human operator challenges AND ...'): (Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) AND "interactions"
+2025-06-03 09:53:11,487 - INFO - Generated 3 new queries for the next step.
+2025-06-03 09:53:11,489 - INFO - Generated 3 new queries for step 1.
+2025-06-03 09:53:11,489 - INFO - --- Dynamic Search Step 1 ---
+2025-06-03 09:53:11,489 - INFO - Step 1 - Query 'dynamic_s1_g0' (Page 1): '(AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND ("decis...' with pageSize 10
+2025-06-03 09:53:17,481 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:53:17,482 - INFO - First paper object sample is too large to log directly (Length: 106875). Logging only a few key fields.
+2025-06-03 09:53:17,482 - INFO - First paper sample (subset of fields):\n{
+  "id": 152503205,
+  "doi": null,
+  "title": "Designing AI Support for Human Involvement in AI-assisted Decision\n  Making: A Taxonomy of Human-AI Interactions from a Systematic Review",
+  "abstract": "Efforts in levering Artificial Intelligence (AI) in decision support systems\nhave disproportionately focused on technological advancements, often\noverlooking the alignment between algorithmic outputs ...",
+  "yearPublished": 2023,
+  "publishedDate": "2023-10-31T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "http://arxiv.org/abs/2310.19778",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Cho, Sue Min"
+    }
+  ]
+}
+2025-06-03 09:53:17,482 - INFO - Page 1: Retrieved 8 papers. Total for query so far: 8/298
+2025-06-03 09:53:17,482 - INFO - Step 1 - Query 'dynamic_s1_g0' (Page 2): '(AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND ("decis...' with pageSize 10
+2025-06-03 09:53:21,792 - INFO - Page 2: Retrieved 8 papers. Total for query so far: 16/298
+2025-06-03 09:53:21,792 - INFO - Step 1 - Query 'dynamic_s1_g0' (Page 3): '(AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND ("decis...' with pageSize 10
+2025-06-03 09:53:26,264 - INFO - Page 3: Retrieved 8 papers. Total for query so far: 24/298
+2025-06-03 09:53:26,265 - INFO - Step 1 - Query 'dynamic_s1_g0' (Page 4): '(AI agent protocols improving manual processes AND human-machine teaming in DER systems) AND ("decis...' with pageSize 10
+2025-06-03 09:53:30,565 - INFO - Page 4: Retrieved 8 papers. Total for query so far: 32/298
+2025-06-03 09:53:30,569 - INFO - Saved 32 papers for query 'dynamic_s1_g0' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_1/dynamic_s1_g0_results_20250603_095330.json
+2025-06-03 09:53:30,583 - INFO - Step 1 - Query 'dynamic_s1_g1' (Page 1): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:53:39,423 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'documentType', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:53:39,427 - INFO - First paper object sample is too large to log directly (Length: 457644). Logging only a few key fields.
+2025-06-03 09:53:39,427 - INFO - First paper sample (subset of fields):\n{
+  "id": 78451001,
+  "doi": null,
+  "title": "An Assessment of PIER Electric Grid Research 2003-2014 White Paper",
+  "abstract": "This white paper describes the circumstances in California around the turn of the 21st century that led the California Energy Commission (CEC) to direct additional Public Interest Energy Research fund...",
+  "yearPublished": 2015,
+  "publishedDate": "2015-01-01T00:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/288432726.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "Brown, Merwin"
+    }
+  ]
+}
+2025-06-03 09:53:39,427 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/19793
+2025-06-03 09:53:39,427 - INFO - Step 1 - Query 'dynamic_s1_g1' (Page 2): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:53:43,936 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/19793
+2025-06-03 09:53:43,938 - INFO - Step 1 - Query 'dynamic_s1_g1' (Page 3): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:53:48,637 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/19793
+2025-06-03 09:53:48,640 - INFO - Saved 27 papers for query 'dynamic_s1_g1' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_1/dynamic_s1_g1_results_20250603_095348.json
+2025-06-03 09:53:48,648 - INFO - Step 1 - Query 'dynamic_s1_g2' (Page 1): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:53:52,572 - INFO - Structure of the first paper object (keys): ['acceptedDate', 'arxivId', 'authors', 'citationCount', 'contributors', 'outputs', 'createdDate', 'dataProviders', 'depositedDate', 'abstract', 'doi', 'downloadUrl', 'fieldOfStudy', 'fullText', 'id', 'identifiers', 'title', 'language', 'magId', 'oaiIds', 'publishedDate', 'publisher', 'pubmedId', 'references', 'sourceFulltextUrls', 'updatedDate', 'yearPublished', 'journals', 'links']
+2025-06-03 09:53:52,573 - INFO - First paper object sample is too large to log directly (Length: 90839). Logging only a few key fields.
+2025-06-03 09:53:52,573 - INFO - First paper sample (subset of fields):\n{
+  "id": 19175188,
+  "doi": "10.1007/978-3-030-35291-2_1",
+  "title": "Internet of Things for Sustainable Community Development: Introduction and Overview",
+  "abstract": "The two-third of the city-dwelling world population by 2050 poses numerous global challenges in the infrastructure and natural resource management domains (e.g., water and food scarcity, increasing gl...",
+  "yearPublished": 2020,
+  "publishedDate": "2020-01-01T08:00:00",
+  "citationCount": 0,
+  "downloadUrl": "https://core.ac.uk/download/286368292.pdf",
+  "journals": [],
+  "authors": [
+    {
+      "name": "A Azmoodeh"
+    }
+  ]
+}
+2025-06-03 09:53:52,573 - INFO - Page 1: Retrieved 9 papers. Total for query so far: 9/17204
+2025-06-03 09:53:52,573 - INFO - Step 1 - Query 'dynamic_s1_g2' (Page 2): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:53:56,982 - INFO - Page 2: Retrieved 9 papers. Total for query so far: 18/17204
+2025-06-03 09:53:56,982 - INFO - Step 1 - Query 'dynamic_s1_g2' (Page 3): '(Human operator challenges AND communication gaps in Distributed Energy Resource (DER) operations) A...' with pageSize 10
+2025-06-03 09:54:01,223 - INFO - Page 3: Retrieved 9 papers. Total for query so far: 27/17204
+2025-06-03 09:54:01,227 - INFO - Saved 27 papers for query 'dynamic_s1_g2' to sources/4.1.7-core-dynamic-results/session-15/dynamic_step_1/dynamic_s1_g2_results_20250603_095401.json
+2025-06-03 09:54:01,237 - INFO - Step 1 found 86 papers (before unique check with overall list).
+2025-06-03 09:54:01,237 - INFO - Total unique papers after step 1: 88
+2025-06-03 09:54:01,252 - INFO - Consolidated JSON results for stage 'dynamic_search_complete' saved to sources/4.1.7-core-dynamic-results/session-15/consolidated_dynamic_search_complete_session15.json
+2025-06-03 09:54:01,253 - INFO - Markdown summary report saved to docs/4.1.7.1-core-dynamic-summary-session-15.md
+2025-06-03 09:54:01,253 - INFO - CORE API Dynamic search completed. Found 88 unique papers.

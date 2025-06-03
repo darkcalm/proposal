@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "task": "4.1.7.5",
+    "created_date": "2024-07-11T12:00:00.000000",
+    "source_documents": [
+      "docs/4.1.7.5-search-strategy-human-focus.md"
+    ],
+    "description": "Relevance criteria for Angle 6: Human factors, communication gaps, and AI Agent Protocol opportunities in DER Operations."
+  },
+  "primary_research_focus": {
+    "title": "Angle 6: Human Factors, Communication Gaps, and AI Agent Protocol Opportunities in DER Operations",
+    "core_question": "How can AI Agent Protocols improve communication, reduce manual labor, and better integrate human operator intent and oversight within DER operations, by addressing existing gaps and inefficiencies?",
+    "subfocus": "Identifying literature on human element in DER operations, communication challenges, manual labor, and opportunities for AI Agent Protocol application."
+  },
+  "relevance_dimensions": {
+    "1_human_operator_roles_tasks": {
+      "weight": 0.20,
+      "description": "Literature describing what human operators currently *do* in DER management, control rooms, maintenance, etc.",
+      "subcriteria": {
+        "operator_activities": {
+          "weight": 1.0,
+          "keywords": ["human operator", "DER operations", "manual process", "control room", "DER management", "maintenance tasks", "operator roles", "human tasks"],
+          "description": "Focus on the roles and tasks performed by human operators in DER contexts."
+        }
+      }
+    },
+    "2_communication_challenges_manual_processes": {
+      "weight": 0.20,
+      "description": "Papers identifying bottlenecks, inefficiencies, or reliance on manual communication/data handling in DER operations.",
+      "subcriteria": {
+        "comm_manual_issues": {
+          "weight": 1.0,
+          "keywords": ["communication challenges", "manual processes", "inefficiencies", "bottlenecks", "data handling", "communication gaps", "DER communication", "operator communication"],
+          "description": "Focus on issues in communication and manual processes within DER."
+        }
+      }
+    },
+    "3_decision_support_situational_awareness": {
+      "weight": 0.15,
+      "description": "Work related to providing operators with better tools or information for decision support and situational awareness.",
+      "subcriteria": {
+        "operator_support_tools": {
+          "weight": 1.0,
+          "keywords": ["decision support", "situational awareness", "operator tools", "operator information systems", "human-machine interface", "DER control systems"],
+          "description": "Focus on tools and systems aiding human operators."
+        }
+      }
+    },
+    "4_human_factors_optimization": {
+      "weight": 0.15,
+      "description": "Solutions already attempted to improve the human aspect of DER operations (workflow, software, hardware).",
+      "subcriteria": {
+        "hf_optimization_solutions": {
+          "weight": 1.0,
+          "keywords": ["human factors", "workflow optimization", "operator workload", "ergonomics", "human-centered design", "DER optimization", "process improvement"],
+          "description": "Focus on optimizations related to human factors in DER."
+        }
+      }
+    },
+    "5_human_in_the_loop_control": {
+      "weight": 0.15,
+      "description": "Systems where humans and automated DER systems collaborate or where humans provide oversight.",
+      "subcriteria": {
+        "human_automation_collaboration": {
+          "weight": 1.0,
+          "keywords": ["human-in-the-loop", "operator oversight", "supervisory control", "shared control", "adjustable autonomy", "human-agent collaboration", "DER automation"],
+          "description": "Focus on collaborative human-automation systems and oversight."
+        }
+      }
+    },
+    "6_ai_agent_protocol_interfaces": {
+      "weight": 0.15,
+      "description": "Scenarios where standardized agent communication (AI Agent Protocols) could clearly benefit.",
+      "subcriteria": {
+        "agent_protocol_opportunities": {
+          "weight": 1.0,
+          "keywords": ["AI agent protocols", "standardized communication", "agent-based assistance", "human-agent interaction protocols", "inter-agent protocols", "context-oriented protocols", "DER agent systems"],
+          "description": "Focus on potential application points for AI agent protocols."
+        }
+      }
+    }
+  }
+} 

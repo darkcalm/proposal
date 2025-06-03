@@ -1,0 +1,1331 @@
+{
+  "total": 564,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "dd9e44cf1e071be66db092ba9853bbcd85afe672",
+      "externalIds": {
+        "DOI": "10.1109/ICCES63552.2024.10859617",
+        "CorpusId": 276187039
+      },
+      "url": "https://www.semanticscholar.org/paper/dd9e44cf1e071be66db092ba9853bbcd85afe672",
+      "title": "Comprehensive Survey of Integration of Smart Meters with Renewable Energy Sources",
+      "venue": "International Conference on Communication and Electronics Systems",
+      "year": 2024,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCES63552.2024.10859617?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCES63552.2024.10859617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-12-16",
+      "journal": {
+        "name": "2024 9th International Conference on Communication and Electronics Systems (ICCES)",
+        "pages": "402-408"
+      },
+      "authors": [
+        {
+          "authorId": "2281350310",
+          "name": "Sreeparnesh Sharma Sivadevuni"
+        },
+        {
+          "authorId": "2281355592",
+          "name": "Raghavendra Maiya"
+        },
+        {
+          "authorId": "2344259580",
+          "name": "Ruchi Kothari"
+        },
+        {
+          "authorId": "2281355963",
+          "name": "Adarsh R Krishna"
+        }
+      ],
+      "abstract": "This research elaborates the understanding the pros, cons, and implications of smart meters and renewable energy. Given the increased emphasis on sustainability, especially in the shift to greener energy solutions, smart meters' role in boosting renewable energy resource utilization is vital. Smart meters provide real-time energy production and consumption data important for energy system upgrades. Their accurate energy monitoring encourages greater utilization and energy savings. By combining solar panels and wind turbines, smart meters may minimize fossil fuel use and improve clean energy distribution and consumption. Integrating smart meters with renewable energy is difficult. Efficiency in data management, cybersecurity, and technology interoperability is needed. Poor infrastructure may hinder adoption due to financial and legal constraints. Smart meters on renewable energy sources are promising. Smart meters and decentralized energy system architecture will improve, allowing peer-to-peer energy trading. Community renewable energy utilization may boost energy efficiency and grid resilience, enabling a sustainable energy future. Energy providers, policymakers, and consumers must understand these dynamics."
+    },
+    {
+      "paperId": "d826f3122e1c349f7dee76914497118c34b1e5ab",
+      "externalIds": {
+        "DOI": "10.1002/wene.460",
+        "CorpusId": 251779250
+      },
+      "url": "https://www.semanticscholar.org/paper/d826f3122e1c349f7dee76914497118c34b1e5ab",
+      "title": "Distributed energy resource management systems\u2014DERMS: State of the art and how to move forward",
+      "venue": "WIREs Energy and Environment",
+      "year": 2022,
+      "referenceCount": 88,
+      "citationCount": 28,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1002/wene.460?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wene.460, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2022-08-23",
+      "journal": {
+        "name": "Wiley Interdisciplinary Reviews: Energy and Environment",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "31111017",
+          "name": "L. Strezoski"
+        }
+      ],
+      "abstract": "Due to an ever\u2010increasing rise in proliferation of distributed energy resources (DERs), the paradigm of passive electrical distribution networks is shifting toward active distribution systems. This new environment introduces a plethora of challenges that cannot be managed by traditional tools, whose utilization could compromise the reliability and efficient operation of distribution feeders. This article systematically reviews state of the art in different DERs management software solutions available today. Additionally, it establishes distinguished roles and responsibilities of different levels of hierarchy in distinct solutions that are all commonly called DERs management systems\u2014DERMS (e.g., fully centralized versus fully decentralized DER management solutions). Lastly, it offers a viewpoint on the directions that hold potential for the power system community and industry to explore for further developments of more robust and intelligent DERMS, to successfully enable efficient transition into a new era of clean and sustainable power systems, encompassing active and dynamically changing distribution circuits."
+    },
+    {
+      "paperId": "3208df1dfdfcea4c2bdfe12669e32f242be78b06",
+      "externalIds": {
+        "MAG": "2892207638",
+        "DBLP": "conf/trustcom/DeCusatisL18",
+        "DOI": "10.1109/TrustCom/BigDataSE.2018.00290",
+        "CorpusId": 52160375
+      },
+      "url": "https://www.semanticscholar.org/paper/3208df1dfdfcea4c2bdfe12669e32f242be78b06",
+      "title": "Secure, Decentralized Energy Resource Management Using the Ethereum Blockchain",
+      "venue": "2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/ 12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)",
+      "year": 2018,
+      "referenceCount": 13,
+      "citationCount": 20,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TrustCom/BigDataSE.2018.00290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TrustCom/BigDataSE.2018.00290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new approach to digital identity management would require smart meters to authenticate with the blockchain ledger and mitigate identity-spoofing attacks and applications of this approach to defense against port scans and DDoS, attacks are discussed."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2018-08-01",
+      "journal": {
+        "name": "2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/ 12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)",
+        "pages": "1907-1913"
+      },
+      "authors": [
+        {
+          "authorId": "35154473",
+          "name": "C. DeCusatis"
+        },
+        {
+          "authorId": "51257384",
+          "name": "Kulvinder Lotay"
+        }
+      ],
+      "abstract": "While blockchain services hold great promise to improve many different industries, there are significant cybersecurity concerns which must be addressed. In this paper, we investigate security considerations for an Ethereum blockchain hosting a distributed energy management application. We have simulated a microgrid with ten buildings in the northeast U.S., and results of the transaction distribution and electricity utilization are presented. We also present the effects on energy distribution when one or two smart meters have their identities corrupted. We then propose a new approach to digital identity management that would require smart meters to authenticate with the blockchain ledger and mitigate identity-spoofing attacks. Applications of this approach to defense against port scans and DDoS, attacks are also discussed."
+    },
+    {
+      "paperId": "fb2e1d2ade0f7bbf7395e72ce018897e749c1860",
+      "externalIds": {
+        "DOI": "10.1109/MPE.2023.3330120",
+        "CorpusId": 266966660
+      },
+      "url": "https://www.semanticscholar.org/paper/fb2e1d2ade0f7bbf7395e72ce018897e749c1860",
+      "title": "A Fortunate Decision That You Can Trust: Digital Twins as Enablers for the Next Generation of Energy Management Systems and Sophisticated Operator Assistance Systems",
+      "venue": "IEEE Power and Energy Magazine",
+      "year": 2024,
+      "referenceCount": 4,
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/MPE.2023.3330120?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MPE.2023.3330120, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The rather novel digital twin (DT) concept in combination with data-driven (i.e., machine learning) applications can be purposefully applied to improve the system resilience from the cybersecurity and system stability points of view."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-01-01",
+      "journal": {
+        "name": "IEEE Power and Energy Magazine",
+        "pages": "24-34",
+        "volume": "22"
+      },
+      "authors": [
+        {
+          "authorId": "30619375",
+          "name": "C. Brosinsky"
+        },
+        {
+          "authorId": "16713958",
+          "name": "M. Nagli\u010d"
+        },
+        {
+          "authorId": "2243241689",
+          "name": "Sebastian Lehnhoff"
+        },
+        {
+          "authorId": "2279224254",
+          "name": "Rainer Krebs"
+        },
+        {
+          "authorId": "2268352027",
+          "name": "Dirk Westermann"
+        }
+      ],
+      "abstract": "Power system operation is gaining complexity due to the changes imposed by the energy transition. Especially, the increased share of intermittent and decentralized renewable generation units in the energy mix, an increased uncertainty regarding the supply of energy, and the predominantly market-driven cross-region and cross-border transport of electricity impose new challenges on the operation of power systems in Europe. In particular, power system operators must facilitate higher utilization of the grid capacity and coordinate more with neighboring transmission system operators (TSOs) and distribution system operators (DSOs). To deal with these new challenges, there is a pressing need to improve the observability and controllability of key system parameters to safeguard the reliability of power systems. Furthermore, the aforementioned developments and challenges go hand in hand with the need to improve the system resilience from the cybersecurity and system stability points of view. In the future, these challenges cannot be met without innovation towards intelligent decision support systems and assistant functions, which allow a look ahead combined with fast response and proactive actions. Here, the rather novel digital twin (DT) concept in combination with data-driven (i.e., machine learning) applications can be purposefully applied."
+    },
+    {
+      "paperId": "cee0c104a49c34cad5e450f938483b4b1e93e276",
+      "externalIds": {
+        "DOI": "10.1109/comst.2025.3534828",
+        "CorpusId": 276034026
+      },
+      "url": "https://www.semanticscholar.org/paper/cee0c104a49c34cad5e450f938483b4b1e93e276",
+      "title": "Distributed Energy Resource Management System (DERMS) Cybersecurity Scenarios, Trends, and Potential Technologies: A Review",
+      "venue": "IEEE Communications Surveys &amp; Tutorials",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/comst.2025.3534828?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/comst.2025.3534828, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Communications Surveys &amp; Tutorials"
+      },
+      "authors": [
+        {
+          "authorId": "1505698156",
+          "name": "Niroop Sugunaraj"
+        },
+        {
+          "authorId": "2224887694",
+          "name": "Shree Ram Abayankar Balaji"
+        },
+        {
+          "authorId": "2214763969",
+          "name": "Barathwaja Subash Chandar"
+        },
+        {
+          "authorId": "2199440229",
+          "name": "Prashanth Rajagopalan"
+        },
+        {
+          "authorId": "2240170889",
+          "name": "Utku Kose"
+        },
+        {
+          "authorId": "2343199186",
+          "name": "David Charles Loper"
+        },
+        {
+          "authorId": "2280223805",
+          "name": "Tanzim Mahfuz"
+        },
+        {
+          "authorId": "145293829",
+          "name": "Prabuddha Chakraborty"
+        },
+        {
+          "authorId": "147998193",
+          "name": "Seerin Ahmad"
+        },
+        {
+          "authorId": "2290103173",
+          "name": "Taesic Kim"
+        },
+        {
+          "authorId": "2268494781",
+          "name": "Giovanni Apruzzese"
+        },
+        {
+          "authorId": "2151620443",
+          "name": "Anamika Dubey"
+        },
+        {
+          "authorId": "31111017",
+          "name": "L. Strezoski"
+        },
+        {
+          "authorId": "2266206818",
+          "name": "Benjamin Blakely"
+        },
+        {
+          "authorId": "2237103856",
+          "name": "Subhojit Ghosh"
+        },
+        {
+          "authorId": "2273890437",
+          "name": "Maddikara Jaya Bharata Reddy"
+        },
+        {
+          "authorId": "3458544",
+          "name": "H. Padullaparti"
+        },
+        {
+          "authorId": "2295069156",
+          "name": "Prakash Ranganathan"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0c13b498fb1cc46e48bacd25a6f7c99746bc7ef2",
+      "externalIds": {
+        "DOI": "10.1109/EPECS62845.2024.10805521",
+        "CorpusId": 275018006
+      },
+      "url": "https://www.semanticscholar.org/paper/0c13b498fb1cc46e48bacd25a6f7c99746bc7ef2",
+      "title": "Advancements in Peer-to-Peer Energy Management Systems \u2013 An Overview",
+      "venue": "International Conference on Electric Power and Energy Conversion Systems",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/EPECS62845.2024.10805521?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EPECS62845.2024.10805521, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-11-12",
+      "journal": {
+        "name": "2024 7th International Conference on Electric Power and Energy Conversion Systems (EPECS)",
+        "pages": "167-172"
+      },
+      "authors": [
+        {
+          "authorId": "2337107428",
+          "name": "Ayman Akila"
+        },
+        {
+          "authorId": "2295128936",
+          "name": "R. C. Bansal"
+        },
+        {
+          "authorId": "2128441592",
+          "name": "Ahmed G. Abo-Khalil"
+        }
+      ],
+      "abstract": "The global shift from centralized to decentralized energy systems is driving significant advancements in peer-to-peer energy networking systems, leading to achieve sustainability and efficiency. These systems enable direct energy exchange among consumers and prosumers, bypassing traditional utility structures. This review includes an analysis of publication trends, revealing a significant increase in research outputs over the past decade, with a focus on economic impacts, network design, social perspectives, and regulatory requirements. Key technical challenges such as scalability, interoperability, and cybersecurity will be discussed, alongside economic and social issues affecting the P2P energy systems adoption. The paper concludes with future research directions aimed at addressing these challenges and developing the field. This review focuses on the transformative potential of P2P energy networks in creating more resilient, sustainable, and equitable energy systems."
+    },
+    {
+      "paperId": "8b971fbd14186419b9e2cadd6fd5a55015fc4849",
+      "externalIds": {
+        "DOI": "10.35629/5941-10070113",
+        "CorpusId": 273352980
+      },
+      "url": "https://www.semanticscholar.org/paper/8b971fbd14186419b9e2cadd6fd5a55015fc4849",
+      "title": "Decentralized Smart Energy Management in Hybrid Microgrids: An Evaluation of Operational Modes, Resource Optimization, and Environmental Impacts in Nigeria",
+      "venue": "Journal of electronics and communication engineering research",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.35629/5941-10070113?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35629/5941-10070113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-07-01",
+      "journal": {
+        "name": "Journal of Electronics and Communication Engineering Research"
+      },
+      "authors": [
+        {
+          "authorId": "2325974720",
+          "name": "Usman Abdulrasheed O"
+        },
+        {
+          "authorId": "2325965706",
+          "name": "Idemudia Daniel N"
+        },
+        {
+          "authorId": "66139218",
+          "name": "S. I. Omade"
+        }
+      ],
+      "abstract": "Escalating energy demands and climate change challenges necessitate the adaptation of renewable-based microgrid systems in the energy sector. The proposed work employs a robust Multi Agent System (MAS) technique to achieve efficient and automated control of the hybrid microgrid operation. The hybrid microgrid system incorporates Renewable Energy Sources (RES), a diesel generator, and a battery storage system. The operation of the hybrid microgrid consists of three distinct modes: islanded, transition to grid, and grid-oriented mode. The system\u2019s performance is optimized by considering factors like climatic patterns, energy costs, connected source characteristics, and load demand. Different climatic scenarios are assessed for each mode of operation, where the best, extreme sunny, extreme cloudy, and worst climate conditions are considered for islanded mode; sunny and cloudy scenarios are considered for transition to grid mode as well as grid-feed and grid-tied modes are considered for grid-oriented operation of the microgrid. The simulation studies are performed using the MATLAB/Simulink R2021a environment. Furthermore, Particle Swarm Optimization (PSO) is implemented to optimize power allocation within the microgrid and enhance its cost-effectiveness. The optimization results demonstrate efficient utilization of available energy sources along with effective energy management facilitated by the MAS control system. The results emphasize the importance of adopting a MAS approach for achieving smart energy management through comprehensive analysis and integrating decentralized energy management techniques for optimal accommodation of distributed energy resources in hybrid microgrids"
+    },
+    {
+      "paperId": "7a6939df0e68ac43c36e28ac6fae497567510603",
+      "externalIds": {
+        "DOI": "10.35833/mpce.2021.000667",
+        "CorpusId": 247900644
+      },
+      "url": "https://www.semanticscholar.org/paper/7a6939df0e68ac43c36e28ac6fae497567510603",
+      "title": "Integration of Utility Distributed Energy Resource Management System and Aggregators for Evolving Distribution System Operators",
+      "venue": "Journal of Modern Power Systems and Clean Energy",
+      "year": 2022,
+      "referenceCount": 27,
+      "citationCount": 50,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/8685265/9744621/09744634.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.35833/mpce.2021.000667?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35833/mpce.2021.000667, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "Journal of Modern Power Systems and Clean Energy"
+      },
+      "authors": [
+        {
+          "authorId": "31111017",
+          "name": "L. Strezoski"
+        },
+        {
+          "authorId": "3458544",
+          "name": "H. Padullaparti"
+        },
+        {
+          "authorId": "46340340",
+          "name": "F. Ding"
+        },
+        {
+          "authorId": "29447434",
+          "name": "M. Baggu"
+        }
+      ],
+      "abstract": "\u2014\u2014 With the rapid integration of distributed energy re\u2010 sources (DERs), distribution utilities are faced with new and un\u2010 precedented issues. New challenges introduced by high penetra\u2010 tion of DERs range from poor observability to overload and re\u2010 verse power flow problems, under-/over-voltages, maloperation of legacy protection systems, and requirements for new plan\u2010 ning procedures. Distribution utility personnel are not adequate\u2010 ly trained, and legacy control centers are not properly equipped to cope with these issues. Fortunately, distribution energy re\u2010 source management systems (DERMSs) are emerging software technologies aimed to provide distribution system operators (DSOs) with a specialized set of tools to enable them to over\u2010 come the issues caused by DERs and to maximize the benefits of the presence of high penetration of these novel resources. However, as DERMS technology is still emerging, its definition is vague and can refer to very different levels of software hier\u2010 archies, spanning from decentralized virtual power plants to DER aggregators and fully centralized enterprise systems (called utility DERMS). Although they are all frequently simply called DERMS, these software technologies have different sets of tools and aim to provide different services to different stake\u2010 holders. This paper explores how these different software tech\u2010 nologies can complement each other, and how they can provide significant benefits to DSOs in enabling them to successfully manage evolving distribution networks with high penetration of DERs when they are integrated together into the control cen\u2010 ters of distribution utilities."
+    },
+    {
+      "paperId": "dc3149e86d8cd8b691bde8cdfed4e5dda702a119",
+      "externalIds": {
+        "DOI": "10.2298/fuee2401135k",
+        "CorpusId": 273932873
+      },
+      "url": "https://www.semanticscholar.org/paper/dc3149e86d8cd8b691bde8cdfed4e5dda702a119",
+      "title": "Towards decentralized resource management for disasters: NGO-RMSD",
+      "venue": "Facta universitatis - series: Electronics and Energetics",
+      "year": 2024,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.2298/fuee2401135k",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2298/fuee2401135k?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2298/fuee2401135k, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The system proposal introduces NGO-RMSD, a blockchain-based decentralized system designed to enhance collaborative efforts during and after disasters, incorporating smart contracts for autonomous operation."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "Facta universitatis - series: Electronics and Energetics"
+      },
+      "authors": [
+        {
+          "authorId": "2273994928",
+          "name": "Enis Karaarslan"
+        },
+        {
+          "authorId": "2075202765",
+          "name": "Arzu \u00d6zkan"
+        },
+        {
+          "authorId": "2162191978",
+          "name": "Cemal Dak"
+        },
+        {
+          "authorId": "1490934942",
+          "name": "U. Korkmaz"
+        }
+      ],
+      "abstract": "The necessity for an efficient resource management system during and\n postdisaster is underscored by the prevalent coordination and resource\n management challenges faced by various organizations, including\n non-governmental organizations (NGOs) and government units. To address these\n problems, our system proposal introduces NGO-RMSD, a blockchain-based\n decentralized system designed to enhance collaborative efforts during and\n after disasters. Utilizing the Quorum framework for its energy efficiency,\n NGO-RMSD enables seamless transactions and updates across parties,\n eliminating intermediaries and fostering a trusted environment for resource\n management. This paper details the development of this decentralized system,\n incorporating smart contracts for autonomous operation. Decentralized\n systems provide superior security, transparency, and immutability, making\n them fundamentally more robust and efficient than centralized systems for\n managing complex, multi-stakeholder scenarios like dis-aster response. This\n decentralized model ensures transparency, eliminates intermediaries, and\n enables all parties to conduct transactions and updates reliably. These\n contracts effectively assess and prioritize the needs of affected\n individuals, ensuring timely and accurate resource allocation. A proof of\n concept has been implemented, demonstrating the practicality and potential\n impact of NGO-RMSD. Designed in alignment with NGO's field requirements and\n distributed under a free software license, this system promises to\n significantly improve coordination for disaster resource management.\n Possible improvements and future work for a more sustainable system is\n discussed. Looking forward, we aim to enhance the efficiency and\n effectiveness of disaster relief efforts by providing assistance to a larger\n number of affected individuals in a more organized and expeditious manner."
+    },
+    {
+      "paperId": "d816443b38d8d1e035f0628c3042e15c02648f08",
+      "externalIds": {
+        "CorpusId": 235804233
+      },
+      "url": "https://www.semanticscholar.org/paper/d816443b38d8d1e035f0628c3042e15c02648f08",
+      "title": "Test and evaluate an automated low voltage grid management system through utilization of CLS-Gateways to control a decentralized energy resource",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 9,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "2083503241",
+          "name": "F. Ebe"
+        },
+        {
+          "authorId": "2109474725",
+          "name": "Jeromie Morris"
+        },
+        {
+          "authorId": "2143480070",
+          "name": "Shuo Chen"
+        },
+        {
+          "authorId": "30693459",
+          "name": "B. Idlbi"
+        },
+        {
+          "authorId": "2081839177",
+          "name": "D. Graeber"
+        },
+        {
+          "authorId": "3091587",
+          "name": "G. Heilscher"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "be31df74e530b0f0a1fd5bac8843d85661ac7f91",
+      "externalIds": {
+        "DOI": "10.1049/rpg2.70008",
+        "CorpusId": 276352795
+      },
+      "url": "https://www.semanticscholar.org/paper/be31df74e530b0f0a1fd5bac8843d85661ac7f91",
+      "title": "Energy Management Systems (EMS) for a Decentralized Grid: A Review and Analysis of the Generation and Control Methods Impact on EMS Type and Topology",
+      "venue": "IET Renewable Power Generation",
+      "year": 2025,
+      "referenceCount": 82,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1049/rpg2.70008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/rpg2.70008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2025-01-01",
+      "journal": {
+        "name": "IET Renewable Power Generation"
+      },
+      "authors": [
+        {
+          "authorId": "2311578123",
+          "name": "Alexander Kudzin"
+        },
+        {
+          "authorId": "48436308",
+          "name": "S. Takayama"
+        },
+        {
+          "authorId": "2284003275",
+          "name": "Atsushi Ishigame"
+        }
+      ],
+      "abstract": "Grid decarbonization is transitioning the generation method's (GM) topology towards a distributed energy resource (DER)\u2010centric decentralized topology. However, the control method (CM) and energy management system (EMS) are yet to decentralize, resulting in topological mismatch\u2010related issues that pose significant operational challenges. Due to the advantages of topological synergy, CM research is moving towards decentralized topologies. However, the EMS lacks a clear development path and defined target parameters. This study investigates the interdependencies between GM, CM, and EMS topologies, determining their relationship to forecast the future trajectory of EMS research and to determine robust evaluation parameters for EMS proposals. Topological analysis revealed a strong influence of one sector on another, placing significant pressure to decentralize the EMS. Utilizing these findings, a detailed evaluation of the proposed cloud\u2010edge, cluster, and blockchain\u2010based EMS proposals against the established parameters revealed that blockchain\u2010based architectures best aligned with the incoming decentralized GM and CM's limitations, requirements, and advantages, offering superior security, resilience, adaptability, and scalability. Furthermore, blockchain technology has largely overcome the regulatory barriers and technical challenges, such as communication overheads, making blockchain\u2010based EMS the most effective and efficient choice for a next\u2010gen EMS."
+    },
+    {
+      "paperId": "a8071294abaaaed7a849c8ea5987f39ca885851e",
+      "externalIds": {
+        "ArXiv": "2301.02198",
+        "CorpusId": 255440412
+      },
+      "url": "https://www.semanticscholar.org/paper/a8071294abaaaed7a849c8ea5987f39ca885851e",
+      "title": "Privacy-Preserving Distributed Energy Resource Control with Decentralized Cloud Computing",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2301.02198, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Mathematics",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel decentralized privacy-preserving DER control framework that achieves control scalability over DER population and heterogeneity; eliminates peer-to-peer communications and secures the privacy of all participating DERs against various types of adversaries; and enjoys higher computation efficiency and accuracy compared to state-of-the-art privacy- Preserving methods is designed."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2023-01-05",
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "1443735537",
+          "name": "Xiang Huo"
+        },
+        {
+          "authorId": "1409956483",
+          "name": "Mingxi Liu"
+        }
+      ],
+      "abstract": "The rapidly growing penetration of renewable energy resources brings unprecedented challenges to power distribution networks - management of a large population of grid-tied controllable devices encounters control scalability crises and potential end-user privacy breaches. Despite the importance, research on privacy preservation of distributed energy resource (DER) control in a fully scalable manner is lacked. To fill the gap, this paper designs a novel decentralized privacy-preserving DER control framework that 1) achieves control scalability over DER population and heterogeneity; 2) eliminates peer-to-peer communications and secures the privacy of all participating DERs against various types of adversaries; and 3) enjoys higher computation efficiency and accuracy compared to state-of-the-art privacy-preserving methods. A strongly coupled optimization problem is formulated to control the power consumption and output of DERs, including solar photovoltaics and energy storage systems, then solved using the projected gradient method. Cloud computing and secret sharing are seamlessly integrated into the proposed decentralized computing to achieve privacy preservation. Simulation results prove the capabilities of the proposed approach in DER control applications."
+    },
+    {
+      "paperId": "02cbe1b11734c97378c44a4b56be5f682b935736",
+      "externalIds": {
+        "MAG": "2914513546",
+        "DOI": "10.11591/IJEECS.V9.I1.PP115-117",
+        "CorpusId": 42227411
+      },
+      "url": "https://www.semanticscholar.org/paper/02cbe1b11734c97378c44a4b56be5f682b935736",
+      "title": "Decentralized Energy Resource Management Problems of Multi Agent Negotiation Framework",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://zenodo.org/record/4159229/files/29%2010240%20Decentralized%20Energy%20Resource%20Management%20Problems%20of%20Multi%20Agent%20Negotiation%20Framework.pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.11591/IJEECS.V9.I1.PP115-117?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11591/IJEECS.V9.I1.PP115-117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The idea of Distributed Energy Resource (DER) management, in light of dynamic bunching of energy assets for better coordination of free market activity, is proposed."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "Indonesian Journal of Electrical Engineering and Computer Science",
+        "pages": "115-117",
+        "volume": "9"
+      },
+      "authors": [
+        {
+          "authorId": "89443877",
+          "name": "D. Suganthy"
+        },
+        {
+          "authorId": "2285436009",
+          "name": "Dr. G. Ranganathan"
+        },
+        {
+          "authorId": "2350820524",
+          "name": "Articles Info"
+        }
+      ],
+      "abstract": "This paper proposes the idea of Distributed Energy Resource (DER) management, in light of dynamic bunching of energy assets for better coordination of free market activity. An audit on load profiling and estimating components is given which to be used in building information, required for nearby and worldwide coordination. To stay away from substantial scale complexities, a decentralized control approach with Multi Agent Negotiation Framework (MANF) is conveyed. An audit on MANF innovations and their application in power framework is displayed. With MANF we give a system to planning maker, shopper and group specialists. These specialists additionally negotiate Service Level Agreements for overseeing free market activity and ideally using the energy assets."
+    },
+    {
+      "paperId": "11a1e945ab42e2f9a0b369fa4ff12de4cd8c05ef",
+      "externalIds": {
+        "MAG": "3170885567",
+        "DOI": "10.1051/SHSCONF/202111005006",
+        "CorpusId": 236282367
+      },
+      "url": "https://www.semanticscholar.org/paper/11a1e945ab42e2f9a0b369fa4ff12de4cd8c05ef",
+      "title": "Information System for the Management of Off-Grid Renewable Energy Systems for Decentralized Consumers",
+      "venue": "SHS Web of Conferences",
+      "year": 2021,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.shs-conferences.org/articles/shsconf/pdf/2021/21/shsconf_icemt2021_05006.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1051/SHSCONF/202111005006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/SHSCONF/202111005006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper studies technical features of managing off-grid renewable energy systems and analyses principles of building a resource-process model of energy supply for a local facility with several energy sources in SQL."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2021-06-11",
+      "journal": {
+        "name": "SHS Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "12606670",
+          "name": "I. Usacheva"
+        }
+      ],
+      "abstract": "The paper studies technical features of managing off-grid renewable energy systems; analyses principles of building a resource-process model of energy supply for a local facility with several energy sources; shows a conceptual scheme of the proposed direct current microgrid; develops a database structure of automated control system of off-grid energy systems in SQL."
+    },
+    {
+      "paperId": "d01c1ec62a18bcb42b2be65296f2f3e1d7ff3b21",
+      "externalIds": {
+        "DOI": "10.1109/ICPEICES62430.2024.10719152",
+        "CorpusId": 273535248
+      },
+      "url": "https://www.semanticscholar.org/paper/d01c1ec62a18bcb42b2be65296f2f3e1d7ff3b21",
+      "title": "Decentralized Energy Consumption Monitoring RF Communication-Enabled Modules for Offline Buildings Connected to Cloud",
+      "venue": "IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPEICES62430.2024.10719152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPEICES62430.2024.10719152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed system employs wireless sensor modules strategically mounted on each building, equipped to read parameters related to energy consumption, which allows for real-time monitoring of energy usage in offline locations, facilitating more efficient energy management and resource allocation."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-04-26",
+      "journal": {
+        "name": "2024 IEEE Third International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)",
+        "pages": "1161-1165"
+      },
+      "authors": [
+        {
+          "authorId": "2311251495",
+          "name": "V. Pandraka"
+        },
+        {
+          "authorId": "2327250401",
+          "name": "Rajagiri Anil Kumar"
+        },
+        {
+          "authorId": "51906331",
+          "name": "Sree Lakshmi Gundebommu"
+        },
+        {
+          "authorId": "2327240618",
+          "name": "Sai Teja Pottigari"
+        }
+      ],
+      "abstract": "This paper presents a novel approach to energy consumption monitoring and management in remote, off-grid locations where internet connectivity may be limited. The proposed system employs wireless sensor modules strategically mounted on each building, equipped to read parameters related to energy consumption. These modules communicate data to a central controller using RF communication. The system integrates both grid power and solar solutions, providing a comprehensive overview of energy usage. The main controller, connected to the internet, uploads the collected data to the cloud, enabling centralized monitoring and analysis. This decentralized approach allows for real-time monitoring of energy usage in offline locations, facilitating more efficient energy management and resource allocation. The paper discusses the design, implementation, and preliminary results of the system, demonstrating its potential for enhancing energy sustainability in diverse environments."
+    },
+    {
+      "paperId": "37fb801c49cad4200520c630a3a9a47c7a19bc5f",
+      "externalIds": {
+        "DOI": "10.47974/jdmsc-1962",
+        "CorpusId": 269166239
+      },
+      "url": "https://www.semanticscholar.org/paper/37fb801c49cad4200520c630a3a9a47c7a19bc5f",
+      "title": "A holistic mathematical cyber security model in fog resource management in computing environments",
+      "venue": "Journal of Discrete Mathematical Sciences and Cryptography",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.47974/jdmsc-1962?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47974/jdmsc-1962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Mathematics",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive mathematical cyber security model that is tailored to fog resource management in computing environments and highlights the need for safeguarding the next generation of fog computing systems against cyber threats, fostering the continued growth and adoption of transformative technology."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "Journal of Discrete Mathematical Sciences and Cryptography"
+      },
+      "authors": [
+        {
+          "authorId": "5902690",
+          "name": "P. Srivastava"
+        },
+        {
+          "authorId": "2296988618",
+          "name": "Ashish Kumar Srivastava"
+        },
+        {
+          "authorId": "2240136335",
+          "name": "Raja Rao Budaraju"
+        },
+        {
+          "authorId": "2274168909",
+          "name": "Rama Krishna Yellapragada"
+        },
+        {
+          "authorId": "2259850763",
+          "name": "Sasidhar Attuluri"
+        },
+        {
+          "authorId": "2269970193",
+          "name": "Smaranika Mohapatra"
+        }
+      ],
+      "abstract": "In the evolving landscape of computing environments, fog computing has emerged as a pivotal technology for handling the increasing demands of Internet of Things (IoT) applications. Fog computing, with its decentralized approach, brings computational power closer to IoT devices, reducing latency and bandwidth constraints. However, this distributed architecture poses significant cybersecurity challenges, necessitating a holistic mathematical model to ensure the security and integrity of fog resources. This review presents a comprehensive mathematical cyber security model that is tailored to fog resource management in computing environments. The models generally encompass a wide array of security aspects, including data confidentiality, integrity, availability, and authentication. Leveraging advanced mathematical techniques, the models offer a robust framework for assessing and enhancing security in fog computing systems. The key components include threat modeling, risk assessment, and dynamic resource allocation strategies. By systematically analyzing potential threats and vulnerabilities specific to fog computing, these models assist in devising effective countermeasures and security policies. Moreover, there is a need to incorporate an adaptive resource allocation algorithm to dynamically allocate computing resources based on security priorities and real-time threat assessments. This review demonstrates the effectiveness of the mathematical cyber security model in bolstering the resilience of fog computing environments. The review highlights the need for safeguarding the next generation of fog computing systems against cyber threats, fostering the continued growth and adoption of transformative technology."
+    },
+    {
+      "paperId": "7806b60b7645887a82c8712f58bb5c5e1339a4f9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-17433",
+        "ArXiv": "2309.17433",
+        "DOI": "10.48550/arXiv.2309.17433",
+        "CorpusId": 263311005
+      },
+      "url": "https://www.semanticscholar.org/paper/7806b60b7645887a82c8712f58bb5c5e1339a4f9",
+      "title": "DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 28,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2309.17433",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2309.17433, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "DREAM - Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems is introduced, a comprehensive framework that optimizes the allocation of resources for efficient exploration."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-09-29",
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2309.17433"
+      },
+      "authors": [
+        {
+          "authorId": "2249741381",
+          "name": "Dipam Patel"
+        },
+        {
+          "authorId": "2140639881",
+          "name": "Phu-Cuong Pham"
+        },
+        {
+          "authorId": "2249532311",
+          "name": "Kshitij Tiwari"
+        },
+        {
+          "authorId": "2718563",
+          "name": "Aniket Bera"
+        }
+      ],
+      "abstract": "Resource-constrained robots often suffer from energy inefficiencies, underutilized computational abilities due to inadequate task allocation, and a lack of robustness in dynamic environments, all of which strongly affect their performance. This paper introduces DREAM - Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems, a comprehensive framework that optimizes the allocation of resources for efficient exploration. It advances beyond conventional heuristic-based task planning as observed conventionally. The framework incorporates Operational Range Estimation using Reinforcement Learning to perform exploration and obstacle avoidance in unfamiliar terrains. DREAM further introduces an Energy Consumption Model for goal allocation, thereby ensuring mission completion under constrained resources using a Graph Neural Network. This approach also ensures that the entire Multi-Robot System can survive for an extended period of time for further missions compared to the conventional approach of randomly allocating goals, which compromises one or more agents. Our approach adapts to prioritizing agents in real-time, showcasing remarkable resilience against dynamic environments. This robust solution was evaluated in various simulated environments, demonstrating adaptability and applicability across diverse scenarios. We observed a substantial improvement of about 25% over the baseline method, leading the way for future research in resource-constrained robotics."
+    },
+    {
+      "paperId": "9a4f9b0f0666c2ebec01d3cc17f8fe6494027998",
+      "externalIds": {
+        "DOI": "10.3389/frsus.2024.1367931",
+        "CorpusId": 270029641
+      },
+      "url": "https://www.semanticscholar.org/paper/9a4f9b0f0666c2ebec01d3cc17f8fe6494027998",
+      "title": "Strengthening resilience: decentralized decision-making and multi-criteria analysis in the energy-water-food nexus systems",
+      "venue": "Frontiers in Sustainability",
+      "year": 2024,
+      "referenceCount": 155,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/frsus.2024.1367931/pdf?isPublishedV2=False",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/frsus.2024.1367931?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/frsus.2024.1367931, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Political Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Economics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-05-22",
+      "journal": {
+        "name": "Frontiers in Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "2077305663",
+          "name": "Maryam Haji"
+        },
+        {
+          "authorId": "80290108",
+          "name": "Sarah Namany"
+        },
+        {
+          "authorId": "1413574755",
+          "name": "Tareq A. Al-Ansari"
+        }
+      ],
+      "abstract": "The Energy-Water-Food (EWF) nexus is a complex and multidimensional system, in which the energy, water and food resources are strongly interconnected. EWF nexus systems are seriously threatened by natural hazards (e.g., climate change and extreme weather events) along with other human-driven threats, including rapid population growth, urbanization, terrorism, and geopolitical uncertainty. As such, integrated analysis, as encouraged by the EWF nexus can facilitate the identification of essential connections and potential conflicts that may arise in the planning and operation of resource systems. Moreover, in order to consider immediate shocks and long-term pressures, it is imperative to prioritize the strengthening of EWF system resilience by incorporating robust and efficient resource management strategies, which consider various dimensions of sustainability and security such as technical, environmental, economic, and societal aspects. Decentralization is one concept that has the potential of improving the resilience of nexus systems faced to the multiple risks governing them through reducing single points of failure and enabling swifter responses to sudden shocks and continuous volatilities. However, in order to achieve a holistic system resilience through decentralization, the assessment of the different risks impacting each nexus sector is fundamental, yet it can be particularly challenging. Therefore, the objective of this study is to review the currently available resilience assessment methods for the EWF nexus system. The systematic literature review will connect various assessment methods used within decentralization studies that are applied to improve the resilience performance of the EWF nexus system. A total of 84 journal papers were evaluated. The review demonstrates that the deployment of multi-criteria decision-making framework based on composite indicators can be effective in addressing risks and uncertainties within EWF systems. Furthermore, findings of this review illustrate complementary connections between decentralization and resilience concepts, which when integrated with the EWF nexus approach, can be effectively utilized for integrated sustainable resource management."
+    },
+    {
+      "paperId": "d85d2a8a2af293a5164be6f96d1610eecb476b5c",
+      "externalIds": {
+        "DOI": "10.1109/ICCCNT61001.2024.10724383",
+        "CorpusId": 273830835
+      },
+      "url": "https://www.semanticscholar.org/paper/d85d2a8a2af293a5164be6f96d1610eecb476b5c",
+      "title": "Renewable Energy in the Age of AI: Cybersecurity Challenges and Opportunities",
+      "venue": "International Conference on Computing Communication and Networking Technologies",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCCNT61001.2024.10724383?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCCNT61001.2024.10724383, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This review offers a critical examination of the challenges and advancements in AI-based energy management to achieve the United Nations Sustainable Development Goals, focusing on SDG7, SDG11, and SDG13."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-06-24",
+      "journal": {
+        "name": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "52152819",
+          "name": "Nachaat Mohamed"
+        }
+      ],
+      "abstract": "In the quest for sustainable energy solutions, the integration of Artificial Intelligence (AI) and cybersecurity within renewable energy systems, particularly microgrids, is increasingly pivotal. Our review offers a critical examination of the challenges and advancements in AI-based energy management to achieve the United Nations Sustainable Development Goals (SDGs), focusing on SDG7, SDG11, and SDG13. We delve into the limitations and potential pitfalls of current AI and cybersecurity approaches in renewable energy, categorizing microgrid issues into optimal power flow, peakshaving, and optimal network configurations. Our discussion extends to the promise and constraints of metaheuristics, reinforcement learning, and blockchain technology for decentralized energy management and cybersecurity, highlighting the need for a nuanced understanding of these technologies\u2019 environmental impacts and ethical considerations. Through detailed analysis of various case studies, we scrutinize the specifics of system size, grid connectivity, and the types of AI/cybersecurity measures implemented, enhancing their generalizability and applicability. This review synthesizes findings from 20 research studies, providing a comprehensive perspective on the synergistic role of AI and cybersecurity in advancing renewable energy systems while critically evaluating the field\u2019s current state and suggesting directions for future research, policy, and industry practices. By explicitly linking these findings to the achievement of the SDGs, we underscore the importance of high-resolution, accurately cited images to convey our message effectively and advocate for the thoughtful integration of AI in renewable energy systems to ensure their secure, efficient, and sustainable operation."
+    },
+    {
+      "paperId": "c6cdf47521a6351ebf59b791ff9bd8443b009c8d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-14499",
+        "DOI": "10.48550/arXiv.2409.14499",
+        "CorpusId": 272828110
+      },
+      "url": "https://www.semanticscholar.org/paper/c6cdf47521a6351ebf59b791ff9bd8443b009c8d",
+      "title": "A Review of Scalable and Privacy-Preserving Multi-Agent Frameworks for Distributed Energy Resource Control",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 267,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.48550/arXiv.2409.14499?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48550/arXiv.2409.14499, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A holistic review of trending strategies that orchestrate privacy and scalability for large-scale power system operations from a multi-agent perspective, particularly for DER control problems and extrapolates new approaches for future scalable, privacy-aware, and cybersecure pathways."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2409.14499"
+      },
+      "authors": [
+        {
+          "authorId": "1443735537",
+          "name": "Xiang Huo"
+        },
+        {
+          "authorId": "2322449775",
+          "name": "I. H. H. \u2020. Member"
+        },
+        {
+          "authorId": "2226498589",
+          "name": "I. K. R. D. Member"
+        },
+        {
+          "authorId": "2226499295",
+          "name": "I. H. V. P. Senior Member"
+        },
+        {
+          "authorId": "2322448765",
+          "name": "I. M. L. \u2021. Life Fellow"
+        }
+      ],
+      "abstract": "\u2014Distributed energy resources (DERs) are gaining prominence due to their advantages in improving energy efficiency, reducing carbon emissions, and enhancing grid resilience. Despite the increasing deployment, the potential of DERs has yet to be fully explored and exploited. A fundamental question restrains the management of numerous DERs in large-scale power systems, \u201c How should DER data be securely processed and DER operations be efficiently optimized? \u201d To address this question, this paper considers two critical issues, namely privacy for processing DER data and scalability in optimizing DER operations , then surveys existing and emerging solutions from a multi-agent framework perspective. In the context of scalability, this paper reviews state-of-the-art research that relies on parallel control, optimization, and learning within distributed and/or decentralized information exchange structures, while in the context of privacy, it identifies privacy preservation measures that can be synthesized into the aforementioned scalable structures. Despite research advances in these areas, challenges remain because these highly interdisciplinary studies blend a wide variety of scalable computing architectures and privacy preservation techniques from different fields, making them difficult to adapt in practice. To mitigate this issue, this paper provides a holistic review of trending strategies that orchestrate privacy and scalability for large-scale power system operations from a multi-agent perspective, particularly for DER control problems. Furthermore, this review extrapolates new approaches for future scalable, privacy-aware, and cybersecure pathways to unlock the full potential of DERs through controlling, optimizing, and learning generic multi-agent-based cyber-physical systems."
+    }
+  ]
+}

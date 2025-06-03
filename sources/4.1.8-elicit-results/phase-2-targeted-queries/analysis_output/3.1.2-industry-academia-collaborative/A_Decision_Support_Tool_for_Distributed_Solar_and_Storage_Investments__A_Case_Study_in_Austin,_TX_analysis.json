@@ -1,0 +1,56 @@
+{
+  "source_markdown_file": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_Decision_Support_Tool_for_Distributed_Solar_and_Storage_Investments__A_Case_Study_in_Austin,_TX.md",
+  "title": "A Decision Support Tool for Distributed Solar and Storage Investments: A Case Study in Austin, TX",
+  "doi": "10.1115/imece2019-11068",
+  "extracted_contexts": {
+    "organizations_companies": [
+      "and der rebates offered by electric",
+      "and incentives offered by electric",
+      "and utilization solar energy storage public utilities decision making distributed power",
+      "austin energy",
+      "department of energy",
+      "doe",
+      "english similar records austin sustainable and holistic integration of energy",
+      "for the residential customer to invest in distributed energy",
+      "ieee",
+      "ieee texas power and energy",
+      "renewable power",
+      "residential rates from austin energy",
+      "solar energy",
+      "the municipal electric",
+      "the tool is demonstrated using empirical electricity consumption data from pecan street inc",
+      "usdoe office of energy efficiency and renewable energy"
+    ],
+    "technologies_systems": [],
+    "practical_challenges": [
+      "data\\n\\n- **original pdf:** `bandyopadhyay2019_a_decision_support_tool_for_distributed_solar_and_storage_investments__a_case_study_in_austin,_tx_doi_10-1115_imece2019-11068.pdf`\\n- **title:** a decision support tool for distributed solar and storage investments: a case study in austin, tx\\n- **doi:** 10.1115/imece2019-11068\\n- **authors:** arkasama bandyopadhyay, julia p. conger, m. webber, b. leibowicz\\n- **year:** 2019\\n- **abstract:**\\nnone\\n\\n- **markdown conversion date:** 2025-06-03t13:44:15.883963\\n- **total pages (pdf):** 7\\n---\\n\\n## full text content (extracted from pdf)\\n\\n### page 1\\n\\nskip to main content sign in create account submit research results search tools public access policy pids services & dev tools about faqs news sign in create account u.s. department of energy office of scientific and technical information search terms: \u23f7 \u00a0 osti.gov conference: a decision support tool for distributed solar and storage investments: a case study in austin, tx a decision support tool for distributed solar and storage investments: a case study in austin, tx conference \u00b7 tue jan 21 00:00:00 est 2020 \u00b7 asme doi:https://doi.org/10.1115/imece2019-11068\u00b7 osti id:1721368 bandyopadhyay, arkasama\u00a0[1]; conger, julia p.\u00a0[1]; webber, michael e.\u00a0[2]; leibowicz, benjamin d.\u00a0[1] 1. univ. of texas, austin, tx (united states)\\n\\n---\\n\\n### page 2\\n\\n2. engie, paris (france); univ. of texas, austin, tx (united states) + show author affiliations this study builds a decision support tool to evaluate when it is a good economic decision (least cost with minimum discomfort) for the residential customer to invest in distributed energy resources (ders) based on different electricity rate structures, der ownership frameworks, and der rebates offered by electric utilities. here, the tool is demonstrated using empirical electricity consumption data from pecan street inc. (a non-profit entity based on austin, texas), residential rates from austin energy (the municipal electric utility in austin, texas), der ownership costs from various nationwide pilot programs, and incentives offered by electric utilities in the united states. results show that for constant electricity rates, the overall expenditure is least when the customer owns solar panels without storage, while for time-varying pricing structures, the least expensive scenario is one where the customer does not own any ders. as the capital costs for ders decline, utilities incentivize customer ownership of ders, and more residential customers face the decision of whether to invest in ders, this study aims to be a key tool in aiding that decision-making process. view conference cite citation formats \u2022 mla \u2022 apa \u2022 chicago \u2022 bibtex bandyopadhyay, arkasama, et al. \"a decision support tool for distributed solar and storage\\n\\n---\\n\\n### page 3\\n\\ninvestments: a case study in austin, tx.\" asme, vol. 6, jan. 2020. https://doi.org/10.1115/ imece2019-11068 \ud83d\uddce copy to clipboard bandyopadhyay, arkasama, conger, julia p., webber, michael e., & leibowicz, benjamin d. (2020). a decision support tool for distributed solar and storage investments: a case study in austin, tx. asme, 6. https://doi.org/10.1115/imece2019-11068 \ud83d\uddce copy to clipboard bandyopadhyay, arkasama, conger, julia p., webber, michael e., et al., \"a decision support tool for distributed solar and storage investments: a case study in austin, tx,\" asme 6 (2020), https:// doi.org/10.1115/imece2019-11068 \ud83d\uddce copy to clipboard @conference{osti_1721368, author = {bandyopadhyay, arkasama and conger, julia p. and webber, michael e. and leibowicz, benjamin d.}, title = {a decision support tool for distributed solar and storage investments: a case study in austin, tx}, annote = {this study builds a decision support tool to evaluate when it is a good economic decision (least cost with minimum discomfort) for the residential customer to invest in distributed energy resources (ders) based on different electricity rate structures, der ownership frameworks, and der rebates offered by electric utilities. here, the tool is demonstrated using empirical electricity consumption data from pecan street inc. (a non-profit entity based on austin, texas), residential rates from austin energy (the municipal electric utility in austin, texas), der ownership costs from various nationwide pilot programs, and incentives offered by electric utilities in the united states. results show that for constant electricity rates, the overall\\n\\n---\\n\\n### page 4\\n\\nexpenditure is least when the customer owns solar panels without storage, while for time-varying pricing structures, the least expensive scenario is one where the customer does not own any ders. as the capital costs for ders decline, utilities incentivize customer ownership of ders, and more residential customers face the decision of whether to invest in ders, this study aims to be a key tool in aiding that decision-making process.}, doi = {10.1115/imece2019-11068}, url = {https:// www.osti.gov/biblio/1721368}, journal = {asme}, volume = {6}, place = {united states}, organization = {city of austin, tx (united states)}, year = {2020}, month = {01}} \ud83d\uddce copy to clipboard export \u2022 endnote \u2022 ris \u2022 csv/excel \u2022 xml \u2022 json share \u2022 facebook \u2022 twitter / x \u2022 linkedin \u2022 email save you must sign in or create an account in order to save documents to your library. print details similar records / subjects research organization:\\n\\n---\\n\\n### page 5\\n\\ncity of austin, tx (united states) sponsoring organization: usdoe office of energy efficiency and renewable energy (eere), renewable power office. solar energy technologies office contributing organization: austin energy doe contract number: ee0007177 osti id: 1721368 report number(s): doe-coa-0007177-am3 journal information: asme, vol. 6; conference: proceedings of the asme 2019 international mechanical engineering congress and exposition, salt lake city, ut (united states), 8-14 nov 2019; related information: the doe partially or completely funded the research reflected in the article or accepted manuscript, and relates to the osti id:1661670 country of publication: united states language: english similar records austin sustainable and holistic integration"
+    ],
+    "commercial_solutions_vendors": [
+      "and der rebates offered by electric",
+      "and incentives offered by electric",
+      "and utilization solar energy storage public utilities decision making distributed power",
+      "austin energy",
+      "department of energy",
+      "doe",
+      "english similar records austin sustainable and holistic integration of energy",
+      "for the residential customer to invest in distributed energy",
+      "ieee",
+      "ieee texas power and energy",
+      "renewable power",
+      "residential rates from austin energy",
+      "solar energy",
+      "the municipal electric",
+      "the tool is demonstrated using empirical electricity consumption data from pecan street inc",
+      "usdoe office of energy efficiency and renewable energy"
+    ],
+    "standards_protocols": [],
+    "keywords_phrases": [
+      "der",
+      "distributed energy",
+      "renewable",
+      "solar",
+      "storage"
+    ]
+  },
+  "keywords_phrases": []
+}

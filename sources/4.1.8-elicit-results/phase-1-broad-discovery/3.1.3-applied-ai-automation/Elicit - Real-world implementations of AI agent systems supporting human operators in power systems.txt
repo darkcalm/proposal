@@ -1,0 +1,17 @@
+Artificial intelligence (AI) and multi-agent systems have shown promising applications in power grid operations and management. These technologies can assist human operators in decision-making, voltage regulation, loss reduction, and fault diagnosis (Marot et al., 2020; Diao et al., 2020; You, 2020). AI-based systems have demonstrated improved performance over conventional approaches in tasks such as event identification, inertia estimation, and stability assessment (You, 2020). Multi-agent systems provide benefits like economy, robustness, and natural domain representation (Corera et al., 1996). Real-world implementations include FNET-GridEye for situational awareness (You, 2020), Iberdrola's decision support system (Corera et al., 1996), and SGCC Jiangsu's voltage control system (Diao et al., 2020). These technologies can help operators manage increasing system complexity, handle emergencies more effectively, and improve grid resilience (Wollenberg & Sakaguchi, 1987; Carrasco et al., 2010). However, further research is needed to address design aspects for widespread adoption of agent technology in power systems (Catterson et al., 2012).
+
+Antoine, M., Alexandre, R., Matthieu, D., Laure, C., & Benjamin, D. (2020). Towards an AI assistant for human grid operators. arXiv.Org.
+
+R., D., Di, S., Bei, Z., Siqi, W., Haifeng, L., Chunlei, X., Tu, L., Desong, B., & Jiajun, D. (2020). On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control. arXiv.Org.
+
+Shutang, Y. (2020). Build Smart Grids on Artificial Intelligence - A Real-world Example. arXiv.Org.
+
+Wollenberg, B. F., & Sakaguchi, T. (1987). Artificial intelligence in power system operations. Proceedings of the IEEE, 75(12), 1678–1685. https://doi.org/10.1109/proc.1987.13935
+
+Carrasco, A., Romero-Ternero, M. C., Sivianes, F., Hernández, M. D., Oviedo, D. I., & Escudero, J. (2010). Facilitating Decision Making and Maintenance for Power Systems Operators through the Use of Agents and Distributed Embedded Systems. International Journal of Intelligent Information Technologies, 6(4), 1–16. https://doi.org/10.4018/jiit.2010100101
+
+Corera, J. M., Laresgoiti, I., & Jennings, N. R. (1996). Using Archon - 2. Electricity transportation management. IEEE Expert, 11(6), 71–79. https://doi.org/10.1109/64.546586
+
+Catterson, V. M., Davidson, E. M., & McArthur, S. D. J. (2011). Practical applications of multi‐agent systems in electric power systems. European Transactions on Electrical Power, 22(2), 235–252. https://doi.org/10.1002/etep.619
+
+Schulte, R. P., Larsen, S. L., Sheble, G. B., Wrubel, J. N., & Wollenberg, B. F. (1987). Artificial Intelligence Solutions to Power System Operating Problems. IEEE Transactions on Power Systems, 2(4), 920–922. https://doi.org/10.1109/tpwrs.1987.4335274

@@ -1,0 +1,199 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8e0f2f078262e26f0d2115e85aca62a5f83a8e19",
+      "externalIds": {
+        "MAG": "2914980022",
+        "DOI": "10.1007/978-3-030-12065-8_13",
+        "CorpusId": 86696060
+      },
+      "url": "https://www.semanticscholar.org/paper/8e0f2f078262e26f0d2115e85aca62a5f83a8e19",
+      "title": "Ontology-Based Context Agent for Building Energy Management Systems",
+      "venue": "Advances in Intelligent Systems and Computing",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-12065-8_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-12065-8_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A common concept of shared real energy state and knowledge is essential in order to unify heterogeneous grid contexts, incorporate information of smart grid participants, and process this information in building energy management systems."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2018-07-12",
+      "journal": {
+        "name": "Advances in Intelligent Systems and Computing"
+      },
+      "authors": [
+        {
+          "authorId": "13949431",
+          "name": "Youssef Hamdaoui"
+        },
+        {
+          "authorId": "1768343",
+          "name": "A. Maach"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "a7c8b47252b5896e1466ff78c1691a789e519f1b",
+      "externalIds": {
+        "MAG": "1597687808",
+        "CorpusId": 267795781
+      },
+      "url": "https://www.semanticscholar.org/paper/a7c8b47252b5896e1466ff78c1691a789e519f1b",
+      "title": "Agent and multi-agent systems : technologies and applications : second KES international symposium, KES-AMSTA 2008 : Incheon, Korea, March 26-28, 2008 : proceedings",
+      "venue": "",
+      "year": 2008,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper presents a method for Validating and Discovering Associations between Multi-level Emergent Behaviours in Agent-Based Simulations, and a model for Fuzzy Grounding of Modal Conjunctions in Artificial Cognitive Agents."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "1403968948",
+          "name": "Kes-Amsta"
+        },
+        {
+          "authorId": "2287329678",
+          "name": "Ngoc Thanh Nguyen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "71caaaefffdb5b3a81cdbff28e1b4367d3fe324b",
+      "externalIds": {
+        "MAG": "2494575124",
+        "DOI": "10.1007/3-540-27912-1",
+        "CorpusId": 60338980
+      },
+      "url": "https://www.semanticscholar.org/paper/71caaaefffdb5b3a81cdbff28e1b4367d3fe324b",
+      "title": "Current trends in high performance computing and its applications : proceedings of the International Conference on High Performance Computing and Applications, August 8-10, 2004, Shanghai, P.R. China",
+      "venue": "",
+      "year": 2005,
+      "referenceCount": 0,
+      "citationCount": 10,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/3-540-27912-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/3-540-27912-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Regular Papers.- LES Investigation of Near Field Wakes Behind Juncture of Wing and Plate."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2108318533",
+          "name": "Wu Zhang"
+        },
+        {
+          "authorId": "69481037",
+          "name": "Ch\u02bfang-hsin Ch\u02bfen"
+        },
+        {
+          "authorId": "2754324",
+          "name": "R. Glowinski"
+        },
+        {
+          "authorId": "2293452",
+          "name": "W. Tong"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -1,0 +1,1422 @@
+{
+  "total": 268,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "2c904e78568e886c3536842f7806857e67b72244",
+      "externalIds": {
+        "DOI": "10.1109/TPWRS.2023.3317423",
+        "CorpusId": 262100767
+      },
+      "url": "https://www.semanticscholar.org/paper/2c904e78568e886c3536842f7806857e67b72244",
+      "title": "Distributed Secondary Control for DC Microgrids With Time-Varying Communication Delays: A Networked Predictive Control Scheme",
+      "venue": "IEEE Transactions on Power Systems",
+      "year": 2024,
+      "referenceCount": 42,
+      "citationCount": 8,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TPWRS.2023.3317423?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TPWRS.2023.3317423, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A distributed networked predictive control (DNPC) strategy for DC MGs suffering from time-varying communication delays that can regulate the DG's voltage to the desired value and optimize each DG's generation cost simultaneously."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-03-01",
+      "journal": {
+        "name": "IEEE Transactions on Power Systems",
+        "pages": "4459-4472",
+        "volume": "39"
+      },
+      "authors": [
+        {
+          "authorId": "2153441926",
+          "name": "Xiaoran Dai"
+        },
+        {
+          "authorId": "1755522",
+          "name": "Guoping Liu"
+        },
+        {
+          "authorId": "1833938",
+          "name": "Wenshan Hu"
+        },
+        {
+          "authorId": "2956252",
+          "name": "Qijun Deng"
+        },
+        {
+          "authorId": "36845253",
+          "name": "Zhongcheng Lei"
+        }
+      ],
+      "abstract": "With the rapid development of cyber-physical microgrids (MGs) and distributed generations (DGs), the distributed secondary control scheme becomes a key component of the MGs' control framework. However, the introduction of communication networks inevitably brings about time delays. Against this backdrop, this article proposes a distributed networked predictive control (DNPC) strategy for DC MGs suffering from time-varying communication delays. The proposed strategy can regulate the DG's voltage to the desired value and optimize each DG's generation cost simultaneously. Explicitly, the multistep predictor generates predictions for both local nodes and neighbor DGs, using the pseudo-prediction-enabled method. Thus, the delayed information in control protocols can be replaced by the latest predictions, so as to realize the active compensation for delays. Furthermore, the analysis of the stability of the closed-loop MG system is presented to ensure the generality of the DNPC strategy. Finally, the efficiency of the proposed control system against the time-varying delay effect is verified by comprehensive experiments in a DC MG containing a wind turbine generator."
+    },
+    {
+      "paperId": "13c57347c997c0a0b984a1b09060191fa677e3cb",
+      "externalIds": {
+        "DBLP": "journals/tcasI/YangHL22",
+        "DOI": "10.1109/TCSI.2022.3163204",
+        "CorpusId": 248740958
+      },
+      "url": "https://www.semanticscholar.org/paper/13c57347c997c0a0b984a1b09060191fa677e3cb",
+      "title": "Distributed Voltage Restoration of AC Microgrids Under Communication Delays: A Predictive Control Perspective",
+      "venue": "IEEE Transactions on Circuits and Systems Part 1: Regular Papers",
+      "year": 2022,
+      "referenceCount": 43,
+      "citationCount": 28,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCSI.2022.3163204?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCSI.2022.3163204, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed control protocols are fully distributed and can be implemented through a sparse communication network and thus, satisfy the plug-and-play feature of the future smart grid."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2022-06-01",
+      "journal": {
+        "name": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+        "pages": "2614-2624",
+        "volume": "69"
+      },
+      "authors": [
+        {
+          "authorId": "2160079944",
+          "name": "Tao Yang"
+        },
+        {
+          "authorId": "2143919532",
+          "name": "Yigang He"
+        },
+        {
+          "authorId": "48573564",
+          "name": "Guo-Ping Liu"
+        }
+      ],
+      "abstract": "This paper proposes a distributed cooperative control strategy for cyber-physical microgrids in a distributed sparse network with communication delays by using predictive control theory, which enables each distributed generator (DG) unit to achieve voltage restoration. In the proposed control strategy, we first design a primary droop-free model predictive controller to make the output voltage track its nominal set points timely, with the neighbor-based error information a secondary distributed coordinated predictive controller is then proposed to actively compensate the general communication delays for cyber-physical microgrids caused by low-bandwidth communication networks. Sufficient conditions, in terms of communication network connectivity and control gains for the system stability are derived by using the tools of special matrix theory and algebraic graph theory. The proposed control protocols are fully distributed and can be implemented through a sparse communication network and thus, satisfy the plug-and-play feature of the future smart grid. The effectiveness of the control strategy in compensating communication delays is also verified by real-time simulation experiments in OPAL-RT on a test microgrid."
+    },
+    {
+      "paperId": "ed67c914dc05acdb95dc4e557598e65498855f63",
+      "externalIds": {
+        "DBLP": "journals/tsg/WanW0K24",
+        "DOI": "10.1109/TSG.2023.3302902",
+        "CorpusId": 260765680
+      },
+      "url": "https://www.semanticscholar.org/paper/ed67c914dc05acdb95dc4e557598e65498855f63",
+      "title": "Distributed Event-Based Resilient Secondary Control for AC Microgrids: A Trust-Reputation Approach",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2023.3302902?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2023.3302902, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new resilient distributed secondary control for AC microgrids is studied based on event-triggered mechanisms and trust-reputation evaluation methods and a distributed Zeno-free event-triggered control protocols for voltage/frequency restoration and active power sharing are proposed."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-03-01",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "2116-2128",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "1491239348",
+          "name": "Ying Wan"
+        },
+        {
+          "authorId": "145193290",
+          "name": "G. Wen"
+        },
+        {
+          "authorId": "2156506994",
+          "name": "Xinghuo Yu"
+        },
+        {
+          "authorId": "2197245721",
+          "name": "J\u00fcrgen Kurths"
+        }
+      ],
+      "abstract": "A new resilient distributed secondary control for AC microgrids is studied based on event-triggered mechanisms and trust-reputation evaluation methods. When distributed generators (DGs) in a microgrid are subject to attacks, their transmitted state information would be tampered and thus affect the dynamics of normal generators. In order to isolate possible attacks, two types of trust evaluation metrics with different attack indices and time scales are designed, by which the performance of neighboring DGs can be assessed for specific practical demands. Based on the trust values of each neighbor, a reputation-propagation method is introduced at triggered time instants to determine whether a DG is under attack by comprehensively incorporating the opinion of mutual neighbors. The dynamic updating law of the communication edge weights is utilized with the derived reputation values. Based on this, a distributed Zeno-free event-triggered control protocols for voltage/frequency restoration and active power sharing are proposed. Sufficient conditions for picking proper control parameters are given in the main theorem. Lastly, the simulations are conducted in MATLAB/SimPowerSystems for several scenarios to validate the effectiveness of the proposed algorithms."
+    },
+    {
+      "paperId": "73a507b0b43d6cd661bc34ea7f8984d438050599",
+      "externalIds": {
+        "MAG": "2306601353",
+        "DBLP": "journals/pieee/ZhangB16",
+        "DOI": "10.1109/JPROC.2016.2520759",
+        "CorpusId": 25602650
+      },
+      "url": "https://www.semanticscholar.org/paper/73a507b0b43d6cd661bc34ea7f8984d438050599",
+      "title": "Control and Communication Protocols Based on Packetized Direct Load Control in Smart Building Microgrids",
+      "venue": "Proceedings of the IEEE",
+      "year": 2016,
+      "referenceCount": 65,
+      "citationCount": 31,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JPROC.2016.2520759?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JPROC.2016.2520759, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new operating framework, called packetized direct load control (PDLC), is proposed based on the notion of quantization of energy demand, built on top of two communication protocols that carry either complete or binary information regarding the operation status of appliances."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2016-03-01",
+      "journal": {
+        "name": "Proceedings of the IEEE",
+        "pages": "837-857",
+        "volume": "104"
+      },
+      "authors": [
+        {
+          "authorId": "152705021",
+          "name": "Bowen Zhang"
+        },
+        {
+          "authorId": "2508755",
+          "name": "J. Baillieul"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "e93ba938aa1fb72c3dc79231d69c88cf28e5bdd7",
+      "externalIds": {
+        "MAG": "3198340992",
+        "DOI": "10.1049/gtd2.12284",
+        "CorpusId": 239659316
+      },
+      "url": "https://www.semanticscholar.org/paper/e93ba938aa1fb72c3dc79231d69c88cf28e5bdd7",
+      "title": "Multilayer event\u2010based distributed control system for DC microgrids with non\u2010uniform delays and directional communication",
+      "venue": "IET Generation, Transmission & Distribution",
+      "year": 2021,
+      "referenceCount": 54,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/gtd2.12284",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1049/gtd2.12284?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/gtd2.12284, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A multilayer event-based consensus control framework is proposed, which is resilient to communication delays and supports plug-and-play addition or removal of DGs in DC microgrids of cellular energy systems and has been implemented on a real-time hardware-in-the-loop (HIL) experimental testbed."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2021-09-04",
+      "journal": {
+        "name": "IET Generation, Transmission & Distribution"
+      },
+      "authors": [
+        {
+          "authorId": "117186307",
+          "name": "S. A. Alavi"
+        },
+        {
+          "authorId": "10739329",
+          "name": "A. Rahimian"
+        },
+        {
+          "authorId": "47662334",
+          "name": "K. Mehran"
+        },
+        {
+          "authorId": "2632741",
+          "name": "V. Vahidinasab"
+        }
+      ],
+      "abstract": "The secondary control layer of microgrids is often modelled as a multi-agent distributed system, coordinated based on consensus protocols. Convergence time of consensus algorithm significantly affects transient stability of microgrids, due to changes in communication topology, switching of distributed generations (DGs), and uncertainty of intermittent energy sources. To minimise convergence time in consensus protocol, this work proposes a multilayer event-based consensus control framework, which is resilient to communication delays and supports plug-and-play (P&P) addition or removal of DGs in DC microgrids of cellular energy systems. A novel bi-layer optimisation algorithm minimises convergence time by selecting an optimal communication topology graph and then adjusts controllers' parameters. Average consensus is achieved among distributed controllers using an event-based consensus protocol, considering non-uniform delays between agents. A realisation method has also been introduced using the directional beamforming technique for topology assignment algorithm based on modern telecommunication technologies. Provided feasibility case study has been implemented on a real-time hardware-in-the-loop (HIL) experimental testbed, to validate the performance of the proposed framework for key purposes of voltage stabilisation and balanced power-sharing in DC microgrids."
+    },
+    {
+      "paperId": "bac244b884f43919c4ba1bca6cb65e986f0e7379",
+      "externalIds": {
+        "MAG": "2999406221",
+        "DBLP": "journals/tsg/LaiLYM20",
+        "DOI": "10.1109/TSG.2020.2966691",
+        "CorpusId": 213512796
+      },
+      "url": "https://www.semanticscholar.org/paper/bac244b884f43919c4ba1bca6cb65e986f0e7379",
+      "title": "Stochastic Distributed Secondary Control for AC Microgrids via Event-Triggered Communication",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2020,
+      "referenceCount": 36,
+      "citationCount": 117,
+      "influentialCitationCount": 4,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2020.2966691?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2020.2966691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The graph theory, stochastic theory and Lyapunov functional approach are employed to derive the stability and convergence analysis of the proposed dynamic event-triggered conditions considering noise interferences."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-01-14",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "2746-2759",
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "32650377",
+          "name": "Jingang Lai"
+        },
+        {
+          "authorId": "47062976",
+          "name": "Xiaoqing Lu"
+        },
+        {
+          "authorId": "9305829",
+          "name": "Xinghuo Yu"
+        },
+        {
+          "authorId": "1704230",
+          "name": "A. Monti"
+        }
+      ],
+      "abstract": "This paper proposes a stochastic distributed secondary control scheme for both frequency/voltage restoration and optimal active power sharing (e.g., minimize the total generation cost) of ac microgrids by employing event-triggered communication mechanism in noisy environments. Compared with existing ideal and periodic communication among distributed generations (DG), the proposed stochastic distributed secondary control scheme can achieve mean-square synchronization for frequency and voltage restoration of DGs and the optimal active power sharing for their economic operation through a sparse communication network, even though the communication channels are susceptible to noise interferences and limited bandwidth constraints. The stochastic distributed control protocols are designed to be employed into the secondary control stage for microgrids, which is a fully distributed control paradigm. With the proposed control protocols, control deviations of frequency and voltage produced during the primary control stage can be well remedied and the optimal active power sharing for their economic operation can be well achieved simultaneously. Furthermore, the graph theory, stochastic theory and Lyapunov functional approach are employed to derive the stability and convergence analysis of the proposed dynamic event-triggered conditions considering noise interferences. Simulation results on an islanded microgrid test system are presented to demonstrate the effectiveness of the proposed control protocols."
+    },
+    {
+      "paperId": "79e9e377113c968093a3e58100ae2aa526e20d74",
+      "externalIds": {
+        "DOI": "10.1109/TTE.2022.3211204",
+        "CorpusId": 252660888
+      },
+      "url": "https://www.semanticscholar.org/paper/79e9e377113c968093a3e58100ae2aa526e20d74",
+      "title": "Distributed Power Sharing Control Based on Adaptive Virtual Impedance in Seaport Microgrids With Cold Ironing",
+      "venue": "IEEE Transactions on Transportation Electrification",
+      "year": 2023,
+      "referenceCount": 30,
+      "citationCount": 40,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TTE.2022.3211204?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TTE.2022.3211204, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2023-06-01",
+      "journal": {
+        "name": "IEEE Transactions on Transportation Electrification",
+        "pages": "2472-2485",
+        "volume": "9"
+      },
+      "authors": [
+        {
+          "authorId": "2114871087",
+          "name": "Peng Zhao"
+        },
+        {
+          "authorId": "143915557",
+          "name": "K. Ma"
+        },
+        {
+          "authorId": "1688428",
+          "name": "Jie Yang"
+        },
+        {
+          "authorId": "47677211",
+          "name": "Bo Yang"
+        },
+        {
+          "authorId": "2255353261",
+          "name": "J. Guerrero"
+        },
+        {
+          "authorId": "47168282",
+          "name": "C. Dou"
+        },
+        {
+          "authorId": "2066614902",
+          "name": "Xinping Guan"
+        }
+      ],
+      "abstract": "In a seaport microgrid (SMG), power sharing among distributed generation (DG) units is hindered by power coupling, line changes, and frequent power fluctuations caused by ship charging and discharging through cold ironing, which, in turn, threatens system stability and inverter security. This article proposes a delay-tolerant distributed adaptive virtual impedance control strategy for assigned active and reactive power sharing, so as to suppress the circulating current among DGs. First, the nonlinear impedance-power droop equations (IPDEs) are derived to actively update the resistive and inductive components of virtual impedance, which can accommodate changes in line structure and output power. Second, by means of low-bandwidth communication with quantized data and time delay, the desired power terms derived from practical consensus protocols are fed into the IPDEs, for which the proposed scheme gives a quantitative maximum tolerable communication delay with respect to power sharing accuracy. Third, considering the voltage drop caused by virtual impedance, inspired by traditional synchronous generators, we design a virtual impedance loop based on virtual damping and inertia to preserve voltage dynamics. Finally, an SMG containing four DG units is simulated to verify the effectiveness of the proposed strategy on both active and reactive power sharing."
+    },
+    {
+      "paperId": "e0ff900f575b2dfc4823f7316fa0554ded027dfb",
+      "externalIds": {
+        "DBLP": "journals/access/PintoSPO23",
+        "DOI": "10.1109/ACCESS.2023.3335131",
+        "CorpusId": 265334526
+      },
+      "url": "https://www.semanticscholar.org/paper/e0ff900f575b2dfc4823f7316fa0554ded027dfb",
+      "title": "Resilience and Stability Analysis of Distributed Secondary Controllers in DC Microgrids Under Cyber Attacks and Communication Delays",
+      "venue": "IEEE Access",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10323490.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2023.3335131?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2023.3335131, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed method is tested under various circumstances, physical actions, and cyber-attacks, such as load changing, communication delay, packet loss, time-varying attacks, etc, and demonstrates the efficacy of the suggested approach in detecting and mitigating the considered attacks in DC microgrids using the MATLAB/Simulink tool."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "132296-132311",
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "33264387",
+          "name": "S. Pinto"
+        },
+        {
+          "authorId": "2217184169",
+          "name": "P. Siano"
+        },
+        {
+          "authorId": "2248102961",
+          "name": "Mimmo Parente"
+        },
+        {
+          "authorId": "31935981",
+          "name": "G. Ozdemir"
+        }
+      ],
+      "abstract": "The DC microgrid systems include power electronic converters with information and communication technology. The performance of the DC microgrids will be determined by how effectively these converters are controlled. These communication protocols that support microgrids based on cooperative control are highly vulnerable to cyberattacks. False data injection attack (FDIA) is a kind of cyber-attack in which attackers attempt to introduce false data into the targeted DC microgrid in order to shut it down and destabilize it. Furthermore, the inherent characteristics of communication networks in microgrids may result in delays or/and packet drops in data transmissions between Distributed Generation Units (DGU). These network issues can degrade the stability and control loop performance, resulting in microgrid system uncertainty. Limited papers are available in the literature focusing on resilience against cyber-attacks and communication delays for DC microgrids in one platform. Thus, this paper discusses the impact of FDIAs on parallel DC/DC converter-structured DC microgrids that use droop-based control techniques to sustain the required DC voltage level using voltage observer and current regulator techniques. An unconventional delay-dependent stability condition is formulated and the system\u2019s control parameters are adopted using the Lyapunov stability theory and Linear matrix inequality (LMI). The proposed method is tested under various circumstances, physical actions, and cyber-attacks, such as load changing, communication delay, packet loss, time-varying attacks, etc. The outcomes demonstrate the efficacy of the suggested approach in detecting and mitigating the considered attacks in DC microgrids using the MATLAB/Simulink tool."
+    },
+    {
+      "paperId": "c5682c74ba6e183058eebf27bd458e3e35025597",
+      "externalIds": {
+        "DBLP": "journals/tsg/ChenG19",
+        "MAG": "2779918124",
+        "DOI": "10.1109/TSG.2017.2785811",
+        "CorpusId": 67872458
+      },
+      "url": "https://www.semanticscholar.org/paper/c5682c74ba6e183058eebf27bd458e3e35025597",
+      "title": "Distributed Secondary and Optimal Active Power Sharing Control for Islanded Microgrids With Communication Delays",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2019,
+      "referenceCount": 30,
+      "citationCount": 95,
+      "influentialCitationCount": 8,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2017.2785811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2017.2785811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The novel secondary voltage and frequency restoration, the optimal active power sharing, and the accurate reactive power sharing protocols are proposed in this paper and meet the plug-and-play feature of the future smart grid."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-03-01",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "2002-2014",
+        "volume": "10"
+      },
+      "authors": [
+        {
+          "authorId": "40492200",
+          "name": "Gang Chen"
+        },
+        {
+          "authorId": "49694616",
+          "name": "Zhijun Guo"
+        }
+      ],
+      "abstract": "As the communication delays in smart grid are considered, the novel secondary voltage and frequency restoration, the optimal active power sharing, and the accurate reactive power sharing protocols are proposed in this paper. The Lyapunov\u2013Krasovskii functions are used to analyze the stability of our proposed distributed secondary control schemes. Sensitivity analysis of time delays is also provided. Whether the communication delays exist or not, the control protocols always guarantee that the output voltage amplitude and frequency of each distributed generator synchronize to the reference values and maintain the optimal active power sharing and the accurate reactive power sharing properties. Moreover, our proposed control protocols are implemented through sparse communication networks and thus meet the plug-and-play feature of the future smart grid. Simulation results are provided to show the effectiveness of the proposed control protocols."
+    },
+    {
+      "paperId": "c4b9305898f8d633cb92aedced5b50855e382db6",
+      "externalIds": {
+        "DBLP": "journals/access/EspinaLBCMS20",
+        "MAG": "3093668837",
+        "DOI": "10.1109/ACCESS.2020.3032378",
+        "CorpusId": 226418902
+      },
+      "url": "https://www.semanticscholar.org/paper/c4b9305898f8d633cb92aedced5b50855e382db6",
+      "title": "Distributed Control Strategies for Microgrids: An Overview",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 317,
+      "citationCount": 253,
+      "influentialCitationCount": 11,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09233319.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2020.3032378?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2020.3032378, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An overview of the state-of-the-art of distributed cooperative control systems for isolated microgrids is presented and Protocols for cooperative control such as linear consensus, heterogeneous consensus and finite-time consensus are discussed and reviewed."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "193412-193448",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "1923412",
+          "name": "Enrique Espina"
+        },
+        {
+          "authorId": "35729672",
+          "name": "J. Llanos"
+        },
+        {
+          "authorId": "1416693095",
+          "name": "Claudio Burgos-Mellado"
+        },
+        {
+          "authorId": "1423082826",
+          "name": "R. C\u00e1rdenas-Dobson"
+        },
+        {
+          "authorId": "1992913226",
+          "name": "M. Mart\u00ednez-G\u00f3mez"
+        },
+        {
+          "authorId": "30739208",
+          "name": "D. \u015aaez"
+        }
+      ],
+      "abstract": "There is an increasing interest and research effort focused on the analysis, design and implementation of distributed control systems for AC, DC and hybrid AC / DC microgrids. It is claimed that distributed controllers have several advantages over centralised control schemes, e.g., improved reliability, flexibility, controllability, black start operation, robustness to failure in the communication links, etc. In this work, an overview of the state-of-the-art of distributed cooperative control systems for isolated microgrids is presented. Protocols for cooperative control such as linear consensus, heterogeneous consensus and finite-time consensus are discussed and reviewed in this paper. Distributed cooperative algorithms for primary and secondary control systems, including (among others issues) virtual impedance, synthetic inertia, droop-free control, stability analysis, imbalance sharing, total harmonic distortion regulation, are also reviewed and discussed in this survey. Tertiary control systems, e.g., for economic dispatch of electric energy, based on cooperative control approaches, are also addressed in this work. This review also highlights existing issues, research challenges and future trends in distributed cooperative control of microgrids and their future applications."
+    },
+    {
+      "paperId": "979578174f0d7628febf7cafc80c493ebbd50c91",
+      "externalIds": {
+        "DBLP": "journals/tsg/FerreiraBBTS21",
+        "MAG": "3137155001",
+        "DOI": "10.1109/TSG.2021.3065910",
+        "CorpusId": 234147479
+      },
+      "url": "https://www.semanticscholar.org/paper/979578174f0d7628febf7cafc80c493ebbd50c91",
+      "title": "Distributed Control Strategy for Low-Voltage Three-Phase Four-Wire Microgrids: Consensus Power-Based Control",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 16,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://iris.unitn.it/bitstream/11572/335678/5/final_version_Distributed%2bControl%2bStrategy%2bfor%2bLow-Voltage%2bThree-Phase%2bFour-Wire%2bMicrogrids%2bConsensus%2bPower-Based%2bControl_144dpi_75%25.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2021.3065910?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2021.3065910, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The complementary features of both strategies are combined herein in the consensus power-based control, based on a master/slave peer-to-peer integration using sparse communication, which provides all aforementioned benefits to the grid without any other technique."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2021-07-01",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "3215-3231",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "2090497077",
+          "name": "D. Ferreira"
+        },
+        {
+          "authorId": "35191307",
+          "name": "D. Brand\u00e3o"
+        },
+        {
+          "authorId": "1410149047",
+          "name": "Gilbert Bergna-Diaz"
+        },
+        {
+          "authorId": "2225847",
+          "name": "E. Tedeschi"
+        },
+        {
+          "authorId": "1754430",
+          "name": "S. Silva"
+        }
+      ],
+      "abstract": "Most of the distributed control strategies for grid-connected power converters are droop-based approaches composed of converters driven in voltage-control mode, based on local and shared data with adjacent units. They are usually combined with consensus protocols to deal with the trade-off between power sharing accuracy and voltage/frequency regulation. To achieve the desired results these control systems usually incorporate other techniques and need to take into account details of primary control dynamic. Additionally, power flow control and current unbalance compensation at the PCC are rarely addressed in such approaches. Contrariwise, the centralized control strategy power-based control has been successful in achieving these functionalities. It is oriented to a set point selection to the whole system, considering converters driven in current-control mode and a central converter in voltage-control mode. However, the dependence on centralized communication network in this method still requires improvement. Thereby, the complementary features of both strategies are combined herein in the consensus power-based control, based on a master/slave peer-to-peer integration using sparse communication. This model-free approach provides all aforementioned benefits to the grid without any other technique. Implementation complexity and costs are decreased, while the flexibility and reliability are enhanced. All these achievements are demonstrated by simulation results under different operational conditions and compared to previous works."
+    },
+    {
+      "paperId": "cefdb0e14fb4e5a63203f77c07033c95f6b15ba0",
+      "externalIds": {
+        "DOI": "10.1109/GridEdge61154.2025.10887446",
+        "CorpusId": 276511043
+      },
+      "url": "https://www.semanticscholar.org/paper/cefdb0e14fb4e5a63203f77c07033c95f6b15ba0",
+      "title": "Distributed Resilient Control of DC Microgrids Under Polynomially Unbounded FDI Attacks",
+      "venue": "2025 IEEE PES Grid Edge Technologies Conference & Exposition (Grid Edge)",
+      "year": 2025,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/GridEdge61154.2025.10887446?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GridEdge61154.2025.10887446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper introduces the secondary defense strategies that addresses these unbounded FDI attack signals, thereby enhancing the resilience of DC micro-grids in adversarial environments and guaranteeing voltage regulation and proportional load sharing under polynomially unbounded FDI attacks."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2025-01-21",
+      "journal": {
+        "name": "2025 IEEE PES Grid Edge Technologies Conference & Exposition (Grid Edge)",
+        "pages": "1-5"
+      },
+      "authors": [
+        {
+          "authorId": "2116641282",
+          "name": "Yi-Chih Wang"
+        },
+        {
+          "authorId": "2324789555",
+          "name": "Mohamadamin Rajabinezhad"
+        },
+        {
+          "authorId": "145256925",
+          "name": "O. Beg"
+        },
+        {
+          "authorId": "2249530649",
+          "name": "Shan Zuo"
+        }
+      ],
+      "abstract": "Cyber threats pose considerable challenges to mi-crogrids due to microgrids' reliance on advanced digital and communication technologies. Fast-growing unbounded False Data Injection (FDI) unbounded attacks injected in virtual control inputs lead to risks of rapid system instability and collapse. However, traditional noise-resilient or bounded-attack-resilient control protocols for DC microgrids are not capable of handling these unbounded attack signals. This paper introduces the secondary defense strategies that addresses these unbounded FDI attack signals, thereby enhancing the resilience of DC micro-grids in adversarial environments. Rigorous proofs, employing Lyapunov techniques, affirm that the proposed defense strategies guarantee voltage regulation and proportional load sharing under polynomially unbounded FDI attacks. Comparative case studies corroborate the enhanced resilience of the proposed attack-resilient control strategies."
+    },
+    {
+      "paperId": "b32252568cdee31b4bee318430f0710b8412202d",
+      "externalIds": {
+        "MAG": "2246425929",
+        "DBLP": "journals/corr/ZhangB15",
+        "ArXiv": "1504.04327",
+        "CorpusId": 17734469
+      },
+      "url": "https://www.semanticscholar.org/paper/b32252568cdee31b4bee318430f0710b8412202d",
+      "title": "Control and Communication Protocols that Enable Smart Building Microgrids",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 72,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/1504.04327, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new operating framework, called packetized direct load control (PDLC), is proposed based on the notion of quantization of energy demand, built on top of two communication protocols that carry either complete or binary information regarding the operation status of the appliances."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2015-04-16",
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/1504.04327"
+      },
+      "authors": [
+        {
+          "authorId": "152705021",
+          "name": "Bowen Zhang"
+        },
+        {
+          "authorId": "2508755",
+          "name": "J. Baillieul"
+        }
+      ],
+      "abstract": "Recent communication, computation, and technology advances coupled with climate change concerns have transformed the near future prospects of electricity transmission, and, more notably, distribution systems and microgrids. Distributed resources (wind and solar generation, combined heat and power) and flexible loads (storage, computing, EV, HVAC) make it imperative to increase investment and improve operational efficiency. Commercial and residential buildings, being the largest energy consumption group among flexible loads in microgrids, have the largest potential and flexibility to provide demand side management. Recent advances in networked systems and the anticipated breakthroughs of the Internet of Things will enable significant advances in demand response capabilities of intelligent load network of power-consuming devices such as HVAC components, water heaters, and buildings. In this paper, a new operating framework, called packetized direct load control (PDLC), is proposed based on the notion of quantization of energy demand. This control protocol is built on top of two communication protocols that carry either complete or binary information regarding the operation status of the appliances. We discuss the optimal demand side operation for both protocols and analytically derive the performance differences between the protocols. We propose an optimal reservation strategy for traditional and renewable energy for the PDLC in both day-ahead and real time markets. In the end we discuss the fundamental trade-off between achieving controllability and endowing flexibility."
+    },
+    {
+      "paperId": "68fb69cf73b9a5ed46589483ea772c197b88aace",
+      "externalIds": {
+        "MAG": "2995783208",
+        "DBLP": "journals/tsg/DehkordiM20",
+        "DOI": "10.1109/TSG.2019.2960205",
+        "CorpusId": 213506371
+      },
+      "url": "https://www.semanticscholar.org/paper/68fb69cf73b9a5ed46589483ea772c197b88aace",
+      "title": "Distributed Resilient Adaptive Control of Islanded Microgrids Under Sensor/Actuator Faults",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2020,
+      "referenceCount": 50,
+      "citationCount": 54,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2019.2960205?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2019.2960205, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that the proposed secondary control strategies based on the adaptive protocols can highly increase the reliability and resiliency of the MG system compared with the existing distributed resilient methods."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-05-01",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "2699-2708",
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "30717399",
+          "name": "N. M. Dehkordi"
+        },
+        {
+          "authorId": "1695943",
+          "name": "S. Z. Moussavi"
+        }
+      ],
+      "abstract": "To compensate for the voltage and frequency deviations caused by the droop control in islanded microgrids (MGs), employing an additional control level, called the secondary control, is necessary. Therefore, distributed control methods based on the sparse communication network, are recently employed in secondary control of MGs, because they are more reliable and flexible. However, traditional methods use the centralized communication network, which is neither economical nor efficient due to its large communication burden. Distributed control methods solve many challenges in the secondary layer of MGs, such as disturbances, uncertainties, unmodelled dynamics, noises, delays, attacks, and actuator faults. This paper proposes the novel resilient adaptive consensus-based voltage and frequency control protocols to compensate for the adverse effects of both sensor and actuator faults in communication network channels of islanded MGs. To this end, local adaptive sensor and actuator compensators eliminate the adverse effects of failures on sensors and actuators. The robust stability analysis based on the Lyapunov analysis is given to validate the results. Finally, the understudy islanded MG system is built in MATLAB/SimPowerSystems to verify the theoretical results. It is shown that the proposed secondary control strategies based on the adaptive protocols can highly increase the reliability and resiliency of the MG system compared with the existing distributed resilient methods."
+    },
+    {
+      "paperId": "efad9615a2ae16f704f4f14e0522e5f6b0541c48",
+      "externalIds": {
+        "MAG": "2802621841",
+        "DBLP": "journals/tsg/DehkordiBSG19",
+        "DOI": "10.1109/TSG.2018.2834951",
+        "CorpusId": 116422069
+      },
+      "url": "https://www.semanticscholar.org/paper/efad9615a2ae16f704f4f14e0522e5f6b0541c48",
+      "title": "Distributed Noise-Resilient Secondary Voltage and Frequency Control for Islanded Microgrids",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 157,
+      "influentialCitationCount": 5,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://vbn.aau.dk/files/293131074/Distributed_Noise_resilient_Secondary_Voltage_and_Frequency_Control_for_Islanded_Microgrids.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2018.2834951?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2018.2834951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Simulation results and comparison with previous work reveals the effectiveness of the proposed method in regulating microgrid voltage and frequency and providing accurate proportional real power sharing."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-07-01",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "3780-3790",
+        "volume": "10"
+      },
+      "authors": [
+        {
+          "authorId": "30717399",
+          "name": "N. M. Dehkordi"
+        },
+        {
+          "authorId": "35086252",
+          "name": "H. Baghaee"
+        },
+        {
+          "authorId": "1682047",
+          "name": "N. Sadati"
+        },
+        {
+          "authorId": "2255353261",
+          "name": "J. Guerrero"
+        }
+      ],
+      "abstract": "This paper proposes a novel distributed noise-resilient secondary control for voltage and frequency restoration of islanded microgrid inverter-based distributed generations (DGs) with an additive type of noise. The existing distributed methods commonly are designed as secondary control system systems that operate on the assumption of ideal communication networks among DGs. However, the channels are prone to stochastic noise, whereas each DG obtains noisy measurements of the states of its neighbors via environmental noises. The existing distributed noise-resilient methods, ignore a complete model of the system. In contrast, this paper proposes consensus protocols that take into account both the noisy measurements and a complete nonlinear model of the system, examines the mean-square average consensus for voltage and frequency restoration of islanded ac microgrids in an uncertain environment, and provides accurate proportional real power sharing. Our proposed consensus protocol contains two parts: the state feedback of the agent and the relative states of the DG and its neighboring DGs. Finally, simulation studies are carried out in MATLAB/SimPowerSystems to evaluate the performance of the control laws. Simulation results and comparison with previous work reveals the effectiveness of the proposed method in regulating microgrid voltage and frequency and providing accurate proportional real power sharing."
+    },
+    {
+      "paperId": "4fbf44b4c5a3f52d971d77c51474084e7ab40f29",
+      "externalIds": {
+        "MAG": "2898351015",
+        "DOI": "10.3390/DESIGNS2040041",
+        "CorpusId": 53576849
+      },
+      "url": "https://www.semanticscholar.org/paper/4fbf44b4c5a3f52d971d77c51474084e7ab40f29",
+      "title": "Developing Self-Similar Hybrid Control Architecture Based on SGAM-Based Methodology for Distributed Microgrids",
+      "venue": "Designs",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2411-9660/2/4/41/pdf?version=1540284464",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/DESIGNS2040041?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/DESIGNS2040041, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work proposes a distributed, hybrid control architecture suited for microgrid environments, where entities are geographically distant and need to operate in a cohesive manner."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2018-10-23",
+      "journal": {
+        "name": "Designs"
+      },
+      "authors": [
+        {
+          "authorId": "2130387843",
+          "name": "P. Gupta"
+        },
+        {
+          "authorId": "2632919",
+          "name": "Markus Duchon"
+        }
+      ],
+      "abstract": "Cyber-Physical Systems (CPS) are the complex systems that control and coordinate physical infrastructures, which may be geographically apart, via the use of Information and Communication Technology (ICT). One such application of CPS is smart microgrids. Microgrids comprise both power consuming and power producing infrastructure and are capable of operating in grid connected and disconnected modes. Due to the presence of heterogeneous smart devices communicating over multiple communication protocols in a distributed environment, a system architecture is required. The objective of this paper is to approach the microgrid architecture from the software and systems\u2019 design perspective. The architecture should be flexible to support various multiple communication protocols and is able to integrate various hardware technologies. It should also be modular and scalable to support various functionalities such as island mode operations, energy efficient operations, energy trading, predictive maintenance, etc. These requirements are the basis for designing the software architecture for the smart microgrids that should be able to manage not only electrical but all energy related systems. In this work, we propose a distributed, hybrid control architecture suited for microgrid environments, where entities are geographically distant and need to operate in a cohesive manner. The proposed system architecture supports various design philosophies such as component-based design, hierarchical composition of components, peer-to-peer design, distributed decision-making and controlling as well as plug-and-play during runtime. A unique capability of the proposed system architecture is the self-similarity of the components for the distributed microgrids. The benefit of the approach is that it supports these design philosophies at all the levels in the hierarchy in contrast to a typical centralized architectures where decisions are taken only at the global level. The proposed architecture is applied to a real system of 13 residential buildings in a low-voltage distribution network. The required implementation and deployment details for monitoring and controlling 13 residential buildings are also discussed in this work."
+    },
+    {
+      "paperId": "d6aed1824585eacc569cb74a97d4df9260b5f233",
+      "externalIds": {
+        "DBLP": "journals/tcst/TuYDELKL24",
+        "DOI": "10.1109/TCST.2024.3378989",
+        "CorpusId": 268840761
+      },
+      "url": "https://www.semanticscholar.org/paper/d6aed1824585eacc569cb74a97d4df9260b5f233",
+      "title": "An IoT-Based Framework for Distributed Generic Microgrid Controllers",
+      "venue": "IEEE Transactions on Control Systems Technology",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCST.2024.3378989?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCST.2024.3378989, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A framework for distributed generic MG controllers with the support of Internet of Things (IoT) technologies is proposed and designed to support all use cases of an MG, including grid-connected and islanded operations, planned/unplanned islanding, and reconnecting."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-09-01",
+      "journal": {
+        "name": "IEEE Transactions on Control Systems Technology",
+        "pages": "1692-1705",
+        "volume": "32"
+      },
+      "authors": [
+        {
+          "authorId": "144963051",
+          "name": "H. Tu"
+        },
+        {
+          "authorId": "46493053",
+          "name": "Hui Yu"
+        },
+        {
+          "authorId": "8798519",
+          "name": "Yuhua Du"
+        },
+        {
+          "authorId": "39731511",
+          "name": "Scott Eisele"
+        },
+        {
+          "authorId": "2152840588",
+          "name": "Xiaonan Lu"
+        },
+        {
+          "authorId": "2286989849",
+          "name": "Gabor Karsai"
+        },
+        {
+          "authorId": "1956821",
+          "name": "S. Lukic"
+        }
+      ],
+      "abstract": "Microgrids (MGs) can effectively integrate distributed energy resources (DERs) and support the resilient functioning of the future power grid. In the literature, distributed MG control algorithms based on consensus protocols are proposed that distribute the computation and communication tasks to computational nodes at each DER, thus naturally supporting \u201cplug-and-play\u201d integration and improving resilience. Shifting to the distributed control paradigm requires a complete rethink and redesign of the current MG controller framework and implementation. In this article, we propose a framework for distributed generic MG controllers with the support of Internet of Things (IoT) technologies. With the proposed framework, distributed generic MG controllers can be designed to support all use cases of an MG, including grid-connected and islanded operations, planned/unplanned islanding, and reconnecting. We implement the proposed framework using a novel open-source platform, called Resilient Information Architecture Platform for the Smart Grid (RIAPS) and demonstrate its performance using hardware-in-the-loop (HIL) tests."
+    },
+    {
+      "paperId": "145edc1be3419ec1210859363bb0090a8894f993",
+      "externalIds": {
+        "MAG": "2558375512",
+        "DOI": "10.1109/TPWRS.2016.2634085",
+        "CorpusId": 38773706
+      },
+      "url": "https://www.semanticscholar.org/paper/145edc1be3419ec1210859363bb0090a8894f993",
+      "title": "Distributed Robust Finite-Time Secondary Voltage and Frequency Control of Islanded Microgrids",
+      "venue": "IEEE Transactions on Power Systems",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 227,
+      "influentialCitationCount": 20,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TPWRS.2016.2634085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TPWRS.2016.2634085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2017-09-01",
+      "journal": {
+        "name": "IEEE Transactions on Power Systems",
+        "pages": "3648-3659",
+        "volume": "32"
+      },
+      "authors": [
+        {
+          "authorId": "30717399",
+          "name": "N. M. Dehkordi"
+        },
+        {
+          "authorId": "1682047",
+          "name": "N. Sadati"
+        },
+        {
+          "authorId": "145770317",
+          "name": "M. Hamzeh"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "42be0bdfe1b083f6cbd6d8292d1d7e1512faf0cd",
+      "externalIds": {
+        "MAG": "2528267257",
+        "DOI": "10.1109/IRANIANCEE.2016.7585710",
+        "CorpusId": 35269983
+      },
+      "url": "https://www.semanticscholar.org/paper/42be0bdfe1b083f6cbd6d8292d1d7e1512faf0cd",
+      "title": "A fuzzy inference model for distributed secondary control of islanded microgrids",
+      "venue": "2016 24th Iranian Conference on Electrical Engineering (ICEE)",
+      "year": 2016,
+      "referenceCount": 14,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IRANIANCEE.2016.7585710?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IRANIANCEE.2016.7585710, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A fuzzy logic-based distributed secondary control is introduced for islanded microgrids Inspired by techniques from cooperative control, the presented controllers use local information and neighbor communication to perform secondary control actions."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2016-05-10",
+      "journal": {
+        "name": "2016 24th Iranian Conference on Electrical Engineering (ICEE)",
+        "pages": "1233-1238"
+      },
+      "authors": [
+        {
+          "authorId": "5307969",
+          "name": "S. Ahmadi"
+        },
+        {
+          "authorId": "2343241",
+          "name": "D. Nazarpour"
+        },
+        {
+          "authorId": "2474018",
+          "name": "Q. Shafiee"
+        },
+        {
+          "authorId": "1739200",
+          "name": "H. Bevrani"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "051853e79d6ebe49601348536ca4b14c5279cc97",
+      "externalIds": {
+        "MAG": "1552038849",
+        "DBLP": "journals/tsg/KounevTYGR15",
+        "DOI": "10.1109/TSG.2015.2424160",
+        "CorpusId": 8976523
+      },
+      "url": "https://www.semanticscholar.org/paper/051853e79d6ebe49601348536ca4b14c5279cc97",
+      "title": "A Secure Communication Architecture for Distributed Microgrid Control",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2015,
+      "referenceCount": 34,
+      "citationCount": 58,
+      "influentialCitationCount": 6,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSG.2015.2424160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSG.2015.2424160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A security model, including network, data, and attack models, is defined and a security protocol to address the real-time communication needs of microgrids is proposed, which shows to be superior to existing protocols."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2015-05-11",
+      "journal": {
+        "name": "IEEE Transactions on Smart Grid",
+        "pages": "2484-2492",
+        "volume": "6"
+      },
+      "authors": [
+        {
+          "authorId": "1960373",
+          "name": "Velin Kounev"
+        },
+        {
+          "authorId": "144705098",
+          "name": "D. Tipper"
+        },
+        {
+          "authorId": "2155148",
+          "name": "A. Yavuz"
+        },
+        {
+          "authorId": "2179967",
+          "name": "B. Grainger"
+        },
+        {
+          "authorId": "33652473",
+          "name": "G. Reed"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -28,11 +28,10 @@
     - [x] 1.4.2 Define key milestones
     - [x] 1.4.3 Allocate buffer time
   - [x] 1.5 Group Coordination Setup
-    - [x] 1.5.1 Establish regular meeting schedule
-    - [x] 1.5.2 Define communication protocols
-    - [x] 1.5.3 Create progress tracking system
-    - [x] 1.5.4 Set up feedback mechanisms
-    - [x] 1.5.5 Plan for conflict resolution
+    - [x] 1.5.1 Define communication protocols
+    - [x] 1.5.2 Create progress tracking system
+    - [x] 1.5.3 Set up feedback mechanisms
+    - [x] 1.5.4 Plan for conflict resolution
   - [x] 1.6 Document Key Mentor Research Expertise
 
 
@@ -115,27 +114,35 @@
       - [x] 4.1.1.1 Develop Elicit.com search strategy
       - [x] 4.1.1.2 Document search results
       - [x] 4.1.1.3 Export relevant papers information
-      - [x] 4.1.1.4 Implement Elicit.com papers storage
+      - [x] 4.1.1.4 Fetch Elicit.com papers
+      - [x] 4.1.1.5 Convert Elicit.com papers to markdown
     - [x] 4.1.2 Semantic Scholar API Integration
       - [x] 4.1.2.1 Set up API access
       - [x] 4.1.2.2 Develop search script
       - [x] 4.1.2.3 Export relevant papers information
       - [x] 4.1.2.4 Iteration N (if needed)
-    - [ ] 4.1.3 Develop Relevance Criteria
-    - [ ] 4.1.4 Test Relevance Criteria
-    - [ ] 4.1.5 Implement Semantic Scholar API papers storage
+    - [x] 4.1.3 Develop Relevance Criteria
+    - [x] 4.1.4 Test Relevance Criteria
+    - [x] 4.1.5 Apply relevance criteria to Semantic Scholar API papers
+    - [x] 4.1.6 Fetch relevant Semantic Scholar API papers
+    - [x] 4.1.7 Iterate Academic Search Script
+      - [x] 4.1.7.1 Optimize PDF Discovery
+      - [x] 4.1.7.2 Implement Relevance-Based Dynamic Search Strategy (CORE API)
+      - [x] 4.1.7.3 Fetch relevant CORE API papers
+      - [x] 4.1.7.4 Refined focused run for Angle 6: Human factors, communication gaps, and AI Agent Protocol opportunities # Completed, but 0 papers met download threshold
+    - [x] 4.1.8 Industry search for Angle 6
+      - [x] 4.1.8.1 Define strategy and scope for industry search
+      - [x] 4.1.8.2 Identify key industry search channels and sources
+      - [x] 4.1.8.3 Develop Elicit.com search strategy
+      - [x] 4.1.8.4 Export relevant papers information
+      - [x] 4.1.8.5 Convert Elicit.com papers to markdown
+      - [x] 4.1.8.6 Analyze and cross-referencing
   - [ ] 4.2 Focused Literature Analysis
     - [ ] 4.2.1 Literature Review
-      - [ ] 4.2.1.1 Review papers markdowns from Elicit.com
-      - [ ] 4.2.1.2 Review papers markdowns from Semantic Scholar API
-      - [ ] 4.2.1.3 Apply relevance criteria
-      - [ ] 4.2.1.4 Document key findings and insights
-      - [ ] 4.2.1.5 Identify patterns and trends across papers
-    - [ ] 4.2.2 Validate theoretical framework
-      - [ ] 4.2.2.1 Assess concept validity
-      - [ ] 4.2.2.2 Evaluate relationship assumptions
-      - [ ] 4.2.2.3 Document validation findings
-      - [ ] 4.2.2.4 Update framework as needed
+      - [ ] 4.2.1.1 Identify patterns and trends across papers 
+      - [ ] 4.2.1.2 Document key findings and insights
+    - [ ] 4.2.2 Update theoretical framework (3.6.1, 3.6.2)
+    - [ ] 4.2.3 Create visual representation (3.6.3)
   - [ ] 4.3 Research Gap Analysis
     - [ ] 4.3.1 Analyze current research state
     - [ ] 4.3.2 Identify theoretical gaps
@@ -147,11 +154,6 @@
     - [ ] 4.4.2 Develop problem context
     - [ ] 4.4.3 Create targeted literature review
     - [ ] 4.4.4 Link to research gaps
-  - [ ] 4.5 FA1 Preparation (Deliverable)
-    - [ ] 4.5.1 Draft background section
-    - [ ] 4.5.2 Prepare research questions
-    - [ ] 4.5.3 Define scope/limitations
-    - [ ] 4.5.4 Review against requirements
 
 - [ ] 5.0 Methodology Development (ILO3)
   - [ ] 5.1 Methodology Research
@@ -177,10 +179,6 @@
     - [ ] 5.4.3 Establish quality control
     - [ ] 5.4.4 Plan pilot testing
     - [ ] 5.4.5 Create workflow diagram
-  - [ ] 5.5 FA2 Preparation (Deliverable)
-    - [ ] 5.5.1 Rename fa1 to fa2
-    - [ ] 5.5.2 Document methodology choice
-    - [ ] 5.5.3 Address uncertainties
 
 - [ ] 6.0 Ethics and Sustainability Integration (ILO4)
   - [ ] 6.1 Ethics Assessment

@@ -1,0 +1,1740 @@
+{
+  "total": 3470,
+  "offset": 0,
+  "next": 25,
+  "data": [
+    {
+      "paperId": "93a6ae78bb38128e1e54d89ea5020a0ba2182075",
+      "externalIds": {
+        "DOI": "10.3390/en16134880",
+        "CorpusId": 259569033
+      },
+      "url": "https://www.semanticscholar.org/paper/93a6ae78bb38128e1e54d89ea5020a0ba2182075",
+      "title": "Spatial Decision-Making under Uncertainties for Supporting the Prospection of Sites for Hybrid Renewable Energy Generation Systems",
+      "venue": "Energies",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/16/13/4880/pdf?version=1687435233",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3390/en16134880?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en16134880, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-06-22",
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "108631138",
+          "name": "L\u00edvia Maria Leite Da Silva"
+        },
+        {
+          "authorId": "143694253",
+          "name": "P. Ekel"
+        },
+        {
+          "authorId": "2064766431",
+          "name": "D. Vieira"
+        },
+        {
+          "authorId": "52135125",
+          "name": "M. Lib\u00f3rio"
+        },
+        {
+          "authorId": "1402400733",
+          "name": "M. D\u2019Angelo"
+        }
+      ],
+      "abstract": "This research aims at developing methodological tools for decision makers (DMs) to determine the locations for generating sites for hybrid renewable energy systems, considering complementarity characteristics of the corresponding sources and their seasonal availability. The decision process on new sites starts using Geographic Information Systems for modeling relevant spatial criteria. The problem solution is associated with using the Slide-OWA operator, which permits one to control the inter-criteria compensation levels by adjusting pessimism and optimism parameters. After constructing multicriteria estimates for generating sites, the general scheme of multi-objective decision-making is applied in conditions of uncertainty since these estimates are subject to significant levels of uncertainty. Such a scheme is based on the possibilistic approach, which involves the construction of payoff matrices. At this point, it is possible that some alternatives cannot be distinguished based only on the criteria considered so far, or the DM may want to evaluate the alternatives from the point of view of additional considerations. For this purpose, the framework of multi-attribute decision-making models is applied by employing methods for preference modeling in a fuzzy environment. The present work results are applied to a case study of the Minas Gerais State in Brazil. These results play a strategic role for governments and investors in their decisions while considering the ability to meet a wide range of criteria."
+    },
+    {
+      "paperId": "0635272e4a0c199d56bd1f35cdb0f1b040c7589f",
+      "externalIds": {
+        "MAG": "3195162472",
+        "DOI": "10.1080/14735903.2021.1964789",
+        "CorpusId": 238655321
+      },
+      "url": "https://www.semanticscholar.org/paper/0635272e4a0c199d56bd1f35cdb0f1b040c7589f",
+      "title": "Hand weeding tools in vegetable production systems: an agronomic, ergonomic and economic evaluation",
+      "venue": "International Journal of Agricultural Sustainability",
+      "year": 2021,
+      "referenceCount": 66,
+      "citationCount": 13,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/14735903.2021.1964789?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/14735903.2021.1964789, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Business"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Business",
+          "source": "external"
+        },
+        {
+          "category": "Agricultural and Food Sciences",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Economics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2021-08-11",
+      "journal": {
+        "name": "International Journal of Agricultural Sustainability",
+        "pages": "659 - 674",
+        "volume": "20"
+      },
+      "authors": [
+        {
+          "authorId": "144152363",
+          "name": "S. Tiwari"
+        },
+        {
+          "authorId": "46804221",
+          "name": "B. Sindel"
+        },
+        {
+          "authorId": "83180290",
+          "name": "N. Smart"
+        },
+        {
+          "authorId": "2269187898",
+          "name": "M. Coleman"
+        },
+        {
+          "authorId": "2059744507",
+          "name": "C. Fyfe"
+        },
+        {
+          "authorId": "2071380482",
+          "name": "C. Lawlor"
+        },
+        {
+          "authorId": "82793180",
+          "name": "B. Vo"
+        },
+        {
+          "authorId": "49332206",
+          "name": "P. Kristiansen"
+        }
+      ],
+      "abstract": "ABSTRACT Hand weeding is a common method of weed control on vegetable farms, especially in developing countries. It requires considerable physical labour and is a significant economic burden, yet comparative studies on hand weeding tools are rare. We evaluated the agronomic, ergonomic and economic performance of four hand weeding tools (and unweeded control) at two sites and two weed ages. Agronomic efficiency was evaluated based on the reduction in weed load from pre-weeding to post-weeding, economic efficiency based on the time taken to weed, and ergonomic efficiency based on heart rate and energy expenditure of the tool operator. Among the tools, the chipping hoe provided higher weed control efficiency than the rotating hoe and combined tool, and showed a lower average heart rate and workload than the combined tool. Ergonomic performance was superior in loam soil compared with clay. The light-weight chipping hoe provided better weed control than heavier tools while also reducing the workload of the weeder. Tools did not differ in economic performance, but the cost was 50% higher with late weeding. Viable hand weeding strategies require the optimization of tools for ergonomic performance and careful attention to timing of operations, thus benefiting economic performance. GRAPHICAL ABSTRACT"
+    },
+    {
+      "paperId": "94a1995a514aa7e589378dbc62a2908f738ce10c",
+      "externalIds": {
+        "MAG": "2965955454",
+        "DOI": "10.1109/EEEIC.2019.8783584",
+        "CorpusId": 199439220
+      },
+      "url": "https://www.semanticscholar.org/paper/94a1995a514aa7e589378dbc62a2908f738ce10c",
+      "title": "Innovative Tools for Demand Response Strategies: a Real-Life Experience",
+      "venue": "2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)",
+      "year": 2019,
+      "referenceCount": 15,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/EEEIC.2019.8783584?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EEEIC.2019.8783584, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A real life Demand Response campaign carried out by the local Distribution System Operator to reduce the Reverse Power Flow caused by the increasing amount of energy produced locally by distributed generators from not programmable energy sources is presented."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2019-06-10",
+      "journal": {
+        "name": "2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "9332540",
+          "name": "T. Bragatto"
+        },
+        {
+          "authorId": "3493352",
+          "name": "M. Cresta"
+        },
+        {
+          "authorId": "3039879",
+          "name": "Costas Kalogiros"
+        },
+        {
+          "authorId": "3493326",
+          "name": "M. Paulucci"
+        },
+        {
+          "authorId": "2061749044",
+          "name": "F. Santori"
+        },
+        {
+          "authorId": "2060291",
+          "name": "Mihai S\u0103nduleac"
+        },
+        {
+          "authorId": "9119044",
+          "name": "V. S. Di Carlo"
+        }
+      ],
+      "abstract": "The increasing amount of power plants connected to the distribution networks is pointing out issues about energy balances of local communities as well as observability and management of the energy flows by the Distribution System Operator. This paper presents a real life Demand Response campaign carried out by the local Distribution System Operator to reduce the Reverse Power Flow caused by the increasing amount of energy produced locally by distributed generators from not programmable energy sources. Innovative near-real time smart meters and advanced software developed under the Nobel GRID and the WiseGRID projects were used for the trial. Furthermore, these findings and actual data have been used for running simulations at the primary substation level for a complete year. The encouraging results obtained, especially when large energy consumers are involved, have shown the effectiveness of these tools and how they can enable the Distribution System Operator to use Demand Response strategies for increasing grid efficiency and control."
+    },
+    {
+      "paperId": "f5551f23d33c40c09505ee0d0e983b05d451b618",
+      "externalIds": {
+        "MAG": "1988337176",
+        "DOI": "10.1109/SUSTECH.2014.7046217",
+        "CorpusId": 24865205
+      },
+      "url": "https://www.semanticscholar.org/paper/f5551f23d33c40c09505ee0d0e983b05d451b618",
+      "title": "Smart grid dispatch optimization control techniques for transactive energy systems",
+      "venue": "IEEE Conference on Technologies for Sustainability",
+      "year": 2014,
+      "referenceCount": 7,
+      "citationCount": 13,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SUSTECH.2014.7046217?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SUSTECH.2014.7046217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A scalable software architecture is recommended which may function as a smart-grid system controller where separate program optimization methods may be applied in parallel, enabling results to be used in real-time for a risk based assessment of competing operations strategies for an interconnect, control area or micro-grid."
+      },
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2014-07-24",
+      "journal": {
+        "name": "2014 IEEE Conference on Technologies for Sustainability (SusTech)",
+        "pages": "51-54"
+      },
+      "authors": [
+        {
+          "authorId": "46813765",
+          "name": "Shawn Chandler"
+        },
+        {
+          "authorId": "31368848",
+          "name": "John H. Rinaldi"
+        },
+        {
+          "authorId": "26598738",
+          "name": "R. Bass"
+        },
+        {
+          "authorId": "31482124",
+          "name": "Larry Beckett"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "f17fabd53bccc1ee7360dbb72e050b4a347d4304",
+      "externalIds": {
+        "DBLP": "journals/air/HimeurEFMPRBA23",
+        "PubMedCentral": "9568938",
+        "DOI": "10.1007/s10462-022-10286-2",
+        "CorpusId": 252950675,
+        "PubMed": "36268476"
+      },
+      "url": "https://www.semanticscholar.org/paper/f17fabd53bccc1ee7360dbb72e050b4a347d4304",
+      "title": "AI-big data analytics for building automation and management systems: a survey, actual challenges and future perspectives",
+      "venue": "Artificial Intelligence Review",
+      "year": 2022,
+      "referenceCount": 407,
+      "citationCount": 259,
+      "influentialCitationCount": 5,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10286-2.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9568938, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A comprehensive systematic survey on using AI-big data analytics in BAMSs covers various AI-based tasks, e.g. load forecasting, water management, indoor environmental quality monitoring, occupancy detection, etc."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2022-10-15",
+      "journal": {
+        "name": "Artificial Intelligence Review",
+        "pages": "4929 - 5021",
+        "volume": "56"
+      },
+      "authors": [
+        {
+          "authorId": "2130461741",
+          "name": "Yassine Himeur"
+        },
+        {
+          "authorId": "32424055",
+          "name": "Mariam Elnour"
+        },
+        {
+          "authorId": "47647355",
+          "name": "F. Fadli"
+        },
+        {
+          "authorId": "1919083",
+          "name": "N. Meskin"
+        },
+        {
+          "authorId": "48585368",
+          "name": "I. Petri"
+        },
+        {
+          "authorId": "1757067",
+          "name": "Y. Rezgui"
+        },
+        {
+          "authorId": "3090801",
+          "name": "F. Bensaali"
+        },
+        {
+          "authorId": "144730155",
+          "name": "A. Amira"
+        }
+      ],
+      "abstract": "In theory, building automation and management systems (BAMSs) can provide all the components and functionalities required for analyzing and operating buildings. However, in reality, these systems can only ensure the control of heating ventilation and air conditioning system systems. Therefore, many other tasks are left to the operator, e.g. evaluating buildings\u2019 performance, detecting abnormal energy consumption, identifying the changes needed to improve efficiency, ensuring the security and privacy of end-users, etc. To that end, there has been a movement for developing artificial intelligence (AI) big data analytic tools as they offer various new and tailor-made solutions that are incredibly appropriate for practical buildings\u2019 management. Typically, they can help the operator in (i) analyzing the tons of connected equipment data; and; (ii) making intelligent, efficient, and on-time decisions to improve the buildings\u2019 performance. This paper presents a comprehensive systematic survey on using AI-big data analytics in BAMSs. It covers various AI-based tasks, e.g. load forecasting, water management, indoor environmental quality monitoring, occupancy detection, etc. The first part of this paper adopts a well-designed taxonomy to overview existing frameworks. A comprehensive review is conducted about different aspects, including the learning process, building environment, computing platforms, and application scenario. Moving on, a critical discussion is performed to identify current challenges. The second part aims at providing the reader with insights into the real-world application of AI-big data analytics. Thus, three case studies that demonstrate the use of AI-big data analytics in BAMSs are presented, focusing on energy anomaly detection in residential and office buildings and energy and performance optimization in sports facilities. Lastly, future directions and valuable recommendations are identified to improve the performance and reliability of BAMSs in intelligent buildings."
+    },
+    {
+      "paperId": "8b0476f8796a374f603b6ff410d4c62475f0932f",
+      "externalIds": {
+        "MAG": "2058655725",
+        "DOI": "10.1115/DETC2009-87375",
+        "CorpusId": 120836618
+      },
+      "url": "https://www.semanticscholar.org/paper/8b0476f8796a374f603b6ff410d4c62475f0932f",
+      "title": "Application of the Energy Operator Separation Algorithm (EOSA) for the Instantaneous Amplitude and Frequency Calculation of Nonlinear Dynamic Systems Response",
+      "venue": "",
+      "year": 2009,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1115/DETC2009-87375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/DETC2009-87375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Mathematics",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Physics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "pages": "391-400",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2446011",
+          "name": "K. Gryllias"
+        },
+        {
+          "authorId": "144426560",
+          "name": "I. Antoniadis"
+        }
+      ],
+      "abstract": "A number of non-linear dynamic responses require analysis with an increased resolution in their time domain representation, especially the ones presenting abrupt changes, such as those caused by the introduction of cracks, gaps, and slip. Typical technological applications include bearings or gears with localized defects. Since the time resolution of well-known time-frequency analysis tools (such as Wavelet-Transform) presents limitations, the Energy Operator Separation Algorithm (EOSA) is considered. The algorithm is based on the Teager-Kaiser nonlinear differential energy operator and leads to the calculation of the instantaneous amplitude and frequency of the response. Compared to the Hilbert transform, it leads at least to the same estimation errors, but in addition presents smaller computational complexity and faster adaptation, due to its instantaneous nature. The EOSA is applied on responses of a nonlinear Van der-Pol oscillator, on signals simulating the dynamic response of defective rolling element bearings and on three signals measured at industrial installations, resulting from defective bearings. In all cases the algorithm leads to the efficient calculation, mainly of the instantaneous amplitude of the signals. However, certain improvements are necessary in order to increase the smoothness, mainly of the resulting instantaneous frequency time waveforms.Copyright \u00a9 2009 by ASME"
+    },
+    {
+      "paperId": "70f95ddcc2368582aa3e9987f94d967355af7330",
+      "externalIds": {
+        "DOI": "10.1109/IGESSC55810.2022.9955326",
+        "CorpusId": 253804919
+      },
+      "url": "https://www.semanticscholar.org/paper/70f95ddcc2368582aa3e9987f94d967355af7330",
+      "title": "Challenges of Vehicle-Grid Integration as Modern Distributed Energy Implementation",
+      "venue": "2022 IEEE Green Energy and Smart System Systems(IGESSC)",
+      "year": 2022,
+      "referenceCount": 15,
+      "citationCount": 2,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGESSC55810.2022.9955326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGESSC55810.2022.9955326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2022-11-07",
+      "journal": {
+        "name": "2022 IEEE Green Energy and Smart System Systems(IGESSC)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2979366",
+          "name": "Ching-Yen Chung"
+        },
+        {
+          "authorId": "47424252",
+          "name": "Yingqi Xiong"
+        },
+        {
+          "authorId": "144405026",
+          "name": "E. Kim"
+        },
+        {
+          "authorId": "2147915",
+          "name": "Charlie Qiu"
+        },
+        {
+          "authorId": "3011328",
+          "name": "C. Chu"
+        },
+        {
+          "authorId": "1769614",
+          "name": "R. Gadh"
+        }
+      ],
+      "abstract": "Unpredictable and unmanaged Electric Vehicle (EV) charging together with intermittent solar generation remains a challenge in modern distributed energy implementation. Without the technology for harnessing EV charging to the benefit of the grid, there will be no market for grid services and little impact for aggregators. This paper provides systematic approaches for Vehicle-Grid Integrated microgrid planning. Several tools from governments and commercial simulation packages including Interruption Cost Estimate (ICE) Calculator, PVWatts, Storage Value Estimation Tool (StorageVETTM), Electrical Transient Analyzer Program (ETAP), and Real Time Digital Simulator (RTDS), are used to verify the design requirements and simulate the electric load changes using smart charging and Vehicle-to-Grid (V2G). The simulation results showed that load shaping by smart charging and V2G fattened undesirable ramps and halved the system\u2019s peak load, which can be translated to significant cost savings for the grid operator."
+    },
+    {
+      "paperId": "c67f01f982f940bb9f0edb0f99b6c7a6f497612b",
+      "externalIds": {
+        "MAG": "2940508872",
+        "DOI": "10.1002/wene.76",
+        "CorpusId": 109454924
+      },
+      "url": "https://www.semanticscholar.org/paper/c67f01f982f940bb9f0edb0f99b6c7a6f497612b",
+      "title": "Handling renewable energy variability and uncertainty in power systems operation",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 138,
+      "citationCount": 85,
+      "influentialCitationCount": 3,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wene.76?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wene.76, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Environmental Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2014-03-01",
+      "journal": {
+        "name": "Wiley Interdisciplinary Reviews: Energy and Environment",
+        "volume": "3"
+      },
+      "authors": [
+        {
+          "authorId": "34730881",
+          "name": "R. Bessa"
+        },
+        {
+          "authorId": "144757884",
+          "name": "C. Moreira"
+        },
+        {
+          "authorId": "153865933",
+          "name": "B. Silva"
+        },
+        {
+          "authorId": "144793679",
+          "name": "M. Matos"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9a1cf1d137e80d04d3706e710ea9d041caa7b05a",
+      "externalIds": {
+        "MAG": "2093239537",
+        "DOI": "10.1109/ENERGYCON.2012.6348231",
+        "CorpusId": 30477610
+      },
+      "url": "https://www.semanticscholar.org/paper/9a1cf1d137e80d04d3706e710ea9d041caa7b05a",
+      "title": "Forecasting and validation tools for distribution networks with Active Demand",
+      "venue": "IEEE International Energy Conference",
+      "year": 2012,
+      "referenceCount": 7,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ENERGYCON.2012.6348231?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ENERGYCON.2012.6348231, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2012-11-12",
+      "journal": {
+        "name": "2012 IEEE International Energy Conference and Exhibition (ENERGYCON)",
+        "pages": "641-646"
+      },
+      "authors": [
+        {
+          "authorId": "93163010",
+          "name": "S. Paoletti"
+        },
+        {
+          "authorId": "1683292",
+          "name": "A. Vicino"
+        },
+        {
+          "authorId": "14539321",
+          "name": "M. Zima"
+        },
+        {
+          "authorId": "120837382",
+          "name": "A. Timbus"
+        },
+        {
+          "authorId": "33822072",
+          "name": "A. Quadrelli"
+        },
+        {
+          "authorId": "49531762",
+          "name": "G. Petretto"
+        },
+        {
+          "authorId": "35697799",
+          "name": "S. Scalari"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "98ed6ab03e5c7c6bccf8658a19c992364ed5aefc",
+      "externalIds": {
+        "DOI": "10.1109/MPE.2023.3341794",
+        "CorpusId": 267823152
+      },
+      "url": "https://www.semanticscholar.org/paper/98ed6ab03e5c7c6bccf8658a19c992364ed5aefc",
+      "title": "High Inverter-Based Resource Integration: The Experience of Five System Operators",
+      "venue": "IEEE Power and Energy Magazine",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 8,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/MPE.2023.3341794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MPE.2023.3341794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-03-01",
+      "journal": {
+        "name": "IEEE Power and Energy Magazine",
+        "pages": "78-88",
+        "volume": "22"
+      },
+      "authors": [
+        {
+          "authorId": "2283560058",
+          "name": "Nilesh Modi"
+        },
+        {
+          "authorId": "2285492878",
+          "name": "Marta Val Escudero"
+        },
+        {
+          "authorId": "2285494951",
+          "name": "Ken Aramaki"
+        },
+        {
+          "authorId": "2285678320",
+          "name": "Xiaoyao Zhou"
+        },
+        {
+          "authorId": "2285477567",
+          "name": "Pauli Partinen"
+        }
+      ],
+      "abstract": "Power system transformation brings a number of challenges, such as interconnecting inverter-based resources (IBRs) and assessing their impact on system security and reliability, ensuring that appropriate and fit-for-purpose tools and processes are applied while interconnecting these resources, building up additional infrastructure, such as long-distance transmission lines. Many power systems around the world are facing similar challenges. This article outlines the experience of five system operators that are already undergoing this transition, namely, Australian Energy Market Operator (AEMO), Australia; EirGrid, Ireland; Hawaiian Electric, Hawaii, USA; National Grid (NG) Electricity System Operator (ESO), United Kingdom; and Fingrid, Finland. Although the experiences presented in this article are for country-specific power systems, the experiences can be applied to other power systems."
+    },
+    {
+      "paperId": "94614c8c95b6ed97c29393473572a59c64f9d23e",
+      "externalIds": {
+        "DBLP": "journals/access/SilvaEVS20",
+        "MAG": "3045752706",
+        "DOI": "10.1109/access.2020.3012098",
+        "CorpusId": 221132009
+      },
+      "url": "https://www.semanticscholar.org/paper/94614c8c95b6ed97c29393473572a59c64f9d23e",
+      "title": "Multiattribute Spatial Decision-Making for Qualitative Information Processing as Applied to the Renewable Energy Generating Sites Prospection",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09149572.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/access.2020.3012098?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/access.2020.3012098, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The objective of this research is to develop methodological tools to consider qualitative information in solving spatial problems with their particular application to the determination of generating sites for renewable energy systems."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-07-27",
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "137745-137757",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "108631138",
+          "name": "L\u00edvia Maria Leite Da Silva"
+        },
+        {
+          "authorId": "143694255",
+          "name": "P. Ekel"
+        },
+        {
+          "authorId": "2064766431",
+          "name": "D. Vieira"
+        },
+        {
+          "authorId": "35247592",
+          "name": "G. L. Soares"
+        }
+      ],
+      "abstract": "The objective of this research is to develop methodological tools to consider qualitative information in solving spatial problems with their particular application to the determination of generating sites for renewable energy systems. This locational problem has a complex nature and its solution has to be capable to take into account a wide range of considerations, as well as evaluations of a qualitative character. In this sense, the proposed process of elaborating decisions starts with studies related to the spatial criteria, which are modeled and processed within the Spatial Multicriteria Analysis. The relative importance of the spatial criteria is established by the involved experts on the basis of the construction, transformation, and processing of preference relations within the framework of the Analytic Hierarchy Process. The resulting decision maps are generated by aggregating the spatial criteria, applying the Ordered Weighted Averaging operator and the linguistic quantifiers. These maps permit one to highlight rational solution alternatives, which, if necessary, are evaluated, compared, chosen, prioritized, and/or ordered, applying additional spatial criteria (of quantitative as well as qualitative character), by means of techniques for preference modeling in a fuzzy environment (within the framework of so-called $< X,R>$ models). The corresponding decision process permits one to take into account and process quantitative and qualitative spatial criteria as well as preferences and judgments of the experts. The paper results are illustrated by a Case Study related to the determination of the most suitable locational alternatives for renewable power plants in the Minas Gerais state, Brazil."
+    },
+    {
+      "paperId": "68d8905b812388690beef799424dac2b9b2a1c1f",
+      "externalIds": {
+        "DBLP": "journals/tits/BarhaghMAS24",
+        "DOI": "10.1109/TITS.2023.3334470",
+        "CorpusId": 266307653
+      },
+      "url": "https://www.semanticscholar.org/paper/68d8905b812388690beef799424dac2b9b2a1c1f",
+      "title": "Optimal Sizing and Siting of Electric Vehicle Charging Stations in Distribution Networks With Robust Optimizing Model",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TITS.2023.3334470?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TITS.2023.3334470, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2024-05-01",
+      "journal": {
+        "name": "IEEE Transactions on Intelligent Transportation Systems",
+        "pages": "4314-4325",
+        "volume": "25"
+      },
+      "authors": [
+        {
+          "authorId": "1413716302",
+          "name": "Sahar Seyyedeh Barhagh"
+        },
+        {
+          "authorId": "1403381134",
+          "name": "B. Mohammadi-ivatloo"
+        },
+        {
+          "authorId": "9348009",
+          "name": "M. Abapour"
+        },
+        {
+          "authorId": "1400859737",
+          "name": "M. Shafie\u2010khah"
+        }
+      ],
+      "abstract": "Optimal planning of power distribution systems with local resources is crucial to meet energy demand and avoid disruptions in energy supply for consumers. This requires the system operators to manage available resources and utilize suitable risk management tools to control and study uncertainties and their potential consequences. This paper proposes an uncertainty-based optimization framework based on the robust optimization and scenario methodology for optimal sizing and siting of electrical vehicle charging stations (EVCSs). The proposed model seeks to take advantage of the flexibility introduced by EVCSs and gain financial profit for the operator of the power distribution system through reducing power losses and offering services to electricity markets. To handle the uncertainties posed by different resources, two risk measures are employed simultaneously. The uncertainty originating from the state of charge (SOC) of electric vehicles (EVs) is addressed through stochastic programming, while the robust optimization method (ROM) enables the operator of the power distribution system to be informed of the consequences of uncertainty in electricity load. Therefore, appropriate strategies can be taken to tackle the uncertainties while keeping the system operation stable and gaining financial profit. Thus, three strategies are studied in the proposed model as follows: risk-neutral, risk-averse, and risk-taker. In addition, the non-linear terms in power flow modeling were linearized through a set of linear functions which transforms the proposed model to a MILP problem. The IEEE 33-bus test system under different levels of load uncertainty and considering the uncertainty in SOC of EVs is utilized to ensure the effectiveness of the proposed model. The results highlight the efficiency of the proposed model in considering uncertainties and taking advantage of the consideration of different risk attitudes by the decision-maker that ROM provides for the optimal operation of the power distribution system."
+    },
+    {
+      "paperId": "751457fc5100d7c0782c455619f52e3a8183c669",
+      "externalIds": {
+        "MAG": "2143877583",
+        "DOI": "10.1260/0309524041210838",
+        "CorpusId": 109977842
+      },
+      "url": "https://www.semanticscholar.org/paper/751457fc5100d7c0782c455619f52e3a8183c669",
+      "title": "Benefits for Wind Energy in Electricity Markets from Using Short Term Wind Power Prediction Tools; A Simulation Study",
+      "venue": "",
+      "year": 2004,
+      "referenceCount": 6,
+      "citationCount": 48,
+      "influentialCitationCount": 3,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1260/0309524041210838?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1260/0309524041210838, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Environmental Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Economics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2004-01-01",
+      "journal": {
+        "name": "Wind Engineering",
+        "pages": "119 - 127",
+        "volume": "28"
+      },
+      "authors": [
+        {
+          "authorId": "2668107",
+          "name": "J. Usaola"
+        },
+        {
+          "authorId": "2104268349",
+          "name": "Oswaldo Ravelo"
+        },
+        {
+          "authorId": "1410571837",
+          "name": "G. Gonz\u00e1lez"
+        },
+        {
+          "authorId": "2071600896",
+          "name": "F. Soto"
+        },
+        {
+          "authorId": "98256953",
+          "name": "M\u00aa Carmen D\u00e1vila"
+        },
+        {
+          "authorId": "2077312150",
+          "name": "Bel\u00e9n D\u00edaz\u2013Guerra"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6280f19e57cb9aea7fbccd00b519a02d40a549ac",
+      "externalIds": {
+        "MAG": "2109379064",
+        "CorpusId": 110695179
+      },
+      "url": "https://www.semanticscholar.org/paper/6280f19e57cb9aea7fbccd00b519a02d40a549ac",
+      "title": "THE PROGRAM TOOLS FOR KSRS OPERATION",
+      "venue": "",
+      "year": 2008,
+      "referenceCount": 3,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Physics",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The running cycle of Kurchatov Synchrotron Radiation Source includes the injection of electrons with energy 80 MeV from the linear accelerator, the accumulation of a electron current up to 400 mA and the subsequent extraction of electrons in the main ring, storage ring Siberia-2, and accumulation there up to 300 mA."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "97686200",
+          "name": "E. Kaportsev"
+        },
+        {
+          "authorId": "102057901",
+          "name": "V. Korchuganov"
+        },
+        {
+          "authorId": "2094261205",
+          "name": "K. Kuznetsov"
+        },
+        {
+          "authorId": "98322676",
+          "name": "L. Moseiko"
+        },
+        {
+          "authorId": "6509172",
+          "name": "N. Moseiko"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ead28d982aa20d24a84642ffd480867696c56b5f",
+      "externalIds": {
+        "ArXiv": "2305.02315",
+        "DOI": "10.1103/PhysRevA.109.L030601",
+        "CorpusId": 258461224
+      },
+      "url": "https://www.semanticscholar.org/paper/ead28d982aa20d24a84642ffd480867696c56b5f",
+      "title": "Localization-driven quantum sensing",
+      "venue": "Physical Review A",
+      "year": 2023,
+      "referenceCount": 110,
+      "citationCount": 17,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2305.02315, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Physics",
+          "source": "external"
+        },
+        {
+          "category": "Physics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-05-03",
+      "journal": {
+        "name": "Physical Review A"
+      },
+      "authors": [
+        {
+          "authorId": "2215926392",
+          "name": "Ayan Sahoo"
+        },
+        {
+          "authorId": "47878029",
+          "name": "Utkarsh Mishra"
+        },
+        {
+          "authorId": "121180333",
+          "name": "D. Rakshit"
+        }
+      ],
+      "abstract": "We show that the delocalization-localization transition in a quantum-many body (QMB) systems is a compelling quantum resource for achieving quantum-enhanced sensitivity in parameter estimation. We exploit the vulnerability of a near-transition QMB state against the parameter shift for devising efficient sensing tools. In this realm the main focus of this work is to identify, propose and analyze experimentally relevant quantum observables for precision measurement. Taking a QMB system as a Fermi lattice under quasi-periodic modulation that supports an energy-independent delocalization-localization transition, we suggest operator-based adiabatic and dynamical quantum sensors endowed with considerable quantum advantages."
+    },
+    {
+      "paperId": "ff5db5052d74d827485effe63e394fb182708004",
+      "externalIds": {
+        "MAG": "2419358215",
+        "DOI": "10.2172/1233681",
+        "CorpusId": 156953526
+      },
+      "url": "https://www.semanticscholar.org/paper/ff5db5052d74d827485effe63e394fb182708004",
+      "title": "Operational Benefits of Meeting California's Energy Storage Targets",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 4,
+      "citationCount": 27,
+      "influentialCitationCount": 2,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.nrel.gov/docs/fy16osti/65061.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2172/1233681?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2172/1233681, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Economics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Economics",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2015-12-18",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "153856626",
+          "name": "J. Eichman"
+        },
+        {
+          "authorId": "2674105",
+          "name": "P. Denholm"
+        },
+        {
+          "authorId": "34761379",
+          "name": "J. Jorgenson"
+        },
+        {
+          "authorId": "47357071",
+          "name": "U. Helman"
+        }
+      ],
+      "abstract": "In October 2013, the California Public Utilities Commission (CPUC) finalized procurement targets and other requirements to its jurisdictional utilities for a minimum of 1,325 MW of 'viable and cost-effective' energy storage systems by 2020. The goal of this study is to explore several aspects of grid operations in California and the Western Interconnection resulting from meeting the CPUC storage targets. We perform this analysis using a set of databases and grid simulation tools developed and implemented by the CPUC, the California Independent System Operator (CAISO), and the California Energy Commission (CEC) for the CPUC's Long-term Procurement Plan (LTPP). The 2014 version of this database contains information about generators, storage, transmission, and electrical demand, for California in the year 2024 for both 33% and 40% renewable energy portfolios. We examine the value of various services provided by energy storage in these scenarios. Sensitivities were performed relating to the services energy storage can provide, the capacity and duration of storage devices, export limitations, and negative price floor variations. Results show that a storage portfolio, as outlined by the CPUC, can reduce curtailment and system-wide production costs for 33% and 40% renewable scenarios. A storage device that can participate in energy and ancillarymore\u00a0\u00bb service markets provides the grid with the greatest benefit; the mandated storage requirement of 1,325 MW was estimated to reduce the total cost of production by about 78 million per year in the 33% scenario and 144 million per year in the 40% scenario. Much of this value is derived from the avoided start and stop costs of thermal generators and provision of ancillary services. A device on the 2024 California grid and participating in only ancillary service markets can provide the system with over 90% of the value as the energy and ancillary service device. The analysis points to the challenge of new storage providing regulation reserve, as the added storage could provide about 75% of the regulation up requirement for all of California, which would likely greatly reduce regulation prices and potential revenue. The addition of storage in California decreases renewable curtailment, particularly in the 40% RPS case. Following previous analysis, storage has a mixed impact on emissions, generally reducing emissions, but also creating additional incentives for increased emissions from out-of-state coal generations. Overall, storage shows significant system cost savings, but analysis also points to additional challenges associated with full valuation of energy storage, including capturing the operational benefits calculated here, but also recovering additional benefits associated avoided generation, transmission, and distribution capacity, and avoided losses.\u00ab\u00a0less"
+    },
+    {
+      "paperId": "ba54c4e76ccb07dcbaca8a95b81a699ecdb1daa1",
+      "externalIds": {
+        "DOI": "10.1155/2023/5320002",
+        "CorpusId": 265140317
+      },
+      "url": "https://www.semanticscholar.org/paper/ba54c4e76ccb07dcbaca8a95b81a699ecdb1daa1",
+      "title": "Resilient Operation of Electric Vehicles considering Grid Resiliency and Uncertainties",
+      "venue": "International Transactions on Electrical Energy Systems",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/itees/2023/5320002.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/2023/5320002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2023/5320002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-11-11",
+      "journal": {
+        "name": "International Transactions on Electrical Energy Systems"
+      },
+      "authors": [
+        {
+          "authorId": "2234191123",
+          "name": "Seyed Mostafa Armaghan"
+        },
+        {
+          "authorId": "2266316426",
+          "name": "Fatemeh Asgharzadeh"
+        },
+        {
+          "authorId": "2266319615",
+          "name": "Babak Yousefi-Khanghah"
+        },
+        {
+          "authorId": "2266319889",
+          "name": "Hamid Reza Ashrafi"
+        }
+      ],
+      "abstract": "This paper proposes a novel short-time optimization method based on a resiliency enhancement strategy for a smart distribution network during adverse weather conditions. The key idea is to integrate various electric vehicles (EVs) with different behaviour patterns and other distributed energy resources into emergency tools of distribution network operation such as topology reconfiguration and grid-supported services. In this regard, possible management programs for three types of EVs (with different levels of control potentials), energy resources, reconfiguration, and demand response programs impacts on boosting resiliency are investigated. The framework is organized on coordination and benefit sharing among distribution system operator (DSO), private sector, and EV owners to reduce possible side effects of failures that could be incepted by extreme weather conditions. A Monte Carlo-based stochastic simulation for modelling uncertainties such as EVs movement, state of change, arrival/departure time to charge stations, and weather-based failures is devised. In order to evaluate resiliency, metrics based on a multiphase method are analysed. The performance of the proposed method on extra benefit obtaining for DSO and private sector and also resiliency enhancement in disturbance progress, postdisturbance degraded, and restorative state are carried out on IEEE-33 bus test system, and obtained results are analysed in detail."
+    },
+    {
+      "paperId": "0ec5e8ff54c5c06b5bb29f09b32505fc67b7652e",
+      "externalIds": {
+        "DOI": "10.5541/ijot.1118778",
+        "CorpusId": 258155406
+      },
+      "url": "https://www.semanticscholar.org/paper/0ec5e8ff54c5c06b5bb29f09b32505fc67b7652e",
+      "title": "Modelling and Simulation of Existing Geothermal Power Plant: A Case Study of Darajat Geothermal Power Plant",
+      "venue": "International Journal of Thermodynamics",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://dergipark.org.tr/en/download/article-file/2436923",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5541/ijot.1118778?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5541/ijot.1118778, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-04-04",
+      "journal": {
+        "name": "International Journal of Thermodynamics"
+      },
+      "authors": [
+        {
+          "authorId": "2300899289",
+          "name": "K. F. A. Sukra"
+        },
+        {
+          "authorId": "115469524",
+          "name": "D. Permana"
+        },
+        {
+          "authorId": "67134091",
+          "name": "W. Adriansyah"
+        }
+      ],
+      "abstract": "The electrical energy needs grow every year, increasing awareness and use of renewable energy even higher. Geothermal power plants (GPP) are even ogled as a renewable energy source that has a lot of potential worldwide. Technology for GPP continues to evolve. However, tools for analyzing a system of GPP are still inadequate. In this study, a simple analysis tool was designed. The usefulness of this analysis tool is to be able to know the state of the GPP works. This tool will help simulate the conditions that may occur in the plant system. The simulation results will also be known operating conditions that may occur, so the operator can determine what should be done if things happen. Modeling started using Microsoft Excel, which has been equipped with thermodynamic properties. Modeling includes turbine, condenser, cooling tower, and extraction systems non-condensable gas. After validated, the model run simulation in variations that may occur such as decline in the condition of the condenser and cooling tower and environmental conditions, represented by relative humidity. The simulation with variation of condition will decrease the power generated from turbine 3 \u2013 5%."
+    },
+    {
+      "paperId": "0ca78c650a4cdca3e22455c3372144360651bc4c",
+      "externalIds": {
+        "DOI": "10.1109/OEEC58272.2023.10135207",
+        "CorpusId": 259028762
+      },
+      "url": "https://www.semanticscholar.org/paper/0ca78c650a4cdca3e22455c3372144360651bc4c",
+      "title": "Optimal Power Flow in an Islanded Renewable Microgrid Using Artificial Gorilla Troops Optimizer",
+      "venue": "2023 5th International Conference on Optimizing Electrical Energy Consumption (OEEC)",
+      "year": 2023,
+      "referenceCount": 34,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/OEEC58272.2023.10135207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/OEEC58272.2023.10135207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2023-02-28",
+      "journal": {
+        "name": "2023 5th International Conference on Optimizing Electrical Energy Consumption (OEEC)",
+        "pages": "20-26"
+      },
+      "authors": [
+        {
+          "authorId": "2192850601",
+          "name": "Mohammad-hossein Fayaz-dastgerdi"
+        },
+        {
+          "authorId": "9234900",
+          "name": "Hossein Shahinzadeh"
+        },
+        {
+          "authorId": "39849828",
+          "name": "Jalal Moradi"
+        },
+        {
+          "authorId": "3369447",
+          "name": "H. Nafisi"
+        },
+        {
+          "authorId": "2075392738",
+          "name": "A. Karimi"
+        },
+        {
+          "authorId": "144157251",
+          "name": "G. Gharehpetian"
+        }
+      ],
+      "abstract": "The microgrid is a local power provider with advanced control tools. The capacity of energy resources is not so high in a microgrid and cannot be treated as a slack bus. Hence, the power flow problem must be solved regardless of the presence of a slack bus. Power flow analysis plays a vitally important role in the design, planning, and operation of electricity networks. Unlike traditional load flow methods, optimal load flow can be a practical supporting tool for the operator to overcome problems in the planning, operation, and control of power systems at transmission and distribution levels. Conventional load flow methods cannot be used in island mode. In this paper, the Gorilla Troop Optimizer (GTO) method is employed to optimize the load flow method for renewable microgrids in the island mode. A hybrid objective function is also proposed to minimize the absolute value of the mean voltage phase error and the voltage amplitude, as well as to minimize the total absolute value of the mismatch of the active and reactive power. The simulation results of the studied system show that the proposed objective function can be used to improve various indicators. Moreover, the results convey that the GTO method has provided better performance than other optimization methods."
+    },
+    {
+      "paperId": "acb8d94db497bbd51fce8da932ac133d5879e570",
+      "externalIds": {
+        "MAG": "2769217835",
+        "DBLP": "journals/peng/DenkenaDR17",
+        "DOI": "10.1007/s11740-017-0776-x",
+        "CorpusId": 19574101
+      },
+      "url": "https://www.semanticscholar.org/paper/acb8d94db497bbd51fce8da932ac133d5879e570",
+      "title": "Smart and energy-efficient dust suction concept for milling of fibre-reinforced plastics",
+      "venue": "Production Engineering",
+      "year": 2017,
+      "referenceCount": 8,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11740-017-0776-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11740-017-0776-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Materials Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Numerical flow simulations are used to investigate the effectiveness of a central suction as well as local suction at the cutting tool and demonstrate an improved dust particle extraction and an energy saving potential."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2017-11-13",
+      "journal": {
+        "name": "Production Engineering",
+        "pages": "723-729",
+        "volume": "11"
+      },
+      "authors": [
+        {
+          "authorId": "1685497",
+          "name": "B. Denkena"
+        },
+        {
+          "authorId": "32383507",
+          "name": "M. Dittrich"
+        },
+        {
+          "authorId": "114442128",
+          "name": "B. Rahner"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "0ad2aeaeaf05ac8f2f6a1ecba10f2026bbb8fcb2",
+      "externalIds": {
+        "MAG": "1998193965",
+        "DOI": "10.1155/S1085337503305032",
+        "CorpusId": 51853148
+      },
+      "url": "https://www.semanticscholar.org/paper/0ad2aeaeaf05ac8f2f6a1ecba10f2026bbb8fcb2",
+      "title": "L2(\u03a3)-regularity of the boundary to boundary operator B\u2217L for hyperbolic and Petrowski PDEs",
+      "venue": "",
+      "year": 2003,
+      "referenceCount": 67,
+      "citationCount": 53,
+      "influentialCitationCount": 12,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/aaa/2003/215691.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1155/S1085337503305032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/S1085337503305032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Mathematics",
+          "source": "external"
+        },
+        {
+          "category": "Mathematics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2003-12-31",
+      "journal": {
+        "name": "Abstract and Applied Analysis",
+        "pages": "1061-1139",
+        "volume": "2003"
+      },
+      "authors": [
+        {
+          "authorId": "2648016",
+          "name": "I. Lasiecka"
+        },
+        {
+          "authorId": "49667096",
+          "name": "R. Triggiani"
+        }
+      ],
+      "abstract": "This paper takes up and thoroughly analyzes a technical mathematical issue in PDE theory, while\u0097as a by-pass product\u0097making a larger case. The technical issue is the L2(\u03a3)-regularity of the boundary \u2192 boundary operator B\u2217L for (multidimensional) hyperbolic and Petrowski-type mixed PDEs problems, where L is the boundary input \u2192 interior solution operator and B is the control operator from the boundary. Both positive and negative classes of \ndistinctive PDE illustrations are exhibited and proved. The larger case to be made is that hard analysis PDE energy methods are the tools of the trade\u0097not soft analysis methods. This holds true not only to analyze B\u2217L, but also to establish three inter-related cardinal results: optimal PDE regularity, exact controllability, and uniform stabilization. Thus, the paper takes a critical view on a spate of \u0093abstract\u0094 results in \u0093infinite-dimensional systems theory,\u0094 generated by unnecessarily complicated and highly limited \u0093soft\u0094 methods, with no apparent awareness of the high degree of restriction of the abstract assumptions made\u0097far from necessary\u0097as well as on how to verify them in the case of multidimensional dynamical systems such as PDEs."
+    },
+    {
+      "paperId": "5cc73839ac38f626df5f238a11f29e51097b094a",
+      "externalIds": {
+        "DBLP": "conf/amps/NegriMPT22",
+        "DOI": "10.1109/AMPS55790.2022.9978846",
+        "CorpusId": 254737172
+      },
+      "url": "https://www.semanticscholar.org/paper/5cc73839ac38f626df5f238a11f29e51097b094a",
+      "title": "Artificial Intelligence and Smart Grids: the Cable Joint Test Case",
+      "venue": "International Workshop on Applied Measurements for Power Systems",
+      "year": 2022,
+      "referenceCount": 36,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/AMPS55790.2022.9978846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AMPS55790.2022.9978846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In this paper, a realistic scenario is designed to produce data for a typical machine learning (ML) algorithm, and the main fault modes of cable joints and the associated parameters are defined."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2022-09-28",
+      "journal": {
+        "name": "2022 IEEE 12th International Workshop on Applied Measurements for Power Systems (AMPS)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "116285421",
+          "name": "V. Negri"
+        },
+        {
+          "authorId": "23184848",
+          "name": "A. Mingotti"
+        },
+        {
+          "authorId": "1852327",
+          "name": "L. Peretto"
+        },
+        {
+          "authorId": "2360466",
+          "name": "R. Tinarelli"
+        }
+      ],
+      "abstract": "The technological advance of the XXI century provides several benefits to the electrical grid. Such benefits are not limited to new electrical assets, also technologies developed for other fields may become key tools. A clear example is artificial intelligence (AI), which is fundamental to the processing of the data being generated nowadays. Therefore, a potential application of AI in the electrical grid is the predictive maintenance of medium voltage cable joints. These accessories are one of the main causes of fault in the distribution network, resulting in significant economic losses and energy not supplied to the customers. In this paper, a realistic scenario is designed to produce data for a typical machine learning (ML) algorithm. In detail, the main fault modes of cable joints and the associated parameters are defined. Afterwards, the ML algorithm is tested and validated considering its realistic implementation by a distribution system operator. From the results, it is possible to appreciate (i) the applicability and the effectiveness of the algorithm for the predictive maintenance of cable joints; (ii) the discussion on the pros and cons of the use of ML algorithms; (iii) some hints to better exploit the algorithm in practical applications."
+    },
+    {
+      "paperId": "e7229b5a1610f0dcc07b0158bc1342b5520b3438",
+      "externalIds": {
+        "DOI": "10.32985/ijeces.13.1.6",
+        "CorpusId": 246570571
+      },
+      "url": "https://www.semanticscholar.org/paper/e7229b5a1610f0dcc07b0158bc1342b5520b3438",
+      "title": "Performance Assessment of TSO\u2013DSO using Volt-Var Control at Smart-Inverters",
+      "venue": "International journal of electrical and computer engineering systems",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 6,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ijeces.ferit.hr/index.php/ijeces/article/download/442/145",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.32985/ijeces.13.1.6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32985/ijeces.13.1.6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2022-02-03",
+      "journal": {
+        "name": "International journal of electrical and computer engineering systems"
+      },
+      "authors": [
+        {
+          "authorId": "145263269",
+          "name": "V. Astapov"
+        },
+        {
+          "authorId": "30557432",
+          "name": "Sergei Trashchenkov"
+        },
+        {
+          "authorId": "1401889947",
+          "name": "F. Gonzalez-Longatt"
+        },
+        {
+          "authorId": "31012410",
+          "name": "D. Topi\u0107"
+        }
+      ],
+      "abstract": "The massive penetration of distributed energy resources (DERs) in distribution networks provides a strategic opportunity for the distribution system operator (DSO) to coordinate the assets appropriately and offer services to the transmission systems. The IEEE std. 1547-2018 introduced a control mechanism to enable the power electronic converters (PECs) to offer several services, including voltage regulation by controlling the reactive power injection/absorption; this type of PECs is also known as \"smart inverter\". The participation of the smart-inverters in the voltage regulation with a novel customer-centred piece of legislation and markets provide the DSO with powerful tools to enforce very positive TSO/DSO interactions. This research paper presents a comprehensive assessment of the steady-state performance provided by voltage control at the smart-inverters to the TSO \u2013 DSO system. The assessment includes analysing main indicators using time series considering short term (24-hours, 1-minute resolution) and long-term (one-year) horizon. In this paper, the three leading indicators are used as criteria for the assessment: total energy losses voltage profile in the TSO-DSO system and the power flow interaction at the interface between the systems. The assessment is based on numerical results using the DIgSILENT PowerFactory simulation tool, where the voltage controllers have been implemented, and regional electrical system in south-eastern Norway, the area of Vestfold and Telemark as been used for illustrative purposes"
+    },
+    {
+      "paperId": "821d8643b63e034dad31cfa34c347f02b1d6fe98",
+      "externalIds": {
+        "MAG": "2153944106",
+        "DOI": "10.1109/59.736292",
+        "CorpusId": 110514260
+      },
+      "url": "https://www.semanticscholar.org/paper/821d8643b63e034dad31cfa34c347f02b1d6fe98",
+      "title": "Transmission dispatch and congestion management in the emerging energy market structures",
+      "venue": "",
+      "year": 1998,
+      "referenceCount": 2,
+      "citationCount": 163,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/59.736292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/59.736292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "1998-12-01",
+      "journal": {
+        "name": "IEEE Transactions on Power Systems",
+        "pages": "1466-1474",
+        "volume": "13"
+      },
+      "authors": [
+        {
+          "authorId": "1857835",
+          "name": "D. Shirmohammadi"
+        },
+        {
+          "authorId": "34466936",
+          "name": "B. Wollenberg"
+        },
+        {
+          "authorId": "35393768",
+          "name": "A. Vojdani"
+        },
+        {
+          "authorId": "86929230",
+          "name": "P. Sandrin"
+        },
+        {
+          "authorId": "2107525882",
+          "name": "M. Pereira"
+        },
+        {
+          "authorId": "2545669",
+          "name": "F. Rahimi"
+        },
+        {
+          "authorId": "153741937",
+          "name": "T. Schneider"
+        },
+        {
+          "authorId": "2951644",
+          "name": "B. Stott"
+        }
+      ],
+      "abstract": "In this paper, the authors define a system of advanced analytical methods and tools for secure and efficient operation of power systems in emerging energy markets. For this purpose, they first define the concept of the independent system operator (ISO) as a \"generic\" operator of an open-access transmission system. They then identify those functions of the ISO that are essential for the security and efficiency of power system operation and identify and describe a system of analytical tools that would enable the ISO to perform the bulk of these functions."
+    },
+    {
+      "paperId": "15f9862ee809f496b39c61b49f40b89471f4c625",
+      "externalIds": {
+        "ArXiv": "1810.09306",
+        "MAG": "2950421077",
+        "DOI": "10.1007/JHEP01(2019)059",
+        "CorpusId": 53463522
+      },
+      "url": "https://www.semanticscholar.org/paper/15f9862ee809f496b39c61b49f40b89471f4c625",
+      "title": "Constraining quantum fields using modular theory",
+      "venue": "Journal of High Energy Physics",
+      "year": 2018,
+      "referenceCount": 47,
+      "citationCount": 37,
+      "influentialCitationCount": 4,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/JHEP01(2019)059.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/1810.09306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Mathematics"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Physics",
+          "source": "external"
+        },
+        {
+          "category": "Mathematics",
+          "source": "external"
+        },
+        {
+          "category": "Physics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": "2018-10-22",
+      "journal": {
+        "name": "Journal of High Energy Physics",
+        "volume": "2019"
+      },
+      "authors": [
+        {
+          "authorId": "10110875",
+          "name": "Nima Lashkari"
+        }
+      ],
+      "abstract": "Tomita-Takesaki modular theory provides a set of algebraic tools in quantum field theory that is suitable for the study of the information-theoretic properties of states. For every open set in spacetime and choice of two states, the modular theory defines a positive operator known as the relative modular operator that decreases monotonically under restriction to subregions. We study the consequences of this operator monotonicity inequality for correlation functions in quantum field theory. We do so by constructing a one-parameter R\u00e9nyi family of information-theoretic measures from the relative modular operator that inherit monotonicity by construction and reduce to correlation functions in special cases. In the case of finite quantum systems, this R\u00e9nyi family is the sandwiched R\u00e9nyi divergence and we obtain a simple proof of its monotonicity. Its monotonicity implies a class of constraints on correlation functions in quantum field theory, only a small set of which were known to us. We explore these inequalities for free fields and conformal field theory. We conjecture that the second null derivative of R\u00e9nyi divergence is non-negative which is a generalization of the quantum null energy condition to the R\u00e9nyi family."
+    }
+  ]
+}

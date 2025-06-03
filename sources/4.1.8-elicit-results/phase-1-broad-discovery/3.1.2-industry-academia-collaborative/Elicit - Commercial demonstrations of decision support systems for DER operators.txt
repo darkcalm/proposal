@@ -1,0 +1,17 @@
+Recent research demonstrates various commercial applications of decision support systems for distributed energy resource (DER) operators. These systems aim to optimize DER management, enhance grid stability, and support economic decision-making. The Reflexe project developed an aggregation solution for commercial and industrial flexibility, providing technical and commercial functionality for market participation (Siebert et al., 2013). A decision support system for low-voltage microgrids with renewable sources was implemented to achieve energy balance (Stamatescu et al., 2017). Another tool evaluates the economic viability of residential DER investments based on different rate structures and incentives (Bandyopadhyay et al., 2019). Commercial demonstrations include AEP's project utilizing DERs to reduce peak load and defer capital investments (Vollkommer et al., 2006), and the "Beyond DERMS" platform, which showcased advanced grid services, mode transitions, and resilience capabilities (Singh et al., 2022). These studies highlight the growing importance of decision support systems in optimizing DER operations and grid management.
+
+Siebert, N., Foggia, G., Lannez, S., Muscholl, M., Passelergue, J. C., Letendre, S., Moreau, A., & Bertone, Y. (2013). Reflexe: Managing commercial and industrial flexibilities in a market environment. 2013 IEEE Grenoble Conference, 1–6. https://doi.org/10.1109/ptc.2013.6652315
+
+Stamatescu, I., Arghira, N., Făgărăşan, I., Stamatescu, G., Iliescu, S., & Calofir, V. (2017). Decision Support System for a Low Voltage Renewable Energy System. Energies, 10(1), 118. https://doi.org/10.3390/en10010118
+
+Bandyopadhyay, A., Conger, J. P., Webber, M. E., & Leibowicz, B. D. (2019, November 11). A Decision Support Tool for Distributed Solar and Storage Investments: A Case Study in Austin, TX. Volume 6: Energy. ASME 2019 International Mechanical Engineering Congress and Exposition. https://doi.org/10.1115/imece2019-11068
+
+V., C., S., M., Minjiang, C., Michael, P., Tor, I. R., R., C., M., S., S., R., M., M., & Roberto, Z. (2018). Demonstration of decision support for real time operation.
+
+Integrating Smart Distributed Energy Resources with Distribution Management Systems. (2012).
+
+Vollkommer, H. T., Fitchett, D. R., & Kelly, J. (2006). Distributed energy resource demonstration R&amp;amp;D project report. 2006 IEEE Power Engineering Society General Meeting, 6 pp. https://doi.org/10.1109/pes.2006.1709521
+
+Singh, R., Hines, P., Howerter, S., & Reilly, J. (2022). Beyond DERMS: Demonstration of Automated Grid Services, Mode Transition, and Resilience. Office of Scientific and Technical Information (OSTI). https://doi.org/10.2172/1862821
+
+Intelligent Decision Support System for Energy Management in Demand Response Programs and Residential and Industrial Sectors of the Smart Grid. (2015).

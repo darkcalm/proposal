@@ -1,0 +1,36 @@
+{
+  "totalHits": 293233,
+  "limit": 5,
+  "page": null,
+  "results": [
+    {
+      "id": 148966529,
+      "doi": "10.1016/j.procir.2020.02.182",
+      "title": "A methodology for energy efficiency redesign of smart production systems",
+      "abstract": "Abstract In the recent years, many methodologies and tools to support the energy efficiency re-design of production systems have been developed, however, they do not investigate the real-time manufacturing process. In this paper, a methodology for energy efficiency re-design of production systems in a context of smart manufacturing is proposed. The continuous production-machine data collection with operator feedbacks enables the creation of a knowledge-based repository that provides useful support during the design of manufacturing systems. A case study in an automotive sector company has allowed to implement the methodology and to assess its effectiveness",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Alessandra Papetti"
+        },
+        {
+          "name": "Marta Rossi"
+        },
+        {
+          "name": "Michele Germani"
+        },
+        {
+          "name": "Roberto Menghi"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/589942171.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

@@ -1,0 +1,1340 @@
+{
+  "totalHitsEncounteredAcrossPages": 16406,
+  "retrievedCountForThisQuery": 30,
+  "searchIdentifier": "initial_tertiary_2",
+  "originalQuery": "Human intervention strategies for DER fault diagnosis AND system recovery",
+  "results": [
+    {
+      "id": 37631933,
+      "doi": "10.1016/j.robot.2017.11.010",
+      "title": "Reset-free Trial-and-Error Learning for Robot Damage Recovery",
+      "abstract": "The high probability of hardware failures prevents many advanced robots\n(e.g., legged robots) from being confidently deployed in real-world situations\n(e.g., post-disaster rescue). Instead of attempting to diagnose the failures,\nrobots could adapt by trial-and-error in order to be able to complete their\ntasks. In this situation, damage recovery can be seen as a Reinforcement\nLearning (RL) problem. However, the best RL algorithms for robotics require the\nrobot and the environment to be reset to an initial state after each episode,\nthat is, the robot is not learning autonomously. In addition, most of the RL\nmethods for robotics do not scale well with complex robots (e.g., walking\nrobots) and either cannot be used at all or take too long to converge to a\nsolution (e.g., hours of learning). In this paper, we introduce a novel\nlearning algorithm called \"Reset-free Trial-and-Error\" (RTE) that (1) breaks\nthe complexity by pre-generating hundreds of possible behaviors with a dynamics\nsimulator of the intact robot, and (2) allows complex robots to quickly recover\nfrom damage while completing their tasks and taking the environment into\naccount. We evaluate our algorithm on a simulated wheeled robot, a simulated\nsix-legged robot, and a real six-legged walking robot that are damaged in\nseveral ways (e.g., a missing leg, a shortened leg, faulty motor, etc.) and\nwhose objective is to reach a sequence of targets in an arena. Our experiments\nshow that the robots can recover most of their locomotion abilities in an\nenvironment with obstacles, and without any human intervention.Comment: 18 pages, 16 figures, 3 tables, 6 pseudocodes/algorithms, video at\n  https://youtu.be/IqtyHFrb3BU, code at\n  https://github.com/resibots/chatzilygeroudis_2018_rt",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baranes"
+        },
+        {
+          "name": "Blanke"
+        },
+        {
+          "name": "Bongard"
+        },
+        {
+          "name": "Browne"
+        },
+        {
+          "name": "Calandra"
+        },
+        {
+          "name": "Carlson"
+        },
+        {
+          "name": "Corbato"
+        },
+        {
+          "name": "Cully"
+        },
+        {
+          "name": "DeDonato"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Droniou"
+        },
+        {
+          "name": "Durrant-Whyte"
+        },
+        {
+          "name": "Guizzo"
+        },
+        {
+          "name": "Hester"
+        },
+        {
+          "name": "Isermann"
+        },
+        {
+          "name": "Jean-Baptiste Mouret"
+        },
+        {
+          "name": "Kavraki"
+        },
+        {
+          "name": "Kober"
+        },
+        {
+          "name": "Konstantinos Chatzilygeroudis"
+        },
+        {
+          "name": "Koos"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "Lengagne"
+        },
+        {
+          "name": "Mnih"
+        },
+        {
+          "name": "Mostafa"
+        },
+        {
+          "name": "Mouret"
+        },
+        {
+          "name": "Nguyen"
+        },
+        {
+          "name": "Nguyen-Tuong"
+        },
+        {
+          "name": "Nori"
+        },
+        {
+          "name": "Peters"
+        },
+        {
+          "name": "Pugh"
+        },
+        {
+          "name": "Qui\u00f1onero-Candela"
+        },
+        {
+          "name": "Rasmussen"
+        },
+        {
+          "name": "Ren"
+        },
+        {
+          "name": "Shahriari"
+        },
+        {
+          "name": "Silver"
+        },
+        {
+          "name": "Stulp"
+        },
+        {
+          "name": "Sutton"
+        },
+        {
+          "name": "Vassilis Vassiliades"
+        },
+        {
+          "name": "Verma"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/145170263.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0921-8890"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42647547,
+      "doi": "10.1186/s12913-016-1267-z",
+      "title": "Development of an e-supported illness management and recovery programme for consumers with severe mental illness using intervention mapping, and design of an early cluster randomized controlled trial",
+      "abstract": "Background: E-mental health is a promising medium to keep mental health affordable and accessible. For consumers with severe mental illness the evidence of the effectiveness of e-health is limited. A number of difficulties and barriers have to be addressed concerning e-health for consumers with severe mental illness. One possible solution might be to blend e-health with face-to-face delivery of a recovery-oriented treatment, like the Illness Management & Recovery (IMR) programme. This paper describes the development of an e-health application for the IMR programme and the design of an early clustered randomized controlled trial. \nMethod/Design: We developed the e-IMR intervention according to the six-step protocol of Intervention Mapping. Consumers joined the development group to address important and relevant issues for the target group. Decisions during the six-step development process were based on qualitative evaluations of the Illness Management & Recovery programme, structured interviews, discussion in the development group, and literature reviews on qualitative papers concerning consumers with severe mental illness, theoretical models, behavioural change techniques, and telemedicine for consumers with severe mental illness. The aim of the e-IMR intervention is to help consumers with severe mental illness to involve others, manage achieving goals, and prevent relapse. The e-IMR intervention consists of face-to-face delivery of the Illness Management & Recovery programme and an e-health application containing peer-testimonials on videos, follow up on goals and coping strategies, monitoring symptoms, solving problems, and communication opportunities. We designed an early cluster randomized controlled trial that will evaluate the e-IMR intervention. In the control condition the Illness Management & Recovery programme is provided. The main effect-study parameters are: illness management, recovery, psychiatric symptoms severity, self-management, quality of life, and general health. The process of the IMR program will be evaluated on fidelity and feasibility in semi-structured interviews with participants and trainers. \nDiscussion: Intervention Mapping provided a systematic procedure for the development of this e-health intervention for consumers with severe mental illness and the preparation of an early randomized controlled trial",
+      "yearPublished": 2015,
+      "publishedDate": "2015-12-01T00:00:00",
+      "authors": [
+        {
+          "name": "Beentjes, Titus AA"
+        },
+        {
+          "name": "Goossens, Peter"
+        },
+        {
+          "name": "Schoonhoven, Lisette"
+        },
+        {
+          "name": "van Gaal, Betsie GI"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/132629295.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [
+        {
+          "title": "BMC Health Services Research",
+          "identifiers": [
+            "1472-6963"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 24902682,
+      "doi": null,
+      "title": "Design study of Software-Implemented Fault-Tolerance (SIFT) computer",
+      "abstract": "Software-implemented fault tolerant (SIFT) computer design for commercial aviation is reported. A SIFT design concept is addressed. Alternate strategies for physical implementation are considered. Hardware and software design correctness is addressed. System modeling and effectiveness evaluation are considered from a fault-tolerant point of view",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Goldberg, J."
+        },
+        {
+          "name": "Green, M. W."
+        },
+        {
+          "name": "Kutz, W. H."
+        },
+        {
+          "name": "Levitt, K. N."
+        },
+        {
+          "name": "Mills, M. E."
+        },
+        {
+          "name": "Shostak, R. E."
+        },
+        {
+          "name": "Wensley, J. H."
+        },
+        {
+          "name": "Whiting-Okeefe, P. M."
+        },
+        {
+          "name": "Zeidler, H. M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42855722.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4475791,
+      "doi": null,
+      "title": "Deep Space Network information system architecture study",
+      "abstract": "The purpose of this article is to describe an architecture for the Deep Space Network (DSN) information system in the years 2000-2010 and to provide guidelines for its evolution during the 1990s. The study scope is defined to be from the front-end areas at the antennas to the end users (spacecraft teams, principal investigators, archival storage systems, and non-NASA partners). The architectural vision provides guidance for major DSN implementation efforts during the next decade. A strong motivation for the study is an expected dramatic improvement in information-systems technologies, such as the following: computer processing, automation technology (including knowledge-based systems), networking and data transport, software and hardware engineering, and human-interface technology. The proposed Ground Information System has the following major features: unified architecture from the front-end area to the end user; open-systems standards to achieve interoperability; DSN production of level 0 data; delivery of level 0 data from the Deep Space Communications Complex, if desired; dedicated telemetry processors for each receiver; security against unauthorized access and errors; and highly automated monitor and control",
+      "yearPublished": 1992,
+      "publishedDate": "1992-05-15T00:00:00",
+      "authors": [
+        {
+          "name": "Atkinson, D. J."
+        },
+        {
+          "name": "Beswick, C. A."
+        },
+        {
+          "name": "Cooper, L. P."
+        },
+        {
+          "name": "Crowe, R. A."
+        },
+        {
+          "name": "Jenkins, J. S."
+        },
+        {
+          "name": "Markley, R. W."
+        },
+        {
+          "name": "Masline, R. C."
+        },
+        {
+          "name": "Stoloff, M. J."
+        },
+        {
+          "name": "Tausworthe, R. C."
+        },
+        {
+          "name": "Thomas, J. L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/10438278.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 16167406,
+      "doi": null,
+      "title": "Regulating Compensation for Injuries Associated with Medical Error",
+      "abstract": "Tort-based system of compensation for injuries associated with medical error is inadequate - development of innovative approaches to no-fault compensation - proposed model of compensation based on the idea of institutions integrating rights-to-claim compensation with regulatory strategies to improve patient safety",
+      "yearPublished": 2006,
+      "publishedDate": "2006-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Corbett, A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://opus.lib.uts.edu.au/bitstream/10453/1487/3/2008002263.pdf",
+      "publisher": "Thomson Legal and Regulatory Ltd",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:0082-0512",
+            "0082-0512"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 167043656,
+      "doi": "10.1080/10447318.2024.2391605",
+      "title": "Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies",
+      "abstract": "In complex industrial and chemical process control rooms, effective decision-making is crucial for safety and efficiency. The experiments in this paper evaluate the impact and applications of an AI-based decision support system integrated into an improved human-machine interface, using dynamic influence diagrams, a hidden Markov model, and deep reinforcement learning. The enhanced support system aims to reduce operator workload, improve situational awareness, and provide different intervention strategies to the operator adapted to the current state of both the system and human performance. Such a system can be particularly useful in cases of information overload when many alarms and inputs are presented all within the same time window, or for junior operators during training. A comprehensive cross-data analysis was conducted, involving 47 participants and a diverse range of data sources such as smartwatch metrics, eye-tracking data, process logs, and responses from questionnaires. The results indicate interesting insights regarding the effectiveness of the approach in aiding decision-making, decreasing perceived workload, and increasing situational awareness for the scenarios considered. Additionally, the results provide insights to compare differences between styles of information gathering when using the system by individual participants. These findings are particularly relevant when predicting the overall performance of the individual participant and their capacity to successfully handle a plant upset and the alarms connected to it using process and human-machine interaction logs in real-time which resulted in a 95.8% prediction accuracy using hidden Markov model. These predictions enable the development of more effective intervention strategies",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Abbas A. N."
+        },
+        {
+          "name": "Amazu C. W."
+        },
+        {
+          "name": "Baldissone G."
+        },
+        {
+          "name": "Briwa H."
+        },
+        {
+          "name": "Chasparis G. C."
+        },
+        {
+          "name": "Demichela M."
+        },
+        {
+          "name": "Kelleher J. D."
+        },
+        {
+          "name": "Leva M. C."
+        },
+        {
+          "name": "Mietkiewicz J."
+        },
+        {
+          "name": "Perez A. A."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/622186469.pdf",
+      "publisher": "Taylor and Francis",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19216081,
+      "doi": null,
+      "title": "Trauma-informed services and trauma-specific care for Indigenous Australian children",
+      "abstract": "This paper examines how childhood trauma experienced by Indigenous children can be overcome by appropriate interventions.IntroductionWhile many Indigenous and non-Indigenous Australian children grow up in safe homes and live in safe communities, there are some who do not. In the case of Indigenous children, some families and communities are unable to, or are still working to, heal the trauma of past events, including displacement from Country, institutionalisation and abuse. The Stolen Generations also represent a significant cause of trauma. In 2008, an estimated 8% of Indigenous people aged 15 and over reported being removed from their natural family and 38% had relatives who had been removed from their natural family. This trauma can pass to children (inter-generational trauma).Indigenous children may also experience a range of distressing life events including illness and accidents, hospitalisation or death of close family members, exposure to violence, family disintegration (with kin networks fragmented due to forced removals, relationship breakdown and possibly incarceration) and financial stress.Experiencing trauma in childhood can have severe and long-lasting effects; effects that can be overcome by appropriate interventions. This resource sheet examines these effects and explores how they can be tackled. It focuses on the design and delivery of trauma-informed and trauma-specific children\u2019s services and care",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Judy Atkinson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/30676318.pdf",
+      "publisher": "Australian Institute of Health and Welfare",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 151532827,
+      "doi": "10.18154/rwth-2023-06510",
+      "title": "Synthesizing FDIR Recovery Strategies for Space Systems",
+      "abstract": "Dynamic Fault Trees (DFTs) are powerful tools to drive the design of fault tolerant systems. However, semantic pitfalls limit their practical utility for interconnected systems that require complex recovery strategies to maximize their reliability. This thesis discusses the shortcomings of DFTs in the context of analyzing Fault Detection, Isolation and Recovery (FDIR) concepts with a particular focus on the needs of space systems. To tackle these shortcomings, we introduce an inherently non-deterministic model for DFTs. Deterministic recovery strategies are synthesized by transforming these non-deterministic DFTs into Markov automata that represent all possible choices between recovery actions. From the corresponding scheduler, optimized to maximize a given RAMS (Reliability, Availability, Maintainability and Safety) metric, an optimal recovery strategy can then be derived and represented by a model we call recovery automaton. We discuss dedicated techniques for reducing the state space of this recovery automaton and analyze their soundness and completeness. Moreover, modularized approaches to handle the complexity added by the state-based transformation approach are discussed. Furthermore, we consider the non-deterministic approach in a partially observable setting and propose an approach to lift the model for the fully observable case. We give an implementation of our approach within the Model-Based Systems Engineering (MBSE) framework Virtual Satellite. Finally, the implementation is evaluated based on the FFORT benchmark. The results show that basic non-deterministic DFTs generally scale well. However, we also found that semantically enriched non-deterministic DFTs employing repair or delayed observability mechanisms pose a challenge",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "M\u00fcller, Sascha"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/590248800.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 145065574,
+      "doi": null,
+      "title": "Human Connection as a Treatment for Addiction",
+      "abstract": "Research supports that social connection is important in both humans and animals. In humans, having a cohesive support/social network system and healthy attachments in childhood predict low risk of later addiction (i.e. substance use disorder), as does perceived support from a religious or other cohesive community. Moreover, personal characteristics such as identifying as religious or spiritual can predict low risk for addiction, but little is known about the intersection of neuroscience and religion/spirituality in this regard. Conversely, adverse childhood experiences (ACEs) have repeatedly been shown to predict later addiction. However, the role of the body\u2019s neuro-hormonal responses, such as the endogenous opioid and oxytocin systems in this process merits further exploration, such as how the production or deprivation of endogenous opioids impact later substance use patterns. Existing research also provides evidence that individuals decrease pursuit of interpersonal connections and social bonds when they use substances that activate opioid receptors. This has been found with both substances of abuse and medications used to treat addiction (e.g., methadone, buprenorphine, naltrexone). Research has also demonstrated that addiction often results in situations of social isolation. However, it remains to be elucidated whether the substances of abuse physiologically meet that need for connection. Importantly, research across numerous fields indicates that intentionally increasing interpersonal connection may be an effective treatment for addiction. However, less is known about how specific characteristics of communities impact the quantity, quality, or effectiveness of care and support for a person with addiction [...]https://dc.etsu.edu/etsu_books/1292/thumbnail.jp",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Clements, Andrea D."
+        },
+        {
+          "name": "Cook, Christopher C.H."
+        },
+        {
+          "name": "Unterrainer, Human-Friedrich"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/576880848.pdf",
+      "publisher": "Digital Commons @ East Tennessee State University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 30320798,
+      "doi": "10.1007/s13740-014-0038-4",
+      "title": "Knowledge-Intensive Processes: Characteristics, Requirements and Analysis of Contemporary Approaches",
+      "abstract": "Engineering of knowledge-intensive processes (KiPs) is far from being mastered, since they are genuinely knowledge- and data-centric, and require substantial flexibility, at both design- and run-time. In this work, starting from a scientific literature analysis in the area of KiPs and from three real-world domains and application scenarios, we provide a precise characterization of KiPs. Furthermore, we devise some general requirements related to KiPs management and execution. Such requirements contribute to the definition of an evaluation framework to assess current system support for KiPs. To this end, we present a critical analysis on a number of existing process-oriented approaches by discussing their efficacy against the requirements",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Di Ciccio, Claudio"
+        },
+        {
+          "name": "Marrella, Andrea"
+        },
+        {
+          "name": "Russo, Alessandro"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/54509593.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 37631933,
+      "doi": "10.1016/j.robot.2017.11.010",
+      "title": "Reset-free Trial-and-Error Learning for Robot Damage Recovery",
+      "abstract": "The high probability of hardware failures prevents many advanced robots\n(e.g., legged robots) from being confidently deployed in real-world situations\n(e.g., post-disaster rescue). Instead of attempting to diagnose the failures,\nrobots could adapt by trial-and-error in order to be able to complete their\ntasks. In this situation, damage recovery can be seen as a Reinforcement\nLearning (RL) problem. However, the best RL algorithms for robotics require the\nrobot and the environment to be reset to an initial state after each episode,\nthat is, the robot is not learning autonomously. In addition, most of the RL\nmethods for robotics do not scale well with complex robots (e.g., walking\nrobots) and either cannot be used at all or take too long to converge to a\nsolution (e.g., hours of learning). In this paper, we introduce a novel\nlearning algorithm called \"Reset-free Trial-and-Error\" (RTE) that (1) breaks\nthe complexity by pre-generating hundreds of possible behaviors with a dynamics\nsimulator of the intact robot, and (2) allows complex robots to quickly recover\nfrom damage while completing their tasks and taking the environment into\naccount. We evaluate our algorithm on a simulated wheeled robot, a simulated\nsix-legged robot, and a real six-legged walking robot that are damaged in\nseveral ways (e.g., a missing leg, a shortened leg, faulty motor, etc.) and\nwhose objective is to reach a sequence of targets in an arena. Our experiments\nshow that the robots can recover most of their locomotion abilities in an\nenvironment with obstacles, and without any human intervention.Comment: 18 pages, 16 figures, 3 tables, 6 pseudocodes/algorithms, video at\n  https://youtu.be/IqtyHFrb3BU, code at\n  https://github.com/resibots/chatzilygeroudis_2018_rt",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baranes"
+        },
+        {
+          "name": "Blanke"
+        },
+        {
+          "name": "Bongard"
+        },
+        {
+          "name": "Browne"
+        },
+        {
+          "name": "Calandra"
+        },
+        {
+          "name": "Carlson"
+        },
+        {
+          "name": "Corbato"
+        },
+        {
+          "name": "Cully"
+        },
+        {
+          "name": "DeDonato"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Droniou"
+        },
+        {
+          "name": "Durrant-Whyte"
+        },
+        {
+          "name": "Guizzo"
+        },
+        {
+          "name": "Hester"
+        },
+        {
+          "name": "Isermann"
+        },
+        {
+          "name": "Jean-Baptiste Mouret"
+        },
+        {
+          "name": "Kavraki"
+        },
+        {
+          "name": "Kober"
+        },
+        {
+          "name": "Konstantinos Chatzilygeroudis"
+        },
+        {
+          "name": "Koos"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "Lengagne"
+        },
+        {
+          "name": "Mnih"
+        },
+        {
+          "name": "Mostafa"
+        },
+        {
+          "name": "Mouret"
+        },
+        {
+          "name": "Nguyen"
+        },
+        {
+          "name": "Nguyen-Tuong"
+        },
+        {
+          "name": "Nori"
+        },
+        {
+          "name": "Peters"
+        },
+        {
+          "name": "Pugh"
+        },
+        {
+          "name": "Qui\u00f1onero-Candela"
+        },
+        {
+          "name": "Rasmussen"
+        },
+        {
+          "name": "Ren"
+        },
+        {
+          "name": "Shahriari"
+        },
+        {
+          "name": "Silver"
+        },
+        {
+          "name": "Stulp"
+        },
+        {
+          "name": "Sutton"
+        },
+        {
+          "name": "Vassilis Vassiliades"
+        },
+        {
+          "name": "Verma"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/145170263.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0921-8890"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42647547,
+      "doi": "10.1186/s12913-016-1267-z",
+      "title": "Development of an e-supported illness management and recovery programme for consumers with severe mental illness using intervention mapping, and design of an early cluster randomized controlled trial",
+      "abstract": "Background: E-mental health is a promising medium to keep mental health affordable and accessible. For consumers with severe mental illness the evidence of the effectiveness of e-health is limited. A number of difficulties and barriers have to be addressed concerning e-health for consumers with severe mental illness. One possible solution might be to blend e-health with face-to-face delivery of a recovery-oriented treatment, like the Illness Management & Recovery (IMR) programme. This paper describes the development of an e-health application for the IMR programme and the design of an early clustered randomized controlled trial. \nMethod/Design: We developed the e-IMR intervention according to the six-step protocol of Intervention Mapping. Consumers joined the development group to address important and relevant issues for the target group. Decisions during the six-step development process were based on qualitative evaluations of the Illness Management & Recovery programme, structured interviews, discussion in the development group, and literature reviews on qualitative papers concerning consumers with severe mental illness, theoretical models, behavioural change techniques, and telemedicine for consumers with severe mental illness. The aim of the e-IMR intervention is to help consumers with severe mental illness to involve others, manage achieving goals, and prevent relapse. The e-IMR intervention consists of face-to-face delivery of the Illness Management & Recovery programme and an e-health application containing peer-testimonials on videos, follow up on goals and coping strategies, monitoring symptoms, solving problems, and communication opportunities. We designed an early cluster randomized controlled trial that will evaluate the e-IMR intervention. In the control condition the Illness Management & Recovery programme is provided. The main effect-study parameters are: illness management, recovery, psychiatric symptoms severity, self-management, quality of life, and general health. The process of the IMR program will be evaluated on fidelity and feasibility in semi-structured interviews with participants and trainers. \nDiscussion: Intervention Mapping provided a systematic procedure for the development of this e-health intervention for consumers with severe mental illness and the preparation of an early randomized controlled trial",
+      "yearPublished": 2015,
+      "publishedDate": "2015-12-01T00:00:00",
+      "authors": [
+        {
+          "name": "Beentjes, Titus AA"
+        },
+        {
+          "name": "Goossens, Peter"
+        },
+        {
+          "name": "Schoonhoven, Lisette"
+        },
+        {
+          "name": "van Gaal, Betsie GI"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/132629295.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [
+        {
+          "title": "BMC Health Services Research",
+          "identifiers": [
+            "1472-6963"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 24902682,
+      "doi": null,
+      "title": "Design study of Software-Implemented Fault-Tolerance (SIFT) computer",
+      "abstract": "Software-implemented fault tolerant (SIFT) computer design for commercial aviation is reported. A SIFT design concept is addressed. Alternate strategies for physical implementation are considered. Hardware and software design correctness is addressed. System modeling and effectiveness evaluation are considered from a fault-tolerant point of view",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Goldberg, J."
+        },
+        {
+          "name": "Green, M. W."
+        },
+        {
+          "name": "Kutz, W. H."
+        },
+        {
+          "name": "Levitt, K. N."
+        },
+        {
+          "name": "Mills, M. E."
+        },
+        {
+          "name": "Shostak, R. E."
+        },
+        {
+          "name": "Wensley, J. H."
+        },
+        {
+          "name": "Whiting-Okeefe, P. M."
+        },
+        {
+          "name": "Zeidler, H. M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42855722.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4475791,
+      "doi": null,
+      "title": "Deep Space Network information system architecture study",
+      "abstract": "The purpose of this article is to describe an architecture for the Deep Space Network (DSN) information system in the years 2000-2010 and to provide guidelines for its evolution during the 1990s. The study scope is defined to be from the front-end areas at the antennas to the end users (spacecraft teams, principal investigators, archival storage systems, and non-NASA partners). The architectural vision provides guidance for major DSN implementation efforts during the next decade. A strong motivation for the study is an expected dramatic improvement in information-systems technologies, such as the following: computer processing, automation technology (including knowledge-based systems), networking and data transport, software and hardware engineering, and human-interface technology. The proposed Ground Information System has the following major features: unified architecture from the front-end area to the end user; open-systems standards to achieve interoperability; DSN production of level 0 data; delivery of level 0 data from the Deep Space Communications Complex, if desired; dedicated telemetry processors for each receiver; security against unauthorized access and errors; and highly automated monitor and control",
+      "yearPublished": 1992,
+      "publishedDate": "1992-05-15T00:00:00",
+      "authors": [
+        {
+          "name": "Atkinson, D. J."
+        },
+        {
+          "name": "Beswick, C. A."
+        },
+        {
+          "name": "Cooper, L. P."
+        },
+        {
+          "name": "Crowe, R. A."
+        },
+        {
+          "name": "Jenkins, J. S."
+        },
+        {
+          "name": "Markley, R. W."
+        },
+        {
+          "name": "Masline, R. C."
+        },
+        {
+          "name": "Stoloff, M. J."
+        },
+        {
+          "name": "Tausworthe, R. C."
+        },
+        {
+          "name": "Thomas, J. L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/10438278.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 16167406,
+      "doi": null,
+      "title": "Regulating Compensation for Injuries Associated with Medical Error",
+      "abstract": "Tort-based system of compensation for injuries associated with medical error is inadequate - development of innovative approaches to no-fault compensation - proposed model of compensation based on the idea of institutions integrating rights-to-claim compensation with regulatory strategies to improve patient safety",
+      "yearPublished": 2006,
+      "publishedDate": "2006-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Corbett, A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://opus.lib.uts.edu.au/bitstream/10453/1487/3/2008002263.pdf",
+      "publisher": "Thomson Legal and Regulatory Ltd",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:0082-0512",
+            "0082-0512"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 167043656,
+      "doi": "10.1080/10447318.2024.2391605",
+      "title": "Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies",
+      "abstract": "In complex industrial and chemical process control rooms, effective decision-making is crucial for safety and efficiency. The experiments in this paper evaluate the impact and applications of an AI-based decision support system integrated into an improved human-machine interface, using dynamic influence diagrams, a hidden Markov model, and deep reinforcement learning. The enhanced support system aims to reduce operator workload, improve situational awareness, and provide different intervention strategies to the operator adapted to the current state of both the system and human performance. Such a system can be particularly useful in cases of information overload when many alarms and inputs are presented all within the same time window, or for junior operators during training. A comprehensive cross-data analysis was conducted, involving 47 participants and a diverse range of data sources such as smartwatch metrics, eye-tracking data, process logs, and responses from questionnaires. The results indicate interesting insights regarding the effectiveness of the approach in aiding decision-making, decreasing perceived workload, and increasing situational awareness for the scenarios considered. Additionally, the results provide insights to compare differences between styles of information gathering when using the system by individual participants. These findings are particularly relevant when predicting the overall performance of the individual participant and their capacity to successfully handle a plant upset and the alarms connected to it using process and human-machine interaction logs in real-time which resulted in a 95.8% prediction accuracy using hidden Markov model. These predictions enable the development of more effective intervention strategies",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Abbas A. N."
+        },
+        {
+          "name": "Amazu C. W."
+        },
+        {
+          "name": "Baldissone G."
+        },
+        {
+          "name": "Briwa H."
+        },
+        {
+          "name": "Chasparis G. C."
+        },
+        {
+          "name": "Demichela M."
+        },
+        {
+          "name": "Kelleher J. D."
+        },
+        {
+          "name": "Leva M. C."
+        },
+        {
+          "name": "Mietkiewicz J."
+        },
+        {
+          "name": "Perez A. A."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/622186469.pdf",
+      "publisher": "Taylor and Francis",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19216081,
+      "doi": null,
+      "title": "Trauma-informed services and trauma-specific care for Indigenous Australian children",
+      "abstract": "This paper examines how childhood trauma experienced by Indigenous children can be overcome by appropriate interventions.IntroductionWhile many Indigenous and non-Indigenous Australian children grow up in safe homes and live in safe communities, there are some who do not. In the case of Indigenous children, some families and communities are unable to, or are still working to, heal the trauma of past events, including displacement from Country, institutionalisation and abuse. The Stolen Generations also represent a significant cause of trauma. In 2008, an estimated 8% of Indigenous people aged 15 and over reported being removed from their natural family and 38% had relatives who had been removed from their natural family. This trauma can pass to children (inter-generational trauma).Indigenous children may also experience a range of distressing life events including illness and accidents, hospitalisation or death of close family members, exposure to violence, family disintegration (with kin networks fragmented due to forced removals, relationship breakdown and possibly incarceration) and financial stress.Experiencing trauma in childhood can have severe and long-lasting effects; effects that can be overcome by appropriate interventions. This resource sheet examines these effects and explores how they can be tackled. It focuses on the design and delivery of trauma-informed and trauma-specific children\u2019s services and care",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Judy Atkinson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/30676318.pdf",
+      "publisher": "Australian Institute of Health and Welfare",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 151532827,
+      "doi": "10.18154/rwth-2023-06510",
+      "title": "Synthesizing FDIR Recovery Strategies for Space Systems",
+      "abstract": "Dynamic Fault Trees (DFTs) are powerful tools to drive the design of fault tolerant systems. However, semantic pitfalls limit their practical utility for interconnected systems that require complex recovery strategies to maximize their reliability. This thesis discusses the shortcomings of DFTs in the context of analyzing Fault Detection, Isolation and Recovery (FDIR) concepts with a particular focus on the needs of space systems. To tackle these shortcomings, we introduce an inherently non-deterministic model for DFTs. Deterministic recovery strategies are synthesized by transforming these non-deterministic DFTs into Markov automata that represent all possible choices between recovery actions. From the corresponding scheduler, optimized to maximize a given RAMS (Reliability, Availability, Maintainability and Safety) metric, an optimal recovery strategy can then be derived and represented by a model we call recovery automaton. We discuss dedicated techniques for reducing the state space of this recovery automaton and analyze their soundness and completeness. Moreover, modularized approaches to handle the complexity added by the state-based transformation approach are discussed. Furthermore, we consider the non-deterministic approach in a partially observable setting and propose an approach to lift the model for the fully observable case. We give an implementation of our approach within the Model-Based Systems Engineering (MBSE) framework Virtual Satellite. Finally, the implementation is evaluated based on the FFORT benchmark. The results show that basic non-deterministic DFTs generally scale well. However, we also found that semantically enriched non-deterministic DFTs employing repair or delayed observability mechanisms pose a challenge",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "M\u00fcller, Sascha"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/590248800.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 145065574,
+      "doi": null,
+      "title": "Human Connection as a Treatment for Addiction",
+      "abstract": "Research supports that social connection is important in both humans and animals. In humans, having a cohesive support/social network system and healthy attachments in childhood predict low risk of later addiction (i.e. substance use disorder), as does perceived support from a religious or other cohesive community. Moreover, personal characteristics such as identifying as religious or spiritual can predict low risk for addiction, but little is known about the intersection of neuroscience and religion/spirituality in this regard. Conversely, adverse childhood experiences (ACEs) have repeatedly been shown to predict later addiction. However, the role of the body\u2019s neuro-hormonal responses, such as the endogenous opioid and oxytocin systems in this process merits further exploration, such as how the production or deprivation of endogenous opioids impact later substance use patterns. Existing research also provides evidence that individuals decrease pursuit of interpersonal connections and social bonds when they use substances that activate opioid receptors. This has been found with both substances of abuse and medications used to treat addiction (e.g., methadone, buprenorphine, naltrexone). Research has also demonstrated that addiction often results in situations of social isolation. However, it remains to be elucidated whether the substances of abuse physiologically meet that need for connection. Importantly, research across numerous fields indicates that intentionally increasing interpersonal connection may be an effective treatment for addiction. However, less is known about how specific characteristics of communities impact the quantity, quality, or effectiveness of care and support for a person with addiction [...]https://dc.etsu.edu/etsu_books/1292/thumbnail.jp",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Clements, Andrea D."
+        },
+        {
+          "name": "Cook, Christopher C.H."
+        },
+        {
+          "name": "Unterrainer, Human-Friedrich"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/576880848.pdf",
+      "publisher": "Digital Commons @ East Tennessee State University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 30320798,
+      "doi": "10.1007/s13740-014-0038-4",
+      "title": "Knowledge-Intensive Processes: Characteristics, Requirements and Analysis of Contemporary Approaches",
+      "abstract": "Engineering of knowledge-intensive processes (KiPs) is far from being mastered, since they are genuinely knowledge- and data-centric, and require substantial flexibility, at both design- and run-time. In this work, starting from a scientific literature analysis in the area of KiPs and from three real-world domains and application scenarios, we provide a precise characterization of KiPs. Furthermore, we devise some general requirements related to KiPs management and execution. Such requirements contribute to the definition of an evaluation framework to assess current system support for KiPs. To this end, we present a critical analysis on a number of existing process-oriented approaches by discussing their efficacy against the requirements",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Di Ciccio, Claudio"
+        },
+        {
+          "name": "Marrella, Andrea"
+        },
+        {
+          "name": "Russo, Alessandro"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/54509593.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 37631933,
+      "doi": "10.1016/j.robot.2017.11.010",
+      "title": "Reset-free Trial-and-Error Learning for Robot Damage Recovery",
+      "abstract": "The high probability of hardware failures prevents many advanced robots\n(e.g., legged robots) from being confidently deployed in real-world situations\n(e.g., post-disaster rescue). Instead of attempting to diagnose the failures,\nrobots could adapt by trial-and-error in order to be able to complete their\ntasks. In this situation, damage recovery can be seen as a Reinforcement\nLearning (RL) problem. However, the best RL algorithms for robotics require the\nrobot and the environment to be reset to an initial state after each episode,\nthat is, the robot is not learning autonomously. In addition, most of the RL\nmethods for robotics do not scale well with complex robots (e.g., walking\nrobots) and either cannot be used at all or take too long to converge to a\nsolution (e.g., hours of learning). In this paper, we introduce a novel\nlearning algorithm called \"Reset-free Trial-and-Error\" (RTE) that (1) breaks\nthe complexity by pre-generating hundreds of possible behaviors with a dynamics\nsimulator of the intact robot, and (2) allows complex robots to quickly recover\nfrom damage while completing their tasks and taking the environment into\naccount. We evaluate our algorithm on a simulated wheeled robot, a simulated\nsix-legged robot, and a real six-legged walking robot that are damaged in\nseveral ways (e.g., a missing leg, a shortened leg, faulty motor, etc.) and\nwhose objective is to reach a sequence of targets in an arena. Our experiments\nshow that the robots can recover most of their locomotion abilities in an\nenvironment with obstacles, and without any human intervention.Comment: 18 pages, 16 figures, 3 tables, 6 pseudocodes/algorithms, video at\n  https://youtu.be/IqtyHFrb3BU, code at\n  https://github.com/resibots/chatzilygeroudis_2018_rt",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baranes"
+        },
+        {
+          "name": "Blanke"
+        },
+        {
+          "name": "Bongard"
+        },
+        {
+          "name": "Browne"
+        },
+        {
+          "name": "Calandra"
+        },
+        {
+          "name": "Carlson"
+        },
+        {
+          "name": "Corbato"
+        },
+        {
+          "name": "Cully"
+        },
+        {
+          "name": "DeDonato"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Deisenroth"
+        },
+        {
+          "name": "Droniou"
+        },
+        {
+          "name": "Durrant-Whyte"
+        },
+        {
+          "name": "Guizzo"
+        },
+        {
+          "name": "Hester"
+        },
+        {
+          "name": "Isermann"
+        },
+        {
+          "name": "Jean-Baptiste Mouret"
+        },
+        {
+          "name": "Kavraki"
+        },
+        {
+          "name": "Kober"
+        },
+        {
+          "name": "Konstantinos Chatzilygeroudis"
+        },
+        {
+          "name": "Koos"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "LaValle"
+        },
+        {
+          "name": "Lengagne"
+        },
+        {
+          "name": "Mnih"
+        },
+        {
+          "name": "Mostafa"
+        },
+        {
+          "name": "Mouret"
+        },
+        {
+          "name": "Nguyen"
+        },
+        {
+          "name": "Nguyen-Tuong"
+        },
+        {
+          "name": "Nori"
+        },
+        {
+          "name": "Peters"
+        },
+        {
+          "name": "Pugh"
+        },
+        {
+          "name": "Qui\u00f1onero-Candela"
+        },
+        {
+          "name": "Rasmussen"
+        },
+        {
+          "name": "Ren"
+        },
+        {
+          "name": "Shahriari"
+        },
+        {
+          "name": "Silver"
+        },
+        {
+          "name": "Stulp"
+        },
+        {
+          "name": "Sutton"
+        },
+        {
+          "name": "Vassilis Vassiliades"
+        },
+        {
+          "name": "Verma"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/145170263.pdf",
+      "publisher": "'Elsevier BV'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "0921-8890"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42647547,
+      "doi": "10.1186/s12913-016-1267-z",
+      "title": "Development of an e-supported illness management and recovery programme for consumers with severe mental illness using intervention mapping, and design of an early cluster randomized controlled trial",
+      "abstract": "Background: E-mental health is a promising medium to keep mental health affordable and accessible. For consumers with severe mental illness the evidence of the effectiveness of e-health is limited. A number of difficulties and barriers have to be addressed concerning e-health for consumers with severe mental illness. One possible solution might be to blend e-health with face-to-face delivery of a recovery-oriented treatment, like the Illness Management & Recovery (IMR) programme. This paper describes the development of an e-health application for the IMR programme and the design of an early clustered randomized controlled trial. \nMethod/Design: We developed the e-IMR intervention according to the six-step protocol of Intervention Mapping. Consumers joined the development group to address important and relevant issues for the target group. Decisions during the six-step development process were based on qualitative evaluations of the Illness Management & Recovery programme, structured interviews, discussion in the development group, and literature reviews on qualitative papers concerning consumers with severe mental illness, theoretical models, behavioural change techniques, and telemedicine for consumers with severe mental illness. The aim of the e-IMR intervention is to help consumers with severe mental illness to involve others, manage achieving goals, and prevent relapse. The e-IMR intervention consists of face-to-face delivery of the Illness Management & Recovery programme and an e-health application containing peer-testimonials on videos, follow up on goals and coping strategies, monitoring symptoms, solving problems, and communication opportunities. We designed an early cluster randomized controlled trial that will evaluate the e-IMR intervention. In the control condition the Illness Management & Recovery programme is provided. The main effect-study parameters are: illness management, recovery, psychiatric symptoms severity, self-management, quality of life, and general health. The process of the IMR program will be evaluated on fidelity and feasibility in semi-structured interviews with participants and trainers. \nDiscussion: Intervention Mapping provided a systematic procedure for the development of this e-health intervention for consumers with severe mental illness and the preparation of an early randomized controlled trial",
+      "yearPublished": 2015,
+      "publishedDate": "2015-12-01T00:00:00",
+      "authors": [
+        {
+          "name": "Beentjes, Titus AA"
+        },
+        {
+          "name": "Goossens, Peter"
+        },
+        {
+          "name": "Schoonhoven, Lisette"
+        },
+        {
+          "name": "van Gaal, Betsie GI"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/132629295.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [
+        {
+          "title": "BMC Health Services Research",
+          "identifiers": [
+            "1472-6963"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 24902682,
+      "doi": null,
+      "title": "Design study of Software-Implemented Fault-Tolerance (SIFT) computer",
+      "abstract": "Software-implemented fault tolerant (SIFT) computer design for commercial aviation is reported. A SIFT design concept is addressed. Alternate strategies for physical implementation are considered. Hardware and software design correctness is addressed. System modeling and effectiveness evaluation are considered from a fault-tolerant point of view",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Goldberg, J."
+        },
+        {
+          "name": "Green, M. W."
+        },
+        {
+          "name": "Kutz, W. H."
+        },
+        {
+          "name": "Levitt, K. N."
+        },
+        {
+          "name": "Mills, M. E."
+        },
+        {
+          "name": "Shostak, R. E."
+        },
+        {
+          "name": "Wensley, J. H."
+        },
+        {
+          "name": "Whiting-Okeefe, P. M."
+        },
+        {
+          "name": "Zeidler, H. M."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/42855722.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4475791,
+      "doi": null,
+      "title": "Deep Space Network information system architecture study",
+      "abstract": "The purpose of this article is to describe an architecture for the Deep Space Network (DSN) information system in the years 2000-2010 and to provide guidelines for its evolution during the 1990s. The study scope is defined to be from the front-end areas at the antennas to the end users (spacecraft teams, principal investigators, archival storage systems, and non-NASA partners). The architectural vision provides guidance for major DSN implementation efforts during the next decade. A strong motivation for the study is an expected dramatic improvement in information-systems technologies, such as the following: computer processing, automation technology (including knowledge-based systems), networking and data transport, software and hardware engineering, and human-interface technology. The proposed Ground Information System has the following major features: unified architecture from the front-end area to the end user; open-systems standards to achieve interoperability; DSN production of level 0 data; delivery of level 0 data from the Deep Space Communications Complex, if desired; dedicated telemetry processors for each receiver; security against unauthorized access and errors; and highly automated monitor and control",
+      "yearPublished": 1992,
+      "publishedDate": "1992-05-15T00:00:00",
+      "authors": [
+        {
+          "name": "Atkinson, D. J."
+        },
+        {
+          "name": "Beswick, C. A."
+        },
+        {
+          "name": "Cooper, L. P."
+        },
+        {
+          "name": "Crowe, R. A."
+        },
+        {
+          "name": "Jenkins, J. S."
+        },
+        {
+          "name": "Markley, R. W."
+        },
+        {
+          "name": "Masline, R. C."
+        },
+        {
+          "name": "Stoloff, M. J."
+        },
+        {
+          "name": "Tausworthe, R. C."
+        },
+        {
+          "name": "Thomas, J. L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/10438278.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 16167406,
+      "doi": null,
+      "title": "Regulating Compensation for Injuries Associated with Medical Error",
+      "abstract": "Tort-based system of compensation for injuries associated with medical error is inadequate - development of innovative approaches to no-fault compensation - proposed model of compensation based on the idea of institutions integrating rights-to-claim compensation with regulatory strategies to improve patient safety",
+      "yearPublished": 2006,
+      "publishedDate": "2006-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Corbett, A"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://opus.lib.uts.edu.au/bitstream/10453/1487/3/2008002263.pdf",
+      "publisher": "Thomson Legal and Regulatory Ltd",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:0082-0512",
+            "0082-0512"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 167043656,
+      "doi": "10.1080/10447318.2024.2391605",
+      "title": "Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies",
+      "abstract": "In complex industrial and chemical process control rooms, effective decision-making is crucial for safety and efficiency. The experiments in this paper evaluate the impact and applications of an AI-based decision support system integrated into an improved human-machine interface, using dynamic influence diagrams, a hidden Markov model, and deep reinforcement learning. The enhanced support system aims to reduce operator workload, improve situational awareness, and provide different intervention strategies to the operator adapted to the current state of both the system and human performance. Such a system can be particularly useful in cases of information overload when many alarms and inputs are presented all within the same time window, or for junior operators during training. A comprehensive cross-data analysis was conducted, involving 47 participants and a diverse range of data sources such as smartwatch metrics, eye-tracking data, process logs, and responses from questionnaires. The results indicate interesting insights regarding the effectiveness of the approach in aiding decision-making, decreasing perceived workload, and increasing situational awareness for the scenarios considered. Additionally, the results provide insights to compare differences between styles of information gathering when using the system by individual participants. These findings are particularly relevant when predicting the overall performance of the individual participant and their capacity to successfully handle a plant upset and the alarms connected to it using process and human-machine interaction logs in real-time which resulted in a 95.8% prediction accuracy using hidden Markov model. These predictions enable the development of more effective intervention strategies",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Abbas A. N."
+        },
+        {
+          "name": "Amazu C. W."
+        },
+        {
+          "name": "Baldissone G."
+        },
+        {
+          "name": "Briwa H."
+        },
+        {
+          "name": "Chasparis G. C."
+        },
+        {
+          "name": "Demichela M."
+        },
+        {
+          "name": "Kelleher J. D."
+        },
+        {
+          "name": "Leva M. C."
+        },
+        {
+          "name": "Mietkiewicz J."
+        },
+        {
+          "name": "Perez A. A."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/622186469.pdf",
+      "publisher": "Taylor and Francis",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 19216081,
+      "doi": null,
+      "title": "Trauma-informed services and trauma-specific care for Indigenous Australian children",
+      "abstract": "This paper examines how childhood trauma experienced by Indigenous children can be overcome by appropriate interventions.IntroductionWhile many Indigenous and non-Indigenous Australian children grow up in safe homes and live in safe communities, there are some who do not. In the case of Indigenous children, some families and communities are unable to, or are still working to, heal the trauma of past events, including displacement from Country, institutionalisation and abuse. The Stolen Generations also represent a significant cause of trauma. In 2008, an estimated 8% of Indigenous people aged 15 and over reported being removed from their natural family and 38% had relatives who had been removed from their natural family. This trauma can pass to children (inter-generational trauma).Indigenous children may also experience a range of distressing life events including illness and accidents, hospitalisation or death of close family members, exposure to violence, family disintegration (with kin networks fragmented due to forced removals, relationship breakdown and possibly incarceration) and financial stress.Experiencing trauma in childhood can have severe and long-lasting effects; effects that can be overcome by appropriate interventions. This resource sheet examines these effects and explores how they can be tackled. It focuses on the design and delivery of trauma-informed and trauma-specific children\u2019s services and care",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Judy Atkinson"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/30676318.pdf",
+      "publisher": "Australian Institute of Health and Welfare",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 151532827,
+      "doi": "10.18154/rwth-2023-06510",
+      "title": "Synthesizing FDIR Recovery Strategies for Space Systems",
+      "abstract": "Dynamic Fault Trees (DFTs) are powerful tools to drive the design of fault tolerant systems. However, semantic pitfalls limit their practical utility for interconnected systems that require complex recovery strategies to maximize their reliability. This thesis discusses the shortcomings of DFTs in the context of analyzing Fault Detection, Isolation and Recovery (FDIR) concepts with a particular focus on the needs of space systems. To tackle these shortcomings, we introduce an inherently non-deterministic model for DFTs. Deterministic recovery strategies are synthesized by transforming these non-deterministic DFTs into Markov automata that represent all possible choices between recovery actions. From the corresponding scheduler, optimized to maximize a given RAMS (Reliability, Availability, Maintainability and Safety) metric, an optimal recovery strategy can then be derived and represented by a model we call recovery automaton. We discuss dedicated techniques for reducing the state space of this recovery automaton and analyze their soundness and completeness. Moreover, modularized approaches to handle the complexity added by the state-based transformation approach are discussed. Furthermore, we consider the non-deterministic approach in a partially observable setting and propose an approach to lift the model for the fully observable case. We give an implementation of our approach within the Model-Based Systems Engineering (MBSE) framework Virtual Satellite. Finally, the implementation is evaluated based on the FFORT benchmark. The results show that basic non-deterministic DFTs generally scale well. However, we also found that semantically enriched non-deterministic DFTs employing repair or delayed observability mechanisms pose a challenge",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "M\u00fcller, Sascha"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/590248800.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 145065574,
+      "doi": null,
+      "title": "Human Connection as a Treatment for Addiction",
+      "abstract": "Research supports that social connection is important in both humans and animals. In humans, having a cohesive support/social network system and healthy attachments in childhood predict low risk of later addiction (i.e. substance use disorder), as does perceived support from a religious or other cohesive community. Moreover, personal characteristics such as identifying as religious or spiritual can predict low risk for addiction, but little is known about the intersection of neuroscience and religion/spirituality in this regard. Conversely, adverse childhood experiences (ACEs) have repeatedly been shown to predict later addiction. However, the role of the body\u2019s neuro-hormonal responses, such as the endogenous opioid and oxytocin systems in this process merits further exploration, such as how the production or deprivation of endogenous opioids impact later substance use patterns. Existing research also provides evidence that individuals decrease pursuit of interpersonal connections and social bonds when they use substances that activate opioid receptors. This has been found with both substances of abuse and medications used to treat addiction (e.g., methadone, buprenorphine, naltrexone). Research has also demonstrated that addiction often results in situations of social isolation. However, it remains to be elucidated whether the substances of abuse physiologically meet that need for connection. Importantly, research across numerous fields indicates that intentionally increasing interpersonal connection may be an effective treatment for addiction. However, less is known about how specific characteristics of communities impact the quantity, quality, or effectiveness of care and support for a person with addiction [...]https://dc.etsu.edu/etsu_books/1292/thumbnail.jp",
+      "yearPublished": 2023,
+      "publishedDate": "2023-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Clements, Andrea D."
+        },
+        {
+          "name": "Cook, Christopher C.H."
+        },
+        {
+          "name": "Unterrainer, Human-Friedrich"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/576880848.pdf",
+      "publisher": "Digital Commons @ East Tennessee State University",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 30320798,
+      "doi": "10.1007/s13740-014-0038-4",
+      "title": "Knowledge-Intensive Processes: Characteristics, Requirements and Analysis of Contemporary Approaches",
+      "abstract": "Engineering of knowledge-intensive processes (KiPs) is far from being mastered, since they are genuinely knowledge- and data-centric, and require substantial flexibility, at both design- and run-time. In this work, starting from a scientific literature analysis in the area of KiPs and from three real-world domains and application scenarios, we provide a precise characterization of KiPs. Furthermore, we devise some general requirements related to KiPs management and execution. Such requirements contribute to the definition of an evaluation framework to assess current system support for KiPs. To this end, we present a critical analysis on a number of existing process-oriented approaches by discussing their efficacy against the requirements",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Di Ciccio, Claudio"
+        },
+        {
+          "name": "Marrella, Andrea"
+        },
+        {
+          "name": "Russo, Alessandro"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/54509593.pdf",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

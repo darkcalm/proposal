@@ -1,0 +1,1521 @@
+{
+  "total": 3201,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "0bf1e14a80630635114dbf791df8cf28ca3fde9e",
+      "externalIds": {
+        "DBLP": "conf/smartnets/GunderiaANB24",
+        "DOI": "10.1109/SmartNets61466.2024.10577641",
+        "CorpusId": 270974058
+      },
+      "url": "https://www.semanticscholar.org/paper/0bf1e14a80630635114dbf791df8cf28ca3fde9e",
+      "title": "AI Approaches for Predictive Maintenance in Road Bridge Infrastructure",
+      "venue": "International Conference on Smart Communications and Networking",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SmartNets61466.2024.10577641?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SmartNets61466.2024.10577641, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study examines various predictive maintenance models, including Artificial Neural Networks (ANN), Convolution Neural Networks (CNN), Stochastic Models, Stochastic Models, particle Swarm Optimisation and Constrained Programming, and proposes the predictive road maintenance model workflow, which will further lead to build a prototype of AI driven technologies based predictive model."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "publicationDate": "2024-05-28",
+      "journal": {
+        "name": "2024 International Conference on Smart Applications, Communications and Networking (SmartNets)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2309833532",
+          "name": "Amisha Gunderia"
+        },
+        {
+          "authorId": "2309836023",
+          "name": "Priyansh Agarwal"
+        },
+        {
+          "authorId": "2312379731",
+          "name": "Valmik B. Nikam"
+        },
+        {
+          "authorId": "2312379677",
+          "name": "A. N. Bambole"
+        }
+      ],
+      "abstract": "Efficient maintenance of transportation networks relies on smart technologies to ensure safety and longevity. Traditional corrective maintenance methods are often insufficient, necessitating advanced predictive approaches driven by AI technologies. However, existing literature lacks a comprehensive evaluation of these AI-driven strategies, with sustainability considerations often overlooked. To address this, we have executed a critical literature survey in which we evaluate all models with the metrics of cost, performance, ease of implementation, etc. Our study examines various predictive maintenance models, including Artificial Neural Networks (ANN), Convolution Neural Networks (CNN), Stochastic Models,Particle Swarm Optimisation and Constrained Programming [1]\u2013[5]. Our findings conclude with the proposition of our proposed model, which integrates ANN and CNN, along with Life Cycle Assessment to incorporate sustainability. By evaluating performance, cost-effectiveness, and practicality, we aim to develop comprehensive AI-driven main-tenance strategies. We focus on the accuracy, complexity, and scalability of each model and assess their ability to address road bridge infrastructure maintenance challenges. Additionally, we evaluate the sustainability implications, providing insights for future research and practice. This study aims to bridge the gap in the literature and contribute to the development of sustainable predictive maintenance strategies leveraging AI technologies, and propose the predictive road maintenance model workflow, which will further lead to build a prototype of AI driven technologies based predictive model."
+    },
+    {
+      "paperId": "6e4486286a6f788b2514afc31bdb9015801d57e3",
+      "externalIds": {
+        "PubMedCentral": "10346720",
+        "DBLP": "journals/sensors/MoledaMDSM23",
+        "DOI": "10.3390/s23135970",
+        "CorpusId": 259588499,
+        "PubMed": "37447820"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e4486286a6f788b2514afc31bdb9015801d57e3",
+      "title": "From Corrective to Predictive Maintenance\u2014A Review of Maintenance Approaches for the Power Industry",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2023,
+      "referenceCount": 284,
+      "citationCount": 86,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/13/5970/pdf?version=1687940310",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10346720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-06-27",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "23"
+      },
+      "authors": [
+        {
+          "authorId": "12577882",
+          "name": "M. Moleda"
+        },
+        {
+          "authorId": "1401772170",
+          "name": "Bo\u017cena Ma\u0142ysiak-Mrozek"
+        },
+        {
+          "authorId": "2163787981",
+          "name": "Weiping Ding"
+        },
+        {
+          "authorId": "1718805",
+          "name": "V. Sunderam"
+        },
+        {
+          "authorId": "3200353",
+          "name": "Dariusz Mrozek"
+        }
+      ],
+      "abstract": "Appropriate maintenance of industrial equipment keeps production systems in good health and ensures the stability of production processes. In specific production sectors, such as the electrical power industry, equipment failures are rare but may lead to high costs and substantial economic losses not only for the power plant but for consumers and the larger society. Therefore, the power production industry relies on a variety of approaches to maintenance tasks, ranging from traditional solutions and engineering know-how to smart, AI-based analytics to avoid potential downtimes. This review shows the evolution of maintenance approaches to support maintenance planning, equipment monitoring and supervision. We present older techniques traditionally used in maintenance tasks and those that rely on IT analytics to automate tasks and perform the inference process for failure detection. We analyze prognostics and health-management techniques in detail, including their requirements, advantages and limitations. The review focuses on the power-generation sector. However, some of the issues addressed are common to other industries. The article also presents concepts and solutions that utilize emerging technologies related to Industry 4.0, touching on prescriptive analysis, Big Data and the Internet of Things. The primary motivation and purpose of the article are to present the existing practices and classic methods used by engineers, as well as modern approaches drawing from Artificial Intelligence and the concept of Industry 4.0. The summary of existing practices and the state of the art in the area of predictive maintenance provides two benefits. On the one hand, it leads to improving processes by matching existing tools and methods. On the other hand, it shows researchers potential directions for further analysis and new developments."
+    },
+    {
+      "paperId": "d313716653b8c4b1a7884d1cd3c62a8ece02b8e3",
+      "externalIds": {
+        "MAG": "2894060655",
+        "DOI": "10.23919/URSI-AT-RASC.2018.8471357",
+        "CorpusId": 52900666
+      },
+      "url": "https://www.semanticscholar.org/paper/d313716653b8c4b1a7884d1cd3c62a8ece02b8e3",
+      "title": "Comparison of Software Defined Radio Techniques and Smart Metering Devices for Predictive Maintenance Applications",
+      "venue": "2018 2nd URSI Atlantic Radio Science Meeting (AT-RASC)",
+      "year": 2018,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/URSI-AT-RASC.2018.8471357?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/URSI-AT-RASC.2018.8471357, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper compares two approaches for generating input data for Predictive Maintenance systems using Software Defined Radios outside of their traditional application field, because of their high flexibility."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2018-05-01",
+      "journal": {
+        "name": "2018 2nd URSI Atlantic Radio Science Meeting (AT-RASC)",
+        "pages": "1-3"
+      },
+      "authors": [
+        {
+          "authorId": "30886159",
+          "name": "A. Faschingbauer"
+        },
+        {
+          "authorId": "50029321",
+          "name": "S. Kunze"
+        },
+        {
+          "authorId": "35085856",
+          "name": "R. Poeschl"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "89d73f64866de32d27a87eb78c13ebb3170345ee",
+      "externalIds": {
+        "DOI": "10.1109/UPCON59197.2023.10434814",
+        "CorpusId": 268043936
+      },
+      "url": "https://www.semanticscholar.org/paper/89d73f64866de32d27a87eb78c13ebb3170345ee",
+      "title": "Intelligent Systems For Predictive Maintenance In Industrial IoT",
+      "venue": "IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",
+      "year": 2023,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/UPCON59197.2023.10434814?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/UPCON59197.2023.10434814, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This abstract explores the use of recurrent neural networks (RNNs) in the creation of smart systems for predictive maintenance in the industrial IoT, and suggests that intelligent predictive maintenance solutions may enhance equipment dependability, shorten repair times, and better distribute scarce resources."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2023-12-01",
+      "journal": {
+        "name": "2023 10th IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)",
+        "pages": "1650-1655",
+        "volume": "10"
+      },
+      "authors": [
+        {
+          "authorId": "2287971561",
+          "name": "M. Vijayakumar"
+        },
+        {
+          "authorId": "2287965871",
+          "name": "Prabha Shreeraj Nair"
+        },
+        {
+          "authorId": "2213551340",
+          "name": "S. B. G Tilak Babu"
+        },
+        {
+          "authorId": "2287963582",
+          "name": "Kommabatla Mahender"
+        },
+        {
+          "authorId": "2287964285",
+          "name": "T. S Venkateswaran"
+        },
+        {
+          "authorId": "2128828703",
+          "name": "N. L"
+        }
+      ],
+      "abstract": "The IIoT has changed the way businesses function by making available real-time data and insights from linked devices. Predictive maintenance is becoming increasingly important since it enables businesses to keep tabs on their machinery and fix any problems before they become costly breakdowns. This abstract explores the use of recurrent neural networks (RNNs) in the creation of smart systems for predictive maintenance in the industrial IoT. The goal of predictive maintenance is to foresee impending equipment failure and take corrective measures in good time to avoid costly downtime. Downtime and extra expenses in maintenance are two potential outcomes of the traditional maintenance approach, which is often reactive or scheduled based on previous data. Using real-time data and machine learning techniques, intelligent systems driven by RNNs provide a possible answer. As a subset of artificial neural networks, recurrent neural networks (RNNs) excel at processing time-series data, making them an obvious candidate for predictive maintenance in the industrial IoT. RNNs include a feedback loop that allows them to capture temporal relationships in data, making them superior to typical feedforward neural networks for forecasting equipment failures based on past sensor data. Data gathering and preprocessing are major hurdles for RNN-based predictive maintenance in the industrial IoT. Massive volumes of sensor data are produced in industrial settings, and this data must be cleaned, processed, and prepared for training RNN models. In addition, predictive maintenance solutions can only be effective with high-quality, consistent data. When constructed properly, RNN models are capable of learning sensor data patterns and anomalies. These models can then inform maintenance crews of the impending failure of critical pieces of equipment. By utilising RNNs, not only can current sensor data be included but also past data, allowing for dynamic and adaptable upkeep tactics. Furthermore, for successful deployment, it is necessary to combine edge computing with cloud-based solutions. In order to analyse sensor data in real time and make prompt decisions, edge computing moves processing closer to the data source. Cloud-based solutions, on the other hand, can scale as needed, store data, and provide insights over time. When used together, these methods make for very responsive and scalable predictive maintenance systems. Intelligent predictive maintenance solutions may enhance equipment dependability, shorten repair times, and better distribute scarce resources. Predicting when maintenance is needed helps businesses save time and money by avoiding unneeded maintenance. There are advantages to using such systems beyond just financial savings. Predictive maintenance helps with sustainability since it lowers energy use, lessens waste, and lengthens the life of machinery. Workplace safety is improved as a result of a decrease in the possibility of unanticipated equipment failure."
+    },
+    {
+      "paperId": "97fc3c0a4734a7a1a60265feb11e8c8f4399995b",
+      "externalIds": {
+        "DBLP": "conf/indin/SayedLSM15",
+        "MAG": "1641598423",
+        "DOI": "10.1109/INDIN.2015.7281990",
+        "CorpusId": 918205
+      },
+      "url": "https://www.semanticscholar.org/paper/97fc3c0a4734a7a1a60265feb11e8c8f4399995b",
+      "title": "SelSus: Towards a reference architecture for diagnostics and predictive maintenance using smart manufacturing devices",
+      "venue": "International Conference on Industrial Informatics",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 17,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://figshare.com/articles/conference_contribution/SelSus_Towards_a_reference_architecture_for_diagnostics_and_predictive_maintenance_using_smart_manufacturing_devices/9553010/1/files/17184755.pdf",
+        "status": "GREEN",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/INDIN.2015.7281990?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INDIN.2015.7281990, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A reference architecture, SelSus (SELf-SUStaining Manufacturing Systems) is proposed that aims to enable the provisioning of diagnostic and prognostic capabilities in manufacturing systems that utilize the notions of \u201csmart\u201d automation devices."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2015-07-22",
+      "journal": {
+        "name": "2015 IEEE 13th International Conference on Industrial Informatics (INDIN)",
+        "pages": "1700-1705"
+      },
+      "authors": [
+        {
+          "authorId": "144167186",
+          "name": "M. S. Sayed"
+        },
+        {
+          "authorId": "46423067",
+          "name": "N. Lohse"
+        },
+        {
+          "authorId": "1400921607",
+          "name": "Nicolaj S\u00f8ndberg-Jeppesen"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        }
+      ],
+      "abstract": "We propose a reference architecture, SelSus (SELf-SUStaining Manufacturing Systems) that aims to enable the provisioning of diagnostic and prognostic capabilities in manufacturing systems that utilize the notions of \u201csmart\u201d automation devices."
+    },
+    {
+      "paperId": "6646851b54f89ead6971689eade8f312872b87f3",
+      "externalIds": {
+        "DOI": "10.63682/jns.v14i24s.5910",
+        "CorpusId": 278958371
+      },
+      "url": "https://www.semanticscholar.org/paper/6646851b54f89ead6971689eade8f312872b87f3",
+      "title": "Optimizing Hospital Resource Management with IoT and Machine Learning: A Case Study in Predictive Maintenance",
+      "venue": "Journal of Neonatal Surgery",
+      "year": 2025,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.63682/jns.v14i24s.5910?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63682/jns.v14i24s.5910, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Medicine",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An IoT and machine learning (ML)-driven framework for predictive maintenance in hospital infrastructures is presented and a case study done in a tertiary care hospital showed a 20% increase in maintenance cost efficiency and a 27% decrease in unanticipated equipment downtime."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2025-05-15",
+      "journal": {
+        "name": "Journal of Neonatal Surgery"
+      },
+      "authors": [
+        {
+          "authorId": "2364067877",
+          "name": "Y. Rama"
+        },
+        {
+          "authorId": "2265388347",
+          "name": "M. J. Reddy"
+        },
+        {
+          "authorId": "2363870809",
+          "name": "B. K. Glory"
+        },
+        {
+          "authorId": null,
+          "name": "Bathula Prasanna Kumar"
+        },
+        {
+          "authorId": "2265275491",
+          "name": "G. Prasad"
+        },
+        {
+          "authorId": "2364070668",
+          "name": "Jithender Reddy"
+        },
+        {
+          "authorId": "2364069251",
+          "name": "Bathula Prasanna"
+        },
+        {
+          "authorId": "2364071339",
+          "name": "Kumar"
+        },
+        {
+          "authorId": "2364069726",
+          "name": "N. R. Prasad"
+        }
+      ],
+      "abstract": "In particular in critical care settings, effective hospital resource management is essential to guarantee continuous healthcare services. An IoT and machine learning (ML)-driven framework for predictive maintenance in hospital infrastructures is presented in this work. Real-time data on operational parameters is gathered and examined by means of IoT sensors installed on medical equipment and building tools. To foresee equipment breakdown before occurrence, a Random Forest-based predictive maintenance model was put in use. Our case study done in a tertiary care hospital showed a 20% increase in maintenance cost efficiency and a 27% decrease in unanticipated equipment downtime. The results highlight how well smart predictive systems might improve operational resilience, lower costs, and guarantee patient safety."
+    },
+    {
+      "paperId": "9e62a52d95eee41ea479e33af9dbc52177bf43d9",
+      "externalIds": {
+        "MAG": "3015984769",
+        "PubMedCentral": "7181000",
+        "DBLP": "journals/sensors/HoffmannWGBGKAF20",
+        "DOI": "10.3390/s20072099",
+        "CorpusId": 215733875,
+        "PubMed": "32276442"
+      },
+      "url": "https://www.semanticscholar.org/paper/9e62a52d95eee41ea479e33af9dbc52177bf43d9",
+      "title": "Integration of Novel Sensors and Machine Learning for Predictive Maintenance in Medium Voltage Switchgear to Enable the Energy and Mobility Revolutions",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2020,
+      "referenceCount": 128,
+      "citationCount": 71,
+      "influentialCitationCount": 4,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/20/7/2099/pdf?version=1586350016",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7181000, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The current state-of-the-art of all aspects of condition monitoring for medium voltage switchgear is reviewed and an approach to develop a predictive maintenance system based on novel sensors and machine learning is presented."
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-04-01",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "20"
+      },
+      "authors": [
+        {
+          "authorId": "2090573468",
+          "name": "Martin W. Hoffmann"
+        },
+        {
+          "authorId": "35031328",
+          "name": "S. Wildermuth"
+        },
+        {
+          "authorId": "2690648",
+          "name": "R. Gitzel"
+        },
+        {
+          "authorId": "98467026",
+          "name": "A. Boyaci"
+        },
+        {
+          "authorId": "93698470",
+          "name": "J\u00f6rg Gebhardt"
+        },
+        {
+          "authorId": "31627266",
+          "name": "H. Kaul"
+        },
+        {
+          "authorId": "48461223",
+          "name": "I. Amihai"
+        },
+        {
+          "authorId": "73375791",
+          "name": "B. Forg"
+        },
+        {
+          "authorId": "9299463",
+          "name": "M. Suriyah"
+        },
+        {
+          "authorId": "2612220",
+          "name": "T. Leibfried"
+        },
+        {
+          "authorId": "32141617",
+          "name": "V. Stich"
+        },
+        {
+          "authorId": "31093985",
+          "name": "Jan Hicking"
+        },
+        {
+          "authorId": "2065625879",
+          "name": "Martin Bremer"
+        },
+        {
+          "authorId": "2094208069",
+          "name": "Lars Kaminski"
+        },
+        {
+          "authorId": "1776754",
+          "name": "D. Beverungen"
+        },
+        {
+          "authorId": "1654180787",
+          "name": "Philipp zur Heiden"
+        },
+        {
+          "authorId": "148248730",
+          "name": "Tanja Tornede"
+        }
+      ],
+      "abstract": "The development of renewable energies and smart mobility has profoundly impacted the future of the distribution grid. An increasing bidirectional energy flow stresses the assets of the distribution grid, especially medium voltage switchgear. This calls for improved maintenance strategies to prevent critical failures. Predictive maintenance, a maintenance strategy relying on current condition data of assets, serves as a guideline. Novel sensors covering thermal, mechanical, and partial discharge aspects of switchgear, enable continuous condition monitoring of some of the most critical assets of the distribution grid. Combined with machine learning algorithms, the demands put on the distribution grid by the energy and mobility revolutions can be handled. In this paper, we review the current state-of-the-art of all aspects of condition monitoring for medium voltage switchgear. Furthermore, we present an approach to develop a predictive maintenance system based on novel sensors and machine learning. We show how the existing medium voltage grid infrastructure can adapt these new needs on an economic scale."
+    },
+    {
+      "paperId": "f2bda864e3868a038b40b966db0cc269176a53d5",
+      "externalIds": {
+        "MAG": "2774649588",
+        "DBLP": "conf/iecon/ZarteWP17",
+        "DOI": "10.1109/IECON.2017.8216571",
+        "CorpusId": 25314132
+      },
+      "url": "https://www.semanticscholar.org/paper/f2bda864e3868a038b40b966db0cc269176a53d5",
+      "title": "Concept and first case study for a generic predictive maintenance simulation in AnyLogic\u2122",
+      "venue": "Annual Conference of the IEEE Industrial Electronics Society",
+      "year": 2017,
+      "referenceCount": 8,
+      "citationCount": 14,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IECON.2017.8216571?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IECON.2017.8216571, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The paper presents a concept and a first case study for a generic, predictive maintenance simulation in AnyLogic\u2122, and demonstrates, how the simulation-model can be used to simulate example data from a testbed production to improve production plans."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2017-10-01",
+      "journal": {
+        "name": "IECON 2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society",
+        "pages": "3372-3377"
+      },
+      "authors": [
+        {
+          "authorId": "29401789",
+          "name": "Maximilian Zarte"
+        },
+        {
+          "authorId": "31761001",
+          "name": "Ude Wunder"
+        },
+        {
+          "authorId": "39808694",
+          "name": "Agnes Pechmann"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "784a1de199252ede3527a11eb1ebf064b70b86f3",
+      "externalIds": {
+        "CorpusId": 195729474
+      },
+      "url": "https://www.semanticscholar.org/paper/784a1de199252ede3527a11eb1ebf064b70b86f3",
+      "title": "Distribution Transformer Health Monitoring and Predictive Asset Maintenance",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 16,
+      "citationCount": 5,
+      "influentialCitationCount": 2,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "36584042",
+          "name": "Prasenjit Shil"
+        },
+        {
+          "authorId": "153428764",
+          "name": "T. Anderson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "428ae8b4885c67014c5afa1474633e99e00af840",
+      "externalIds": {
+        "DBLP": "journals/sensors/MoensBSHAODVH20",
+        "PubMedCentral": "7435597",
+        "MAG": "3046229754",
+        "DOI": "10.3390/s20154308",
+        "CorpusId": 220966204,
+        "PubMed": "32748809"
+      },
+      "url": "https://www.semanticscholar.org/paper/428ae8b4885c67014c5afa1474633e99e00af840",
+      "title": "Scalable Fleet Monitoring and Visualization for Smart Machine Maintenance and Industrial IoT Applications",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2020,
+      "referenceCount": 40,
+      "citationCount": 38,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/20/15/4308/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7435597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The resulting platform provides benchmark data for the improvement of machine learning algorithms, gives insights into the design, implementation and validation of a complete architecture for IIoT applications with specific requirements concerning robustness, scalability and security and therefore reduces the reticence in the industry to widely adopt these technologies."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-08-01",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "20"
+      },
+      "authors": [
+        {
+          "authorId": "1506980790",
+          "name": "Pieter Moens"
+        },
+        {
+          "authorId": "1857451378",
+          "name": "Vincent Bracke"
+        },
+        {
+          "authorId": "1857545705",
+          "name": "Colin Soete"
+        },
+        {
+          "authorId": "51286999",
+          "name": "Sander Vanden Hautte"
+        },
+        {
+          "authorId": "119432977",
+          "name": "Diego Nieves Avendano"
+        },
+        {
+          "authorId": "51913455",
+          "name": "T. Ooijevaar"
+        },
+        {
+          "authorId": "40429475",
+          "name": "S. Devos"
+        },
+        {
+          "authorId": "1803683",
+          "name": "B. Volckaert"
+        },
+        {
+          "authorId": "1790767",
+          "name": "S. V. Hoecke"
+        }
+      ],
+      "abstract": "The wide adoption of smart machine maintenance in manufacturing is blocked by open challenges in the Industrial Internet of Things (IIoT) with regard to robustness, scalability and security. Solving these challenges is of uttermost importance to mission-critical industrial operations. Furthermore, effective application of predictive maintenance requires well-trained machine learning algorithms which on their turn require high volumes of reliable data. This paper addresses both challenges and presents the Smart Maintenance Living Lab, an open test and research platform that consists of a fleet of drivetrain systems for accelerated lifetime tests of rolling-element bearings, a scalable IoT middleware cloud platform for reliable data ingestion and persistence, and a dynamic dashboard application for fleet monitoring and visualization. Each individual component within the presented system is discussed and validated, demonstrating the feasibility of IIoT applications for smart machine maintenance. The resulting platform provides benchmark data for the improvement of machine learning algorithms, gives insights into the design, implementation and validation of a complete architecture for IIoT applications with specific requirements concerning robustness, scalability and security and therefore reduces the reticence in the industry to widely adopt these technologies."
+    },
+    {
+      "paperId": "edc0ae6a1183a6bd155fca4eeca1180e5a5cb4d1",
+      "externalIds": {
+        "DOI": "10.1109/SGRE59715.2024.10428959",
+        "CorpusId": 267702300
+      },
+      "url": "https://www.semanticscholar.org/paper/edc0ae6a1183a6bd155fca4eeca1180e5a5cb4d1",
+      "title": "Availability and Failure Prediction for Telecommunication Equipment in Smart Grid",
+      "venue": "2024 4th International Conference on Smart Grid and Renewable Energy (SGRE)",
+      "year": 2024,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/SGRE59715.2024.10428959?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SGRE59715.2024.10428959, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work proposes a monitoring system for telecommunication equipment in the smart grid with three main components: availability prediction, failure prediction, and visualization, which outperforms the ensemble models with an F1 score of 91%."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-01-08",
+      "journal": {
+        "name": "2024 4th International Conference on Smart Grid and Renewable Energy (SGRE)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "26966611",
+          "name": "I. Mecheter"
+        },
+        {
+          "authorId": "2284346441",
+          "name": "Eros John de Santana"
+        },
+        {
+          "authorId": "2284586052",
+          "name": "Daniel Lucas Dos Santos"
+        },
+        {
+          "authorId": "2284345555",
+          "name": "Wesley De Oliveira Santana"
+        },
+        {
+          "authorId": "2284525061",
+          "name": "Jo\u00e3o Vyctor Garcia"
+        },
+        {
+          "authorId": "2284425237",
+          "name": "Jens Schneider"
+        }
+      ],
+      "abstract": "Telecommunication, with its recent advancement, has become an essential and crucial part of smart grids to enable reliable, efficient, and safe operations. Telecommunication predictive maintenance plays a key role in transforming the way in which the electricity grid is monitored. By predicting the availability status and failure possibility of telecommunication equipment, the operators in the smart grid control center can make proper decisions and efficient maintenance scheduling. In this work, a monitoring system for telecommunication equipment in the smart grid is proposed. The system includes three main components: availability prediction, failure prediction, and visualization. Time series analysis is performed using K-means clustering to classify the availability time series into clusters with similar behaviors. For each cluster, an ensemble boosting algorithm is applied to predict the availability value of each piece of equipment in the next hour, 12 hours, and 24 hours. Fully convolutional network (FCN) and Residual network (ResNet) are employed to predict the failures as a classification task. With availability prediction, the Extreme Gradient Boosting (XGBoost) model shows accurate prediction results with a mean absolute error between 1 - 9%. For failure prediction, deep learning outperforms the ensemble models with an F1 score of 91%. The prediction results are visualized in a Grafana dashboard to facilitate the smart grid monitoring services. Telecommunication automation coupled with appropriate visualization tools enables the advancement in the smart grid field."
+    },
+    {
+      "paperId": "4128cb5eac93446daac8804803da4f1903a8f37f",
+      "externalIds": {
+        "CorpusId": 268419980
+      },
+      "url": "https://www.semanticscholar.org/paper/4128cb5eac93446daac8804803da4f1903a8f37f",
+      "title": "An Internet of Things-based Predictive Maintenance Architecture for Intensive Care Unit Ventilators",
+      "venue": "",
+      "year": null,
+      "referenceCount": 27,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Medicine",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An IoT-focused framework for a predictive maintenance system implemented at the component level is proposed that comprises a monitoring framework and a data analytics module to predict potential system failures in advance, enhancing overall performance."
+      },
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "2220460449",
+          "name": "Oumaima Manchadi"
+        },
+        {
+          "authorId": "2220460132",
+          "name": "Fatima-Ezzahraa Ben-Bouazza"
+        },
+        {
+          "authorId": "2291413091",
+          "name": "Zineb El"
+        },
+        {
+          "authorId": "2291417694",
+          "name": "Otmani Dehbi"
+        },
+        {
+          "authorId": "2291417782",
+          "name": "Aymane Edder"
+        },
+        {
+          "authorId": "2190896412",
+          "name": "Idriss Tafala"
+        },
+        {
+          "authorId": "2291386774",
+          "name": "Mehdi Et-Taoussi"
+        },
+        {
+          "authorId": "66238743",
+          "name": "Bassma Jioudi"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7f5116ca9d53a0f2352972d653d6be6b7f619e6b",
+      "externalIds": {
+        "MAG": "3109796053",
+        "CorpusId": 199428580
+      },
+      "url": "https://www.semanticscholar.org/paper/7f5116ca9d53a0f2352972d653d6be6b7f619e6b",
+      "title": "LEAN SMART MAINTENANCE: EFFICIENT AND EFFECTIVE ASSET MANAGEMENT FOR SMART FACTORIES",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 9,
+      "citationCount": 8,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Business"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Business",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A model that enables resource and risk optimized lean smart maintenance by combining lean management tools, risk analysis and data analytics the model supports the transition to an Industry 4.0 oriented asset management."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2016-06-01",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2078928988",
+          "name": "Alfred Kinz"
+        },
+        {
+          "authorId": "2102370347",
+          "name": "Robert Bernerstaetter"
+        },
+        {
+          "authorId": "2067577452",
+          "name": "Hubert Biedermann"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "c3de3c183379e03badff2b7269e1986fcf96e001",
+      "externalIds": {
+        "DOI": "10.30574/wjarr.2024.21.1.0171",
+        "CorpusId": 267058747
+      },
+      "url": "https://www.semanticscholar.org/paper/c3de3c183379e03badff2b7269e1986fcf96e001",
+      "title": "Review of smart water management: IoT and AI in water and wastewater treatment",
+      "venue": "World Journal of Advanced Research and Reviews",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 16,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://wjarr.com/sites/default/files/WJARR-2024-0171.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.21.1.0171?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.21.1.0171, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This comprehensive review explores the Internet of Things (IoT) and Artificial Intelligence (AI) technologies' benefits, challenges, regulatory implications, and future trends and concludes collaboration, public awareness, and ethical considerations will guide the evolution of intelligent and equitable water management systems."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-01-30",
+      "journal": {
+        "name": "World Journal of Advanced Research and Reviews"
+      },
+      "authors": [
+        {
+          "authorId": "2287945243",
+          "name": "Michael Ayorinde Dada"
+        },
+        {
+          "authorId": "2287947318",
+          "name": "Michael Tega Majemite"
+        },
+        {
+          "authorId": "2287946268",
+          "name": "Alexander Obaigbena"
+        },
+        {
+          "authorId": "2288316065",
+          "name": "Onyeka Henry Daraojimba"
+        },
+        {
+          "authorId": "2290099183",
+          "name": "Johnson Sunday Oliha"
+        },
+        {
+          "authorId": "2282312410",
+          "name": "Zamathula Queen"
+        },
+        {
+          "authorId": "2282316502",
+          "name": "Sikhakhane Nwokediegwu"
+        }
+      ],
+      "abstract": "Integrating the Internet of Things (IoT) and Artificial Intelligence (AI) in smart water management revolutionizes sustainable water resource utilization. This comprehensive review explores these technologies' benefits, challenges, regulatory implications, and future trends. Smart water management enhances operational efficiency, predictive maintenance, and resource conservation while addressing data security and infrastructure investment challenges. Regulatory frameworks play a pivotal role in shaping the responsible deployment of AI and IoT, ensuring data privacy and ethical use. Future trends include advanced sensors, decentralized systems, quantum computing, and blockchain for enhanced water data security. The alignment with Sustainable Development Goals (SDGs) underscores the transformative potential of smart water management in achieving universal access to clean water, climate resilience, and inclusive, sustainable development. As we embrace these technologies, collaboration, public awareness, and ethical considerations will guide the evolution of intelligent and equitable water management systems."
+    },
+    {
+      "paperId": "9c61f4d8e1443d3478b8ca28de5036412aca9e2d",
+      "externalIds": {
+        "DOI": "10.1109/ICAAID51067.2022.9799489",
+        "CorpusId": 249929819
+      },
+      "url": "https://www.semanticscholar.org/paper/9c61f4d8e1443d3478b8ca28de5036412aca9e2d",
+      "title": "Integrated Sensor based Smart Diagnostic and Online Monitoring of Industrial Systems",
+      "venue": "2022 4th International Conference on Applied Automation and Industrial Diagnostics (ICAAID)",
+      "year": 2022,
+      "referenceCount": 5,
+      "citationCount": 2,
+      "influentialCitationCount": 1,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAAID51067.2022.9799489?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAAID51067.2022.9799489, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The real world challenges during the realization of GROWS as well as the actual gathered measurements using it are discussed and gear-integrated autonomous wireless sensors (GROWS) based on an embedded system design with maximized power efficiency may become the only reliable option."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2022-03-29",
+      "journal": {
+        "name": "2022 4th International Conference on Applied Automation and Industrial Diagnostics (ICAAID)",
+        "pages": "1-6",
+        "volume": "1"
+      },
+      "authors": [
+        {
+          "authorId": "2509267",
+          "name": "F. Derbel"
+        },
+        {
+          "authorId": "3461623",
+          "name": "Florian Strakosch"
+        }
+      ],
+      "abstract": "When considering the implementation of smart diagnostic and online monitoring for a predictive maintenance approach in industrial environments, and for rotating machinery in particular, most approaches focus on adding wired sensors with high sampling rates and collecting data in a big scale. However, since such systems can only be mounted on the housing of the considered components, important signals of critical parts deep inside a multi-stage layout may not be detectable this way. In this case, gear-integrated autonomous wireless sensors (GROWS) based on an embedded system design with maximized power efficiency may become the only reliable option. In this paper, the real world challenges during the realization of GROWS as well as the actual gathered measurements using it are discussed."
+    },
+    {
+      "paperId": "7e263df0b66a98a812043c4db38387e0f7103ab2",
+      "externalIds": {
+        "MAG": "3086959365",
+        "DOI": "10.1109/TMECH.2020.3022983",
+        "CorpusId": 222419283
+      },
+      "url": "https://www.semanticscholar.org/paper/7e263df0b66a98a812043c4db38387e0f7103ab2",
+      "title": "State of AI-Based Monitoring in Smart Manufacturing and Introduction to Focused Section",
+      "venue": "IEEE/ASME transactions on mechatronics",
+      "year": 2020,
+      "referenceCount": 61,
+      "citationCount": 88,
+      "influentialCitationCount": 5,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://arts.units.it/bitstream/11368/2971420/1/IAI_ALL.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/TMECH.2020.3022983?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TMECH.2020.3022983, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The key technologies of IAI are summarized and their typical application scenarios with respect to three major aspects of production monitoring: fault diagnosis, remaining useful life prediction, and quality inspection are discussed."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2020-09-09",
+      "journal": {
+        "name": "IEEE/ASME Transactions on Mechatronics",
+        "pages": "2143-2154",
+        "volume": "25"
+      },
+      "authors": [
+        {
+          "authorId": "2101319081",
+          "name": "Han Ding"
+        },
+        {
+          "authorId": "1700762",
+          "name": "R. Gao"
+        },
+        {
+          "authorId": "34704130",
+          "name": "A. Isaksson"
+        },
+        {
+          "authorId": "1747790",
+          "name": "R. Landers"
+        },
+        {
+          "authorId": "1743776",
+          "name": "T. Parisini"
+        },
+        {
+          "authorId": "2109127762",
+          "name": "Ye Yuan"
+        }
+      ],
+      "abstract": "Over the past few decades, intelligentization, supported by artificial intelligence (AI) technologies, has become an important trend for industrial manufacturing, accelerating the development of smart manufacturing. In modern industries, standard AI has been endowed with additional attributes, yielding the so-called industrial artificial intelligence (IAI) that has become the technical core of smart manufacturing. AI-powered manufacturing brings remarkable improvements in many aspects of closed-loop production chains from manufacturing processes to end product logistics. In particular, IAI incorporating domain knowledge has benefited the area of production monitoring considerably. Advanced AI methods such as deep neural networks, adversarial training, and transfer learning have been widely used to support both diagnostics and predictive maintenance of the entire production process. It is generally believed that IAI is the critical technologies needed to drive the future evolution of industrial manufacturing. This article offers a comprehensive overview of AI-powered manufacturing and its applications in monitoring. More specifically, it summarizes the key technologies of IAI and discusses their typical application scenarios with respect to three major aspects of production monitoring: fault diagnosis, remaining useful life prediction, and quality inspection. In addition, the existing problems and future research directions of IAI are also discussed. This article further introduces the papers in this focused section on AI-based monitoring in smart manufacturing by weaving them into the overview, highlighting how they contribute to and extend the body of literature in this area."
+    },
+    {
+      "paperId": "419fb5d93f4a5b4ffd17939c8e1c6d50bdd3fb5d",
+      "externalIds": {
+        "MAG": "2125488136",
+        "DOI": "10.1109/MSSC.2010.936667",
+        "CorpusId": 42261758
+      },
+      "url": "https://www.semanticscholar.org/paper/419fb5d93f4a5b4ffd17939c8e1c6d50bdd3fb5d",
+      "title": "Energy Harvesting for Autonomous Wireless Sensor Networks",
+      "venue": "IEEE Solid-State Circuits Magazine",
+      "year": 2010,
+      "referenceCount": 59,
+      "citationCount": 608,
+      "influentialCitationCount": 22,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MSSC.2010.936667?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MSSC.2010.936667, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The typical power requirements of some current portable devices, including a body sensor network, are shown in Figure 1."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2010-06-01",
+      "journal": {
+        "name": "IEEE Solid-State Circuits Magazine",
+        "pages": "29-38",
+        "volume": "2"
+      },
+      "authors": [
+        {
+          "authorId": "115060543",
+          "name": "R. Vullers"
+        },
+        {
+          "authorId": "143649695",
+          "name": "R. Schaijk"
+        },
+        {
+          "authorId": "26433327",
+          "name": "H. Visser"
+        },
+        {
+          "authorId": "1834509",
+          "name": "J. Penders"
+        },
+        {
+          "authorId": "7858571",
+          "name": "C. Hoof"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ba139234c2738146be1893c214a51b9ebd22fae4",
+      "externalIds": {
+        "MAG": "2606577669",
+        "DBLP": "conf/ieaaie/MadsenSSPL17",
+        "DOI": "10.1007/978-3-319-60045-1_16",
+        "CorpusId": 33210758
+      },
+      "url": "https://www.semanticscholar.org/paper/ba139234c2738146be1893c214a51b9ebd22fae4",
+      "title": "Applying Object-Oriented Bayesian Networks for Smart Diagnosis and Health Monitoring at both Component and Factory Level",
+      "venue": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+      "year": 2017,
+      "referenceCount": 18,
+      "citationCount": 6,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-60045-1_16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-60045-1_16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A modular component-based modelling approach enabled by the use of OOBNs for health monitoring and root-cause analysis of manufacturing systems using a welding controller produced by Harms & Wende as an example is described."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2017-06-27",
+      "journal": {
+        "pages": "132-141"
+      },
+      "authors": [
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        },
+        {
+          "authorId": "1400921607",
+          "name": "Nicolaj S\u00f8ndberg-Jeppesen"
+        },
+        {
+          "authorId": "144167186",
+          "name": "M. S. Sayed"
+        },
+        {
+          "authorId": "1879006",
+          "name": "Michael Peschl"
+        },
+        {
+          "authorId": "46423067",
+          "name": "N. Lohse"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6a8679f89df1c7623db0c031f009d9968888868d",
+      "externalIds": {
+        "MAG": "3047276959",
+        "DOI": "10.24989/ocg.v331.16",
+        "CorpusId": 221859289
+      },
+      "url": "https://www.semanticscholar.org/paper/6a8679f89df1c7623db0c031f009d9968888868d",
+      "title": "What the Smart City in the Danube Region Can Learn From Industry 4.0",
+      "venue": "Central and Eastern European eDem and eGov Days",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 5,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ejournals.facultas.at/index.php/ocgcp/article/download/1700/1493",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.24989/ocg.v331.16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24989/ocg.v331.16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Business"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Business",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This contribution attempts to show the parallelism, but also differences between smart cities and Industry 4.0, where learning effects may occur and known pitfalls may be avoided."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2018-07-12",
+      "journal": {
+        "name": "Central and Eastern European eDem and eGov Days"
+      },
+      "authors": [
+        {
+          "authorId": "143823861",
+          "name": "Alexander Prosser"
+        }
+      ],
+      "abstract": "The Smart City Concept throughout all its current definitions is essentially a system that uses state-of-the-art ICT to provide and process information, to adapt and learn. The Internet of Things and advances in affordable sensor technology play an additional important role. The net result of the \u201csmartification\u201d of a city is the creation of a living, networked system of assets, devices and infrastructure. This living system continuously collects data that enables the system to learn and evolve. \nThis is nothing new or path-breaking. In logistics and the manufacturing industry, this concept has been widely implemented to optimise supply chains, from predictive maintenance, to dynamic route optimisation and online business intelligence (BI). \u201cIndustry 4.0\u201d has evolved from a buzzword to everyday reality. Moreover, these technologies do not just \u201celectrify\u201d existing processes \u2013 they enable new processes and beyond that even completely new business models that would not have been feasible with the pre-Industry-4.0 technology. Particularly the advent of in-memory business analytics that enables BI from the original transaction data in an on-demand/online fashion has facilitated this development. Now, the public sector is discovering these technologies for its own purposes. \nThis contribution attempts to show the parallelism, but also differences between smart cities and Industry 4.0, where learning effects may occur and known pitfalls may be avoided."
+    },
+    {
+      "paperId": "60f035be59d507b890e377c0ac1fb949ad88fa07",
+      "externalIds": {
+        "DBLP": "conf/icecocs/DeroussiMAE18",
+        "MAG": "2909976798",
+        "DOI": "10.1109/ICECOCS.2018.8610510",
+        "CorpusId": 58012536
+      },
+      "url": "https://www.semanticscholar.org/paper/60f035be59d507b890e377c0ac1fb949ad88fa07",
+      "title": "New Scalable Smart Telemetry for Industrial Systems: IoT solutions",
+      "venue": "International Conference on Electronics, Control, Optimization and Computer Science",
+      "year": 2018,
+      "referenceCount": 6,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECOCS.2018.8610510?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECOCS.2018.8610510, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A new scalable architecture of smart telemetry system based on IoT (Internet of Things) devices, it uses cellular (SMS solution) and internet (TCP/UDP Solution) networks to transmit, in real time, data to or from supervised and controlled system."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2018-12-01",
+      "journal": {
+        "name": "2018 International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS)",
+        "pages": "1-4"
+      },
+      "authors": [
+        {
+          "authorId": "67130951",
+          "name": "Anass Deroussi"
+        },
+        {
+          "authorId": "50461268",
+          "name": "A. Madi"
+        },
+        {
+          "authorId": "3095571",
+          "name": "A. Addaim"
+        },
+        {
+          "authorId": "65751660",
+          "name": "Anass Erraoui"
+        }
+      ],
+      "abstract": "In this paper, we propose a new scalable architecture of smart telemetry system based on IoT (Internet of Things) devices, it uses cellular (SMS solution) and internet (TCP/UDP Solution) networks to transmit, in real time, data to or from supervised and controlled system. Here, we try, for example, to collect measurements data from the flammable gas, temperature sensors and DC motor. This proposed work takes advantage of being scalable and also proposing a solution to solve temperature, redundancy and electromagnetic compatibility problems, which are the critical parameters in the majority of applications based on IIoT (Industrial IoT) solutions. The proposed smart telemetry system is promising and could play an important role in reducing repairs costs and improve efficiencies in preventive and predictive maintenance. Consequently, manufacturing and logistics environments could increase their productivity by using IIoT technologies to anticipate maintenance needs to prevent equipment failures and avoid unscheduled downtime."
+    }
+  ]
+}

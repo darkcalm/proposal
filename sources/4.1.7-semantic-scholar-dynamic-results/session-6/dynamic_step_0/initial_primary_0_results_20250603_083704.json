@@ -1,0 +1,138 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "82f00e98a68ec85f037d44f3cfc8fbe9c4326087",
+      "externalIds": {
+        "DBLP": "phd/es/Rezazadeh24",
+        "DOI": "10.5821/dissertation-2117-404782",
+        "CorpusId": 268594412
+      },
+      "url": "https://www.semanticscholar.org/paper/82f00e98a68ec85f037d44f3cfc8fbe9c4326087",
+      "title": "Lifelong AI-driven zero-touch network slicing",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://upcommons.upc.edu/bitstream/2117/404782/1/TFR1de1.pdf",
+        "status": "HYBRID",
+        "license": "public-domain",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.5821/dissertation-2117-404782?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5821/dissertation-2117-404782, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": null,
+      "publicationDate": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "2266752316",
+          "name": "Farhad Rezazadeh"
+        }
+      ],
+      "abstract": "(English) The sixth-generation (6G) network's evolution necessitates advancements in algorithms and architecture to transition from an AI-native to an intrinsic trustworthy automation-native system. Network slicing creates multiple virtual networks for diverse service requirements and is a crucial technology for future communication systems and 6G networks. This technology will facilitate numerous aspects of life, society, and industry, meeting the communication needs of both humans and intelligent machines. This is made possible by employing softwarization and virtualization technologies, including software-defined networking (SDN) and network functions virtualization (NFV), to enable the necessary flexibility and programmability required for network slicing. However, the implementation of network slicing in radio access networks (RAN) is challenging due to the complexity of managing RAN operations. This gap is addressed with zero-touch network slicing, a fully automated management and orchestration scheme, which eliminates the need for fixed contracts and manual intervention. The decision engine, a main component of this technology, employs algorithmic innovation to optimize network resource allocation and handle the challenges of RAN slicing, including energy efficiency, latency, scalability, and trustworthiness. In resource allocation, a joint optimization approach is used to balance energy and latency with service quality. A stochastic Actor-Critic approach is proposed to streamline the learning procedure and reduce the need for hyperparameter tuning in an energy-aware network slicing setup. Additionally, a massive deep reinforcement learning-based actor-learner framework is introduced to tackle complexity issues and control challenges in network slicing. The temporal variations of traffic demand pose a significant challenge for resource planning and allocation in the RAN domain. To mitigate this, a distributed architecture for RAN slice resource orchestration is proposed, featuring multiple AI-enabled decision agents that perform local radio allocation decisions without a centralized control entity. A federated learning scheme, aligned with the recent development of the Open RAN architecture, is designed to enhance local decision-making capabilities. Despite AI's effectiveness, concerns persist regarding the lack of transparency in deep neural networks, posing risks to reliability and security in network scenarios. This lack of trust prevents telecommunications operators from widely deploying AI models in their networks. To address this, we proposed SliceOps architecture that consolidates explainable ML operations in a standalone slice, offering AI services to other slices. This setup enhances the reliability and interpretability of AI models, facilitating swift deployment in the network with greater consistency. By transitioning from AI-native to automation-native, this framework manages both service and underlying AI functions, allowing full potential harnessing of slicing in RAN while reducing complexities.\n (Espa\u00f1ol) La evoluci\u00f3n hacia la red de sexta generaci\u00f3n (6G) requiere avances en algoritmos y arquitectura para pasar de un sistema nativo de IA a un sistema nativo de automatizaci\u00f3n intr\u00ednsecamente confiable. El slicing de red crea m\u00faltiples redes virtuales para diversos requisitos de servicio y es una tecnolog\u00eda crucial para los sistemas de comunicaci\u00f3n futuros y las redes 6G. Esta tecnolog\u00eda facilitar\u00e1 numerosos aspectos de la vida, la sociedad y la industria, satisfaciendo las necesidades de comunicaci\u00f3n tanto de humanos como de m\u00e1quinas inteligentes. Esto se hace posible mediante el uso de tecnolog\u00edas de softwarizaci\u00f3n y virtualizaci\u00f3n, incluyendo redes definidas por software (SDN) y virtualizaci\u00f3n de funciones de red (NFV), que dotan la flexibilidad y la programabilidad necesarias para el slicing de red. Sin embargo, la implementaci\u00f3n de slicing de red en las redes de acceso por radio (RAN) es todo un desaf\u00edo debido a la complejidad de gestionar las operaciones en el dominio radio. Esta brecha se aborda con el slicing de red zero-touch, un esquema de gesti\u00f3n y orquestaci\u00f3n totalmente automatizado, que elimina la necesidad de contratos fijos e intervenci\u00f3n manual. El motor de decisiones, un componente principal de esta tecnolog\u00eda, emplea la innovaci\u00f3n algor\u00edtmica para optimizar la asignaci\u00f3n de recursos de la red y manejar los desaf\u00edos del slicing de RAN, incluyendo la eficiencia energ\u00e9tica, la latencia, la escalabilidad y la confiabilidad. En la asignaci\u00f3n de recursos, se utiliza un enfoque de optimizaci\u00f3n conjunta para equilibrar la energ\u00eda y la latencia con la calidad del servicio. En concreto, se propone un enfoque Actor-Cr\u00edtico estoc\u00e1stico para agilizar el procedimiento de aprendizaje y reducir la necesidad de ajustar hiperpar\u00e1metros en una configuraci\u00f3n de slicing de red consciente del consumo energ\u00e9tico. Adem\u00e1s, se introduce un marco de actor-aprendiz basado en un aprendizaje profundo masivo para abordar los problemas de complejidad y los desaf\u00edos de control en el slicing de red. A su vez, las variaciones temporales de la demanda de tr\u00e1fico representan un desaf\u00edo significativo para la planificaci\u00f3n y asignaci\u00f3n de recursos en el dominio de RAN. Para mitigar esto, se propone una arquitectura distribuida para la orquestaci\u00f3n de recursos de slices de RAN, que cuenta con m\u00faltiples agentes de decisi\u00f3n habilitados por IA que materializan decisiones locales de asignaci\u00f3n de radio sin una entidad de control centralizada. Se dise\u00f1a un esquema de aprendizaje federado al respecto, alineado con el reciente desarrollo de la arquitectura Open RAN, para mejorar las capacidades de toma de decisiones locales. A pesar de la efectividad de la IA, persisten las preocupaciones sobre la falta de transparencia en las redes neuronales profundas, lo que supone riesgos para la fiabilidad y la seguridad en los escenarios de red. Esta falta de confianza impide que los operadores de telecomunicaciones desplieguen ampliamente modelos de IA en sus redes. Para abordar esto, propusimos la arquitectura SliceOps que consolida las operaciones de ML explicables en un slice independiente, ofreciendo servicios de IA a otros slices. Esta configuraci\u00f3n mejora la fiabilidad y la interpretabilidad de los modelos de IA, facilitando una implementaci\u00f3n r\u00e1pida en la red con mayor consistencia. Al pasar de ser nativo de IA a nativo de automatizaci\u00f3n, este marco gestiona tanto las funciones de servicio como las subyacentes de IA, permitiendo el aprovechamiento total del slicing en RAN y reduciendo las complejidades."
+    },
+    {
+      "paperId": "4b3a3fe4136c0feea2bb4dce9a4b818b5e191b06",
+      "externalIds": {
+        "CorpusId": 235195151
+      },
+      "url": "https://www.semanticscholar.org/paper/4b3a3fe4136c0feea2bb4dce9a4b818b5e191b06",
+      "title": "Influence of Cycle Variations of the Polar and Nonpolar Magnetic Fields of the Sun on the Parameters of the Solar Wind",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Physics",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": null,
+      "authors": [],
+      "abstract": null
+    },
+    {
+      "paperId": "62fefd61629336352e3662292004e6288188b611",
+      "externalIds": {
+        "MAG": "10209720",
+        "CorpusId": 108111349
+      },
+      "url": "https://www.semanticscholar.org/paper/62fefd61629336352e3662292004e6288188b611",
+      "title": "\u201cTulevaisuuden jalkav\u00e4kitaistelijan kehitysty\u00f6 Suomessa \u2013 katse oman maan puolustamisessa ja tulevaisuuden kriisinhallintaoperaatioissa\u201d",
+      "venue": "",
+      "year": 2007,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Political Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article focuses on the topic of Future Warrior development in the Finnish Army, and accounts for the definitions of the terms battlefield, future battlefield, and future soldier and possible technologies available for future warriors."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "",
+        "volume": "65"
+      },
+      "authors": [
+        {
+          "authorId": "2101556491",
+          "name": "Tapio Saarelainen"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Field studies examining human operator challenges in distributed energy resource (DER) operations highlight several key issues. The integration of DERs introduces bidirectional power flow, leading to voltage variations, protection problems, and stability concerns (Akhtar Hussain Javed et al., 2021). Operators face difficulties in coordinating a large number of distributed assets, necessitating innovative approaches like transactive control (Hu et al., 2017). Challenges include managing technical and economic performance across multiple time scales, activating demand-side resources, and promoting resilient operation (Muhanji et al., 2018). The increasing penetration of DERs requires enhanced coordination between transmission and distribution system operators (Birk et al., 2016). Operators must also address issues related to grid congestion, voltage deviations, and balancing needs (Guzmán-Henao et al., 2024). Additionally, the integration of renewable sources, storage systems, and demand response mechanisms presents operational challenges that impact system reliability and stability (Loji et al., 2023; Vartanian et al., 2018; Guerrero et al., 2020).
+
+Javed, A. H., Nguyen, P. H., Morren, J., & Slootweg, J. G. H. (2021). Review of Operational Challenges and Solutions for DER Integration with Distribution Networks. 2021 56th International Universities Power Engineering Conference (UPEC), 1–6. https://doi.org/10.1109/upec50034.2021.9548198
+
+Guzmán-Henao, J. A., Bolaños, R. I., Montoya, O. D., Grisales-Noreña, L. F., & Chamorro, H. R. (2024). On Integrating and Operating Distributed Energy Resources in Distribution Networks: A Review of Current Solution Methods, Challenges, and Opportunities. IEEE Access, 12, 55111–55133. https://doi.org/10.1109/access.2024.3387400
+
+HU, J., YANG, G., KOK, K., XUE, Y., & BINDNER, H. W. (2016). Transactive control: a framework for operating power systems characterized by high penetration of distributed energy resources. Journal of Modern Power Systems and Clean Energy, 5(3), 451–464. https://doi.org/10.1007/s40565-016-0228-1
+
+Loji, K., Sharma, S., Loji, N., Sharma, G., & Bokoro, P. N. (2023). Operational Issues of Contemporary Distribution Systems: A Review on Recent and Emerging Concerns. Energies, 16(4), 1732. https://doi.org/10.3390/en16041732
+
+Muhanji, S. O., Muzhikyan, A., & Farid, A. M. (2018). Distributed Control for Distributed Energy Resources: Long-Term Challenges and Lessons Learned. IEEE Access, 6, 32737–32753. https://doi.org/10.1109/access.2018.2843720
+
+Vartanian, C., Bauer, R., Casey, L., Loutan, C., Narang, D., & Patel, V. (2018). Ensuring System Reliability: Distributed Energy Resources and Bulk Power System Considerations. IEEE Power and Energy Magazine, 16(6), 52–63. https://doi.org/10.1109/mpe.2018.2863059
+
+Guerrero, J. I., Personal, E., Garcia Caro, S., Parejo, A., Rossi, M., Garcia, A., Perez Sanchez, R., & Leon, C. (2020). Evaluating Distribution System Operators: Automated Demand Response and Distributed Energy Resources in the Flexibility4Chile Project. IEEE Power and Energy Magazine, 18(5), 64–75. https://doi.org/10.1109/mpe.2020.3000688
+
+Michael, B., J., Á., T., R., & R., T. (2016). TSO/DSO coordination in a context of distributed energy resource penetration.

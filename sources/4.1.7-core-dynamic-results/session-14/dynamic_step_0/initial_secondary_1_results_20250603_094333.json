@@ -1,0 +1,812 @@
+{
+  "totalHitsEncounteredAcrossPages": 21525,
+  "retrievedCountForThisQuery": 27,
+  "searchIdentifier": "initial_secondary_1",
+  "originalQuery": "Operator communication tools AND protocols for DER coordination",
+  "results": [
+    {
+      "id": 18059274,
+      "doi": "10.4204/eptcs.175.1",
+      "title": "Handshaking Protocol for Distributed Implementation of Reo",
+      "abstract": "Reo, an exogenous channel-based coordination language, is a model for service\ncoordination wherein services communicate through connectors formed by joining\nbinary communication channels. In order to establish transactional\ncommunication among services as prescribed by connector semantics, distributed\nports exchange handshaking messages signalling which parties are ready to\nprovide or consume data. In this paper, we present a formal implementation\nmodel for distributed Reo with communication delays and outline ideas for its\nproof of correctness. To reason about Reo implementation formally, we introduce\nTimed Action Constraint Automata (TACA) and explain how to compare TACA with\nexisting automata-based semantics for Reo. We use TACA to describe handshaking\nbehavior of Reo modeling primitives and argue that in any distributed circuit\nremote Reo nodes and channels exposing such behavior commit to perform\ntransitions envisaged by the network semantics.Comment: In Proceedings FOCLASA 2014, arXiv:1502.0315",
+      "yearPublished": 2015,
+      "publishedDate": "2015-02-01T00:00:00",
+      "authors": [
+        {
+          "name": "Kokash, Natallia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1504.03553",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42866061,
+      "doi": "10.1109/etfa.2016.7733744",
+      "title": "Evaluating XMPP Communication in IEC 61499-based Distributed Energy\n  Applications",
+      "abstract": "The IEC 61499 reference model provides an international standard developed\nspecifically for supporting the creation of distributed event-based automation\nsystems. Functionality is abstracted into function blocks which can be coded\ngraphically as well as via a text-based method. As one of the design goals was\nthe ability to support distributed control applications, communication plays a\ncentral role in the IEC 61499 specification. In order to enable the deployment\nof functionality to distributed platforms, these platforms need to exchange\ndata in a variety of protocols. IEC 61499 realizes the support of these\nprotocols via \"Service Interface Function Blocks\" (SIFBs). In the context of\nsmart grids and energy applications, IEC 61499 could play an important role, as\nthese applications require coordinating several distributed control logics.\nYet, the support of grid-related protocols is a pre-condition for a wide-spread\nutilization of IEC 61499. The eXtensible Messaging and Presence Protocol (XMPP)\non the other hand is a well-established protocol for messaging, which has\nrecently been adopted for smart grid communication. Thus, SIFBs for XMPP\nfacilitate distributed control applications, which use XMPP for exchanging all\ncontrol relevant data, being realized with the help of IEC 61499. This paper\nintroduces the idea of integrating XMPP into SIFBs, demonstrates the\nprototypical implementation in an open source IEC 61499 platform and provides\nan evaluation of the feasibility of the result.Comment: 2016 IEEE 21st International Conference on Emerging Technologies and\n  Factory Automation (ETFA",
+      "yearPublished": 2017,
+      "publishedDate": "2017-05-15T01:00:00",
+      "authors": [
+        {
+          "name": "Andr\u00e9n, Filip Pr\u00f6stl"
+        },
+        {
+          "name": "Langthaler, Oliver"
+        },
+        {
+          "name": "Parfant, Manuel"
+        },
+        {
+          "name": "Strasser, Thomas"
+        },
+        {
+          "name": "Veichtlbauer, Armin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1705.05367",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133729583,
+      "doi": "10.1109/tsg.2022.3206092.",
+      "title": "ICT architectures for TSO-DSO coordination and data exchange: a European perspective",
+      "abstract": "The coordination between system operators is a key element for the decarbonization of the power system. Over the past few years, many EU-funded research projects have addressed the challenges of Transmission System Operators (TSO) and Distribution System Operators (DSO) coordination by implementing different data exchange architectures. This paper presents a review of the ICT architectures implemented for the main coordination schemes demonstrated in such projects. The main used technologies are analyzed, considering the type of data exchanged and the communication link. Finally, the paper presents the different gaps and challenges on TSO-DSO coordination related to ICT architectures that must still be faced, paying especial attention to the expected contribution of the EU-funded OneNet project on this topic. IEEECoordiNet H202",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-13T01:00:00",
+      "authors": [
+        {
+          "name": "Avila, Jose Pablo Chaves"
+        },
+        {
+          "name": "Bosco, Ferdinando"
+        },
+        {
+          "name": "Croce, Vincenzo"
+        },
+        {
+          "name": "Domingo, Javier Matanza"
+        },
+        {
+          "name": "Kukk, Kalle"
+        },
+        {
+          "name": "Lopez, Gregorio Lopez"
+        },
+        {
+          "name": "Madina, Carlos"
+        },
+        {
+          "name": "Perez, Nestor Rodriguez"
+        },
+        {
+          "name": "Santos-Mugica, Maider"
+        },
+        {
+          "name": "Uslar, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/547500152.pdf",
+      "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "issn:1949-3053",
+            "issn:1949-3061",
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31550158,
+      "doi": null,
+      "title": "A communication protocol for interactively controlling software tools",
+      "abstract": "We present a protocol for interactively using software tools in a loosely coupled tool environment. Such an environment can assist the user in doing tasks that require the use of multiple tools. For example, it can invoke tools on certain input, set processing parameters, await task completion and have tools communicate the resulting output. It can also keep track of files produced by tools and prevent tools from reading and writing to the same file at the same time. The protocol serves as an interface between the tools and a central tool manager. Generally, the manager controls the tools and forms an interface to a human user. The protocol is used to connect our tool manager SQuADT to a variety of tools, hereby allowing these tools to be used on all major software platforms",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Wulp, van der, J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/577347413.pdf",
+      "publisher": "Technische Universiteit Eindhoven",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158299823,
+      "doi": null,
+      "title": "Governing smart grids - the case for an independent system operator",
+      "abstract": "The next years should bring about a rapid transformation of the electricity sector towards high levels of renewable generation. Smart grids are seen as the silver bullet responding to the challenge of integrating renewables, managing flexibility, and keeping the costs down in distribution networks. Network unbundling on the other hand is essential for competition in the liberalized electricity industry. It forces independence of the networks and thereby eliminates concern that incumbent integrated (network) firms discriminate against new entrants. With smart grids the unbundling questions become relevant for distribution networks because active control in smart grids entails discrimination potentials. However, smart grids exhibit coordination needs for system efficiency and unbundling eliminates firm-internal coordination. An independent system operator seems to be an appropriate compromise solution. It eliminates discrimination incentives and serves coordination needs, thereby striking a balance between both competition and efficiency goals",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Friedrichsen, Nele"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://www.econstor.eu/dspace/bitstream/10419/103343/1/800127838.pdf",
+      "publisher": "Bremen: Jacobs University Bremen, Bremer Energie Institut",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2621458,
+      "doi": null,
+      "title": "Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms",
+      "abstract": "This deliverable describes the work done in task 3.1, Middleware analysis: Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms from work package 3, Middleware Implementation. The document is divided in four parts: The introduction with application scenarios and middleware requirements, Catnets middleware architecture, evaluation of existing middleware toolkits, and conclusions. -- Die Arbeit definiert Anforderungen an Grid und Peer-to-Peer Middleware Architekturen und analysiert diese auf ihre Eignung f\u00fcr die prototypische Umsetzung der Katallaxie. Eine Middleware-Architektur f\u00fcr die Umsetzung der Katallaxie in Application Layer Netzwerken wird vorgestellt.Grid Computing",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Chacin, Pablo"
+        },
+        {
+          "name": "Chao, Isaac"
+        },
+        {
+          "name": "Freitag, Felix"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6496829.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2653431,
+      "doi": null,
+      "title": "Information tools for sustainable development: Enabling distributed human intelligence.",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Moor, A. de"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6546681.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 84371254,
+      "doi": "10.4204/eptcs.60.2",
+      "title": "Input-output Conformance Testing for Channel-based Service Connectors",
+      "abstract": "Service-based systems are software systems composed of autonomous components or services provided\n\nby different vendors, deployed on remote machines and accessible through the web. One of the\n\nchallenges of modern software engineering is to ensure that such a system behaves as intended by its\n\ndesigner. The Reo coordination language is an extensible notation for formal modeling and execution\n\nof service compositions. Services that have no prior knowledge about each other communicate\n\nthrough advanced channel connectors which guarantee that each participant, service or client, receives\n\nthe right data at the right time. Each channel is a binary relation that imposes synchronization\n\nand data constraints on input and output messages. Furthermore, channels are composed together\n\nto realize arbitrarily complex behavioral protocols. During this process, a designer may introduce\n\nerrors into the connector model or the code for their execution, and thus affect the behavior of a\n\ncomposed service. In this paper, we present an approach for model-based testing of coordination\n\nprotocols designed in Reo. Our approach is based on the input-output conformance (ioco) testing\n\ntheory and exploits the mapping of automata-based semantic models for Reo to equivalent process\n\nalgebra specifications",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Arbab, F. (Farhad)"
+        },
+        {
+          "name": "Changizi, B. (Behnaz)"
+        },
+        {
+          "name": "Kokash, N. (Natallia)"
+        },
+        {
+          "name": "Makhnist, L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/301635921.pdf",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17160389,
+      "doi": "10.4018/ijssoe.2014100103",
+      "title": "Issues about the Adoption of Formal Methods for Dependable Composition\n  of Web Services",
+      "abstract": "Web Services provide interoperable mechanisms for describing, locating and\ninvoking services over the Internet; composition further enables to build\ncomplex services out of simpler ones for complex B2B applications. While\ncurrent studies on these topics are mostly focused - from the technical\nviewpoint - on standards and protocols, this paper investigates the adoption of\nformal methods, especially for composition. We logically classify and analyze\nthree different (but interconnected) kinds of important issues towards this\ngoal, namely foundations, verification and extensions. The aim of this work is\nto individuate the proper questions on the adoption of formal methods for\ndependable composition of Web Services, not necessarily to find the optimal\nanswers. Nevertheless, we still try to propose some tentative answers based on\nour proposal for a composition calculus, which we hope can animate a proper\ndiscussion",
+      "yearPublished": 2013,
+      "publishedDate": "2013-11-11T00:00:00",
+      "authors": [
+        {
+          "name": "Ciavotta, Michele"
+        },
+        {
+          "name": "Mazzara, Manuel"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1311.2535",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1947-3052"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18059274,
+      "doi": "10.4204/eptcs.175.1",
+      "title": "Handshaking Protocol for Distributed Implementation of Reo",
+      "abstract": "Reo, an exogenous channel-based coordination language, is a model for service\ncoordination wherein services communicate through connectors formed by joining\nbinary communication channels. In order to establish transactional\ncommunication among services as prescribed by connector semantics, distributed\nports exchange handshaking messages signalling which parties are ready to\nprovide or consume data. In this paper, we present a formal implementation\nmodel for distributed Reo with communication delays and outline ideas for its\nproof of correctness. To reason about Reo implementation formally, we introduce\nTimed Action Constraint Automata (TACA) and explain how to compare TACA with\nexisting automata-based semantics for Reo. We use TACA to describe handshaking\nbehavior of Reo modeling primitives and argue that in any distributed circuit\nremote Reo nodes and channels exposing such behavior commit to perform\ntransitions envisaged by the network semantics.Comment: In Proceedings FOCLASA 2014, arXiv:1502.0315",
+      "yearPublished": 2015,
+      "publishedDate": "2015-02-01T00:00:00",
+      "authors": [
+        {
+          "name": "Kokash, Natallia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1504.03553",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42866061,
+      "doi": "10.1109/etfa.2016.7733744",
+      "title": "Evaluating XMPP Communication in IEC 61499-based Distributed Energy\n  Applications",
+      "abstract": "The IEC 61499 reference model provides an international standard developed\nspecifically for supporting the creation of distributed event-based automation\nsystems. Functionality is abstracted into function blocks which can be coded\ngraphically as well as via a text-based method. As one of the design goals was\nthe ability to support distributed control applications, communication plays a\ncentral role in the IEC 61499 specification. In order to enable the deployment\nof functionality to distributed platforms, these platforms need to exchange\ndata in a variety of protocols. IEC 61499 realizes the support of these\nprotocols via \"Service Interface Function Blocks\" (SIFBs). In the context of\nsmart grids and energy applications, IEC 61499 could play an important role, as\nthese applications require coordinating several distributed control logics.\nYet, the support of grid-related protocols is a pre-condition for a wide-spread\nutilization of IEC 61499. The eXtensible Messaging and Presence Protocol (XMPP)\non the other hand is a well-established protocol for messaging, which has\nrecently been adopted for smart grid communication. Thus, SIFBs for XMPP\nfacilitate distributed control applications, which use XMPP for exchanging all\ncontrol relevant data, being realized with the help of IEC 61499. This paper\nintroduces the idea of integrating XMPP into SIFBs, demonstrates the\nprototypical implementation in an open source IEC 61499 platform and provides\nan evaluation of the feasibility of the result.Comment: 2016 IEEE 21st International Conference on Emerging Technologies and\n  Factory Automation (ETFA",
+      "yearPublished": 2017,
+      "publishedDate": "2017-05-15T01:00:00",
+      "authors": [
+        {
+          "name": "Andr\u00e9n, Filip Pr\u00f6stl"
+        },
+        {
+          "name": "Langthaler, Oliver"
+        },
+        {
+          "name": "Parfant, Manuel"
+        },
+        {
+          "name": "Strasser, Thomas"
+        },
+        {
+          "name": "Veichtlbauer, Armin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1705.05367",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133729583,
+      "doi": "10.1109/tsg.2022.3206092.",
+      "title": "ICT architectures for TSO-DSO coordination and data exchange: a European perspective",
+      "abstract": "The coordination between system operators is a key element for the decarbonization of the power system. Over the past few years, many EU-funded research projects have addressed the challenges of Transmission System Operators (TSO) and Distribution System Operators (DSO) coordination by implementing different data exchange architectures. This paper presents a review of the ICT architectures implemented for the main coordination schemes demonstrated in such projects. The main used technologies are analyzed, considering the type of data exchanged and the communication link. Finally, the paper presents the different gaps and challenges on TSO-DSO coordination related to ICT architectures that must still be faced, paying especial attention to the expected contribution of the EU-funded OneNet project on this topic. IEEECoordiNet H202",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-13T01:00:00",
+      "authors": [
+        {
+          "name": "Avila, Jose Pablo Chaves"
+        },
+        {
+          "name": "Bosco, Ferdinando"
+        },
+        {
+          "name": "Croce, Vincenzo"
+        },
+        {
+          "name": "Domingo, Javier Matanza"
+        },
+        {
+          "name": "Kukk, Kalle"
+        },
+        {
+          "name": "Lopez, Gregorio Lopez"
+        },
+        {
+          "name": "Madina, Carlos"
+        },
+        {
+          "name": "Perez, Nestor Rodriguez"
+        },
+        {
+          "name": "Santos-Mugica, Maider"
+        },
+        {
+          "name": "Uslar, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/547500152.pdf",
+      "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "issn:1949-3053",
+            "issn:1949-3061",
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31550158,
+      "doi": null,
+      "title": "A communication protocol for interactively controlling software tools",
+      "abstract": "We present a protocol for interactively using software tools in a loosely coupled tool environment. Such an environment can assist the user in doing tasks that require the use of multiple tools. For example, it can invoke tools on certain input, set processing parameters, await task completion and have tools communicate the resulting output. It can also keep track of files produced by tools and prevent tools from reading and writing to the same file at the same time. The protocol serves as an interface between the tools and a central tool manager. Generally, the manager controls the tools and forms an interface to a human user. The protocol is used to connect our tool manager SQuADT to a variety of tools, hereby allowing these tools to be used on all major software platforms",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Wulp, van der, J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/577347413.pdf",
+      "publisher": "Technische Universiteit Eindhoven",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158299823,
+      "doi": null,
+      "title": "Governing smart grids - the case for an independent system operator",
+      "abstract": "The next years should bring about a rapid transformation of the electricity sector towards high levels of renewable generation. Smart grids are seen as the silver bullet responding to the challenge of integrating renewables, managing flexibility, and keeping the costs down in distribution networks. Network unbundling on the other hand is essential for competition in the liberalized electricity industry. It forces independence of the networks and thereby eliminates concern that incumbent integrated (network) firms discriminate against new entrants. With smart grids the unbundling questions become relevant for distribution networks because active control in smart grids entails discrimination potentials. However, smart grids exhibit coordination needs for system efficiency and unbundling eliminates firm-internal coordination. An independent system operator seems to be an appropriate compromise solution. It eliminates discrimination incentives and serves coordination needs, thereby striking a balance between both competition and efficiency goals",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Friedrichsen, Nele"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://www.econstor.eu/dspace/bitstream/10419/103343/1/800127838.pdf",
+      "publisher": "Bremen: Jacobs University Bremen, Bremer Energie Institut",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2621458,
+      "doi": null,
+      "title": "Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms",
+      "abstract": "This deliverable describes the work done in task 3.1, Middleware analysis: Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms from work package 3, Middleware Implementation. The document is divided in four parts: The introduction with application scenarios and middleware requirements, Catnets middleware architecture, evaluation of existing middleware toolkits, and conclusions. -- Die Arbeit definiert Anforderungen an Grid und Peer-to-Peer Middleware Architekturen und analysiert diese auf ihre Eignung f\u00fcr die prototypische Umsetzung der Katallaxie. Eine Middleware-Architektur f\u00fcr die Umsetzung der Katallaxie in Application Layer Netzwerken wird vorgestellt.Grid Computing",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Chacin, Pablo"
+        },
+        {
+          "name": "Chao, Isaac"
+        },
+        {
+          "name": "Freitag, Felix"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6496829.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2653431,
+      "doi": null,
+      "title": "Information tools for sustainable development: Enabling distributed human intelligence.",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Moor, A. de"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6546681.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 84371254,
+      "doi": "10.4204/eptcs.60.2",
+      "title": "Input-output Conformance Testing for Channel-based Service Connectors",
+      "abstract": "Service-based systems are software systems composed of autonomous components or services provided\n\nby different vendors, deployed on remote machines and accessible through the web. One of the\n\nchallenges of modern software engineering is to ensure that such a system behaves as intended by its\n\ndesigner. The Reo coordination language is an extensible notation for formal modeling and execution\n\nof service compositions. Services that have no prior knowledge about each other communicate\n\nthrough advanced channel connectors which guarantee that each participant, service or client, receives\n\nthe right data at the right time. Each channel is a binary relation that imposes synchronization\n\nand data constraints on input and output messages. Furthermore, channels are composed together\n\nto realize arbitrarily complex behavioral protocols. During this process, a designer may introduce\n\nerrors into the connector model or the code for their execution, and thus affect the behavior of a\n\ncomposed service. In this paper, we present an approach for model-based testing of coordination\n\nprotocols designed in Reo. Our approach is based on the input-output conformance (ioco) testing\n\ntheory and exploits the mapping of automata-based semantic models for Reo to equivalent process\n\nalgebra specifications",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Arbab, F. (Farhad)"
+        },
+        {
+          "name": "Changizi, B. (Behnaz)"
+        },
+        {
+          "name": "Kokash, N. (Natallia)"
+        },
+        {
+          "name": "Makhnist, L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/301635921.pdf",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17160389,
+      "doi": "10.4018/ijssoe.2014100103",
+      "title": "Issues about the Adoption of Formal Methods for Dependable Composition\n  of Web Services",
+      "abstract": "Web Services provide interoperable mechanisms for describing, locating and\ninvoking services over the Internet; composition further enables to build\ncomplex services out of simpler ones for complex B2B applications. While\ncurrent studies on these topics are mostly focused - from the technical\nviewpoint - on standards and protocols, this paper investigates the adoption of\nformal methods, especially for composition. We logically classify and analyze\nthree different (but interconnected) kinds of important issues towards this\ngoal, namely foundations, verification and extensions. The aim of this work is\nto individuate the proper questions on the adoption of formal methods for\ndependable composition of Web Services, not necessarily to find the optimal\nanswers. Nevertheless, we still try to propose some tentative answers based on\nour proposal for a composition calculus, which we hope can animate a proper\ndiscussion",
+      "yearPublished": 2013,
+      "publishedDate": "2013-11-11T00:00:00",
+      "authors": [
+        {
+          "name": "Ciavotta, Michele"
+        },
+        {
+          "name": "Mazzara, Manuel"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1311.2535",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1947-3052"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 18059274,
+      "doi": "10.4204/eptcs.175.1",
+      "title": "Handshaking Protocol for Distributed Implementation of Reo",
+      "abstract": "Reo, an exogenous channel-based coordination language, is a model for service\ncoordination wherein services communicate through connectors formed by joining\nbinary communication channels. In order to establish transactional\ncommunication among services as prescribed by connector semantics, distributed\nports exchange handshaking messages signalling which parties are ready to\nprovide or consume data. In this paper, we present a formal implementation\nmodel for distributed Reo with communication delays and outline ideas for its\nproof of correctness. To reason about Reo implementation formally, we introduce\nTimed Action Constraint Automata (TACA) and explain how to compare TACA with\nexisting automata-based semantics for Reo. We use TACA to describe handshaking\nbehavior of Reo modeling primitives and argue that in any distributed circuit\nremote Reo nodes and channels exposing such behavior commit to perform\ntransitions envisaged by the network semantics.Comment: In Proceedings FOCLASA 2014, arXiv:1502.0315",
+      "yearPublished": 2015,
+      "publishedDate": "2015-02-01T00:00:00",
+      "authors": [
+        {
+          "name": "Kokash, Natallia"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1504.03553",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42866061,
+      "doi": "10.1109/etfa.2016.7733744",
+      "title": "Evaluating XMPP Communication in IEC 61499-based Distributed Energy\n  Applications",
+      "abstract": "The IEC 61499 reference model provides an international standard developed\nspecifically for supporting the creation of distributed event-based automation\nsystems. Functionality is abstracted into function blocks which can be coded\ngraphically as well as via a text-based method. As one of the design goals was\nthe ability to support distributed control applications, communication plays a\ncentral role in the IEC 61499 specification. In order to enable the deployment\nof functionality to distributed platforms, these platforms need to exchange\ndata in a variety of protocols. IEC 61499 realizes the support of these\nprotocols via \"Service Interface Function Blocks\" (SIFBs). In the context of\nsmart grids and energy applications, IEC 61499 could play an important role, as\nthese applications require coordinating several distributed control logics.\nYet, the support of grid-related protocols is a pre-condition for a wide-spread\nutilization of IEC 61499. The eXtensible Messaging and Presence Protocol (XMPP)\non the other hand is a well-established protocol for messaging, which has\nrecently been adopted for smart grid communication. Thus, SIFBs for XMPP\nfacilitate distributed control applications, which use XMPP for exchanging all\ncontrol relevant data, being realized with the help of IEC 61499. This paper\nintroduces the idea of integrating XMPP into SIFBs, demonstrates the\nprototypical implementation in an open source IEC 61499 platform and provides\nan evaluation of the feasibility of the result.Comment: 2016 IEEE 21st International Conference on Emerging Technologies and\n  Factory Automation (ETFA",
+      "yearPublished": 2017,
+      "publishedDate": "2017-05-15T01:00:00",
+      "authors": [
+        {
+          "name": "Andr\u00e9n, Filip Pr\u00f6stl"
+        },
+        {
+          "name": "Langthaler, Oliver"
+        },
+        {
+          "name": "Parfant, Manuel"
+        },
+        {
+          "name": "Strasser, Thomas"
+        },
+        {
+          "name": "Veichtlbauer, Armin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1705.05367",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133729583,
+      "doi": "10.1109/tsg.2022.3206092.",
+      "title": "ICT architectures for TSO-DSO coordination and data exchange: a European perspective",
+      "abstract": "The coordination between system operators is a key element for the decarbonization of the power system. Over the past few years, many EU-funded research projects have addressed the challenges of Transmission System Operators (TSO) and Distribution System Operators (DSO) coordination by implementing different data exchange architectures. This paper presents a review of the ICT architectures implemented for the main coordination schemes demonstrated in such projects. The main used technologies are analyzed, considering the type of data exchanged and the communication link. Finally, the paper presents the different gaps and challenges on TSO-DSO coordination related to ICT architectures that must still be faced, paying especial attention to the expected contribution of the EU-funded OneNet project on this topic. IEEECoordiNet H202",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-13T01:00:00",
+      "authors": [
+        {
+          "name": "Avila, Jose Pablo Chaves"
+        },
+        {
+          "name": "Bosco, Ferdinando"
+        },
+        {
+          "name": "Croce, Vincenzo"
+        },
+        {
+          "name": "Domingo, Javier Matanza"
+        },
+        {
+          "name": "Kukk, Kalle"
+        },
+        {
+          "name": "Lopez, Gregorio Lopez"
+        },
+        {
+          "name": "Madina, Carlos"
+        },
+        {
+          "name": "Perez, Nestor Rodriguez"
+        },
+        {
+          "name": "Santos-Mugica, Maider"
+        },
+        {
+          "name": "Uslar, Mathias"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/547500152.pdf",
+      "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "issn:1949-3053",
+            "issn:1949-3061",
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 31550158,
+      "doi": null,
+      "title": "A communication protocol for interactively controlling software tools",
+      "abstract": "We present a protocol for interactively using software tools in a loosely coupled tool environment. Such an environment can assist the user in doing tasks that require the use of multiple tools. For example, it can invoke tools on certain input, set processing parameters, await task completion and have tools communicate the resulting output. It can also keep track of files produced by tools and prevent tools from reading and writing to the same file at the same time. The protocol serves as an interface between the tools and a central tool manager. Generally, the manager controls the tools and forms an interface to a human user. The protocol is used to connect our tool manager SQuADT to a variety of tools, hereby allowing these tools to be used on all major software platforms",
+      "yearPublished": 2008,
+      "publishedDate": "2008-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Wulp, van der, J."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/577347413.pdf",
+      "publisher": "Technische Universiteit Eindhoven",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 158299823,
+      "doi": null,
+      "title": "Governing smart grids - the case for an independent system operator",
+      "abstract": "The next years should bring about a rapid transformation of the electricity sector towards high levels of renewable generation. Smart grids are seen as the silver bullet responding to the challenge of integrating renewables, managing flexibility, and keeping the costs down in distribution networks. Network unbundling on the other hand is essential for competition in the liberalized electricity industry. It forces independence of the networks and thereby eliminates concern that incumbent integrated (network) firms discriminate against new entrants. With smart grids the unbundling questions become relevant for distribution networks because active control in smart grids entails discrimination potentials. However, smart grids exhibit coordination needs for system efficiency and unbundling eliminates firm-internal coordination. An independent system operator seems to be an appropriate compromise solution. It eliminates discrimination incentives and serves coordination needs, thereby striking a balance between both competition and efficiency goals",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Friedrichsen, Nele"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://www.econstor.eu/dspace/bitstream/10419/103343/1/800127838.pdf",
+      "publisher": "Bremen: Jacobs University Bremen, Bremer Energie Institut",
+      "journals": [],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2621458,
+      "doi": null,
+      "title": "Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms",
+      "abstract": "This deliverable describes the work done in task 3.1, Middleware analysis: Analysis of current middleware used in peer-to-peer and grid implementations for enhancement by catallactic mechanisms from work package 3, Middleware Implementation. The document is divided in four parts: The introduction with application scenarios and middleware requirements, Catnets middleware architecture, evaluation of existing middleware toolkits, and conclusions. -- Die Arbeit definiert Anforderungen an Grid und Peer-to-Peer Middleware Architekturen und analysiert diese auf ihre Eignung f\u00fcr die prototypische Umsetzung der Katallaxie. Eine Middleware-Architektur f\u00fcr die Umsetzung der Katallaxie in Application Layer Netzwerken wird vorgestellt.Grid Computing",
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Chacin, Pablo"
+        },
+        {
+          "name": "Chao, Isaac"
+        },
+        {
+          "name": "Freitag, Felix"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6496829.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2653431,
+      "doi": null,
+      "title": "Information tools for sustainable development: Enabling distributed human intelligence.",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Moor, A. de"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/6546681.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 84371254,
+      "doi": "10.4204/eptcs.60.2",
+      "title": "Input-output Conformance Testing for Channel-based Service Connectors",
+      "abstract": "Service-based systems are software systems composed of autonomous components or services provided\n\nby different vendors, deployed on remote machines and accessible through the web. One of the\n\nchallenges of modern software engineering is to ensure that such a system behaves as intended by its\n\ndesigner. The Reo coordination language is an extensible notation for formal modeling and execution\n\nof service compositions. Services that have no prior knowledge about each other communicate\n\nthrough advanced channel connectors which guarantee that each participant, service or client, receives\n\nthe right data at the right time. Each channel is a binary relation that imposes synchronization\n\nand data constraints on input and output messages. Furthermore, channels are composed together\n\nto realize arbitrarily complex behavioral protocols. During this process, a designer may introduce\n\nerrors into the connector model or the code for their execution, and thus affect the behavior of a\n\ncomposed service. In this paper, we present an approach for model-based testing of coordination\n\nprotocols designed in Reo. Our approach is based on the input-output conformance (ioco) testing\n\ntheory and exploits the mapping of automata-based semantic models for Reo to equivalent process\n\nalgebra specifications",
+      "yearPublished": 2011,
+      "publishedDate": "2011-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Arbab, F. (Farhad)"
+        },
+        {
+          "name": "Changizi, B. (Behnaz)"
+        },
+        {
+          "name": "Kokash, N. (Natallia)"
+        },
+        {
+          "name": "Makhnist, L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/301635921.pdf",
+      "publisher": "'Open Publishing Association'",
+      "journals": [
+        {
+          "title": "Electronic Proceedings in Theoretical Computer Science",
+          "identifiers": [
+            "2075-2180"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 17160389,
+      "doi": "10.4018/ijssoe.2014100103",
+      "title": "Issues about the Adoption of Formal Methods for Dependable Composition\n  of Web Services",
+      "abstract": "Web Services provide interoperable mechanisms for describing, locating and\ninvoking services over the Internet; composition further enables to build\ncomplex services out of simpler ones for complex B2B applications. While\ncurrent studies on these topics are mostly focused - from the technical\nviewpoint - on standards and protocols, this paper investigates the adoption of\nformal methods, especially for composition. We logically classify and analyze\nthree different (but interconnected) kinds of important issues towards this\ngoal, namely foundations, verification and extensions. The aim of this work is\nto individuate the proper questions on the adoption of formal methods for\ndependable composition of Web Services, not necessarily to find the optimal\nanswers. Nevertheless, we still try to propose some tentative answers based on\nour proposal for a composition calculus, which we hope can animate a proper\ndiscussion",
+      "yearPublished": 2013,
+      "publishedDate": "2013-11-11T00:00:00",
+      "authors": [
+        {
+          "name": "Ciavotta, Michele"
+        },
+        {
+          "name": "Mazzara, Manuel"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1311.2535",
+      "publisher": "",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "1947-3052"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

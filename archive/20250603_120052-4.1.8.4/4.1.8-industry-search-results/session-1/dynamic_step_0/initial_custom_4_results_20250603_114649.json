@@ -1,0 +1,43 @@
+{
+  "totalHitsEncounteredAcrossPages": 1,
+  "retrievedCountForThisQuery": 1,
+  "searchIdentifier": "initial_custom_4",
+  "originalQuery": "Utility operator AND DERMS HMI usability issues",
+  "results": [
+    {
+      "id": 125255367,
+      "doi": "10.2870/145324",
+      "title": "Smart grid replication : handbook for India",
+      "abstract": "India has embarked on an ambitious sustainable development pathway by applying a multipronged approach spanning several sectors from developing smart cities to enabling electric vehicles. In the power sector, it is necessary to transform and prepare the grid at both the transmission and distribution levels to ensure the success of India\u2019s sustainability journey. Implementation of innovative smart grid projects will enable India to reach its ambitious sustainability goals. However, a multitude of challenges in rolling out these novel solutions on a nationwide scale continue to persist. The handbook contains insights and tools that will aid implementation and replication of innovative smart grid projects in India. Therefore, this handbook provides its readers with the following: Insights into opportunities and barriers in replicating smart grid projects in India; A framework for selecting use cases based on their relevance to India; The CBA tool to assess the costs and benefits of smart grid use cases in India; The SRA tool to assess the scalability and replicability of smart grid use cases in India; Insights from applying the abovementioned tools to both European and Indian case studies",
+      "yearPublished": 2022,
+      "publishedDate": "2022-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "BHAGWAT, Pradyumna"
+        },
+        {
+          "name": "CHAVES-\u00c1VILA, Jos\u00e9 Pablo"
+        },
+        {
+          "name": "COSSENT, Rafael"
+        },
+        {
+          "name": "GOMEZ, Tomas"
+        },
+        {
+          "name": "KUNDU, Suddhasatta"
+        },
+        {
+          "name": "RAVI KUMAR BHAGWAT, Swetha"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/528361421.pdf",
+      "publisher": "'Publications Office of the European Union'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    }
+  ]
+}

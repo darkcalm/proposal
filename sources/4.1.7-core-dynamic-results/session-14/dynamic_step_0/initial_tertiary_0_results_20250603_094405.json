@@ -1,0 +1,913 @@
+{
+  "totalHitsEncounteredAcrossPages": 25176,
+  "retrievedCountForThisQuery": 25,
+  "searchIdentifier": "initial_tertiary_0",
+  "originalQuery": "Operator decision-making tools for decentralized energy systems",
+  "results": [
+    {
+      "id": 17226551,
+      "doi": "10.1109/tsg.2014.2362994",
+      "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+      "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of renewable sources. As a\nconsequence, the coordination and control of projected EV demand in a network\nof fast charging stations becomes a critical and challenging problem.\n  In this paper, we introduce a game theoretic based decentralized control\nmechanism to alleviate negative impacts from the EV demand. The proposed\nmechanism takes into consideration the non-uniform spatial distribution of EVs\nthat induces uneven power demand at each charging facility, and aims to: (i)\navoid straining grid resources by offering price incentives so that customers\naccept being routed to less busy stations, (ii) maximize total revenue by\nserving more customers with the same amount of grid resources, and (iii)\nprovide charging service to customers with a certain level of\nQuality-of-Service (QoS), the latter defined as the long term customer blocking\nprobability. We examine three scenarios of increased complexity that gradually\napproximate real world settings. The obtained results show that the proposed\nframework leads to substantial performance improvements in terms of the\naforementioned goals, when compared to current state of affairs.Comment: Accepted for Publication in IEEE Transactions on Smart Gri",
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-20T01:00:00",
+      "authors": [
+        {
+          "name": "Bayram, Islam Safak"
+        },
+        {
+          "name": "Devetsikiotis, Michael"
+        },
+        {
+          "name": "Michailidis, George"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42844633,
+      "doi": "10.1109/tac.2018.2849946",
+      "title": "Nash and Wardrop equilibria in aggregative games with coupling\n  constraints",
+      "abstract": "We consider the framework of aggregative games, in which the cost function of\neach agent depends on his own strategy and on the average population strategy.\nAs first contribution, we investigate the relations between the concepts of\nNash and Wardrop equilibrium. By exploiting a characterization of the two\nequilibria as solutions of variational inequalities, we bound their distance\nwith a decreasing function of the population size. As second contribution, we\npropose two decentralized algorithms that converge to such equilibria and are\ncapable of coping with constraints coupling the strategies of different agents.\nFinally, we study the applications of charging of electric vehicles and of\nroute choice on a road network.Comment: IEEE Trans. on Automatic Control (Accepted without changes). The\n  first three authors contributed equall",
+      "yearPublished": 2018,
+      "publishedDate": "2018-04-30T01:00:00",
+      "authors": [
+        {
+          "name": "Gentile, Basilio"
+        },
+        {
+          "name": "Kamgarpour, Maryam"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Paccagnan, Dario"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1702.08789",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "issn:0018-9286",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17232509,
+      "doi": "10.1109/tac.2015.2513368",
+      "title": "Decentralized Convergence to Nash Equilibria in Constrained\n  Deterministic Mean Field Control",
+      "abstract": "This paper considers decentralized control and optimization methodologies for\nlarge populations of systems, consisting of several agents with different\nindividual behaviors, constraints and interests, and affected by the aggregate\nbehavior of the overall population. For such large-scale systems, the theory of\naggregative and mean field games has been established and successfully applied\nin various scientific disciplines. While the existing literature addresses the\ncase of unconstrained agents, we formulate deterministic mean field control\nproblems in the presence of heterogeneous convex constraints for the individual\nagents, for instance arising from agents with linear dynamics subject to convex\nstate and control constraints. We propose several model-free feedback\niterations to compute in a decentralized fashion a mean field Nash equilibrium\nin the limit of infinite population size. We apply our methods to the\nconstrained linear quadratic deterministic mean field control problem and to\nthe constrained mean field charging control problem for large populations of\nplug-in electric vehicles.Comment: IEEE Trans. on Automatic Control (cond. accepted",
+      "yearPublished": 2015,
+      "publishedDate": "2015-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Colombino, Marcello"
+        },
+        {
+          "name": "Grammatico, Sergio"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1410.4421",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "1558-2523",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2982793,
+      "doi": null,
+      "title": "Transmission Pricing of Distributed Multilateral Energy Transactions to Ensure System Security and Guide Economic Dispatch",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Hsieh, E."
+        },
+        {
+          "name": "Ilic, M."
+        },
+        {
+          "name": "Remanan, P."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/7093055.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4498095,
+      "doi": null,
+      "title": "Decentralized cooperation: A new European approach at the service of participatory development. Methodological study",
+      "abstract": null,
+      "yearPublished": 1996,
+      "publishedDate": "1996-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baron, Bienne"
+        },
+        {
+          "name": "Beaufort, Didier"
+        },
+        {
+          "name": "Bossuyt, Jean"
+        },
+        {
+          "name": "de Crombrugghe, Genevieve"
+        },
+        {
+          "name": "Douxchamps, Francis"
+        },
+        {
+          "name": "Munting, Monique"
+        },
+        {
+          "name": "Schmitz, Jean-Louis"
+        },
+        {
+          "name": "Schulz, Katja"
+        },
+        {
+          "name": "Stampa, Nikita"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/10590414.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17226551,
+      "doi": "10.1109/tsg.2014.2362994",
+      "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+      "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of renewable sources. As a\nconsequence, the coordination and control of projected EV demand in a network\nof fast charging stations becomes a critical and challenging problem.\n  In this paper, we introduce a game theoretic based decentralized control\nmechanism to alleviate negative impacts from the EV demand. The proposed\nmechanism takes into consideration the non-uniform spatial distribution of EVs\nthat induces uneven power demand at each charging facility, and aims to: (i)\navoid straining grid resources by offering price incentives so that customers\naccept being routed to less busy stations, (ii) maximize total revenue by\nserving more customers with the same amount of grid resources, and (iii)\nprovide charging service to customers with a certain level of\nQuality-of-Service (QoS), the latter defined as the long term customer blocking\nprobability. We examine three scenarios of increased complexity that gradually\napproximate real world settings. The obtained results show that the proposed\nframework leads to substantial performance improvements in terms of the\naforementioned goals, when compared to current state of affairs.Comment: Accepted for Publication in IEEE Transactions on Smart Gri",
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-20T01:00:00",
+      "authors": [
+        {
+          "name": "Bayram, Islam Safak"
+        },
+        {
+          "name": "Devetsikiotis, Michael"
+        },
+        {
+          "name": "Michailidis, George"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42844633,
+      "doi": "10.1109/tac.2018.2849946",
+      "title": "Nash and Wardrop equilibria in aggregative games with coupling\n  constraints",
+      "abstract": "We consider the framework of aggregative games, in which the cost function of\neach agent depends on his own strategy and on the average population strategy.\nAs first contribution, we investigate the relations between the concepts of\nNash and Wardrop equilibrium. By exploiting a characterization of the two\nequilibria as solutions of variational inequalities, we bound their distance\nwith a decreasing function of the population size. As second contribution, we\npropose two decentralized algorithms that converge to such equilibria and are\ncapable of coping with constraints coupling the strategies of different agents.\nFinally, we study the applications of charging of electric vehicles and of\nroute choice on a road network.Comment: IEEE Trans. on Automatic Control (Accepted without changes). The\n  first three authors contributed equall",
+      "yearPublished": 2018,
+      "publishedDate": "2018-04-30T01:00:00",
+      "authors": [
+        {
+          "name": "Gentile, Basilio"
+        },
+        {
+          "name": "Kamgarpour, Maryam"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Paccagnan, Dario"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1702.08789",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "issn:0018-9286",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17232509,
+      "doi": "10.1109/tac.2015.2513368",
+      "title": "Decentralized Convergence to Nash Equilibria in Constrained\n  Deterministic Mean Field Control",
+      "abstract": "This paper considers decentralized control and optimization methodologies for\nlarge populations of systems, consisting of several agents with different\nindividual behaviors, constraints and interests, and affected by the aggregate\nbehavior of the overall population. For such large-scale systems, the theory of\naggregative and mean field games has been established and successfully applied\nin various scientific disciplines. While the existing literature addresses the\ncase of unconstrained agents, we formulate deterministic mean field control\nproblems in the presence of heterogeneous convex constraints for the individual\nagents, for instance arising from agents with linear dynamics subject to convex\nstate and control constraints. We propose several model-free feedback\niterations to compute in a decentralized fashion a mean field Nash equilibrium\nin the limit of infinite population size. We apply our methods to the\nconstrained linear quadratic deterministic mean field control problem and to\nthe constrained mean field charging control problem for large populations of\nplug-in electric vehicles.Comment: IEEE Trans. on Automatic Control (cond. accepted",
+      "yearPublished": 2015,
+      "publishedDate": "2015-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Colombino, Marcello"
+        },
+        {
+          "name": "Grammatico, Sergio"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1410.4421",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "1558-2523",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2982793,
+      "doi": null,
+      "title": "Transmission Pricing of Distributed Multilateral Energy Transactions to Ensure System Security and Guide Economic Dispatch",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Hsieh, E."
+        },
+        {
+          "name": "Ilic, M."
+        },
+        {
+          "name": "Remanan, P."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/7093055.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4498095,
+      "doi": null,
+      "title": "Decentralized cooperation: A new European approach at the service of participatory development. Methodological study",
+      "abstract": null,
+      "yearPublished": 1996,
+      "publishedDate": "1996-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baron, Bienne"
+        },
+        {
+          "name": "Beaufort, Didier"
+        },
+        {
+          "name": "Bossuyt, Jean"
+        },
+        {
+          "name": "de Crombrugghe, Genevieve"
+        },
+        {
+          "name": "Douxchamps, Francis"
+        },
+        {
+          "name": "Munting, Monique"
+        },
+        {
+          "name": "Schmitz, Jean-Louis"
+        },
+        {
+          "name": "Schulz, Katja"
+        },
+        {
+          "name": "Stampa, Nikita"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/10590414.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17226551,
+      "doi": "10.1109/tsg.2014.2362994",
+      "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+      "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of renewable sources. As a\nconsequence, the coordination and control of projected EV demand in a network\nof fast charging stations becomes a critical and challenging problem.\n  In this paper, we introduce a game theoretic based decentralized control\nmechanism to alleviate negative impacts from the EV demand. The proposed\nmechanism takes into consideration the non-uniform spatial distribution of EVs\nthat induces uneven power demand at each charging facility, and aims to: (i)\navoid straining grid resources by offering price incentives so that customers\naccept being routed to less busy stations, (ii) maximize total revenue by\nserving more customers with the same amount of grid resources, and (iii)\nprovide charging service to customers with a certain level of\nQuality-of-Service (QoS), the latter defined as the long term customer blocking\nprobability. We examine three scenarios of increased complexity that gradually\napproximate real world settings. The obtained results show that the proposed\nframework leads to substantial performance improvements in terms of the\naforementioned goals, when compared to current state of affairs.Comment: Accepted for Publication in IEEE Transactions on Smart Gri",
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-20T01:00:00",
+      "authors": [
+        {
+          "name": "Bayram, Islam Safak"
+        },
+        {
+          "name": "Devetsikiotis, Michael"
+        },
+        {
+          "name": "Michailidis, George"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42844633,
+      "doi": "10.1109/tac.2018.2849946",
+      "title": "Nash and Wardrop equilibria in aggregative games with coupling\n  constraints",
+      "abstract": "We consider the framework of aggregative games, in which the cost function of\neach agent depends on his own strategy and on the average population strategy.\nAs first contribution, we investigate the relations between the concepts of\nNash and Wardrop equilibrium. By exploiting a characterization of the two\nequilibria as solutions of variational inequalities, we bound their distance\nwith a decreasing function of the population size. As second contribution, we\npropose two decentralized algorithms that converge to such equilibria and are\ncapable of coping with constraints coupling the strategies of different agents.\nFinally, we study the applications of charging of electric vehicles and of\nroute choice on a road network.Comment: IEEE Trans. on Automatic Control (Accepted without changes). The\n  first three authors contributed equall",
+      "yearPublished": 2018,
+      "publishedDate": "2018-04-30T01:00:00",
+      "authors": [
+        {
+          "name": "Gentile, Basilio"
+        },
+        {
+          "name": "Kamgarpour, Maryam"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Paccagnan, Dario"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1702.08789",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "issn:0018-9286",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17232509,
+      "doi": "10.1109/tac.2015.2513368",
+      "title": "Decentralized Convergence to Nash Equilibria in Constrained\n  Deterministic Mean Field Control",
+      "abstract": "This paper considers decentralized control and optimization methodologies for\nlarge populations of systems, consisting of several agents with different\nindividual behaviors, constraints and interests, and affected by the aggregate\nbehavior of the overall population. For such large-scale systems, the theory of\naggregative and mean field games has been established and successfully applied\nin various scientific disciplines. While the existing literature addresses the\ncase of unconstrained agents, we formulate deterministic mean field control\nproblems in the presence of heterogeneous convex constraints for the individual\nagents, for instance arising from agents with linear dynamics subject to convex\nstate and control constraints. We propose several model-free feedback\niterations to compute in a decentralized fashion a mean field Nash equilibrium\nin the limit of infinite population size. We apply our methods to the\nconstrained linear quadratic deterministic mean field control problem and to\nthe constrained mean field charging control problem for large populations of\nplug-in electric vehicles.Comment: IEEE Trans. on Automatic Control (cond. accepted",
+      "yearPublished": 2015,
+      "publishedDate": "2015-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Colombino, Marcello"
+        },
+        {
+          "name": "Grammatico, Sergio"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1410.4421",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "1558-2523",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2982793,
+      "doi": null,
+      "title": "Transmission Pricing of Distributed Multilateral Energy Transactions to Ensure System Security and Guide Economic Dispatch",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Hsieh, E."
+        },
+        {
+          "name": "Ilic, M."
+        },
+        {
+          "name": "Remanan, P."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/7093055.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4498095,
+      "doi": null,
+      "title": "Decentralized cooperation: A new European approach at the service of participatory development. Methodological study",
+      "abstract": null,
+      "yearPublished": 1996,
+      "publishedDate": "1996-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baron, Bienne"
+        },
+        {
+          "name": "Beaufort, Didier"
+        },
+        {
+          "name": "Bossuyt, Jean"
+        },
+        {
+          "name": "de Crombrugghe, Genevieve"
+        },
+        {
+          "name": "Douxchamps, Francis"
+        },
+        {
+          "name": "Munting, Monique"
+        },
+        {
+          "name": "Schmitz, Jean-Louis"
+        },
+        {
+          "name": "Schulz, Katja"
+        },
+        {
+          "name": "Stampa, Nikita"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/10590414.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17226551,
+      "doi": "10.1109/tsg.2014.2362994",
+      "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+      "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of renewable sources. As a\nconsequence, the coordination and control of projected EV demand in a network\nof fast charging stations becomes a critical and challenging problem.\n  In this paper, we introduce a game theoretic based decentralized control\nmechanism to alleviate negative impacts from the EV demand. The proposed\nmechanism takes into consideration the non-uniform spatial distribution of EVs\nthat induces uneven power demand at each charging facility, and aims to: (i)\navoid straining grid resources by offering price incentives so that customers\naccept being routed to less busy stations, (ii) maximize total revenue by\nserving more customers with the same amount of grid resources, and (iii)\nprovide charging service to customers with a certain level of\nQuality-of-Service (QoS), the latter defined as the long term customer blocking\nprobability. We examine three scenarios of increased complexity that gradually\napproximate real world settings. The obtained results show that the proposed\nframework leads to substantial performance improvements in terms of the\naforementioned goals, when compared to current state of affairs.Comment: Accepted for Publication in IEEE Transactions on Smart Gri",
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-20T01:00:00",
+      "authors": [
+        {
+          "name": "Bayram, Islam Safak"
+        },
+        {
+          "name": "Devetsikiotis, Michael"
+        },
+        {
+          "name": "Michailidis, George"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42844633,
+      "doi": "10.1109/tac.2018.2849946",
+      "title": "Nash and Wardrop equilibria in aggregative games with coupling\n  constraints",
+      "abstract": "We consider the framework of aggregative games, in which the cost function of\neach agent depends on his own strategy and on the average population strategy.\nAs first contribution, we investigate the relations between the concepts of\nNash and Wardrop equilibrium. By exploiting a characterization of the two\nequilibria as solutions of variational inequalities, we bound their distance\nwith a decreasing function of the population size. As second contribution, we\npropose two decentralized algorithms that converge to such equilibria and are\ncapable of coping with constraints coupling the strategies of different agents.\nFinally, we study the applications of charging of electric vehicles and of\nroute choice on a road network.Comment: IEEE Trans. on Automatic Control (Accepted without changes). The\n  first three authors contributed equall",
+      "yearPublished": 2018,
+      "publishedDate": "2018-04-30T01:00:00",
+      "authors": [
+        {
+          "name": "Gentile, Basilio"
+        },
+        {
+          "name": "Kamgarpour, Maryam"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Paccagnan, Dario"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1702.08789",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "issn:0018-9286",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17232509,
+      "doi": "10.1109/tac.2015.2513368",
+      "title": "Decentralized Convergence to Nash Equilibria in Constrained\n  Deterministic Mean Field Control",
+      "abstract": "This paper considers decentralized control and optimization methodologies for\nlarge populations of systems, consisting of several agents with different\nindividual behaviors, constraints and interests, and affected by the aggregate\nbehavior of the overall population. For such large-scale systems, the theory of\naggregative and mean field games has been established and successfully applied\nin various scientific disciplines. While the existing literature addresses the\ncase of unconstrained agents, we formulate deterministic mean field control\nproblems in the presence of heterogeneous convex constraints for the individual\nagents, for instance arising from agents with linear dynamics subject to convex\nstate and control constraints. We propose several model-free feedback\niterations to compute in a decentralized fashion a mean field Nash equilibrium\nin the limit of infinite population size. We apply our methods to the\nconstrained linear quadratic deterministic mean field control problem and to\nthe constrained mean field charging control problem for large populations of\nplug-in electric vehicles.Comment: IEEE Trans. on Automatic Control (cond. accepted",
+      "yearPublished": 2015,
+      "publishedDate": "2015-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Colombino, Marcello"
+        },
+        {
+          "name": "Grammatico, Sergio"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1410.4421",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "1558-2523",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2982793,
+      "doi": null,
+      "title": "Transmission Pricing of Distributed Multilateral Energy Transactions to Ensure System Security and Guide Economic Dispatch",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Hsieh, E."
+        },
+        {
+          "name": "Ilic, M."
+        },
+        {
+          "name": "Remanan, P."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/7093055.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4498095,
+      "doi": null,
+      "title": "Decentralized cooperation: A new European approach at the service of participatory development. Methodological study",
+      "abstract": null,
+      "yearPublished": 1996,
+      "publishedDate": "1996-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baron, Bienne"
+        },
+        {
+          "name": "Beaufort, Didier"
+        },
+        {
+          "name": "Bossuyt, Jean"
+        },
+        {
+          "name": "de Crombrugghe, Genevieve"
+        },
+        {
+          "name": "Douxchamps, Francis"
+        },
+        {
+          "name": "Munting, Monique"
+        },
+        {
+          "name": "Schmitz, Jean-Louis"
+        },
+        {
+          "name": "Schulz, Katja"
+        },
+        {
+          "name": "Stampa, Nikita"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/10590414.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17226551,
+      "doi": "10.1109/tsg.2014.2362994",
+      "title": "Unsplittable Load Balancing in a Network of Charging Stations Under QoS\n  Guarantees",
+      "abstract": "The operation of the power grid is becoming more stressed, due to the\naddition of new large loads represented by Electric Vehicles (EVs) and a more\nintermittent supply due to the incorporation of renewable sources. As a\nconsequence, the coordination and control of projected EV demand in a network\nof fast charging stations becomes a critical and challenging problem.\n  In this paper, we introduce a game theoretic based decentralized control\nmechanism to alleviate negative impacts from the EV demand. The proposed\nmechanism takes into consideration the non-uniform spatial distribution of EVs\nthat induces uneven power demand at each charging facility, and aims to: (i)\navoid straining grid resources by offering price incentives so that customers\naccept being routed to less busy stations, (ii) maximize total revenue by\nserving more customers with the same amount of grid resources, and (iii)\nprovide charging service to customers with a certain level of\nQuality-of-Service (QoS), the latter defined as the long term customer blocking\nprobability. We examine three scenarios of increased complexity that gradually\napproximate real world settings. The obtained results show that the proposed\nframework leads to substantial performance improvements in terms of the\naforementioned goals, when compared to current state of affairs.Comment: Accepted for Publication in IEEE Transactions on Smart Gri",
+      "yearPublished": 2014,
+      "publishedDate": "2014-09-20T01:00:00",
+      "authors": [
+        {
+          "name": "Bayram, Islam Safak"
+        },
+        {
+          "name": "Devetsikiotis, Michael"
+        },
+        {
+          "name": "Michailidis, George"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/265813828.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Smart Grid",
+          "identifiers": [
+            "1949-3053",
+            "1949-3061"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 42844633,
+      "doi": "10.1109/tac.2018.2849946",
+      "title": "Nash and Wardrop equilibria in aggregative games with coupling\n  constraints",
+      "abstract": "We consider the framework of aggregative games, in which the cost function of\neach agent depends on his own strategy and on the average population strategy.\nAs first contribution, we investigate the relations between the concepts of\nNash and Wardrop equilibrium. By exploiting a characterization of the two\nequilibria as solutions of variational inequalities, we bound their distance\nwith a decreasing function of the population size. As second contribution, we\npropose two decentralized algorithms that converge to such equilibria and are\ncapable of coping with constraints coupling the strategies of different agents.\nFinally, we study the applications of charging of electric vehicles and of\nroute choice on a road network.Comment: IEEE Trans. on Automatic Control (Accepted without changes). The\n  first three authors contributed equall",
+      "yearPublished": 2018,
+      "publishedDate": "2018-04-30T01:00:00",
+      "authors": [
+        {
+          "name": "Gentile, Basilio"
+        },
+        {
+          "name": "Kamgarpour, Maryam"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Paccagnan, Dario"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1702.08789",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "issn:0018-9286",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 17232509,
+      "doi": "10.1109/tac.2015.2513368",
+      "title": "Decentralized Convergence to Nash Equilibria in Constrained\n  Deterministic Mean Field Control",
+      "abstract": "This paper considers decentralized control and optimization methodologies for\nlarge populations of systems, consisting of several agents with different\nindividual behaviors, constraints and interests, and affected by the aggregate\nbehavior of the overall population. For such large-scale systems, the theory of\naggregative and mean field games has been established and successfully applied\nin various scientific disciplines. While the existing literature addresses the\ncase of unconstrained agents, we formulate deterministic mean field control\nproblems in the presence of heterogeneous convex constraints for the individual\nagents, for instance arising from agents with linear dynamics subject to convex\nstate and control constraints. We propose several model-free feedback\niterations to compute in a decentralized fashion a mean field Nash equilibrium\nin the limit of infinite population size. We apply our methods to the\nconstrained linear quadratic deterministic mean field control problem and to\nthe constrained mean field charging control problem for large populations of\nplug-in electric vehicles.Comment: IEEE Trans. on Automatic Control (cond. accepted",
+      "yearPublished": 2015,
+      "publishedDate": "2015-05-17T01:00:00",
+      "authors": [
+        {
+          "name": "Colombino, Marcello"
+        },
+        {
+          "name": "Grammatico, Sergio"
+        },
+        {
+          "name": "Lygeros, John"
+        },
+        {
+          "name": "Parise, Francesca"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "http://arxiv.org/abs/1410.4421",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [
+        {
+          "title": "IEEE Transactions on Automatic Control",
+          "identifiers": [
+            "1558-2523",
+            "0018-9286"
+          ]
+        }
+      ],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 2982793,
+      "doi": null,
+      "title": "Transmission Pricing of Distributed Multilateral Energy Transactions to Ensure System Security and Guide Economic Dispatch",
+      "abstract": null,
+      "yearPublished": null,
+      "publishedDate": null,
+      "authors": [
+        {
+          "name": "Hsieh, E."
+        },
+        {
+          "name": "Ilic, M."
+        },
+        {
+          "name": "Remanan, P."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/pdf/7093055.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 4498095,
+      "doi": null,
+      "title": "Decentralized cooperation: A new European approach at the service of participatory development. Methodological study",
+      "abstract": null,
+      "yearPublished": 1996,
+      "publishedDate": "1996-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Baron, Bienne"
+        },
+        {
+          "name": "Beaufort, Didier"
+        },
+        {
+          "name": "Bossuyt, Jean"
+        },
+        {
+          "name": "de Crombrugghe, Genevieve"
+        },
+        {
+          "name": "Douxchamps, Francis"
+        },
+        {
+          "name": "Munting, Monique"
+        },
+        {
+          "name": "Schmitz, Jean-Louis"
+        },
+        {
+          "name": "Schulz, Katja"
+        },
+        {
+          "name": "Stampa, Nikita"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/10590414.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

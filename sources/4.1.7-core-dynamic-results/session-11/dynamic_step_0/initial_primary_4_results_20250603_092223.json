@@ -1,0 +1,869 @@
+{
+  "totalHitsEncounteredAcrossPages": 129,
+  "retrievedCountForThisQuery": 30,
+  "searchIdentifier": "initial_primary_4",
+  "originalQuery": "Identifying communication inefficiencies AND opportunities for AI agent assistance in microgrid operator tasks",
+  "results": [
+    {
+      "id": 96041778,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+      "publisher": "Yale Law School Legal Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 83407146,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+      "publisher": "UF Law Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306",
+      "title": "Towards next generation Internet of Energy system: Framework and trends",
+      "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Abhi, S.H."
+        },
+        {
+          "name": "Ahamed, Md. H."
+        },
+        {
+          "name": "Ali, Md. F."
+        },
+        {
+          "name": "Badal, Faisal R."
+        },
+        {
+          "name": "Das, Prangon"
+        },
+        {
+          "name": "Das, Sajal K."
+        },
+        {
+          "name": "Hasan, Md. Mehedi"
+        },
+        {
+          "name": "Islam, Md. Manirul"
+        },
+        {
+          "name": "Islam, Md. R."
+        },
+        {
+          "name": "Muqit, Farhan"
+        },
+        {
+          "name": "Muyeen, S M"
+        },
+        {
+          "name": "Reza, Tanzim N."
+        },
+        {
+          "name": "Sarker, Subrata K."
+        },
+        {
+          "name": "Tasneem, Z."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+      "publisher": "Elsevier",
+      "journals": [
+        {
+          "title": "Energy and AI",
+          "identifiers": [
+            "issn:2666-5468",
+            "2666-5468"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 51544102,
+      "doi": "10.2760/204920",
+      "title": "#Blockchain4EU: Blockchain for Industrial Transformations",
+      "abstract": "The project #Blockchain4EU is a forward looking exploration of existing, emerging and potential applications based on Blockchain and other DLTs for industrial / non-financial sectors. It combined Science and Technology Studies with a transdisciplinary policy lab toolbox filled with frameworks from Foresight and Horizon Scanning, Behavioural Insights, or Participatory, Critical and Speculative Design. Amid unfolding and uncertain developments of the Blockchain space, our research signals a number of crucial opportunities and challenges around a technology that could record, secure and transfer any digitised transaction or process, and thus potentially affect large parts of current industrial landscapes. This report offers key insights for its implementation and uptake by industry, businesses and SMEs, together with science for policy strategic recommendations.JRC.I.2-Foresight, Behavioural Insights and Design for Polic",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "FIGUEIREDO DO NASCIMENTO SUSANA"
+        },
+        {
+          "name": "ROQUE MENDES POLVORA ALEXANDRE"
+        },
+        {
+          "name": "SOUSA LOURENCO JOANA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/158646516.pdf",
+      "publisher": "'Publications Office of the European Union'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:1018-5593",
+            "issn:1831-9424",
+            "1018-5593",
+            "1831-9424"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133256809,
+      "doi": "10.1109/access.2022.3205031.",
+      "title": "Intelligent computing in electrical utility industry 4.0 : concept, key technologies, applications and future directions",
+      "abstract": "Industry 4.0 (I-4.0) is referred to as \u2018fourth industrial revolution\u2019 towards incorporation of artificial intelligence and digitalization of industrial systems. It is meticulously associated with the development and advancement of evolving technologies such as: Internet of Things, Cyber-Physical System, Information and Communications Technology, Enterprise Architecture, and Enterprise Integration. Power systems of today face several challenges that need to be addressed and application of these technologies can make the modern power systems become more effective, reliable, secure, and cost-effective. Therefore, a widespread analysis of I- 4.0 is performed in this paper and a summary of the outcomes, future scope, and real-world application of I- 4.0 on the electrical utility industry (EUI) is reported by reviewing the existing literature. This report will be helpful to the investigators interested in the area of I- 4.0 and for application in EUI.Analytical Center for Government of the Russian Federation.https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639Electrical, Electronic and Computer Engineerin",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-08T01:00:00",
+      "authors": [
+        {
+          "name": "Abraham, Ajith"
+        },
+        {
+          "name": "Bansal, Ramesh C."
+        },
+        {
+          "name": "Biswal, Monalisa"
+        },
+        {
+          "name": "Malik, Om P."
+        },
+        {
+          "name": "Mishra, Manohar"
+        },
+        {
+          "name": "Nayak, Janmenjoy"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/544317273.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169092918,
+      "doi": null,
+      "title": "Coordinated scheduling and optimization of networked microgrids in active distribution systems",
+      "abstract": "The global shift towards renewable energy sources, such as solar and wind power, along with the increasing adoption of electric vehicles (EVs), is driving transformative changes in modern power systems. These developments are essential for reducing greenhouse gas emissions and advancing the transition towards a sustainable energy future. However, the decentralized and intermittent nature of renewable energy, coupled with the growing demand for EV charging, presents significant challenges in maintaining stability, reliability, and cost-effectiveness within active distribution networks. Traditional power systems, designed for centralized and predictable energy generation, struggle to adapt to these changes, necessitating innovative approaches to energy management.\n\nThis thesis develops a comprehensive framework for the coordinated scheduling of networked microgrids, with a focus on the economic and environmental impacts of integrating hydrogen refueling stations and EV charging infrastructure. Microgrids, as localized energy systems that can operate independently or alongside the main grid, offer a promising solution to the challenges of integrating renewable energy. However, managing these microgrids, particularly in the context of EVs and hydrogen refueling stations, requires advanced optimization techniques to ensure that they operate reliably and efficiently while minimizing costs and environmental impacts.\n\nThe proposed framework employs a two-stage stochastic programming approach to optimize microgrid operations under varying conditions. The first stage focuses on defining microgrid service areas, taking into account security constraints during emergency scenarios such as grid outages. The second stage addresses energy management, optimizing the integration of renewable energy sources, EV and fuel cell vehicle (FCV) charging stations, and flexible loads. The goal is to balance operational costs, maximize the use of renewable energy, and reduce emissions.\n\nThe optimization model is implemented using the GUROBI solver within the GAMS (General Algebraic Modeling System) environment, enabling efficient computation of complex, multi-objective optimization problems. By balancing economic and environmental objectives, the framework provides a robust solution for managing microgrids under diverse conditions.\n\nTo validate the framework, simulations were conducted using the IEEE 118-bus test system. This well-established benchmark represents a large-scale power grid and allows for rigorous testing of the framework\u2019s performance in real-world scenarios. Simulation results demonstrate significant improvements in both economic and environmental performance. Specifically, the integration of flexible loads and smart EV and FCV charging strategies reduced operating costs by approximately 4.77% and emissions by 49.13%.\n\nThese findings underscore the potential of the proposed framework to contribute to sustainable energy management by providing a scalable approach for optimizing microgrid operations. By promoting economic efficiency and supporting the integration of clean energy technologies, this research aligns with global efforts to decarbonize power systems and reduce reliance on fossil fuels. Additionally, the integration of hydrogen refueling stations within microgrids offers new opportunities for energy storage and management, further supporting the transition to a low-carbon transportation sector.\n\nIn conclusion, this thesis makes a significant contribution to sustainable energy management by developing a robust framework for the coordinated scheduling of networked microgrids. The integration of hydrogen refueling and EV charging infrastructure enhances grid flexibility and resilience, while advanced optimization techniques ensure that economic and environmental goals are achieved. Validation of the framework using the IEEE 118-bus test system confirms its applicability to real-world power systems. The findings highlight the critical role of microgrids in the global transition to cleaner, more sustainable energy systems",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-01T00:00:00",
+      "authors": [
+        {
+          "name": "Parsibenehkohal, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/646116920.pdf",
+      "publisher": "Memorial University of Newfoundland",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126489923,
+      "doi": null,
+      "title": "Topics in Electromobility and Related\n\nApplications",
+      "abstract": "In this thesis, we mainly discuss four topics on Electric Vehicles (EVs) in the context of\n\nsmart grid and smart transportation systems.\n\nThe first topic focuses on investigating the impacts of different EV charging strategies on\n\nthe grid. In Chapter 3, we present a mathematical framework for formulating different EV\n\ncharging problems and investigate a range of typical EV charging strategies with respect to\n\ndifferent actors in the power system. Using this framework, we compare the performances of\n\nall charging strategies on a common power system simulation testbed, highlighting in each\n\ncase positive and negative characteristics.\n\nThe second topic is concerned with the applications of EVs with Vehicle-to-Grid (V2G)\n\ncapabilities. In Chapter 4, we apply certain ideas from cooperative control techniques to\n\ntwo V2G applications in different scenarios. In the first scenario, we harness the power\n\nof V2G technologies to reduce current imbalance in a three-phase power network. In the\n\nsecond scenario, we design a fair V2G programme to optimally determine the power dispatch\n\nfrom EVs in a microgrid scenario. The effectiveness of the proposed algorithms are verified\n\nthrough a variety of simulation studies.\n\nThe third topic discusses an optimal distributed energy management strategy for power\n\ngeneration in a microgrid scenario. In Chapter 5, we adapt the synchronised version of the\n\nAdditive-Increase-Multiplicative-Decrease (AIMD) algorithms to minimise a cost utility\n\nfunction related to the power generation costs of distributed resources. We investigate the\n\nAIMD based strategy through simulation studies and we illustrate that the performance of\n\nthe proposed method is very close to the full communication centralised case. Finally, we\n\nshow that this idea can be easily extended to another application including thermal balancing\n\nrequirements.\n\nThe last topic focuses on a new design of the Speed Advisory System (SAS) for optimising\n\nboth conventional and electric vehicles networks. In Chapter 6, we demonstrate that, by\n\nusing simple ideas, one can design an effective SAS for electric vehicles to minimise group\n\nenergy consumption in a distributed and privacy-aware manner; Matlab simulation are give\n\nto illustrate the effectiveness of this approach. Further, we extend this idea to conventional\n\nvehicles in Chapter 7 and we show that by using some of the ideas introduced in Chapter\n\n6, group emissions of conventional vehicles can also be minimised under the same SAS\n\nframework. SUMO simulation and Hardware-In-the-Loop (HIL) tests involving real vehicles\n\nare given to illustrate user acceptability and ease of deployment.\n\nFinally, note that many applications in this thesis are based on the theories of a class\n\nof nonlinear iterative feedback systems. For completeness, we present a rigorous proof on\n\nglobal convergence of consensus of such systems in Chapter 2",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Liu, Mingming"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/297019602.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 77576431,
+      "doi": null,
+      "title": "Sustainable Development Report: Blockchain, the Web3 & the SDGs",
+      "abstract": "This is an output paper of the applied research that was conducted between July 2018 - October 2019 funded by the Austrian Development Agency (ADA) and conducted by the Research Institute for Cryptoeconomics at the Vienna University of Economics and Business and RCE Vienna (Regional Centre of Expertise on Education for Sustainable Development).Series: Working Paper Series / Institute for Cryptoeconomics / Interdisciplinary Researc",
+      "yearPublished": 2019,
+      "publishedDate": "2019-12-29T00:00:00",
+      "authors": [
+        {
+          "name": "Novakovic, Tatjana"
+        },
+        {
+          "name": "Rammel, Christian"
+        },
+        {
+          "name": "Voshmgir, Shermin"
+        },
+        {
+          "name": "Wildenberg, Martin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286370731.pdf",
+      "publisher": "Research Institute for Cryptoeconomics",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 96041778,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+      "publisher": "Yale Law School Legal Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 83407146,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+      "publisher": "UF Law Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306",
+      "title": "Towards next generation Internet of Energy system: Framework and trends",
+      "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Abhi, S.H."
+        },
+        {
+          "name": "Ahamed, Md. H."
+        },
+        {
+          "name": "Ali, Md. F."
+        },
+        {
+          "name": "Badal, Faisal R."
+        },
+        {
+          "name": "Das, Prangon"
+        },
+        {
+          "name": "Das, Sajal K."
+        },
+        {
+          "name": "Hasan, Md. Mehedi"
+        },
+        {
+          "name": "Islam, Md. Manirul"
+        },
+        {
+          "name": "Islam, Md. R."
+        },
+        {
+          "name": "Muqit, Farhan"
+        },
+        {
+          "name": "Muyeen, S M"
+        },
+        {
+          "name": "Reza, Tanzim N."
+        },
+        {
+          "name": "Sarker, Subrata K."
+        },
+        {
+          "name": "Tasneem, Z."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+      "publisher": "Elsevier",
+      "journals": [
+        {
+          "title": "Energy and AI",
+          "identifiers": [
+            "issn:2666-5468",
+            "2666-5468"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 51544102,
+      "doi": "10.2760/204920",
+      "title": "#Blockchain4EU: Blockchain for Industrial Transformations",
+      "abstract": "The project #Blockchain4EU is a forward looking exploration of existing, emerging and potential applications based on Blockchain and other DLTs for industrial / non-financial sectors. It combined Science and Technology Studies with a transdisciplinary policy lab toolbox filled with frameworks from Foresight and Horizon Scanning, Behavioural Insights, or Participatory, Critical and Speculative Design. Amid unfolding and uncertain developments of the Blockchain space, our research signals a number of crucial opportunities and challenges around a technology that could record, secure and transfer any digitised transaction or process, and thus potentially affect large parts of current industrial landscapes. This report offers key insights for its implementation and uptake by industry, businesses and SMEs, together with science for policy strategic recommendations.JRC.I.2-Foresight, Behavioural Insights and Design for Polic",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "FIGUEIREDO DO NASCIMENTO SUSANA"
+        },
+        {
+          "name": "ROQUE MENDES POLVORA ALEXANDRE"
+        },
+        {
+          "name": "SOUSA LOURENCO JOANA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/158646516.pdf",
+      "publisher": "'Publications Office of the European Union'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:1018-5593",
+            "issn:1831-9424",
+            "1018-5593",
+            "1831-9424"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133256809,
+      "doi": "10.1109/access.2022.3205031.",
+      "title": "Intelligent computing in electrical utility industry 4.0 : concept, key technologies, applications and future directions",
+      "abstract": "Industry 4.0 (I-4.0) is referred to as \u2018fourth industrial revolution\u2019 towards incorporation of artificial intelligence and digitalization of industrial systems. It is meticulously associated with the development and advancement of evolving technologies such as: Internet of Things, Cyber-Physical System, Information and Communications Technology, Enterprise Architecture, and Enterprise Integration. Power systems of today face several challenges that need to be addressed and application of these technologies can make the modern power systems become more effective, reliable, secure, and cost-effective. Therefore, a widespread analysis of I- 4.0 is performed in this paper and a summary of the outcomes, future scope, and real-world application of I- 4.0 on the electrical utility industry (EUI) is reported by reviewing the existing literature. This report will be helpful to the investigators interested in the area of I- 4.0 and for application in EUI.Analytical Center for Government of the Russian Federation.https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639Electrical, Electronic and Computer Engineerin",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-08T01:00:00",
+      "authors": [
+        {
+          "name": "Abraham, Ajith"
+        },
+        {
+          "name": "Bansal, Ramesh C."
+        },
+        {
+          "name": "Biswal, Monalisa"
+        },
+        {
+          "name": "Malik, Om P."
+        },
+        {
+          "name": "Mishra, Manohar"
+        },
+        {
+          "name": "Nayak, Janmenjoy"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/544317273.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169092918,
+      "doi": null,
+      "title": "Coordinated scheduling and optimization of networked microgrids in active distribution systems",
+      "abstract": "The global shift towards renewable energy sources, such as solar and wind power, along with the increasing adoption of electric vehicles (EVs), is driving transformative changes in modern power systems. These developments are essential for reducing greenhouse gas emissions and advancing the transition towards a sustainable energy future. However, the decentralized and intermittent nature of renewable energy, coupled with the growing demand for EV charging, presents significant challenges in maintaining stability, reliability, and cost-effectiveness within active distribution networks. Traditional power systems, designed for centralized and predictable energy generation, struggle to adapt to these changes, necessitating innovative approaches to energy management.\n\nThis thesis develops a comprehensive framework for the coordinated scheduling of networked microgrids, with a focus on the economic and environmental impacts of integrating hydrogen refueling stations and EV charging infrastructure. Microgrids, as localized energy systems that can operate independently or alongside the main grid, offer a promising solution to the challenges of integrating renewable energy. However, managing these microgrids, particularly in the context of EVs and hydrogen refueling stations, requires advanced optimization techniques to ensure that they operate reliably and efficiently while minimizing costs and environmental impacts.\n\nThe proposed framework employs a two-stage stochastic programming approach to optimize microgrid operations under varying conditions. The first stage focuses on defining microgrid service areas, taking into account security constraints during emergency scenarios such as grid outages. The second stage addresses energy management, optimizing the integration of renewable energy sources, EV and fuel cell vehicle (FCV) charging stations, and flexible loads. The goal is to balance operational costs, maximize the use of renewable energy, and reduce emissions.\n\nThe optimization model is implemented using the GUROBI solver within the GAMS (General Algebraic Modeling System) environment, enabling efficient computation of complex, multi-objective optimization problems. By balancing economic and environmental objectives, the framework provides a robust solution for managing microgrids under diverse conditions.\n\nTo validate the framework, simulations were conducted using the IEEE 118-bus test system. This well-established benchmark represents a large-scale power grid and allows for rigorous testing of the framework\u2019s performance in real-world scenarios. Simulation results demonstrate significant improvements in both economic and environmental performance. Specifically, the integration of flexible loads and smart EV and FCV charging strategies reduced operating costs by approximately 4.77% and emissions by 49.13%.\n\nThese findings underscore the potential of the proposed framework to contribute to sustainable energy management by providing a scalable approach for optimizing microgrid operations. By promoting economic efficiency and supporting the integration of clean energy technologies, this research aligns with global efforts to decarbonize power systems and reduce reliance on fossil fuels. Additionally, the integration of hydrogen refueling stations within microgrids offers new opportunities for energy storage and management, further supporting the transition to a low-carbon transportation sector.\n\nIn conclusion, this thesis makes a significant contribution to sustainable energy management by developing a robust framework for the coordinated scheduling of networked microgrids. The integration of hydrogen refueling and EV charging infrastructure enhances grid flexibility and resilience, while advanced optimization techniques ensure that economic and environmental goals are achieved. Validation of the framework using the IEEE 118-bus test system confirms its applicability to real-world power systems. The findings highlight the critical role of microgrids in the global transition to cleaner, more sustainable energy systems",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-01T00:00:00",
+      "authors": [
+        {
+          "name": "Parsibenehkohal, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/646116920.pdf",
+      "publisher": "Memorial University of Newfoundland",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126489923,
+      "doi": null,
+      "title": "Topics in Electromobility and Related\n\nApplications",
+      "abstract": "In this thesis, we mainly discuss four topics on Electric Vehicles (EVs) in the context of\n\nsmart grid and smart transportation systems.\n\nThe first topic focuses on investigating the impacts of different EV charging strategies on\n\nthe grid. In Chapter 3, we present a mathematical framework for formulating different EV\n\ncharging problems and investigate a range of typical EV charging strategies with respect to\n\ndifferent actors in the power system. Using this framework, we compare the performances of\n\nall charging strategies on a common power system simulation testbed, highlighting in each\n\ncase positive and negative characteristics.\n\nThe second topic is concerned with the applications of EVs with Vehicle-to-Grid (V2G)\n\ncapabilities. In Chapter 4, we apply certain ideas from cooperative control techniques to\n\ntwo V2G applications in different scenarios. In the first scenario, we harness the power\n\nof V2G technologies to reduce current imbalance in a three-phase power network. In the\n\nsecond scenario, we design a fair V2G programme to optimally determine the power dispatch\n\nfrom EVs in a microgrid scenario. The effectiveness of the proposed algorithms are verified\n\nthrough a variety of simulation studies.\n\nThe third topic discusses an optimal distributed energy management strategy for power\n\ngeneration in a microgrid scenario. In Chapter 5, we adapt the synchronised version of the\n\nAdditive-Increase-Multiplicative-Decrease (AIMD) algorithms to minimise a cost utility\n\nfunction related to the power generation costs of distributed resources. We investigate the\n\nAIMD based strategy through simulation studies and we illustrate that the performance of\n\nthe proposed method is very close to the full communication centralised case. Finally, we\n\nshow that this idea can be easily extended to another application including thermal balancing\n\nrequirements.\n\nThe last topic focuses on a new design of the Speed Advisory System (SAS) for optimising\n\nboth conventional and electric vehicles networks. In Chapter 6, we demonstrate that, by\n\nusing simple ideas, one can design an effective SAS for electric vehicles to minimise group\n\nenergy consumption in a distributed and privacy-aware manner; Matlab simulation are give\n\nto illustrate the effectiveness of this approach. Further, we extend this idea to conventional\n\nvehicles in Chapter 7 and we show that by using some of the ideas introduced in Chapter\n\n6, group emissions of conventional vehicles can also be minimised under the same SAS\n\nframework. SUMO simulation and Hardware-In-the-Loop (HIL) tests involving real vehicles\n\nare given to illustrate user acceptability and ease of deployment.\n\nFinally, note that many applications in this thesis are based on the theories of a class\n\nof nonlinear iterative feedback systems. For completeness, we present a rigorous proof on\n\nglobal convergence of consensus of such systems in Chapter 2",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Liu, Mingming"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/297019602.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 77576431,
+      "doi": null,
+      "title": "Sustainable Development Report: Blockchain, the Web3 & the SDGs",
+      "abstract": "This is an output paper of the applied research that was conducted between July 2018 - October 2019 funded by the Austrian Development Agency (ADA) and conducted by the Research Institute for Cryptoeconomics at the Vienna University of Economics and Business and RCE Vienna (Regional Centre of Expertise on Education for Sustainable Development).Series: Working Paper Series / Institute for Cryptoeconomics / Interdisciplinary Researc",
+      "yearPublished": 2019,
+      "publishedDate": "2019-12-29T00:00:00",
+      "authors": [
+        {
+          "name": "Novakovic, Tatjana"
+        },
+        {
+          "name": "Rammel, Christian"
+        },
+        {
+          "name": "Voshmgir, Shermin"
+        },
+        {
+          "name": "Wildenberg, Martin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286370731.pdf",
+      "publisher": "Research Institute for Cryptoeconomics",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 96041778,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/344966554.pdf",
+      "publisher": "Yale Law School Legal Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 83407146,
+      "doi": null,
+      "title": "Artificial Intelligence and Climate Change",
+      "abstract": "As artificial intelligence (AI) continues to embed itself in our daily lives, many focus on the threats it poses to privacy, security, due process, and democracy itself. But beyond these legitimate concerns, AI promises to optimize activities, increase efficiency, and enhance the accuracy and efficacy of the many aspects of society relying on predictions and likelihoods. In short, its most promising applications may come, not from uses affecting civil liberties and the social fabric of our society, but from those particularly complex technical problems lying beyond our ready human capacity. Climate change is one such complex problem, requiring fundamental changes to our transportation, agricultural, building, and energy sectors. This Article argues for the enhanced use of AI to address climate change, using the energy sector to exemplify its potential promise and pitfalls. The Article then analyzes critical policy tradeoffs that may be associated with an increased use of AI and argues for its disciplined use in a way that minimizes its limitations while harnessing its benefits to reduce greenhouse-gas emissions",
+      "yearPublished": 2020,
+      "publishedDate": "2020-01-01T08:00:00",
+      "authors": [
+        {
+          "name": "Stein, Amy L."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/345996844.pdf",
+      "publisher": "UF Law Scholarship Repository",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 160688785,
+      "doi": null,
+      "title": "Optimization and management of microgrids in the built environment based on intelligent digital twins",
+      "abstract": "The interplay between the built environment and energy use has profound implications for global energy consumption, emissions, and the transition towards sustainable systems. Recent analyses reveal that buildings are responsible for consuming approximately 40% of global energy, contributing to over 70% of electricity consumption and nearly a third of all carbon emissions. \r\nAs the energy paradigm shifts, so does the dynamic between infrastructure and energy sources. Distributed Energy Resources (DERs), including microgrids, nanogrids, and behind-the-meter energy storage, offer both challenges and opportunities. Additionally, innovations such as grid-interactive efficient buildings and Electric Vehicle (EV) integration pathways (like EV-to-grid and EV-to-home) are broadening the horizons of demand response, heralding an age marked by heightened demand flexibility.\r\nThe past decade's advancements on the Internet of Things (IoT) have opened an era of interconnected sensors and devices. This transition from limited to expansive data repositories facilitates advanced anomaly detection, predictive maintenance, and smart features based on Machine Learning (ML) and other Artificial Intelligence (AI)-powered methods. In this scenario, the emergence of the Digital Twin paradigm (DT) is redefining how we model the contexts in which these innovations operate, even though this concept remains under-explored in the energy and smart grid sectors.\r\n\r\nThis research was conducted with the cooperation of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) and delves into the challenges and potential of integrating AI with Digital Twins to support and enhance energy management and optimization in built environments. Using a testbed at the Faculty of Architecture of Sapienza University of Rome known as the SmartLAB\u2014a building provided with an IoT network, a photovoltaic system, and an EV charging station\u2014the microgrid is monitored and regulated via an AI-driven energy management system (EMS). Through the deployment of IoT devices, vast data streams are generated enabling insights for an Intelligent Digital Twin (IDT) framework built on open-source methods, integrating Building Information Modeling (BIM), IoT, and AI within a Proof of Concept (PoC) Data Ecosystem. The research's core aims are to craft an autonomous system capable of discerning energy loads using Nai\u0308ve Bayes Classifier with Association Rule Mining ensuring efficient energy consumption management and optimized distribution among distinct loads/users. Moreover, it seeks to enhance the well-being of SmartLAB occupants by overseeing CO2 levels, lowering volatile organic compound (VOC) concentrations through IoT-guided, data-informed procedures. This approach demonstrates adaptability across multiple contexts, from grid interactions to smart ecosystems, improving real-time control and providing data-driven energy optimization strategies.\r\nMoreover, the proposed prototype embraces scalable and cross-disciplinary strategies, paving the way for further integrations, such as space management systems and predictive maintenance. The findings highlight the advantages of embracing DT technologies within the built sector, while ongoing advancements are also discussed towards DT-based Smart Cities and Energy Communities for a more sustainable built environment",
+      "yearPublished": 2024,
+      "publishedDate": "2024-01-24T00:00:00",
+      "authors": [
+        {
+          "name": "AGOSTINELLI, SOFIA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/599502843.pdf",
+      "publisher": "Universita\u0300 degli Studi di Roma \"La Sapienza\"",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 8548569,
+      "doi": null,
+      "title": "Location Awareness in Multi-Agent Control of Distributed Energy Resources",
+      "abstract": "The  integration  of  Distributed  Energy  Resource  (DER)  technologies  such  as  heat  pumps, electric vehicles and small-scale generation into the electricity grid at the household level is limited by technical constraints.  This work argues that location is an important aspect for the control and integration of DER and that network topology can inferred without the use of a centralised network model.  It addresses DER integration challenges by presenting a novel approach that uses a decentralised multi-agent system where equipment controllers learn and use their location within the low-voltage section of the power system.\n\n\n\nModels of electrical networks exhibiting technical constraints were developed.  Through theoretical analysis and real network data collection, various sources of location data were identified  and  new  geographical  and  electrical  techniques  were  developed  for  deriving  network topology using Global Positioning System (GPS) and 24-hour voltage logs.  The multi-agent system paradigm and societal structures were examined as an approach to a multi-stakeholder domain and congregations were used as an aid to decentralisation in a non-hierarchical, non-market-based  approach.   Through  formal  description  of  the  agent  attitude  INTEND2, the novel  technique  of  Intention  Transfer  was  applied  to  an  agent  congregation  to  provide  an opt-in, collaborative system.\n\n\n\nTest  facilities  for  multi-agent  systems  were  developed  and  culminated  in  a  new  embedded controller test platform that integrated a real-time dynamic electrical network simulator to provide a full-feedback system integrated with control hardware. Finally, a multi-agent control system  was  developed  and  implemented  that  used  location  data  in  providing  demand-side response to a voltage excursion, with the goals of improving power quality, reducing generator disconnections, and deferring network reinforcement.\n\n\n\nThe resulting communicating and self-organising energy agent community, as demonstrated on a unique hardware-in-the-loop platform, provides an application model and test facility to inspire agent-based, location-aware smart grid applications across the power systems domain",
+      "yearPublished": 2017,
+      "publishedDate": "2017-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "HUTCHINSON, HARRIET"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/131127664.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": "thesis",
+      "topics": null
+    },
+    {
+      "id": 169150360,
+      "doi": "10.1016/j.egyai.2023.100306",
+      "title": "Towards next generation Internet of Energy system: Framework and trends",
+      "abstract": "The quickening propensity of growth within the areas of information and communications technology and energy networks has triggered the emergence of a central idea termed as Internet of Energy (IoE). Such a concept relates the internet of things, which is the term used in describing the usage of sophisticated digital control devices with the capability of transmitting data via IT systems. The concept of an interconnected energy network is being formed in the upcoming days through upgrades in the field of intelligent energy systems to control real-time energy optimization and management. The energy industry has had a sustained expansion, reaching the IoE milestone and continuing to this cutting-edge power system, which is the next generation of IoE. A directional pathway from the traditional power system to the IoE has been conducted in this research work by addressing the importance of integrating the smart transmission and communication infrastructure, smart metering, pricing and energy management scheme. A detailed investigation of the IoE with respect to technical angles, such as communication architecture, IoE on the supply & demand side, and IoE protocol based on fundamental elements and essential technologies has been carried out to indicate the blueprint and jurisdiction complexity. The integration, security and energy management challenges may deviate the performance of the IoE technology that has been focused with proper control issues and solutions. Finally, a directional framework to establish the next-generation IoE system has been constructed with future scopes to insure higher resiliency, cyber-security and stability.Open Access funding is provided by the Qatar National Library",
+      "yearPublished": 2023,
+      "publishedDate": "2023-10-01T01:00:00",
+      "authors": [
+        {
+          "name": "Abhi, S.H."
+        },
+        {
+          "name": "Ahamed, Md. H."
+        },
+        {
+          "name": "Ali, Md. F."
+        },
+        {
+          "name": "Badal, Faisal R."
+        },
+        {
+          "name": "Das, Prangon"
+        },
+        {
+          "name": "Das, Sajal K."
+        },
+        {
+          "name": "Hasan, Md. Mehedi"
+        },
+        {
+          "name": "Islam, Md. Manirul"
+        },
+        {
+          "name": "Islam, Md. R."
+        },
+        {
+          "name": "Muqit, Farhan"
+        },
+        {
+          "name": "Muyeen, S M"
+        },
+        {
+          "name": "Reza, Tanzim N."
+        },
+        {
+          "name": "Sarker, Subrata K."
+        },
+        {
+          "name": "Tasneem, Z."
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/636714898.pdf",
+      "publisher": "Elsevier",
+      "journals": [
+        {
+          "title": "Energy and AI",
+          "identifiers": [
+            "issn:2666-5468",
+            "2666-5468"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 51544102,
+      "doi": "10.2760/204920",
+      "title": "#Blockchain4EU: Blockchain for Industrial Transformations",
+      "abstract": "The project #Blockchain4EU is a forward looking exploration of existing, emerging and potential applications based on Blockchain and other DLTs for industrial / non-financial sectors. It combined Science and Technology Studies with a transdisciplinary policy lab toolbox filled with frameworks from Foresight and Horizon Scanning, Behavioural Insights, or Participatory, Critical and Speculative Design. Amid unfolding and uncertain developments of the Blockchain space, our research signals a number of crucial opportunities and challenges around a technology that could record, secure and transfer any digitised transaction or process, and thus potentially affect large parts of current industrial landscapes. This report offers key insights for its implementation and uptake by industry, businesses and SMEs, together with science for policy strategic recommendations.JRC.I.2-Foresight, Behavioural Insights and Design for Polic",
+      "yearPublished": 2018,
+      "publishedDate": "2018-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "FIGUEIREDO DO NASCIMENTO SUSANA"
+        },
+        {
+          "name": "ROQUE MENDES POLVORA ALEXANDRE"
+        },
+        {
+          "name": "SOUSA LOURENCO JOANA"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/158646516.pdf",
+      "publisher": "'Publications Office of the European Union'",
+      "journals": [
+        {
+          "title": null,
+          "identifiers": [
+            "issn:1018-5593",
+            "issn:1831-9424",
+            "1018-5593",
+            "1831-9424"
+          ]
+        }
+      ],
+      "language": null,
+      "documentType": "research",
+      "topics": null
+    },
+    {
+      "id": 133256809,
+      "doi": "10.1109/access.2022.3205031.",
+      "title": "Intelligent computing in electrical utility industry 4.0 : concept, key technologies, applications and future directions",
+      "abstract": "Industry 4.0 (I-4.0) is referred to as \u2018fourth industrial revolution\u2019 towards incorporation of artificial intelligence and digitalization of industrial systems. It is meticulously associated with the development and advancement of evolving technologies such as: Internet of Things, Cyber-Physical System, Information and Communications Technology, Enterprise Architecture, and Enterprise Integration. Power systems of today face several challenges that need to be addressed and application of these technologies can make the modern power systems become more effective, reliable, secure, and cost-effective. Therefore, a widespread analysis of I- 4.0 is performed in this paper and a summary of the outcomes, future scope, and real-world application of I- 4.0 on the electrical utility industry (EUI) is reported by reviewing the existing literature. This report will be helpful to the investigators interested in the area of I- 4.0 and for application in EUI.Analytical Center for Government of the Russian Federation.https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639Electrical, Electronic and Computer Engineerin",
+      "yearPublished": 2022,
+      "publishedDate": "2022-09-08T01:00:00",
+      "authors": [
+        {
+          "name": "Abraham, Ajith"
+        },
+        {
+          "name": "Bansal, Ramesh C."
+        },
+        {
+          "name": "Biswal, Monalisa"
+        },
+        {
+          "name": "Malik, Om P."
+        },
+        {
+          "name": "Mishra, Manohar"
+        },
+        {
+          "name": "Nayak, Janmenjoy"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/544317273.pdf",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 169092918,
+      "doi": null,
+      "title": "Coordinated scheduling and optimization of networked microgrids in active distribution systems",
+      "abstract": "The global shift towards renewable energy sources, such as solar and wind power, along with the increasing adoption of electric vehicles (EVs), is driving transformative changes in modern power systems. These developments are essential for reducing greenhouse gas emissions and advancing the transition towards a sustainable energy future. However, the decentralized and intermittent nature of renewable energy, coupled with the growing demand for EV charging, presents significant challenges in maintaining stability, reliability, and cost-effectiveness within active distribution networks. Traditional power systems, designed for centralized and predictable energy generation, struggle to adapt to these changes, necessitating innovative approaches to energy management.\n\nThis thesis develops a comprehensive framework for the coordinated scheduling of networked microgrids, with a focus on the economic and environmental impacts of integrating hydrogen refueling stations and EV charging infrastructure. Microgrids, as localized energy systems that can operate independently or alongside the main grid, offer a promising solution to the challenges of integrating renewable energy. However, managing these microgrids, particularly in the context of EVs and hydrogen refueling stations, requires advanced optimization techniques to ensure that they operate reliably and efficiently while minimizing costs and environmental impacts.\n\nThe proposed framework employs a two-stage stochastic programming approach to optimize microgrid operations under varying conditions. The first stage focuses on defining microgrid service areas, taking into account security constraints during emergency scenarios such as grid outages. The second stage addresses energy management, optimizing the integration of renewable energy sources, EV and fuel cell vehicle (FCV) charging stations, and flexible loads. The goal is to balance operational costs, maximize the use of renewable energy, and reduce emissions.\n\nThe optimization model is implemented using the GUROBI solver within the GAMS (General Algebraic Modeling System) environment, enabling efficient computation of complex, multi-objective optimization problems. By balancing economic and environmental objectives, the framework provides a robust solution for managing microgrids under diverse conditions.\n\nTo validate the framework, simulations were conducted using the IEEE 118-bus test system. This well-established benchmark represents a large-scale power grid and allows for rigorous testing of the framework\u2019s performance in real-world scenarios. Simulation results demonstrate significant improvements in both economic and environmental performance. Specifically, the integration of flexible loads and smart EV and FCV charging strategies reduced operating costs by approximately 4.77% and emissions by 49.13%.\n\nThese findings underscore the potential of the proposed framework to contribute to sustainable energy management by providing a scalable approach for optimizing microgrid operations. By promoting economic efficiency and supporting the integration of clean energy technologies, this research aligns with global efforts to decarbonize power systems and reduce reliance on fossil fuels. Additionally, the integration of hydrogen refueling stations within microgrids offers new opportunities for energy storage and management, further supporting the transition to a low-carbon transportation sector.\n\nIn conclusion, this thesis makes a significant contribution to sustainable energy management by developing a robust framework for the coordinated scheduling of networked microgrids. The integration of hydrogen refueling and EV charging infrastructure enhances grid flexibility and resilience, while advanced optimization techniques ensure that economic and environmental goals are achieved. Validation of the framework using the IEEE 118-bus test system confirms its applicability to real-world power systems. The findings highlight the critical role of microgrids in the global transition to cleaner, more sustainable energy systems",
+      "yearPublished": 2024,
+      "publishedDate": "2024-11-01T00:00:00",
+      "authors": [
+        {
+          "name": "Parsibenehkohal, Reza"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/646116920.pdf",
+      "publisher": "Memorial University of Newfoundland",
+      "journals": [],
+      "language": null,
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 126489923,
+      "doi": null,
+      "title": "Topics in Electromobility and Related\n\nApplications",
+      "abstract": "In this thesis, we mainly discuss four topics on Electric Vehicles (EVs) in the context of\n\nsmart grid and smart transportation systems.\n\nThe first topic focuses on investigating the impacts of different EV charging strategies on\n\nthe grid. In Chapter 3, we present a mathematical framework for formulating different EV\n\ncharging problems and investigate a range of typical EV charging strategies with respect to\n\ndifferent actors in the power system. Using this framework, we compare the performances of\n\nall charging strategies on a common power system simulation testbed, highlighting in each\n\ncase positive and negative characteristics.\n\nThe second topic is concerned with the applications of EVs with Vehicle-to-Grid (V2G)\n\ncapabilities. In Chapter 4, we apply certain ideas from cooperative control techniques to\n\ntwo V2G applications in different scenarios. In the first scenario, we harness the power\n\nof V2G technologies to reduce current imbalance in a three-phase power network. In the\n\nsecond scenario, we design a fair V2G programme to optimally determine the power dispatch\n\nfrom EVs in a microgrid scenario. The effectiveness of the proposed algorithms are verified\n\nthrough a variety of simulation studies.\n\nThe third topic discusses an optimal distributed energy management strategy for power\n\ngeneration in a microgrid scenario. In Chapter 5, we adapt the synchronised version of the\n\nAdditive-Increase-Multiplicative-Decrease (AIMD) algorithms to minimise a cost utility\n\nfunction related to the power generation costs of distributed resources. We investigate the\n\nAIMD based strategy through simulation studies and we illustrate that the performance of\n\nthe proposed method is very close to the full communication centralised case. Finally, we\n\nshow that this idea can be easily extended to another application including thermal balancing\n\nrequirements.\n\nThe last topic focuses on a new design of the Speed Advisory System (SAS) for optimising\n\nboth conventional and electric vehicles networks. In Chapter 6, we demonstrate that, by\n\nusing simple ideas, one can design an effective SAS for electric vehicles to minimise group\n\nenergy consumption in a distributed and privacy-aware manner; Matlab simulation are give\n\nto illustrate the effectiveness of this approach. Further, we extend this idea to conventional\n\nvehicles in Chapter 7 and we show that by using some of the ideas introduced in Chapter\n\n6, group emissions of conventional vehicles can also be minimised under the same SAS\n\nframework. SUMO simulation and Hardware-In-the-Loop (HIL) tests involving real vehicles\n\nare given to illustrate user acceptability and ease of deployment.\n\nFinally, note that many applications in this thesis are based on the theories of a class\n\nof nonlinear iterative feedback systems. For completeness, we present a rigorous proof on\n\nglobal convergence of consensus of such systems in Chapter 2",
+      "yearPublished": 2015,
+      "publishedDate": "2015-01-01T00:00:00",
+      "authors": [
+        {
+          "name": "Liu, Mingming"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/297019602.pdf",
+      "publisher": "",
+      "journals": [],
+      "language": "English",
+      "documentType": null,
+      "topics": null
+    },
+    {
+      "id": 77576431,
+      "doi": null,
+      "title": "Sustainable Development Report: Blockchain, the Web3 & the SDGs",
+      "abstract": "This is an output paper of the applied research that was conducted between July 2018 - October 2019 funded by the Austrian Development Agency (ADA) and conducted by the Research Institute for Cryptoeconomics at the Vienna University of Economics and Business and RCE Vienna (Regional Centre of Expertise on Education for Sustainable Development).Series: Working Paper Series / Institute for Cryptoeconomics / Interdisciplinary Researc",
+      "yearPublished": 2019,
+      "publishedDate": "2019-12-29T00:00:00",
+      "authors": [
+        {
+          "name": "Novakovic, Tatjana"
+        },
+        {
+          "name": "Rammel, Christian"
+        },
+        {
+          "name": "Voshmgir, Shermin"
+        },
+        {
+          "name": "Wildenberg, Martin"
+        }
+      ],
+      "citationCount": 0,
+      "downloadUrl": "https://core.ac.uk/download/286370731.pdf",
+      "publisher": "Research Institute for Cryptoeconomics",
+      "journals": [],
+      "language": "English",
+      "documentType": "research",
+      "topics": null
+    }
+  ]
+}

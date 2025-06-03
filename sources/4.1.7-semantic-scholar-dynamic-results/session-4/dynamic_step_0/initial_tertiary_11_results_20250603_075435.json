@@ -1,0 +1,1437 @@
+{
+  "total": 3551,
+  "offset": 0,
+  "next": 20,
+  "data": [
+    {
+      "paperId": "2ce85d3fea771e56081dd6594eaa9dd008229564",
+      "externalIds": {
+        "DBLP": "journals/access/KumarASAKA24",
+        "DOI": "10.1109/ACCESS.2024.3435847",
+        "CorpusId": 271588414
+      },
+      "url": "https://www.semanticscholar.org/paper/2ce85d3fea771e56081dd6594eaa9dd008229564",
+      "title": "A Secure and Efficient BlockChain and Distributed Ledger Technology-Based Optimal Resource Management in Digital Twin Beyond 5G Networks Using Hybrid Energy Valley and Levy Flight Distributer Optimization Algorithm",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2024.3435847",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3435847?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3435847, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A virtual object management system, as well as optimal task scheduling using the foundation of Digital Twins, to improve the user\u2019s experience with management and to accomplish the task efficiently is established."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "110331-110352",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "2316599712",
+          "name": "K. S. Kumar"
+        },
+        {
+          "authorId": "2284255526",
+          "name": "Jafar A. Alzubi"
+        },
+        {
+          "authorId": "2237325984",
+          "name": "N. Sarhan"
+        },
+        {
+          "authorId": "1411365122",
+          "name": "Emad Mahrous Awwad"
+        },
+        {
+          "authorId": "2314041113",
+          "name": "V. Kandasamy"
+        },
+        {
+          "authorId": "2280536174",
+          "name": "Guma Ali"
+        }
+      ],
+      "abstract": "This paper aims to establish a virtual object management system, as well as optimal task scheduling using the foundation of Digital Twins (DT), to improve the user\u2019s experience with management and to accomplish the task efficiently. On the other hand, offloading tasks using IoT gadgets to edge computing, fails to speed up control by users. The capabilities of the DT are provided by executing processes such as visualization, virtualization, synchronization, and simulation. The optimal selection of the virtual objects for the DT is done by utilizing the implemented Hybrid Energy Valley with L\u00e9vy Flight Distribution Optimization (HEV-LFDO) in order to optimally offload the task by the edge devices. The optimal selection of the virtual objects is done with the aid of the HEV-LFDO in the DT by considering the total cost of executing all tasks using the selected virtual objects and the decision variables to determine whether a virtual object is taken for executing a task or not as the constraint. The data for performing resource management is secured using the blockchain or distributed ledger technology. This accounts for the minimization of the local loss function. Finally, the secured data is considered for optimal resource management tasks. The optimal resource management is done using the same HEV-LFDO. This optimal resource management is carried out by considering the constraints like the cost of assigning a virtual object for the task to the edge device, and the cost of assigning the task to the edge device. These two costs are analyzed by taking the network\u2019s bandwidth, energy consumption, and computational resources into consideration. Experimental verifications are conducted on the executed optimal resource management scheme to prove the ability of the implemented model to be integrated with the edge computing network. The overall processing time as well as the latency are also minimized by executing the optimal resource management scheme."
+    },
+    {
+      "paperId": "57469ee254cb8f495966acdbed3337be551f9497",
+      "externalIds": {
+        "DOI": "10.1177/09721509221110371",
+        "CorpusId": 251781395
+      },
+      "url": "https://www.semanticscholar.org/paper/57469ee254cb8f495966acdbed3337be551f9497",
+      "title": "Blockchain in Trust with Reputation Management for Financial Stock Market Using Distributed Ledger Technology and Bayesian Theory Based on Fault Tolerance Model",
+      "venue": "Global Business Review",
+      "year": 2022,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/09721509221110371?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/09721509221110371, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article develops the trust with reputation-based management for the financial stock market by using Bayesian theory based on the fault tolerance (BDLT_FT) model to improve the efficiency of DLT and financial technology."
+      },
+      "publicationTypes": null,
+      "publicationDate": "2022-08-23",
+      "journal": {
+        "name": "Global Business Review"
+      },
+      "authors": [
+        {
+          "authorId": "2124220231",
+          "name": "Ravi Kumar Bommisetti"
+        },
+        {
+          "authorId": "2182615964",
+          "name": "Bhavana K. Raj"
+        },
+        {
+          "authorId": "2292474128",
+          "name": "A. Subbalakshmi"
+        },
+        {
+          "authorId": "2182615805",
+          "name": "Muhammad Shehryar"
+        },
+        {
+          "authorId": "2136946737",
+          "name": "S. Hoang"
+        }
+      ],
+      "abstract": "Blockchain, which is at the heart of bitcoin and other digital currencies, is a game-changing technology, particularly in the stock market and financial technology. These characteristics make blockchain adoption appealing for enhancing information security, privacy and reliability in a variety of scenarios. This article develops the trust with reputation-based management for the financial stock market. Here distributed ledger technology (DLT) has been integrated for implementing the ledger in which data is stored across a network of decentralized nodes. By this, proof-based ledger has been maintained with transparency, traceability and security. DLT here used is based on trust design in mitigating the malicious activities of the financial stock marketing technology. Then using Bayesian theory based on the fault tolerance (BDLT_FT) model has been used in improving the efficiency of DLT and financial technology. This acts as the protocol which reduces energy consumption and enhance network scalability and security in digital transactions like cryptocurrency The financial data related to blockchain cryptocurrency were collected between the time period 2000 and 2020. The dataset of the stock market is evaluated under the fault tolerance model with statistical analysis. The statistical evaluation of financial data with developed BDLT_FT expressed that there is no association between the fault tolerance and the classification error."
+    },
+    {
+      "paperId": "8a7d5d63a383c32fa70f8c01394be88a3f769e4d",
+      "externalIds": {
+        "DOI": "10.1115/imece2022-95225",
+        "CorpusId": 256716015
+      },
+      "url": "https://www.semanticscholar.org/paper/8a7d5d63a383c32fa70f8c01394be88a3f769e4d",
+      "title": "Assessing the Potential for Implementation of Distributed Ledger Technology in the Nuclear Power Plant Lifecycle",
+      "venue": "Energy",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1115/imece2022-95225?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/imece2022-95225, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The implementation of distributed ledger technology to capturing and immutable recording nuclear supply chain structure, production, and failure data is demonstrated and the pathway in which Hyperledger Fabric can be employed to address the data management bottlenecks in each stage of the lifecycle including, licensing and regulation, commissioning, construction, supply chain management, decommissioning, and non-proliferation."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2022-10-30",
+      "journal": {
+        "name": "Volume 6: Energy"
+      },
+      "authors": [
+        {
+          "authorId": "47169253",
+          "name": "P. Pandit"
+        },
+        {
+          "authorId": "2205252808",
+          "name": "Daniel Nevius"
+        },
+        {
+          "authorId": "2205261963",
+          "name": "Vibhav Srivaths"
+        },
+        {
+          "authorId": "2265118322",
+          "name": "Mihai A. Diaconeasa"
+        }
+      ],
+      "abstract": "\n The Nuclear Power Plant (NPP) project lifecycle consists of multiple organizations, private and public, that work together to carry out the licensing and regulation, commissioning, construction, supply chain management, decommissioning, and non-proliferation of nuclear power plants. Each stage of the lifecycle generates a considerable amount of documentation that needs to be archived and made available on request. In this paper, we examined the current frameworks employed by the stakeholders of nuclear power plant lifecycles for data generation, classification, archival, and exchange and we evaluated the use of distributed ledger technology for data management. We further demonstrated the implementation of distributed ledger technology to capturing and immutable recording nuclear supply chain structure, production, and failure data.\n Distributed Ledger Technology (DLT) promises to address the current bottlenecks in the lifecycle management of nuclear power plants with faster data exchange times, lower processing cost of documents, bridging the gap between perceived and actual risk, faster decisions, customizable transparency in job tasks being executed, improved cash flow, instant validation of job completion, reduction in logistical friction, and sped up supply chain decisions for clients. We gave a comprehensive review of distributed ledger technology, its properties and an open-source permissioned distributed ledger system called Hyperledger Fabric.\n Each sector of the nuclear power plant lifecycle was analyzed for data management bottlenecks and building on our discussion of employing distributed ledger technology we discussed the pathway in which Hyperledger Fabric can be employed to address the data management bottlenecks in each stage of the lifecycle including, licensing and regulation, commissioning, construction, supply chain management, decommissioning, and non-proliferation."
+    },
+    {
+      "paperId": "fb9643e0a2a66c0b9e4d230cd6c98517e7cffecc",
+      "externalIds": {
+        "DBLP": "conf/isgteurope/BartolSSZ20",
+        "MAG": "3102686748",
+        "DOI": "10.1109/ISGT-Europe47291.2020.9248899",
+        "CorpusId": 226855629
+      },
+      "url": "https://www.semanticscholar.org/paper/fb9643e0a2a66c0b9e4d230cd6c98517e7cffecc",
+      "title": "Secure data exchange between IoT endpoints for energy balancing using distributed ledger",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference Europe",
+      "year": 2020,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISGT-Europe47291.2020.9248899?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISGT-Europe47291.2020.9248899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper investigates a secure data exchange between many small distributed consumers/prosumers and the aggregator in the process of energy balancing, and investigates data aggregation to ensure performance optimisation of required computation and space usage."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-10-26",
+      "journal": {
+        "name": "2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)",
+        "pages": "56-60"
+      },
+      "authors": [
+        {
+          "authorId": "134133472",
+          "name": "Janez Bartol"
+        },
+        {
+          "authorId": "30558588",
+          "name": "A. Souvent"
+        },
+        {
+          "authorId": "3343496",
+          "name": "N. Suljanovic"
+        },
+        {
+          "authorId": "2608395",
+          "name": "M. Zajc"
+        }
+      ],
+      "abstract": "This paper investigates a secure data exchange between many small distributed consumers/prosumers and the aggregator in the process of energy balancing. It addresses the challenges of ensuring data exchange in a simple, scalable, and affordable way. The communication platform for data exchange is using Ethereum Blockchain technology. It provides a distributed ledger database across a distributed network, supports simple connectivity for new stakeholders, and enables many small entities to contribute with their flexible energy to the system balancing. The architecture of a simulation/emulation environment provides a direct connection of a relational database to the Ethereum network, thus enabling dynamic data management. In addition, it extends security of the environment with security mechanisms of relational databases. Proof-of-concept setup with the simulation of system balancing processes, confirms the suitability of the solution for secure data exchange in the market, operation, and measurement area. For the most intensive and space-consuming measurement data exchange, we have investigated data aggregation to ensure performance optimisation of required computation and space usage."
+    },
+    {
+      "paperId": "34debc2757a97736d9800fe1cb61d1bb51a96523",
+      "externalIds": {
+        "MAG": "3089411444",
+        "DBLP": "journals/access/LuckingKKRBSS20",
+        "DOI": "10.1109/ACCESS.2020.3028430",
+        "CorpusId": 226230594
+      },
+      "url": "https://www.semanticscholar.org/paper/34debc2757a97736d9800fe1cb61d1bb51a96523",
+      "title": "The Merits of a Decentralized Pollution-Monitoring System Based on Distributed Ledger Technology",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 133,
+      "citationCount": 9,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09211499.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2020.3028430?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2020.3028430, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A software design for PMSs based on distributed ledger technology (DLT) and the long-range (LoRa) protocol for flexible, transparent, and energy-efficient environment monitoring and data management is proposed."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-10-02",
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "189365-189381",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "1734442422",
+          "name": "M. L\u00fccking"
+        },
+        {
+          "authorId": "93997972",
+          "name": "Niclas Kannengie\u00dfer"
+        },
+        {
+          "authorId": "2007941024",
+          "name": "Maurice Kilgus"
+        },
+        {
+          "authorId": "1763678",
+          "name": "T. Riedel"
+        },
+        {
+          "authorId": "49389031",
+          "name": "M. Beigl"
+        },
+        {
+          "authorId": "1697247",
+          "name": "A. Sunyaev"
+        },
+        {
+          "authorId": "144932706",
+          "name": "W. Stork"
+        }
+      ],
+      "abstract": "Pollution-monitoring systems (PMSs) are used worldwide to sense environmental changes, such as air quality conditions or temperature increases, and to monitor compliance with regulations. However, organizations manage the environmental data collected by such PMSs in a centralized manner, which is why recorded environmental data are vulnerable to manipulation. Moreover, the analysis of pollution data often lacks transparency to outsiders, which may lead to wrong decisions regarding environmental regulations. To address these challenges, we propose a software design for PMSs based on distributed ledger technology (DLT) and the long-range (LoRa) protocol for flexible, transparent, and energy-efficient environment monitoring and data management. To design the PMS, we conducted a comprehensive requirements analysis for PMSs. We benchmarked different consensus mechanisms (e.g., BFT-SMaRt and Raft) and digital signature schemes (e.g., ECDSA and EdDSA) to adequately design the PMS and fulfill the identified requirements. On this basis, we designed and implemented a prototype PMS and evaluated it in the field. The evaluation shows the effectiveness of DLT-based PMSs that include portable low-energy sensor nodes and demonstrates the applicability of the proposed software design for PMSs in contexts other than air pollution."
+    },
+    {
+      "paperId": "4147a7f5677c23a168192fb58dc196289c56c719",
+      "externalIds": {
+        "MAG": "3020104109",
+        "DOI": "10.31799/1684-8853-2020-2-10-19",
+        "CorpusId": 219093546
+      },
+      "url": "https://www.semanticscholar.org/paper/4147a7f5677c23a168192fb58dc196289c56c719",
+      "title": "Survey of distributed ledger technology integration challenges",
+      "venue": "Information and Control Systems",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.31799/1684-8853-2020-2-10-19",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.31799/1684-8853-2020-2-10-19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31799/1684-8853-2020-2-10-19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Analysis of the applicability of DLT to various industries such as economics, energy, finance, logistics, and the Internet of Things and the main challenges of the DLT technology integration are outlined."
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "publicationDate": "2020-04-20",
+      "journal": {
+        "name": "Information and Control Systems"
+      },
+      "authors": [
+        {
+          "authorId": "2093367190",
+          "name": "M. Gorbunova"
+        },
+        {
+          "authorId": "2105429",
+          "name": "A. Ometov"
+        },
+        {
+          "authorId": "145181880",
+          "name": "Mikhail M. Komarov"
+        },
+        {
+          "authorId": "3225070",
+          "name": "S. Bezzateev"
+        }
+      ],
+      "abstract": "Introduction: Distributed ledger technology (DLT) is one of the most significant fields covering various aspects of modern ICT systems. Centralized systems of today can no longer guarantee the required level of availability and reliability, while broadly available distributed ones are still in the infancy. Purpose: Analysis of the applicability of DLT to various industries such as economics, energy, finance, logistics, and the Internet of Things. Results: The article outlines the main challenges of the DLT technology integration, such as the lack of a unified system for data storage, the need to ensure an appropriate level of data confidentiality, integration into the existing competency systems, the issues of \u0430 distributed system interaction with resource-constrained IoT devices, the lack of proper management tools for distributed systems, and network scalability. The main contribution of this paper is a systematic overview of the integration challenges followed by potential solutions and future perspectives."
+    },
+    {
+      "paperId": "b4020557c1b8989d492070eba28acc616cab10b8",
+      "externalIds": {
+        "DBLP": "conf/brains/MeneguzzoFGS23",
+        "DOI": "10.1109/BRAINS59668.2023.10316796",
+        "CorpusId": 265256090
+      },
+      "url": "https://www.semanticscholar.org/paper/b4020557c1b8989d492070eba28acc616cab10b8",
+      "title": "Integrating a DLT-Based Data Marketplace with IDSA for a Unified Energy Dataspace: Towards Silo-Free Energy Data Exchange within GAIA-X",
+      "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services",
+      "year": 2023,
+      "referenceCount": 6,
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/BRAINS59668.2023.10316796?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BRAINS59668.2023.10316796, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A solution that combines a Distributed Ledger Technology (DLT)-based data marketplace with the International Data Spaces (IDS) Architecture enables secure and transparent tracking of energy datasets within the dataspace, eliminating silos."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": "2023-10-11",
+      "journal": {
+        "name": "2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)",
+        "pages": "1-2"
+      },
+      "authors": [
+        {
+          "authorId": "2226515154",
+          "name": "Silvio Meneguzzo"
+        },
+        {
+          "authorId": "3058601",
+          "name": "Alfredo Favenza"
+        },
+        {
+          "authorId": "2267043198",
+          "name": "Valentina Gatteschi"
+        },
+        {
+          "authorId": "2267043196",
+          "name": "Claudio Schifanella"
+        }
+      ],
+      "abstract": "Fragmented energy data silos pose a significant obstacle to efficient data management and collaboration in the European energy sector. Creating a unified European energy dataspace aligned with GAIA-X principles (transparency, data security, data protection, interoperability and scalability) is crucial to overcoming this challenge. This paper presents a solution that combines a Distributed Ledger Technology (DLT)-based data marketplace with the International Data Spaces (IDS) Architecture. By utilizing DLT, the proposed marketplace enables secure and transparent tracking of energy datasets within the dataspace. Integration with the IDSA ensures compliance with GAIA-X, promoting interoperability and seamless data exchange. It enables the consolidation of diverse data sources into a unified dataspace, eliminating silos. This fosters efficient and secure data exchange, promotes transparency and trust, and supports collaboration and innovation in the energy sector."
+    },
+    {
+      "paperId": "45cf2fea37858d0fa446a954e0bedd24ed3de9c5",
+      "externalIds": {
+        "MAG": "3045658393",
+        "PubMedCentral": "7684467",
+        "DOI": "10.3390/healthcare8030243",
+        "CorpusId": 220977985,
+        "PubMed": "32751325"
+      },
+      "url": "https://www.semanticscholar.org/paper/45cf2fea37858d0fa446a954e0bedd24ed3de9c5",
+      "title": "Enhancing Privacy and Data Security across Healthcare Applications Using Blockchain and Distributed Ledger Concepts",
+      "venue": "Healthcare",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 76,
+      "influentialCitationCount": 1,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/8/3/243/pdf?version=1596177809",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7684467, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Results show that new blockchain-based digital platforms allow for fast, easy, and seamless interactions between data suppliers to enhance privacy and data security, including for patients themselves."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-07-29",
+      "journal": {
+        "name": "Healthcare",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "2135928026",
+          "name": "Haibing Liu"
+        },
+        {
+          "authorId": "1782898",
+          "name": "R. G. Crespo"
+        },
+        {
+          "authorId": "9167333",
+          "name": "Oscar Sanju\u00e1n Mart\u00ednez"
+        }
+      ],
+      "abstract": "Nowadays, blockchain is developing as a secure and trustworthy platform for secure information sharing in areas of application like banking, supply chain management, food industry, energy, the Internet, and medical services. Besides, the blockchain can be described in a decentralized manner as an immutable ledger for recording data entries. Furthermore, this new technology has been developed to interrupt a variety of data-driven fields, including the health sector. However, blockchain refers to the distributed ledger technology, which constitutes an innovation in the information recording and sharing without a trusted third party. In this paper, blockchain and Distributed Ledger-based Improved Biomedical Security system (BDL-IBS) has been proposed to enhance the privacy and data security across healthcare applications. Further, our goal is to make it possible for patients to use the data to support their care and to provide strong consent systems for sharing data among different organizations and applications, since this includes managing and accessing a high amount of medical information, and this technology can maintain data to ensure reliability. Finally, results show that new blockchain-based digital platforms allow for fast, easy, and seamless interactions between data suppliers to enhance privacy and data security, including for patients themselves."
+    },
+    {
+      "paperId": "f7ae643439262b124b70946841e7136be9ee212b",
+      "externalIds": {
+        "DOI": "10.1051/e3sconf/202459101004",
+        "CorpusId": 274081361
+      },
+      "url": "https://www.semanticscholar.org/paper/f7ae643439262b124b70946841e7136be9ee212b",
+      "title": "Blockchain-Enabled Energy Management System for Distributed Renewable Energy Microgrids: Enhancing Security and Transparency in Energy Transactions",
+      "venue": "E3S Web of Conferences",
+      "year": 2024,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202459101004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202459101004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper proposes a Blockchain-Enabled Energy Management System (EMS) for distributed renewable energy microgrids that facilitates secure and transparent energy transactions between microgrids, enabling peer-to- peer energy trading without reliance on a central authority."
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "E3S Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "32031383",
+          "name": "Arti Badhoutiya"
+        },
+        {
+          "authorId": "2355805890",
+          "name": "S. K"
+        },
+        {
+          "authorId": "2330896694",
+          "name": "G. Indira"
+        },
+        {
+          "authorId": "2330936628",
+          "name": "M. Suganya"
+        },
+        {
+          "authorId": "2295367768",
+          "name": "Satpalsing Rajput"
+        },
+        {
+          "authorId": "2330894554",
+          "name": "Pravin Ingale"
+        },
+        {
+          "authorId": "2330847676",
+          "name": "Hemalatha"
+        }
+      ],
+      "abstract": "The rise of distributed renewable energy microgrids presents new opportunities for localized energy generation, but also poses challenges in energy management, security, and transparency. This paper proposes a Blockchain-Enabled Energy Management System (EMS) for distributed renewable energy microgrids to address these challenges. By leveraging blockchain technology, the system facilitates secure and transparent energy transactions between microgrids, enabling peer-to- peer (P2P) energy trading without reliance on a central authority. Blockchain\u2019s decentralized ledger ensures data integrity, enhances system resilience, and prevents unauthorized access, while optimizing energy distribution across the network. This approach promotes a sustainable and efficient energy ecosystem, ensuring trust and reliability in decentralized energy markets."
+    },
+    {
+      "paperId": "60e68512326966226e6c7aeba5f939730d8f84fc",
+      "externalIds": {
+        "DOI": "10.32628/cseit25112359",
+        "CorpusId": 276797589
+      },
+      "url": "https://www.semanticscholar.org/paper/60e68512326966226e6c7aeba5f939730d8f84fc",
+      "title": "Blockchain Technology: Revolutionizing Data Security in Energy Trading Risk Management",
+      "venue": "International Journal of Scientific Research in Computer Science Engineering and Information Technology",
+      "year": 2025,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.32628/cseit25112359",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.32628/cseit25112359?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32628/cseit25112359, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The article examines how blockchain addresses critical challenges in data security, transparency, and regulatory compliance within the energy sector, and demonstrates significant improvements in operational efficiency, transaction processing, and risk mitigation."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2025-03-03",
+      "journal": {
+        "name": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology"
+      },
+      "authors": [
+        {
+          "authorId": "2348639087",
+          "name": "Niranjan Mithun Prasad"
+        }
+      ],
+      "abstract": "This comprehensive article explores the transformative impact of blockchain technology on energy trading risk management systems. The article examines how blockchain addresses critical challenges in data security, transparency, and regulatory compliance within the energy sector. Through detailed analysis of distributed ledger infrastructure, smart contract integration, and cryptographic security measures, the research demonstrates significant improvements in operational efficiency, transaction processing, and risk mitigation. The investigation encompasses automated compliance frameworks, data privacy mechanisms, and scalability solutions, highlighting how blockchain technology enhances market participation while reducing operational costs. The article also evaluates emerging technologies and industry standards, providing insights into future developments that will shape secure and efficient energy trading operations."
+    },
+    {
+      "paperId": "cfeec2ac04bb9b5f0952b181f5b6abaff7bcc150",
+      "externalIds": {
+        "PubMedCentral": "6679180",
+        "DBLP": "journals/sensors/PopACASSRZCB19",
+        "MAG": "2961769086",
+        "DOI": "10.3390/s19143033",
+        "CorpusId": 195893913,
+        "PubMed": "31295826"
+      },
+      "url": "https://www.semanticscholar.org/paper/cfeec2ac04bb9b5f0952b181f5b6abaff7bcc150",
+      "title": "Blockchain-Based Scalable and Tamper-Evident Solution for Registering Energy Data",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2019,
+      "referenceCount": 60,
+      "citationCount": 60,
+      "influentialCitationCount": 5,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/19/14/3033/pdf?version=1562744729",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6679180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Medicine",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A scalable second tier solution which combines the blockchain ledger with distributed queuing systems and NoSQL databases to allow the registration of energy transactions less frequently on the chain without losing the tamper-evident benefits brought by the blockchain technology is proposed."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2019-07-01",
+      "journal": {
+        "name": "Sensors (Basel, Switzerland)",
+        "volume": "19"
+      },
+      "authors": [
+        {
+          "authorId": "144916795",
+          "name": "Claudia Pop"
+        },
+        {
+          "authorId": "40067538",
+          "name": "Marcel Antal"
+        },
+        {
+          "authorId": "1729979",
+          "name": "T. Cioara"
+        },
+        {
+          "authorId": "40390132",
+          "name": "I. Anghel"
+        },
+        {
+          "authorId": "150081661",
+          "name": "David Sera"
+        },
+        {
+          "authorId": "1706937",
+          "name": "I. Salomie"
+        },
+        {
+          "authorId": "52206854",
+          "name": "Giuseppe Raveduto"
+        },
+        {
+          "authorId": "31113713",
+          "name": "D. Ziu"
+        },
+        {
+          "authorId": "2077250643",
+          "name": "V. Croce"
+        },
+        {
+          "authorId": "2149839",
+          "name": "M. Bertoncini"
+        }
+      ],
+      "abstract": "Nowadays, it has been recognized that blockchain can provide the technological infrastructure for developing decentralized, secure, and reliable smart energy grid management systems. However, an open issue that slows the adoption of blockchain technology in the energy sector is the low scalability and high processing overhead when dealing with the real-time energy data collected by smart energy meters. Thus, in this paper, we propose a scalable second tier solution which combines the blockchain ledger with distributed queuing systems and NoSQL (Not Only SQL database) databases to allow the registration of energy transactions less frequently on the chain without losing the tamper-evident benefits brought by the blockchain technology. At the same time, we propose a technique for tamper-evident registration of smart meters\u2019 energy data and associated energy transactions using digital fingerprinting which allows the energy transaction to be linked hashed-back on-chain, while the sensors data is stored off-chain. A prototype was implemented using Ethereum and smart contracts for the on-chain components while for the off-chain components we used Cassandra database and RabbitMQ messaging broker. The prototype proved to be effective in managing a settlement of energy imbalances use-case and during the evaluation conducted in simulated environment shows promising results in terms of scalability, throughput, and tampering of energy data sampled by smart energy meters."
+    },
+    {
+      "paperId": "e70facef909508dcbb720223793f44a851ca151f",
+      "externalIds": {
+        "MAG": "3108328758",
+        "DOI": "10.24425/ijet.2020.134020",
+        "CorpusId": 229466822
+      },
+      "url": "https://www.semanticscholar.org/paper/e70facef909508dcbb720223793f44a851ca151f",
+      "title": "Modeling of Distributed Ledger Deployment View",
+      "venue": "International Journal of Electronics and Telecommunications",
+      "year": 2020,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "http://journals.pan.pl/Content/117115/PDF/84_2552_G%C3%B3rski_L_skl.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.24425/ijet.2020.134020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24425/ijet.2020.134020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The authors have proposed Unified Modeling Language (UML) extensibility mechanisms to describe the needed additional semantic notation to model deployment details of the DLT solution within the 1+5 architectural views model."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-11-22",
+      "journal": {
+        "name": "International Journal of Electronics and Telecommunications"
+      },
+      "authors": [
+        {
+          "authorId": "47317592",
+          "name": "T. G\u00f3rski"
+        },
+        {
+          "authorId": "70829519",
+          "name": "J. Bednarski"
+        }
+      ],
+      "abstract": "The Distributed Ledger Technology (DLT) is a peer-to-peer model of sharing data among collaborating parties in a decentralized manner. An example of DLT is a blockchain where data form blocks in an append-only chain. Software architecture description usually comprises multiple views. The paper concentrates on the Deployment view of the DLT solution within the 1+5 architectural views model. The authors have proposed Unified Modeling Language (UML) extensibility mechanisms to describe the needed additional semantic notation to model deployment details. The paper covers both the network and node levels. The proposed stereotypes and tagged values have enriched the UML Deployment diagram. We have gathered those modeling elements in dedicated UML Profile for Distributed Ledger Deployment. We have applied the profile to model the Deployment view of a renewable energy management system that uses the R3Cordaframework. The system records information about inbound and outbound energy to/from a renewable energy grid."
+    },
+    {
+      "paperId": "71053e033295fb494daeaff4be27ac893f85ecfa",
+      "externalIds": {
+        "DOI": "10.1117/12.3033032",
+        "CorpusId": 271023206
+      },
+      "url": "https://www.semanticscholar.org/paper/71053e033295fb494daeaff4be27ac893f85ecfa",
+      "title": "Research on the design and construction of urban landscape ecological environment monitoring platform under distributed verification technology",
+      "venue": "Conference on Electronic Information Engineering and Data Processing",
+      "year": 2024,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.3033032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.3033032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Its role in the ecological environment monitoring platform is explored from various aspects such as environmental quality monitoring, resource management, behavioral supervision and restraint, and energy usage monitoring, and the risks and challenges faced by distributed ledger technology in the application of ecological environment monitoring platforms."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-07-05",
+      "journal": {
+        "pages": "131844L - 131844L-9",
+        "volume": "13184"
+      },
+      "authors": [
+        {
+          "authorId": "2271360228",
+          "name": "Jian Rao"
+        },
+        {
+          "authorId": "2271761785",
+          "name": "Tianci Fang"
+        },
+        {
+          "authorId": "2274229549",
+          "name": "Xinyun Han"
+        }
+      ],
+      "abstract": "Existing environmental monitoring systems mostly adopt hierarchical centralized management methods, forming data islands. In terms of management and monitoring, human control factors are high, causing the ecological environment monitoring platform to fall into difficulties such as low data credibility, no traceability, and low security. Distributed ledger technology, as one of the core technologies of the blockchain, can disperse the confirmed data among multiple nodes for simultaneous consensus and give it a timestamp. It ensures the traceability and decentralization of data and avoids the occurrence of data islands and unreliable data during the environmental monitoring process. Combined with the characteristics of distributed ledger technology such as traceability, decentralization, non-tamperability, and openness, we explore its role in the ecological environment monitoring platform from various aspects such as environmental quality monitoring, resource management, behavioral supervision and restraint, and energy usage monitoring. feasibility, and pointed out the risks and challenges faced by distributed ledger technology in the application of ecological environment monitoring platforms. Assist in the design and construction of ecological environment monitoring platforms in the digital era."
+    },
+    {
+      "paperId": "8b83dbcae542bfa925cb30e90b79178c5aeeb2a6",
+      "externalIds": {
+        "ArXiv": "2307.09080",
+        "DBLP": "journals/corr/abs-2307-09080",
+        "DOI": "10.48550/arXiv.2307.09080",
+        "CorpusId": 259950899
+      },
+      "url": "https://www.semanticscholar.org/paper/8b83dbcae542bfa925cb30e90b79178c5aeeb2a6",
+      "title": "A Federated learning model for Electric Energy management using Blockchain Technology",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2307.09080",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://arxiv.org/abs/2307.09080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "external"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Blockchain based safe distributed ledger technology for transaction of data between prosumer and consumer to ensure their transparency, traceability and security and a Federated learning model to forecast the energy requirements of consumer and prosumer are proposed."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2023-07-18",
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2307.09080"
+      },
+      "authors": [
+        {
+          "authorId": "2143502101",
+          "name": "M. Farooq"
+        },
+        {
+          "authorId": "2223748555",
+          "name": "Azeen Ahmed Hayat"
+        }
+      ],
+      "abstract": "Energy shortfall and electricity load shedding are the main problems for developing countries. The main causes are lack of management in the energy sector and the use of non-renewable energy sources. The improved energy management and use of renewable sources can be significant to resolve energy crisis. It is necessary to increase the use of renewable energy sources (RESs) to meet the increasing energy demand due to high prices of fossil-fuel based energy. Federated learning (FL) is the most emerging technique in the field of artificial intelligence. Federated learning helps to generate global model at server side by ensemble locally trained models at remote edges sites while preserving data privacy. The global model used to predict energy demand to satisfy the needs of consumers. In this article, we have proposed Blockchain based safe distributed ledger technology for transaction of data between prosumer and consumer to ensure their transparency, traceability and security. Furthermore, we have also proposed a Federated learning model to forecast the energy requirements of consumer and prosumer. Moreover, Blockchain has been used to store excess energy data from prosumer for better management of energy between prosumer and grid. Lastly, the experiment results revealed that renewable energy sources have produced better and comparable results to other non-renewable energy resources."
+    },
+    {
+      "paperId": "4fc107ddef83dd2f142dc408f6c4925ab6f3d768",
+      "externalIds": {
+        "DOI": "10.1109/PEEIC59336.2023.10451823",
+        "CorpusId": 268376120
+      },
+      "url": "https://www.semanticscholar.org/paper/4fc107ddef83dd2f142dc408f6c4925ab6f3d768",
+      "title": "The Crucial Implementation of BC Technology with Secure Transmission in the Communication Field in All Type of Distributed Systems",
+      "venue": "2023 International Conference on Power Energy, Environment & Intelligent Control (PEEIC)",
+      "year": 2023,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/PEEIC59336.2023.10451823?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PEEIC59336.2023.10451823, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This study examines the possible uses of blockchain technology in the field of electronics engineering, including supply chain management, secure data transmission, and product tracing and the snags and requirements related with the reception of blockchain innovation inside the domain of gadgets designing."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2023-12-19",
+      "journal": {
+        "name": "2023 International Conference on Power Energy, Environment & Intelligent Control (PEEIC)",
+        "pages": "545-549"
+      },
+      "authors": [
+        {
+          "authorId": "2220365825",
+          "name": "Paramjit Baxi"
+        }
+      ],
+      "abstract": "Using a distributed ledger, or blockchain technology, transactions may be recorded and verified in a safe, open, and independent manner. The ability to securely communicate data and improve supply chain management will enable the technology to potentially alter a number of sectors, including electronics engineering. This study examines the possible uses of blockchain technology in the field of electronics engineering, including supply chain management, secure data transmission, and product tracing. The article moreover looks at the snags and requirements related with the reception of blockchain innovation inside the domain of gadgets designing."
+    },
+    {
+      "paperId": "4c6e0ce5b3f208bc581458defba0a7662d116e22",
+      "externalIds": {
+        "DOI": "10.1109/IRASET60544.2024.10548446",
+        "CorpusId": 270491932
+      },
+      "url": "https://www.semanticscholar.org/paper/4c6e0ce5b3f208bc581458defba0a7662d116e22",
+      "title": "Green Energy and Blockchain: Sustainable Technology Innovation",
+      "venue": "2024 4th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)",
+      "year": 2024,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/IRASET60544.2024.10548446?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IRASET60544.2024.10548446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Examining green energy, sustainability goals, and how blockchain technology can be integrated into sustainability studies in the green energy sector and the studies carried out in this direction aims to make a valuable contribution to the transformation process in the energy sector."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2024-05-16",
+      "journal": {
+        "name": "2024 4th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "2278759076",
+          "name": "B\u00fc\u015fra Tural"
+        },
+        {
+          "authorId": "2281134063",
+          "name": "Zeynep \u00d6rpek"
+        },
+        {
+          "authorId": "2200307257",
+          "name": "Samet \u00d6zmen"
+        }
+      ],
+      "abstract": "Today, the concept of green energy has a critical role in achieving sustainability goals. The effective utilization of green energy resources and the management of energy from generation to distribution has become a key priority of sustainable energy transformation today. In this context, the use of blockchain technology provides an important infrastructure for transparent and secure management of energy processes. Blockchain is known as distributed ledger technology and represents a database that is updated simultaneously between many computers on a network. This technology is used in many application areas, ensuring data integrity and security. In the green energy sector, the use of blockchain technology is possible in various scenarios. Issues such as more effective use of green energy resources, monitoring and verifying energy consumption, and reducing carbon emissions include potential applications of blockchain in this field. The article aims to make a valuable contribution to the transformation process in the energy sector by examining green energy, sustainability goals, and how blockchain technology can be integrated into sustainability studies in the green energy sector and the studies carried out in this direction."
+    },
+    {
+      "paperId": "0e21530db698f0bce4c12186fce0c892bf2a16c1",
+      "externalIds": {
+        "DOI": "10.1109/ICEARS64219.2025.10940179",
+        "CorpusId": 277499909
+      },
+      "url": "https://www.semanticscholar.org/paper/0e21530db698f0bce4c12186fce0c892bf2a16c1",
+      "title": "A Hybrid Blockchain Framework for Secure, Scalable, and Energy-Efficient Digital Identity Management with Token-based Selective Disclosure",
+      "venue": "2025 International Conference on Electronics and Renewable Systems (ICEARS)",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEARS64219.2025.10940179?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEARS64219.2025.10940179, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A blockchain based digital identity management framework that implements privacy, security and transparency by employing distributed ledger technology that achieves improved efficiency reducing identity verification time by 40 percent compared to traditional systems."
+      },
+      "publicationTypes": [
+        "Conference"
+      ],
+      "publicationDate": "2025-02-11",
+      "journal": {
+        "name": "2025 International Conference on Electronics and Renewable Systems (ICEARS)",
+        "pages": "930-937"
+      },
+      "authors": [
+        {
+          "authorId": "2344254859",
+          "name": "Velmurugan M"
+        },
+        {
+          "authorId": "2268068804",
+          "name": "S. K."
+        },
+        {
+          "authorId": "2353265938",
+          "name": "G. Maya"
+        },
+        {
+          "authorId": "2353266243",
+          "name": "R. Ramya"
+        },
+        {
+          "authorId": "2353267618",
+          "name": "R. Kanimozhi"
+        },
+        {
+          "authorId": "2226468487",
+          "name": "Syed Ismail Abdul Lathif"
+        }
+      ],
+      "abstract": "Data breaches, identity theft, and the lack of user control within traditional digital identity management systems, it begs a more secure and decentralized alternative. In this study we propose a blockchain based digital identity management framework that implements privacy, security and transparency by employing distributed ledger technology. To provide tamper proof identity storage and automated verification, the proposed model uses cryptographic hashing and smart contracts. The use of a novel token-based access mechanism enables users to safely share their identity data with third parties, while keeping sensitive information out of sight. Security metrics are enhanced by 30% for data integrity with 45% reduction in unauthorized access attempts all through simulations. The framework also achieves improved efficiency reducing identity verification time by 40 percent compared to traditional systems. It offers a promising approach to address important vulnerabilities in centralized identity management in line with the development of marketable and user-friendly digital identity solutions."
+    },
+    {
+      "paperId": "13c963671db6fc2c26a6e8f6dac97558162f16c4",
+      "externalIds": {
+        "DOI": "10.51583/ijltemas.2024.131229",
+        "CorpusId": 275766134
+      },
+      "url": "https://www.semanticscholar.org/paper/13c963671db6fc2c26a6e8f6dac97558162f16c4",
+      "title": "Blockchain Technology, Regulatory Environment and Competitive Edge in Renewable Energy Sector in Kenya: A Systematic Literature Review",
+      "venue": "International Journal of Latest Technology in Engineering Management &amp; Applied Science",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "isOpenAccess": false,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.51583/ijltemas.2024.131229?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51583/ijltemas.2024.131229, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "s2FieldsOfStudy": [
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Business",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2025-01-20",
+      "journal": {
+        "name": "International Journal of Latest Technology in Engineering Management &amp; Applied Science"
+      },
+      "authors": [
+        {
+          "authorId": "2341382954",
+          "name": "Brian wakasala"
+        }
+      ],
+      "abstract": "Abstract: This systematic review of literature bears the objective of exploring the potential of transformative novel blockchain technology, its regulation, and the substantive impact it bears on renewable energy firms' competitive advantage. The study provides a minutiae of the current trends in research, their implications, and blockchain implementation and innovation between 2019 to 2024. The methodology comprised a comprehensive search of scholarly databases, selection, and analysis of the relevant research studies. The findings revealed that Blockchain is essential based on its transparency, traceability, data privacy, and decentralization features which enhance trust, transparency, and traceability across the supply chain. Furthermore, blockchain technology is relevant in the renewable energy sector in Kenya ranging from p2p trading platforms, digitization by IoT, E-mobility, and decentralized trading platforms. The distributed ledger technology is a promising disruption for a wide area of service and product management in the energy sector ranging from the producers, transmitters, regulators, and distributors involved. The review concludes with future research recommendations and the practical implications for the industry players and the regulators."
+    },
+    {
+      "paperId": "2854d0bb1c499e0f70f6f69837ccd2712e1387ae",
+      "externalIds": {
+        "MAG": "3045604743",
+        "DBLP": "journals/access/RahmanNRMSM20",
+        "DOI": "10.1109/access.2020.3012435",
+        "CorpusId": 221097135
+      },
+      "url": "https://www.semanticscholar.org/paper/2854d0bb1c499e0f70f6f69837ccd2712e1387ae",
+      "title": "DistBlockBuilding: A Distributed Blockchain-Based SDN-IoT Network for Smart Building Management",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 82,
+      "influentialCitationCount": 2,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09151145.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/access.2020.3012435?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/access.2020.3012435, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In this research, a novel architecture for a smart building system, including a control system and automatic approaches, is proposed and an efficient cluster head selection algorithm is proposed to select the desired cluster head with the consideration of low energy consumption and fast head selection."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": "2020-07-28",
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "140008-140018",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "122679539",
+          "name": "Anichur Rahman"
+        },
+        {
+          "authorId": "2838175",
+          "name": "Mostofa Kamal Nasir"
+        },
+        {
+          "authorId": "2067838331",
+          "name": "Ziaur Rahman"
+        },
+        {
+          "authorId": "3081489",
+          "name": "A. Mosavi"
+        },
+        {
+          "authorId": "1870407179",
+          "name": "S. S."
+        },
+        {
+          "authorId": "1403320509",
+          "name": "B. Minaei-Bidgoli"
+        }
+      ],
+      "abstract": "Security, privacy, and transparency aspects of the Internet of Things (IoT) sensors have recently raised significant concerns among the public and policymakers. The distributed ledger and Blockchain technologies had brought solutions through transparently bridging two or multiple untrusted parties. In this research, a novel architecture for a smart building system, including a control system and automatic approaches, is proposed. An efficient cluster head selection algorithm is proposed to select the desired cluster head with the consideration of low energy consumption and fast head selection. An enhanced combination of IoT forwarding devices and Software-Defined Networking (SDN) technology is further advanced. Furthermore, the proposed \u201cDistBlockBuilding\u201d architecture is implemented for managing a safe and secure data transfer from one surface to another surface. Besides, Blockchain technology is performed for transferring data within the smart building. Finally, the performance of IoT-SDN based secured networks is evaluated."
+    },
+    {
+      "paperId": "09e5cdb0d4a1b1548fb09677cfc4c482a143a006",
+      "externalIds": {
+        "DBLP": "journals/access/LinCZCSY22",
+        "DOI": "10.1109/access.2022.3189472",
+        "CorpusId": 250378947
+      },
+      "url": "https://www.semanticscholar.org/paper/09e5cdb0d4a1b1548fb09677cfc4c482a143a006",
+      "title": "Blockchain Power Trading and Energy Management Platform",
+      "venue": "IEEE Access",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 39,
+      "influentialCitationCount": 0,
+      "isOpenAccess": true,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09819921.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: This content is from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/access.2022.3189472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/access.2022.3189472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "s2FieldsOfStudy": [
+        {
+          "category": "Computer Science",
+          "source": "external"
+        },
+        {
+          "category": "Engineering",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Environmental Science",
+          "source": "s2-fos-model"
+        },
+        {
+          "category": "Computer Science",
+          "source": "s2-fos-model"
+        }
+      ],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "An energy management system (EMS) is proposed, which can perform optimal charging and discharging scheduling according to the power transaction matching results and then control charging piles and energy storage system devices."
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "publicationDate": null,
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "75932-75948",
+        "volume": "10"
+      },
+      "authors": [
+        {
+          "authorId": "2108808749",
+          "name": "Yu-Jin Lin"
+        },
+        {
+          "authorId": "2155380270",
+          "name": "Yu-Cheng Chen"
+        },
+        {
+          "authorId": "2175542152",
+          "name": "Jun-Yi Zheng"
+        },
+        {
+          "authorId": "2175415298",
+          "name": "Dan Chu"
+        },
+        {
+          "authorId": "2175371408",
+          "name": "Dan-Wei Shao"
+        },
+        {
+          "authorId": "46402229",
+          "name": "Hong-Tzer Yang"
+        }
+      ],
+      "abstract": "In this study, artificial intelligence, the Internet of things, and blockchain technology were combined to develop a vehicle-to-everything blockchain power trading and energy management platform with the objective of enabling multi-level power transactions for electric vehicle charging stations in or between commercial buildings. The proposed platform considers green power transactions across microgrids, bidirectional power and green power charging and discharging transactions in microgrids, demand response bidding, and vehicle-to-vehicle emergency rescue charging. This innovative architecture operates smart contracts and distributed ledgers independently; uses smart contracts to handle bidding, matching, and settlement of the power trading platform; and simultaneously employs the cloud and local distributed ledger nodes to chain the detailed real-time transaction information and power data on the ledger. In this manner, the security and fairness of data can be ensured; furthermore, a large amount of chaining information can be processed, and the chaining latency can be shortened. In addition, the communication protocols are integrated through the artificial intelligence of things. An energy management system (EMS) is proposed, which can perform optimal charging and discharging scheduling according to the power transaction matching results and then control charging piles and energy storage system devices. It can reduce the operating cost of microgrids in commercial buildings, increase the efficiency of green power utilization, and reduce power loss. In this system, power transactions are automatically and simultaneously executed in the EMS to achieve real-time supply and demand balance of regional microgrids."
+    }
+  ]
+}
