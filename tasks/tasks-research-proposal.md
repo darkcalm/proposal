@@ -141,32 +141,29 @@
     - [x] 4.2.1 Literature Review
       - [x] 4.2.1.1 Identify patterns and trends across papers 
       - [x] 4.2.1.2 Document key findings and insights
-    - [x] 4.2.2 Update theoretical framework (3.6.1, 3.6.2)
-    - [x] 4.2.3 Create visual representation (3.6.3)
-    - [ ] 4.2.4 Refine research questions and hypotheses (3.4.1, 3.4.2)
-  - [ ] 4.3 Research Gap Analysis
-    - [ ] 4.3.1 Analyze current research state
-    - [ ] 4.3.2 Identify theoretical gaps
-    - [ ] 4.3.3 Map methodological limitations
-    - [ ] 4.3.4 Document practical needs
-    - [ ] 4.3.5 Formulate gap statement
-  - [ ] 4.4 Background Development
-    - [ ] 4.4.1 Write focused introduction
-    - [ ] 4.4.2 Develop problem context
-    - [ ] 4.4.3 Create targeted literature review
-    - [ ] 4.4.4 Link to research gaps
+    - [x] 4.2.2 Update theoretical framework
+    - [x] 4.2.3 Create visual representation
+    - [x] 4.2.4 Refine research questions and hypotheses
+  - [x] 4.3 Research Gap Analysis
+    - [x] 4.3.1 Develop Elicit.com search strategy
+    - [x] 4.3.2 Export relevant papers information
+    - [x] 4.3.3 Convert Elicit.com papers to markdown
+    - [x] 4.3.4 Identify theoretical gaps
+    - [x] 4.3.5 Map methodological limitations
+    - [x] 4.3.6 Document practical needs
+    - [x] 4.3.7 Formulate gap statement
 
 - [ ] 5.0 Methodology Development (ILO3)
   - [ ] 5.1 Methodology Research
-    - [ ] 5.1.1 Identify relevant methodologies
-    - [ ] 5.1.2 Document quantitative approaches
-    - [ ] 5.1.3 Analyze qualitative methodologies
-    - [ ] 5.1.4 Evaluate mixed methodologies
-    - [ ] 5.1.5 Research emerging methodologies
+    - [x] 5.1.1 Identify relevant methodologies
+    - [x] 5.1.2 Document quantitative approaches
+    - [x] 5.1.3 Analyze qualitative methodologies
+    - [x] 5.1.4 Evaluate mixed methodologies
+    - [x] 5.1.5 Research emerging methodologies
   - [ ] 5.2 Methodology Comparison
-    - [ ] 5.2.1 Create comparison matrix
-    - [ ] 5.2.2 Evaluate strengths/limitations
-    - [ ] 5.2.3 Assess resource requirements
+    - [x] 5.2.1 Create comparison matrix
+    - [x] 5.2.2 Evaluate strengths/limitations
+    - [x] 5.2.3 Assess resource requirements
     - [ ] 5.2.4 Analyze feasibility
   - [ ] 5.3 Methodology Selection
     - [ ] 5.3.1 Select primary method
@@ -175,7 +172,7 @@
     - [ ] 5.3.4 Describe procedures
     - [ ] 5.3.5 Outline validation
   - [ ] 5.4 Implementation Planning
-    - [ ] 5.4.1 Detail step-by-step process
+    - [ ] 5.4.1 Outline rough timeline
     - [ ] 5.4.2 Define data sources
     - [ ] 5.4.3 Establish quality control
     - [ ] 5.4.4 Plan pilot testing
@@ -235,12 +232,15 @@
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization
-    - [ ] 8.1.1 Rename fa2 to final
-    - [ ] 8.1.2 Integrate all sections
-    - [ ] 8.1.3 Ensure consistent formatting
-    - [ ] 8.1.4 Verify all citations
-    - [ ] 8.1.5 Check word count
-    - [ ] 8.1.6 Proofread entire document
+    - [ ] 8.1.1 Write focused introduction
+    - [ ] 8.1.2 Develop problem context
+    - [ ] 8.1.3 Create targeted literature review
+    - [ ] 8.1.4 Link to research gaps
+    - [ ] 8.1.5 Integrate other sections
+    - [ ] 8.1.6 Ensure consistent formatting
+    - [ ] 8.1.7 Verify all citations
+    - [ ] 8.1.8 Check word count
+    - [ ] 8.1.9 Proofread entire document
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
     - [ ] 8.2.2 Validate ILO compliance

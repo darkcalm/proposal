@@ -1,0 +1,17 @@
+Digital twins (DTs) offer promising applications in distributed energy resources and smart grids, but face several limitations. Key challenges include big data management, real-time measurements, continuous communication, and investment in measuring systems (Lamagna et al., 2021). Security concerns are often overlooked, with DTs presented as an additional layer of protection rather than a potential vulnerability (Heluany & Gkioulos, 2023). Measurement and network uncertainties significantly impact DT output quality (Deakin et al., 2023). Human-focused DTs for occupational safety require complex integration of hardware and software components (Park et al., 2023). In power systems, DTs can address limitations of conventional virtual power plants, such as lack of real-time simulation and predictive maintenance (Idrisov et al., 2023). However, implementing DTs in buildings faces technical shortcomings in current Internet of Things systems (Khajavi et al., 2019). Despite these challenges, DTs show potential for improving design, operation, and maintenance across various domains (Botín-Sanabria et al., 2008; Patel et al., 2023).
+
+Lamagna, M., Groppi, D., Nezhad, M. M., & Piras, G. (2021). A comprehensive review on digital twins for smart energy management system. International Journal of Energy Production and Management, 6(4), 323–334. https://doi.org/10.2495/eq-v6-n4-323-334
+
+Shekhar, S., & Xiong, H. (2008). Remote Sensing. In Encyclopedia of GIS (pp. 957–957). Springer US. https://doi.org/10.1007/978-0-387-35973-1_1114
+
+Heluany, J. B., & Gkioulos, V. (2023). A review on digital twins for power generation and distribution. International Journal of Information Security, 23(2), 1171–1195. https://doi.org/10.1007/s10207-023-00784-x
+
+Deakin, M., Vanin, M., Fan, Z., & Van Hertem, D. (2023). Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project. In International Journal of Electrical Power &amp; Energy Systems (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2311.11997
+
+Khajavi, S. H., Motlagh, N. H., Jaribion, A., Werner, L. C., & Holmstrom, J. (2019). Digital Twin: Vision, Benefits, Boundaries, and Creation for Buildings. IEEE Access, 7, 147406–147419. https://doi.org/10.1109/access.2019.2946515
+
+Park, J.-S., Lee, D.-G., Jimenez, J. A., Lee, S.-J., & Kim, J.-W. (2023). Human-Focused Digital Twin Applications for Occupational Safety and Health in Workplaces: A Brief Survey and Research Directions. Applied Sciences, 13(7), 4598. https://doi.org/10.3390/app13074598
+
+Patel, A., Yadav, S. K., Tiwary, S., & Mathur, H. D. (2023). Digital Twin of a Single-Phase Home Converter System Integrating Distributed Energy Resources. 2023 IEEE International Conference on Energy Technologies for Future Grids (ETFG), 1–6. https://doi.org/10.1109/etfg55873.2023.10408449
+
+Idrisov, I., Veretennikov, I., Vasilev, S., Gutierrez, S., & Ibanez, F. (2023). Microgrid Digital Twin Application for Future Virtual Power Plants. IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, 1–8. https://doi.org/10.1109/iecon51785.2023.10311709

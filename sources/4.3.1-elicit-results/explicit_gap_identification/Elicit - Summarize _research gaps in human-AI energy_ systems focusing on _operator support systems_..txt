@@ -1,0 +1,17 @@
+Recent research highlights the growing importance of human-AI interaction in energy systems, particularly in operator support. AI technologies are being explored to mitigate human errors in nuclear power plants through various support systems (Meenu Sethu et al., 2022). In autonomous shipping, AI applications like collision avoidance are augmenting navigator roles, but implementation challenges remain (Veitch & Alsos, 2022). For power grid operations, AI assistants with hypervision interfaces are proposed to handle increasing complexity (Marot et al., 2020). In hydrogen-enabled integrated energy systems, AI and machine learning show promise in overcoming operational challenges (Mullanu et al., 2024). The offshore wind sector is exploring robotics and AI for lifecycle management, though barriers like certification and human-machine interaction optimization persist (Mitchell et al., 2021). Research gaps exist in energy information system software development for industrial manufacturing (Effenberger & Hilbert, 2018). Overall, there's a need for more empirical studies on human-AI decision-making to develop generalizable scientific knowledge (Lai et al., 2023).
+
+Sethu, M., Kotla, B., Russell, D., Madadi, M., Titu, N. A., Coble, J. B., Boring, R. L., Blache, K., Agarwal, V., Yadav, V., & Khojandi, A. (2022). Application of Artificial Intelligence in Detection and Mitigation of Human Factor Errors in Nuclear Power Plants: A Review. Nuclear Technology, 209(3), 276–294. https://doi.org/10.1080/00295450.2022.2067461
+
+Veitch, E., & Andreas Alsos, O. (2022). A systematic review of human-AI interaction in autonomous ship systems. Safety Science, 152, 105778. https://doi.org/10.1016/j.ssci.2022.105778
+
+Marot, A., Rozier, A., Dussartre, M., Crochepierre, L., & Donnot, B. (2022). Towards an AI Assistant for Power Grid Operators. In Frontiers in Artificial Intelligence and Applications. IOS Press. https://doi.org/10.3233/faia220191
+
+Mullanu, S., Chua, C., Molnar, A., & Yavari, A. (2024). Artificial intelligence for hydrogen-enabled integrated energy systems: A systematic review. International Journal of Hydrogen Energy. https://doi.org/10.1016/j.ijhydene.2024.08.013
+
+Antoine, M., Alexandre, R., Matthieu, D., Laure, C., & Benjamin, D. (2020). Towards an AI assistant for human grid operators. arXiv.Org.
+
+Lai, V., Chen, C., Smith-Renner, A., Liao, Q. V., & Tan, C. (2023). Towards a Science of Human-AI Decision Making: An Overview of Design Space in Empirical Human-Subject Studies. 2023 ACM Conference on Fairness Accountability and Transparency, 1369–1385. https://doi.org/10.1145/3593013.3594087
+
+Mitchell, D., Blanche, J., Harper, S., Lim, T., Gupta, R., Zaki, O., Tang, W., Robu, V., Watson, S., & Flynn, D. (2022). A review: Challenges and opportunities for artificial intelligence and robotics in the offshore wind sector. Energy and AI, 8, 100146. https://doi.org/10.1016/j.egyai.2022.100146
+
+F., E., & A., H. (2018). A Literature Review on Energy Information System Software Development: Research Gaps and Questions in Industrial Manufacturing. Multikonferenz Wirtschaftsinformatik.

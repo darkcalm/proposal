@@ -1,0 +1,17 @@
+The methodological challenges in eliciting and formalizing tacit knowledge for AI systems in industrial operations are multifaceted. Capturing workers' tacit knowledge is crucial for maintaining competitive advantage and operational efficiency (Arévalo et al., 2022; Fenoglio et al., 2021). Challenges include modeling expert knowledge, quantifying uncertainty, and validating acquired knowledge (Arévalo et al., 2022). Various approaches have been proposed, such as intelligent assistants for systematic reflection (Samuel Kernan Freire et al., 2023), knowledge transfer frameworks (Arévalo et al., 2022), and cooperative games with domain ontologies (Fenoglio et al., 2021). Effective strategies involve visual stimuli, expert strategies analysis, and semi-structured interviews (Chervinskaya & Wasserman, 2000). Systematic task analysis methods have proven effective in eliciting tacit knowledge, particularly in visual inspection tasks (Johnson et al., 2019). However, the process remains time-consuming and may lead to inaccuracies in knowledge bases (Cooke & McDonald, 1986). Integrating cognitive psychology techniques and appropriate knowledge representation schemes can enhance the elicitation process (Cooke & McDonald, 1986).
+
+Kernan Freire, S., Wang, C., Ruiz-Arenas, S., & Niforatos, E. (2023). Tacit Knowledge Elicitation for Shop-floor Workers with an Intelligent Assistant. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, 1–7. https://doi.org/10.1145/3544549.3585755
+
+Arevalo, F., M. P., C. A., Tahasanul Ibrahim, M., & Schwung, A. (2022). Production Assessment Using a Knowledge Transfer Framework and Evidence Theory. IEEE Access, 10, 89134–89152. https://doi.org/10.1109/access.2022.3199913
+
+Fenoglio, E., Kazim, E., Latapie, H., & Koshiyama, A. (2022). Tacit knowledge elicitation process for industry 4.0. Discover Artificial Intelligence, 2(1). https://doi.org/10.1007/s44163-022-00020-w
+
+Luftensteiner, S., Chasparis, G. C., & Mayr, M. (2023). Gathering Expert Knowledge in Process Industry. Procedia Computer Science, 217, 960–968. https://doi.org/10.1016/j.procs.2022.12.293
+
+Chervinskaya, K. R., & Wasserman, E. L. (2000). Some methodological aspects of tacit knowledge elicitation. Journal of Experimental &amp; Theoretical Artificial Intelligence, 12(1), 43–55. https://doi.org/10.1080/095281300146308
+
+Rosário, C. R., Kipper, L. M., Frozza, R., & Mariani, B. B. (2015). Methodology for acquisition of collective tacit knowledge used in diagnosis of defect cause in industrial processes. VINE, 45(1), 22–45. https://doi.org/10.1108/vine-03-2013-0013
+
+Cooke, N. M., & McDonald, J. E. (1986). A formal methodology for acquiring and representing expert knowledge. Proceedings of the IEEE, 74(10), 1422–1430. https://doi.org/10.1109/proc.1986.13643
+
+Johnson, T. L., Fletcher, S. R., Baker, W., & Charles, R. L. (2019). How and why we need to capture tacit knowledge in manufacturing: Case studies of visual inspection. Applied Ergonomics, 74, 1–9. https://doi.org/10.1016/j.apergo.2018.07.016

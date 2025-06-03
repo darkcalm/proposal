@@ -1,0 +1,17 @@
+Digital twins (DTs) are gaining prominence in the energy sector, offering benefits such as improved asset performance, efficiency, and environmental impact reduction (Ghenai et al., 2022). They are being applied across various energy domains, including generation, transmission, and distribution (Ismail et al., 2024). DTs enable predictive maintenance, grid optimization, and integration of renewable energy sources (Ismail et al., 2024). Methodological approaches like MEREC and MAIRCA are being used to evaluate DT solutions for smart city energy systems (Elsayed et al., 2024). However, human-DT interaction remains understudied in HCI literature (Barricelli & Fogli, 2022). DTs are also being employed for household energy management and smart appliance research (Koropiecki & Piotrowski, 2023). Researchers are developing open architecture frameworks and technology stacks to facilitate DT implementation in the energy sector (Gourisetti et al., 2023). DTs show potential for improving energy consumption management in production environments (Perossa et al., 2022) and are expected to play a significant role in future energy applications (Wang et al., 2022).
+
+Ghenai, C., Husein, L. A., Al Nahlawi, M., Hamid, A. K., & Bettayeb, M. (2022). Recent trends of digital twin technologies in the energy sector: A comprehensive review. Sustainable Energy Technologies and Assessments, 54, 102837. https://doi.org/10.1016/j.seta.2022.102837
+
+Ismail, F. B., Al-Faiz, H., Hasini, H., Al-Bazi, A., & Kazem, H. A. (2024). A comprehensive review of the dynamic applications of the digital twin technology across diverse energy sectors. Energy Strategy Reviews, 52, 101334. https://doi.org/10.1016/j.esr.2024.101334
+
+Elsayed, A., Arain, B., & Sallam, K. M. (2024). Exploring the Application of Digital Twin Technology in the Energy Sector using MEREC and MAIRCA Methods. Neutrosophic Systems with Applications, 19, 15–29. https://doi.org/10.61356/j.nswa.2024.19326
+
+Barricelli, B. R., & Fogli, D. (2022). Digital Twins in Human-Computer Interaction: A Systematic Review. International Journal of Human–Computer Interaction, 40(2), 79–97. https://doi.org/10.1080/10447318.2022.2118189
+
+Koropiecki, I., & Piotrowski, K. (2023). Household Digital Twin to Support Energy Management and Smart Appliance Research. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 1–6. https://doi.org/10.1109/smartgridcomm57358.2023.10333886
+
+Gourisetti, S. N. G., Bhadra, S., Sebastian-Cardenas, D. J., Touhiduzzaman, M., & Ahmed, O. (2023). A Theoretical Open Architecture Framework and Technology Stack for Digital Twins in Energy Sector Applications. Energies, 16(13), 4853. https://doi.org/10.3390/en16134853
+
+Perossa, D., Santacruz, R. F. B., Rocca, R., & Fumagalli, L. (2023). Digital Twin Application to Energy Consumption Management in Production: A Literature Review. In IFIP Advances in Information and Communication Technology (pp. 96–105). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-25182-5_10
+
+Wang, Y., Kang, X., & Chen, Z. (2022). A survey of Digital Twin techniques in smart manufacturing and management of energy applications. Green Energy and Intelligent Transportation, 1(2), 100014. https://doi.org/10.1016/j.geits.2022.100014

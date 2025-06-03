@@ -1,0 +1,17 @@
+Recent research highlights the potential of digital twins (DTs) for enhancing distributed energy resource (DER) management and human-agent interaction in smart environments. DTs can improve visibility and control of DERs, addressing challenges in power system security and renewable integration (Han et al., 2022; Ilić et al., 2020). Human Digital Twins are proposed to manage human-agent interactions consistently (Hafez, 2021). Multi-agent systems play a crucial role in DT implementations for various applications, including smart agriculture (Kalyani & Collier, 2024). However, several challenges remain, such as protocol-level security vulnerabilities in DER communications (Sundararajan et al., 2018), interoperability issues in developing a European electricity grid DT (Diakakis et al., 2024), and the need for suitable modeling and simulation approaches for local energy communities (Nguyen-Huu et al., 2022). The field still lacks a universal DT reference framework, standardization, and widely accepted performance metrics (Sharma et al., 2020), highlighting areas for future research and development.
+
+Hafez, W. (2021). Human Digital Twin—Enabling Human-Agents Collaboration. 2021 4th International Conference on Intelligent Robotics and Control Engineering (IRCE), 40–45. https://doi.org/10.1109/irce53649.2021.9570890
+
+Kalyani, Y., & Collier, R. (2024). The Role of Multi-Agents in Digital Twin Implementation: Short Survey. ACM Computing Surveys, 57(3), 1–15. https://doi.org/10.1145/3697350
+
+Han, J., Hong, Q., Feng, Z., Syed, M., Burt, G., & Booth, C. (2022). Design and Implementation of a Real-Time Hardware-in-the-Loop Platform for Prototyping and Testing Digital Twins of Distributed Energy Resources. Energies, 15(18), 6629. https://doi.org/10.3390/en15186629
+
+Sundararajan, A., Chavan, A., Saleem, D., & Sarwat, A. I. (2018). A Survey of Protocol-Level Challenges and Solutions for Distributed Energy Resource Cyber-Physical Security. Energies, 11(9), 2360. https://doi.org/10.3390/en11092360
+
+Ilic, M. D., Jaddivada, R., & Korpas, M. (2020). Interactive protocols for distributed energy resource management systems (DERMS). IET Generation, Transmission &amp; Distribution, 14(11), 2065–2081. https://doi.org/10.1049/iet-gtd.2019.1022
+
+Sharma, A., Kosasih, E., Zhang, J., Brintrup, A., & Calinescu, A. (2022). Digital Twins: State of the art theory and practice, challenges, and open research questions. Journal of Industrial Information Integration, 30, 100383. https://doi.org/10.1016/j.jii.2022.100383
+
+Diakakis, S., Zlatev, P., Palov, N., Maris, T. I., Santas, A., & Papadimitriou, M. (2024). A Review of Interoperability Challenges and Solutions Towards a Digital Twin of the European Electricity Grid. 2024 16th Electrical Engineering Faculty Conference (BulEF), 1–5. https://doi.org/10.1109/bulef63204.2024.10794888
+
+Nguyen-Huu, T.-A., Tran, T. T., Tran, M.-Q., Nguyen, P. H., & Slootweg, J. (2022). Operation Orchestration of Local Energy Communities through Digital Twin: A Review on suitable Modeling and Simulation Approaches. 2022 IEEE 7th International Energy Conference (ENERGYCON), 1–6. https://doi.org/10.1109/energycon53164.2022.9830264

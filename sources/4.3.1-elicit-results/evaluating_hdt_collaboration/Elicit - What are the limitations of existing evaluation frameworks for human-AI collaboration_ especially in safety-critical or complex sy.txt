@@ -1,0 +1,17 @@
+Existing evaluation frameworks for human-AI collaboration (HAIC) in complex systems face several limitations. While some frameworks focus on reporting and regulatory aspects (Reddy et al., 2021), they often lack guidance on assessing translational components like functionality, utility, and ethics. Current models tend to be dyadic, assuming individual human-machine interactions rather than considering distributed teams and networked technologies (Naikar et al., 2023). Additionally, many frameworks fail to account for the dynamic nature of HAIC, where initiative shifts between humans and AI (Muller & Weisz, 2022). To address these gaps, researchers propose more comprehensive approaches, such as incorporating both quantitative and qualitative metrics (Fragiadakis et al., 2024), considering sociotechnical perspectives (Weidinger et al., 2023), and integrating human review in AI systems (Mehta et al., 2023). Future research should focus on capacity management, adapting to dynamic environments (Leitão et al., 2022), and addressing emerging risks in safety-critical systems (Veitch & Alsos, 2022).
+
+Fragiadakis, G., Diou, C., Kousiouris, G., & Nikolaidou, M. (2024). Evaluating Human-AI Collaboration: A Review and Methodological Framework. In arXiv.org (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2407.19098
+
+Mehta, V., Kaza, K., Dadboud, F., Bolic, M., & Mantegh, I. (2023). Enhancing Counter Drone Operations Through Human-AI Collaboration: A Hierarchical Decision-Making Framework. 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC), 1–7. https://doi.org/10.1109/dasc58513.2023.10311244
+
+Leitão, D., Saleiro, P., Figueiredo, M. A. T., & Bizarro, P. (2022). Human-AI Collaboration in Decision-Making: Beyond Learning to Defer. In arXiv.org (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2206.13202
+
+Reddy, S., Rogers, W., Makinen, V.-P., Coiera, E., Brown, P., Wenzel, M., Weicken, E., Ansari, S., Mathur, P., Casey, A., & Kelly, B. (2021). Evaluation framework to guide implementation of AI systems into healthcare settings. BMJ Health &amp; Care Informatics, 28(1), e100444. https://doi.org/10.1136/bmjhci-2021-100444
+
+Naikar, N., Brady, A., Moy, G., & Kwok, H.-W. (2023). Designing human-AI systems for complex settings: ideas from distributed, joint, and self-organising perspectives of sociotechnical systems and cognitive work analysis. Ergonomics, 66(11), 1669–1694. https://doi.org/10.1080/00140139.2023.2281898
+
+Weidinger, L., Rauh, M., Marchal, N., Manzini, A., Hendricks, L. A., Mateos-Garcia, J., Bergman, S., Kay, J., Griffin, C., Bariach, B., Gabriel, I., Rieser, V., & Isaac, W. (2023). Sociotechnical Safety Evaluation of Generative AI Systems. In arXiv.org (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2310.11986
+
+Veitch, E., & Andreas Alsos, O. (2022). A systematic review of human-AI interaction in autonomous ship systems. Safety Science, 152, 105778. https://doi.org/10.1016/j.ssci.2022.105778
+
+Muller, M., & Weisz, J. (2022, June 8). Extending a Human-AI Collaboration Framework with Dynamism and Sociality. 2022 Symposium on Human-Computer Interaction for Work. CHIWORK 2022: 2022 Symposium on Human-Computer Interaction for Work. https://doi.org/10.1145/3533406.3533407

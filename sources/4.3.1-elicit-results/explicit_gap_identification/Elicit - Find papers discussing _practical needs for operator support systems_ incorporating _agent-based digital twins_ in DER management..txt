@@ -1,0 +1,17 @@
+Recent research highlights the potential of digital twins (DTs) and agent-based systems in supporting operator decision-making for distributed energy resource (DER) management. DTs enable improved observability, controllability, and resilience in power systems (Brosinsky et al., 2024), while agent-based approaches offer flexibility and intelligent decision support (Ocker et al., 2021; Croatti et al., 2020). The integration of DTs with multi-agent systems (MAS) can enhance real-time decision-making and interaction in complex environments (Pretel et al., 2022). Cloud-edge hosted DTs facilitate coordinated control of DERs, reducing reliance on real-time communications (Han et al., 2023). DT-based frameworks for grid-integrated electric vehicles support independent decision-making and optimal incentive strategies (Yu et al., 2024). As distribution systems evolve towards distributed system platforms, Distribution System Operators (DSOs) are emerging as neutral market facilitators (Campos do Prado et al., 2019). These advancements address the practical needs for operator support systems in managing the increasing complexity of DER integration (Nguyen-Huu et al., 2022).
+
+Brosinsky, C., Naglič, M., Lehnhoff, S., Krebs, R., & Westermann, D. (2024). A Fortunate Decision That You Can Trust: Digital Twins as Enablers for the Next Generation of Energy Management Systems and Sophisticated Operator Assistance Systems. IEEE Power and Energy Magazine, 22(1), 24–34. https://doi.org/10.1109/mpe.2023.3330120
+
+Nguyen-Huu, T.-A., Tran, T. T., Tran, M.-Q., Nguyen, P. H., & Slootweg, J. (2022). Operation Orchestration of Local Energy Communities through Digital Twin: A Review on suitable Modeling and Simulation Approaches. 2022 IEEE 7th International Energy Conference (ENERGYCON), 1–6. https://doi.org/10.1109/energycon53164.2022.9830264
+
+Ocker, F., Urban, C., Vogel-Heuser, B., & Diedrich, C. (2021). Leveraging the Asset Administration Shell for Agent-Based Production Systems. IFAC-PapersOnLine, 54(1), 837–844. https://doi.org/10.1016/j.ifacol.2021.08.186
+
+Croatti, A., Gabellini, M., Montagna, S., & Ricci, A. (2020). On the Integration of Agents and Digital Twins in Healthcare. Journal of Medical Systems, 44(9). https://doi.org/10.1007/s10916-020-01623-5
+
+Pretel, E., Navarro, E., López-Jaquero, V., Moya, A., & González, P. (2022). Multi-Agent Systems in Support of Digital Twins: A Survey. In Lecture Notes in Computer Science (pp. 524–533). Springer International Publishing. https://doi.org/10.1007/978-3-031-06527-9_52
+
+Han, J., Hong, Q., Syed, M. H., Khan, M. A. U., Yang, G., Burt, G., & Booth, C. (2023). Cloud-Edge Hosted Digital Twins for Coordinated Control of Distributed Energy Resources. IEEE Transactions on Cloud Computing, 11(2), 1242–1256. https://doi.org/10.1109/tcc.2022.3191837
+
+do Prado, J. C., Qiao, W., & Thomas, S. (2019). Moving Towards Distribution System Operators: Current Work and Future Directions. 2019 IEEE Power &amp; Energy Society Innovative Smart Grid Technologies Conference (ISGT), 1–5. https://doi.org/10.1109/isgt.2019.8791572
+
+Yu, J.-U., Cho, K.-S., Park, S.-W., & Son, S.-Y. (2024). Digital Twin System Framework and Implementation for Grid-Integrated Electric Vehicles. Energies, 17(24), 6249. https://doi.org/10.3390/en17246249

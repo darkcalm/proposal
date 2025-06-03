@@ -1,0 +1,700 @@
+{
+  "task": "5.1.1 - Identify Relevant Methodologies (Updated)",
+  "timestamp": "2025-06-04T01:05:43.054889",
+  "literature_source_directory": "../sources/4.3.1-elicit-results/markdown_papers/",
+  "total_methodologies_identified_in_literature": 17,
+  "identified_methodologies": {
+    "case_study": {
+      "count": 76,
+      "papers": [
+        "A_Review_on_TSO-DSO_Coordination_Models_and_Solution_Techniques.md",
+        "A_comprehensive_review_on_digital_twins_for_smart_energy_management_system.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Cloud-Edge_Hosted_Digital_Twins_for_Coordinated_Control_of_Distributed_Energy_Resources.md",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Digital_Twins_based_Day-ahead_Integrated_Energy_System_Scheduling_under_Load_and_Renewable_Energy_Uncertainties.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "How_and_why_we_need_to_capture_tacit_knowledge_in_manufacturing_Case_studies_of_visual_inspection.md",
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "Sociotechnical_Safety_Evaluation_of_Generative_AI_Systems.md",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+      ],
+      "contexts": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: ...ernational confer- ence kes2019). \t58.\t ayadi a, samet a, de bertrand de beuvron f, zanni-merk c. ontology population with deep learning-based nlp: a **case study** on the bio- molecular network ontology. procedia computer science 159, 572–581, 2019. https://​doi.​org/​10.​1016/j.​procs.​2019.​09.​212. knowledge-...",
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md: ...f electricity services” utility of the future memo  paper. 2016.  4 further description of the methodology and results can be found in s. huntington “**case study**: battery storage vs  flexible demand” utility of the future memo paper.2016.  5 i.e.a., 2016. global ev  outlook, available at:  http://www.iea.org/p...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...m, groppi d, marzialetti p, fusilli l, laneve g, cumo f, garcia da (2019) wind energy potential analy‑ sis using sentinel-1 satellite: a review and a **case study** on mediterranean islands. renew sustain energy rev  109:499–513 maldonado-correa j, martín-martínez s, artigao e, gómez-lázaro e (2020) using scada d...",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md: ...vol. 8, pp. 180 558–180 575, 2020. [16] r. rana, k. berg, m. r. brubæk, and o. b. fosso, “ancillary services from a residential community-a norwegian **case study**,” in 2021 interna- tional conference on smart energy systems and technologies (sest). ieee, 2021, pp. 1–6. [17] r. faia, j. soares, t. pinto, f. leza...",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md: ...enance  technique designed to address key issues identified in  the existing research gaps.     our approach is exemplified through a comprehensive  **case study** that leverages fft raw data and employs  multi-sensor data fusion for nuanced multi-fault  diagnosis in industrial rotating machines. to assess  the..."
+      ],
+      "details": {
+        "name": "Case Study Methodology",
+        "category": "Qualitative",
+        "keywords": [
+          "case study",
+          "case study methodology",
+          "case study research",
+          "multiple case study",
+          "single case study"
+        ],
+        "description": "Methodology for in-depth investigation of real-world contexts and applications.",
+        "suitability_for_protocols": "Moderate",
+        "timeline_fit": "Moderate (10-16 weeks)"
+      }
+    },
+    "mixed_methods_research": {
+      "count": 1,
+      "papers": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md"
+      ],
+      "contexts": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: ...cs/​wef_​48540_​wp_​end_​ of_​innov​ation_​prote​cting_​patent_​law.​pdf. \t85.\t magnusson ms. t-pattern detection and analysis (tpa) with themetm : a **mixed methods** approach. front psychol. 2020;10:2663. https://​ doi.​org/​10.​3389/​fpsyg.​2019.​02663. publisher’s note  springer nature remains neutral with regar..."
+      ],
+      "details": {
+        "name": "Mixed Methods Research",
+        "category": "Mixed Methods",
+        "keywords": [
+          "mixed methods",
+          "mixed methodology"
+        ],
+        "description": "General approach combining quantitative and qualitative techniques.",
+        "suitability_for_protocols": "Moderate to High (depends on specific design)",
+        "timeline_fit": "Varies"
+      }
+    },
+    "action_research": {
+      "count": 3,
+      "papers": [
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md"
+      ],
+      "contexts": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: ...ocumentation of manufac- turing facilities. procedia cirp. 2014;17:207–11. \t15.\t sanyal c, rigby c. e-mentoring as a hrd intervention: an exploratory **action research** study within an international professional mentor- ing scheme. hum resour dev int. 2017;20(1):18–36. \t16.\t xu j, kim s, song m, et al. building a pub...",
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md: ...spatial statistics advanced engineering informatics information technology & people journal of failure analysis and prevention systemic practice and **action research** international journal of disaster… systems journal of king saud university -… (number of publications)   ---  page 14  ---          international jou..."
+      ],
+      "details": {
+        "name": "Action Research Methodology",
+        "category": "Specialized/Qualitative",
+        "keywords": [
+          "action research",
+          "participatory action research"
+        ],
+        "description": "Methodology involving stakeholders in identifying problems and developing solutions.",
+        "suitability_for_protocols": "Low",
+        "timeline_fit": "Poor (16-24 weeks)"
+      }
+    },
+    "systematic_literature_review": {
+      "count": 51,
+      "papers": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Evaluation_framework_to_guide_implementation_of_AI_systems_into_healthcare_settings.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "Sociotechnical_Safety_Evaluation_of_Generative_AI_Systems.md",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+      ],
+      "contexts": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: ...look back and into the future. acm comput surv. 2012;44:20–12036. \t61.\t husáková m, bureš v. formal ontologies in information systems development: a **systematic review**. information. 2020. https://​doi.​org/​ 10.​3390/​info1​10200​66. \t62.\t ngo d, bellahsene z. efficient semantic verification of ontology alignment. i...",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: ...f netw. boston, ma: springer; 2008. p. 177–86. \t46.\t buchgeher g, gabauer d, gil jm, ehrlinger l. knowledge graphs in manufacturing and production: a **systematic literature review**. ieee  access. 2021;9:55537–54. https://​doi.​org/​10.​1109/​access.​2021.​30703​95. \t47.\t zhao z, han s-k, so i-m. architecture of knowledge graph c...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...ghts obtained from the literature review. methodology the methodology is inspired by the guidelines proposed by kitchenham and charters  (2007) for a **systematic literature review**. well-formulated research questions are essen- tial as they guide the search, selection, and analysis of relevant studies which provides a  comprehen...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...udy falls short of pro- viding comprehensive strategies for managing uncertainties and dealing with the scal- ability of the methods. in this study’s **meta-analysis**, it is observed that the current trend in predictive digi- tal twin platforms for wind energy systems involves the attempt to overcome inherited  cha...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...and brain sciences, 1992, 15(3): 464–492. \t [38]\t a wolf, j miehling, s wartzack. challenges in interaction modelling with  digital human models – a **systematic literature review** of interaction  modelling approaches. ergonomics, 2020, 63(11): 1442–1458. \t [39]\t x y yu, y shi, h yu, et al. digital human modeling and its applica..."
+      ],
+      "details": {
+        "name": "Systematic Literature Review Methodology",
+        "category": "Specialized",
+        "keywords": [
+          "systematic review",
+          "systematic literature review",
+          "meta-analysis",
+          "scoping review"
+        ],
+        "description": "Methodology for systematically reviewing and synthesizing existing research.",
+        "suitability_for_protocols": "Moderate",
+        "timeline_fit": "Good (8-12 weeks for focused review)"
+      }
+    },
+    "simulation_modeling": {
+      "count": 359,
+      "papers": [
+        "A_comprehensive_review_on_digital_twins_for_smart_energy_management_system.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Capturing_Tacit_Knowledge_in_Security_Operation_Centers.md",
+        "Cloud-Edge_Hosted_Digital_Twins_for_Coordinated_Control_of_Distributed_Energy_Resources.md",
+        "Coordination_of_DERs_for_Grid_Reliability_via_Day-ahead_Demand-Supply_Power_Bounds.md",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "How_and_why_we_need_to_capture_tacit_knowledge_in_manufacturing_Case_studies_of_visual_inspection.md",
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "Remote_Sensing.md",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md",
+        "The_Paradigm_of_Digital_Twin_Communications.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md",
+        "Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+        "XR_and_digital_twins_and_their_role_in_human_factor_studies.md"
+      ],
+      "contexts": [
+        "Tacit_knowledge_elicitation_process_for_industry_40.md: .... for completeness, this type of translation based on the seci model is not new and has been described by other  researchers [71]. the role game as a **simulation** of the professional activity with the participation of several experts  has been described in [12] but without the involvement of the virtual agents....",
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md: ...penetration of vre the merit-order effect may be offset by thermal cycling costs increasing energy prices.  figure 10 depicts this effect in a **simulation** of the solar generation impact in the ercot system.    figure 10: system and thermal production cost for increasing solar penetration in a thermal- d...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...echnology,  trondheim, norway   ---  page 2  ---  page 2 of 36 kandemir et al. energy informatics            (2024) 7:68  allow real time monitoring, **simulation**, and predictive analysis. the application of pre- dictive digital twins, especially in wind farms, offers valuable insights into the behavior  and pe...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...abstract  the human digital twin (hdt) emerges as a promising human-centric technology in industry 5.0, but challenges  remain in human modeling and **simulation**. digital human modeling (dhm) provides solutions for modeling and sim- ulating human physical and cognitive aspects to support ergonomic analysis. ho...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...oncerned with to  improve human well-being and overall system perfor- mance [15]. therefore, an easier and more practical  method is needed for human **modeling and simulation**  in hdt. the human factors, often known as ergonomics, con- siders different aspects of humanity from an interdis- ciplinary viewpoint, including phy..."
+      ],
+      "details": {
+        "name": "Simulation Modeling",
+        "category": "Quantitative/Emerging",
+        "keywords": [
+          "simulation",
+          "simulation modeling",
+          "simulation study",
+          "computer simulation",
+          "modeling and simulation",
+          "discrete event simulation"
+        ],
+        "description": "Using computer models to imitate real-world systems or processes.",
+        "suitability_for_protocols": "Very High",
+        "timeline_fit": "Good (part of larger methodology)"
+      }
+    },
+    "experimental_research": {
+      "count": 49,
+      "papers": [
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "Feeding_the_Coffee_Habit_A_Longitudinal_Study_of_a_Robo-Barista.md",
+        "How_and_why_we_need_to_capture_tacit_knowledge_in_manufacturing_Case_studies_of_visual_inspection.md",
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md",
+        "MAINTAINING_ENGAGEMENT_IN_LONG-TERM_INTERVENTIONS_WITH_RELATIONAL_AGENTS.md",
+        "Sociotechnical_Safety_Evaluation_of_Generative_AI_Systems.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md",
+        "XR_and_digital_twins_and_their_role_in_human_factor_studies.md"
+      ],
+      "contexts": [
+        "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md: ...ansion plan\"  2013/9, asensio, j.; gómez-lobo, a.; matas, a.: \"how effective are policies to reduce gasoline consumption?  evaluating a quasi-natural **experiment** in spain\"  2013/10, jofre-monseny, j.: \"the effects of unemployment benefits on migration in lagging regions\"  2013/11, segarra, a.; garcía-quevedo,...",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md: ...ous factors such as the  dataset's size and nature, the fault patterns' complexity,  interpretability, and available resources. it is recommended  to **experiment** with different algorithms and compare their  performance on the specific fault classification task at hand.  the algorithms that were used for multic...",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md: ...decade.      ---  page 13  ---      3  chapter 1. extended curriculum vitae    “do not be too timid and squeamish about your actions. all life is an **experiment**.”  – r.w. emerson                this first chapter describes my educational and scientific activities since i arrived at the université  bretagne su...",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md: ...at the aalto university in finland. the aim was to collect light, ambient temperature, and relative humidity measurements data of the environment. a. **experiment** testbed setup texas instruments (ti) sensortag cc2650 was selected due to its characteristics, such as the availability of various sen- sors on each...",
+        "MAINTAINING_ENGAGEMENT_IN_LONG-TERM_INTERVENTIONS_WITH_RELATIONAL_AGENTS.md: ...in order to investigate reactions of users to agents that relate personal human (“first person”) back stories, we conducted a randomized longitudinal **experiment** in which users conducted daily conversations with an agent that related such stories (bickmore, schulman, and yin 2009). bickmore et al. page 7 appl..."
+      ],
+      "details": {
+        "name": "Experimental Research Methodology",
+        "category": "Quantitative",
+        "keywords": [
+          "experimental research",
+          "experimental methodology",
+          "experiment",
+          "controlled experiment",
+          "experimental design"
+        ],
+        "description": "Methodology based on controlled experiments to test hypotheses about protocol performance.",
+        "suitability_for_protocols": "High",
+        "timeline_fit": "Good (8-12 weeks)"
+      }
+    },
+    "comparative_research": {
+      "count": 9,
+      "papers": [
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+      ],
+      "contexts": [
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...ussion of decomposition-based hybrid models for wind  energy forecasting applications. appl energy 235:939–953 qian y, wang t, yuan y, zhang y (2020) **comparative study** on wind turbine wakes using a modified partially-averaged  navier-stokes method and large eddy simulation. energy 206:118147 qin x, luo y, tang n, li...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...sa j, briard c, plougonven r (2020) sub-hourly forecasting of wind speed and wind  energy. renew energy 145:2373–2379 elsaraiti m, merabet a (2021) a **comparative analysis** of the arima and lstm predictive models and their effectiveness for  predicting wind speed. energies 14(20):6782 elyasichamazkoti f, khajehpoor a (20...",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md: ...mobility services for a local energy community,” sustainable energy, grids and networks, vol. 26, p. 100440, 2021. [26] a. farmann and d. u. sauer, “**comparative study** of reduced order equivalent circuit models for on-board state-of-available-power predic- tion of lithium-ion batteries in electric vehicles,” applied...",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md: ...often  overlooked in traditional predictive maintenance  strategies.  by combining innovative predictive maintenance  techniques with a comprehensive **comparative analysis** of  ai algorithms and a commitment to interpretability through  state-of-the-art methods, our study presents a holistic and  impactful contribution t...",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md: ...tion, technology & work. https://doi.org/10.1007/s10111- 021-00667-y  papantonopoulos, s. (2004). “system design in normative and actual practice: a  **comparative study** of cognitive task allocation in advanced manufacturing systems.”  human factors and ergonomics in manufacturing 14(2):181–96.  parasuraman r., & sher..."
+      ],
+      "details": {
+        "name": "Comparative Research Methodology",
+        "category": "Quantitative",
+        "keywords": [
+          "comparative research",
+          "comparative study",
+          "comparative analysis",
+          "benchmarking study"
+        ],
+        "description": "Methodology for systematic comparison of different approaches, protocols, or solutions.",
+        "suitability_for_protocols": "High",
+        "timeline_fit": "Excellent (6-10 weeks)"
+      }
+    },
+    "digital_twin": {
+      "count": 1028,
+      "papers": [
+        "A_comprehensive_review_on_digital_twins_for_smart_energy_management_system.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Cloud-Edge_Hosted_Digital_Twins_for_Coordinated_Control_of_Distributed_Energy_Resources.md",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Digital_Twins_based_Day-ahead_Integrated_Energy_System_Scheduling_under_Load_and_Renewable_Energy_Uncertainties.md",
+        "Enhancing_Human-in-the-Loop_Adaptive_Systems_through_Digital_Twins_and_VR_Interfaces.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "The_Paradigm_of_Digital_Twin_Communications.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md",
+        "XR_and_digital_twins_and_their_role_in_human_factor_studies.md"
+      ],
+      "contexts": [
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...---  page 1  ---  predictive **digital twin** for wind energy  systems: a literature review ege kandemir1*, agus hasan1, trond kvamsdal2 and saleh abdel‑afou alaliyat1  introduction as the world...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...ind farms pose challenges that demand innovative solutions to improve overall perfor- mance, reliability, and efficiency. in this context, predictive **digital twins** have attracted  attention as an innovative technology with the potential to fundamentally alter the wind  energy market. **digital twins**, which are vir...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/. chinese journal of mechanical engineering from digital human modeling to human  **digital twin**: framework and perspectives  in human factors qiqi he1,2†, li li3†, dai li1,2, tao peng1,2*   , xiangying zhang1,2, yincheng cai1,2, xujun zhang2,4 a...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...such,  human-centric techniques play an important role to put  core human needs at the center of the production process  [6]. industry 5.0 identified **digital twins** (dt) as one of the  enabling technologies that are better to merge the physi- cal and virtual worlds [1]. the success of dt technology  in physical s...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...the evolution from dhm to hdt and proposes a unified hdt framework from a human factors perspective.  the framework comprises the physical twin, the **virtual twin**, and the linkage between these two. the **virtual twin**  integrates human modeling and ai engines to enable model-data-hybrid-enabled simulation. hdt ca..."
+      ],
+      "details": {
+        "name": "Digital Twin Methodology",
+        "category": "Emerging",
+        "keywords": [
+          "digital twin",
+          "digital twins",
+          "digital twin methodology",
+          "virtual twin"
+        ],
+        "description": "Creating digital replicas for testing, validation, and optimization.",
+        "suitability_for_protocols": "Very High",
+        "timeline_fit": "Good (14-18 weeks)"
+      }
+    },
+    "optimization_research": {
+      "count": 143,
+      "papers": [
+        "A_Review_on_TSO-DSO_Coordination_Models_and_Solution_Techniques.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Coordination_of_DERs_for_Grid_Reliability_via_Day-ahead_Demand-Supply_Power_Bounds.md",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Digital_Twins_based_Day-ahead_Integrated_Energy_System_Scheduling_under_Load_and_Renewable_Energy_Uncertainties.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md",
+        "MCP_Learning_Composable_Hierarchical_Control_with_Multiplicative_Compositional_Policies.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "Remote_Sensing.md",
+        "Sociotechnical_Safety_Evaluation_of_Generative_AI_Systems.md",
+        "The_Paradigm_of_Digital_Twin_Communications.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md",
+        "Towards_an_AI_Assistant_for_Power_Grid_Operators.md"
+      ],
+      "contexts": [
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...:68  \t methods. this technology not only allows stakeholders to forecast potential issues but  also enhances informed decision-making and performance **optimization**. despite the  growing investment in this field, there remains a need for a comprehensive understand- ing of the current state of research and develop...",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md: ...s, which are often prone to failure, is the  focus. the proposed framework consists of several different methods: clustering filters,  ant bee colony **optimization algorithm**, variational mode decomposition, multi-verse  **optimization algorithm**, and wavelet transform. combining these methods enables the  detection of anomal...",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md: ...igital engine is com- posed of two parts: a human modeling engine and an ai- inference engine. for real-time monitoring, assessment,  prediction, and **optimization**, the digital engine plays an  important role in model-data-hybrid-enabled simulation  and intelligent analysis to extract behavioral and contex- tual...",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md: ...r function  layer information  layer congestion &  voltage management digital twin (dt) network models dt ders  model building(s) energy  managments  **optimization** simulated use-cases ai - based grid-egde control coordination dt building  model fig. 5. digital twin architecture built in sgam model. geographical...",
+        "Coordination_of_DERs_for_Grid_Reliability_via_Day-ahead_Demand-Supply_Power_Bounds.md: ...torical load data to compute day-ahead hourly demand upper and lower bounds for each consumer node. it then solves a largest volume axis- aligned box **optimization** problem to determine corresponding supply power bounds which if followed, ensures grid reliability. a local controller at each consumer node then det..."
+      ],
+      "details": {
+        "name": "Optimization Research",
+        "category": "Quantitative",
+        "keywords": [
+          "optimization",
+          "mathematical optimization",
+          "optimization algorithm"
+        ],
+        "description": "Finding the best solution from a set of available alternatives based on criteria.",
+        "suitability_for_protocols": "High",
+        "timeline_fit": "Good (part of larger methodology)"
+      }
+    },
+    "living_lab": {
+      "count": 1,
+      "papers": [
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md"
+      ],
+      "contexts": [
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md: ...platform is essential for assessing the value and profitability of energy communities, and optimisation of the (system) design. being considered as a **living lab**, the lec in bunnik has 8 office buildings including pv rooftop systems, ev charging stations, bess connected in a ring network topology through some..."
+      ],
+      "details": {
+        "name": "Living Lab Methodology",
+        "category": "Emerging/Qualitative",
+        "keywords": [
+          "living lab",
+          "living laboratory",
+          "real-world testing",
+          "field testing"
+        ],
+        "description": "Test innovations in real-world settings with active stakeholder participation.",
+        "suitability_for_protocols": "Moderate to High (for validation)",
+        "timeline_fit": "Challenging (15-25 weeks)"
+      }
+    },
+    "participatory_design": {
+      "count": 3,
+      "papers": [
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+      ],
+      "contexts": [
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md: ...therefore part of the design of socio-technical systems. this requires an articulation between  technocentric and anthropocentric visions, through a **participatory design** approach. the principle of  this design approach is to integrate the end user (the human operator) as an actor in the design. it is  therefore a ques..."
+      ],
+      "details": {
+        "name": "Participatory Design",
+        "category": "Emerging/Qualitative",
+        "keywords": [
+          "participatory design",
+          "co-design"
+        ],
+        "description": "Involving all stakeholders in the design process.",
+        "suitability_for_protocols": "Moderate to High (for requirements/validation)",
+        "timeline_fit": "Moderate"
+      }
+    },
+    "grounded_theory": {
+      "count": 3,
+      "papers": [
+        "Feeding_the_Coffee_Habit_A_Longitudinal_Study_of_a_Robo-Barista.md",
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md"
+      ],
+      "contexts": [
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md: ...map an aggregate cognitive map  abdul-rahman, wang and siong,  2011  repertory grid and cluster analysis  selwyn and classen, 2012  storytelling and **grounded theory**  naweed, 2014  cognitive work analysis (cwa), critical decision  method (cdm) and ground theory  rosário et. al, 2015  unstructured interview,  card...",
+        "Feeding_the_Coffee_Habit_A_Longitudinal_Study_of_a_Robo-Barista.md: ...tion vii-a. c. qualitative analysis the qualitative questionnaire items were collected. a codebook was created using an inductive approach similar to **grounded theory** and open coding [35]. two coders met to discuss the codebook, and unitisation policy [36]. they then independently coded all the data. the average ag..."
+      ],
+      "details": {
+        "name": "Grounded Theory Methodology",
+        "category": "Qualitative",
+        "keywords": [
+          "grounded theory",
+          "grounded theory methodology"
+        ],
+        "description": "Methodology for building theory from systematic data collection and analysis.",
+        "suitability_for_protocols": "Low",
+        "timeline_fit": "Poor (16-24 weeks)"
+      }
+    },
+    "delphi_methodology": {
+      "count": 2,
+      "papers": [
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md"
+      ],
+      "contexts": [
+        "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md: ...ase, since it will be the  individual collective cognitive mapping  aggregate cognitive map  léger and naud, 2009 statechart diagram tan et al., 2010 **delphi method** zappavigna and patrick, 2010 systemic functional linguistics ting et al., 2011 concept map repertory grid cluster analysis xavier et al., 2013 common..."
+      ],
+      "details": {
+        "name": "Delphi Methodology",
+        "category": "Specialized",
+        "keywords": [
+          "delphi method",
+          "delphi technique",
+          "delphi study"
+        ],
+        "description": "Methodology for achieving expert consensus through iterative rounds.",
+        "suitability_for_protocols": "Moderate",
+        "timeline_fit": "Moderate (8-12 weeks)"
+      }
+    },
+    "rapid_prototyping": {
+      "count": 2,
+      "papers": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md"
+      ],
+      "contexts": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md: ...2021. [online]. available: https://www.tntech.edu/ hr/pdf/jaq.pdf [37] f. hayat, a. u. rehman, k. s. arif, k. wahab, and m. abbas, ‘‘the inﬂuence of **agile methodology** (scrum) on software project management,’’ in proc. 20th ieee/acis int. conf. softw. eng., artif. intell., netw. paral- lel/distributed comput. (snpd)...",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md: ...pecific opera- tional needs of each building. these systems offer detailed insights and possess the flex- ibility required for the implementation and **iterative development** of the digital twin,  facilitating its continuous evolution. over time, these solutions can be fine-tuned to  emphasize operational benefits that yie..."
+      ],
+      "details": {
+        "name": "Rapid Prototyping & Iterative Development",
+        "category": "Emerging",
+        "keywords": [
+          "rapid prototyping",
+          "iterative development",
+          "agile methodology"
+        ],
+        "description": "Rapidly develop and refine solutions through continuous iteration.",
+        "suitability_for_protocols": "Very High",
+        "timeline_fit": "Excellent (8-20 weeks)"
+      }
+    },
+    "ethnography": {
+      "count": 4,
+      "papers": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md"
+      ],
+      "contexts": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md: ...techniques are interviews [et-1], questionnaire [et-2], prototyping [et-4], and requirements reuse [et-5], scenarios [et-6], brain- storming [et-7], **ethnography** [et-10], and observation [et-11], similar system [et-12], think aloud [et-13] and active observation [et-15]. rq1.1 (what are speciﬁc techniques used..."
+      ],
+      "details": {
+        "name": "Ethnography",
+        "category": "Qualitative",
+        "keywords": [
+          "ethnography",
+          "ethnographic research"
+        ],
+        "description": "Studying people in their own environment to understand their culture, behaviors, and social structures.",
+        "suitability_for_protocols": "Low to Moderate",
+        "timeline_fit": "Poor (typically long-term)"
+      }
+    },
+    "content_analysis": {
+      "count": 1,
+      "papers": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md"
+      ],
+      "contexts": [
+        "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md: ...ements eng. conf. (re), jul. 2013, pp. 92–104. [10] j. coughlan, m. lycett, and r. d. macredie, ‘‘communication issues in requirements elicitation: a **content analysis** of stakeholder experiences,’’ inf. softw. technol., vol. 45, no. 8, pp. 525–537, jun. 2003. [11] g. nikita, p. wora, and s. kumaresh, ‘‘managing requ..."
+      ],
+      "details": {
+        "name": "Content Analysis",
+        "category": "Qualitative",
+        "keywords": [
+          "content analysis"
+        ],
+        "description": "Systematically analyzing the content of communications.",
+        "suitability_for_protocols": "Moderate (for analyzing documents)",
+        "timeline_fit": "Good"
+      }
+    },
+    "agent_based_modeling": {
+      "count": 2,
+      "papers": [
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md"
+      ],
+      "contexts": [
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md: ...[20] present a systematic literature review on applying simulation as dts in  decision support systems for productive processes, focusing on des and **agent-based simulation**  (abs). the review highlights the growing integration of simulation models with physical systems,  enhancing their real-time operational alignment an...",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md: ...., and gamberini, e., real-time tracking and documentation in trauma management. health informatics journal, 2019. 15. montagna, s., and omicini, a., **agent-based modeling** for the self-management of chronic diseases: an exploratory study. simulation: transactions of the society for modeling and simulation international..."
+      ],
+      "details": {
+        "name": "Agent-Based Modeling (ABM)",
+        "category": "Quantitative/Emerging",
+        "keywords": [
+          "agent-based modeling",
+          "agent-based simulation",
+          "multi-agent system",
+          "ABM"
+        ],
+        "description": "Simulating actions and interactions of autonomous agents.",
+        "suitability_for_protocols": "Very High",
+        "timeline_fit": "Good (part of larger methodology)"
+      }
+    },
+    "computational_social_science_methodology": {
+      "count": 16,
+      "papers": [
+        "A_Survey_on_Human_Machine_Interaction_in_Industry_4.0.md",
+        "Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_power_network_architectures.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Krupitzer2020_A_Survey_on_Human_Machine_Interaction_in_Industry_40.md",
+        "Nuclear_power_plant_communications_in_normative_and_actual_practice-_A_field_study_of_control_room_o.md",
+        "Tacit_knowledge_elicitation_process_for_industry_40.md",
+        "Zaher2016_Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_po.md"
+      ],
+      "contexts": [
+        "...representation. In: Proceedings  of the 38th annual Hawaii international conference on system sciences. 2005. p. 243. https://​doi.​org/​10.​1109/​HICSS.​2005.​620. \t30.\t Susskind D. Re-thinking the capabilities of machines in economics. Department of Economics Discussion Paper Series: University of...",
+        "...Based Flexible Manufacturing System Modelling with Fuzzy  Approach. Advances in Computer, Signals and Systems, 6(7), 10-17. https://doi.org/10.23977/acss.2022.060702    [38] Ait-Alla, A., Kreutz, M., Rippel, D., Lütjen, M., & Freitag, M. (2021). Simulated-based methodology for the interface  configurat...",
+        "...obias Pentek, and Boris Otto. 2016. Design Principles for Industrie 4.0 Scenarios. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 3928–3937. https://doi.org/10.1109/HICSS.2016.488 [23] Hartmut Hirsch-Kreinsen. 2014. Smart production systems. A new type of industrial proc...",
+        "...ples for Industrie 4.0 Scenarios. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 3928–3937. https://doi.org/10.1109/HICSS.2016.488 [23] Hartmut Hirsch-Kreinsen. 2014. Smart production systems. A new type of industrial process innovation. In DRUID Society Conference 2014....",
+        "...tion of Operator-Critical Weaving Machine Components for AR-Prototype Development. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 560–568. https://doi.org/10.1109/HICSS.2016.76 [61] Adam Sanders, Chola Elangeswaran, and Jens Wulfsberg. 2016. Industry 4.0 Implies Lean Man...",
+        "...nents for AR-Prototype Development. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 560–568. https://doi.org/10.1109/HICSS.2016.76 [61] Adam Sanders, Chola Elangeswaran, and Jens Wulfsberg. 2016. Industry 4.0 Implies Lean Manufacturing: Research Ac- tivities in Industry 4...",
+        "...obias Pentek, and Boris Otto. 2016. Design Principles for Industrie 4.0 Scenarios. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 3928–3937. https://doi.org/10.1109/HICSS.2016.488 [23] Hartmut Hirsch-Kreinsen. 2014. Smart production systems. A new type of industrial proc...",
+        "...ples for Industrie 4.0 Scenarios. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 3928–3937. https://doi.org/10.1109/HICSS.2016.488 [23] Hartmut Hirsch-Kreinsen. 2014. Smart production systems. A new type of industrial process innovation. In DRUID Society Conference 2014....",
+        "...tion of Operator-Critical Weaving Machine Components for AR-Prototype Development. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 560–568. https://doi.org/10.1109/HICSS.2016.76 [61] Adam Sanders, Chola Elangeswaran, and Jens Wulfsberg. 2016. Industry 4.0 Implies Lean Man...",
+        "...nents for AR-Prototype Development. In 2016 49th Hawaii International Conference on System Sciences (HICSS). IEEE, 560–568. https://doi.org/10.1109/HICSS.2016.76 [61] Adam Sanders, Chola Elangeswaran, and Jens Wulfsberg. 2016. Industry 4.0 Implies Lean Manufacturing: Research Activities in Industry 4.0..."
+      ],
+      "details": {
+        "name": "Computational Social Science Methodology",
+        "description": "Apply computational methods to understand social systems",
+        "category": "Emerging",
+        "keywords_example": [
+          "computational social science",
+          "CSS"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    },
+    "digital_twin_methodology": {
+      "count": 1055,
+      "papers": [
+        "A_Human-Machine_Reinforcement_Learning_Method_for_Cooperative_Energy_Management.md",
+        "A_comprehensive_review_on_digital_twins_for_smart_energy_management_system.md",
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+        "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+        "Cloud-Edge_Hosted_Digital_Twins_for_Coordinated_Control_of_Distributed_Energy_Resources.md",
+        "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+        "Digital_Twins_based_Day-ahead_Integrated_Energy_System_Scheduling_under_Load_and_Renewable_Energy_Uncertainties.md",
+        "Enhancing_Human-in-the-Loop_Adaptive_Systems_through_Digital_Twins_and_VR_Interfaces.md",
+        "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "FUSE_using_artificial_intelligence_in_the_energy_grid_of_tomorrow.md",
+        "First_Field_Trial_of_LLM-Powered_AI_Agent_for_Lifecycle_Management_of_Autonomous_Driving_Optical_Net.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "Guzmán-Henao2024_On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks_.md",
+        "Harnessing_machine_learning_for_predictive_maintenance_in_energy_infrastructure-_A_review_of_challen.md",
+        "Impact_of_Artificial_Intelligence_on_the_Planning_and_Operation_of_Distributed_Energy_Systems_in_Sma.md",
+        "Implementing_Industry_40-_An_In-Depth_Case_Study_Integrating_Digitalisation_and_Modelling_for_Decisi.md",
+        "On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks__A_Review_of_Current_Solution_Methods,_Challenges,_and_Opportunitie.md",
+        "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+        "The_Paradigm_of_Digital_Twin_Communications.md",
+        "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md",
+        "Towards_Efficient_Operation_and_Maintenance_of_Wind_Farms-_Leveraging_AI_for_Minimizing_Human_Error.md",
+        "XR_and_digital_twins_and_their_role_in_human_factor_studies.md"
+      ],
+      "contexts": [
+        "...---  Page 1  ---  Predictive digital twin for wind energy  systems: a literature review Ege Kandemir1*, Agus Hasan1, Trond Kvamsdal2 and Saleh Abdel‑Afou Alaliyat1  Introduction As the world...",
+        "...ind farms pose challenges that demand innovative solutions to improve overall perfor- mance, reliability, and efficiency. In this context, predictive digital twins have attracted  attention as an innovative technology with the potential to fundamentally alter the wind  energy market. Digital twins, which are vi...",
+        "...xt, predictive digital twins have attracted  attention as an innovative technology with the potential to fundamentally alter the wind  energy market. Digital twins, which are virtual replicas of physical assets or systems,  Abstract  In recent years, there has been growing interest in digital twin technology  i...",
+        "...nergy market. Digital twins, which are virtual replicas of physical assets or systems,  Abstract  In recent years, there has been growing interest in digital twin technology  in both industry and academia. This versatile technology has found applications  across various industries. Wind energy systems are parti...",
+        "...industry and academia. This versatile technology has found applications  across various industries. Wind energy systems are particularly suitable for digital twin  platforms due to the integration of multiple subsystems. This study aims to explore  the current state of predictive digital twin platforms for wind...",
+        "...larly suitable for digital twin  platforms due to the integration of multiple subsystems. This study aims to explore  the current state of predictive digital twin platforms for wind energy systems by sur‑ veying literature from the past five years, identifying challenges and limitations,  and addressing future...",
+        "...d real-time systems, including communica‑ tion networks, edge computing, and cloud computing. Finally, it addresses current  challenges in predictive digital twin platforms. Addressing these research questions  enables the development of hybrid modeling strategies with data fusion algorithms,  which allow for i...",
+        "...hese research questions  enables the development of hybrid modeling strategies with data fusion algorithms,  which allow for interpretable predictive digital twin platforms in real time. Filter meth‑ ods with dimensionality reduction algorithms minimize the computational resource  demand in real-time operating...",
+        "...ing algorithms. Moreover, advancements in high-band‑ width communication networks facilitate efficient data transmission between physical  assets and digital twins with reduced latency. Keywords:  Wind energy systems, Predictive digital twin, Digital twin enabling  technologies, Digital twin literature review,...",
+        "...ks facilitate efficient data transmission between physical  assets and digital twins with reduced latency. Keywords:  Wind energy systems, Predictive digital twin, Digital twin enabling  technologies, Digital twin literature review, Wind energy literature review, Trends in  predictive digital twin Open Access ©..."
+      ],
+      "details": {
+        "name": "Digital Twin Methodology",
+        "description": "Create digital replicas for testing, validation, and optimization of real-world systems",
+        "category": "Emerging",
+        "keywords_example": [
+          "digital twin",
+          "digital replica"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    },
+    "ai_explainability_methodology": {
+      "count": 45,
+      "papers": [
+        "Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_and_Their_Link_with_Sustainable_Development_Goals.md",
+        "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+        "From_Digital_Human_Modeling_to_Human_Digital_Twin_Framework_and_Perspectives_in_Human_Factors.md",
+        "Impact_of_Artificial_Intelligence_on_the_Planning_and_Operation_of_Distributed_Energy_Systems_in_Sma.md",
+        "Marot2020_Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+        "Sen2021_Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_.md",
+        "Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+        "Towards_an_AI_assistant_for_human_grid_operators.md"
+      ],
+      "contexts": [
+        "...-  Page 11 of 14 He et al. Chinese Journal of Mechanical Engineering            (2024) 37:9  \t growing field of eXplainable Artificial Intelligence  (XAI) can assist in the development of models with  interpretability [100]. •\t Autonomy. The cyber twin of the HDT can per- form data analysis and decisio...",
+        "...high-fidelity. The    ---  Page 11  ---  Page 11 of 14 He et al. Chinese Journal of Mechanical Engineering            (2024) 37:9  \t growing field of eXplainable Artificial Intelligence  (XAI) can assist in the development of models with  interpretability [100]. •\t Autonomy. The cyber twin of the HDT can per- form data analysis and d...",
+        "...” arXiv preprint arXiv:1702.08608, 2017. [50] A. Adadi and M. Berrada, “Peeking inside the black-box: A survey on explainable artiﬁcial intelligence (xai),” IEEE Access, vol. 6, pp. 52138–52160, 2018. [51] E. Commission, “White paper on artiﬁcial intelligence–a european approach to excellence and trust...",
+        "...tent, allowing a focus on the core  aspects of the proposed methodology.  B. EXPLAINABLE ARTIFICIAL INTELLIGENCE (XAI)  Explainable AI, also known as interpretable AI, refers to the  concept of developing and designing artificial intelligence  systems and algorithms that can provide understandable  explanations for...",
+        "...nt fault classes) data acquisition, b)  Frequency-domain statistical feature extraction, c) Comparison of results for multiple AI algorithms, and d)  XAI integration using \"Local Interpretable Model Agnostic Explanation (LIME)\", \"SHapley Additive  exPlanation (SHAP)\", \"Partial Dependence Plot (PDP)\" an...",
+        "...makes it difficult for maintenance  personnel to understand why a machine is flagged as  faulty or when maintenance is needed.   The eXplainable AI (XAI), an emerging field, provides  a clear and understandable method and assists in solving all  of the company's issues. Explainable Artificial Intellig...",
+        "...merging field, provides  a clear and understandable method and assists in solving all  of the company's issues. Explainable Artificial Intelligence  (XAI) in Predictive Maintenance refers to integrating  interpretability techniques into AI models for predicting  and detecting faults in industrial machi...",
+        "...X, 2017  7  When an AI model detects a fault in a machine,  maintenance experts need to understand the reasons or root  causes behind the prediction. XAI techniques offer  interpretable insights into the features and factors  contributing to the prediction, facilitating accurate root  cause analysis an...",
+        "...aking process can also identify and  address potential errors, improving the model's overall  performance. Table I analyses the Applications of some  XAI techniques related to Predictive Maintenance in  different domains.  TABLE I  APPLICATIONS OF SOME XAI TECHNIQUES RELATED TO PREDICTIVE  MAINTENANCE...",
+        "...ce. Table I analyses the Applications of some  XAI techniques related to Predictive Maintenance in  different domains.  TABLE I  APPLICATIONS OF SOME XAI TECHNIQUES RELATED TO PREDICTIVE  MAINTENANCE IN DIFFERENT DOMAINS  Ref. Domain Application of XAI Techniques  LIME  SHAP  Rule Based  Tree Based  Sa..."
+      ],
+      "details": {
+        "name": "AI Explainability and Interpretability Methodology",
+        "description": "Develop and evaluate methods for making AI systems transparent, interpretable, and accountable",
+        "category": "Emerging",
+        "keywords_example": [
+          "AI explainability",
+          "interpretable AI"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    },
+    "living_lab_methodology": {
+      "count": 3,
+      "papers": [
+        "Hu2017_Transactive_control_a_framework_for_operating_power_systems_characterized_by_high_penetration.md",
+        "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+        "Transactive_control__a_framework_for_operating_power_systems_characterized_by_high_penetration_of_distributed_energy_resources.md"
+      ],
+      "contexts": [
+        "...platform is essential for assessing the value and profitability of energy communities, and optimisation of the (system) design. Being considered as a living lab, the LEC in Bunnik has 8 office buildings including PV rooftop systems, EV charging stations, BESS connected in a ring network topology through some...",
+        "...stem operations, and on households, and observations about the sensitivity of load to price changes. Powermatching City [42]: PowerMatching City is a living lab environment based on state-of-the-art off-the- shelf consumer products that have been altered to provide ﬂexibility, and allow coordination with the...",
+        "...tem operations, and on households, and observations about the sensitivity of load to price changes. Powermatching City [42]: Power Matching City is a living lab environment based on state-of-the-art off-theshelf consumer products that have been altered to provide ﬂexibility, and allow coordination with the sm..."
+      ],
+      "details": {
+        "name": "Living Lab Methodology",
+        "description": "Develop and test innovations in real-world settings with active stakeholder participation",
+        "category": "Emerging",
+        "keywords_example": [
+          "living lab",
+          "real-world innovation testing"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    },
+    "human_ai_collaboration_methodology": {
+      "count": 15,
+      "papers": [
+        "Backhaus2013_Cyber-Physical_Security_A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md",
+        "Cyber-Physical_Security__A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md",
+        "Human-AI_Collaboration_in_Decision-Making_Beyond_Learning_to_Defer.md",
+        "Marot2020_Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+        "Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+        "Towards_an_AI_assistant_for_human_grid_operators.md"
+      ],
+      "contexts": [
+        "...ith seven sparks from the causal revolution,” arXiv preprint arXiv:1801.04016, 2018. [41] D. Dellermann, P. Ebel, M. S¨ollner, and J. M. Leimeister, “Hybrid intelligence,” Business & Informa- tion Systems Engineering, vol. 61, no. 5, pp. 637–643, 2019. [42] N. Case, “How to become a centaur,” Journal of Design and Sci...",
+        "...---  Page 1  ---  Human-AI Collaboration in Decision-Making: Beyond Learning to Defer Diogo Leit˜ao 1 2 3 Pedro Saleiro 1 M´ario A. T. Figueiredo 2 3 Pedro Bizarro 1 Abstract Human-AI collab...",
+        "...I Collaboration in Decision-Making: Beyond Learning to Defer Diogo Leit˜ao 1 2 3 Pedro Saleiro 1 M´ario A. T. Figueiredo 2 3 Pedro Bizarro 1 Abstract Human-AI collaboration (HAIC) in decision- making aims to create synergistic teaming be- tween human decision-makers and AI systems. Learning to defer (L2D) has been presen...",
+        "...As such, often the ideal system consists neither of AI alone, nor of humans alone, but rather of a collaboration between the two. A key challenge in human-AI collaboration (HAIC) is to determine who makes which decisions. An ideal HAIC sys- tem is capable of identifying the strengths and weaknesses of humans and AI in o...",
+        "...e these challenges and limitations, while shedding light on possible avenues of future research to bring us closer to performant, fair, and practical human-AI collaboration. 2. Learning to Defer The simplest approach to manage assignments in HAIC is to defer based on model conﬁdence. This approach is drawn from learning...",
+        "...AI being increasingly used to support decision-making in key societal sectors, fu- ture research should aim to maintain fairness at the forefront of human-AI collaboration. 3.7. Dynamic environments Lastly, a key unaddressed issue is dealing with dynamic environments. The underlying data distribution may change due to n...",
+        "...d for managing assignments in human-AI collaborative decision- making — learning to defer. Our goal is to motivate research moving towards a holistic human-AI collaboration system that learns to optimize performance and fairness from the available data, while managing existing capacity constraints, and keeping up with dy...",
+        "...pt drift adaptation. ACM computing surveys (CSUR), 46(4):1–37, 2014. Gao, R., Saar-Tsechansky, M., De-Arteaga, M., Han, L., Lee, M. K., and Lease, M. Human-AI collaboration with bandit feedback. arXiv preprint arXiv:2105.10614, 2021. Hendrycks, D. and Gimpel, K. A baseline for detecting misclassiﬁed and out-of-distributi...",
+        ".... Yet Human and AI can be seen as complementary heterogeneous intelligence that could achieve a superior outcome when co-adapting [10] and developing hybrid intelligence [41] or human-centered AI [12]. This is best exempliﬁed by Kasparov’s “Centaur chess“ concept [42], where humans play alongside machines to reach sup...",
+        "...h seven sparks from the causal revolution,” ar Xiv preprint ar Xiv:1801.04016, 2018. [41] D. Dellermann, P. Ebel, M. S¨ollner, and J. M. Leimeister, “Hybrid intelligence,” Business & Information Systems Engineering, vol. 61, no. 5, pp. 637–643, 2019. [42] N. Case, “How to become a centaur,” Journal of Design and Scien..."
+      ],
+      "details": {
+        "name": "Human-AI Collaboration Methodology",
+        "description": "Investigate and design effective collaboration between human and artificial intelligence systems",
+        "category": "Emerging",
+        "keywords_example": [
+          "human-AI collaboration",
+          "human-agent collaboration"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    },
+    "rapid_prototyping_methodology": {
+      "count": 1,
+      "papers": [
+        "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md"
+      ],
+      "contexts": [
+        "...pecific opera- tional needs of each building. These systems offer detailed insights and possess the flex- ibility required for the implementation and iterative development of the digital twin,  facilitating its continuous evolution. Over time, these solutions can be fine-tuned to  emphasize operational benefits that yie..."
+      ],
+      "details": {
+        "name": "Rapid Prototyping and Iterative Development Methodology",
+        "description": "Rapidly develop, test, and refine technical solutions through continuous iteration",
+        "category": "Emerging",
+        "keywords_example": [
+          "rapid prototyping",
+          "iterative development"
+        ],
+        "source": "5.1.5_emerging_scan"
+      }
+    }
+  },
+  "next_steps": [
+    "Document each identified methodology category in detail (Tasks 5.1.2-5.1.5)",
+    "Create comprehensive comparison matrix (Task 5.2.1)"
+  ],
+  "metadata": {
+    "last_updated_by_task": "5.1.5",
+    "last_updated_timestamp": "2025-06-04T01:32:34.137013"
+  }
+}

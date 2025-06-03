@@ -1,0 +1,17 @@
+Creating and implementing human digital twins (HDTs) for complex operational roles like DER workers faces several theoretical challenges and limitations. Data integration and real-time information extraction are significant hurdles (Möhring et al., 2022; Ghanbarifard et al., 2023). The high degree of individuality among humans necessitates AI-based learning to accurately represent each person (Vildjiounaite et al., 2023). Developing HDTs for labor-intensive systems adds uncertainty and requires consideration of worker well-being (Götz & Lazarova-Molnar, 2024; Berti et al., 2023). Integrating various hardware and software components for human data acquisition and representation is challenging (Park et al., 2023). HDTs must address human activities, knowledge-based behavior, and professional characteristics while ensuring interoperability with machine digital twins (Bomström et al., 2022). Ethical implications, including potential misuse of HDTs, must also be carefully considered (Cardin & Trentesaux, 2022). Despite these challenges, HDTs offer potential benefits in improving efficiency, safety, and decision-making in complex operational environments.
+
+Möhring, M., Keller, B., Radowski, C.-F., Blessmann, S., Breimhorst, V., & Müthing, K. (2022). Empirical Insights into the Challenges of Implementing Digital Twins. In Smart Innovation, Systems and Technologies (pp. 229–239). Springer Nature Singapore. https://doi.org/10.1007/978-981-19-3455-1_18
+
+Ghanbarifard, R., Almeida, A. H., & Azevedo, A. (2023). Digital Twin in complex operations environments: potential applications and research challenges. 2023 3rd Asia Conference on Information Engineering (ACIE), 81–91. https://doi.org/10.1109/acie58528.2023.00022
+
+Vildjiounaite, E., Kallio, J., Kantorovitch, J., Kinnula, A., Ferreira, S., Rodrigues, M. A., & Rocha, N. (2023). Challenges of learning human digital twin: case study of mental wellbeing. Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments, 574–583. https://doi.org/10.1145/3594806.3596538
+
+Götz, M., & Lazarova-Molnar, S. (2024). Challenges in Developing Digital Twins for Labor-intensive Manufacturing Systems: A Step towards Human-centricity. Procedia Computer Science, 238, 647–654. https://doi.org/10.1016/j.procs.2024.06.073
+
+Berti, N., Finco, S., Guidolin, M., & Battini, D. (2023). Towards Human Digital Twins to enhance workers’ safety and production system resilience. IFAC-PapersOnLine, 56(2), 11062–11067. https://doi.org/10.1016/j.ifacol.2023.10.809
+
+Park, J.-S., Lee, D.-G., Jimenez, J. A., Lee, S.-J., & Kim, J.-W. (2023). Human-Focused Digital Twin Applications for Occupational Safety and Health in Workplaces: A Brief Survey and Research Directions. Applied Sciences, 13(7), 4598. https://doi.org/10.3390/app13074598
+
+Bomström, H., Annanperä, E., Kelanti, M., Xu, Y., Mäkelä, S.-M., Immonen, M., Siirtola, P., Teern, A., Liukkunen, K., & Päivärinta, T. (2022). Digital Twins About Humans—Design Objectives From Three Projects. Journal of Computing and Information Science in Engineering, 22(5). https://doi.org/10.1115/1.4054270
+
+Cardin, O., & Trentesaux, D. (2022). Design and Use of Human Operator Digital Twins in Industrial Cyber-Physical Systems: Ethical Implications. IFAC-PapersOnLine, 55(2), 360–365. https://doi.org/10.1016/j.ifacol.2022.04.220

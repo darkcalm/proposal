@@ -1,0 +1,17 @@
+Current agent communication protocols face limitations in representing nuanced human expertise and communication patterns. Existing approaches like MCP and A2A struggle to capture the complexity of human-agent interaction (Barnes et al., 2019). While MCP allows for composable skills in complex tasks (Peng et al., 2019), it lacks the flexibility needed for natural communication. Protocol analysis methods have empirical difficulties in studying human language and cognition (Cabello, 2002). Researchers propose various solutions, including commitment-based and dialogue-game-based protocols (Maudet & Chaib-draa, 2002), and pragmatic approaches for aligning communication primitives (Bravo & Coronel, 2008; Holmback et al., 1998). However, these approaches still fall short in addressing context-sensitivity and standardization issues. Singh (2010) argues against a globally valid standard for agent communication, advocating instead for community-specific dialects. Improving human-agent collaboration requires developing more realistic requirements based on the strengths and limitations of all agents (Joe et al., 2014).
+
+Maricela, C. B., & Martha, C. (2008). ALIGNING AGENT COMMUNICATION PROTOCOLS - A Pragmatic Approach. Proceedings of the Third International Conference on Software and Data Technologies Special Session on Applications in Banking and Finance, 200–205. https://doi.org/10.5220/0001894702000205
+
+M., B., Shan, G. L., E., H., & Jessie, Y. C. C. (2019). Issues in Human–Agent Communication.
+
+X., B. P., Michael, C., Grace, Z., P., A., & S., L. (2019). MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies. Neural Information Processing Systems.
+
+J., J., J., O., H., M., & J., O. (2014). Identifying Requirements for Effective Human-Automation Teamwork.
+
+H., H., M., G., & J., B. (1998). “Agent A, Can You Pass the Salt?” The Role of Pragmatics in Agent Communication.
+
+Francisco, C. (2002). Addressing the Limitations of Protocol Analysis in the Study of Complex Human Behavior.
+
+MAUDET, N., & CHAIB-DRAA, B. (2002). Commitment-based and dialogue-game-based protocols: new trends in agent communication languages. The Knowledge Engineering Review, 17(2), 157–179. https://doi.org/10.1017/s0269888902000486
+
+Munindar, P. S. (2010). Community Standards for Agent Communication.

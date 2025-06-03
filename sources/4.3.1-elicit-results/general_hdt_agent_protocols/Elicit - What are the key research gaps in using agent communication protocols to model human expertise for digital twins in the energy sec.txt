@@ -1,0 +1,17 @@
+Recent research on digital twins in the energy sector highlights their potential for improving energy efficiency and system optimization. Digital twins have been applied to smart manufacturing (Billey & Wuest, 2024), power plants (Sleiti et al., 2022), and building energy management (Bortolini et al., 2022). Key components of digital twin architectures include physical and virtual entities, bidirectional communication, data management, and services (Heluany & Gkioulos, 2023). Challenges remain in integrating expert knowledge with data-driven approaches (Jungmann & Lazarova-Molnar, 2024) and addressing security concerns (Heluany & Gkioulos, 2023). Research gaps exist in exploring decision-making and interactions of non-residential energy consumers (Akhatova et al., 2021) and developing industry-specific energy flexibility solutions (Howard et al., 2020). Future directions include enhancing fault detection, real-time monitoring, and parameter estimation in battery energy storage systems (Semeraro et al., 2023) and developing data-driven algorithms to predict system dynamics (Sleiti et al., 2022).
+
+Billey, A., & Wuest, T. (2024). Energy digital twins in smart manufacturing systems: A case study. Robotics and Computer-Integrated Manufacturing, 88, 102729. https://doi.org/10.1016/j.rcim.2024.102729
+
+Sleiti, A. K., Kapat, J. S., & Vesely, L. (2022). Digital twin in energy industry: Proposed robust digital twin for power plant and other complex capital-intensive large engineering systems. Energy Reports, 8, 3704–3726. https://doi.org/10.1016/j.egyr.2022.02.305
+
+Jungmann, M., & Lazarova-Molnar, S. (2024). Towards Fusing Data and Expert Knowledge for Better-Informed Digital Twins: An Initial Framework. Procedia Computer Science, 238, 639–646. https://doi.org/10.1016/j.procs.2024.06.072
+
+Bortolini, R., Rodrigues, R., Alavi, H., Vecchia, L. F. D., & Forcada, N. (2022). Digital Twins’ Applications for Building Energy Efficiency: A Review. Energies, 15(19), 7002. https://doi.org/10.3390/en15197002
+
+Howard, D. A., Ma, Z., & Jørgensen, B. N. (2021). Digital Twin Framework for Energy Efficient Greenhouse Industry 4.0. In Advances in Intelligent Systems and Computing (pp. 293–297). Springer International Publishing. https://doi.org/10.1007/978-3-030-58356-9_34
+
+Semeraro, C., Aljaghoub, H., Abdelkareem, M. A., Alami, A. H., & Olabi, A. G. (2023). Digital twin in battery energy storage systems: Trends and gaps detection through association rule mining. Energy, 273, 127086. https://doi.org/10.1016/j.energy.2023.127086
+
+Heluany, J. B., & Gkioulos, V. (2023). A review on digital twins for power generation and distribution. International Journal of Information Security, 23(2), 1171–1195. https://doi.org/10.1007/s10207-023-00784-x
+
+Akhatova, A., Kranzl, L., Schipfer, F., & Heendeniya, C. B. (2021). Agent-Based Modelling of Urban District Energy System Decarbonisation – A Systematic Literature Review. In Energies. MDPI AG. https://doi.org/10.20944/preprints202112.0121.v1

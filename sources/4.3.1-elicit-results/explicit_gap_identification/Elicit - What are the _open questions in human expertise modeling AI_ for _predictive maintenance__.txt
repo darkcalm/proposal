@@ -1,0 +1,18 @@
+Recent research in predictive maintenance (PdM) highlights the integration of explainable AI (XAI) to enhance human-machine collaboration and trust (Gama et al., 2023; Wellsandt et al., 2022). Key challenges include optimizing human-machine interfaces, addressing ethical concerns, and improving natural language processing (Ucar et al., 2024; Wellsandt et al., 2022). The automotive industry faces unique challenges in implementing ML-based PdM, including the need for public datasets and efficient deep learning methods (Theissler et al., 2021). Human-centric approaches emphasize the importance of trust, control, and organizational factors in PdM adoption (van Oudenhoven et al., 2022). Novel techniques incorporate domain expert feedback and simulate large-scale PdM scenarios (Nikitin & Kaski, 2022). XAI methods such as LIME, SHAP, PDP, and ICE are being applied to interpret AI models in rotating machine maintenance (Gawde et al., 2024). Overall, XAI in PdM offers new insights for addressing critical maintenance issues and improving decision-making processes (Sharma et al., 2023).
+
+Gama, J., Nowaczyk, S., Pashami, S., Ribeiro, R. P., Nalepa, G. J., & Veloso, B. (2023). XAI for Predictive Maintenance. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 5798–5799. https://doi.org/10.1145/3580305.3599578
+
+Wellsandt, S., Klein, K., Hribernik, K., Lewandowski, M., Bousdekis, A., Mentzas, G., & Thoben, K.-D. (2022). Hybrid-augmented intelligence in predictive maintenance with digital intelligent assistants. Annual Reviews in Control, 53, 382–390. https://doi.org/10.1016/j.arcontrol.2022.04.001
+
+Ucar, A., Karakose, M., & Kırımça, N. (2024). Artificial Intelligence for Predictive Maintenance Applications: Key Components, Trustworthiness, and Future Trends. Applied Sciences, 14(2), 898. https://doi.org/10.3390/app14020898
+
+Theissler, A., Pérez-Velázquez, J., Kettelgerdes, M., & Elger, G. (2021). Predictive maintenance enabled by machine learning: Use cases and challenges in the automotive industry. Reliability Engineering &amp; System Safety, 215, 107864. https://doi.org/10.1016/j.ress.2021.107864
+
+van Oudenhoven, B., Van de Calseyde, P., Basten, R., & Demerouti, E. (2022). Predictive maintenance for industry 5.0: behavioural inquiries from a work system perspective. International Journal of Production Research, 61(22), 7846–7865. https://doi.org/10.1080/00207543.2022.2154403
+
+Nikitin, A., & Kaski, S. (2022). Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 3682–3690. https://doi.org/10.1145/3534678.3539196
+
+Sharma, J., Lal Mittal, M., Soni, G., & Keprate, A. (2024). Explainable Artificial Intelligence (XAI) Approaches in Predictive
+Maintenance: A Review. Recent Patents on Engineering, 18(5). https://doi.org/10.2174/1872212118666230417084231
+
+Gawde, S., Patil, S., Kumar, S., Kamat, P., Kotecha, K., & Alfarhood, S. (2024). Explainable Predictive Maintenance of Rotating Machines Using LIME, SHAP, PDP, ICE. IEEE Access, 12, 29345–29361. https://doi.org/10.1109/access.2024.3367110

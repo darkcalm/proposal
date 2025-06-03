@@ -1,0 +1,264 @@
+{
+  "task": "5.1.3 - Analyze Qualitative Methodologies (Updated)",
+  "timestamp": "2025-06-04T01:11:12.849240",
+  "literature_source_info_from": "5.1.1-relevant-methodologies.json",
+  "total_qualitative_methodologies_documented": 7,
+  "qualitative_methodologies": {
+    "case_study": {
+      "name": "Case Study Methodology",
+      "category_in_kb": "Qualitative",
+      "classification": "Primary Qualitative Methodology",
+      "paradigm": "Interpretivist with some positivist elements",
+      "purpose": "Provide in-depth understanding of real-world phenomena within their natural context",
+      "philosophical_foundations": {
+        "epistemology": "Constructivist - knowledge constructed through interaction between researcher and context",
+        "ontology": "Relativist - reality is context-dependent and socially constructed"
+      },
+      "detailed_phases": {
+        "phase_1_case_selection": {
+          "description": "Strategic selection of cases for investigation",
+          "timeline_weeks": "2-3"
+        },
+        "phase_2_data_collection": {
+          "description": "Collect multiple forms of evidence from selected cases",
+          "timeline_weeks": "4-6"
+        },
+        "phase_3_within_case_analysis": {
+          "description": "Analyze data within each individual case",
+          "timeline_weeks": "3-4"
+        },
+        "phase_4_cross_case_analysis": {
+          "description": "Compare patterns and insights across multiple cases",
+          "timeline_weeks": "2-3"
+        },
+        "phase_5_theory_building": {
+          "description": "Build theoretical understanding from case evidence",
+          "timeline_weeks": "2-3"
+        }
+      },
+      "case_study_types": {
+        "single_case_study": {
+          "description": "In-depth investigation of one case"
+        }
+      },
+      "data_collection_methods": {
+        "interviews": {
+          "types": [
+            "Structured",
+            "Semi-structured"
+          ]
+        }
+      },
+      "analytical_techniques": {
+        "pattern_matching": {
+          "description": "Compare observed patterns with predicted patterns"
+        }
+      },
+      "strengths_for_protocol_research": [
+        "Provides real-world context for protocol usage and adaptation",
+        "Captures stakeholder perspectives"
+      ],
+      "limitations_considerations": [
+        "Limited generalizability to other contexts",
+        "Potential for researcher bias"
+      ],
+      "application_to_acp_a2a": {
+        "case_selection": "Select 1-2 DER organizations actively using communication protocols"
+      },
+      "timeline_breakdown": {
+        "total_duration": "13-19 weeks"
+      },
+      "quality_criteria": {
+        "construct_validity": "Use multiple sources of evidence"
+      },
+      "mentions_in_current_literature": {
+        "count": 76,
+        "papers": [
+          "A_Review_on_TSO-DSO_Coordination_Models_and_Solution_Techniques.md",
+          "A_comprehensive_review_on_digital_twins_for_smart_energy_management_system.md",
+          "A_review_of_building_digital_twins_to_improve_energy_efficiency_in_the_building_operational_stage.md",
+          "A_review_on_digital_twins_for_power_generation_and_distribution.md",
+          "Cloud-Edge_Hosted_Digital_Twins_for_Coordinated_Control_of_Distributed_Energy_Resources.md",
+          "Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings.md",
+          "Digital_Twins_based_Day-ahead_Integrated_Energy_System_Scheduling_under_Load_and_Renewable_Energy_Uncertainties.md",
+          "Expert_Twin_A_Digital_Twin_with_an_Integrated_Fuzzy-Based_Decision-Making_Module.md",
+          "Explainable_Predictive_Maintenance_of_Rotating_Machines_Using_LIME_SHAP_PDP_ICE.md",
+          "How_and_why_we_need_to_capture_tacit_knowledge_in_manufacturing_Case_studies_of_visual_inspection.md",
+          "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md",
+          "On_the_Integration_of_Agents_and_Digital_Twins_in_Healthcare.md",
+          "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md",
+          "Predictive_digital_twin_for_wind_energy_systems_a_literature_review.md",
+          "Sociotechnical_Safety_Evaluation_of_Generative_AI_Systems.md",
+          "Tacit_knowledge_elicitation_process_for_industry_40.md",
+          "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+        ],
+        "example_contexts": [
+          "Tacit_knowledge_elicitation_process_for_industry_40.md: ...ernational confer- ence kes2019). \t58.\t ayadi a, samet a, de bertrand de beuvron f, zanni-merk c. ontology population with deep learning-based nlp: a **case study** on the bio- molecular network ontology. procedia computer science 159, 572–581, 2019. https://​doi.​org/​10.​1016/j.​procs.​2019.​09.​212. knowledge-...",
+          "Integration_of_DERs_on_power_systems_challenges_and_opportunities.md: ...f electricity services” utility of the future memo  paper. 2016.  4 further description of the methodology and results can be found in s. huntington “**case study**: battery storage vs  flexible demand” utility of the future memo paper.2016.  5 i.e.a., 2016. global ev  outlook, available at:  http://www.iea.org/p..."
+        ]
+      }
+    },
+    "action_research": {
+      "name": "Action Research Methodology",
+      "category_in_kb": "Qualitative",
+      "classification": "Participatory Problem-Solving Methodology",
+      "paradigm": "Pragmatic/Critical",
+      "purpose": "Methodology involving stakeholders in identifying problems and developing solutions collaboratively.",
+      "strengths_for_protocol_research": [
+        "High practical relevance and stakeholder buy-in",
+        "Iterative improvement cycles"
+      ],
+      "limitations_considerations": [
+        "Requires significant stakeholder commitment and time",
+        "Can be difficult to control scope"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "Variable, often long-term (16-24 weeks for a cycle)"
+      },
+      "mentions_in_current_literature": {
+        "count": 3,
+        "papers": [
+          "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md",
+          "Tacit_knowledge_elicitation_process_for_industry_40.md"
+        ],
+        "example_contexts": [
+          "Tacit_knowledge_elicitation_process_for_industry_40.md: ...ocumentation of manufac- turing facilities. procedia cirp. 2014;17:207–11. \t15.\t sanyal c, rigby c. e-mentoring as a hrd intervention: an exploratory **action research** study within an international professional mentor- ing scheme. hum resour dev int. 2017;20(1):18–36. \t16.\t xu j, kim s, song m, et al. building a pub...",
+          "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md: ...spatial statistics advanced engineering informatics information technology & people journal of failure analysis and prevention systemic practice and **action research** international journal of disaster… systems journal of king saud university -… (number of publications)   ---  page 14  ---          international jou..."
+        ]
+      }
+    },
+    "living_lab": {
+      "name": "Living Lab Methodology",
+      "category_in_kb": "Qualitative (from 5.1.1 scan)",
+      "classification": "Qualitative Methodology (from literature scan)",
+      "purpose": "Test innovations in real-world settings with active stakeholder participation.",
+      "strengths_for_protocol_research": [
+        "Identified as relevant in literature for qualitative aspects"
+      ],
+      "limitations_considerations": [
+        "Detailed characteristics require further research"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "Challenging (15-25 weeks)"
+      },
+      "mentions_in_current_literature": {
+        "count": 1,
+        "papers": [
+          "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md"
+        ],
+        "example_contexts": [
+          "Operation_Orchestration_of_Local_Energy_Communities_through_Digital_Twin_A_Review_on_suitable_Modeling_and_Simulation_Approaches.md: ...platform is essential for assessing the value and profitability of energy communities, and optimisation of the (system) design. being considered as a **living lab**, the lec in bunnik has 8 office buildings including pv rooftop systems, ev charging stations, bess connected in a ring network topology through some..."
+        ]
+      }
+    },
+    "participatory_design": {
+      "name": "Participatory Design",
+      "category_in_kb": "Qualitative (from 5.1.1 scan)",
+      "classification": "Qualitative Methodology (from literature scan)",
+      "purpose": "Involving all stakeholders in the design process.",
+      "strengths_for_protocol_research": [
+        "Identified as relevant in literature for qualitative aspects"
+      ],
+      "limitations_considerations": [
+        "Detailed characteristics require further research"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "Moderate"
+      },
+      "mentions_in_current_literature": {
+        "count": 3,
+        "papers": [
+          "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md"
+        ],
+        "example_contexts": [
+          "Tools_and_methods_for_Human-Autonomy_Teaming_Contributions_to_cognitive_state_monitoring_and_system_adaptation.md: ...therefore part of the design of socio-technical systems. this requires an articulation between  technocentric and anthropocentric visions, through a **participatory design** approach. the principle of  this design approach is to integrate the end user (the human operator) as an actor in the design. it is  therefore a ques..."
+        ]
+      }
+    },
+    "grounded_theory": {
+      "name": "Grounded Theory Methodology",
+      "category_in_kb": "Qualitative",
+      "classification": "Theory-Building Qualitative Methodology",
+      "paradigm": "Interpretivist with systematic analytical procedures",
+      "purpose": "Generate theory grounded in systematically collected and analyzed data",
+      "strengths_for_protocol_research": [
+        "Generates novel theoretical insights about protocol adaptation"
+      ],
+      "limitations_considerations": [
+        "Extremely time-intensive",
+        "May not align well with technical protocol research objectives"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "16-21 weeks"
+      },
+      "mentions_in_current_literature": {
+        "count": 3,
+        "papers": [
+          "Feeding_the_Coffee_Habit_A_Longitudinal_Study_of_a_Robo-Barista.md",
+          "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md"
+        ],
+        "example_contexts": [
+          "INFLUENCE_FACTORS_OF_THE_TACIT_KNOWLEDGE_ELICITATION_PROCESS_SYSTEMATIC_LITERATURE_REVIEW.md: ...map an aggregate cognitive map  abdul-rahman, wang and siong,  2011  repertory grid and cluster analysis  selwyn and classen, 2012  storytelling and **grounded theory**  naweed, 2014  cognitive work analysis (cwa), critical decision  method (cdm) and ground theory  rosário et. al, 2015  unstructured interview,  card...",
+          "Feeding_the_Coffee_Habit_A_Longitudinal_Study_of_a_Robo-Barista.md: ...tion vii-a. c. qualitative analysis the qualitative questionnaire items were collected. a codebook was created using an inductive approach similar to **grounded theory** and open coding [35]. two coders met to discuss the codebook, and unitisation policy [36]. they then independently coded all the data. the average ag..."
+        ]
+      }
+    },
+    "ethnography": {
+      "name": "Ethnography",
+      "category_in_kb": "Qualitative",
+      "classification": "Cultural Immersion Methodology",
+      "paradigm": "Interpretivist/Constructivist",
+      "purpose": "Studying people in their own environment to understand their culture, behaviors, and social structures.",
+      "strengths_for_protocol_research": [
+        "Rich contextual understanding of protocol use in situ",
+        "Can uncover tacit knowledge and informal practices"
+      ],
+      "limitations_considerations": [
+        "Typically long-term and immersive, challenging for short thesis",
+        "Observer bias potential"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "Often 6+ months, can be adapted for shorter exploratory studies"
+      },
+      "mentions_in_current_literature": {
+        "count": 4,
+        "papers": [
+          "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md"
+        ],
+        "example_contexts": [
+          "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md: ...techniques are interviews [et-1], questionnaire [et-2], prototyping [et-4], and requirements reuse [et-5], scenarios [et-6], brain- storming [et-7], **ethnography** [et-10], and observation [et-11], similar system [et-12], think aloud [et-13] and active observation [et-15]. rq1.1 (what are speciﬁc techniques used..."
+        ]
+      }
+    },
+    "content_analysis": {
+      "name": "Content Analysis (Qualitative)",
+      "category_in_kb": "Qualitative",
+      "classification": "Textual Analysis Methodology",
+      "paradigm": "Interpretivist (when qualitative)",
+      "purpose": "Systematically analyzing the content of communications to identify patterns, themes, biases, and meanings.",
+      "strengths_for_protocol_research": [
+        "Useful for analyzing protocol documentation, communication logs, or stakeholder feedback"
+      ],
+      "limitations_considerations": [
+        "Interpretation can be subjective if not rigorously applied",
+        "Limited to available textual data"
+      ],
+      "timeline_breakdown": {
+        "total_duration": "Good, can be efficient depending on data volume"
+      },
+      "mentions_in_current_literature": {
+        "count": 1,
+        "papers": [
+          "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md"
+        ],
+        "example_contexts": [
+          "A_Tacit-Knowledge-Based_Requirements_Elicitation_Model_Supporting_COVID-19_Context.md: ...ements eng. conf. (re), jul. 2013, pp. 92–104. [10] j. coughlan, m. lycett, and r. d. macredie, ‘‘communication issues in requirements elicitation: a **content analysis** of stakeholder experiences,’’ inf. softw. technol., vol. 45, no. 8, pp. 525–537, jun. 2003. [11] g. nikita, p. wora, and s. kumaresh, ‘‘managing requ..."
+        ]
+      }
+    }
+  },
+  "next_steps": [
+    "Evaluate mixed methodologies (Task 5.1.4)",
+    "Research emerging methodologies (Task 5.1.5)"
+  ]
+}

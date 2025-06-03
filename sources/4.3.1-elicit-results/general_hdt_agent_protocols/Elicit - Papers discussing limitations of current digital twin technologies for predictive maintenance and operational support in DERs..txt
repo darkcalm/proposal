@@ -1,0 +1,17 @@
+Digital twins (DTs) have emerged as a promising technology for enhancing predictive maintenance (PMx) and operational support in distributed energy resources (DERs). While DTs offer significant potential for improving efficiency, automation, and cost-effectiveness in industrial operations (Melesse et al., 2021; Ma et al., 2024), several limitations hinder their widespread adoption. These include poor explainability, sample inefficiency in data-driven methods, and high complexity in physics-based models (Ma et al., 2024; Ma et al., 2023). Current DT implementations also face challenges in standardization, real-time capabilities, and integration with other technologies (Idrisov et al., 2023; D'Amico et al., 2022). To address these limitations, researchers propose developing hybrid modeling strategies, improving data fusion algorithms, and creating standardized frameworks for DT implementation in PMx (Kandemir et al., 2024; Abdullahi et al., 2024). Future research should focus on enhancing DT maturity, addressing gaps in current implementations, and developing requirement-based roadmaps for standardized PMx automation using DT technologies (Ma et al., 2023).
+
+Idrisov, I., Veretennikov, I., Vasilev, S., Gutierrez, S., & Ibanez, F. (2023). Microgrid Digital Twin Application for Future Virtual Power Plants. IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, 1–8. https://doi.org/10.1109/iecon51785.2023.10311709
+
+Melesse, T. Y., Di Pasquale, V., & Riemma, S. (2021). Digital Twin models in industrial operations: State‐of‐the‐art and future research directions. IET Collaborative Intelligent Manufacturing, 3(1), 37–47. https://doi.org/10.1049/cim2.12010
+
+Ma, S., Flanigan, K. A., & Bergés, M. (2024). State-of-the-Art Review: The Use of Digital Twins to Support Artificial Intelligence-Guided Predictive Maintenance. In arXiv.org (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2406.13117
+
+D’Amico, R. D., Erkoyuncu, J. A., Addepalli, S., & Penver, S. (2022). Cognitive digital twin: An approach to improve the maintenance management. CIRP Journal of Manufacturing Science and Technology, 38, 613–630. https://doi.org/10.1016/j.cirpj.2022.06.004
+
+Kandemir, E., Hasan, A., Kvamsdal, T., & Abdel-Afou Alaliyat, S. (2024). Predictive digital twin for wind energy systems: a literature review. Energy Informatics, 7(1). https://doi.org/10.1186/s42162-024-00373-9
+
+Abdullahi, I., Longo, S., & Samie, M. (2024). Towards a Distributed Digital Twin Framework for Predictive Maintenance in Industrial Internet of Things (IIoT). Sensors, 24(8), 2663. https://doi.org/10.3390/s24082663
+
+Ma, S., Flanigan, K. A., & Bergés, M. (2024). State-of-the-art review and synthesis: A requirement-based roadmap for standardized predictive maintenance automation using digital twin technologies. Advanced Engineering Informatics, 62, 102800. https://doi.org/10.1016/j.aei.2024.102800
+
+Melesse, T. Y., Pasquale, V. D., & Riemma, S. (2020). Digital Twin Models in Industrial Operations: A Systematic Literature Review. Procedia Manufacturing, 42, 267–272. https://doi.org/10.1016/j.promfg.2020.02.084

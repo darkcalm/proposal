@@ -1,0 +1,17 @@
+Recent research highlights the potential synergies between multi-agent systems (MAS) and digital twins (DTs) in various domains, including energy management. MAS can provide an interaction environment for DTs, while DTs offer data for improved agent decision-making (Pretel et al., 2022). However, integrating MAS with DTs presents challenges, such as blurred distinctions between the two paradigms (Pretel et al., 2022) and the need for generalised adaptive agent models (Burattini, 2023). Current DT implementations often lack full DT properties and underutilize MAS capabilities (Pretel et al., 2024). In the energy sector, DTs face barriers including big data management, real-time communication, and investment costs (Lamagna et al., 2021). To address these challenges, researchers propose architectures integrating DTs with MLOps platforms (van Bruggen et al., 2023) and coupling MAS environments with physical counterparts using DT concepts (Mariani et al., 2023). Future research should focus on developing innovative theoretical proposals and design frameworks to fully exploit MAS properties in DT development (Pretel et al., 2024).
+
+Pretel, E., Navarro, E., López-Jaquero, V., Moya, A., & González, P. (2022). Multi-Agent Systems in Support of Digital Twins: A Survey. In Lecture Notes in Computer Science (pp. 524–533). Springer International Publishing. https://doi.org/10.1007/978-3-031-06527-9_52
+
+Burattini, S. (2023). Supporting Adaptive Multi-Agent Systems with Digital Twins Environments. In Lecture Notes in Computer Science (pp. 445–451). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-43264-4_30
+
+Pretel, E., Moya, A., Navarro, E., López-Jaquero, V., & González, P. (2024). Analysing the synergies between Multi-agent Systems and Digital Twins: A systematic literature review. Information and Software Technology, 174, 107503. https://doi.org/10.1016/j.infsof.2024.107503
+
+Cespedes-Cubides, A. S., & Jradi, M. (2024). A review of building digital twins to improve energy efficiency in the building operational stage. Energy Informatics, 7(1). https://doi.org/10.1186/s42162-024-00313-7
+
+Kalyani, Y., & Collier, R. (2024). The Role of Multi-Agents in Digital Twin Implementation: Short Survey. ACM Computing Surveys, 57(3), 1–15. https://doi.org/10.1145/3697350
+
+van Bruggen, A. H., Kruger, K., Basson, A. H., & Grobler, J. (2024). An Architecture to Integrate Digital Twins and Machine Learning Operations. In Studies in Computational Intelligence (pp. 3–14). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-53445-4_1
+
+Mariani, S., Picone, M., & Ricci, A. (2023). Towards Developing Digital Twin Enabled Multi-Agent Systems. In Lecture Notes in Computer Science (pp. 178–187). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-48539-8_12
+
+Lamagna, M., Groppi, D., Nezhad, M. M., & Piras, G. (2021). A comprehensive review on digital twins for smart energy management system. International Journal of Energy Production and Management, 6(4), 323–334. https://doi.org/10.2495/eq-v6-n4-323-334

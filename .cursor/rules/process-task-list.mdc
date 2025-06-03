@@ -13,7 +13,7 @@ _Note: In this specific project, the document serving as the PRD is `docs/1.2.3-
 
 When working with task lists, the AI must:
 
-1. Read the referenced task file under `task/`, to identify the next step. Read the most recent task output under `docs/` and check whether the next step is what should be done
+1. Identify the next step.
 
 2. **Before Task Execution - MUST read the contexts:**
     - Read the most recent entry in `tools/`, `sources/` and `docs/`
@@ -37,6 +37,7 @@ When working with task lists, the AI must:
     - Read `archive/X.Y.Z-.../README.md`if exists
 
 3. **During Task Execution - output results:**
+    - You are the implementor of results, not the human user unless stated
     - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
     - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
     - When a citations is made, cite the very source to maintain connection with external literature

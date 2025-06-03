@@ -1,0 +1,17 @@
+Recent research highlights significant gaps in modeling human decision-making for digital twins in energy systems, particularly for unforeseen events. Digital twins offer promising solutions for optimizing energy systems and smart cities (Cali et al., 2023; Lamagna et al., 2021), but current models often lack comprehensive integration of behavioral and societal aspects (Huckebrink & Bertsch, 2021). Key challenges include data privacy, security, and sharing (Yazdanie & Orehounig, 2021), as well as real-time measurements and communication between physical and digital systems (Lamagna et al., 2021). To address these issues, researchers propose developing more integrated modeling approaches (Yazdanie & Orehounig, 2021), incorporating human factors and interdependencies between production assets (Bécue et al., 2020), and implementing interactive digital twins that translate decision-makers' preferences into optimization models (Granacher et al., 2022). Advanced machine learning techniques, such as deep neural networks, show potential for improving scheduling and cost savings in integrated energy systems (You et al., 2021; Sleiti et al., 2022).
+
+Sleiti, A. K., Kapat, J. S., & Vesely, L. (2022). Digital twin in energy industry: Proposed robust digital twin for power plant and other complex capital-intensive large engineering systems. Energy Reports, 8, 3704–3726. https://doi.org/10.1016/j.egyr.2022.02.305
+
+Yazdanie, M., & Orehounig, K. (2021). Advancing urban energy system planning and modeling approaches: Gaps and solutions in perspective. Renewable and Sustainable Energy Reviews, 137, 110607. https://doi.org/10.1016/j.rser.2020.110607
+
+Huckebrink, D., & Bertsch, V. (2021). Integrating Behavioural Aspects in Energy System Modelling—A Review. Energies, 14(15), 4579. https://doi.org/10.3390/en14154579
+
+Cali, U., Dimd, B. D., Hajialigol, P., Moazami, A., Gourisetti, S. N. G., Lobaccaro, G., & Aghaei, M. (2023, June 12). Digital Twins: Shaping the Future of Energy Systems and Smart Cities through Cybersecurity, Efficiency, and Sustainability. 2023 International Conference on Future Energy Solutions (FES). 2023 International Conference on Future Energy Solutions (FES). https://doi.org/10.1109/fes57669.2023.10182868
+
+Lamagna, M., Groppi, D., Nezhad, M. M., & Piras, G. (2021). A comprehensive review on digital twins for smart energy management system. International Journal of Energy Production and Management, 6(4), 323–334. https://doi.org/10.2495/eq-v6-n4-323-334
+
+You, M., Wang, Q., Sun, H., Castro, I., & Jiang, J. (2022). Digital twins based day-ahead integrated energy system scheduling under load and renewable energy uncertainties. Applied Energy, 305, 117899. https://doi.org/10.1016/j.apenergy.2021.117899
+
+Granacher, J., Nguyen, T.-V., Castro-Amoedo, R., & Maréchal, F. (2022). Overcoming decision paralysis—A digital twin for decision making in energy system design. Applied Energy, 306, 117954. https://doi.org/10.1016/j.apenergy.2021.117954
+
+Bécue, A., Maia, E., Feeken, L., Borchers, P., & Praça, I. (2020). A New Concept of Digital Twin Supporting Optimization and Resilience of Factories of the Future. Applied Sciences, 10(13), 4482. https://doi.org/10.3390/app10134482

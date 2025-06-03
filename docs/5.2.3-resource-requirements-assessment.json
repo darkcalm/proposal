@@ -1,0 +1,2851 @@
+{
+  "metadata": {
+    "task": "5.2.3 - Assess Resource Requirements (Updated)",
+    "timestamp": "2025-06-04T01:38:21.036870",
+    "input_sources": [
+      "5.2.1-methodology-comparison-matrix.json",
+      "5.2.2-methodology-strengths-limitations.json"
+    ],
+    "methodologies_assessed": 25
+  },
+  "research_context": {
+    "timeframe": "20 weeks",
+    "project_type": "Master's thesis",
+    "focus": "Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A)",
+    "domain": "Distributed Energy Resources (DER) predictive maintenance",
+    "constraints": [
+      "Individual project",
+      "Academic environment",
+      "Limited budget"
+    ]
+  },
+  "resource_assessments": {
+    "case_study": {
+      "human_resources": {
+        "researcher_expertise_required": [
+          "Qualitative data collection (interviews, observation)",
+          "Qualitative data analysis"
+        ],
+        "additional_expertise_needed": [
+          "Access to case study sites/participants"
+        ],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "case_selection_access": "15%",
+          "data_collection": "40%",
+          "data_analysis": "30%",
+          "write_up": "15%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500",
+          "travel_for_interviews_optional": "$100-500",
+          "transcription_services_optional": "$200-800"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback",
+          "Access to interview participants or case study organizations"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [
+          "Gatekeeper permissions, participant availability"
+        ],
+        "access_facilitation_strategies": [
+          "Clear communication of research benefits",
+          "Flexible scheduling"
+        ]
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 4,
+        "intensity_level": "High",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [
+          "Access to suitable case study sites and participants"
+        ],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Case Study Methodology",
+      "category": "Qualitative",
+      "ranking_score_from_521": 3.3
+    },
+    "mixed_methods_research": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Mixed Methods Research",
+      "category": "Mixed Methods",
+      "ranking_score_from_521": 2.65
+    },
+    "action_research": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Action Research Methodology",
+      "category": "Specialized/Qualitative",
+      "ranking_score_from_521": 2.85
+    },
+    "systematic_literature_review": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Systematic Literature Review Methodology",
+      "category": "Specialized",
+      "ranking_score_from_521": 2.95
+    },
+    "simulation_modeling": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Simulation Modeling",
+      "category": "Quantitative/Emerging",
+      "ranking_score_from_521": 3.1
+    },
+    "experimental_research": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Experimental Research",
+      "category": "Quantitative",
+      "ranking_score_from_521": 3.45
+    },
+    "comparative_research": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Comparative Research Methodology",
+      "category": "Quantitative",
+      "ranking_score_from_521": 2.95
+    },
+    "digital_twin": {
+      "human_resources": {
+        "researcher_expertise_required": [
+          "Mathematical modeling and simulation skills",
+          "DER systems domain knowledge"
+        ],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "model_development": "50%",
+          "simulation_execution": "25%",
+          "validation_analysis": "15%",
+          "documentation": "10%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager",
+          "Simulation software (e.g., MATLAB/Simulink, Python SimPy)",
+          "Data analysis software"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation",
+          "High-performance workstation recommended for complex simulations"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Potentially High - complex simulation models"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses",
+          "Potential for simulation software licenses (e.g., MATLAB academic ~$1000-3000 if not provided)"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500",
+          "simulation_software_if_needed": "$1000-3000"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low to Moderate (if simulation software needed)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 4,
+        "intensity_level": "High",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [
+          "Access to DER system data/specifications for model",
+          "Computational resources for simulation"
+        ],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools",
+          "Explore academic licenses for simulation software"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews",
+          "Iterative model development: start simple"
+        ]
+      },
+      "methodology_name": "Digital Twin Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.7
+    },
+    "optimization_research": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Optimization Research",
+      "category": "Quantitative",
+      "ranking_score_from_521": 2.95
+    },
+    "living_lab": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Living Lab Methodology",
+      "category": "Emerging/Qualitative",
+      "ranking_score_from_521": 2.8
+    },
+    "participatory_design": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Participatory Design",
+      "category": "Emerging/Qualitative",
+      "ranking_score_from_521": 3.5
+    },
+    "grounded_theory": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Grounded Theory Methodology",
+      "category": "Qualitative",
+      "ranking_score_from_521": 2.85
+    },
+    "delphi_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Delphi Methodology",
+      "category": "Specialized",
+      "ranking_score_from_521": 2.75
+    },
+    "rapid_prototyping": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Rapid Prototyping & Iterative Development",
+      "category": "Emerging",
+      "ranking_score_from_521": 2.9
+    },
+    "ethnography": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Ethnography",
+      "category": "Qualitative",
+      "ranking_score_from_521": 2.85
+    },
+    "content_analysis": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Content Analysis",
+      "category": "Qualitative",
+      "ranking_score_from_521": 2.65
+    },
+    "agent_based_modeling": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Agent-Based Modeling (ABM)",
+      "category": "Quantitative/Emerging",
+      "ranking_score_from_521": 2.9
+    },
+    "computational_social_science_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Computational Social Science Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.1
+    },
+    "digital_twin_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [
+          "Mathematical modeling and simulation skills",
+          "DER systems domain knowledge"
+        ],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "model_development": "50%",
+          "simulation_execution": "25%",
+          "validation_analysis": "15%",
+          "documentation": "10%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager",
+          "Simulation software (e.g., MATLAB/Simulink, Python SimPy)",
+          "Data analysis software"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation",
+          "High-performance workstation recommended for complex simulations"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Potentially High - complex simulation models"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses",
+          "Potential for simulation software licenses (e.g., MATLAB academic ~$1000-3000 if not provided)"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500",
+          "simulation_software_if_needed": "$1000-3000"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low to Moderate (if simulation software needed)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 4,
+        "intensity_level": "High",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [
+          "Access to DER system data/specifications for model",
+          "Computational resources for simulation"
+        ],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools",
+          "Explore academic licenses for simulation software"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews",
+          "Iterative model development: start simple"
+        ]
+      },
+      "methodology_name": "Digital Twin Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.7
+    },
+    "ai_explainability_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "AI Explainability and Interpretability Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.1
+    },
+    "living_lab_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Living Lab Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.0
+    },
+    "human_ai_collaboration_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Human-AI Collaboration Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 3.1
+    },
+    "rapid_prototyping_methodology": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "To be determined",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Rapid Prototyping and Iterative Development Methodology",
+      "category": "Emerging",
+      "ranking_score_from_521": 2.8
+    },
+    "design_science_research": {
+      "human_resources": {
+        "researcher_expertise_required": [
+          "Artifact design and development skills",
+          "DSR methodology expertise"
+        ],
+        "additional_expertise_needed": [
+          "Technical expert for artifact validation"
+        ],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "artifact_development": "50%",
+          "evaluation_design": "20%",
+          "validation_execution": "20%",
+          "documentation": "10%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager",
+          "Development environment (IDE, version control)",
+          "Prototyping tools"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "20 weeks (standard thesis duration)",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 3,
+        "intensity_level": "Moderate",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Design Science Research (DSR)",
+      "category": "General",
+      "ranking_score_from_521": 3.05
+    },
+    "sequential_explanatory": {
+      "human_resources": {
+        "researcher_expertise_required": [],
+        "additional_expertise_needed": [],
+        "collaboration_requirements": [],
+        "supervision_needs": [
+          "Regular supervisor check-ins"
+        ],
+        "time_commitment_breakdown": {
+          "general_research": "20%",
+          "method_specific_work": "60%",
+          "writing": "20%"
+        },
+        "skill_development_required": []
+      },
+      "technical_resources": {
+        "software_requirements": [
+          "Standard office suite",
+          "Reference manager"
+        ],
+        "hardware_requirements": [
+          "Standard research workstation"
+        ],
+        "infrastructure_needs": [
+          "University library access",
+          "Internet connectivity"
+        ],
+        "data_requirements": [
+          "Relevant literature"
+        ],
+        "computational_requirements": [
+          "Low for most, varies by specific tasks"
+        ],
+        "licensing_costs": [
+          "Mostly open-source or institutional licenses"
+        ]
+      },
+      "financial_resources": {
+        "direct_costs": {
+          "software_licenses_optional": "$0-500",
+          "conference_travel_optional": "$500-1500"
+        },
+        "indirect_costs": {
+          "university_overheads": "Covered by tuition/stipend"
+        },
+        "total_estimated_budget": "Low (mostly relies on existing resources)",
+        "funding_sources": [
+          "Personal, departmental small grants"
+        ],
+        "cost_mitigation_strategies": [
+          "Utilize open-source software",
+          "Leverage university resources"
+        ]
+      },
+      "access_resources": {
+        "data_access_needs": [
+          "Access to scientific databases and literature"
+        ],
+        "stakeholder_access_requirements": [
+          "Supervisor and peer feedback"
+        ],
+        "system_access_needs": [
+          "University IT infrastructure"
+        ],
+        "institutional_approvals": [
+          "Ethics approval if human subjects involved (e.g. surveys, interviews in case studies)"
+        ],
+        "access_barriers": [],
+        "access_facilitation_strategies": []
+      },
+      "time_resources": {
+        "total_project_duration": "20 weeks (standard thesis duration)",
+        "phase_breakdown": {
+          "literature_review": "4-6 weeks",
+          "method_application": "8-10 weeks",
+          "analysis_writing": "4-6 weeks"
+        },
+        "critical_path_activities": [
+          "Defining research scope",
+          "Data collection/artifact development (method-dependent)"
+        ],
+        "timeline_risks": [
+          "Underestimation of specific phases",
+          "Scope creep"
+        ],
+        "schedule_optimization": [
+          "Detailed planning",
+          "Regular progress reviews"
+        ]
+      },
+      "resource_intensity": {
+        "intensity_score": 5,
+        "intensity_level": "Very High",
+        "summary_from_521": "N/A"
+      },
+      "feasibility_constraints": {
+        "critical_constraints": [],
+        "moderate_constraints": []
+      },
+      "resource_optimization": {
+        "cost_reduction": [
+          "Prioritize open-source tools"
+        ],
+        "time_optimization": [
+          "Clear task breakdown and regular reviews"
+        ]
+      },
+      "methodology_name": "Sequential Explanatory Mixed Methods",
+      "category": "General",
+      "ranking_score_from_521": 2.55
+    }
+  }
+}

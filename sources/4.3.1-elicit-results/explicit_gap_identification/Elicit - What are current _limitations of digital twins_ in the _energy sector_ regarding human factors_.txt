@@ -1,0 +1,17 @@
+Digital twins (DTs) in the energy sector face limitations regarding human factors integration. While DTs enable real-time monitoring and decision-making (Roy et al., 2024), they often lack consideration of human elements and interdependencies between assets (Bécue et al., 2020). Current challenges include data privacy, security, and ethical standards (Pietrantoni et al., 2024), as well as the need for improved human modeling and simulation (He et al., 2024). The concept of Human Digital Twins (HDTs) has emerged to address these limitations, aiming to integrate human aspects into DT frameworks (Naudet et al., 2021). However, research on security often presents DTs as an additional layer of protection without investigating their own security (Heluany & Gkioulos, 2023). To overcome these challenges, researchers propose holistic DT approaches (Bécue et al., 2020), open architecture frameworks (Gourisetti et al., 2023), and the integration of XR technologies (Roy et al., 2024) to enhance human-centric design and improve trust in DT applications.
+
+Berti, N., & Finco, S. (2022). Digital Twin and Human Factors in Manufacturing and Logistics Systems: State of the Art and Future Research Directions. IFAC-PapersOnLine, 55(10), 1893–1898. https://doi.org/10.1016/j.ifacol.2022.09.675
+
+Pietrantoni, L., Román-Niaves, M. S., & De Angelis, M. (2024). Human Trust and Digital Twins in a Human Factors and Ergonomic Framework. 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA), 1, 1–9. https://doi.org/10.1109/etfa61755.2024.10711109
+
+Heluany, J. B., & Gkioulos, V. (2023). A review on digital twins for power generation and distribution. International Journal of Information Security, 23(2), 1171–1195. https://doi.org/10.1007/s10207-023-00784-x
+
+Roy, S., Singh, S., & Rizwan-uddin. (2024). XR and digital twins, and their role in human factor studies. Frontiers in Energy Research, 12. https://doi.org/10.3389/fenrg.2024.1359688
+
+He, Q., Li, L., Li, D., Peng, T., Zhang, X., Cai, Y., Zhang, X., & Tang, R. (2024). From Digital Human Modeling to Human Digital Twin: Framework and Perspectives in Human Factors. Chinese Journal of Mechanical Engineering, 37(1). https://doi.org/10.1186/s10033-024-00998-7
+
+Bécue, A., Maia, E., Feeken, L., Borchers, P., & Praça, I. (2020). A New Concept of Digital Twin Supporting Optimization and Resilience of Factories of the Future. Applied Sciences, 10(13), 4482. https://doi.org/10.3390/app10134482
+
+Gourisetti, S. N. G., Bhadra, S., Sebastian-Cardenas, D. J., Touhiduzzaman, M., & Ahmed, O. (2023). A Theoretical Open Architecture Framework and Technology Stack for Digital Twins in Energy Sector Applications. Energies, 16(13), 4853. https://doi.org/10.3390/en16134853
+
+Naudet, Y., Baudet, A., & Risse, M. (2021). Human Digital Twin in Industry 4.0: Concept and Preliminary Model. Proceedings of the 2nd International Conference on Innovative Intelligent Industrial Production and Logistics. 2nd International Conference on Innovative Intelligent Industrial Production and Logistics. https://doi.org/10.5220/0010709000003062

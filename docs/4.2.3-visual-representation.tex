@@ -28,11 +28,11 @@
 \draw[arrow] (AC) -- node[edgelabel, right, yshift=-6pt] {Contextual\\Constraints} (HEW);
 
 % Digital twin arrows
-\draw[arrow] (DT) -- node[edgelabel, right, yshift=6pt] {Operates Within\\(MCP/A2A/ANP)} (EC);
+\draw[arrow] (DT) -- node[edgelabel, right, yshift=6pt] {Operates Within Protocol} (EC);
 \draw[arrow] (EC) -- node[edgelabel, left, yshift=-6pt] {Drives Simulation} (DT);
 
 % Core relationships (horizontal)
-\draw[arrow] (HEW) -- node[edgelabel, above] {Provides Basis For\\(MCP/A2A/ANP Protocols)} (DT);
+\draw[arrow] (HEW) -- node[edgelabel, above] {Provides Basis For} (DT);
 \draw[dasharrow] (DT) to[bend left=18] node[edgelabel, below] {Evaluation Framework\\Refines Representation} (HEW);
 
 % Subgraph backgrounds for clarity

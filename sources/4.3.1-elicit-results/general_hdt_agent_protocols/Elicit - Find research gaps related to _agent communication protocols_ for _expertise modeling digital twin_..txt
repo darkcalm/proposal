@@ -1,0 +1,17 @@
+Recent research on digital twins and agent communication protocols highlights several key areas. Digital twins are virtual replicas of physical assets that enable real-time monitoring and decision-making (Barnard & Stolze, 2023; Luan et al., 2021). Multi-agent systems play a crucial role in implementing digital twins, particularly in healthcare and smart agriculture (Kalyani & Collier, 2024; Croatti et al., 2020). Communication protocols like MQTT and OPC UA are essential for data transmission in digital twin systems (Barnard & Stolze, 2023). Integrating expert knowledge with data-driven approaches remains a challenge in developing accurate digital twin models (Jungmann & Lazarova-Molnar, 2024). Research gaps include the need for standardized definitions, exploration of use cases across product lifecycles, and addressing data ownership issues (Jones et al., 2020). Novel frameworks like the "Expert Twin" combine traditional simulations with real-time communication and fuzzy logic to enhance decision-making in manufacturing (Monek & Fischer, 2024). Agent-directed digital twins show promise in simulation-based training for organizational processes (Lektauers et al., 2022).
+
+Barnard, A., & Stolze, M. (2023). Literature Research on the Use and Requirements of Datagram Communication and Protocols in AAS and Digital Twins. 2023 International Conference on Electrical, Computer and Energy Technologies (ICECET), 1–6. https://doi.org/10.1109/icecet58911.2023.10389431
+
+Kalyani, Y., & Collier, R. (2024). The Role of Multi-Agents in Digital Twin Implementation: Short Survey. ACM Computing Surveys, 57(3), 1–15. https://doi.org/10.1145/3697350
+
+T., L., Ruhan, L., Longxiang, G., Rui, L., & Haibo, Z. (2021). The Paradigm of Digital Twin Communications. arXiv.Org.
+
+Croatti, A., Gabellini, M., Montagna, S., & Ricci, A. (2020). On the Integration of Agents and Digital Twins in Healthcare. Journal of Medical Systems, 44(9). https://doi.org/10.1007/s10916-020-01623-5
+
+Jungmann, M., & Lazarova-Molnar, S. (2024). Towards Fusing Data and Expert Knowledge for Better-Informed Digital Twins: An Initial Framework. Procedia Computer Science, 238, 639–646. https://doi.org/10.1016/j.procs.2024.06.072
+
+Jones, D., Snider, C., Nassehi, A., Yon, J., & Hicks, B. (2020). Characterising the Digital Twin: A systematic literature review. CIRP Journal of Manufacturing Science and Technology, 29, 36–52. https://doi.org/10.1016/j.cirpj.2020.02.002
+
+Central Campus Győr, H., Széchenyi István University, Győr, & Central Campus Győr, H., Széchenyi István University, Győr. (2024). Expert Twin: A Digital Twin with an Integrated Fuzzy-Based Decision-Making Module. In Decision Making: Applications in Management and Engineering. Scientific Oasis. https://doi.org/10.31181/dmame8120251181
+
+Lektauers, A., Bikovska, J., & Bolsakovs, V. (2022). An Agent-Directed Digital Twin Framework for Simulation-Based Training. 2022 63rd International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS), 1–6. https://doi.org/10.1109/itms56974.2022.9937103

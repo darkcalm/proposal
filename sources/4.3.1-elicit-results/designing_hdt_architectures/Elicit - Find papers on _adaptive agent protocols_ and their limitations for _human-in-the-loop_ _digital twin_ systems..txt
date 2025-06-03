@@ -1,0 +1,17 @@
+Recent research explores adaptive agent protocols and digital twins for human-in-the-loop systems, addressing challenges of transparency and controllability. Digital twins combined with VR interfaces enhance human involvement in self-adaptation processes (Enes Yigitbas et al., 2021). Human Digital Twins (HDTs) are proposed to manage human-agent interactions, ensuring consistency and alignment with human objectives (Hafez, 2021; Hafez, 2019). Multi-agent systems play a crucial role in implementing digital twins, facilitating adaptability and real-time data management (Kalyani & Collier, 2024). The ANSR-DT framework combines neuro-symbolic learning for improved decision-making in human-machine collaboration (Bin Hakim et al., 2025). However, limitations exist in extracting symbolic rules in complex environments. Applications in healthcare systems show potential for workload management and burnout prevention (Xames & Topcu, 2023). Two-layer machine learning architectures for HDTs enable intelligent human-machine collaboration by learning communication patterns without relying on content (Hafez, 2020).
+
+Yigitbas, E., Karakaya, K., Jovanovikj, I., & Engels, G. (2021). Enhancing Human-in-the-Loop Adaptive Systems through Digital Twins and VR Interfaces. 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 30–40. https://doi.org/10.1109/seams51251.2021.00015
+
+Wilhelm, J., Beinke, T., & Freitag, M. (2020). Improving Human-Machine Interaction with a Digital Twin. In Lecture Notes in Logistics (pp. 527–540). Springer International Publishing. https://doi.org/10.1007/978-3-030-44783-0_49
+
+Hafez, W. (2021). Human Digital Twin—Enabling Human-Agents Collaboration. 2021 4th International Conference on Intelligent Robotics and Control Engineering (IRCE), 40–45. https://doi.org/10.1109/irce53649.2021.9570890
+
+Kalyani, Y., & Collier, R. (2024). The Role of Multi-Agents in Digital Twin Implementation: Short Survey. ACM Computing Surveys, 57(3), 1–15. https://doi.org/10.1145/3697350
+
+Hafez, W. (2019). Human Digital Twin: Enabling Human-Multi Smart Machines Collaboration. In Advances in Intelligent Systems and Computing (pp. 981–993). Springer International Publishing. https://doi.org/10.1007/978-3-030-29513-4_72
+
+Safayat, B. H., Muhammad, A., Alvaro, V., & Houbing, H. S. (2025). ANSR-DT: An Adaptive Neuro-Symbolic Learning and Reasoning Framework for Digital Twins.
+
+Xames, M. D., & Topcu, T. G. (2023). Toward Digital Twins for Human-in-the-loop Systems: A Framework for Workload Management and Burnout Prevention in Healthcare Systems. 2023 IEEE 3rd International Conference on Digital Twins and Parallel Intelligence (DTPI), 1–6. https://doi.org/10.1109/dtpi59677.2023.10365449
+
+Hafez, W. (2020). Human Digital Twins: Two-Layer Machine Learning Architecture for Intelligent Human-Machine Collaboration. In Advances in Intelligent Systems and Computing (pp. 627–632). Springer International Publishing. https://doi.org/10.1007/978-3-030-39512-4_97

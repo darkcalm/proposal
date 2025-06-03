@@ -1,0 +1,17 @@
+Tacit knowledge elicitation in AI systems for DER operations faces several challenges. These include capturing workers' knowledge efficiently, especially in complex systems like manufacturing lines (Kernan Freire et al., 2023). The process requires systematic procedures to incorporate this knowledge into enterprise systems (Fenoglio et al., 2021). Federated AI systems can help manage tacit knowledge while enhancing data security, but they need proper metadata organization and verification mechanisms (Seo et al., 2024). The COVID-19 pandemic has further complicated the elicitation process, which heavily relies on human interaction (Anwar et al., 2022). Factors influencing tacit knowledge elicitation include the inclusion of knowledge engineers and hybrid elicitation techniques (do Rosário & do Amaral, 2021). Capturing key content in limited time and determining valuable information are additional challenges (Mugellesi-dow et al., 2009). The integration of DERs also poses cybersecurity challenges while offering opportunities for improved system resilience (Román, 2017).
+
+Kernan Freire, S., Wang, C., Ruiz-Arenas, S., & Niforatos, E. (2023). Tacit Knowledge Elicitation for Shop-floor Workers with an Intelligent Assistant. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, 1–7. https://doi.org/10.1145/3544549.3585755
+
+Fenoglio, E., Kazim, E., Latapie, H., & Koshiyama, A. (2022). Tacit knowledge elicitation process for industry 4.0. Discover Artificial Intelligence, 2(1). https://doi.org/10.1007/s44163-022-00020-w
+
+Seo, J., Cui, B., & Rong, C. (2024). Federated AI Chat System: Tackling Tacit Knowledge Management. 85th EAGE Annual Conference &amp; Exhibition, 1–5. https://doi.org/10.3997/2214-4609.202410298
+
+Anwar, H., Khan, S. U. R., Iqbal, J., & Akhunzada, A. (2022). A Tacit-Knowledge-Based Requirements Elicitation Model Supporting COVID-19 Context. IEEE Access, 10, 24481–24508. https://doi.org/10.1109/access.2022.3153678
+
+Rosário, C. do, & Gonçalves do Amaral, F. (2021). INFLUENCE FACTORS OF THE TACIT KNOWLEDGE ELICITATION PROCESS: SYSTEMATIC LITERATURE REVIEW. International Journal of Knowledge Engineering and Management, 9(25), 93–126. https://doi.org/10.47916/ijkem-vol9n25-2020-83301
+
+R., M., S., P., & Oriol, G. R. (2009). Capturing tacit knowledge for spacecraft operations at ESOC.
+
+GGmez San Rommn, T. (2017). Integration of DERs on Power Systems: Challenges and Opportunities. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2919287
+
+Cho, S. Y., Happa, J., & Creese, S. (2020). Capturing Tacit Knowledge in Security Operation Centers. IEEE Access, 8, 42021–42041. https://doi.org/10.1109/access.2020.2976076

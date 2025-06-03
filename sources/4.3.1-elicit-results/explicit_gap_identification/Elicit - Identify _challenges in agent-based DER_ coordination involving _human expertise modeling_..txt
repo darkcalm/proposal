@@ -1,0 +1,17 @@
+The coordination of distributed energy resources (DERs) in power systems presents numerous challenges, particularly in agent-based approaches. These include the need for improved transmission and distribution system operator (TSO-DSO) coordination (Lind et al., 2019; Givisiez et al., 2020), addressing uncertainties in load and generation (Navidi et al., 2023), and integrating DERs for grid services like blackstart and volt-VAR optimization (Mukherjee et al., 2024). Multi-agent systems offer potential solutions for energy management in microgrids (Harb et al., 2014; Colson & Nehrir, 2011), but face challenges in scalability and real-time operation (Colson & Nehrir, 2011). The increasing penetration of DERs necessitates new coordination models and market structures (Birk et al., 2016). While human expertise modeling can enhance system validation (Knauf et al., 2005), its application to DER coordination remains unexplored in the reviewed literature. Overall, effective DER coordination requires addressing technical, economic, and regulatory barriers while ensuring grid reliability and stability.
+
+Lind, L., Cossent, R., Chaves‐Ávila, J. P., & Gómez San Román, T. (2019). Transmission and distribution coordination in power systems with high shares of distributed energy resources providing balancing and congestion management services. WIREs Energy and Environment, 8(6). https://doi.org/10.1002/wene.357
+
+Mukherjee, S., Chintavalli, S., Bhusal, N., Tansakul, V., Subedi, S., & Bhattacharyya, A. (2024). The Challenges of Modeling Distributed Energy Resources (DERs) as Blackstart Resources and for Volt-VAR Optimality. 2024 IEEE Rural Electric Power Conference (REPC), 76–80. https://doi.org/10.1109/repc57617.2024.00021
+
+Navidi, T., Gamal, A. E., & Rajagopal, R. (2023). Coordination of DERs for Grid Reliability via Day-ahead Demand-Supply Power Bounds. In arXiv.org (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2307.00188
+
+Colson, C. M., & Nehrir, M. H. (2011). Agent-based power management of microgrids including renewable energy power generation. 2011 IEEE Power and Energy Society General Meeting, 1–3. https://doi.org/10.1109/pes.2011.6039390
+
+Givisiez, A. G., Petrou, K., & Ochoa, L. F. (2020). A Review on TSO-DSO Coordination Models and Solution Techniques. Electric Power Systems Research, 189, 106659. https://doi.org/10.1016/j.epsr.2020.106659
+
+H., H., Thomas, S., Rita, S., & D., M. (2014). A Multi-Agent Based Approach for Energy Management in Microgrids.
+
+Michael, B., J., Á., T., R., & R., T. (2016). TSO/DSO coordination in a context of distributed energy resource penetration.
+
+R., K., S., T., & Avelino, J. G. (2005). Towards Modeling Human Expertise: An Empirical Case Study. The Florida AI Research Society.

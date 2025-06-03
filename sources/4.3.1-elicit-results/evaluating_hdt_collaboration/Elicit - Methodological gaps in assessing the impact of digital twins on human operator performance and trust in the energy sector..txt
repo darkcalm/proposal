@@ -1,0 +1,17 @@
+Digital twins (DTs) are emerging as powerful tools in the energy sector, offering virtual replicas of physical systems for improved decision-making and performance optimization (Pietrantoni et al., 2024; Ismail et al., 2024). DTs are being applied across various energy subsystems, including generation, storage, transmission, and consumption (Amaral et al., 2023). Integration with XR technologies enhances their potential for human factors engineering and training (Roy et al., 2024). However, challenges remain in assessing human trust in autonomous systems and DTs (Doroftei et al., 2021). The development of open architecture frameworks and technology stacks could facilitate wider adoption of DTs in the energy sector (Gourisetti et al., 2023). Recent trends show increasing interest in DT applications for energy efficiency and clean energy transition (Ghenai et al., 2022). In battery energy storage systems, DTs are valuable for fault detection, monitoring, and optimization (Semeraro et al., 2023). Overall, DTs offer significant potential for improving energy system performance and decision-making processes.
+
+Pietrantoni, L., Román-Niaves, M. S., & De Angelis, M. (2024). Human Trust and Digital Twins in a Human Factors and Ergonomic Framework. 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA), 1, 1–9. https://doi.org/10.1109/etfa61755.2024.10711109
+
+Ismail, F. B., Al-Faiz, H., Hasini, H., Al-Bazi, A., & Kazem, H. A. (2024). A comprehensive review of the dynamic applications of the digital twin technology across diverse energy sectors. Energy Strategy Reviews, 52, 101334. https://doi.org/10.1016/j.esr.2024.101334
+
+do Amaral, J. V. S., dos Santos, C. H., Montevechi, J. A. B., & de Queiroz, A. R. (2023). Energy Digital Twin applications: A review. Renewable and Sustainable Energy Reviews, 188, 113891. https://doi.org/10.1016/j.rser.2023.113891
+
+Semeraro, C., Aljaghoub, H., Abdelkareem, M. A., Alami, A. H., & Olabi, A. G. (2023). Digital twin in battery energy storage systems: Trends and gaps detection through association rule mining. Energy, 273, 127086. https://doi.org/10.1016/j.energy.2023.127086
+
+Roy, S., Singh, S., & Rizwan-uddin. (2024). XR and digital twins, and their role in human factor studies. Frontiers in Energy Research, 12. https://doi.org/10.3389/fenrg.2024.1359688
+
+Doroftei, D., De Vleeschauwer, T., Bue, S. L., Dewyn, M., Vanderstraeten, F., & De Cubber, G. (2021). Human-Agent Trust Evaluation in a Digital Twin Context. 2021 30th IEEE International Conference on Robot &amp; Human Interactive Communication (RO-MAN), 203–207. https://doi.org/10.1109/ro-man50785.2021.9515445
+
+Gourisetti, S. N. G., Bhadra, S., Sebastian-Cardenas, D. J., Touhiduzzaman, M., & Ahmed, O. (2023). A Theoretical Open Architecture Framework and Technology Stack for Digital Twins in Energy Sector Applications. Energies, 16(13), 4853. https://doi.org/10.3390/en16134853
+
+Ghenai, C., Husein, L. A., Al Nahlawi, M., Hamid, A. K., & Bettayeb, M. (2022). Recent trends of digital twin technologies in the energy sector: A comprehensive review. Sustainable Energy Technologies and Assessments, 54, 102837. https://doi.org/10.1016/j.seta.2022.102837
