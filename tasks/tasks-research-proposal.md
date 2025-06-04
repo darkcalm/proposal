@@ -198,12 +198,12 @@
     - [x] 7.2.2 Allocate resources
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
-  - [x] 8.1 Document Finalization
+  - [ ] 8.1 Document Finalization
     - [x] 8.1.1 Allocate word count for sections
     - [x] 8.1.2 Map main references for sections
     - [x] 8.1.3 Incorporate visual planning
-    - [ ] 8.1.4 Develop first draft for sections
-    - [ ] 8.1.5 Verify all citations
+    - [x] 8.1.4 List all potential citations
+    - [ ] 8.1.5 Develop first draft for sections
     - [ ] 8.1.6 Ensure consistent formatting
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
