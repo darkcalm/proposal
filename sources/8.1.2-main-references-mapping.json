@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "generated": "2025-06-04T13:14:12.290082",
+    "task": "8.1.2 Map main references for sections",
+    "total_content_mass": 100079,
+    "target_word_count": 2500,
+    "overall_compression_ratio": 2.5
+  },
+  "content_mass_analysis": {
+    "systematic_literature_review": {
+      "phase": "4.*",
+      "total_words": 28901,
+      "target_words": 630,
+      "compression_ratio": 2.2,
+      "target_sections": [
+        "Introduction",
+        "Background",
+        "Literature Review",
+        "Research Gap"
+      ]
+    },
+    "methodology_development": {
+      "phase": "5.*",
+      "total_words": 34549,
+      "target_words": 350,
+      "compression_ratio": 1.0,
+      "target_sections": [
+        "Research Methodology",
+        "Alternative Methodologies"
+      ]
+    },
+    "ethics_sustainability": {
+      "phase": "6.*",
+      "total_words": 23104,
+      "target_words": 210,
+      "compression_ratio": 0.9,
+      "target_sections": [
+        "Ethics and Sustainability Considerations"
+      ]
+    },
+    "risk_timeline": {
+      "phase": "7.*",
+      "total_words": 13525,
+      "target_words": 210,
+      "compression_ratio": 1.6,
+      "target_sections": [
+        "Risk Assessment",
+        "Implementation Plan and Timeline"
+      ]
+    }
+  },
+  "phase_mappings": {
+    "phase_4_literature_gap": {
+      "primary_references": {
+        "gap_analysis": {
+          "file": "docs/4.3.7-gap-statement-summary.md",
+          "priority": "CRITICAL",
+          "content_focus": "Research gap identification and problem statement",
+          "target_section": "Introduction/Background",
+          "compression_strategy": "Extract 2-3 key gap statements, synthesize into problem context"
+        },
+        "patterns_trends": {
+          "file": "docs/4.2.1.1-patterns-trends-analysis.md",
+          "priority": "HIGH",
+          "content_focus": "Key patterns in DER agent protocol literature",
+          "target_section": "Background/Literature Review",
+          "compression_strategy": "Focus on 3-5 major trends directly relevant to ACP/A2A"
+        },
+        "research_questions": {
+          "file": "docs/4.2.4.1-research-questions-refined.md",
+          "priority": "CRITICAL",
+          "content_focus": "Refined research questions and objectives",
+          "target_section": "Objectives and Questions",
+          "compression_strategy": "Use final refined questions directly, minimal compression needed"
+        },
+        "theoretical_framework": {
+          "file": "docs/4.2.2.1-key-concepts-updated.md",
+          "priority": "HIGH",
+          "content_focus": "Key concepts and relationships for ACP/A2A in DER context",
+          "target_section": "Theoretical Framework",
+          "compression_strategy": "Extract core concept definitions and relationships"
+        }
+      },
+      "supporting_references": {
+        "elicit_results": {
+          "files": [
+            "docs/4.1.1.5-elicit-papers-markdown-conversion-summary.md",
+            "docs/4.1.8.6-elicit-results-processing-summary.md"
+          ],
+          "priority": "MEDIUM",
+          "content_focus": "Literature sources and search methodology validation",
+          "target_section": "Background/Literature Review",
+          "compression_strategy": "Reference as methodology validation, cite key papers only"
+        },
+        "practical_needs": {
+          "file": "docs/4.3.6-practical-needs-summary.md",
+          "priority": "MEDIUM",
+          "content_focus": "Industry needs for DER maintenance coordination",
+          "target_section": "Background/Problem Significance",
+          "compression_strategy": "Extract 2-3 most compelling practical justifications"
+        }
+      },
+      "reference_sources": {
+        "literature_base": "sources/4.1.1-elicit-results/ and sources/4.1.8-elicit-results/",
+        "gap_analysis_data": "sources/4.3.4-theoretical-gaps.md to sources/4.3.7-preliminary-gap-statement.md"
+      }
+    },
+    "phase_5_methodology": {
+      "primary_references": {
+        "methodology_justification": {
+          "file": "docs/5.3.1-methodology-justification.md",
+          "priority": "CRITICAL",
+          "content_focus": "Final methodology selection and justification",
+          "target_section": "Research Methodology",
+          "compression_strategy": "Use executive summary and final recommendation directly"
+        },
+        "feasibility_analysis": {
+          "file": "docs/5.2.4-feasibility-analysis.md",
+          "priority": "HIGH",
+          "content_focus": "Methodology feasibility assessment results",
+          "target_section": "Research Methodology",
+          "compression_strategy": "Include top 3 methodology rankings and key feasibility factors"
+        },
+        "methodology_comparison": {
+          "file": "docs/5.2.1-methodology-comparison-matrix.md",
+          "priority": "MEDIUM",
+          "content_focus": "Alternative methodologies considered",
+          "target_section": "Research Methodology",
+          "compression_strategy": "Summary table of top 5 alternatives with brief rationale"
+        }
+      },
+      "supporting_references": {
+        "strengths_limitations": {
+          "file": "docs/5.2.2-methodology-strengths-limitations.md",
+          "priority": "LOW",
+          "content_focus": "Detailed methodology analysis",
+          "target_section": "Research Methodology",
+          "compression_strategy": "Extract key limitations acknowledgment for selected methodology"
+        },
+        "timeline_workflow": {
+          "files": [
+            "docs/5.3.3-project-timeline.md",
+            "docs/5.3.4-workflow-diagrams.md"
+          ],
+          "priority": "MEDIUM",
+          "content_focus": "Implementation timeline and workflow",
+          "target_section": "Implementation Plan",
+          "compression_strategy": "High-level timeline overview and key milestones only"
+        }
+      },
+      "reference_sources": {
+        "methodology_data": "sources/5.1.1-relevant-methodologies.json to sources/5.2.4-feasibility-analysis.json",
+        "expert_consultation": "sources/5.3-dialogue-with-perplexity-*.md"
+      }
+    },
+    "phase_6_ethics_sustainability": {
+      "primary_references": {
+        "ethics_framework": {
+          "file": "docs/6.1.2-ethical-concerns-analysis.md",
+          "priority": "HIGH",
+          "content_focus": "Key ethical considerations for DER agent protocols",
+          "target_section": "Ethics and Sustainability",
+          "compression_strategy": "Extract 3-4 highest priority ethical concerns"
+        },
+        "sustainability_impact": {
+          "file": "docs/6.2.1-environmental-aspects.md",
+          "priority": "HIGH",
+          "content_focus": "Environmental benefits and SDG alignment",
+          "target_section": "Ethics and Sustainability",
+          "compression_strategy": "Focus on SDG connections and environmental benefits"
+        },
+        "mitigation_strategies": {
+          "file": "docs/6.2.6-mitigation-strategies.md",
+          "priority": "MEDIUM",
+          "content_focus": "Practical mitigation approaches",
+          "target_section": "Ethics and Sustainability",
+          "compression_strategy": "Summarize key mitigation categories and approaches"
+        }
+      },
+      "supporting_references": {
+        "data_privacy": {
+          "file": "docs/6.1.3-data-privacy-framework.md",
+          "priority": "MEDIUM",
+          "content_focus": "Data privacy considerations for DER health data",
+          "target_section": "Ethics and Sustainability",
+          "compression_strategy": "Brief mention of key privacy protection measures"
+        },
+        "social_economic": {
+          "files": [
+            "docs/6.2.2-social-impacts.md",
+            "docs/6.2.3-economic-factors.md"
+          ],
+          "priority": "LOW",
+          "content_focus": "Broader social and economic implications",
+          "target_section": "Ethics and Sustainability",
+          "compression_strategy": "Brief summary of positive social/economic outcomes"
+        }
+      },
+      "reference_sources": {
+        "ethics_data": "sources/6.1.1-ethics-guidelines-review.json to sources/6.1.4-consent-requirements-framework.json",
+        "sustainability_data": "sources/6.2.1-environmental-aspects-analysis.json to sources/6.2.6-mitigation-strategies-detailed.json"
+      }
+    },
+    "phase_7_risk_timeline": {
+      "primary_references": {
+        "risk_management": {
+          "file": "docs/7.2-research-specific-risk-management.md",
+          "priority": "HIGH",
+          "content_focus": "Comprehensive risk mitigation strategies",
+          "target_section": "Risk Assessment and Timeline",
+          "compression_strategy": "Focus on highest priority risks and mitigation approaches"
+        },
+        "risk_prioritization": {
+          "file": "docs/7.1.5-risk-prioritized.md",
+          "priority": "HIGH",
+          "content_focus": "Prioritized risk analysis",
+          "target_section": "Risk Assessment",
+          "compression_strategy": "Include top 5-7 highest priority risks with brief mitigation"
+        }
+      },
+      "supporting_references": {
+        "risk_register": {
+          "file": "docs/7.1.3-risk-register.md",
+          "priority": "MEDIUM",
+          "content_focus": "Comprehensive risk inventory",
+          "target_section": "Risk Assessment",
+          "compression_strategy": "Reference as supporting analysis, focus on categories"
+        },
+        "timeline_planning": {
+          "file": "docs/5.3.3-project-timeline.md",
+          "priority": "MEDIUM",
+          "content_focus": "Implementation timeline",
+          "target_section": "Implementation Plan",
+          "compression_strategy": "High-level phases and key milestones only"
+        }
+      },
+      "reference_sources": {
+        "risk_data": "sources/7.1.1-potential-risks-detailed.json to sources/7.2-combined-risk-management.json"
+      }
+    }
+  },
+  "compression_guidelines": {
+    "examiner_emphasis": {
+      "word_limit": "2000-3000 words (not super strict but avoid 15-pager)",
+      "focus": "Rich in referenced facts but RELEVANT to chosen topic",
+      "purpose": "Good understanding of what you're going to do, not full literature review",
+      "clarity": "Avoid becoming vague toward the real problem - see forest for trees"
+    },
+    "compression_strategies": {
+      "synthesize_not_describe": "Transform detailed analyses into key insights",
+      "relevance_filter": "Include only content directly supporting research objectives",
+      "summary_tables": "Replace lengthy descriptions with structured tables",
+      "high_impact_content": "Prioritize findings that directly inform research design",
+      "reference_detailed_work": "Acknowledge comprehensive analyses while presenting distilled insights"
+    },
+    "section_priorities": {
+      "introduction_background": {
+        "words": 630,
+        "focus": "Problem context, key literature synthesis, research gap",
+        "compression_from": 28901,
+        "strategy": "Focus on most relevant findings, synthesize rather than describe"
+      },
+      "methodology": {
+        "words": 350,
+        "focus": "Selected methodology justification, alternatives considered",
+        "compression_from": 34549,
+        "strategy": "Focus on final justified approach, summarize alternatives"
+      },
+      "ethics_sustainability": {
+        "words": 210,
+        "focus": "Key ethical considerations, SDG alignment, mitigation",
+        "compression_from": 23104,
+        "strategy": "Focus on high-priority concerns, summarize mitigation"
+      },
+      "risk_timeline": {
+        "words": 210,
+        "focus": "Major risks and mitigation, timeline overview",
+        "compression_from": 13525,
+        "strategy": "Focus on high-priority risks, provide timeline overview"
+      }
+    }
+  },
+  "section_reference_map": {
+    "introduction_background": {
+      "target_words": 630,
+      "primary_sources": [
+        "docs/4.3.7-gap-statement-summary.md",
+        "docs/4.2.1.1-patterns-trends-analysis.md",
+        "docs/3.1.2-research-direction-selection.md"
+      ],
+      "supporting_sources": [
+        "docs/4.3.6-practical-needs-summary.md",
+        "docs/4.1.8.6-elicit-results-processing-summary.md"
+      ],
+      "key_references": "sources/4.1.1-elicit-results/ and sources/4.1.8-elicit-results/"
+    },
+    "objectives_questions": {
+      "target_words": 300,
+      "primary_sources": [
+        "docs/4.2.4.1-research-questions-refined.md",
+        "docs/3.1.2-research-direction-selection.md"
+      ],
+      "supporting_sources": [
+        "docs/4.2.4.2-hypotheses-refined.md"
+      ]
+    },
+    "theoretical_framework": {
+      "target_words": 250,
+      "primary_sources": [
+        "docs/4.2.2.1-key-concepts-updated.md",
+        "docs/4.2.2.2-define-relationships-updated.md"
+      ],
+      "supporting_sources": [
+        "docs/3.6.1-key-concepts.md"
+      ]
+    },
+    "methodology": {
+      "target_words": 350,
+      "primary_sources": [
+        "docs/5.3.1-methodology-justification.md",
+        "docs/5.2.4-feasibility-analysis.md"
+      ],
+      "supporting_sources": [
+        "docs/5.2.1-methodology-comparison-matrix.md",
+        "docs/5.3.2-methodology-limitations.md"
+      ],
+      "key_references": "sources/5.1.1-relevant-methodologies.json to sources/5.2.4-feasibility-analysis.json"
+    },
+    "ethics_sustainability": {
+      "target_words": 210,
+      "primary_sources": [
+        "docs/6.1.2-ethical-concerns-analysis.md",
+        "docs/6.2.1-environmental-aspects.md",
+        "docs/6.2.6-mitigation-strategies.md"
+      ],
+      "supporting_sources": [
+        "docs/6.1.3-data-privacy-framework.md"
+      ],
+      "key_references": "sources/6.1.1-ethics-guidelines-review.json to sources/6.2.6-mitigation-strategies-detailed.json"
+    },
+    "risk_timeline": {
+      "target_words": 210,
+      "primary_sources": [
+        "docs/7.2-research-specific-risk-management.md",
+        "docs/7.1.5-risk-prioritized.md"
+      ],
+      "supporting_sources": [
+        "docs/5.3.3-project-timeline.md"
+      ],
+      "key_references": "sources/7.1.1-potential-risks-detailed.json to sources/7.2-combined-risk-management.json"
+    }
+  }
+}
