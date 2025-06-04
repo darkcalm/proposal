@@ -32,7 +32,7 @@ CONCEPTUAL_MODEL_TEX = r"""\documentclass[border=10pt]{standalone}
 
 % Human Context (left column)
 \node[human] (HEW) {Human DER Worker\\(Tools/Resources/Prompts)};
-\node[context, below=of HEW] (AC) {Application Context\\(DER PM \& Ops)};
+\node[context, below=of HEW] (AC) {Application Context\\(DER Ops)};
 
 % Digital Twin System (right column)
 \node[twin, right=of HEW] (DT) {Digital Twin Worker\\(Tool Access/Knowledge/Comms)};

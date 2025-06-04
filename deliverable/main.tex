@@ -98,7 +98,7 @@
 & {\studentthree} \\
 \\
 \textbf{Submission Date:} & {\submissiondate} \\
-\textbf{Word Count:} & 2,588 words (excluding abstract) \\
+\textbf{Word Count:} & 2,597 words (excluding abstract) \\
 \end{tabular}
 \vspace{3mm}
 \hrule
@@ -149,11 +149,11 @@ The literature synthesis reveals three critical gaps that this research addresse
 
 \textbf{Theoretical Gap:} Current Digital Twin frameworks lack comprehensive models for representing human operational behaviors within protocol-enabled environments. While Digital Twins excel at modeling physical systems, they fail to capture the tacit knowledge, adaptive reasoning, operational uncertainties, and contextual decision-making patterns that human experts bring to DER operations.
 
-\textbf{Methodological Gap:} Existing agent protocol primitives have not been systematically evaluated for their effectiveness in modeling human operational behaviors including both expertise and uncertainty patterns. The lack of standardized approaches for integrating human behavioral patterns within agent-based systems limits the development of more effective human-AI collaboration models.
+\textbf{Methodological Gap:} Existing agent protocol primitives have not been evaluated in the published literature for their effectiveness in modeling human operational behaviors in industrial settings.
 
-\textbf{Practical Gap:} The DER industry lacks validated frameworks for creating Human DER Worker Digital Twins that can model human operational behaviors across distributed operations while maintaining the adaptability, contextual awareness, and inherent uncertainties that characterize human expert performance, with potential for future scaling applications.
+\textbf{Practical Gap:} The DER industry lacks validated frameworks for creating Human DER Worker Digital Twins that can model human behaviors across distributed operations while simulating the adaptability, contextual awareness, and inherent uncertainties that characterize human expert performance, with potential for future scaling applications.
 
-These gaps represent a significant barrier to realizing the full potential of DER systems for sustainable energy transition. Without effective mechanisms for modeling and potentially preserving human operational behaviors including their uncertainties, the increasing automation of energy systems risks losing critical operational patterns while failing to achieve the coordination necessary for large-scale renewable energy integration.
+These represent a significant barrier to realizing the full potential of DER systems for sustainable energy transition. Without effective mechanisms for modeling and potentially preserving human operational behaviors including their uncertainties, the increasing automation of energy systems is less able to capture critical operational patterns while at risk in losing the coordination necessary for large-scale renewable energy integration.
 
 \section{Research Objectives and Questions}
 \label{sec:objectives}
@@ -213,7 +213,9 @@ The theoretical framework is structured around concepts operating within two pri
 
 \textbf{Application Context (DER Operational Knowledge Management):} The operational environment where DER systems require behavioral pattern preservation and transfer across distributed locations and stakeholders, characterized by distributed system complexity and real-world operational constraints.
 
-\textbf{Digital Twin Worker (Tool Access/Knowledge/Communications):} An agent-based software system that models and replicates human DER worker operational behaviors through structured protocols, featuring tool access layers, AI-driven natural language uncertainty, and standardized communication protocols built using MCP, A2A, and domain-specific protocols. Current Digital Twin frameworks focus predominantly on physical asset modeling, with limited theoretical development for integrating human behavioral modeling with technical system representations \cite{10.1016/j.esr.2024.101334} \cite{10.1007/s10207-023-00784-x}.
+\textbf{Digital Twin Worker (Tool Access/Knowledge/Communications):} An agent-based software system that models and replicates human DER worker operational behaviors through structured protocols, featuring tool access layers, AI-driven natural language uncertainty, and standardized communication protocols built using MCP, A2A, and domain-specific protocols interfacing the layers. 
+
+The selection of these specific agent protocol primitives is grounded in their complementary capabilities for modeling different aspects of human operational behaviors \cite{2504.16736v2} \cite{2505.02279}. The Model Context Protocol (MCP) provides a standardized framework for agent-to-resource communication, where external tools, data sources, and services function analogously to the physical and informational resources that human DER workers utilize in their daily operations—from SCADA interfaces and diagnostic equipment to technical manuals and regulatory databases. MCP's client-server architecture mirrors how human operators interact with their operational environment: strategic context requests parallel human decision-making about which resources to consult, while executive context responses mirror the information gathering and tool utilization patterns that characterize expert operational behavior \cite{2504.16736v2}. The Agent-to-Agent Protocol (A2A) enables complex inter-agent collaboration through standardized task management and message exchange, modeling the coordination patterns between human operators across different organizational domains and technical specializations. The Agent Communication Protocol (ACP) provides foundational communication standardization for multi-agent interactions, while Agent Network Protocol (ANP) enables cross-domain coordination that reflects the distributed nature of DER operations across different stakeholders and jurisdictions \cite{2505.02279}. These protocols collectively provide the interface layers between the human operational context and digital twin representation, providing new opportunities over current Digital Twin frameworks.
 
 \textbf{Evaluation Context (Framework Implementation):} The systematic assessment framework for validating HDT effectiveness through fidelity metrics, operational efficiency measures, human factors validation, and safety outcomes assessment. No comprehensive theoretical framework currently exists for evaluating the effectiveness of human digital twins in operational contexts \cite{10.1109/etfa61755.2024.10711109} \cite{10.1016/j.ifacol.2022.09.675}.
 
@@ -322,7 +324,7 @@ Methodology validation addresses identified limitations through multi-disciplina
 
 \subsection{Impact and Significance}
 
-The research is expected to advance both the theoretical understanding and practical implementation of human-centered digital twins in energy systems. The framework will provide a foundation for practical value in simulations for DER operators seeking to scale operational behaviors across distributed operations, while offering a look at future research potentials in language-based AI implementation in the energy sector.
+The research is expected to advance both the theoretical understanding and practical implementation of human-centered digital twins in energy systems. The framework will provide a foundation for practical value in simulations for DER operators seeking to scale operational behaviors across distributed operations, while offering a look at future research potentials in language-based AI implementations in the energy sector.
 
 The integration of agent protocol primitives with Digital Twin technology represents a novel or unexplored approach to addressing the challenge of preserving and scaling human operational behaviors in energy systems. This research contributes to the broader goal of sustainable energy transition by developing frameworks that could improve the operational efficiency and reliability of distributed renewable energy systems through better preservation of human operational patterns.
 
