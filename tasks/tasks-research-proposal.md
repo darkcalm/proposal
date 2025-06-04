@@ -154,29 +154,22 @@
     - [x] 4.3.7 Formulate gap statement
 
 - [ ] 5.0 Methodology Development (ILO3)
-  - [ ] 5.1 Methodology Research
+  - [x] 5.1 Methodology Research
     - [x] 5.1.1 Identify relevant methodologies
     - [x] 5.1.2 Document quantitative approaches
     - [x] 5.1.3 Analyze qualitative methodologies
     - [x] 5.1.4 Evaluate mixed methodologies
     - [x] 5.1.5 Research emerging methodologies
-  - [ ] 5.2 Methodology Comparison
+  - [x] 5.2 Methodology Comparison
     - [x] 5.2.1 Create comparison matrix
     - [x] 5.2.2 Evaluate strengths/limitations
     - [x] 5.2.3 Assess resource requirements
-    - [ ] 5.2.4 Analyze feasibility
-  - [ ] 5.3 Methodology Selection
-    - [ ] 5.3.1 Select primary method
-    - [ ] 5.3.2 Justify selection
-    - [ ] 5.3.3 Address limitations
-    - [ ] 5.3.4 Describe procedures
-    - [ ] 5.3.5 Outline validation
-  - [ ] 5.4 Implementation Planning
-    - [ ] 5.4.1 Outline rough timeline
-    - [ ] 5.4.2 Define data sources
-    - [ ] 5.4.3 Establish quality control
-    - [ ] 5.4.4 Plan pilot testing
-    - [ ] 5.4.5 Create workflow diagram
+    - [x] 5.2.4 Analyze feasibility
+  - [x] 5.3 Methodology Selection
+    - [x] 5.3.1 Justify research methodology
+    - [x] 5.3.2 Address limitations
+    - [x] 5.3.3 Outline rough timeline
+    - [x] 5.3.4 Create workflow diagram
 
 - [ ] 6.0 Ethics and Sustainability Integration (ILO4)
   - [ ] 6.1 Ethics Assessment
@@ -190,19 +183,8 @@
     - [ ] 6.2.2 Analyze social impacts
     - [ ] 6.2.3 Evaluate economic factors
     - [ ] 6.2.4 Assess equity aspects
-    - [ ] 6.2.5 Link to SDGs
-  - [ ] 6.3 Impact Assessment
-    - [ ] 6.3.1 Identify environmental impacts
-    - [ ] 6.3.2 Analyze social effects
-    - [ ] 6.3.3 Consider economic risks
-    - [ ] 6.3.4 Evaluate adoption barriers
-    - [ ] 6.3.5 Develop mitigation strategies
-  - [ ] 6.4 Stakeholder Analysis
-    - [ ] 6.4.1 Map stakeholder groups
-    - [ ] 6.4.2 Analyze impacts
-    - [ ] 6.4.3 Consider vulnerable populations
-    - [ ] 6.4.4 Evaluate policy implications
-    - [ ] 6.4.5 Document stakeholder engagement requirements
+    - [ ] 6.2.5 Evaluate policy implications
+    - [ ] 6.2.6 Develop mitigation strategies
 
 - [ ] 7.0 Risk Assessment and Timeline Planning
   - [ ] 7.1 Risk Identification
@@ -217,18 +199,6 @@
     - [ ] 7.2.3 Allocate resources
     - [ ] 7.2.4 Define escalation procedures
     - [ ] 7.2.5 Monitor and review risks
-  - [ ] 7.3 Timeline Development
-    - [ ] 7.3.1 Finalize Gantt chart
-    - [ ] 7.3.2 Confirm milestones
-    - [ ] 7.3.3 Validate task durations
-    - [ ] 7.3.4 Review dependencies
-    - [ ] 7.3.5 Ensure buffer time adequacy
-  - [ ] 7.4 Resource Planning
-    - [ ] 7.4.1 Identify human resources
-    - [ ] 7.4.2 Plan equipment/technology
-    - [ ] 7.4.3 Budget for materials
-    - [ ] 7.4.4 Coordinate availability
-    - [ ] 7.4.5 Plan group contributions
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization

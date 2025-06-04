@@ -117,23 +117,31 @@ def analyze_feasibility_updated(comparison_matrix, strengths_data, resource_data
         # 4. Timeline Alignment (from 5.2.3 or 5.2.1)
         timeline_str_from_521 = meth_521_data.get("timeline", "To be determined")
         timeline_str_from_523 = meth_resource_data.get("time_resources", {}).get("total_project_duration", timeline_str_from_521)
-        # Try to parse weeks (simplified)
+        # Try to parse weeks (improved parsing for ranges)
         timeline_alignment_score_component = 3 # Default moderate
         try:
             if "weeks" in timeline_str_from_523:
+                # Extract all numbers from the string
                 duration_parts = [int(s) for s in re.findall(r'\d+', timeline_str_from_523)]
                 if duration_parts:
+                    # For ranges, use the maximum duration
                     max_duration = max(duration_parts)
-                    if max_duration <= 16 : timeline_alignment_score_component = 5 # Excellent
-                    elif max_duration <= 20 : timeline_alignment_score_component = 4 # Good
-                    elif max_duration <= 22 : timeline_alignment_score_component = 3 # Okay
-                    elif max_duration <= 25 : timeline_alignment_score_component = 2 # Challenging
-                    else: timeline_alignment_score_component = 1 # Poor
+                    # Adjusted scoring based on 5.2.3 time estimates
+                    if max_duration <= 16: timeline_alignment_score_component = 5    # Excellent (14-16 weeks like SLR)
+                    elif max_duration <= 18: timeline_alignment_score_component = 4.5  # Very Good (16-18 weeks like Rapid Prototyping)
+                    elif max_duration <= 20: timeline_alignment_score_component = 4    # Good (18-20 weeks like Case Study)
+                    elif max_duration <= 22: timeline_alignment_score_component = 3.5  # Moderately Good (20-22 weeks like Digital Twin)
+                    elif max_duration <= 24: timeline_alignment_score_component = 3    # Moderate (22-24 weeks like Living Lab)
+                    elif max_duration <= 26: timeline_alignment_score_component = 2    # Challenging (24-26 weeks like Sequential)
+                    else: timeline_alignment_score_component = 1                       # Poor (beyond 26 weeks)
             elif meth_521_data.get("feasibility_20_weeks","").lower() == "excellent": timeline_alignment_score_component = 5
             elif meth_521_data.get("feasibility_20_weeks","").lower() == "good": timeline_alignment_score_component = 4
-            # ... add more mappings for feasibility_20_weeks text from 5.2.1 if available
+            elif meth_521_data.get("feasibility_20_weeks","").lower() == "moderate": timeline_alignment_score_component = 3
+            elif meth_521_data.get("feasibility_20_weeks","").lower() == "challenging": timeline_alignment_score_component = 2
+            elif meth_521_data.get("feasibility_20_weeks","").lower() == "poor": timeline_alignment_score_component = 1
         except Exception as e:
             write_log(f"Could not parse timeline {timeline_str_from_523} for {method_key}: {e}")
+            # Keep default moderate score of 3
 
         # Weighted Total Feasibility Score (example weights)
         # Weights from archived 5.2.4: Suitability 30%, Resource Feasibility 30%, Risk 20%, Timeline 20%
@@ -144,6 +152,21 @@ def analyze_feasibility_updated(comparison_matrix, strengths_data, resource_data
             timeline_alignment_score_component * 0.20
         )
         total_feasibility_score = round(max(0, min(5, total_feasibility_score)), 2)
+
+        # Calculate Feasibility Score Without Timeline Alignment
+        score_contrib_without_timeline = (
+            suitability_score_component * 0.30 +
+            resource_feasibility_score_component * 0.30 +
+            risk_score_component * 0.20
+        )
+        # Sum of weights for components other than timeline = 0.30 + 0.30 + 0.20 = 0.80
+        # Normalize this score to be on a 0-5 scale like the total_feasibility_score
+        # If sum_of_weights_without_timeline is zero (though not in this config), handle division by zero.
+        sum_of_weights_without_timeline = 0.80
+        if sum_of_weights_without_timeline > 0:
+            feasibility_score_without_timeline_normalized = round(score_contrib_without_timeline / sum_of_weights_without_timeline, 2)
+        else:
+            feasibility_score_without_timeline_normalized = 0.0 # Should not happen with current weights
 
         if total_feasibility_score >= 4.0: feasibility_category = "Highly Feasible"
         elif total_feasibility_score >= 3.5: feasibility_category = "Feasible"
@@ -172,6 +195,7 @@ def analyze_feasibility_updated(comparison_matrix, strengths_data, resource_data
                 "timeline_alignment_contrib": round(timeline_alignment_score_component * 0.20, 2),
             },
             "total_feasibility_score": total_feasibility_score,
+            "feasibility_score_without_timeline_normalized": feasibility_score_without_timeline_normalized,
             "feasibility_category": feasibility_category,
             "recommendation": recommendation,
             "key_feasibility_enhancers": meth_strength_data.get("strengths",{}).get("contextual_strengths", [])[:2], # Example
@@ -210,6 +234,7 @@ def generate_markdown_summary_524(analysis_report: dict):
         scores_br = analysis["scores_breakdown"]
         md_parts.append(f"### {i+1}. {analysis['methodology_name']}\n")
         md_parts.append(f"- **Total Feasibility Score**: {analysis['total_feasibility_score']:.2f} ({analysis['feasibility_category']})\n")
+        md_parts.append(f"- **Feasibility Score Without Timeline Alignment**: {analysis['feasibility_score_without_timeline_normalized']:.2f}\n")
         md_parts.append(f"- **Recommendation**: {analysis['recommendation']}\n")
         md_parts.append("- Score Contributions:\n")
         md_parts.append(f"  - Suitability (from 5.2.1 score {scores_br['suitability_input_score']}): {scores_br['suitability_contrib']}\n")

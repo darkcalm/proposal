@@ -1,7 +1,7 @@
 {
   "metadata": {
     "task": "5.2.4 - Analyze Feasibility (Updated)",
-    "timestamp": "2025-06-04T01:49:14.597918",
+    "timestamp": "2025-06-04T02:36:03.839113",
     "input_sources": [
       "5.2.1-methodology-comparison-matrix.json",
       "5.2.2-methodology-strengths-limitations.json",
@@ -29,17 +29,16 @@
         "suitability_contrib": 0.99,
         "resource_intensity_input": 4,
         "resource_feasibility_contrib": 0.6,
-        "risk_input_total_identified": 4,
-        "risk_mitigation_contrib": 0.6,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 0,
+        "risk_mitigation_contrib": 1.0,
+        "timeline_input_str": "18-20 weeks (intensive data collection and analysis)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 2.79,
-      "feasibility_category": "Moderately Feasible (Challenging)",
-      "recommendation": "Use with Caution",
-      "key_feasibility_enhancers": [
-        "Investigate protocol implementation challenges and successes in DER maintenance contexts"
-      ],
+      "total_feasibility_score": 3.39,
+      "feasibility_score_without_timeline_normalized": 3.24,
+      "feasibility_category": "Feasible with Conditions",
+      "recommendation": "Recommended",
+      "key_feasibility_enhancers": [],
       "key_feasibility_inhibitors": [
         "Access to suitable case study sites and participants"
       ]
@@ -52,15 +51,19 @@
         "suitability_contrib": 0.79,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "20-22 weeks (parallel quantitative and qualitative phases)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.29,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Consider with Conditions",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.79,
+      "feasibility_score_without_timeline_normalized": 2.62,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Quantitative performance with qualitative user experience",
+        "Comprehensive evaluation framework"
+      ],
       "key_feasibility_inhibitors": []
     },
     "action_research": {
@@ -73,11 +76,12 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "16-20 weeks (iterative action-reflection cycles)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.35,
-      "feasibility_category": "Feasible with Conditions",
+      "total_feasibility_score": 3.55,
+      "feasibility_score_without_timeline_normalized": 3.44,
+      "feasibility_category": "Feasible",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
       "key_feasibility_inhibitors": []
@@ -92,11 +96,12 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "14-16 weeks (structured review process)",
+        "timeline_alignment_contrib": 1.0
       },
-      "total_feasibility_score": 3.39,
-      "feasibility_category": "Feasible with Conditions",
+      "total_feasibility_score": 3.79,
+      "feasibility_score_without_timeline_normalized": 3.48,
+      "feasibility_category": "Feasible",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
       "key_feasibility_inhibitors": []
@@ -109,15 +114,19 @@
         "suitability_contrib": 0.93,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "18-20 weeks (model development and scenario testing)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.43,
+      "total_feasibility_score": 3.03,
+      "feasibility_score_without_timeline_normalized": 2.79,
       "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Evaluate protocol efficiency metrics",
+        "Simulate network failures and recovery scenarios"
+      ],
       "key_feasibility_inhibitors": []
     },
     "experimental_research": {
@@ -128,15 +137,19 @@
         "suitability_contrib": 1.03,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "16-20 weeks (setup, execution, and analysis)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.53,
-      "feasibility_category": "Feasible",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 3.13,
+      "feasibility_score_without_timeline_normalized": 2.92,
+      "feasibility_category": "Feasible with Conditions",
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Allows isolation of specific variables affecting DER coordination",
+        "Facilitates rigorous comparison under controlled conditions"
+      ],
       "key_feasibility_inhibitors": []
     },
     "comparative_research": {
@@ -149,11 +162,12 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "14-18 weeks (framework development and comparison)",
+        "timeline_alignment_contrib": 0.9
       },
-      "total_feasibility_score": 3.39,
-      "feasibility_category": "Feasible with Conditions",
+      "total_feasibility_score": 3.69,
+      "feasibility_score_without_timeline_normalized": 3.48,
+      "feasibility_category": "Feasible",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
       "key_feasibility_inhibitors": []
@@ -168,10 +182,11 @@
         "resource_feasibility_contrib": 0.6,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "20-22 weeks (model development and validation intensive)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.31,
+      "total_feasibility_score": 3.41,
+      "feasibility_score_without_timeline_normalized": 3.39,
       "feasibility_category": "Feasible with Conditions",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
@@ -186,17 +201,21 @@
       "scores_breakdown": {
         "suitability_input_score": 2.95,
         "suitability_contrib": 0.89,
-        "resource_intensity_input": 3,
-        "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "resource_intensity_input": 4,
+        "resource_feasibility_contrib": 0.6,
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "16-20 weeks (iterative algorithm development and testing)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.39,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.68,
+      "feasibility_score_without_timeline_normalized": 2.36,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Balance trade-offs in protocol design",
+        "Optimize protocol parameters for DER coordination"
+      ],
       "key_feasibility_inhibitors": []
     },
     "living_lab": {
@@ -209,10 +228,11 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
+        "timeline_input_str": "22-24 weeks (setup and real-world testing cycles)",
         "timeline_alignment_contrib": 0.6
       },
       "total_feasibility_score": 3.34,
+      "feasibility_score_without_timeline_normalized": 3.42,
       "feasibility_category": "Feasible with Conditions",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
@@ -226,15 +246,19 @@
         "suitability_contrib": 1.05,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "18-20 weeks (stakeholder engagement and iterations)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.55,
-      "feasibility_category": "Feasible",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 3.15,
+      "feasibility_score_without_timeline_normalized": 2.94,
+      "feasibility_category": "Feasible with Conditions",
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Ensures protocol meets real-world operational needs",
+        "Incorporates practical maintenance workflow insights"
+      ],
       "key_feasibility_inhibitors": []
     },
     "grounded_theory": {
@@ -247,10 +271,11 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "18-22 weeks (data collection to theory saturation)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.35,
+      "total_feasibility_score": 3.46,
+      "feasibility_score_without_timeline_normalized": 3.44,
       "feasibility_category": "Feasible with Conditions",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
@@ -264,15 +289,19 @@
         "suitability_contrib": 0.82,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "16-20 weeks (multiple expert consultation rounds)",
+        "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.32,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.92,
+      "feasibility_score_without_timeline_normalized": 2.66,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Build expert consensus on protocol futures",
+        "Forecast technology trends"
+      ],
       "key_feasibility_inhibitors": []
     },
     "rapid_prototyping": {
@@ -285,11 +314,12 @@
         "resource_feasibility_contrib": 0.9,
         "risk_input_total_identified": 0,
         "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "timeline_input_str": "16-18 weeks (rapid development cycles)",
+        "timeline_alignment_contrib": 0.9
       },
-      "total_feasibility_score": 3.37,
-      "feasibility_category": "Feasible with Conditions",
+      "total_feasibility_score": 3.67,
+      "feasibility_score_without_timeline_normalized": 3.46,
+      "feasibility_category": "Feasible",
       "recommendation": "Recommended",
       "key_feasibility_enhancers": [],
       "key_feasibility_inhibitors": []
@@ -302,15 +332,19 @@
         "suitability_contrib": 0.85,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "20-24 weeks (extended field observation period)",
         "timeline_alignment_contrib": 0.6
       },
-      "total_feasibility_score": 3.35,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.75,
+      "feasibility_score_without_timeline_normalized": 2.69,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Document real operational contexts",
+        "Understand stakeholder interactions"
+      ],
       "key_feasibility_inhibitors": []
     },
     "content_analysis": {
@@ -321,15 +355,19 @@
         "suitability_contrib": 0.79,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "14-18 weeks (systematic content processing)",
+        "timeline_alignment_contrib": 0.9
       },
-      "total_feasibility_score": 3.29,
-      "feasibility_category": "Feasible with Conditions",
+      "total_feasibility_score": 2.99,
+      "feasibility_score_without_timeline_normalized": 2.62,
+      "feasibility_category": "Moderately Feasible (Challenging)",
       "recommendation": "Consider with Conditions",
-      "key_feasibility_enhancers": [],
+      "key_feasibility_enhancers": [
+        "Analyze DER communication logs",
+        "Examine stakeholder communications"
+      ],
       "key_feasibility_inhibitors": []
     },
     "agent_based_modeling": {
@@ -338,17 +376,21 @@
       "scores_breakdown": {
         "suitability_input_score": 2.9,
         "suitability_contrib": 0.87,
-        "resource_intensity_input": 3,
-        "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
+        "resource_intensity_input": 4,
+        "resource_feasibility_contrib": 0.6,
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "20-24 weeks (complex model development and validation)",
         "timeline_alignment_contrib": 0.6
       },
-      "total_feasibility_score": 3.37,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.47,
+      "feasibility_score_without_timeline_normalized": 2.34,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Capture emergent coordination patterns",
+        "Study distributed maintenance decisions"
+      ],
       "key_feasibility_inhibitors": []
     },
     "computational_social_science_methodology": {
@@ -357,17 +399,21 @@
       "scores_breakdown": {
         "suitability_input_score": 3.1,
         "suitability_contrib": 0.93,
-        "resource_intensity_input": 3,
-        "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "resource_intensity_input": 4,
+        "resource_feasibility_contrib": 0.6,
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "18-22 weeks (data collection and computational analysis)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.43,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.63,
+      "feasibility_score_without_timeline_normalized": 2.41,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Analyze communication patterns in DER networks",
+        "Model social aspects of maintenance coordination"
+      ],
       "key_feasibility_inhibitors": []
     },
     "digital_twin_methodology": {
@@ -378,17 +424,18 @@
         "suitability_contrib": 1.11,
         "resource_intensity_input": 4,
         "resource_feasibility_contrib": 0.6,
-        "risk_input_total_identified": 4,
-        "risk_mitigation_contrib": 0.6,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "20-22 weeks (model development and validation intensive)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 2.91,
+      "total_feasibility_score": 2.81,
+      "feasibility_score_without_timeline_normalized": 2.64,
       "feasibility_category": "Moderately Feasible (Challenging)",
       "recommendation": "Consider with Conditions",
       "key_feasibility_enhancers": [
-        "Perfect alignment with DER systems modeling and simulation needs",
-        "Enables comprehensive protocol testing without physical infrastructure costs"
+        "Allows simulation of failure scenarios safely for predictive maintenance focus",
+        "Perfect alignment with DER systems modeling and simulation needs"
       ],
       "key_feasibility_inhibitors": [
         "Access to DER system data/specifications for model",
@@ -401,17 +448,21 @@
       "scores_breakdown": {
         "suitability_input_score": 3.1,
         "suitability_contrib": 0.93,
-        "resource_intensity_input": 3,
-        "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "resource_intensity_input": 4,
+        "resource_feasibility_contrib": 0.6,
+        "risk_input_total_identified": 5,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "18-22 weeks (model development and explanation framework)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.43,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.63,
+      "feasibility_score_without_timeline_normalized": 2.41,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
+      "key_feasibility_enhancers": [
+        "Enable debugging of protocol behavior",
+        "Support regulatory approval of AI-driven protocols"
+      ],
       "key_feasibility_inhibitors": []
     },
     "living_lab_methodology": {
@@ -422,15 +473,19 @@
         "suitability_contrib": 0.9,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "22-24 weeks (setup and real-world testing cycles)",
         "timeline_alignment_contrib": 0.6
       },
-      "total_feasibility_score": 3.4,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.8,
+      "feasibility_score_without_timeline_normalized": 2.75,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Long-term protocol evolution study",
+        "Test protocols in actual DER environments"
+      ],
       "key_feasibility_inhibitors": []
     },
     "human_ai_collaboration_methodology": {
@@ -441,15 +496,19 @@
         "suitability_contrib": 0.93,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 0,
-        "risk_mitigation_contrib": 1.0,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "18-22 weeks (system development and user testing)",
+        "timeline_alignment_contrib": 0.7
       },
-      "total_feasibility_score": 3.43,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Recommended",
-      "key_feasibility_enhancers": [],
+      "total_feasibility_score": 2.93,
+      "feasibility_score_without_timeline_normalized": 2.79,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Consider with Conditions",
+      "key_feasibility_enhancers": [
+        "Balance automated protocol decisions with human expertise",
+        "Enable human override of automated decisions"
+      ],
       "key_feasibility_inhibitors": []
     },
     "rapid_prototyping_methodology": {
@@ -460,17 +519,18 @@
         "suitability_contrib": 0.84,
         "resource_intensity_input": 3,
         "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 3,
-        "risk_mitigation_contrib": 0.6,
-        "timeline_input_str": "To be determined",
-        "timeline_alignment_contrib": 0.6
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "16-18 weeks (rapid development cycles)",
+        "timeline_alignment_contrib": 0.9
       },
-      "total_feasibility_score": 2.94,
-      "feasibility_category": "Moderately Feasible (Challenging)",
+      "total_feasibility_score": 3.04,
+      "feasibility_score_without_timeline_normalized": 2.67,
+      "feasibility_category": "Feasible with Conditions",
       "recommendation": "Consider with Conditions",
       "key_feasibility_enhancers": [
-        "Ideal for protocol development where requirements may evolve",
-        "Allows rapid testing of ACP vs A2A alternatives"
+        "Enables agile response to technical challenges in DER integration",
+        "Facilitates incremental validation with industry stakeholders"
       ],
       "key_feasibility_inhibitors": []
     },
@@ -480,16 +540,17 @@
       "scores_breakdown": {
         "suitability_input_score": 3.05,
         "suitability_contrib": 0.91,
-        "resource_intensity_input": 3,
-        "resource_feasibility_contrib": 0.9,
-        "risk_input_total_identified": 4,
-        "risk_mitigation_contrib": 0.6,
-        "timeline_input_str": "20 weeks (standard thesis duration)",
+        "resource_intensity_input": 4,
+        "resource_feasibility_contrib": 0.6,
+        "risk_input_total_identified": 6,
+        "risk_mitigation_contrib": 0.4,
+        "timeline_input_str": "20 weeks (artifact development and evaluation cycles)",
         "timeline_alignment_contrib": 0.8
       },
-      "total_feasibility_score": 3.21,
-      "feasibility_category": "Feasible with Conditions",
-      "recommendation": "Consider with Conditions",
+      "total_feasibility_score": 2.71,
+      "feasibility_score_without_timeline_normalized": 2.39,
+      "feasibility_category": "Moderately Feasible (Challenging)",
+      "recommendation": "Use with Caution",
       "key_feasibility_enhancers": [
         "Perfect alignment with protocol development objectives",
         "Provides systematic approach to ACP/A2A framework creation"
@@ -506,10 +567,11 @@
         "resource_feasibility_contrib": 0.3,
         "risk_input_total_identified": 1,
         "risk_mitigation_contrib": 0.8,
-        "timeline_input_str": "20 weeks (standard thesis duration)",
-        "timeline_alignment_contrib": 0.8
+        "timeline_input_str": "24-26 weeks (extended due to sequential phases)",
+        "timeline_alignment_contrib": 0.4
       },
-      "total_feasibility_score": 2.67,
+      "total_feasibility_score": 2.27,
+      "feasibility_score_without_timeline_normalized": 2.33,
       "feasibility_category": "Moderately Feasible (Challenging)",
       "recommendation": "Use with Caution",
       "key_feasibility_enhancers": [

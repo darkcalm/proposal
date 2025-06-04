@@ -225,7 +225,7 @@ def main():
 **Conversion Date:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  
 **Script Used:** `tools/4.1.1.5_elicit_papers_to_markdown.py`  
 **Source Directory:** `{pdf_dir.relative_to(WORKSPACE_ROOT)}`  
-**Output Directory:** `{output_dir.relative_to(WORKSPACE_ROOT)}`
+**Output Directory:** `{output_dir.relative_to(WORKSPACE_ROOT)}`  
 
 ## Conversion Results
 

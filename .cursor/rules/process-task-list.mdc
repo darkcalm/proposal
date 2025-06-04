@@ -13,46 +13,38 @@ _Note: In this specific project, the document serving as the PRD is `docs/1.2.3-
 
 When working with task lists, the AI must:
 
-1. Identify the next step.
+1. **Initiation or After Task Execution - task management:**
+    - If all subtasks under parent are `[x]`, mark parent `[x]`
+    - **One sub-task at a time:** Do not mark the task you are working on with `[x]` and executing the next task until you have examined progess and have asked the user for permission and they say “yes” or "y"
+    - New tasks should not be created until you have examined progess and have asked the user for permission and they say “yes” or "y"
 
 2. **Before Task Execution - MUST read the contexts:**
-    - Read the most recent entry in `tools/`, `sources/` and `docs/`
-    - If few (<3) files are read, use recency pattern:
-        - Fetch associated files using task number, not full name
-        - For task X.Y.Z:
-            1. X.Y.Z-1 (most recent)
-            2. ...X.Y.1
-            3. X.Y-1.*
-            4. ...X.1.*
-            7. X-1.*.*
-        - Stop when an additional context would not change the execution
-    - Reading `docs/`, use recursive pattern:
-        - If the name of a prior doc is mentioned in the contents of a files you are reading, read the prior doc
-        - Fetch associated files using full name
-        - Stop when an additional context would not change the execution
+    - Read the file names of all first-layer files or directories in `tools/`, `sources/` and `docs/`
+    - Read the most recent file with a task number (X.Y, X.Y.Z, etc.) under `docs/`
+    - If a prior file in `docs/` is mentioned during any reading, read the prior file
+    - If no files are mentioned other than the most recent, fetch the next recent file. Recency follows:
+        1. X.Y.Z-1
+        2. ...X.Y.1
+        3. X.Y-1.*
+        4. ...X.1.*
+        5. X-1.*.*
+    - Stop when an additional context would not change the execution
     - Read PRD if:
-        - Required context is not found in recent dependencies
-        - Task has direct PRD requirements
-        - Task is a major milestone or deliverable
+        - Using the rules written above, only 2 files are read
+        - Task is a X.0 or marked with `(Deliverable)`
     - Read `archive/X.Y.Z-.../README.md`if exists
 
 3. **During Task Execution - output results:**
-    - You are the implementor of results, not the human user unless stated
-    - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure they can be completed one chunk at a time with minimal contexts
-    - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure they can be completed one rule at a time with minimal contexts
-    - When a citations is made, cite the very source to maintain connection with external literature
+    - Unless stated, **YOU** are the implementor, not the human user
+    - When working with a directory, a list, or a set of data, you must create a script under `tools/` to ensure each detail is sequentially fulfilled
+    - When data processing requires a set of categories or rules, you must create a script under `tools/` to ensure each detail is sequentially fulfilled
+    - When a citations is made, you must cite the very source where the external litature is seen, maintaining direct connection with external literature
     - Output file locations:
         - `tools/` - Scripts and utilities
-        - `sources/` - Input data or results of using scripts
-        - `docs/` - Output files or results of analyzing sources
+        - `sources/` - Input or outputs of scripts and utilities
+        - `docs/` - Results of analyzing sources or other files under docs
         - `deliverables/` - Output for tasks marked with (Deliverable)
     - Output file under `docs/` must indicate the exact files or directories of the sources and tools used to generate its results
     - Output directories under `docs/` must be accompanied by an output markdown directly under `docs/` 
     - Output file naming must start with the associated task number
     - Unless stated, do not edit files that has an older task number
-
-4. **After Task Execution - task management:**
-    - Mark only the task you are working on with `[x]`
-    - If all subtasks under parent are `[x]`, mark parent `[x]`
-    - New tasks should not be created unless directed by another .mdc
-    - **One sub-task at a time:** Do **NOT** start executing the next task until you ask the user for permission and they say “yes” or "y"

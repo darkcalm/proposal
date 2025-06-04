@@ -1,0 +1,889 @@
+{
+  "metadata": {
+    "task": "5.3.4 - Create Workflow Diagram",
+    "timestamp": "2025-06-04T08:53:27.318510",
+    "input_sources": [
+      "5.3.1-methodology-justification.json",
+      "5.3.2-methodology-limitations-analysis.json",
+      "5.3.3-project-timeline.json"
+    ]
+  },
+  "high_level_workflow": {
+    "workflow_type": "High-Level Hybrid Methodology Workflow",
+    "phases": [
+      {
+        "phase_id": "P1",
+        "name": "Phase 1: Systematic Literature Review",
+        "methodology": "Systematic Literature Review Methodology",
+        "duration": "6 weeks",
+        "activities": [
+          {
+            "activity": "Search strategy refinement",
+            "duration_weeks": 0.5,
+            "week_start": 1,
+            "optimization": "Parallel with initial searches"
+          },
+          {
+            "activity": "Database searches and screening",
+            "duration_weeks": 2,
+            "week_start": 1.5,
+            "optimization": "Accelerated screening with AI tools"
+          },
+          {
+            "activity": "Full-text review and data extraction",
+            "duration_weeks": 2,
+            "week_start": 3.5,
+            "optimization": "Focused on high-impact papers"
+          },
+          {
+            "activity": "Protocol composition pattern analysis",
+            "duration_weeks": 1,
+            "week_start": 5.5,
+            "optimization": "Concurrent with synthesis"
+          },
+          {
+            "activity": "Literature synthesis and gap identification",
+            "duration_weeks": 1,
+            "week_start": 5.5,
+            "optimization": "Streamlined synthesis process"
+          }
+        ],
+        "milestones": [
+          {
+            "milestone": "Search strategy approved",
+            "week": 1
+          },
+          {
+            "milestone": "Initial screening complete",
+            "week": 3
+          },
+          {
+            "milestone": "Full-text review complete",
+            "week": 5
+          },
+          {
+            "milestone": "Literature synthesis complete",
+            "week": 6
+          }
+        ],
+        "inputs": [
+          "Research objectives",
+          "Literature search strategy",
+          "Initial scope definition"
+        ],
+        "outputs": [
+          "Comprehensive literature synthesis",
+          "Protocol composition patterns",
+          "Research gaps identification",
+          "Theoretical framework validation"
+        ],
+        "decision_points": [
+          "Quality gate: Phase 1: Systematic Literature Review completion criteria met",
+          "Timeline check: Phase 1: Systematic Literature Review on schedule",
+          "Scope validation: Phase 1: Systematic Literature Review objectives achieved"
+        ]
+      },
+      {
+        "phase_id": "P2",
+        "name": "Phase 2: Comparative Framework Development",
+        "methodology": "Comparative Research Methodology",
+        "duration": "8 weeks",
+        "activities": [
+          {
+            "activity": "Framework design and validation",
+            "duration_weeks": 1.5,
+            "week_start": 1,
+            "optimization": "Leverage literature findings directly"
+          },
+          {
+            "activity": "ACP protocol analysis",
+            "duration_weeks": 2,
+            "week_start": 2.5,
+            "optimization": "Focused analysis using established framework"
+          },
+          {
+            "activity": "A2A protocol analysis",
+            "duration_weeks": 2,
+            "week_start": 4.5,
+            "optimization": "Parallel validation with ACP insights"
+          },
+          {
+            "activity": "Comparative evaluation",
+            "duration_weeks": 1.5,
+            "week_start": 6.5,
+            "optimization": "Concurrent with final analysis"
+          },
+          {
+            "activity": "Integration pattern assessment",
+            "duration_weeks": 1,
+            "week_start": 7.5,
+            "optimization": "Streamlined integration focus"
+          }
+        ],
+        "milestones": [
+          {
+            "milestone": "Comparison framework validated",
+            "week": 2
+          },
+          {
+            "milestone": "ACP analysis complete",
+            "week": 4
+          },
+          {
+            "milestone": "A2A analysis complete",
+            "week": 6
+          },
+          {
+            "milestone": "Comparative evaluation complete",
+            "week": 7
+          },
+          {
+            "milestone": "Integration assessment complete",
+            "week": 8
+          }
+        ],
+        "inputs": [
+          "Outputs from Phase 1: Systematic Literature Review",
+          "Phase transition validation"
+        ],
+        "outputs": [
+          "ACP protocol analysis",
+          "A2A protocol analysis",
+          "Comparative evaluation framework",
+          "Integration pattern assessment",
+          "Protocol composition recommendations"
+        ],
+        "decision_points": [
+          "Quality gate: Phase 2: Comparative Framework Development completion criteria met",
+          "Timeline check: Phase 2: Comparative Framework Development on schedule",
+          "Scope validation: Phase 2: Comparative Framework Development objectives achieved"
+        ]
+      },
+      {
+        "phase_id": "P3",
+        "name": "Phase 3: Proof of Concept",
+        "methodology": "Rapid Prototyping",
+        "duration": "4 weeks",
+        "activities": [
+          {
+            "activity": "Prototype design and specification",
+            "duration_weeks": 0.5,
+            "week_start": 1,
+            "optimization": "Use comparative insights directly"
+          },
+          {
+            "activity": "Core protocol integration development",
+            "duration_weeks": 2,
+            "week_start": 1.5,
+            "optimization": "Focused on key integration points"
+          },
+          {
+            "activity": "Testing and validation",
+            "duration_weeks": 1,
+            "week_start": 3.5,
+            "optimization": "Simplified validation criteria"
+          },
+          {
+            "activity": "Documentation and evaluation",
+            "duration_weeks": 0.5,
+            "week_start": 3.5,
+            "optimization": "Concurrent with testing"
+          },
+          {
+            "activity": "Integration with previous findings",
+            "duration_weeks": 0.5,
+            "week_start": 4,
+            "optimization": "Continuous integration approach"
+          }
+        ],
+        "milestones": [
+          {
+            "milestone": "Prototype design approved",
+            "week": 1
+          },
+          {
+            "milestone": "Core integration developed",
+            "week": 3
+          },
+          {
+            "milestone": "Testing complete",
+            "week": 4
+          },
+          {
+            "milestone": "Prototype documentation complete",
+            "week": 4
+          },
+          {
+            "milestone": "Integration analysis complete",
+            "week": 4
+          }
+        ],
+        "inputs": [
+          "Outputs from Phase 2: Comparative Framework Development",
+          "Phase transition validation"
+        ],
+        "outputs": [
+          "Protocol integration prototype",
+          "Testing and validation results",
+          "Implementation documentation",
+          "Proof of concept demonstration"
+        ],
+        "decision_points": [
+          "Quality gate: Phase 3: Proof of Concept completion criteria met",
+          "Timeline check: Phase 3: Proof of Concept on schedule",
+          "Scope validation: Phase 3: Proof of Concept objectives achieved"
+        ]
+      }
+    ],
+    "decision_points": [
+      {
+        "decision_id": "D1",
+        "name": "Literature Review Scope Decision",
+        "location": "End of Phase 1",
+        "criteria": [
+          "Sufficient literature coverage",
+          "Clear research gaps identified",
+          "Framework validated"
+        ],
+        "outcomes": [
+          "Proceed to Phase 2",
+          "Expand literature scope",
+          "Refine research questions"
+        ]
+      },
+      {
+        "decision_id": "D2",
+        "name": "Comparative Framework Validation",
+        "location": "End of Phase 2",
+        "criteria": [
+          "Framework robustness confirmed",
+          "Protocol analysis complete",
+          "Integration patterns clear"
+        ],
+        "outcomes": [
+          "Proceed to Phase 3",
+          "Refine framework",
+          "Additional protocol analysis"
+        ]
+      },
+      {
+        "decision_id": "D3",
+        "name": "Prototype Validation Decision",
+        "location": "End of Phase 3",
+        "criteria": [
+          "Prototype demonstrates key concepts",
+          "Integration feasibility confirmed",
+          "Research objectives met"
+        ],
+        "outcomes": [
+          "Complete project",
+          "Extend prototype",
+          "Additional validation"
+        ]
+      }
+    ],
+    "integration_gates": [
+      {
+        "gate_id": "G1",
+        "name": "Phase 1-2 Integration",
+        "timing": 5.5,
+        "purpose": "Early transfer of literature findings to comparative framework",
+        "activities": [
+          "Preliminary framework design",
+          "Early gap identification",
+          "Framework pre-validation"
+        ],
+        "validation_criteria": [
+          "Knowledge transfer completed",
+          "Phase objectives validated",
+          "Next phase requirements confirmed"
+        ]
+      },
+      {
+        "gate_id": "G2",
+        "name": "Phase 2-3 Integration",
+        "timing": 13.5,
+        "purpose": "Early transfer of comparative insights to prototype design",
+        "activities": [
+          "Prototype architecture planning",
+          "Technical requirements specification",
+          "Early design validation"
+        ],
+        "validation_criteria": [
+          "Knowledge transfer completed",
+          "Phase objectives validated",
+          "Next phase requirements confirmed"
+        ]
+      }
+    ],
+    "deliverables": [],
+    "feedback_loops": [
+      {
+        "loop_id": "F1",
+        "name": "Continuous Quality Feedback",
+        "frequency": "Weekly",
+        "participants": [
+          "Researcher",
+          "Supervisor"
+        ],
+        "purpose": "Quality assurance and progress validation"
+      },
+      {
+        "loop_id": "F2",
+        "name": "Phase Integration Feedback",
+        "frequency": "End of each phase",
+        "participants": [
+          "Research team",
+          "Subject matter experts"
+        ],
+        "purpose": "Phase completion validation and next phase preparation"
+      },
+      {
+        "loop_id": "F3",
+        "name": "Risk Management Feedback",
+        "frequency": "Bi-weekly",
+        "participants": [
+          "Researcher",
+          "Project stakeholders"
+        ],
+        "purpose": "Risk assessment and mitigation strategy adjustment"
+      }
+    ]
+  },
+  "detailed_workflow": {
+    "workflow_type": "Detailed Activity Workflow",
+    "activity_chains": [
+      {
+        "phase": "Phase 1: Systematic Literature Review",
+        "chain_id": "AC1",
+        "activities": [
+          {
+            "activity_id": "A1.1",
+            "name": "Search strategy refinement",
+            "duration": "0.5 weeks",
+            "start_week": 1,
+            "optimization": "Parallel with initial searches",
+            "inputs": [
+              "Research objectives",
+              "Initial literature"
+            ],
+            "outputs": [
+              "Refined search strategy",
+              "Database selection"
+            ],
+            "resources": [
+              "Academic databases",
+              "Search tools"
+            ],
+            "quality_criteria": [
+              "Strategy completeness",
+              "Database coverage"
+            ]
+          },
+          {
+            "activity_id": "A1.2",
+            "name": "Database searches and screening",
+            "duration": "2 weeks",
+            "start_week": 1.5,
+            "optimization": "Accelerated screening with AI tools",
+            "inputs": [
+              "Search strategy",
+              "Database access"
+            ],
+            "outputs": [
+              "Initial paper list",
+              "Screening results"
+            ],
+            "resources": [
+              "Multiple databases",
+              "Screening tools"
+            ],
+            "quality_criteria": [
+              "Search comprehensiveness",
+              "Relevance filtering"
+            ]
+          },
+          {
+            "activity_id": "A1.3",
+            "name": "Full-text review and data extraction",
+            "duration": "2 weeks",
+            "start_week": 3.5,
+            "optimization": "Focused on high-impact papers",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A1.4",
+            "name": "Protocol composition pattern analysis",
+            "duration": "1 weeks",
+            "start_week": 5.5,
+            "optimization": "Concurrent with synthesis",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A1.5",
+            "name": "Literature synthesis and gap identification",
+            "duration": "1 weeks",
+            "start_week": 5.5,
+            "optimization": "Streamlined synthesis process",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          }
+        ],
+        "dependencies": [],
+        "critical_activities": [
+          "Database searches and screening",
+          "Full-text review and data extraction"
+        ]
+      },
+      {
+        "phase": "Phase 2: Comparative Framework Development",
+        "chain_id": "AC2",
+        "activities": [
+          {
+            "activity_id": "A2.1",
+            "name": "Framework design and validation",
+            "duration": "1.5 weeks",
+            "start_week": 1,
+            "optimization": "Leverage literature findings directly",
+            "inputs": [
+              "Literature findings",
+              "Research objectives"
+            ],
+            "outputs": [
+              "Comparison framework",
+              "Evaluation criteria"
+            ],
+            "resources": [
+              "Analysis tools",
+              "Framework templates"
+            ],
+            "quality_criteria": [
+              "Framework validity",
+              "Criteria robustness"
+            ]
+          },
+          {
+            "activity_id": "A2.2",
+            "name": "ACP protocol analysis",
+            "duration": "2 weeks",
+            "start_week": 2.5,
+            "optimization": "Focused analysis using established framework",
+            "inputs": [
+              "Protocol specifications",
+              "Analysis framework"
+            ],
+            "outputs": [
+              "Protocol evaluation",
+              "Feature analysis"
+            ],
+            "resources": [
+              "Protocol documentation",
+              "Analysis tools"
+            ],
+            "quality_criteria": [
+              "Analysis depth",
+              "Accuracy validation"
+            ]
+          },
+          {
+            "activity_id": "A2.3",
+            "name": "A2A protocol analysis",
+            "duration": "2 weeks",
+            "start_week": 4.5,
+            "optimization": "Parallel validation with ACP insights",
+            "inputs": [
+              "Protocol specifications",
+              "Analysis framework"
+            ],
+            "outputs": [
+              "Protocol evaluation",
+              "Feature analysis"
+            ],
+            "resources": [
+              "Protocol documentation",
+              "Analysis tools"
+            ],
+            "quality_criteria": [
+              "Analysis depth",
+              "Accuracy validation"
+            ]
+          },
+          {
+            "activity_id": "A2.4",
+            "name": "Comparative evaluation",
+            "duration": "1.5 weeks",
+            "start_week": 6.5,
+            "optimization": "Concurrent with final analysis",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A2.5",
+            "name": "Integration pattern assessment",
+            "duration": "1 weeks",
+            "start_week": 7.5,
+            "optimization": "Streamlined integration focus",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          }
+        ],
+        "dependencies": [],
+        "critical_activities": [
+          "ACP protocol analysis",
+          "A2A protocol analysis"
+        ]
+      },
+      {
+        "phase": "Phase 3: Proof of Concept",
+        "chain_id": "AC3",
+        "activities": [
+          {
+            "activity_id": "A3.1",
+            "name": "Prototype design and specification",
+            "duration": "0.5 weeks",
+            "start_week": 1,
+            "optimization": "Use comparative insights directly",
+            "inputs": [
+              "Design specifications",
+              "Protocol insights"
+            ],
+            "outputs": [
+              "Working prototype",
+              "Integration demonstration"
+            ],
+            "resources": [
+              "Development tools",
+              "Testing environment"
+            ],
+            "quality_criteria": [
+              "Functionality validation",
+              "Integration success"
+            ]
+          },
+          {
+            "activity_id": "A3.2",
+            "name": "Core protocol integration development",
+            "duration": "2 weeks",
+            "start_week": 1.5,
+            "optimization": "Focused on key integration points",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A3.3",
+            "name": "Testing and validation",
+            "duration": "1 weeks",
+            "start_week": 3.5,
+            "optimization": "Simplified validation criteria",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A3.4",
+            "name": "Documentation and evaluation",
+            "duration": "0.5 weeks",
+            "start_week": 3.5,
+            "optimization": "Concurrent with testing",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          },
+          {
+            "activity_id": "A3.5",
+            "name": "Integration with previous findings",
+            "duration": "0.5 weeks",
+            "start_week": 4,
+            "optimization": "Continuous integration approach",
+            "inputs": [],
+            "outputs": [],
+            "resources": [],
+            "quality_criteria": []
+          }
+        ],
+        "dependencies": [],
+        "critical_activities": [
+          "Core protocol integration development"
+        ]
+      }
+    ],
+    "parallel_processes": [
+      {
+        "process_id": "PP1",
+        "name": "Literature review optimization",
+        "activities": [
+          "Search strategy development",
+          "Initial database searches"
+        ],
+        "timing": "1-1.5",
+        "time_savings": "0.5 weeks",
+        "coordination_requirements": [
+          "Regular sync meetings",
+          "Shared documentation",
+          "Progress coordination"
+        ]
+      },
+      {
+        "process_id": "PP2",
+        "name": "Comparative analysis optimization",
+        "activities": [
+          "Framework validation",
+          "Protocol analysis preparation"
+        ],
+        "timing": "6.5-7",
+        "time_savings": "0.5 weeks",
+        "coordination_requirements": [
+          "Regular sync meetings",
+          "Shared documentation",
+          "Progress coordination"
+        ]
+      },
+      {
+        "process_id": "PP3",
+        "name": "Prototyping optimization",
+        "activities": [
+          "Documentation",
+          "Testing",
+          "Evaluation"
+        ],
+        "timing": "3.5-4",
+        "time_savings": "1 week",
+        "coordination_requirements": [
+          "Regular sync meetings",
+          "Shared documentation",
+          "Progress coordination"
+        ]
+      }
+    ],
+    "critical_path": [
+      {
+        "phase": "Phase 1: Systematic Literature Review",
+        "start_week": 1,
+        "end_week": 6,
+        "buffer_time": 0.2999999999999998,
+        "criticality": "High"
+      },
+      {
+        "phase": "Phase 2: Comparative Framework Development",
+        "start_week": 7.3,
+        "end_week": 14.3,
+        "buffer_time": 0.40000000000000036,
+        "criticality": "High"
+      },
+      {
+        "phase": "Phase 3: Proof of Concept",
+        "start_week": 15.700000000000001,
+        "end_week": 18.700000000000003,
+        "buffer_time": 0.25,
+        "criticality": "High"
+      }
+    ],
+    "resource_flows": [
+      {
+        "resource_type": "Knowledge Assets",
+        "flow": "Literature Review → Comparative Framework → Prototype Design",
+        "transformation": "Raw literature → Structured analysis → Implementation guidance"
+      },
+      {
+        "resource_type": "Validation Evidence",
+        "flow": "Each phase → Integration gates → Final validation",
+        "transformation": "Phase-specific validation → Cumulative evidence → Project validation"
+      },
+      {
+        "resource_type": "Technical Artifacts",
+        "flow": "Analysis frameworks → Protocol comparisons → Integration prototype",
+        "transformation": "Analytical tools → Comparison results → Working demonstration"
+      }
+    ]
+  },
+  "risk_workflow": {
+    "workflow_type": "Risk Management Workflow",
+    "risk_monitoring_process": [
+      {
+        "risk_category": "Protocol Evolution",
+        "monitoring_frequency": "Bi-weekly",
+        "monitoring_method": "Literature alerts and protocol specification monitoring",
+        "escalation_trigger": "Major protocol updates affecting research scope",
+        "workflow_steps": [
+          "Assess risk indicators",
+          "Document current status",
+          "Compare against thresholds",
+          "Determine escalation need",
+          "Implement response actions"
+        ]
+      },
+      {
+        "risk_category": "Integration Quality",
+        "monitoring_frequency": "End of each phase",
+        "monitoring_method": "Integration review and supervisor feedback",
+        "escalation_trigger": "Difficulty synthesizing findings across phases",
+        "workflow_steps": [
+          "Assess risk indicators",
+          "Document current status",
+          "Compare against thresholds",
+          "Determine escalation need",
+          "Implement response actions"
+        ]
+      },
+      {
+        "risk_category": "Timeline Adherence",
+        "monitoring_frequency": "Weekly",
+        "monitoring_method": "Progress tracking against milestones",
+        "escalation_trigger": "Two consecutive weeks behind schedule",
+        "workflow_steps": [
+          "Assess risk indicators",
+          "Document current status",
+          "Compare against thresholds",
+          "Determine escalation need",
+          "Implement response actions"
+        ]
+      }
+    ],
+    "mitigation_workflows": [],
+    "escalation_procedures": [
+      {
+        "escalation_level": "Level 1 - Routine Issues",
+        "triggers": [
+          "Minor schedule delays",
+          "Quality concerns"
+        ],
+        "response_team": [
+          "Researcher",
+          "Supervisor"
+        ],
+        "response_time": "Within 24 hours",
+        "workflow": [
+          "Researcher identifies issue",
+          "Consult with supervisor",
+          "Implement immediate response",
+          "Document resolution"
+        ]
+      },
+      {
+        "escalation_level": "Level 2 - Significant Issues",
+        "triggers": [
+          "Major timeline impact",
+          "Scope changes"
+        ],
+        "response_team": [
+          "Researcher",
+          "Supervisor",
+          "Program coordinator"
+        ],
+        "response_time": "Within 48 hours",
+        "workflow": [
+          "Formal issue documentation",
+          "Stakeholder consultation",
+          "Develop response plan",
+          "Implement with monitoring",
+          "Formal resolution report"
+        ]
+      },
+      {
+        "escalation_level": "Level 3 - Critical Issues",
+        "triggers": [
+          "Project viability threat",
+          "Fundamental methodology issues"
+        ],
+        "response_team": [
+          "Full academic committee"
+        ],
+        "response_time": "Within 72 hours",
+        "workflow": [
+          "Emergency committee convening",
+          "Comprehensive issue assessment",
+          "Alternative strategy development",
+          "Formal approval process",
+          "Implementation with close monitoring"
+        ]
+      }
+    ],
+    "contingency_workflows": [
+      {
+        "contingency_id": "C1",
+        "mitigation_strategy": "Regular supervisor meetings to ensure quality is maintained",
+        "trigger_conditions": [
+          "Risk threshold exceeded",
+          "Mitigation strategy insufficient"
+        ],
+        "workflow_steps": [
+          "Activate contingency protocol",
+          "Assess current project state",
+          "Implement contingency measures",
+          "Adjust project parameters",
+          "Communicate changes to stakeholders",
+          "Monitor contingency effectiveness"
+        ]
+      },
+      {
+        "contingency_id": "C2",
+        "mitigation_strategy": "Early validation checkpoints to catch issues quickly",
+        "trigger_conditions": [
+          "Risk threshold exceeded",
+          "Mitigation strategy insufficient"
+        ],
+        "workflow_steps": [
+          "Activate contingency protocol",
+          "Assess current project state",
+          "Implement contingency measures",
+          "Adjust project parameters",
+          "Communicate changes to stakeholders",
+          "Monitor contingency effectiveness"
+        ]
+      },
+      {
+        "contingency_id": "C3",
+        "mitigation_strategy": "Flexible scope adjustment mechanisms",
+        "trigger_conditions": [
+          "Risk threshold exceeded",
+          "Mitigation strategy insufficient"
+        ],
+        "workflow_steps": [
+          "Activate contingency protocol",
+          "Assess current project state",
+          "Implement contingency measures",
+          "Adjust project parameters",
+          "Communicate changes to stakeholders",
+          "Monitor contingency effectiveness"
+        ]
+      },
+      {
+        "contingency_id": "C4",
+        "mitigation_strategy": "Continuous integration to prevent late-stage integration issues",
+        "trigger_conditions": [
+          "Risk threshold exceeded",
+          "Mitigation strategy insufficient"
+        ],
+        "workflow_steps": [
+          "Activate contingency protocol",
+          "Assess current project state",
+          "Implement contingency measures",
+          "Adjust project parameters",
+          "Communicate changes to stakeholders",
+          "Monitor contingency effectiveness"
+        ]
+      }
+    ]
+  },
+  "mermaid_diagrams": {
+    "high_level_workflow": "graph TD\n    P1[\"Phase 1: Systematic Literature Review<br/>Systematic Literature Review Methodology<br/>6 weeks\"]\n    P2[\"Phase 2: Comparative Framework Development<br/>Comparative Research Methodology<br/>8 weeks\"]\n    P3[\"Phase 3: Proof of Concept<br/>Rapid Prototyping<br/>4 weeks\"]\n    P1 --> P2\n    P2 --> P3\n    D1{Literature Review Scope Decision}\n    D2{Comparative Framework Validation}\n    D3{Prototype Validation Decision}\n    G1[(\"Phase 1-2 Integration\")]\n    G2[(\"Phase 2-3 Integration\")]",
+    "detailed_workflow": "graph LR\n    subgraph AC1 [\"Phase 1: Systematic Literature Review\"]\n        A1.1[\"Search_strategy_refi<br/>0.5 weeks\"]\n        A1.2[\"Database_searches_an<br/>2 weeks\"]\n        A1.1 --> A1.2\n        A1.3[\"Full-text_review_and<br/>2 weeks\"]\n        A1.2 --> A1.3\n        A1.4[\"Protocol_composition<br/>1 weeks\"]\n        A1.3 --> A1.4\n        A1.5[\"Literature_synthesis<br/>1 weeks\"]\n        A1.4 --> A1.5\n    end\n    subgraph AC2 [\"Phase 2: Comparative Framework Development\"]\n        A2.1[\"Framework_design_and<br/>1.5 weeks\"]\n        A2.2[\"ACP_protocol_analysi<br/>2 weeks\"]\n        A2.1 --> A2.2\n        A2.3[\"A2A_protocol_analysi<br/>2 weeks\"]\n        A2.2 --> A2.3\n        A2.4[\"Comparative_evaluati<br/>1.5 weeks\"]\n        A2.3 --> A2.4\n        A2.5[\"Integration_pattern_<br/>1 weeks\"]\n        A2.4 --> A2.5\n    end\n    subgraph AC3 [\"Phase 3: Proof of Concept\"]\n        A3.1[\"Prototype_design_and<br/>0.5 weeks\"]\n        A3.2[\"Core_protocol_integr<br/>2 weeks\"]\n        A3.1 --> A3.2\n        A3.3[\"Testing_and_validati<br/>1 weeks\"]\n        A3.2 --> A3.3\n        A3.4[\"Documentation_and_ev<br/>0.5 weeks\"]\n        A3.3 --> A3.4\n        A3.5[\"Integration_with_pre<br/>0.5 weeks\"]\n        A3.4 --> A3.5\n    end",
+    "risk_management": "graph TD\n    START([Project Start]) --> MONITOR[Risk Monitoring]\n    MONITOR --> ASSESS{Risk Assessment}\n    ASSESS -->|Low Risk| CONTINUE[Continue Normal Process]\n    ASSESS -->|Medium Risk| MITIGATE[Implement Mitigation]\n    ASSESS -->|High Risk| ESCALATE[Escalate to Committee]\n    MITIGATE --> MONITOR\n    ESCALATE --> CONTINGENCY[Activate Contingency]\n    CONTINGENCY --> MONITOR\n    CONTINUE --> MONITOR"
+  }
+}
