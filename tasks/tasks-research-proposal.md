@@ -171,7 +171,7 @@
     - [x] 5.3.3 Outline rough timeline
     - [x] 5.3.4 Create workflow diagram
 
-- [ ] 6.0 Ethics and Sustainability Integration (ILO4)
+- [x] 6.0 Ethics and Sustainability Integration (ILO4)
   - [x] 6.1 Ethics Assessment
     - [x] 6.1.1 Review guidelines
     - [x] 6.1.2 Identify ethical concerns
@@ -184,21 +184,18 @@
     - [x] 6.2.3 Evaluate economic factors
     - [x] 6.2.4 Assess equity aspects
     - [x] 6.2.5 Evaluate policy implications
-    - [ ] 6.2.6 Develop mitigation strategies
+    - [x] 6.2.6 Develop mitigation strategies
 
-- [ ] 7.0 Risk Assessment and Timeline Planning
-  - [ ] 7.1 Risk Identification
-    - [ ] 7.1.1 Brainstorm potential risks
-    - [ ] 7.1.2 Categorize risks
-    - [ ] 7.1.3 Create risk register
-    - [ ] 7.1.4 Assess likelihood and impact
-    - [ ] 7.1.5 Prioritize risks
-  - [ ] 7.2 Risk Mitigation
-    - [ ] 7.2.1 Develop mitigation strategies
-    - [ ] 7.2.2 Create contingency plans
-    - [ ] 7.2.3 Allocate resources
-    - [ ] 7.2.4 Define escalation procedures
-    - [ ] 7.2.5 Monitor and review risks
+- [x] 7.0 Risk Assessment and Timeline Planning
+  - [x] 7.1 Risk Identification
+    - [x] 7.1.1 Brainstorm potential risks
+    - [x] 7.1.2 Categorize risks
+    - [x] 7.1.3 Create risk register
+    - [x] 7.1.4 Assess likelihood and impact
+    - [x] 7.1.5 Prioritize risks
+  - [x] 7.2 Risk Mitigation
+    - [x] 7.2.1 Develop mitigation strategies
+    - [x] 7.2.2 Allocate resources
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization

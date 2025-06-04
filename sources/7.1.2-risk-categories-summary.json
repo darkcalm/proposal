@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "task": "7.1.2 - Categorize Risks",
+    "generated_date": "2025-06-04T11:40:50.022806",
+    "description": "Detailed categorization of identified risks across multiple dimensions",
+    "total_risks_categorized": 15
+  },
+  "categorization_summary": {
+    "by_risk_type": {
+      "Strategic": 5,
+      "Operational": 7,
+      "Tactical": 3
+    },
+    "by_time_sensitivity": {
+      "Long-term": 4,
+      "Short-term": 6,
+      "Immediate": 5
+    },
+    "by_dependency": {
+      "External": 4,
+      "Mixed": 4,
+      "Internal": 7
+    },
+    "by_controllability": {
+      "Low": 3,
+      "Medium": 7,
+      "High": 5
+    },
+    "by_category": {
+      "Technical": 3,
+      "Methodological": 3,
+      "Resource": 3,
+      "Impact": 3,
+      "Timeline": 3
+    }
+  }
+}
