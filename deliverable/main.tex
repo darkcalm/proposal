@@ -66,7 +66,7 @@
 \newcommand{\studentone}{Student Name 1}
 \newcommand{\studenttwo}{Student Name 2}
 \newcommand{\studentthree}{Student Name 3}
-\newcommand{\projecttitle}{Agent Communication Protocols for Human Expertise Coordination in Distributed Energy Resource Operations}
+\newcommand{\projecttitle}{Agent Protocol Primitives for Digital Twins of Human Operators in Distributed Energy Resource Systems}
 \newcommand{\submissiondate}{May 28, 2025}
 \newcommand{\emdash}{\textemdash}
 
@@ -105,7 +105,7 @@
 \textbf{Abstract} \\
 \vspace{2mm}
 \begin{minipage}{0.8\textwidth}
-\textbf{Abstract:} This research investigates how emerging agent communication protocols\emdash{}specifically the Model Context Protocol (MCP), Agent Communication Protocol (ACP), and Agent-to-Agent Protocol (A2A)\emdash{}can be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins (HDTs). The study addresses critical operational challenges in Distributed Energy Resource (DER) management, including communication gaps, coordination difficulties, and the need to preserve and scale human expertise in increasingly automated environments. Through a systematic literature review and comparative framework development, this research proposes a novel approach to modeling human operational expertise within protocol-enabled digital twins, enabling more effective operational knowledge coordination across distributed energy systems. The expected contributions include a validated framework for Human DER Worker Digital Twins, insights into protocol composition for multi-agent coordination, and practical guidelines for implementing human-centric digital twins in energy system operations.
+\textbf{Abstract:} This research investigates how emerging agent protocol primitives\emdash{}specifically the Model Context Protocol (MCP), Agent Communication Protocol (ACP), and Agent-to-Agent Protocol (A2A)\emdash{}can be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins (HDTs). The study addresses critical operational challenges in Distributed Energy Resource (DER) management, including communication gaps, coordination difficulties, and the need to preserve and scale human expertise in increasingly automated environments. Through a systematic literature review and comparative framework development, this research proposes a novel approach to modeling human operational expertise within protocol-enabled digital twins, potentially enabling more effective operational knowledge management across distributed energy systems. The expected contributions include a validated framework for Human DER Worker Digital Twins, insights into protocol composition for multi-agent coordination, and practical guidelines for implementing human-centric digital twins in energy system operations.
 \end{minipage}
 
 \end{center}
@@ -138,7 +138,7 @@ A systematic literature review across four domains\emdash{}human factors in ener
 
 \textbf{Digital Twin Technology in Energy Systems:} The application of Digital Twin technology in energy systems has shown promising results for system optimization and operational coordination \cite{10.1016/j.esr.2024.101334}. However, existing implementations focus primarily on physical asset modeling rather than capturing human operational patterns and expertise. Recent reviews identify the need for "Human Digital Twins" that can model operator behavior and decision-making processes \cite{10.1109/ETFA61755.2024.10711109}.
 
-\textbf{Agent Communication Protocols:} Emerging agent communication protocols, particularly MCP, ACP, and A2A, offer new possibilities for distributed coordination and knowledge sharing \cite{10.5220/0001894702000205}. These protocols enable more sophisticated multi-agent interactions than traditional approaches, supporting complex negotiation, resource sharing, and collaborative problem-solving patterns essential for DER coordination.
+\textbf{Agent Protocol Primitives:} Emerging agent protocol primitives, particularly MCP, ACP, and A2A, offer new possibilities for distributed coordination and knowledge sharing \cite{10.5220/0001894702000205}. These protocols enable more sophisticated multi-agent interactions than traditional approaches, supporting complex negotiation, resource sharing, and collaborative problem-solving patterns essential for DER coordination.
 
 \subsection{Research Gap Identification}
 
@@ -146,7 +146,7 @@ The literature synthesis reveals three critical gaps that this research addresse
 
 \textbf{Theoretical Gap:} Current Digital Twin frameworks lack comprehensive models for representing human expertise within protocol-enabled environments. While Digital Twins excel at modeling physical systems, they fail to capture the tacit knowledge, adaptive reasoning, and contextual decision-making that human experts bring to DER operations.
 
-\textbf{Methodological Gap:} Existing agent communication protocols have not been systematically evaluated for their effectiveness in modeling and preserving human operational expertise. The lack of standardized approaches for integrating human knowledge patterns within agent-based systems limits the development of more effective human-AI collaboration models.
+\textbf{Methodological Gap:} Existing agent protocol primitives have not been systematically evaluated for their effectiveness in modeling and preserving human operational expertise. The lack of standardized approaches for integrating human knowledge patterns within agent-based systems limits the development of more effective human-AI collaboration models.
 
 \textbf{Practical Gap:} The DER industry lacks validated frameworks for creating Human DER Worker Digital Twins that can scale human expertise across distributed operations while maintaining the adaptability and contextual awareness that makes human experts valuable.
 
@@ -157,25 +157,25 @@ These gaps represent a significant barrier to realizing the full potential of DE
 
 \subsection{Overall Research Aim}
 
-This research aims to develop and validate a framework for creating Human DER Worker Digital Twins (HDTs) using agent communication protocols to effectively model, preserve, and scale human expertise in Distributed Energy Resource management and operational coordination.
+This research aims to develop and validate a framework for creating Human DER Worker Digital Twins (HDTs) using agent protocol primitives to effectively model, preserve, and scale human expertise in Distributed Energy Resource management operations.
 
 \subsection{Specific Research Objectives}
 
 \textbf{Objective 1:} Identify and structure the essential components of Human DER Worker operational expertise\emdash{}including tools, knowledge resources, and communication patterns\emdash{}that can be effectively represented within an HDT framework using agent protocol primitives.
 
-\textbf{Objective 2:} Design and evaluate protocol-enabled HDT architectures that can model various Human DER Worker coordination patterns while maintaining dynamic interaction with both application and evaluation contexts.
+\textbf{Objective 2:} Design and evaluate protocol-enabled HDT architectures that can model various Human DER Worker expertise patterns within specific DER Application Contexts such as operational knowledge management and stakeholder interaction.
 
 \textbf{Objective 3:} Develop a comprehensive evaluation framework for assessing HDT effectiveness across technical efficacy, representation fidelity, and human factors dimensions.
 
 \subsection{Primary Research Questions}
 
-\textbf{Overarching Research Question (ORQ):} How can agent communication protocols (specifically MCP, ACP, and A2A) be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins that effectively model, preserve, and scale human expertise, thereby addressing operational challenges such as communication gaps, improving decision support in highly automated environments, and enhancing the coordination and operational knowledge management of Distributed Energy Resources?
+\textbf{Overarching Research Question (ORQ):} How can agent protocol primitives (specifically MCP, ACP, and A2A) be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins that effectively model, preserve, and scale human expertise, potentially addressing operational challenges such as communication gaps, improving decision support in highly automated environments, and enhancing operational knowledge management of Distributed Energy Resources?
 
 \textbf{Specific Research Questions:}
 
 \textbf{SRQ1:} What are the essential components of a Human DER Worker's operational expertise that can be effectively identified, structured, and represented within an HDT framework using agent protocol primitives?
 
-\textbf{SRQ2:} How can different agent protocol architectures be effectively mapped and implemented to model various Human DER Worker coordination models within specific DER Application Contexts such as operational knowledge management and stakeholder coordination?
+\textbf{SRQ2:} How can different agent protocol architectures be effectively mapped and implemented to model various Human DER Worker expertise patterns within specific DER Application Contexts such as operational knowledge management and stakeholder interaction?
 
 \textbf{SRQ3:} What multi-faceted evaluation framework is required to assess the impact of HDT integration on DER operations, and how does performance feedback contribute to refining HDT representations?
 
@@ -188,7 +188,7 @@ This research is bounded by the following parameters:
 
 \textbf{Protocol Focus:} The analysis and conceptual design will be strictly limited to the application and adaptation of MCP, ACP, and A2A protocols. Other agent protocols or general communication standards will not be explored in detail.
 
-\textbf{Use Case Specificity:} The research focuses solely on the operational knowledge coordination use case for DERs. Applications in other DER functions such as energy trading or grid stability services are outside the scope.
+\textbf{Use Case Specificity:} The research focuses solely on modeling human operational expertise for DERs through digital twins. Applications in other DER functions such as energy trading or grid stability services are outside the scope.
 
 \textbf{Framework Development:} The research will develop a structured framework for HDT creation and evaluation rather than building fully operational software systems.
 
@@ -209,7 +209,7 @@ The theoretical framework is structured around four interrelated concepts operat
 
 \textbf{Human DER Worker (Tools/Resources/Prompts):} The fundamental human element encompassing comprehensive expertise, operational tools (SCADA interfaces, diagnostic equipment), knowledge resources (technical manuals, historical data, regulatory frameworks), and communication patterns (SOPs, reporting formats, escalation pathways). Current literature reveals significant gaps in representing human cognitive processes and tacit knowledge within protocol-enabled environments, with 105 instances highlighting inadequate formalization approaches for the implicit understanding that makes human experts effective in complex operational contexts.
 
-\textbf{Application Context (DER Operational Knowledge Management \& Coordination):} The operational environment where DER systems require coordination, expertise preservation, and knowledge transfer across distributed locations and stakeholders, characterized by distributed system complexity and real-world operational constraints.
+\textbf{Application Context (DER Operational Knowledge Management):} The operational environment where DER systems require expertise preservation and knowledge transfer across distributed locations and stakeholders, characterized by distributed system complexity and real-world operational constraints.
 
 \textbf{Digital Twin Worker (Tool Access/Knowledge/Communications):} An agent-based software system that models and replicates human DER worker capabilities through structured protocols, featuring tool access layers, AI-driven knowledge management, and standardized communication protocols built using MCP, A2A, and domain-specific protocols. Literature analysis of 832 instances reveals that existing Digital Twin frameworks focus predominantly on physical asset modeling, with limited theoretical development for integrating human behavioral modeling with technical system representations.
 
@@ -217,7 +217,7 @@ The theoretical framework is structured around four interrelated concepts operat
 
 \subsection{Framework Integration and Theoretical Contributions}
 
-The four core concepts operate within a structured interaction model where Human-Centric Reality provides foundational expertise, Protocol-Enabled Digital Twins model and augment human capabilities, bidirectional relationships ensure continuous learning and refinement, and evaluation frameworks validate effectiveness and drive iterative improvement. This framework addresses identified theoretical gaps in agent protocol composition for human-centric coordination and dynamic human-AI collaboration models, providing theoretical foundations for protocol architecture design that consider human expertise modeling requirements and bidirectional learning mechanisms between human experts and their digital twin representations.
+The four core concepts operate within a structured interaction model where Human-Centric Reality provides foundational expertise, Protocol-Enabled Digital Twins model and augment human capabilities, bidirectional relationships ensure continuous learning and refinement, and evaluation frameworks validate effectiveness and drive iterative improvement. This framework addresses identified theoretical gaps in agent protocol composition for human expertise modeling and dynamic human-AI collaboration models, providing theoretical foundations for protocol architecture design that consider human expertise modeling requirements and bidirectional learning mechanisms between human experts and their digital twin representations.
 
 \section{Research Methodology}
 \label{sec:methodology}
@@ -226,7 +226,7 @@ The four core concepts operate within a structured interaction model where Human
 
 Based on comprehensive feasibility analysis and systematic identification of methodological limitations across 17 instances in current HDT-related research, this research employs a multi-phase methodology combining systematic literature review, comparative framework development, and rapid prototyping approaches. This methodology directly addresses critical gaps in current research practices, particularly inadequate validation frameworks for human-centric digital twins (8 instances), limited integration of multi-disciplinary methodologies (4 instances), and insufficient real-world operational context integration.
 
-\textbf{Phase 1: Systematic Literature Review (6-8 weeks):} Systematic analysis of protocol composition patterns and integration approaches, focusing on agent communication protocols in DER contexts and human expertise modeling techniques. This phase addresses the identified limitation of limited integration of multi-disciplinary methodologies by ensuring comprehensive integration across human factors engineering, agent systems research, digital twin technology, and energy systems management domains.
+\textbf{Phase 1: Systematic Literature Review (6-8 weeks):} Systematic analysis of protocol composition patterns and integration approaches, focusing on agent protocol primitives in DER contexts and human expertise modeling techniques. This phase addresses the identified limitation of limited integration of multi-disciplinary methodologies by ensuring comprehensive integration across human factors engineering, agent systems research, digital twin technology, and energy systems management domains.
 
 \textbf{Phase 2: Comparative Framework Development (8-10 weeks):} Comparative analysis of MCP, ACP, and A2A protocols for HDT implementation, developing architectural frameworks that map protocol capabilities to human expertise components, and creating detailed integration guidelines. This phase specifically addresses the gap in protocol composition evaluation methods, providing systematic methodology for evaluating multi-protocol agent architectures in human-centric applications.
 
@@ -305,7 +305,7 @@ Methodology validation addresses identified limitations through multi-disciplina
 
 \subsection{Anticipated Outcomes}
 
-\textbf{Theoretical Contributions:} A validated framework for Human DER Worker Digital Twins that bridges human expertise modeling and agent communication protocols, providing novel insights into protocol composition for multi-agent coordination in energy systems.
+\textbf{Theoretical Contributions:} A validated framework for Human DER Worker Digital Twins that bridges human expertise modeling and agent protocol primitives, providing novel insights into protocol composition for multi-agent coordination in energy systems.
 
 \textbf{Methodological Contributions:} Systematic methodology for evaluating agent protocols in human expertise modeling contexts, including validation criteria and implementation guidelines for HDT development.
 
@@ -315,7 +315,7 @@ Methodology validation addresses identified limitations through multi-disciplina
 
 The research is expected to advance both theoretical understanding and practical implementation of human-centered digital twins in energy systems. The framework will provide a foundation for future research in human-AI collaboration while offering immediate practical value for DER operators seeking to scale expertise across distributed operations.
 
-The integration of agent communication protocols with Digital Twin technology represents a novel approach to addressing the human-technology integration challenges that limit the effectiveness of current DER coordination systems. This research contributes to the broader goal of sustainable energy transition by improving the operational efficiency and reliability of distributed renewable energy systems.
+The integration of agent protocol primitives with Digital Twin technology represents a novel approach to addressing the challenge of preserving and scaling human expertise in energy systems. This research contributes to the broader goal of sustainable energy transition by developing frameworks that could improve the operational efficiency and reliability of distributed renewable energy systems through better preservation of human operational knowledge.
 
 % Bibliography
 \printbibliography
@@ -325,7 +325,7 @@ The integration of agent communication protocols with Digital Twin technology re
 \label{sec:contributions}
 
 \subsection*{Student Name 1}
-Led the systematic literature review phase, including development of search strategies, database screening protocols, and literature synthesis. Responsible for identifying and analyzing agent communication protocol literature, establishing relevance criteria, and conducting gap analysis across human factors and energy systems domains.
+Led the systematic literature review phase, including development of search strategies, database screening protocols, and literature synthesis. Responsible for identifying and analyzing agent protocol primitive literature, establishing relevance criteria, and conducting gap analysis across human factors and energy systems domains.
 
 \subsection*{Student Name 2}
 Coordinated the theoretical framework development, including conceptual model design, relationship mapping, and visual representation creation. Managed the methodology selection process, conducted feasibility analysis of research approaches, and developed the research question refinement strategy.

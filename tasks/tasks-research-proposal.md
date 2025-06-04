@@ -203,7 +203,7 @@
     - [x] 8.1.3 Incorporate visual planning
     - [x] 8.1.4 List all potential citations
     - [x] 8.1.5 Develop first draft for sections
-    - [ ] 8.1.6 Ensure consistent formatting
+    - [ ] 8.1.6 Ensure draft consistent with intent
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
     - [ ] 8.2.2 Validate ILO compliance
