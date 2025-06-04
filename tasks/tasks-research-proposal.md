@@ -153,7 +153,7 @@
     - [x] 4.3.6 Document practical needs
     - [x] 4.3.7 Formulate gap statement
 
-- [ ] 5.0 Methodology Development (ILO3)
+- [x] 5.0 Methodology Development (ILO3)
   - [x] 5.1 Methodology Research
     - [x] 5.1.1 Identify relevant methodologies
     - [x] 5.1.2 Document quantitative approaches
@@ -172,18 +172,18 @@
     - [x] 5.3.4 Create workflow diagram
 
 - [ ] 6.0 Ethics and Sustainability Integration (ILO4)
-  - [ ] 6.1 Ethics Assessment
-    - [ ] 6.1.1 Review guidelines
-    - [ ] 6.1.2 Identify ethical concerns
-    - [ ] 6.1.3 Address data privacy
-    - [ ] 6.1.4 Consider consent requirements
-    - [ ] 6.1.5 Document approval needs
-  - [ ] 6.2 Sustainability Analysis
-    - [ ] 6.2.1 Map environmental aspects
-    - [ ] 6.2.2 Analyze social impacts
-    - [ ] 6.2.3 Evaluate economic factors
-    - [ ] 6.2.4 Assess equity aspects
-    - [ ] 6.2.5 Evaluate policy implications
+  - [x] 6.1 Ethics Assessment
+    - [x] 6.1.1 Review guidelines
+    - [x] 6.1.2 Identify ethical concerns
+    - [x] 6.1.3 Address data privacy
+    - [x] 6.1.4 Consider consent requirements
+    - [x] 6.1.5 Document approval needs
+  - [x] 6.2 Sustainability Analysis
+    - [x] 6.2.1 Map environmental aspects
+    - [x] 6.2.2 Analyze social impacts
+    - [x] 6.2.3 Evaluate economic factors
+    - [x] 6.2.4 Assess equity aspects
+    - [x] 6.2.5 Evaluate policy implications
     - [ ] 6.2.6 Develop mitigation strategies
 
 - [ ] 7.0 Risk Assessment and Timeline Planning
@@ -202,27 +202,16 @@
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [ ] 8.1 Document Finalization
-    - [ ] 8.1.1 Write focused introduction
-    - [ ] 8.1.2 Develop problem context
-    - [ ] 8.1.3 Create targeted literature review
-    - [ ] 8.1.4 Link to research gaps
-    - [ ] 8.1.5 Integrate other sections
-    - [ ] 8.1.6 Ensure consistent formatting
-    - [ ] 8.1.7 Verify all citations
-    - [ ] 8.1.8 Check word count
-    - [ ] 8.1.9 Proofread entire document
+    - [ ] 8.1.1 Allocate word count for sections
+    - [ ] 8.1.2 Map main references for sections
+    - [ ] 8.1.3 Develop first draft for sections
+    - [ ] 8.1.4 Verify all citations
+    - [ ] 8.1.5 Ensure consistent formatting
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
     - [ ] 8.2.2 Validate ILO compliance
     - [ ] 8.2.3 Cross-check deliverables
-    - [ ] 8.2.4 Final supervisor review
-    - [ ] 8.2.5 Implement final feedback
+    - [ ] 8.2.4 Proofread entire document
   - [ ] 8.3 Submission Preparation
     - [ ] 8.3.1 Prepare final PDF
-    - [ ] 8.3.2 Compile supporting documents
-    - [ ] 8.3.3 Submit by deadline
-  - [ ] 8.4 Individual Reflection
-    - [ ] 8.4.1 Document personal contribution
-    - [ ] 8.4.2 Suggest improvements
-    - [ ] 8.4.3 Review against requirements
-    - [ ] 8.4.4 Submit by deadline 
+    - [ ] 8.3.2 Submit by deadline

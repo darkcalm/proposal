@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "task": "6.1.4 - Consider Consent Requirements",
+    "timestamp": "2025-06-04T09:56:44.636890",
+    "context": "Comprehensive consent management framework for ACP vs A2A research",
+    "input_sources": [
+      "6.1.3-data-privacy-framework.json",
+      "6.1.2-ethical-concerns-analysis.json"
+    ]
+  },
+  "consent_analysis": {
+    "gdpr_consent_assessment": {
+      "consent_definition": "GDPR Article 4(11): freely given, specific, informed and unambiguous indication of agreement",
+      "consent_criteria": {
+        "freely_given": {
+          "requirement": "No coercion, conditioning, or significant imbalance",
+          "research_application": "Participation in research must be voluntary without academic or economic pressure",
+          "implementation": "Clear statement that participation is optional, no academic consequences"
+        },
+        "specific": {
+          "requirement": "Consent for specific processing purposes",
+          "research_application": "Separate consent for each research activity and data type",
+          "implementation": "Granular consent options for different data collection activities"
+        },
+        "informed": {
+          "requirement": "Clear information about processing before consent",
+          "research_application": "Comprehensive information about research purposes, data use, and rights",
+          "implementation": "Detailed consent information sheet with plain language explanations"
+        },
+        "unambiguous": {
+          "requirement": "Clear affirmative action indicating agreement",
+          "research_application": "Active opt-in mechanisms, no pre-ticked boxes",
+          "implementation": "Explicit consent checkboxes and digital signatures"
+        }
+      },
+      "withdrawal_requirements": {
+        "ease_of_withdrawal": "Withdrawal must be as easy as giving consent",
+        "ongoing_effect": "Withdrawal affects future processing, not lawful past processing",
+        "implementation": "One-click withdrawal mechanisms, clear withdrawal procedures"
+      }
+    },
+    "research_ethics_consent": {
+      "informed_consent_elements": {
+        "research_purpose": "Clear explanation of research objectives and significance",
+        "procedures": "Detailed description of what participation involves",
+        "risks_and_benefits": "Comprehensive risk-benefit analysis",
+        "confidentiality": "Data protection and anonymization procedures",
+        "voluntary_participation": "Right to refuse or withdraw without penalty",
+        "contact_information": "Researcher and ethics committee contact details"
+      },
+      "special_populations": {
+        "vulnerable_groups": "Additional protections for elderly, disabled, or economically disadvantaged participants",
+        "capacity_assessment": "Procedures to assess decision-making capacity",
+        "proxy_consent": "Conditions under which proxy consent may be acceptable"
+      }
+    },
+    "consent_by_data_type": {
+      "personal_data": {
+        "category": "Personal Data (GDPR Art. 4)",
+        "consent_requirements": [
+          {
+            "data_type": "Energy consumption patterns",
+            "sensitivity": "High",
+            "consent_type": "Explicit consent required",
+            "consent_specificity": "Specific consent for each processing purpose",
+            "special_requirements": [
+              "Enhanced information provision",
+              "Clear explanation of privacy risks",
+              "Granular consent options",
+              "Easy withdrawal mechanisms"
+            ]
+          },
+          {
+            "data_type": "Device operation data",
+            "sensitivity": "Medium",
+            "consent_type": "Informed consent recommended",
+            "consent_specificity": "General consent with specific information",
+            "special_requirements": [
+              "Clear purpose explanation",
+              "Data protection measures described",
+              "Withdrawal options provided"
+            ]
+          },
+          {
+            "data_type": "Location and property data",
+            "sensitivity": "High",
+            "consent_type": "Explicit consent required",
+            "consent_specificity": "Specific consent for each processing purpose",
+            "special_requirements": [
+              "Enhanced information provision",
+              "Clear explanation of privacy risks",
+              "Granular consent options",
+              "Easy withdrawal mechanisms"
+            ]
+          }
+        ]
+      },
+      "quasi_personal_data": {
+        "category": "Quasi-Personal Data",
+        "consent_requirements": [
+          {
+            "data_type": "Communication metadata",
+            "sensitivity": "Medium",
+            "consent_type": "Informed consent recommended",
+            "consent_specificity": "General consent with specific information",
+            "special_requirements": [
+              "Clear purpose explanation",
+              "Data protection measures described",
+              "Withdrawal options provided"
+            ]
+          },
+          {
+            "data_type": "Aggregated energy data",
+            "sensitivity": "Low-Medium",
+            "consent_type": "Information notice sufficient",
+            "consent_specificity": "General information about processing",
+            "special_requirements": [
+              "Basic processing information",
+              "Contact details for queries"
+            ]
+          }
+        ]
+      },
+      "technical_data": {
+        "category": "Technical and System Data",
+        "consent_requirements": [
+          {
+            "data_type": "Protocol performance metrics",
+            "sensitivity": "Low",
+            "consent_type": "Information notice sufficient",
+            "consent_specificity": "General information about processing",
+            "special_requirements": [
+              "Basic processing information",
+              "Contact details for queries"
+            ]
+          },
+          {
+            "data_type": "System configuration data",
+            "sensitivity": "Low",
+            "consent_type": "Information notice sufficient",
+            "consent_specificity": "General information about processing",
+            "special_requirements": [
+              "Basic processing information",
+              "Contact details for queries"
+            ]
+          }
+        ]
+      }
+    },
+    "consent_by_research_phase": {},
+    "special_consent_considerations": {}
+  },
+  "consent_system": {
+    "system_overview": {
+      "purpose": "Comprehensive consent management for ACP/A2A research",
+      "scope": "All research phases requiring data collection",
+      "compliance": "GDPR, research ethics, institutional requirements"
+    },
+    "consent_collection_framework": {
+      "multi_tier_consent": {
+        "tier_1_basic": {
+          "scope": "General research participation",
+          "data_covered": "Non-personal technical data, anonymized performance metrics",
+          "consent_mechanism": "Online consent form with basic information",
+          "withdrawal_method": "Email request to research team"
+        },
+        "tier_2_standard": {
+          "scope": "Device operation data and communication metadata",
+          "data_covered": "Quasi-personal data with medium privacy risk",
+          "consent_mechanism": "Enhanced consent form with detailed privacy information",
+          "withdrawal_method": "Online withdrawal portal with immediate effect"
+        },
+        "tier_3_sensitive": {
+          "scope": "Energy consumption patterns and location data",
+          "data_covered": "Personal data with high privacy risk",
+          "consent_mechanism": "Explicit consent with granular options",
+          "withdrawal_method": "Multiple withdrawal channels with confirmation"
+        }
+      },
+      "phase_specific_consent": {
+        "literature_review_phase": {
+          "consent_needed": "No new consent - using published data only",
+          "information_required": "Notification of research purpose and publication intent"
+        },
+        "comparative_analysis_phase": {
+          "consent_needed": "Tier 2-3 consent for real-world data collection",
+          "information_required": "Detailed consent form with protocol comparison explanation"
+        },
+        "prototype_development_phase": {
+          "consent_needed": "Tier 3 explicit consent for live data testing",
+          "information_required": "Enhanced consent with prototype testing specifics"
+        }
+      }
+    },
+    "consent_documentation": {
+      "consent_forms": {
+        "basic_consent_form": {
+          "target_audience": "General research participants",
+          "content_sections": [
+            "Research purpose and significance",
+            "What participation involves",
+            "Data types collected",
+            "Data protection measures",
+            "Participant rights",
+            "Contact information"
+          ],
+          "length": "1-2 pages",
+          "language_level": "8th grade reading level"
+        },
+        "enhanced_consent_form": {
+          "target_audience": "Participants providing sensitive data",
+          "content_sections": [
+            "Detailed research explanation",
+            "Comprehensive data inventory",
+            "Privacy risks and protections",
+            "Rights and withdrawal procedures",
+            "Data sharing and retention",
+            "Legal basis and compliance"
+          ],
+          "length": "3-4 pages",
+          "language_level": "Clear, accessible language with technical appendix"
+        }
+      },
+      "information_sheets": {
+        "privacy_notice": "Comprehensive GDPR-compliant privacy notice",
+        "participant_rights": "Detailed explanation of data subject rights",
+        "data_protection_summary": "Plain language explanation of technical safeguards"
+      },
+      "consent_records": {
+        "digital_signatures": "Secure digital signature collection and storage",
+        "consent_timestamps": "Detailed logging of consent actions and timestamps",
+        "version_control": "Tracking of consent form versions and participant responses"
+      }
+    },
+    "consent_management_procedures": {},
+    "technology_implementation": {}
+  },
+  "implementation_plan": {
+    "implementation_phases": {
+      "phase_1_preparation": {
+        "timeline": "Weeks -2 to 0 (Pre-research)",
+        "activities": [
+          "Develop consent forms and information materials",
+          "Set up consent management technology platform",
+          "Conduct consent process testing",
+          "Train team on consent procedures",
+          "Obtain ethics committee approval for consent processes"
+        ],
+        "deliverables": [
+          "Approved consent forms",
+          "Functional consent management system",
+          "Team training completion certificates",
+          "Ethics committee consent approval"
+        ]
+      },
+      "phase_2_literature_review": {
+        "timeline": "Weeks 1-6",
+        "activities": [
+          "Implement information notices for published data use",
+          "Monitor compliance with data use terms",
+          "Prepare consent materials for next phase"
+        ],
+        "deliverables": [
+          "Published data use compliance report",
+          "Consent materials for comparative analysis phase"
+        ]
+      },
+      "phase_3_comparative_analysis": {
+        "timeline": "Weeks 7-14",
+        "activities": [
+          "Deploy Tier 2-3 consent collection",
+          "Monitor consent collection and withdrawal rates",
+          "Manage ongoing consent compliance",
+          "Conduct mid-phase consent audit"
+        ],
+        "deliverables": [
+          "Consent collection reports",
+          "Compliance monitoring dashboard",
+          "Mid-phase consent audit report"
+        ]
+      },
+      "phase_4_prototype_development": {
+        "timeline": "Weeks 15-18",
+        "activities": [
+          "Deploy enhanced consent for prototype testing",
+          "Provide additional consent information for testing",
+          "Monitor real-time consent status",
+          "Conduct final consent compliance review"
+        ],
+        "deliverables": [
+          "Prototype testing consent documentation",
+          "Real-time consent monitoring reports",
+          "Final consent compliance assessment"
+        ]
+      }
+    },
+    "technology_requirements": {
+      "consent_platform": {
+        "core_features": [
+          "Multi-tier consent collection",
+          "Digital signature capture",
+          "Consent withdrawal processing",
+          "Audit trail maintenance",
+          "Compliance reporting"
+        ],
+        "security_requirements": [
+          "End-to-end encryption",
+          "Secure data storage",
+          "Access controls",
+          "Backup and recovery"
+        ],
+        "integration_needs": [
+          "Data collection systems",
+          "Privacy management tools",
+          "Research databases",
+          "Reporting platforms"
+        ]
+      }
+    },
+    "compliance_monitoring": {},
+    "quality_assurance": {}
+  }
+}

@@ -18,7 +18,7 @@ from pathlib import Path
 
 # --- Configuration ---
 FEASIBILITY_ANALYSIS_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.4-feasibility-analysis.json"
-PERPLEXITY_DIALOGUE_INPUT = Path(__file__).resolve().parent.parent / "docs" / "5.3-dialogue-with-perplexity-Methodology Recommendation for Human DER Worker Di.md"
+PERPLEXITY_DIALOGUE_INPUT = Path(__file__).resolve().parent.parent / "sources" / "5.3-dialogue-with-perplexity-Methodology Recommendation for Human DER Worker Di.md"
 OUTPUT_DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 OUTPUT_SOURCES_DIR = Path(__file__).resolve().parent.parent / "sources"
 LOG_FILE = Path(__file__).resolve().parent / "5.3.1_justify_research_methodology.log"

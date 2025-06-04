@@ -1,0 +1,877 @@
+{
+  "metadata": {
+    "task": "6.1.3 - Address Data Privacy",
+    "timestamp": "2025-06-04T09:33:19.048963",
+    "context": "Comprehensive data privacy framework for ACP vs A2A research",
+    "input_sources": [
+      "6.1.1-ethics-guidelines-review.json",
+      "6.1.2-ethical-concerns-analysis.json"
+    ]
+  },
+  "data_taxonomy": {
+    "personal_data": {
+      "category": "Personal Data (GDPR Art. 4)",
+      "description": "Data relating to identified or identifiable natural persons",
+      "data_types": [
+        {
+          "type": "Energy consumption patterns",
+          "description": "Individual household or building energy usage over time",
+          "sensitivity": "High",
+          "identifiability": "High - can reveal occupancy patterns, lifestyle habits",
+          "sources": [
+            "Smart meters",
+            "DER monitoring systems",
+            "Building management systems"
+          ],
+          "processing_purposes": [
+            "Protocol performance evaluation",
+            "Predictive maintenance algorithm training",
+            "Communication pattern analysis"
+          ],
+          "gdpr_lawful_basis": [
+            "Consent",
+            "Legitimate interests (with balancing test)"
+          ],
+          "retention_requirements": "Limited to research completion + validation period"
+        },
+        {
+          "type": "Device operation data",
+          "description": "DER operational parameters and status information",
+          "sensitivity": "Medium",
+          "identifiability": "Medium - can be linked to specific installations",
+          "sources": [
+            "Solar inverters",
+            "Battery systems",
+            "EV chargers",
+            "Heat pumps"
+          ],
+          "processing_purposes": [
+            "Device behavior analysis",
+            "Fault detection research",
+            "Protocol optimization"
+          ],
+          "gdpr_lawful_basis": [
+            "Consent",
+            "Legitimate interests"
+          ],
+          "retention_requirements": "Research duration + 2 years for validation"
+        },
+        {
+          "type": "Location and property data",
+          "description": "Geographic location, property characteristics, installation details",
+          "sensitivity": "High",
+          "identifiability": "Very High - directly identifies premises",
+          "sources": [
+            "Installation databases",
+            "Grid connection records",
+            "Property registries"
+          ],
+          "processing_purposes": [
+            "Geographic analysis of protocol performance",
+            "Context-aware optimization research"
+          ],
+          "gdpr_lawful_basis": [
+            "Explicit consent required"
+          ],
+          "retention_requirements": "Minimized aggregation, limited retention"
+        }
+      ]
+    },
+    "quasi_personal_data": {
+      "category": "Quasi-Personal Data",
+      "description": "Data that could identify individuals when combined with other information",
+      "data_types": [
+        {
+          "type": "Communication metadata",
+          "description": "Agent-to-agent communication logs, timing, frequency",
+          "sensitivity": "Medium",
+          "identifiability": "Medium - patterns could identify specific systems",
+          "sources": [
+            "Communication protocols",
+            "Network logs",
+            "Agent systems"
+          ],
+          "processing_purposes": [
+            "Communication efficiency analysis",
+            "Protocol comparison research",
+            "Network performance evaluation"
+          ],
+          "privacy_risks": [
+            "Inference of operational patterns",
+            "Device fingerprinting",
+            "Behavioral profiling"
+          ]
+        },
+        {
+          "type": "Aggregated energy data",
+          "description": "Neighborhood or district-level energy statistics",
+          "sensitivity": "Low-Medium",
+          "identifiability": "Low - but small groups may be identifiable",
+          "sources": [
+            "Grid monitoring",
+            "Aggregated smart meter data"
+          ],
+          "processing_purposes": [
+            "System-level impact analysis",
+            "Grid stability research",
+            "Collective behavior studies"
+          ],
+          "privacy_risks": [
+            "Re-identification through correlation",
+            "Inference attacks on small groups"
+          ]
+        }
+      ]
+    },
+    "technical_data": {
+      "category": "Technical and System Data",
+      "description": "Non-personal technical information about systems and protocols",
+      "data_types": [
+        {
+          "type": "Protocol performance metrics",
+          "description": "Technical performance indicators, response times, reliability metrics",
+          "sensitivity": "Low",
+          "identifiability": "None - anonymized technical data",
+          "sources": [
+            "Protocol implementations",
+            "Testing frameworks",
+            "Simulation results"
+          ],
+          "processing_purposes": [
+            "Performance comparison",
+            "Technical optimization",
+            "Academic publication"
+          ],
+          "privacy_risks": [
+            "Minimal - no personal identifiers"
+          ]
+        },
+        {
+          "type": "System configuration data",
+          "description": "DER system specifications, capabilities, settings",
+          "sensitivity": "Low",
+          "identifiability": "None when properly anonymized",
+          "sources": [
+            "Device specifications",
+            "Configuration files",
+            "Technical documentation"
+          ],
+          "processing_purposes": [
+            "Compatibility analysis",
+            "Technical requirements research",
+            "Standard development"
+          ],
+          "privacy_risks": [
+            "Minimal when anonymized"
+          ]
+        }
+      ]
+    }
+  },
+  "data_flows": {
+    "literature_review_phase": {
+      "phase": "Literature Review and Analysis",
+      "data_interactions": [
+        {
+          "flow_id": "LR-F001",
+          "description": "Access to published datasets and case studies",
+          "data_types": [
+            "Published energy data",
+            "Anonymized case studies"
+          ],
+          "privacy_risk": "Low - already published/anonymized",
+          "controls_required": [
+            "Citation compliance",
+            "Terms of use adherence"
+          ]
+        }
+      ]
+    },
+    "comparative_analysis_phase": {
+      "phase": "Comparative Framework Development",
+      "data_interactions": [
+        {
+          "flow_id": "CA-F001",
+          "description": "Collection of real-world performance data for protocol comparison",
+          "data_types": [
+            "Energy consumption patterns",
+            "Communication metadata",
+            "Device operation data"
+          ],
+          "privacy_risk": "High - access to potentially personal data",
+          "controls_required": [
+            "DPIA",
+            "Data minimization",
+            "Anonymization",
+            "Consent management"
+          ]
+        },
+        {
+          "flow_id": "CA-F002",
+          "description": "Data sharing with external validators or reviewers",
+          "data_types": [
+            "Anonymized performance metrics",
+            "Aggregated results"
+          ],
+          "privacy_risk": "Medium - risk of re-identification",
+          "controls_required": [
+            "Data sharing agreements",
+            "Additional anonymization",
+            "Access controls"
+          ]
+        }
+      ]
+    },
+    "prototype_development_phase": {
+      "phase": "Prototype Development and Testing",
+      "data_interactions": [
+        {
+          "flow_id": "PD-F001",
+          "description": "Live data collection for prototype testing",
+          "data_types": [
+            "Real-time energy data",
+            "Communication logs",
+            "System status"
+          ],
+          "privacy_risk": "Very High - live personal data processing",
+          "controls_required": [
+            "Real-time anonymization",
+            "Secure processing",
+            "Limited retention",
+            "Participant consent"
+          ]
+        },
+        {
+          "flow_id": "PD-F002",
+          "description": "Prototype data storage and analysis",
+          "data_types": [
+            "Test results",
+            "Performance logs",
+            "Error reports"
+          ],
+          "privacy_risk": "Medium - derived from personal data",
+          "controls_required": [
+            "Encrypted storage",
+            "Access controls",
+            "Audit trails",
+            "Secure deletion"
+          ]
+        }
+      ]
+    }
+  },
+  "dpia": {
+    "dpia_metadata": {
+      "assessment_date": "2025-06-04T09:33:19.048722",
+      "assessor": "Research Team",
+      "scope": "ACP vs A2A Protocol Research Project",
+      "legal_basis": "GDPR Article 35 - high risk processing",
+      "review_date": "To be updated at each research phase"
+    },
+    "processing_overview": {
+      "controller": "University Research Institution",
+      "joint_controllers": [
+        "To be determined based on collaboration agreements"
+      ],
+      "processors": [
+        "Cloud computing providers",
+        "Data analysis platforms",
+        "Storage services"
+      ],
+      "data_subjects": [
+        "DER system owners",
+        "Energy consumers",
+        "Building occupants",
+        "System operators"
+      ],
+      "processing_purposes": [
+        "Academic research on communication protocols",
+        "Performance comparison and evaluation",
+        "Technical innovation and development",
+        "Publication and knowledge dissemination"
+      ]
+    },
+    "necessity_and_proportionality": {
+      "necessity_assessment": {
+        "research_necessity": "High - data essential for meaningful protocol comparison",
+        "data_minimization_applied": "Yes - only data necessary for research objectives",
+        "purpose_limitation": "Yes - data used only for stated research purposes",
+        "storage_limitation": "Yes - data retained only for research and validation periods"
+      },
+      "proportionality_assessment": {
+        "benefits_vs_risks": "High research and societal benefits justify privacy risks with adequate safeguards",
+        "less_intrusive_alternatives": "Explored - synthetic data insufficient for realistic protocol evaluation",
+        "stakeholder_interests": "Balanced through comprehensive safeguards and stakeholder consultation"
+      }
+    },
+    "risk_assessment": {
+      "personal_data": {
+        "category": "Personal Data (GDPR Art. 4)",
+        "risk_analyses": [
+          {
+            "data_type": "Energy consumption patterns",
+            "sensitivity_level": "High",
+            "identified_risks": [
+              {
+                "risk": "Unauthorized access to personal energy data",
+                "impact": "High - privacy violation, potential for profiling",
+                "likelihood": "Medium - with standard security measures",
+                "affected_rights": [
+                  "Privacy",
+                  "Data protection",
+                  "Non-discrimination"
+                ]
+              },
+              {
+                "risk": "Re-identification through data correlation",
+                "impact": "High - could identify individuals despite anonymization attempts",
+                "likelihood": "Medium - sophisticated attackers or data correlations",
+                "affected_rights": [
+                  "Privacy",
+                  "Anonymity"
+                ]
+              },
+              {
+                "risk": "Inference of sensitive personal information",
+                "impact": "Medium-High - lifestyle, health, financial status inference",
+                "likelihood": "High - energy patterns reveal personal information",
+                "affected_rights": [
+                  "Privacy",
+                  "Non-discrimination",
+                  "Human dignity"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Medium"
+          },
+          {
+            "data_type": "Device operation data",
+            "sensitivity_level": "Medium",
+            "identified_risks": [
+              {
+                "risk": "Device fingerprinting and tracking",
+                "impact": "Medium - could enable system identification",
+                "likelihood": "Medium - through technical characteristics",
+                "affected_rights": [
+                  "Privacy",
+                  "Anonymity"
+                ]
+              },
+              {
+                "risk": "Commercial exploitation of usage patterns",
+                "impact": "Medium - unfair commercial advantage",
+                "likelihood": "Low - with proper access controls",
+                "affected_rights": [
+                  "Fair treatment",
+                  "Economic interests"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Medium"
+          },
+          {
+            "data_type": "Location and property data",
+            "sensitivity_level": "High",
+            "identified_risks": [
+              {
+                "risk": "Unauthorized access to personal energy data",
+                "impact": "High - privacy violation, potential for profiling",
+                "likelihood": "Medium - with standard security measures",
+                "affected_rights": [
+                  "Privacy",
+                  "Data protection",
+                  "Non-discrimination"
+                ]
+              },
+              {
+                "risk": "Re-identification through data correlation",
+                "impact": "High - could identify individuals despite anonymization attempts",
+                "likelihood": "Medium - sophisticated attackers or data correlations",
+                "affected_rights": [
+                  "Privacy",
+                  "Anonymity"
+                ]
+              },
+              {
+                "risk": "Inference of sensitive personal information",
+                "impact": "Medium-High - lifestyle, health, financial status inference",
+                "likelihood": "High - energy patterns reveal personal information",
+                "affected_rights": [
+                  "Privacy",
+                  "Non-discrimination",
+                  "Human dignity"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Medium"
+          }
+        ]
+      },
+      "quasi_personal_data": {
+        "category": "Quasi-Personal Data",
+        "risk_analyses": [
+          {
+            "data_type": "Communication metadata",
+            "sensitivity_level": "Medium",
+            "identified_risks": [
+              {
+                "risk": "Device fingerprinting and tracking",
+                "impact": "Medium - could enable system identification",
+                "likelihood": "Medium - through technical characteristics",
+                "affected_rights": [
+                  "Privacy",
+                  "Anonymity"
+                ]
+              },
+              {
+                "risk": "Commercial exploitation of usage patterns",
+                "impact": "Medium - unfair commercial advantage",
+                "likelihood": "Low - with proper access controls",
+                "affected_rights": [
+                  "Fair treatment",
+                  "Economic interests"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Medium"
+          },
+          {
+            "data_type": "Aggregated energy data",
+            "sensitivity_level": "Low-Medium",
+            "identified_risks": [
+              {
+                "risk": "Aggregation and correlation risks",
+                "impact": "Low-Medium - potential for unexpected correlations",
+                "likelihood": "Low - minimal personal information",
+                "affected_rights": [
+                  "Privacy (limited)"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Low"
+          }
+        ]
+      },
+      "technical_data": {
+        "category": "Technical and System Data",
+        "risk_analyses": [
+          {
+            "data_type": "Protocol performance metrics",
+            "sensitivity_level": "Low",
+            "identified_risks": [
+              {
+                "risk": "Aggregation and correlation risks",
+                "impact": "Low-Medium - potential for unexpected correlations",
+                "likelihood": "Low - minimal personal information",
+                "affected_rights": [
+                  "Privacy (limited)"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Low"
+          },
+          {
+            "data_type": "System configuration data",
+            "sensitivity_level": "Low",
+            "identified_risks": [
+              {
+                "risk": "Aggregation and correlation risks",
+                "impact": "Low-Medium - potential for unexpected correlations",
+                "likelihood": "Low - minimal personal information",
+                "affected_rights": [
+                  "Privacy (limited)"
+                ]
+              }
+            ],
+            "impact_assessment": {},
+            "likelihood_assessment": {},
+            "overall_risk_level": "Low"
+          }
+        ]
+      }
+    },
+    "safeguards_and_measures": {},
+    "consultation_outcomes": {}
+  },
+  "safeguards_framework": {
+    "framework_overview": {
+      "approach": "Privacy by Design and by Default",
+      "principles": [
+        "Data minimization",
+        "Purpose limitation",
+        "Transparency",
+        "Security",
+        "Accountability",
+        "Rights protection"
+      ],
+      "implementation_layers": [
+        "Technical safeguards",
+        "Organizational measures",
+        "Legal protections",
+        "Procedural controls"
+      ]
+    },
+    "technical_safeguards": {
+      "data_anonymization": {
+        "technique": "Multi-layered anonymization approach",
+        "methods": [
+          {
+            "method": "Direct identifier removal",
+            "description": "Remove names, addresses, account numbers, device IDs",
+            "applicable_data": "All personal data types",
+            "effectiveness": "High for direct identification"
+          },
+          {
+            "method": "Temporal aggregation",
+            "description": "Aggregate high-resolution temporal data to reduce identifiability",
+            "applicable_data": "Energy consumption patterns, communication logs",
+            "effectiveness": "Medium-High - reduces pattern recognition"
+          },
+          {
+            "method": "Spatial aggregation",
+            "description": "Aggregate location-specific data to larger geographic areas",
+            "applicable_data": "Location and property data",
+            "effectiveness": "High when aggregation areas are sufficiently large"
+          },
+          {
+            "method": "Differential privacy",
+            "description": "Add statistical noise to prevent individual identification",
+            "applicable_data": "Aggregated energy data, performance metrics",
+            "effectiveness": "Very High with proper parameter selection"
+          },
+          {
+            "method": "K-anonymity clustering",
+            "description": "Ensure each record is indistinguishable from k-1 others",
+            "applicable_data": "Device operation data, system configurations",
+            "effectiveness": "High when k is sufficiently large"
+          }
+        ],
+        "implementation_requirements": [
+          "Anonymization algorithm validation",
+          "Re-identification risk assessment",
+          "Regular effectiveness reviews",
+          "Expert consultation on techniques"
+        ]
+      },
+      "encryption_and_security": {
+        "data_at_rest": {
+          "encryption_standard": "AES-256",
+          "key_management": "Hardware security modules (HSM) or cloud KMS",
+          "access_controls": "Role-based access with multi-factor authentication",
+          "backup_security": "Encrypted backups with separate key management"
+        },
+        "data_in_transit": {
+          "encryption_protocol": "TLS 1.3 minimum",
+          "certificate_management": "Automated certificate lifecycle management",
+          "network_security": "VPN or dedicated secure channels for sensitive data"
+        },
+        "data_in_processing": {
+          "secure_enclaves": "Use of trusted execution environments where available",
+          "memory_protection": "Secure memory allocation and cleanup",
+          "audit_logging": "Comprehensive access and processing logs"
+        }
+      },
+      "access_controls": {
+        "authentication": "Multi-factor authentication for all data access",
+        "authorization": "Principle of least privilege with role-based access",
+        "session_management": "Automatic session timeouts and secure session handling",
+        "audit_trails": "Comprehensive logging of all data access and modifications"
+      }
+    },
+    "organizational_measures": {
+      "governance_structure": {
+        "data_protection_officer": {
+          "role": "Designated DPO for research project",
+          "responsibilities": [
+            "Privacy compliance oversight",
+            "DPIA validation and updates",
+            "Data subject rights management",
+            "Incident response coordination"
+          ],
+          "qualifications": "GDPR certification and technical expertise"
+        },
+        "ethics_committee": {
+          "role": "Research ethics oversight",
+          "responsibilities": [
+            "Ethics approval for data processing",
+            "Ongoing ethics compliance monitoring",
+            "Stakeholder concern resolution"
+          ],
+          "composition": "Independent experts including privacy advocates"
+        }
+      },
+      "staff_training": {
+        "privacy_training": {
+          "frequency": "Initial training + annual updates",
+          "content": [
+            "GDPR requirements",
+            "Technical safeguards",
+            "Incident procedures"
+          ],
+          "assessment": "Training completion certification required"
+        },
+        "technical_training": {
+          "focus": "Privacy-preserving techniques and secure development",
+          "providers": "Internal experts and external privacy specialists"
+        }
+      },
+      "vendor_management": {
+        "data_processing_agreements": "GDPR-compliant DPAs with all processors",
+        "vendor_assessment": "Privacy and security assessment of all service providers",
+        "monitoring": "Regular compliance monitoring and audits"
+      }
+    },
+    "legal_protections": {
+      "lawful_basis": {
+        "primary_basis": "Legitimate interests (Article 6(1)(f))",
+        "balancing_test": "Research benefits outweigh privacy risks with adequate safeguards",
+        "consent_fallback": "Explicit consent for high-risk processing",
+        "documentation": "Legal basis assessment documented and reviewable"
+      },
+      "data_subject_rights": {
+        "information_provision": {
+          "privacy_notice": "Clear, comprehensive privacy notice in plain language",
+          "transparency": "Full disclosure of processing purposes and safeguards",
+          "contact_information": "Clear contact details for privacy queries"
+        },
+        "access_rights": {
+          "data_access": "Procedures for data subject access requests",
+          "portability": "Data export in machine-readable format where applicable",
+          "response_time": "30-day response time for requests"
+        },
+        "control_rights": {
+          "rectification": "Procedures for data correction",
+          "erasure": "Right to be forgotten implementation",
+          "restriction": "Processing restriction capabilities",
+          "objection": "Opt-out mechanisms for legitimate interests processing"
+        }
+      },
+      "international_transfers": {
+        "adequacy_decisions": "Preference for EU adequacy decision countries",
+        "standard_contractual_clauses": "EU SCCs for third country transfers",
+        "additional_safeguards": "Encryption and access controls for international transfers"
+      }
+    },
+    "procedural_controls": {
+      "data_lifecycle_management": {
+        "collection_procedures": [
+          "Pre-collection DPIA review",
+          "Data minimization checklist",
+          "Purpose specification documentation",
+          "Consent collection (where required)"
+        ],
+        "processing_procedures": [
+          "Regular processing audits",
+          "Purpose limitation monitoring",
+          "Anonymization quality checks",
+          "Access log reviews"
+        ],
+        "retention_procedures": [
+          "Automated retention period enforcement",
+          "Regular data review and deletion",
+          "Secure deletion verification",
+          "Retention schedule documentation"
+        ]
+      },
+      "incident_response": {
+        "incident_detection": "Automated monitoring and manual reporting procedures",
+        "assessment_criteria": "Risk-based incident classification",
+        "notification_requirements": "72-hour regulatory notification for high-risk breaches",
+        "remediation_procedures": "Incident containment, investigation, and resolution"
+      },
+      "monitoring_and_review": {
+        "regular_audits": "Quarterly privacy compliance audits",
+        "effectiveness_reviews": "Annual safeguards effectiveness assessment",
+        "stakeholder_feedback": "Regular consultation with data subjects and advocates",
+        "continuous_improvement": "Privacy safeguards update procedures"
+      }
+    }
+  },
+  "implementation_roadmap": {
+    "roadmap_overview": {
+      "approach": "Phased implementation aligned with research phases",
+      "timeline": "18-week research project timeline",
+      "milestone_driven": "Implementation tied to research phase gates"
+    },
+    "phase_implementations": {
+      "pre_research": {
+        "phase": "Pre-Research Preparation",
+        "timeline": "2 weeks before research commencement",
+        "critical_path": true,
+        "deliverables": [
+          {
+            "deliverable": "Complete DPIA",
+            "deadline": "Week -2",
+            "responsibility": "DPO + Research Team",
+            "dependencies": [
+              "Ethics committee approval"
+            ],
+            "acceptance_criteria": [
+              "All high-risk processing identified",
+              "Safeguards mapped to risks",
+              "Legal basis documented",
+              "Stakeholder consultation completed"
+            ]
+          },
+          {
+            "deliverable": "Privacy Safeguards Implementation",
+            "deadline": "Week -1",
+            "responsibility": "Technical Team + DPO",
+            "dependencies": [
+              "DPIA completion",
+              "Technical infrastructure"
+            ],
+            "acceptance_criteria": [
+              "Encryption systems operational",
+              "Access controls configured",
+              "Anonymization tools validated",
+              "Audit logging enabled"
+            ]
+          },
+          {
+            "deliverable": "Staff Training Completion",
+            "deadline": "Week -1",
+            "responsibility": "Project Manager",
+            "dependencies": [
+              "Training materials preparation"
+            ],
+            "acceptance_criteria": [
+              "All team members trained",
+              "Training certification obtained",
+              "Privacy procedures documented"
+            ]
+          }
+        ]
+      },
+      "literature_review": {
+        "phase": "Literature Review Phase",
+        "timeline": "Weeks 1-6",
+        "privacy_risk_level": "Low",
+        "key_activities": [
+          {
+            "activity": "Published data analysis",
+            "privacy_controls": [
+              "Citation compliance verification",
+              "Terms of use adherence",
+              "No additional personal data collection"
+            ],
+            "monitoring": "Weekly compliance checks"
+          }
+        ],
+        "deliverables": [
+          {
+            "deliverable": "Phase Privacy Report",
+            "deadline": "Week 6",
+            "content": [
+              "Data sources used and compliance status",
+              "No personal data collection confirmation",
+              "Next phase privacy preparations"
+            ]
+          }
+        ]
+      },
+      "comparative_analysis": {
+        "phase": "Comparative Analysis Phase",
+        "timeline": "Weeks 7-14",
+        "privacy_risk_level": "High",
+        "key_activities": [
+          {
+            "activity": "Real-world data collection",
+            "privacy_controls": [
+              "Consent collection (if required)",
+              "Immediate anonymization",
+              "Data minimization enforcement",
+              "Secure processing environment"
+            ],
+            "monitoring": "Daily access logs, weekly anonymization quality checks"
+          },
+          {
+            "activity": "External data sharing",
+            "privacy_controls": [
+              "Data sharing agreements",
+              "Additional anonymization",
+              "Access controls and audit trails"
+            ],
+            "monitoring": "Real-time sharing logs, monthly access reviews"
+          }
+        ],
+        "deliverables": [
+          {
+            "deliverable": "Mid-project DPIA Update",
+            "deadline": "Week 10",
+            "content": [
+              "Actual vs planned data processing",
+              "Risk reassessment",
+              "Safeguards effectiveness review"
+            ]
+          }
+        ]
+      },
+      "prototype_development": {
+        "phase": "Prototype Development Phase",
+        "timeline": "Weeks 15-18",
+        "privacy_risk_level": "Very High",
+        "key_activities": [
+          {
+            "activity": "Live data testing",
+            "privacy_controls": [
+              "Real-time anonymization",
+              "Minimal data retention",
+              "Secure testing environment",
+              "Participant agreement"
+            ],
+            "monitoring": "Continuous monitoring, daily security checks"
+          },
+          {
+            "activity": "Prototype data storage",
+            "privacy_controls": [
+              "Encrypted storage",
+              "Limited access",
+              "Automated deletion",
+              "Audit trails"
+            ],
+            "monitoring": "Real-time access monitoring, automated retention enforcement"
+          }
+        ],
+        "deliverables": [
+          {
+            "deliverable": "Final Privacy Compliance Report",
+            "deadline": "Week 18",
+            "content": [
+              "Complete privacy compliance assessment",
+              "Data deletion confirmation",
+              "Lessons learned and recommendations"
+            ]
+          }
+        ]
+      },
+      "post_research": {
+        "phase": "Post-Research Data Management",
+        "timeline": "Ongoing after research completion",
+        "key_activities": [
+          {
+            "activity": "Data retention management",
+            "privacy_controls": [
+              "Scheduled data reviews",
+              "Automated deletion procedures",
+              "Audit trail maintenance"
+            ],
+            "monitoring": "Monthly retention reviews, annual compliance audits"
+          }
+        ]
+      }
+    }
+  }
+}
