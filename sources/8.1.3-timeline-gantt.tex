@@ -1,0 +1,85 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{pgfgantt}
+\usepackage{xcolor}
+
+% Define colors for different phases
+\definecolor{phase1color}{RGB}{70,130,180}    % Steel Blue - Literature Review
+\definecolor{phase2color}{RGB}{60,179,113}    % Medium Sea Green - Comparative Framework
+\definecolor{phase3color}{RGB}{255,140,0}     % Dark Orange - Proof of Concept
+\definecolor{integcolor}{RGB}{147,112,219}    % Medium Purple - Integration points
+\definecolor{milestonecolor}{RGB}{220,20,60}  % Crimson - Milestones
+
+\begin{document}
+\begin{ganttchart}[
+    x unit=0.4cm,
+    y unit title=0.8cm,
+    y unit chart=0.6cm,
+    vgrid,
+    hgrid,
+    title height=1,
+    bar height=0.5,
+    group height=0.6,
+    milestone height=0.4,
+    title label font=\footnotesize,
+    bar label font=\scriptsize,
+    group label font=\small,
+    milestone label font=\scriptsize
+]{1}{19}
+
+% Title and weeks
+\gantttitle{Optimized Research Timeline (19 weeks)}{19} \\
+\gantttitlelist{1,...,19}{1} \\
+
+% Phase 1: Systematic Literature Review (6 weeks)
+\ganttgroup[group/.style={fill=phase1color!20}]{Phase 1: Literature Review}{1}{6} \\
+\ganttbar[bar/.style={fill=phase1color!40}]{Search strategy refinement}{1}{1} \\
+\ganttbar[bar/.style={fill=phase1color!40}]{Database searches \& screening}{2}{3} \\
+\ganttbar[bar/.style={fill=phase1color!40}]{Full-text review \& extraction}{4}{5} \\
+\ganttbar[bar/.style={fill=phase1color!40}]{Protocol pattern analysis}{6}{6} \\
+\ganttbar[bar/.style={fill=phase1color!40}]{Literature synthesis}{6}{6} \\
+
+% Integration Point 1
+\ganttmilestone[milestone/.style={fill=integcolor}]{Phase 1-2 Integration}{6} \\
+
+% Phase 2: Comparative Framework Development (8 weeks)
+\ganttgroup[group/.style={fill=phase2color!20}]{Phase 2: Comparative Framework}{7}{14} \\
+\ganttbar[bar/.style={fill=phase2color!40}]{Framework design \& validation}{7}{8} \\
+\ganttbar[bar/.style={fill=phase2color!40}]{ACP protocol analysis}{9}{10} \\
+\ganttbar[bar/.style={fill=phase2color!40}]{A2A protocol analysis}{11}{12} \\
+\ganttbar[bar/.style={fill=phase2color!40}]{Comparative evaluation}{13}{14} \\
+\ganttbar[bar/.style={fill=phase2color!40}]{Integration pattern assessment}{14}{14} \\
+
+% Integration Point 2
+\ganttmilestone[milestone/.style={fill=integcolor}]{Phase 2-3 Integration}{14} \\
+
+% Phase 3: Proof of Concept (4 weeks)
+\ganttgroup[group/.style={fill=phase3color!20}]{Phase 3: Proof of Concept}{15}{18} \\
+\ganttbar[bar/.style={fill=phase3color!40}]{Prototype design \& specification}{15}{15} \\
+\ganttbar[bar/.style={fill=phase3color!40}]{Core protocol integration dev}{16}{17} \\
+\ganttbar[bar/.style={fill=phase3color!40}]{Testing \& validation}{18}{18} \\
+\ganttbar[bar/.style={fill=phase3color!40}]{Documentation \& evaluation}{18}{18} \\
+
+% Final Integration
+\ganttmilestone[milestone/.style={fill=milestonecolor}]{Project Completion}{19} \\
+
+% Add some parallel activities with links
+\ganttlink{elem2}{elem3}
+\ganttlink{elem4}{elem5}
+\ganttlink{elem7}{elem8}
+\ganttlink{elem9}{elem10}
+\ganttlink{elem11}{elem12}
+
+\end{ganttchart}
+
+\vspace{0.5cm}
+
+% Legend
+\begin{tabular}{ll}
+\colorbox{phase1color!40}{\rule{0.5cm}{0.3cm}} & Phase 1: Systematic Literature Review \\
+\colorbox{phase2color!40}{\rule{0.5cm}{0.3cm}} & Phase 2: Comparative Framework Development \\
+\colorbox{phase3color!40}{\rule{0.5cm}{0.3cm}} & Phase 3: Proof of Concept \\
+\colorbox{integcolor}{\rule{0.5cm}{0.3cm}} & Integration Points \\
+\colorbox{milestonecolor}{\rule{0.5cm}{0.3cm}} & Major Milestones \\
+\end{tabular}
+
+\end{document}

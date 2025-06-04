@@ -200,10 +200,11 @@
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [x] 8.1 Document Finalization
     - [x] 8.1.1 Allocate word count for sections
-    - [ ] 8.1.2 Map main references for sections
-    - [ ] 8.1.3 Develop first draft for sections
-    - [ ] 8.1.4 Verify all citations
-    - [ ] 8.1.5 Ensure consistent formatting
+    - [x] 8.1.2 Map main references for sections
+    - [x] 8.1.3 Incorporate visual planning
+    - [ ] 8.1.4 Develop first draft for sections
+    - [ ] 8.1.5 Verify all citations
+    - [ ] 8.1.6 Ensure consistent formatting
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria
     - [ ] 8.2.2 Validate ILO compliance

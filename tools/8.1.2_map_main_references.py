@@ -4,9 +4,10 @@ Map Main References for Research Proposal Sections (Task 8.1.2)
 
 This script maps the main reference materials from phases 4-7 to the specific sections
 of the final research proposal, considering the extreme compression requirements
-(2.5% overall compression ratio) specified in the word count allocation.
+(2.5% overall compression ratio) specified in the word count allocation,
+and aligns the mapping with the course grading criteria.
 
-Based on: docs/8.1.1-word-count-allocation.md and examiner guidance on proposal focus
+Based on: docs/8.1.1-word-count-allocation.md, sources/8.1.2-examiner-message-Master Thesis Proposal Word Limit.md, docs/1.2-grading-criteria.md
 """
 
 import json
@@ -191,14 +192,14 @@ def map_phase6_references() -> Dict:
                 "priority": "HIGH", 
                 "content_focus": "Environmental benefits and SDG alignment",
                 "target_section": "Ethics and Sustainability",
-                "compression_strategy": "Focus on SDG connections and environmental benefits"
+                "compression_strategy": "Focus on SDG connections and environmental benefits, contextualizing the research within broader sustainability goals."
             },
             "mitigation_strategies": {
                 "file": "docs/6.2.6-mitigation-strategies.md",
                 "priority": "MEDIUM",
-                "content_focus": "Practical mitigation approaches", 
+                "content_focus": "Practical mitigation approaches for ethical/sustainability concerns", 
                 "target_section": "Ethics and Sustainability",
-                "compression_strategy": "Summarize key mitigation categories and approaches"
+                "compression_strategy": "Summarize key mitigation categories and approaches relevant to the research context"
             }
         },
         "supporting_references": {
@@ -217,7 +218,7 @@ def map_phase6_references() -> Dict:
                 "priority": "LOW",
                 "content_focus": "Broader social and economic implications",
                 "target_section": "Ethics and Sustainability", 
-                "compression_strategy": "Brief summary of positive social/economic outcomes"
+                "compression_strategy": "Brief summary of positive social/economic outcomes, if highly relevant and concise"
             }
         },
         "reference_sources": {
@@ -238,14 +239,14 @@ def map_phase7_references() -> Dict:
                 "priority": "HIGH",
                 "content_focus": "Comprehensive risk mitigation strategies",
                 "target_section": "Risk Assessment and Timeline",
-                "compression_strategy": "Focus on highest priority risks and mitigation approaches"
+                "compression_strategy": "Focus on highest priority risks and mitigation approaches relevant to the proposal's scope"
             },
             "risk_prioritization": {
                 "file": "docs/7.1.5-risk-prioritized.md",
                 "priority": "HIGH",
                 "content_focus": "Prioritized risk analysis",
                 "target_section": "Risk Assessment", 
-                "compression_strategy": "Include top 5-7 highest priority risks with brief mitigation"
+                "compression_strategy": "Include top 5-7 highest priority risks with brief mitigation summary"
             }
         },
         "supporting_references": {
@@ -254,14 +255,14 @@ def map_phase7_references() -> Dict:
                 "priority": "MEDIUM",
                 "content_focus": "Comprehensive risk inventory",
                 "target_section": "Risk Assessment",
-                "compression_strategy": "Reference as supporting analysis, focus on categories"
+                "compression_strategy": "Reference as supporting analysis, focus on categories rather than full register"
             },
             "timeline_planning": {
-                "file": "docs/5.3.3-project-timeline.md",  # Referenced from Phase 5
-                "priority": "MEDIUM",
-                "content_focus": "Implementation timeline",
-                "target_section": "Implementation Plan",
-                "compression_strategy": "High-level phases and key milestones only"
+                "file": "docs/5.3.3-project-timeline.md",
+                "priority": "CRITICAL",
+                "content_focus": "Detailed implementation timeline, milestones, deliverables, resource considerations",
+                "target_section": "Implementation Plan and Timeline",
+                "compression_strategy": "Summarize key phases, deliverables, and milestones. Emphasize existence of detailed plan (Gantt, resource allocation) and refer to full doc. Ensure it demonstrates structured planning."
             }
         },
         "reference_sources": {
@@ -297,21 +298,21 @@ def create_compression_guidelines() -> Dict:
             },
             "methodology": {
                 "words": 350, 
-                "focus": "Selected methodology justification, alternatives considered",
+                "focus": "Selected methodology justification, alternatives considered, assumptions, tools, boundaries",
                 "compression_from": 34549,
-                "strategy": "Focus on final justified approach, summarize alternatives"
+                "strategy": "Focus on final justified approach, summarize alternatives, briefly state assumptions/tools/boundaries"
             },
             "ethics_sustainability": {
                 "words": 210,
-                "focus": "Key ethical considerations, SDG alignment, mitigation",
+                "focus": "Key ethical considerations contextualized, SDG alignment, mitigation",
                 "compression_from": 23104,
-                "strategy": "Focus on high-priority concerns, summarize mitigation"
+                "strategy": "Focus on high-priority contextualized concerns, summarize mitigation"
             },
             "risk_timeline": {
                 "words": 210,
-                "focus": "Major risks and mitigation, timeline overview", 
+                "focus": "Major risks and mitigation, structured timeline overview demonstrating detailed planning", 
                 "compression_from": 13525,
-                "strategy": "Focus on high-priority risks, provide timeline overview"
+                "strategy": "Focus on high-priority risks, provide timeline overview demonstrating a structured plan exists"
             }
         }
     }
@@ -343,7 +344,8 @@ def generate_reference_mapping_report() -> Dict:
             "task": "8.1.2 Map main references for sections",
             "total_content_mass": 100079,
             "target_word_count": 2500,
-            "overall_compression_ratio": 2.5
+            "overall_compression_ratio": 2.5,
+            "based_on_grading_criteria": "docs/1.2-grading-criteria.md"
         },
         "content_mass_analysis": content_mass,
         "phase_mappings": {
@@ -365,7 +367,8 @@ def generate_reference_mapping_report() -> Dict:
                     "docs/4.3.6-practical-needs-summary.md", 
                     "docs/4.1.8.6-elicit-results-processing-summary.md"
                 ],
-                "key_references": "sources/4.1.1-elicit-results/ and sources/4.1.8-elicit-results/"
+                "key_references": "sources/4.1.1-elicit-results/ and sources/4.1.8-elicit-results/",
+                "grading_criteria_alignment": "Addresses C-Grade: Research Gap Identification (supported by literature from key_references). Provides foundational context for the entire proposal."
             },
             "objectives_questions": {
                 "target_words": 300,
@@ -375,7 +378,8 @@ def generate_reference_mapping_report() -> Dict:
                 ],
                 "supporting_sources": [
                     "docs/4.2.4.2-hypotheses-refined.md"
-                ]
+                ],
+                "grading_criteria_alignment": "Directly addresses C-Grade: Formulation of research questions. Ensures clarity and focus as per examiner guidance."
             },
             "theoretical_framework": {
                 "target_words": 250,
@@ -385,7 +389,8 @@ def generate_reference_mapping_report() -> Dict:
                 ],
                 "supporting_sources": [
                     "docs/3.6.1-key-concepts.md"
-                ]
+                ],
+                "grading_criteria_alignment": "Addresses C-Grade: Theoretical Framework. This section should also briefly outline key assumptions and system boundaries relevant to the framework, drawing from detailed methodology documents."
             },
             "methodology": {
                 "target_words": 350,
@@ -397,7 +402,8 @@ def generate_reference_mapping_report() -> Dict:
                     "docs/5.2.1-methodology-comparison-matrix.md",
                     "docs/5.3.2-methodology-limitations.md"
                 ],
-                "key_references": "sources/5.1.1-relevant-methodologies.json to sources/5.2.4-feasibility-analysis.json"
+                "key_references": "sources/5.1.1-relevant-methodologies.json to sources/5.2.4-feasibility-analysis.json",
+                "grading_criteria_alignment": "Addresses C-Grade: Methodology selection and justification. Will clearly state the chosen methodology, tools (e.g., ACP/A2A primitives, conceptual modeling), and justify choices. Should also clearly state key assumptions and system boundaries not covered in Theoretical Framework."
             },
             "ethics_sustainability": {
                 "target_words": 210,
@@ -409,18 +415,20 @@ def generate_reference_mapping_report() -> Dict:
                 "supporting_sources": [
                     "docs/6.1.3-data-privacy-framework.md"
                 ],
-                "key_references": "sources/6.1.1-ethics-guidelines-review.json to sources/6.2.6-mitigation-strategies-detailed.json"
+                "key_references": "sources/6.1.1-ethics-guidelines-review.json to sources/6.2.6-mitigation-strategies-detailed.json",
+                "grading_criteria_alignment": "Addresses A-Grade Option 1: Ethics and Sustainability Contextualization. Focuses on integrating key ethical concerns (data privacy, consent) and sustainability dimensions (environmental, SDG alignment) within the research context. Addresses ILO 6."
             },
             "risk_timeline": {
                 "target_words": 210,
                 "primary_sources": [
                     "docs/7.2-research-specific-risk-management.md",
-                    "docs/7.1.5-risk-prioritized.md"
-                ],
-                "supporting_sources": [
+                    "docs/7.1.5-risk-prioritized.md",
                     "docs/5.3.3-project-timeline.md"
                 ],
-                "key_references": "sources/7.1.1-potential-risks-detailed.json to sources/7.2-combined-risk-management.json"
+                "supporting_sources": [
+                ],
+                "key_references": "sources/7.1.1-potential-risks-detailed.json to sources/7.2-combined-risk-management.json and docs/5.3.3-project-timeline.md",
+                "grading_criteria_alignment": "Addresses A-Grade Option 2: Structured Research Time Plan. Summarizes major risks and mitigation, and critically, provides an overview of the structured research timeline (key phases, deliverables, milestones from docs/5.3.3-project-timeline.md) to demonstrate detailed planning and resource considerations exist."
             }
         }
     }
@@ -467,10 +475,10 @@ def print_compression_summary(mapping: Dict):
     print(f"  🔍 Clarity: {guidelines['clarity']}")
 
 def print_section_mapping(mapping: Dict):
-    """Print detailed section-by-section reference mapping."""
+    """Print detailed section-by-section reference mapping with grading criteria alignment."""
     
-    print("\n📋 SECTION-BY-SECTION REFERENCE MAPPING")
-    print("=" * 50)
+    print("\n�� SECTION-BY-SECTION REFERENCE MAPPING (Aligned with Grading Criteria)")
+    print("=" * 70)
     
     section_map = mapping["section_reference_map"]
     
@@ -482,20 +490,23 @@ def print_section_mapping(mapping: Dict):
         for source in details['primary_sources']:
             print(f"    • {source}")
         
-        if 'supporting_sources' in details:
+        if 'supporting_sources' in details and details['supporting_sources']:
             print(f"  📖 Supporting Sources:")
             for source in details['supporting_sources']:
                 print(f"    • {source}")
         
         if 'key_references' in details:
             print(f"  🔗 Key References: {details['key_references']}")
+        
+        if 'grading_criteria_alignment' in details:
+            print(f"  🏅 Grading Criteria Alignment: {details['grading_criteria_alignment']}")
 
 def main():
     """Main execution function."""
     
-    print("🚀 TASK 8.1.2: MAPPING MAIN REFERENCES FOR SECTIONS")
+    print("🚀 TASK 8.1.2: MAPPING MAIN REFERENCES FOR SECTIONS (Updated with Grading Criteria Alignment)")
     print("=" * 80)
-    print("📝 Creating comprehensive reference mapping with extreme compression guidance")
+    print("📝 Creating comprehensive reference mapping with extreme compression guidance and grading alignment")
     print("🎯 Target: 2,500 words from 100,079 words (2.5% compression)")
     print()
     
@@ -510,7 +521,7 @@ def main():
     print_compression_summary(mapping)
     print_section_mapping(mapping)
     
-    print(f"\n✅ TASK 8.1.2 COMPLETED SUCCESSFULLY")
+    print(f"\n✅ TASK 8.1.2 COMPLETED SUCCESSFULLY (with grading criteria integration)")
     print(f"📁 Main reference mapping available in: {output_file}")
     print(f"🎯 Ready for Task 8.1.3: Develop first draft for sections")
 

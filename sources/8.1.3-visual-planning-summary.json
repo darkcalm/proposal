@@ -1,0 +1,52 @@
+{
+  "task": "8.1.3 - Incorporate Visual Planning",
+  "generated": "2025-06-04T13:48:50.944477",
+  "visual_documents": {
+    "timeline_gantt": {
+      "file": "sources/8.1.3-timeline-gantt.tex",
+      "type": "LaTeX/TikZ Gantt Chart",
+      "purpose": "Visual timeline for research proposal",
+      "phases": 3,
+      "duration_weeks": 19
+    },
+    "methodology_comparison": {
+      "file": "sources/8.1.3-methodology-comparison-table.md",
+      "type": "Markdown Tables",
+      "purpose": "Methodology selection justification",
+      "methodologies_evaluated": 25,
+      "top_methodologies": 5
+    },
+    "risk_management": {
+      "file": "sources/8.1.3-risk-management-table.md",
+      "type": "Markdown Tables",
+      "purpose": "Risk analysis and mitigation planning",
+      "total_risks": 15,
+      "high_priority_risks": 9
+    },
+    "stakeholder_context": {
+      "file": "sources/8.1.3-stakeholder-context-table.md",
+      "type": "Markdown Tables",
+      "purpose": "Stakeholder mapping and ethical framework",
+      "primary_stakeholders": 7,
+      "system_components": 5
+    },
+    "workflow_diagram": {
+      "file": "sources/8.1.3-workflow-simplified.tex",
+      "type": "LaTeX/TikZ Workflow",
+      "purpose": "Simplified methodology workflow visualization",
+      "phases": 3,
+      "integration_gates": 2
+    }
+  },
+  "data_sources": [
+    "sources/5.2.1-methodology-comparison-matrix.json",
+    "sources/5.3.3-project-timeline.json",
+    "sources/7.1.*-risk*.json",
+    "sources/6.1.*-ethics*.json"
+  ],
+  "usage_notes": {
+    "latex_files": "Compile with pdflatex and tikz packages",
+    "markdown_tables": "Can be converted to LaTeX tables or used in documentation",
+    "integration": "Ready for inclusion in main proposal deliverable"
+  }
+}
