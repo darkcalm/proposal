@@ -1,0 +1,57 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{pgfgantt}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\begin{document}
+\centering % Center the chart
+\begin{ganttchart}[
+    vgrid,
+    hgrid,
+    title/.append style={draw=none, fill=white},
+    title label font=\bfseries\footnotesize,
+    title left shift=0,
+    title right shift=0,
+    title height=1,
+    bar/.append style={fill=blue!50},
+    bar height=0.6,
+    group right shift=0,
+    group top shift=0.6,
+    group height=0.3,
+    group peaks width={0.2},
+    milestone/.append style={fill=red!50},
+    milestone right shift=0,
+    milestone left shift=0,
+    milestone height=0.6,
+    milestone label font=\footnotesize,
+    y unit title=0.7cm,
+    y unit chart=0.7cm,
+    x unit=0.3cm % Adjusted for better fit if needed
+]{1}{20}
+    \gantttitle{Research Timeline (20 weeks)}{20} \\
+    \gantttitlelist{1,...,20}{1} \\
+    
+    % Phase 1: Literature Review
+    \ganttgroup{Phase 1: Literature Review}{1}{6} \\
+    \ganttbar{Search \& Screen}{1}{3} \\
+    \ganttbar{Review \& Extract}{4}{5} \\
+    \ganttbar{Synthesis}{6}{6} \\
+    \ganttmilestone{Literature Complete}{6} \\
+    
+    % Phase 2: Framework Development
+    \ganttgroup{Phase 2: Framework Development}{7}{14} \\
+    \ganttbar{Framework Design}{7}{8} \\
+    \ganttbar{Protocol Analysis}{9}{12} \\
+    \ganttbar{Integration Framework}{13}{14} \\
+    \ganttmilestone{Framework Complete}{14} \\
+    
+    % Phase 3: Proof of Concept
+    \ganttgroup{Phase 3: Proof of Concept}{15}{18} \\
+    \ganttbar{Prototype Design}{15}{15} \\
+    \ganttbar{Implementation}{16}{17} \\
+    \ganttbar{Testing \& Validation}{18}{18} \\
+    \ganttmilestone{Project Complete}{19}
+    
+\end{ganttchart}
+
+\end{document}

@@ -1,17 +1,18 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'main.blg'
-[75] biber-darwin:340> INFO - === Wed Jun  4, 2025, 19:35:51
-[91] Biber.pm:420> INFO - Reading 'main.bcf'
-[167] Biber.pm:994> INFO - Found 11 citekeys in bib section 0
-[181] Biber.pm:4463> INFO - Processing section 0
-[191] Biber.pm:4654> INFO - Looking for bibtex file 'main.bib' for section 0
-[193] bibtex.pm:1713> INFO - LaTeX decoding ...
-[212] bibtex.pm:1519> INFO - Found BibTeX data source 'main.bib'
-[278] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[278] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[278] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[278] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[284] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[287] bbl.pm:779> INFO - Output to main.bbl
-[287] Biber.pm:131> WARN - Duplicate entry key: '10.5220/0001894702000205' in file 'main.bib', skipping ...
-[287] Biber.pm:133> INFO - WARNINGS: 1
+[0] Config.pm:311> INFO - Logfile is 'deliverable/main.blg'
+[101] biber-darwin:340> INFO - === Wed Jun  4, 2025, 22:24:35
+[122] Biber.pm:420> INFO - Reading 'deliverable/main.bcf'
+[232] Biber.pm:994> INFO - Found 11 citekeys in bib section 0
+[249] Biber.pm:4463> INFO - Processing section 0
+[265] Biber.pm:4654> INFO - Looking for bibtex file 'main.bib' for section 0
+[268] bibtex.pm:1713> INFO - LaTeX decoding ...
+[302] bibtex.pm:1519> INFO - Found BibTeX data source 'deliverable/main.bib'
+[483] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[483] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[484] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[484] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[503] bbl.pm:676> INFO - Writing 'deliverable/main.bbl' with encoding 'UTF-8'
+[512] bbl.pm:779> INFO - Output to deliverable/main.bbl
+[512] Biber.pm:131> WARN - Duplicate entry key: '10.1109/ETFA61755.2024.10711109' in file 'deliverable/main.bib', skipping ...
+[512] Biber.pm:131> WARN - BibTeX subsystem: substring 2, warning: empty substring
+[512] Biber.pm:133> INFO - WARNINGS: 2
