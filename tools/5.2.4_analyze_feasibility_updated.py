@@ -18,9 +18,9 @@ import os # Retained for os.path.join if used by archive logic, prefer Path
 import re # Added for parsing timeline strings
 
 # --- Configuration ---
-COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.1-methodology-comparison-matrix.json"
-STRENGTHS_LIMITATIONS_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.2-methodology-strengths-limitations.json"
-RESOURCE_ASSESSMENT_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.3-resource-requirements-assessment.json"
+COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.1-methodology-comparison-matrix.json"
+STRENGTHS_LIMITATIONS_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.2-methodology-strengths-limitations.json"
+RESOURCE_REQUIREMENTS_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.3-resource-requirements-assessment.json"
 OUTPUT_DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 OUTPUT_SOURCES_DIR = Path(__file__).resolve().parent.parent / "sources"
 LOG_FILE = Path(__file__).resolve().parent / "5.2.4_analyze_feasibility_updated.log"
@@ -41,7 +41,7 @@ def load_previous_analyses_updated():
     for file_path, data_dict_ref_name in [
         (COMPARISON_MATRIX_INPUT_JSON, "comparison_matrix"),
         (STRENGTHS_LIMITATIONS_INPUT_JSON, "strengths_analysis_data"),
-        (RESOURCE_ASSESSMENT_INPUT_JSON, "resource_assessment_data")
+        (RESOURCE_REQUIREMENTS_INPUT_JSON, "resource_assessment_data")
     ]:
         if file_path.exists():
             try:
@@ -253,38 +253,38 @@ def main():
     with open(LOG_FILE, 'w', encoding='utf-8') as log_f:
         log_f.write(f"Starting Task 5.2.4 (Analyze Feasibility - Updated) at {datetime.now().isoformat()}\n")
 
-    print("🚀 Task 5.2.4 (Updated): Analyzing Methodology Feasibility")
+    print("🎯 Task 5.2.4 (Updated): Analyzing Methodology Feasibility")
     print("=" * 70)
 
     comparison_matrix, strengths_data, resource_data = load_previous_analyses_updated()
 
-    if not comparison_matrix or not strengths_data or not resource_data:
-        write_log("One or more input JSON files are missing or failed to load. Aborting feasibility analysis.")
-        print("Error: Missing one or more input JSON files (5.2.1, 5.2.2, or 5.2.3). Aborting.")
+    if not comparison_matrix or "methodologies" not in comparison_matrix:
+        write_log("Aborting: Comparison matrix data from 5.2.1 is missing or invalid.")
+        print("Error: Could not load valid data from 5.2.1-methodology-comparison-matrix.json. Aborting.")
         return
-    write_log("Successfully loaded all required input JSON files.")
 
-    feasibility_analyses, research_context = analyze_feasibility_updated(comparison_matrix, strengths_data, resource_data)
-    write_log(f"Completed feasibility analysis for {len(feasibility_analyses)} methodologies.")
-
-    if not feasibility_analyses:
-        write_log("No feasibility analyses were generated. Check input data and logs.")
-        print("Warning: No feasibility analyses generated. Output files might be empty or incomplete.")
-        # Still proceed to generate empty/minimal report to avoid outright failure here.
+    feasibility_analysis = analyze_feasibility_updated(comparison_matrix, strengths_data, resource_data)
+    write_log(f"Completed feasibility analysis for {len(feasibility_analysis)} methodologies.")
 
     analysis_report = {
         "metadata": {
             "task": "5.2.4 - Analyze Feasibility (Updated)",
             "timestamp": datetime.now().isoformat(),
-            "input_sources": [str(f.name) for f in [COMPARISON_MATRIX_INPUT_JSON, STRENGTHS_LIMITATIONS_INPUT_JSON, RESOURCE_ASSESSMENT_INPUT_JSON]],
-            "methodologies_analyzed": len(feasibility_analyses)
+            "input_sources": [
+                str(COMPARISON_MATRIX_INPUT_JSON.name),
+                str(STRENGTHS_LIMITATIONS_INPUT_JSON.name),
+                str(RESOURCE_REQUIREMENTS_INPUT_JSON.name)
+            ],
+            "methodologies_analyzed": len(feasibility_analysis)
         },
-        "research_context": research_context,
-        "feasibility_analyses": feasibility_analyses
+        "research_context": comparison_matrix.get("metadata",{}).get("research_context", {
+            "focus": "ACP/A2A for DER predictive maintenance", "domain": "DER", "constraints": "20-week thesis"
+        }),
+        "feasibility_analysis": feasibility_analysis
     }
 
     # Save JSON output
-    json_output_path = OUTPUT_DOCS_DIR / "5.2.4-feasibility-analysis.json"
+    json_output_path = OUTPUT_SOURCES_DIR / "5.2.4-feasibility-analysis.json"
     try:
         with open(json_output_path, 'w', encoding='utf-8') as f:
             json.dump(analysis_report, f, indent=2, ensure_ascii=False)
@@ -292,18 +292,6 @@ def main():
         print(f"JSON output saved to: {json_output_path}")
     except Exception as e:
         write_log(f"Error saving JSON output: {e}")
-
-    # Save Markdown summary
-    md_summary = generate_markdown_summary_524(analysis_report)
-    md_output_path = OUTPUT_SOURCES_DIR / "5.2.4-feasibility-analysis.md"
-    try:
-        OUTPUT_SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-        with open(md_output_path, 'w', encoding='utf-8') as f:
-            f.write(md_summary)
-        write_log(f"Markdown feasibility summary saved to {md_output_path}")
-        print(f"Markdown summary saved to: {md_output_path}")
-    except Exception as e:
-        write_log(f"Error saving Markdown summary: {e}")
 
     write_log(f"Finished Task 5.2.4 (Updated) at {datetime.now().isoformat()}")
     print("\n✅ Task 5.2.4 (Updated) complete.")

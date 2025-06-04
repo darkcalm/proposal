@@ -17,7 +17,7 @@ from pathlib import Path
 import os
 
 # --- Configuration ---
-COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.1-methodology-comparison-matrix.json"
+COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.1-methodology-comparison-matrix.json"
 OUTPUT_DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 OUTPUT_SOURCES_DIR = Path(__file__).resolve().parent.parent / "sources"
 LOG_FILE = Path(__file__).resolve().parent / "5.2.2_evaluate_strengths_limitations_updated.log"
@@ -563,66 +563,6 @@ def evaluate_all_methodologies(comparison_matrix_data: dict) -> dict:
         methodology_analyses[key] = analysis
     return methodology_analyses
 
-def generate_markdown_summary_522(analysis_report: dict):
-    md_parts = []
-    metadata = analysis_report.get("metadata", {})
-    research_context = analysis_report.get("research_context", {})
-    methodology_analyses = analysis_report.get("methodology_analyses", {})
-
-    md_parts.append(f"# Methodology Strengths and Limitations Analysis (Task 5.2.2 - Updated)\n")
-    md_parts.append(f"*Generated: {metadata.get('timestamp')}*\n")
-    md_parts.append(f"*Based on: {Path(COMPARISON_MATRIX_INPUT_JSON).name}*\n")
-    md_parts.append(f"*Methodologies Analyzed: {metadata.get('methodologies_analyzed')}*\n\n")
-
-    md_parts.append(f"## Research Context\n")
-    md_parts.append(f"- **Focus**: {research_context.get('focus', 'N/A')}\n")
-    md_parts.append(f"- **Domain**: {research_context.get('domain', 'N/A')}\n")
-    md_parts.append(f"- **Constraints**: {research_context.get('constraints', 'N/A')}\n\n")
-
-    # Sort methodologies by ranking score for presentation
-    sorted_analysis_items = sorted(
-        methodology_analyses.items(), 
-        key=lambda item: item[1].get('ranking_score', 0) if isinstance(item[1].get('ranking_score'), (int, float)) else 0, 
-        reverse=True
-    )
-
-    for key, analysis in sorted_analysis_items:
-        md_parts.append(f"### {analysis.get('methodology_name', key)}\n")
-        md_parts.append(f"- **Category**: {analysis.get('category', 'N/A')}\n")
-        md_parts.append(f"- **Description**: {analysis.get('description', 'N/A')}\n")
-        md_parts.append(f"- **5.2.1 Ranking Score**: {analysis.get('ranking_score', 'N/A')} ({analysis.get('ranking_category', 'N/A')})\n")
-
-        strengths = analysis.get("strengths", {})
-        if strengths:
-            md_parts.append("#### Strengths\n")
-            if strengths.get("generic_strengths"): md_parts.append(f"- Generic: { '; '.join(strengths['generic_strengths']) }\n")
-            if strengths.get("contextual_strengths"): md_parts.append(f"- Contextual (ACP/A2A): { '; '.join(strengths['contextual_strengths']) }\n")
-            if strengths.get("integration_strengths"): md_parts.append(f"- Integration: { '; '.join(strengths['integration_strengths']) }\n")
-        
-        limitations = analysis.get("limitations", {})
-        if limitations:
-            md_parts.append("#### Limitations\n")
-            if limitations.get("generic_limitations"): md_parts.append(f"- Generic: { '; '.join(limitations['generic_limitations']) }\n")
-            if limitations.get("contextual_limitations"): md_parts.append(f"- Contextual: { '; '.join(limitations['contextual_limitations']) }\n")
-            if limitations.get("implementation_limitations"): md_parts.append(f"- Implementation: { '; '.join(limitations['implementation_limitations']) }\n")
-
-        risks = analysis.get("risks", {})
-        if risks:
-            md_parts.append("#### Risks & Mitigations\n")
-            if risks.get("timeline_risks"): md_parts.append(f"- Timeline Risks: { '; '.join(risks['timeline_risks']) }\n")
-            if risks.get("technical_risks"): md_parts.append(f"- Technical Risks: { '; '.join(risks['technical_risks']) }\n")
-            if risks.get("mitigations"): md_parts.append(f"- Mitigations: { '; '.join(risks['mitigations']) }\n")
-
-        overall = analysis.get("overall_assessment", {})
-        if overall:
-            md_parts.append("#### Overall Assessment Notes\n")
-            if overall.get("recommended_scenarios"): md_parts.append(f"- Recommended Scenarios: { '; '.join(overall['recommended_scenarios']) }\n")
-            if overall.get("cautionary_scenarios"): md_parts.append(f"- Cautionary Scenarios: { '; '.join(overall['cautionary_scenarios']) }\n")
-        md_parts.append("\n---\n")
-    
-    md_parts.append("\n## Next Steps\n- Task 5.2.3: Assess detailed resource requirements for top-ranked methodologies.\n")
-    return "".join(md_parts)
-
 def main():
     with open(LOG_FILE, 'w', encoding='utf-8') as log_f:
         log_f.write(f"Starting Task 5.2.2 (Evaluate Strengths and Limitations - Updated) at {datetime.now().isoformat()}\n")
@@ -654,7 +594,7 @@ def main():
     }
 
     # Save JSON output
-    json_output_path = OUTPUT_DOCS_DIR / "5.2.2-methodology-strengths-limitations.json"
+    json_output_path = OUTPUT_SOURCES_DIR / "5.2.2-methodology-strengths-limitations.json"
     try:
         with open(json_output_path, 'w', encoding='utf-8') as f:
             json.dump(analysis_report, f, indent=2, ensure_ascii=False)
@@ -662,18 +602,6 @@ def main():
         print(f"JSON output saved to: {json_output_path}")
     except Exception as e:
         write_log(f"Error saving JSON output: {e}")
-
-    # Save Markdown summary
-    md_summary = generate_markdown_summary_522(analysis_report)
-    md_output_path = OUTPUT_SOURCES_DIR / "5.2.2-methodology-strengths-limitations.md"
-    try:
-        OUTPUT_SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-        with open(md_output_path, 'w', encoding='utf-8') as f:
-            f.write(md_summary)
-        write_log(f"Markdown S/L summary saved to {md_output_path}")
-        print(f"Markdown summary saved to: {md_output_path}")
-    except Exception as e:
-        write_log(f"Error saving Markdown summary: {e}")
 
     write_log(f"Finished Task 5.2.2 (Updated) at {datetime.now().isoformat()}")
     print("\n✅ Task 5.2.2 (Updated) complete.")

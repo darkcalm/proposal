@@ -18,8 +18,8 @@ from pathlib import Path
 import os # Keep for existing os.path checks if any, though Path is primary
 
 # --- Configuration ---
-COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.1-methodology-comparison-matrix.json"
-STRENGTHS_LIMITATIONS_INPUT_JSON = Path(__file__).resolve().parent.parent / "docs" / "5.2.2-methodology-strengths-limitations.json"
+COMPARISON_MATRIX_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.1-methodology-comparison-matrix.json"
+STRENGTHS_LIMITATIONS_INPUT_JSON = Path(__file__).resolve().parent.parent / "sources" / "5.2.2-methodology-strengths-limitations.json"
 OUTPUT_DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 OUTPUT_SOURCES_DIR = Path(__file__).resolve().parent.parent / "sources"
 LOG_FILE = Path(__file__).resolve().parent / "5.2.3_assess_resource_requirements_updated.log"
@@ -712,7 +712,7 @@ def main():
     }
 
     # Save JSON output
-    json_output_path = OUTPUT_DOCS_DIR / "5.2.3-resource-requirements-assessment.json"
+    json_output_path = OUTPUT_SOURCES_DIR / "5.2.3-resource-requirements-assessment.json"
     try:
         with open(json_output_path, 'w', encoding='utf-8') as f:
             json.dump(analysis_report, f, indent=2, ensure_ascii=False)
@@ -720,43 +720,6 @@ def main():
         print(f"JSON output saved to: {json_output_path}")
     except Exception as e:
         write_log(f"Error saving JSON output: {e}")
-
-    # Generate Markdown summary
-    md_parts = [f"# Resource Requirements Assessment (Task 5.2.3 - Updated)\n"]
-    md_parts.append(f"*Generated: {analysis_report['metadata']['timestamp']}*\n")
-    md_parts.append(f"*Based on methodologies from: {Path(COMPARISON_MATRIX_INPUT_JSON).name}*\n\n")
-    md_parts.append(f"## Research Context\n- Focus: {research_context_global['focus']}\n- Domain: {research_context_global['domain']}\n- Constraints: { ', '.join(research_context_global['constraints']) }\n\n")
-
-    # Sort by resource intensity for presentation (higher intensity first)
-    sorted_assessments = sorted(
-        resource_assessments.items(),
-        key=lambda item: item[1]["resource_intensity"]["intensity_score"],
-        reverse=True
-    )
-
-    for key, assessment in sorted_assessments:
-        md_parts.append(f"### {assessment['methodology_name']}\n")
-        md_parts.append(f"- **Category**: {assessment.get('category', 'N/A')}\n")
-        md_parts.append(f"- **Resource Intensity**: {assessment['resource_intensity']['intensity_level']} (Score: {assessment['resource_intensity']['intensity_score']})\n")
-        md_parts.append(f"- **Human Resources Summary**: Expertise in {assessment['human_resources']['researcher_expertise_required'][:1]}... Needs: {assessment['human_resources']['additional_expertise_needed'][:1]}... \n")
-        md_parts.append(f"- **Technical Resources Summary**: Software like {assessment['technical_resources']['software_requirements'][:2]}... Hardware: {assessment['technical_resources']['hardware_requirements'][:1]}...\n")
-        md_parts.append(f"- **Estimated Budget Indication**: {assessment['financial_resources']['total_estimated_budget']}\n")
-        md_parts.append(f"- **Time Resources Summary**: Duration {assessment['time_resources']['total_project_duration']}\n")
-        if assessment["feasibility_constraints"]["critical_constraints"]:
-            md_parts.append(f"- **Critical Constraints**: { '; '.join(assessment['feasibility_constraints']['critical_constraints']) }\n")
-        md_parts.append("---\n")
-
-    md_parts.append("\n## Next Steps\n- Task 5.2.4: Analyze implementation feasibility based on these resource constraints.\n")
-    md_summary = "".join(md_parts)
-    md_output_path = OUTPUT_SOURCES_DIR / "5.2.3-resource-requirements-assessment.md"
-    try:
-        OUTPUT_SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-        with open(md_output_path, 'w', encoding='utf-8') as f:
-            f.write(md_summary)
-        write_log(f"Markdown resource assessment summary saved to {md_output_path}")
-        print(f"Markdown summary saved to: {md_output_path}")
-    except Exception as e:
-        write_log(f"Error saving Markdown summary: {e}")
 
     write_log(f"Finished Task 5.2.3 (Updated) at {datetime.now().isoformat()}")
     print("\n✅ Task 5.2.3 (Updated) complete.")

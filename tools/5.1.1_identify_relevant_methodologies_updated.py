@@ -313,49 +313,26 @@ def find_methodologies_in_current_literature():
     return dict(found_methodologies_data)
 
 def generate_output_files(identified_methodologies_data):
-    """Generates JSON and Markdown output files."""
+    """Generate output files with identified methodologies data."""
+    output_dir = Path("sources")
+    output_dir.mkdir(exist_ok=True)
     
-    # --- Prepare data for JSON output ---
-    # Define the literature source path relative to the generated doc file (docs/5.1.1-...md)
-    literature_source_display_path = "../sources/4.3.1-elicit-results/markdown_papers/"
-
-    json_output_data = {
-        "task": "5.1.1 - Identify Relevant Methodologies (Updated)",
-        "timestamp": datetime.now().isoformat(),
-        "literature_source_directory": literature_source_display_path,
-        "total_methodologies_identified_in_literature": len(identified_methodologies_data),
-        "identified_methodologies": identified_methodologies_data, 
-        "next_steps": [
-            "Document each identified methodology category in detail (Tasks 5.1.2-5.1.5)",
-            "Create comprehensive comparison matrix (Task 5.2.1)"
-        ]
-    }
-
-    # Save detailed JSON output
-    # OUTPUT_DOCS_DIR is defined as Path("../docs") relative to script location (tools/)
-    # So this will correctly place it in /Users/para/proposal/docs/
-    json_file_path = OUTPUT_DOCS_DIR / "5.1.1-relevant-methodologies.json"
-    try:
-        with open(json_file_path, 'w', encoding='utf-8') as f:
-            json.dump(json_output_data, f, indent=2, ensure_ascii=False)
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Detailed JSON analysis saved to: {json_file_path}\n")
-        print(f"Detailed JSON analysis saved to: {json_file_path}")
-    except Exception as e:
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error saving JSON file {json_file_path}: {e}\n")
+    # Save main methodologies file
+    main_output_path = output_dir / "5.1.1-relevant-methodologies.json"
+    with open(main_output_path, "w") as f:
+        json.dump(identified_methodologies_data, f, indent=2)
 
     # --- Prepare data for Markdown output ---
     md_content = f"""# Relevant Research Methodologies Identified (Task 5.1.1 - Updated)
 
-*Generated: {json_output_data['timestamp']}*
-*Literature Source: `{json_output_data['literature_source_directory']}`*
+*Generated: {datetime.now().isoformat()}*
+*Literature Source: `../sources/4.3.1-elicit-results/markdown_papers/`*
 
 This document summarizes the research methodologies identified as relevant through an analysis of the current literature. The analysis scanned papers for keywords associated with established and emerging research methodologies.
 
 ## Summary of Identified Methodologies
 
-- **Total Unique Methodologies Mentioned**: {json_output_data['total_methodologies_identified_in_literature']}
+- **Total Unique Methodologies Mentioned**: {len(identified_methodologies_data)}
 
 """
     if not identified_methodologies_data:
@@ -378,18 +355,16 @@ This document summarizes the research methodologies identified as relevant throu
             md_content += "\n"
 
     md_content += "## Next Steps\n\n"
-    for step in json_output_data['next_steps']:
-        md_content += f"- {step}\n"
+    md_content += f"- Document each identified methodology category in detail (Tasks 5.1.2-5.1.5)\n"
+    md_content += f"- Create comprehensive comparison matrix (Task 5.2.1)\n"
     
     md_content += f"\n---\n*End of Task 5.1.1 Report - Methodologies identified based on keywords in current literature.*\n"
 
     # Save Markdown summary
-    md_file_path = OUTPUT_DOCS_DIR / "5.1.1-relevant-methodologies.md"
+    md_file_path = output_dir / "5.1.1-relevant-methodologies.md"
     try:
         with open(md_file_path, 'w', encoding='utf-8') as f:
             f.write(md_content)
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Markdown summary saved to: {md_file_path}\n")
         print(f"Markdown summary saved to: {md_file_path}")
     except Exception as e:
         with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
@@ -400,7 +375,6 @@ def main():
     """Main execution function"""
     # Ensure output directories exist
     # These paths are relative to the script (tools/), so ../docs is proposal/docs
-    (Path(__file__).resolve().parent.parent / "docs").mkdir(parents=True, exist_ok=True)
     (Path(__file__).resolve().parent.parent / "sources").mkdir(parents=True, exist_ok=True)
 
     with open(LOG_FILE, 'w', encoding='utf-8') as log_f: 

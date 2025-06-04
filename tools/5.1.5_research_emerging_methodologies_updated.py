@@ -114,13 +114,9 @@ def load_json_file(filepath: Path) -> dict:
         return {}
 
 def save_json_file(data: dict, filepath: Path):
-    try:
-        filepath.parent.mkdir(parents=True, exist_ok=True)
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-        write_log(f"Successfully saved JSON to {filepath}")
-    except Exception as e:
-        write_log(f"Error saving JSON to {filepath}: {e}")
+    """Save data to a JSON file."""
+    with open(filepath, 'w') as f:
+        json.dump(data, f, indent=2)
 
 def scan_markdown_files(markdown_dirs_config: list, methodology_keywords: dict) -> dict:
     scan_results = defaultdict(lambda: {"count": 0, "papers": set(), "contexts": []})

@@ -243,9 +243,9 @@ def score_methodologies(all_methodologies_augmented: dict, criteria: dict) -> di
     return scores
 
 def generate_outputs(comparison_data: dict):
-    """Generates JSON, MD, and CSV outputs."""
+    """Generates JSON and CSV outputs."""
     # Save detailed JSON
-    json_file_path = OUTPUT_DOCS_DIR / "5.2.1-methodology-comparison-matrix.json"
+    json_file_path = OUTPUT_SOURCES_DIR / "5.2.1-methodology-comparison-matrix.json"
     try:
         with open(json_file_path, 'w', encoding='utf-8') as f:
             json.dump(comparison_data, f, indent=2, ensure_ascii=False)
@@ -253,44 +253,6 @@ def generate_outputs(comparison_data: dict):
         print(f"JSON output saved to: {json_file_path}")
     except Exception as e:
         write_log(f"Error saving JSON output: {e}")
-
-    # Generate MD
-    md_content_parts = [f"# Methodology Comparison Matrix (Task 5.2.1 - Updated)\n\n"]
-    md_content_parts.append(f"*Generated: {comparison_data['metadata']['timestamp']}*\n")
-    md_content_parts.append(f"*Based on methodologies from: {RELEVANT_METHODOLOGIES_INPUT_JSON.name}*\n\n")
-    
-    md_content_parts.append("## Evaluation Criteria\n")
-    for crit_key, crit_data in comparison_data["evaluation_criteria"].items():
-        md_content_parts.append(f"- **{crit_key.replace('_', ' ').title()}**: {crit_data['description']} (Weight: {crit_data['weight']}%, Scale: {crit_data['scale']})\n")
-    md_content_parts.append("\n")
-
-    md_content_parts.append("## Methodology Comparison Summary Table\n")
-    md_content_parts.append("| Methodology | Category | Lit. Mentions | Credibility | Weighted Score | Recommendation |\n")
-    md_content_parts.append("|-------------|----------|-----------------|-------------|----------------|----------------|\n")
-
-    # Sort by weighted score for MD and CSV
-    sorted_methodologies_for_table = sorted(
-        comparison_data["methodologies"].items(),
-        key=lambda item: comparison_data["methodology_scores"].get(item[0], {}).get("weighted_total", 0),
-        reverse=True
-    )
-
-    for key, meth_data in sorted_methodologies_for_table:
-        score_data = comparison_data["methodology_scores"].get(key, {})
-        md_content_parts.append(
-            f"| {meth_data.get('name', key)} | {meth_data.get('category', 'N/A')} | {meth_data.get('literature_mentions', 0)} | {meth_data.get('prior_research_usage',{}).get('credibility_score_label','N/A')} | {score_data.get('weighted_total', 'N/A')} | {score_data.get('ranking_category', 'N/A')} |\n"
-        )
-    md_content_parts.append("\nDetailed scores and considerations are in the JSON output.\n")
-    
-    md_file_path = OUTPUT_SOURCES_DIR / "5.2.1-methodology-comparison-matrix.md"
-    try:
-        OUTPUT_SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-        with open(md_file_path, 'w', encoding='utf-8') as f:
-            f.write("".join(md_content_parts))
-        write_log(f"Markdown comparison matrix saved to: {md_file_path}")
-        print(f"Markdown output saved to: {md_file_path}")
-    except Exception as e:
-        write_log(f"Error saving MD output: {e}")
 
     # Generate CSV
     csv_file_path = OUTPUT_SOURCES_DIR / "5.2.1-methodology-comparison-matrix.csv"
@@ -300,6 +262,13 @@ def generate_outputs(comparison_data: dict):
     # Add individual criteria scores to header
     for crit_key in comparison_data["evaluation_criteria"].keys():
         csv_headers.append(f"Score_{crit_key}")
+
+    # Sort by weighted score for CSV
+    sorted_methodologies_for_table = sorted(
+        comparison_data["methodologies"].items(),
+        key=lambda item: comparison_data["methodology_scores"].get(item[0], {}).get("weighted_total", 0),
+        reverse=True
+    )
 
     csv_rows = [csv_headers]
     for key, meth_data in sorted_methodologies_for_table:
@@ -369,7 +338,7 @@ def main():
         "methodology_scores": methodology_scores      # Contains scores and ranking
     }
 
-    # 6. Generate outputs (JSON, MD, CSV)
+    # 6. Generate outputs (JSON, CSV)
     generate_outputs(comparison_data)
     
     write_log(f"Finished Task 5.2.1 (Updated) at {datetime.now().isoformat()}")

@@ -125,18 +125,9 @@ QUALITATIVE_METHODOLOGIES_KB = {
 }
 
 def load_relevant_methodologies(filepath: Path) -> dict:
-    if not filepath.exists():
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error: Relevant methodologies file not found at {filepath} for Task 5.1.3\n")
-        return {}
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        return data.get("identified_methodologies", {})
-    except Exception as e:
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error loading or parsing {filepath} for Task 5.1.3: {e}\n")
-        return {}
+    """Load the relevant methodologies data from the JSON file."""
+    with open(filepath, 'r') as f:
+        return json.load(f)
 
 def main():
     """Main execution function"""
@@ -147,8 +138,11 @@ def main():
     print("🔍 Task 5.1.3 (Updated): Analyzing Relevant Qualitative Methodologies")
     print("=" * 70)
 
-    relevant_methodologies_from_511 = load_relevant_methodologies(RELEVANT_METHODOLOGIES_INPUT_JSON)
-    if not relevant_methodologies_from_511:
+    # Load the relevant methodologies data
+    methodologies_file = Path("sources/5.1.1-relevant-methodologies.json")
+    methodologies_data = load_relevant_methodologies(methodologies_file)
+    
+    if not methodologies_data:
         print("No relevant methodologies loaded from 5.1.1 output. Cannot proceed with 5.1.3.")
         with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
             log_f.write("Aborted Task 5.1.3: No relevant methodologies from 5.1.1 output.\n")
@@ -167,7 +161,7 @@ def main():
 
     documented_qualitative_methodologies = {}
     count = 0
-    for meth_key_from_511, meth_data_from_511 in relevant_methodologies_from_511.items():
+    for meth_key_from_511, meth_data_from_511 in methodologies_data.items():
         kb_details = QUALITATIVE_METHODOLOGIES_KB.get(meth_key_from_511)
         category_from_511 = meth_data_from_511.get("details", {}).get("category", "").lower()
 

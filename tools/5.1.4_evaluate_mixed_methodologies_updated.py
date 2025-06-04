@@ -80,18 +80,9 @@ MIXED_METHODOLOGIES_KB = {
 }
 
 def load_relevant_methodologies(filepath: Path) -> dict:
-    if not filepath.exists():
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error: Relevant methodologies file not found at {filepath} for Task 5.1.4\n")
-        return {}
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        return data.get("identified_methodologies", {})
-    except Exception as e:
-        with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error loading or parsing {filepath} for Task 5.1.4: {e}\n")
-        return {}
+    """Load the relevant methodologies data from the JSON file."""
+    with open(filepath, 'r') as f:
+        return json.load(f)
 
 def main():
     """Main execution function"""
@@ -102,8 +93,11 @@ def main():
     print("🔄 Task 5.1.4 (Updated): Evaluating Relevant Mixed Methodologies")
     print("=" * 70)
 
-    relevant_methodologies_from_511 = load_relevant_methodologies(RELEVANT_METHODOLOGIES_INPUT_JSON)
-    if not relevant_methodologies_from_511:
+    # Load the relevant methodologies data
+    methodologies_file = Path("sources/5.1.1-relevant-methodologies.json")
+    methodologies_data = load_relevant_methodologies(methodologies_file)
+    
+    if not methodologies_data:
         print("No relevant methodologies loaded from 5.1.1 output. Cannot proceed with 5.1.4.")
         with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
             log_f.write("Aborted Task 5.1.4: No relevant methodologies from 5.1.1 output.\n")
@@ -122,7 +116,7 @@ def main():
 
     documented_mixed_methodologies = {}
     count = 0
-    for meth_key_from_511, meth_data_from_511 in relevant_methodologies_from_511.items():
+    for meth_key_from_511, meth_data_from_511 in methodologies_data.items():
         kb_details = MIXED_METHODOLOGIES_KB.get(meth_key_from_511)
         category_from_511 = meth_data_from_511.get("details", {}).get("category", "").lower()
 
@@ -164,16 +158,16 @@ def main():
         "next_steps": ["Research emerging methodologies (Task 5.1.5)", "Create comprehensive methodology comparison matrix (Task 5.2.1)"]
     }
 
-    json_file_path = OUTPUT_DOCS_DIR / "5.1.4-mixed-methodologies.json"
+    output_file = Path("sources/5.1.4-mixed-methodologies.json")
     try:
-        with open(json_file_path, 'w', encoding='utf-8') as f:
+        with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
-        print(f"Detailed JSON analysis saved to: {json_file_path}")
+        print(f"Detailed JSON analysis saved to: {output_file}")
         with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Detailed JSON for mixed methodologies saved to {json_file_path}\n")
+            log_f.write(f"Detailed JSON for mixed methodologies saved to {output_file}\n")
     except Exception as e:
         with open(LOG_FILE, 'a', encoding='utf-8') as log_f:
-            log_f.write(f"Error saving JSON {json_file_path}: {e}\n")
+            log_f.write(f"Error saving JSON {output_file}: {e}\n")
 
     md_content = f"""# Mixed Methodologies Evaluation (Task 5.1.4 - Updated)
 

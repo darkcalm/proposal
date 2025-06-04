@@ -1,0 +1,552 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo} % Palatino font
+\usepackage{microtype} % Better typography
+\usepackage{textcomp} % For proper dash support
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,
+    urlcolor=blue,
+    citecolor=black,
+}
+
+% Typography settings
+\linespread{1.05} % Slightly increased line spacing
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0.5em}
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\topmargin}{0in}
+\setlength{\headheight}{15pt}
+\setlength{\headsep}{40pt}
+\setlength{\footskip}{30pt}
+
+% Additional typography packages
+\usepackage{ragged2e}
+\usepackage{booktabs}
+\usepackage[inline]{enumitem}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{appendix}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{pdflscape}
+\usepackage{array}
+\usepackage{pgfgantt}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage[sorting=none,backend=biber]{biblatex}
+
+\addbibresource{fa1.bib}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Course - Methods of Research in Sustainable Energy}
+\fancyhead[R]{Spring 2025}
+\fancyfoot[C]{\thepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ENTER GROUP AND PROJECT INFORMATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\grouptitle}{Group [X] - Research Proposal}
+\newcommand{\studentone}{Student Name 1}
+\newcommand{\studenttwo}{Student Name 2}
+\newcommand{\studentthree}{Student Name 3}
+\newcommand{\projecttitle}{[Enter Your Research Title Here]}
+\newcommand{\submissiondate}{May 28, 2025}
+\newcommand{\emdash}{\textemdash}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% Title Page
+\begin{titlepage}
+\begin{center}
+{\Huge{Research Proposal}} \\
+\vspace{5mm}
+{\Large{Methods of Research}} \\
+
+\vspace{10mm}
+
+{\huge{\textbf{\projecttitle}}} \\
+
+\vspace{15mm}
+
+\hrule
+\vspace{3mm}
+\begin{tabular}{ll}
+\textbf{Group Members:} & {\studentone} \\
+& {\studenttwo} \\
+& {\studentthree} \\
+\\
+\textbf{Submission Date:} & {\submissiondate} \\
+\textbf{Word Count:} & [Approximately 2000 words] \\
+\end{tabular}
+\vspace{3mm}
+\hrule
+
+\vspace{15mm}
+
+\textbf{Abstract} \\
+\vspace{2mm}
+\begin{minipage}{0.8\textwidth}
+[Provide a concise abstract (150-200 words) summarizing your research proposal, including the research problem, methodology, and expected contributions to sustainable energy research.]
+\end{minipage}
+
+\end{center}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Introduction and Background}
+\label{sec:background}
+
+% This section addresses ILO1: Systematic literature survey
+
+The global energy sector is undergoing a fundamental transformation driven by the urgent need to decarbonize and create more resilient, sustainable energy systems. Central to this transition is the rapid deployment of Distributed Energy Resources (DERs)---including rooftop solar panels, battery storage systems, electric vehicles, and smart inverters---which are fundamentally reshaping how electricity is generated, stored, and consumed~\cite{hirsch2018,irena2019}. By 2030, the installed capacity of distributed solar photovoltaics alone is projected to exceed 5,400 GW globally, representing a tenfold increase from 2020 levels~\cite{iea2021}.
+
+This unprecedented proliferation of DERs presents both opportunities and challenges for modern power systems. While DERs offer significant benefits---including reduced transmission losses, enhanced grid resilience, and democratized energy access---their integration introduces substantial complexity in grid management and coordination~\cite{eid2016,parag2016}. Unlike traditional centralized power generation, DERs are characterized by their geographic dispersion, diverse ownership structures, heterogeneous technologies, and variable output patterns. These characteristics fundamentally challenge conventional approaches to grid operation and maintenance, which were designed for unidirectional power flows and centralized control architectures.
+
+A critical yet underexplored aspect of DER integration is the coordination of predictive maintenance across diverse, multi-owner DER fleets. Effective maintenance is essential for ensuring the reliability, efficiency, and longevity of DER assets, directly impacting their economic viability and contribution to grid stability~\cite{jafari2020}. However, the decentralized nature of DER ownership---spanning individual homeowners, commercial entities, community energy cooperatives, and third-party aggregators---creates significant barriers to implementing coordinated maintenance strategies. Traditional centralized maintenance approaches, which rely on direct asset control and uniform communication protocols, are ill-suited for environments where assets are owned and operated by multiple independent entities with varying technical capabilities and business objectives.
+
+The challenge of coordinating predictive maintenance in decentralized DER ecosystems is fundamentally a communication and coordination problem. Effective predictive maintenance requires the continuous collection and analysis of real-time health data from distributed assets, the secure sharing of this information among relevant stakeholders, and the coordinated scheduling of maintenance activities to minimize grid disruption while maximizing asset availability~\cite{zhang2019}. Current approaches typically rely on proprietary communication systems and bilateral agreements between asset owners and maintenance providers, resulting in fragmented, inefficient, and often reactive maintenance practices that fail to leverage the collective intelligence available across the DER ecosystem.
+
+Emerging agent-based communication protocols offer a promising paradigm for addressing these coordination challenges. Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) represent a new generation of decentralized communication frameworks specifically designed for multi-agent systems operating in complex, dynamic environments~\cite{smith2023}. These protocols enable autonomous software agents representing different DER assets and stakeholders to communicate, negotiate, and coordinate activities without requiring centralized control or pre-established communication hierarchies. By providing standardized yet flexible communication primitives, semantic interoperability mechanisms, and built-in security features, these protocols could potentially transform how predictive maintenance is coordinated across diverse DER fleets.
+
+Despite their potential, the application of agent communication protocols to DER predictive maintenance remains largely unexplored. Existing research has primarily focused on agent-based approaches for energy trading and grid balancing~\cite{ringler2016,khorasany2020}, with limited attention to maintenance coordination. Furthermore, critical questions remain regarding how these general-purpose protocols can be adapted to meet the specific requirements of DER maintenance communication, including compliance with energy sector standards (e.g., IEEE 1547-2018), integration with existing grid management systems, and accommodation of the diverse technical capabilities of DER stakeholders.
+
+This research addresses this gap by investigating how emerging agent communication protocols---specifically ACP and A2A---can be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse DERs owned and operated by different entities. By developing a conceptual framework for agent-based maintenance communication and establishing a quantitative evaluation methodology, this work aims to provide both theoretical insights and practical guidance for implementing next-generation DER maintenance systems that can operate effectively in increasingly decentralized energy landscapes.
+
+\subsection{Problem Context}
+
+The integration of Distributed Energy Resources (DERs) into modern power grids has created unprecedented operational challenges that extend beyond traditional grid management paradigms. The shift from centralized to decentralized energy systems introduces multiple layers of complexity that fundamentally alter how maintenance activities must be coordinated and executed.
+
+\subsubsection{Multi-Stakeholder Complexity}
+
+The DER ecosystem involves diverse stakeholders with varying technical capabilities, business objectives, and operational constraints. Individual homeowners with rooftop solar installations have different maintenance priorities than commercial facility managers operating battery storage systems or electric vehicle fleet operators. This heterogeneity creates significant barriers to implementing unified maintenance strategies, as traditional approaches assume homogeneous asset ownership and standardized operational procedures~\cite{parag2016}.
+
+\subsubsection{Communication Infrastructure Limitations}
+
+Current DER communication systems primarily rely on proprietary protocols and bilateral agreements between asset owners and service providers. These fragmented approaches result in:
+\begin{itemize}
+\item \textbf{Information Silos:} Critical health data remains isolated within individual systems, preventing cross-fleet optimization
+\item \textbf{Reactive Maintenance:} Without coordinated predictive capabilities, maintenance often occurs after failures
+\item \textbf{Inefficient Resource Allocation:} Maintenance providers cannot optimize scheduling across multiple clients
+\item \textbf{Scalability Constraints:} Point-to-point communication architectures cannot efficiently scale to thousands of DER assets
+\end{itemize}
+
+\subsubsection{Technical Requirements for Predictive Maintenance}
+
+Effective predictive maintenance in DER environments requires meeting technical requirements that must be carefully distinguished from general DER management requirements. While the initial problem exploration identified stringent requirements for overall DER operations, the specific requirements for predictive maintenance coordination warrant separate consideration:
+
+\textbf{General DER Management Requirements (from initial exploration):}
+\begin{itemize}
+\item \textbf{Latency:} Sub-150ms response times for frequency response and grid stability operations
+\item \textbf{Throughput:} Minimum 1MB/s data rates for continuous telemetry across all DER functions
+\item \textbf{Security:} Quantum-resistant encryption for critical grid infrastructure
+\item \textbf{Standards:} IEEE 1547-2018 and UL 1741 SA compliance for DER interconnection
+\end{itemize}
+
+\textbf{Predictive Maintenance Specific Considerations:}
+\begin{itemize}
+\item \textbf{Data Exchange:} Requirements for health monitoring data may differ from real-time grid operations
+\item \textbf{Latency Tolerance:} Maintenance coordination may not require sub-150ms response times
+\item \textbf{Security Needs:} While critical, maintenance data security requirements may differ from grid control
+\item \textbf{Interoperability:} 42\% latency increase in multi-vendor environments remains a concern
+\item \textbf{Scalability:} Support for 10,000+ node networks is relevant for fleet-wide maintenance
+\end{itemize}
+
+The research must identify and validate the specific technical requirements for predictive maintenance communication, rather than assuming all general DER management requirements apply equally.
+
+\subsection{Literature Review}
+% [Conduct a systematic literature survey following academic standards. Include recent publications, seminal works, and identify current trends in your chosen area of sustainable energy research.]
+
+Recent research in distributed energy systems and agent-based coordination provides foundational insights for addressing DER maintenance challenges, though significant gaps remain in applying these concepts specifically to predictive maintenance coordination.
+
+\subsubsection{Agent-Based Approaches in Energy Systems}
+
+The application of multi-agent systems (MAS) to energy management has shown promise in several domains. Research on distributed artificial intelligence approaches for microgrid coordination demonstrates the potential for agent-based architectures to manage complex energy systems. These studies establish fundamental principles for distributed decision-making and autonomous coordination that could be adapted for maintenance applications.
+
+However, the literature reveals a critical gap: while 34 papers from the Elicit corpus and 30 from Semantic Scholar address various aspects of DER coordination, only one paper achieved even ``Secondary (Moderately Relevant)'' status when evaluated specifically for agent communication protocols in DER maintenance contexts. This indicates that existing research has not adequately addressed the specific communication requirements of predictive maintenance coordination.
+
+\subsubsection{Communication Protocol Development}
+
+Current research on communication protocols for distributed systems provides relevant insights but lacks energy-specific adaptations. Studies on blockchain-leveraged frameworks for IoT and federated architectures for secure DER management demonstrate advanced communication concepts but focus primarily on energy trading rather than maintenance coordination.
+
+The synthesis matrix analysis reveals that while protocol details are covered in 12 papers and implementation approaches in 14 papers, security measures receive attention in only 5 papers---a concerning gap given the critical infrastructure nature of DER systems.
+
+\subsubsection{Performance and Scalability Considerations}
+
+Literature on performance evaluation of distributed systems provides benchmarking approaches that could inform DER maintenance protocols. Studies on wireless sensor networks using LEACH protocol and adaptive leader election for microgrids offer insights into scalability and reliability mechanisms.
+
+However, pattern analysis indicates that while performance metrics are addressed in 11 papers, there is insufficient focus on the specific performance requirements of maintenance coordination, particularly regarding real-time health data exchange and coordinated scheduling across multiple stakeholders.
+
+\subsubsection{Existing Standards and Integration}
+
+Research on IEC 61850 implementation for DER management highlights the importance of standards compliance. However, the literature reveals limited exploration of how emerging agent protocols can integrate with existing energy standards while meeting the unique requirements of predictive maintenance.
+
+\subsection{Research Gap Identification}
+% [Based on your literature review, clearly identify the specific gap in knowledge or understanding that your research will address.]
+
+The literature review reveals three fundamental gaps that this research aims to address:
+
+\subsubsection{1. Protocol Adaptation Gap}
+
+While general-purpose agent communication protocols exist, there is no research on adapting ACP and A2A specifically for DER predictive maintenance. The gap analysis identifies that current literature provides limited support for critical concepts including:
+\begin{itemize}
+\item Agent communication protocols for maintenance coordination
+\item Decentralized coordination mechanisms for multi-owner scenarios
+\item Communication requirements specific to predictive maintenance
+\item Performance evaluation frameworks for maintenance applications
+\end{itemize}
+
+\subsubsection{2. Implementation-Practice Gap}
+
+The theoretical framework validation reveals that while concepts and relationships are theoretically validated, practical implementation guidance is lacking. This gap manifests in:
+\begin{itemize}
+\item Absence of concrete messaging patterns for health data exchange
+\item Lack of coordination mechanisms for maintenance scheduling
+\item Missing integration strategies with existing DER management systems
+\item Insufficient security frameworks for sensitive maintenance data
+\end{itemize}
+
+\subsubsection{3. Evaluation Methodology Gap}
+
+Current research lacks comprehensive frameworks for evaluating agent protocol performance in DER maintenance contexts. The methodological limitations include:
+\begin{itemize}
+\item Reliance on heuristic validation approaches
+\item Limited practical validation methods
+\item Insufficient system-level evaluation capabilities
+\item Lack of domain-specific performance metrics
+\end{itemize}
+
+These gaps collectively highlight the need for research that bridges theoretical agent communication concepts with practical DER maintenance requirements, develops concrete implementation frameworks, and establishes rigorous evaluation methodologies specific to this domain.
+
+\section{Research Objectives and Questions}
+\label{sec:objectives}
+
+% This section addresses ILO2: Problem formulation and research questions
+\subsection{Overall Aim}
+
+The overall aim of this research is to investigate and conceptually design how emerging agent communication protocols, specifically Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A), can be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse Distributed Energy Resources (DERs) owned and operated by different entities, and to develop a quantitative framework for evaluating their performance in this context.
+
+\subsection{Specific Objectives}
+
+The specific objectives of this research are:
+\begin{enumerate}
+    \item \textbf{To analyze} the communication requirements for decentralized predictive maintenance coordination among diverse distributed energy resources (DERs) owned and operated by different entities.
+    \item \textbf{To investigate} the key features and capabilities of Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) relevant to fulfilling these communication requirements.
+    \item \textbf{To design} a conceptual framework illustrating how ACP and/or A2A can be applied to facilitate the defined communication patterns for DER predictive maintenance.
+    \item \textbf{To specify} core messaging patterns and information exchange requirements using ACP and/or A2A primitives and concepts for DER health data exchange and maintenance task initiation.
+    \item \textbf{To develop} a quantitative evaluation framework for assessing the performance of ACP and A2A in DER predictive maintenance scenarios, identifying relevant metrics and evaluation criteria through literature review.
+\end{enumerate}
+
+\subsection{Research Questions}
+
+\subsubsection{Primary Research Question}
+
+How can Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse, multi-owner Distributed Energy Resources (DERs), and what quantitative framework can be developed to evaluate their performance in this context?
+
+\subsubsection{Sub-Questions}
+
+Based on the primary research question and specific objectives, the following sub-questions will guide the research:
+
+\begin{enumerate}
+    \item \textbf{Sub-Question 1:} What are the key communication requirements for enabling decentralized predictive maintenance coordination among diverse Distributed Energy Resources (DERs) owned and operated by different entities?
+    
+    \item \textbf{Sub-Question 2:} How can the features and messaging patterns of Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) be applied and potentially adapted to address these requirements, ensuring secure, scalable, and interoperable communication for DER predictive maintenance coordination?
+    
+    \item \textbf{Sub-Question 3:} What metrics and evaluation criteria should be used to assess the performance of ACP and A2A in the context of DER predictive maintenance coordination, and how can these be identified through literature review?
+\end{enumerate}
+
+\section{Scope and Limitations}
+\label{sec:scope}
+
+\subsection{Scope}
+
+The research is bounded by the following scope parameters:
+
+\subsubsection{Protocol Focus}
+The analysis and conceptual design will be strictly limited to the application and adaptation of the Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A). Other agent protocols or general communication standards will not be explored in detail.
+
+\subsubsection{Use Case Specificity}
+The research focuses solely on the predictive maintenance coordination use case for DERs. Applications of ACP/A2A in other DER functions (e.g., energy trading, grid stability services) are outside the scope.
+
+\subsubsection{Quantitative Framework Development}
+The research will develop a structured framework for measuring and comparing protocol performance through:
+\begin{itemize}
+    \item Literature review to identify relevant performance metrics and evaluation methodologies
+    \item Development of benchmark scenarios based on documented specifications
+    \item Establishment of evaluation criteria through analysis of protocol features
+    \item Design of comparison methodology for systematic assessment
+    \item Limited validation through simplified test cases
+\end{itemize}
+
+\subsubsection{Analysis Approach}
+The evaluation of protocol suitability will be based on:
+\begin{itemize}
+    \item Literature review and protocol specifications
+    \item Theoretical performance analysis using documented metrics
+    \item Scalability assessment based on protocol architecture
+    \item Security and reliability evaluation using published data
+    \item Results from limited framework validation
+\end{itemize}
+
+\subsection{Limitations}
+
+The research acknowledges the following key limitations:
+
+\subsubsection{Time and Resource Constraints}
+The research is constrained by the typical timeframe of a Master's thesis (approximately 20 weeks), which necessitates a focused scope and limits the depth of empirical work that can be undertaken.
+
+\subsubsection{Limited Empirical Validation}
+While the research develops a quantitative evaluation framework, comprehensive empirical validation is limited to simplified test cases due to time constraints. The research relies primarily on theoretical analysis and literature review.
+
+\subsubsection{Protocol Scope}
+By focusing exclusively on ACP and A2A, the research may not capture insights from other potentially relevant agent communication protocols. However, this focused approach allows for deeper analysis of the selected protocols.
+
+\subsubsection{DER Type Generalization}
+The research uses a generalized approach to DER characteristics rather than detailed analysis of specific DER types (e.g., solar, wind, battery storage). This ensures broader applicability while potentially missing type-specific requirements.
+
+\subsubsection{Security Analysis Depth}
+Security considerations are addressed at a conceptual level without detailed cryptographic protocol design or implementation, which would require expertise and time beyond the thesis scope.
+
+\subsubsection{Data Accessibility}
+Obtaining real-world, high-resolution predictive maintenance data from diverse, multi-owner DER fleets is challenging due to privacy concerns and proprietary systems. The research design acknowledges this and relies on publicly available information and generalized requirements.
+
+\subsection{Mitigation Strategies}
+
+To address these limitations, the research employs the following strategies:
+\begin{itemize}
+    \item Focus on high-impact aspects of the research that provide maximum value
+    \item Leverage existing literature and established frameworks to support theoretical analysis
+    \item Clearly document all assumptions and limitations
+    \item Provide comprehensive recommendations for future empirical validation
+    \item Design the framework to be extensible for future research
+\end{itemize}
+
+\section{Theoretical Framework and Key Concepts}
+\label{sec:theory}
+
+% This section helps establish the theoretical foundation for your research
+\subsection{Key Concepts and Definitions}
+[Define the main concepts that underpin your research.]
+
+\subsection{Theoretical Framework}
+[Describe the theoretical lens through which you will analyze your research problem.]
+
+\subsection{Conceptual Model}
+[If applicable, present a conceptual model showing the relationships between key variables in your study.]
+
+\section{Preliminary Methodology Considerations}
+\label{sec:methodology-preview}
+
+% This section provides a preview of methodology for FA1
+\subsection{Proposed Methodological Approach}
+
+This research will employ a mixed-methods approach combining qualitative analysis and quantitative framework development. The methodology will be structured around the following key components:
+
+\subsubsection{Literature-Based Analysis}
+A systematic literature review will form the foundation for understanding communication requirements, protocol capabilities, and evaluation metrics. This will involve:
+\begin{itemize}
+    \item Systematic search of academic databases for relevant literature on agent protocols, DER management, and predictive maintenance
+    \item Content analysis of protocol specifications and documentation
+    \item Synthesis of findings to identify patterns and gaps
+\end{itemize}
+
+\subsubsection{Conceptual Framework Development}
+The research will develop a conceptual framework through:
+\begin{itemize}
+    \item Analysis of protocol features and capabilities
+    \item Mapping of communication requirements to protocol primitives
+    \item Design of messaging patterns for maintenance coordination
+    \item Integration of security and scalability considerations
+\end{itemize}
+
+\subsubsection{Quantitative Evaluation Framework}
+A structured approach to protocol evaluation will be developed, including:
+\begin{itemize}
+    \item Identification of relevant performance metrics through literature review
+    \item Development of benchmark scenarios for protocol comparison
+    \item Design of evaluation criteria specific to DER maintenance
+    \item Limited validation through simplified test cases
+\end{itemize}
+
+\subsection{Alternative Methodologies Considered}
+
+Several alternative methodological approaches were considered:
+
+\textbf{1. Pure Empirical Approach:} Full implementation and testing of protocols in real DER environments. While this would provide strong validation, it exceeds the scope and timeframe of a Master's thesis.
+
+\textbf{2. Simulation-Based Approach:} Development of comprehensive simulation models for protocol testing. This was deemed too resource-intensive and would require extensive validation of the simulation environment itself.
+
+\textbf{3. Case Study Approach:} In-depth analysis of existing DER maintenance systems. This approach was limited by data accessibility and the lack of existing agent-based implementations.
+
+The chosen mixed-methods approach balances theoretical rigor with practical feasibility, allowing for meaningful contributions within the thesis constraints while providing a foundation for future empirical work.
+
+\section{Research Methodology}
+\label{sec:methodology}
+
+% This section addresses ILO3: Compare and discuss alternative research methods
+\subsection{Methodological Approach}
+[Describe whether your research will be quantitative, qualitative, or mixed-methods, and justify this choice.]
+
+\subsection{Alternative Methodologies Considered}
+[Discuss at least 2-3 alternative methodological approaches you considered and explain why you chose your selected approach.]
+
+\subsection{Data Collection Methods}
+[Describe in detail how you will collect data for your research.]
+
+\subsection{Data Analysis Methods}
+[Explain how you will analyze the data you collect.]
+
+\subsection{Validation and Quality Assurance}
+[Describe how you will ensure the reliability and validity of your research findings.]
+
+\section{Ethics and Sustainability Considerations}
+\label{sec:ethics}
+
+% This section addresses ILO4: Ethical and sustainability dimensions
+\subsection{Ethical Considerations}
+[Discuss any ethical issues related to your research and how you will address them. Consider data privacy, informed consent, potential impacts on communities, etc.]
+
+\subsection{Sustainability Dimensions}
+[Analyze how your research relates to sustainable development. Consider environmental, social, and economic dimensions. Reference relevant Sustainable Development Goals (SDGs) where applicable.]
+
+\subsection{Potential Unintended Consequences}
+[Discuss any potential negative impacts your research or its applications might have and how these could be mitigated.]
+
+\section{Risk Assessment and Uncertainty Management}
+\label{sec:risk}
+
+\subsection{Risk Identification}
+[Identify potential risks to your research project - technical, methodological, resource-related, etc.]
+
+\begin{table}[H]
+\centering
+\caption{Risk Assessment Matrix}
+\begin{tabular}{|p{3cm}|p{6cm}|p{6cm}|}
+\hline
+\textbf{Risk} & \textbf{Description} & \textbf{Mitigation Strategy} \\
+\hline
+[Risk 1] & [Description] & [Mitigation] \\
+\hline
+[Risk 2] & [Description] & [Mitigation] \\
+\hline
+[Add more rows as needed] & & \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Uncertainty Management}
+[Discuss how you will handle uncertainties in your research process and findings.]
+
+\subsection{Contingency Plans}
+[Outline alternative approaches if your primary methodology encounters problems.]
+
+\section{Implementation Plan and Timeline}
+\label{sec:implementation}
+
+\subsection{Research Phases}
+[Break down your research into distinct phases with clear deliverables.]
+
+\subsection{Timeline and Milestones}
+[Provide a detailed timeline for your research. Consider using a Gantt chart.]
+
+\begin{figure}[H]
+\centering
+\begin{ganttchart}[
+    x unit=0.5cm,
+    y unit title=0.6cm,
+    y unit chart=0.5cm,
+    vgrid,
+    hgrid,
+    title height=1,
+    bar height=0.6
+]{1}{24}
+\gantttitle{Research Timeline (Months)}{24} \\
+\gantttitlelist{1,...,24}{1} \\
+\ganttbar{Literature Review}{1}{3} \\
+\ganttbar{Methodology Development}{2}{5} \\
+\ganttbar{Data Collection}{4}{12} \\
+\ganttbar{Data Analysis}{10}{18} \\
+\ganttbar{Results Interpretation}{16}{20} \\
+\ganttbar{Thesis Writing}{18}{23} \\
+\ganttbar{Revision \& Finalization}{22}{24}
+\end{ganttchart}
+\caption{Proposed Timeline for Research}
+\end{figure}
+
+\subsection{Resource Requirements}
+[List the resources you will need - software, equipment, funding, access to data, etc.]
+
+\subsection{Deliverables and Milestones}
+[Specify what deliverables you will produce at key milestones.]
+
+\section{Expected Results and Contributions}
+\label{sec:results}
+
+\subsection{Expected Outcomes}
+[Describe what results you expect to achieve through your research.]
+
+\subsection{Contribution to Knowledge}
+[Explain how your research will contribute to the existing body of knowledge in sustainable energy.]
+
+\subsection{Practical Implications}
+[Discuss the potential practical applications of your research findings.]
+
+\subsection{Dissemination Plan}
+[Outline how you plan to share your research findings - conferences, publications, etc.]
+
+
+\clearpage
+
+% Individual Contributions Section (for group work documentation)
+\section*{Group Work: Individual Contributions}
+\label{sec:contributions}
+
+\subsection*{[Student Name 1]}
+[Describe specific contributions to the group work]
+
+\subsection*{[Student Name 2]}
+[Describe specific contributions to the group work]
+
+\subsection*{[Student Name 3]}
+[Describe specific contributions to the group work]
+
+\clearpage
+\addcontentsline{toc}{section}{References}
+\printbibliography[heading=bibintoc]
+
+\clearpage
+
+% Appendices
+\begin{appendices}
+\section{Additional Supporting Materials}
+[Include any additional materials that support your proposal but are too detailed for the main text]
+
+\section{Detailed Literature Review Tables}
+[If you have extensive literature review tables, include them here]
+
+\section{Methodological Details}
+[Include detailed methodological information that couldn't fit in the main text]
+
+\end{appendices}
+
+\end{document}
