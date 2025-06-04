@@ -151,7 +151,6 @@
     - [x] 4.3.4 Identify theoretical gaps
     - [x] 4.3.5 Map methodological limitations
     - [x] 4.3.6 Document practical needs
-    - [x] 4.3.7 Formulate gap statement
 
 - [x] 5.0 Methodology Development (ILO3)
   - [x] 5.1 Methodology Research
@@ -203,7 +202,7 @@
     - [x] 8.1.2 Map main references for sections
     - [x] 8.1.3 Incorporate visual planning
     - [x] 8.1.4 List all potential citations
-    - [ ] 8.1.5 Develop first draft for sections
+    - [x] 8.1.5 Develop first draft for sections
     - [ ] 8.1.6 Ensure consistent formatting
   - [ ] 8.2 Quality Assurance
     - [ ] 8.2.1 Review against grading criteria

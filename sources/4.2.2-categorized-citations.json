@@ -1,0 +1,565 @@
+{
+  "human_der_worker": [
+    {
+      "filename": "Sen2021_Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_.md",
+      "title": "Sen2021 Emerging OSH Issues in Installation and Maintenance of Floating Solar Photovoltaic Projects ",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Sen2021_Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_.md"
+    },
+    {
+      "filename": "Gerassis2018_The_Impact_of_Renewable_Energy_for_Occupational_Health_in_the_Smart_Grid_Era.md",
+      "title": "Gerassis2018 The Impact of Renewable Energy for Occupational Health in the Smart Grid Era",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Gerassis2018_The_Impact_of_Renewable_Energy_for_Occupational_Health_in_the_Smart_Grid_Era.md"
+    },
+    {
+      "filename": "Operational_Issues_of_Contemporary_Distribution_Systems-_A_Review_on_Recent_and_Emerging_Concern.md",
+      "title": "Operational Issues of Contemporary Distribution Systems- A Review on Recent and Emerging Concern",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Operational_Issues_of_Contemporary_Distribution_Systems-_A_Review_on_Recent_and_Emerging_Concern.md"
+    },
+    {
+      "filename": "Nuclear_power_plant_communications_in_normative_and_actual_practice-_A_field_study_of_control_room_o.md",
+      "title": "Nuclear power plant communications in normative and actual practice- A field study of control room o",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Nuclear_power_plant_communications_in_normative_and_actual_practice-_A_field_study_of_control_room_o.md"
+    },
+    {
+      "filename": "Xia2019_A_Fully_Distributed_Hierarchical_Control_Framework_for_Coordinated_Operation_of_DERs_in_Acti.md",
+      "title": "Xia2019 A Fully Distributed Hierarchical Control Framework for Coordinated Operation of DERs in Acti",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Xia2019_A_Fully_Distributed_Hierarchical_Control_Framework_for_Coordinated_Operation_of_DERs_in_Acti.md"
+    },
+    {
+      "filename": "Stewart2020_The_effect_of_harness_suspension_on_a_simulated_maintenance_task_efficacy_in_the_renewab.md",
+      "title": "Stewart2020 The effect of harness suspension on a simulated maintenance task efficacy in the renewab",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Stewart2020_The_effect_of_harness_suspension_on_a_simulated_maintenance_task_efficacy_in_the_renewab.md"
+    },
+    {
+      "filename": "Duroha-_SUSTAINABLE_ERGONOMICS_FOR_SOLAR_INSTALLATIONS.md",
+      "title": "Duroha- SUSTAINABLE ERGONOMICS FOR SOLAR INSTALLATIONS",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Duroha-_SUSTAINABLE_ERGONOMICS_FOR_SOLAR_INSTALLATIONS.md"
+    },
+    {
+      "filename": "Exploring_the_OSH_Scenario_in_Floating_Solar_PV_Projects_in_India_and_Opportunities_for_Ergonomics_D.md",
+      "title": "Exploring the OSH Scenario in Floating Solar PV Projects in India and Opportunities for Ergonomics D",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Exploring_the_OSH_Scenario_in_Floating_Solar_PV_Projects_in_India_and_Opportunities_for_Ergonomics_D.md"
+    },
+    {
+      "filename": "Safety_and_complexity__inter-departmental_relationships_as_a_threat_to_patient_safety_in_the_operating_department..md",
+      "title": "Safety and complexity  inter-departmental relationships as a threat to patient safety in the operating department.",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Safety_and_complexity__inter-departmental_relationships_as_a_threat_to_patient_safety_in_the_operating_department..md"
+    },
+    {
+      "filename": "A_cross-sectional_survey_of_musculoskeletal_disorder_hazard_exposures_and_self-reported_discomfort_a.md",
+      "title": "A cross-sectional survey of musculoskeletal disorder hazard exposures and self-reported discomfort a",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/A_cross-sectional_survey_of_musculoskeletal_disorder_hazard_exposures_and_self-reported_discomfort_a.md"
+    },
+    {
+      "filename": "On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks__A_Review_of_Current_Solution_Methods,_Challenges,_and_Opportunitie.md",
+      "title": "On Integrating and Operating Distributed Energy Resources in Distribution Networks  A Review of Current Solution Methods, Challenges, and Opportunitie",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks__A_Review_of_Current_Solution_Methods,_Challenges,_and_Opportunitie.md"
+    },
+    {
+      "filename": "The_Impact_of_Renewable_Energy_for_Occupational_Health_in_the_Smart_Grid_Era.md",
+      "title": "The Impact of Renewable Energy for Occupational Health in the Smart Grid Era",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/The_Impact_of_Renewable_Energy_for_Occupational_Health_in_the_Smart_Grid_Era.md"
+    },
+    {
+      "filename": "Wagner2021_Private_Power_and_Public_Interests_An_Ethnographic_Examination_of_the_Power_Outages_in_Te.md",
+      "title": "Wagner2021 Private Power and Public Interests An Ethnographic Examination of the Power Outages in Te",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Wagner2021_Private_Power_and_Public_Interests_An_Ethnographic_Examination_of_the_Power_Outages_in_Te.md"
+    },
+    {
+      "filename": "The_Role_of_Nuclear_Power_Plant_Operators_Communications_in_Providing_Resilience_and_Stability_in_Sy.md",
+      "title": "The Role of Nuclear Power Plant Operators Communications in Providing Resilience and Stability in Sy",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/The_Role_of_Nuclear_Power_Plant_Operators_Communications_in_Providing_Resilience_and_Stability_in_Sy.md"
+    },
+    {
+      "filename": "Grid_Services_by_Behind-the-Meter_Distributed_Energy_Resources__NY_State_Grid_Case_Study.md",
+      "title": "Grid Services by Behind-the-Meter Distributed Energy Resources  NY State Grid Case Study",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Grid_Services_by_Behind-the-Meter_Distributed_Energy_Resources__NY_State_Grid_Case_Study.md"
+    },
+    {
+      "filename": "Muhanji2018_Distributed_Control_for_Distributed_Energy_Resources_Long-Term_Challenges_and_Lessons_Le.md",
+      "title": "Muhanji2018 Distributed Control for Distributed Energy Resources Long-Term Challenges and Lessons Le",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Muhanji2018_Distributed_Control_for_Distributed_Energy_Resources_Long-Term_Challenges_and_Lessons_Le.md"
+    },
+    {
+      "filename": "Keselamatan_Dan_Kesehatan_Kerja_Pada_Offshore_Wind_Farm_GEO_QUIP_MARINE_Company.md",
+      "title": "Keselamatan Dan Kesehatan Kerja Pada Offshore Wind Farm GEO QUIP MARINE Company",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Keselamatan_Dan_Kesehatan_Kerja_Pada_Offshore_Wind_Farm_GEO_QUIP_MARINE_Company.md"
+    },
+    {
+      "filename": "Hooshyar2023_Grid_Services_by_Behind-the-Meter_Distributed_Energy_Resources_NY_State_Grid_Case_Study.md",
+      "title": "Hooshyar2023 Grid Services by Behind-the-Meter Distributed Energy Resources NY State Grid Case Study",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Hooshyar2023_Grid_Services_by_Behind-the-Meter_Distributed_Energy_Resources_NY_State_Grid_Case_Study.md"
+    },
+    {
+      "filename": "Renewable_energy_and_occupational_health_and_safety_research_directions-_a_white_paper_from_the_Ener.md",
+      "title": "Renewable energy and occupational health and safety research directions- a white paper from the Ener",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Renewable_energy_and_occupational_health_and_safety_research_directions-_a_white_paper_from_the_Ener.md"
+    },
+    {
+      "filename": "Transactive_control__a_framework_for_operating_power_systems_characterized_by_high_penetration_of_distributed_energy_resources.md",
+      "title": "Transactive control  a framework for operating power systems characterized by high penetration of distributed energy resources",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Transactive_control__a_framework_for_operating_power_systems_characterized_by_high_penetration_of_distributed_energy_resources.md"
+    },
+    {
+      "filename": "SUSTAINABLE_ERGONOMICS_FOR_SOLAR_INSTALLATIONS.md",
+      "title": "SUSTAINABLE ERGONOMICS FOR SOLAR INSTALLATIONS",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/SUSTAINABLE_ERGONOMICS_FOR_SOLAR_INSTALLATIONS.md"
+    },
+    {
+      "filename": "The_effect_of_harness_suspension_on_a_simulated_maintenance_task_efficacy_in_the_renewable_energy_industry..md",
+      "title": "The effect of harness suspension on a simulated maintenance task efficacy in the renewable energy industry.",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/The_effect_of_harness_suspension_on_a_simulated_maintenance_task_efficacy_in_the_renewable_energy_industry..md"
+    },
+    {
+      "filename": "Distributed_Control_for_Distributed_Energy_Resources__Long-Term_Challenges_and_Lessons_Learned.md",
+      "title": "Distributed Control for Distributed Energy Resources  Long-Term Challenges and Lessons Learned",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Distributed_Control_for_Distributed_Energy_Resources__Long-Term_Challenges_and_Lessons_Learned.md"
+    },
+    {
+      "filename": "TSO_DSO_coordination_in_a_context_of_distributed_energy_resource_penetration.md",
+      "title": "TSO DSO coordination in a context of distributed energy resource penetration",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/TSO_DSO_coordination_in_a_context_of_distributed_energy_resource_penetration.md"
+    },
+    {
+      "filename": "Integration_of_Utility_Distributed_Energy_Resource_Management_System_and_Aggregators_for_Evolving_Distribution_System_Operators.md",
+      "title": "Integration of Utility Distributed Energy Resource Management System and Aggregators for Evolving Distribution System Operators",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Integration_of_Utility_Distributed_Energy_Resource_Management_System_and_Aggregators_for_Evolving_Distribution_System_Operators.md"
+    },
+    {
+      "filename": "Private_Power_and_Public_Interests__An_Ethnographic_Examination_of_the_Power_Outages_in_Texas_in_February_2021.md",
+      "title": "Private Power and Public Interests  An Ethnographic Examination of the Power Outages in Texas in February 2021",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Private_Power_and_Public_Interests__An_Ethnographic_Examination_of_the_Power_Outages_in_Texas_in_February_2021.md"
+    },
+    {
+      "filename": "Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_and_Their_Link_with_Sustainable_Development_Goals.md",
+      "title": "Emerging OSH Issues in Installation and Maintenance of Floating Solar Photovoltaic Projects and Their Link with Sustainable Development Goals",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Emerging_OSH_Issues_in_Installation_and_Maintenance_of_Floating_Solar_Photovoltaic_Projects_and_Their_Link_with_Sustainable_Development_Goals.md"
+    },
+    {
+      "filename": "Strezoski2022_Integration_of_Utility_Distributed_Energy_Resource_Management_System_and_Aggregators_f.md",
+      "title": "Strezoski2022 Integration of Utility Distributed Energy Resource Management System and Aggregators f",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Strezoski2022_Integration_of_Utility_Distributed_Energy_Resource_Management_System_and_Aggregators_f.md"
+    },
+    {
+      "filename": "Guzm\u00e1n-Henao2024_On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks_.md",
+      "title": "Guzm\u00e1n-Henao2024 On Integrating and Operating Distributed Energy Resources in Distribution Networks ",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Guzm\u00e1n-Henao2024_On_Integrating_and_Operating_Distributed_Energy_Resources_in_Distribution_Networks_.md"
+    },
+    {
+      "filename": "A_Fully_Distributed_Hierarchical_Control_Framework_for_Coordinated_Operation_of_DERs_in_Active_Distribution_Power_Networks.md",
+      "title": "A Fully Distributed Hierarchical Control Framework for Coordinated Operation of DERs in Active Distribution Power Networks",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/A_Fully_Distributed_Hierarchical_Control_Framework_for_Coordinated_Operation_of_DERs_in_Active_Distribution_Power_Networks.md"
+    },
+    {
+      "filename": "Hu2017_Transactive_control_a_framework_for_operating_power_systems_characterized_by_high_penetration.md",
+      "title": "Hu2017 Transactive control a framework for operating power systems characterized by high penetration",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Hu2017_Transactive_control_a_framework_for_operating_power_systems_characterized_by_high_penetration.md"
+    },
+    {
+      "filename": "Waring2013_Safety_and_complexity_inter-departmental_relationships_as_a_threat_to_patient_safety_in_t.md",
+      "title": "Waring2013 Safety and complexity inter-departmental relationships as a threat to patient safety in t",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.1-applied-human-factors/Waring2013_Safety_and_complexity_inter-departmental_relationships_as_a_threat_to_patient_safety_in_t.md"
+    }
+  ],
+  "application_context": [
+    {
+      "filename": "Truitt2022_Building_a_More_Diverse_Equitable_and_Inclusive_Energy_Efficiency_Workforce.md",
+      "title": "Truitt2022 Building a More Diverse Equitable and Inclusive Energy Efficiency Workforce",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Truitt2022_Building_a_More_Diverse_Equitable_and_Inclusive_Energy_Efficiency_Workforce.md"
+    },
+    {
+      "filename": "Beyond_DERMS__Demonstration_of_Automated_Grid_Services,_Mode_Transition,_and_Resilience.md",
+      "title": "Beyond DERMS  Demonstration of Automated Grid Services, Mode Transition, and Resilience",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Beyond_DERMS__Demonstration_of_Automated_Grid_Services,_Mode_Transition,_and_Resilience.md"
+    },
+    {
+      "filename": "Gadzanku2023_An_Updated_Review_of_the_Solar_PV_Installation_Workforce_Literature.md",
+      "title": "Gadzanku2023 An Updated Review of the Solar PV Installation Workforce Literature",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Gadzanku2023_An_Updated_Review_of_the_Solar_PV_Installation_Workforce_Literature.md"
+    },
+    {
+      "filename": "Marot2020_Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+      "title": "Marot2020 Towards an AI Assistant for Power Grid Operators",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Marot2020_Towards_an_AI_Assistant_for_Power_Grid_Operators.md"
+    },
+    {
+      "filename": "Levanthal2013_A_National_Skills_Assessment_of_the_US_Wind_Industry_in_2012.md",
+      "title": "Levanthal2013 A National Skills Assessment of the US Wind Industry in 2012",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Levanthal2013_A_National_Skills_Assessment_of_the_US_Wind_Industry_in_2012.md"
+    },
+    {
+      "filename": "Energy_Efficiency_Services_Sector__Workforce_Education_and_Training_Needs.md",
+      "title": "Energy Efficiency Services Sector  Workforce Education and Training Needs",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Energy_Efficiency_Services_Sector__Workforce_Education_and_Training_Needs.md"
+    },
+    {
+      "filename": "Towards_an_AI_Assistant_for_Power_Grid_Operators.md",
+      "title": "Towards an AI Assistant for Power Grid Operators",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Towards_an_AI_Assistant_for_Power_Grid_Operators.md"
+    },
+    {
+      "filename": "Building_a_More_Diverse,_Equitable,_and_Inclusive_Energy_Efficiency_Workforce.md",
+      "title": "Building a More Diverse, Equitable, and Inclusive Energy Efficiency Workforce",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Building_a_More_Diverse,_Equitable,_and_Inclusive_Energy_Efficiency_Workforce.md"
+    },
+    {
+      "filename": "Impact_of_Artificial_Intelligence_on_the_Planning_and_Operation_of_Distributed_Energy_Systems_in_Sma.md",
+      "title": "Impact of Artificial Intelligence on the Planning and Operation of Distributed Energy Systems in Sma",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Impact_of_Artificial_Intelligence_on_the_Planning_and_Operation_of_Distributed_Energy_Systems_in_Sma.md"
+    },
+    {
+      "filename": "Cyber-Physical_Security__A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md",
+      "title": "Cyber-Physical Security  A Game Theory Model of Humans Interacting Over Control Systems",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Cyber-Physical_Security__A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md"
+    },
+    {
+      "filename": "Intelligent_Decision_Support_System_for_Energy_Management_in_Demand_Response_Programs_and_Residentia.md",
+      "title": "Intelligent Decision Support System for Energy Management in Demand Response Programs and Residentia",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Intelligent_Decision_Support_System_for_Energy_Management_in_Demand_Response_Programs_and_Residentia.md"
+    },
+    {
+      "filename": "A_Survey_on_Human_Machine_Interaction_in_Industry_4.0.md",
+      "title": "A Survey on Human Machine Interaction in Industry 4.0",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_Survey_on_Human_Machine_Interaction_in_Industry_4.0.md"
+    },
+    {
+      "filename": "A_Decision_Support_Tool_for_Distributed_Solar_and_Storage_Investments__A_Case_Study_in_Austin,_TX.md",
+      "title": "A Decision Support Tool for Distributed Solar and Storage Investments  A Case Study in Austin, TX",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_Decision_Support_Tool_for_Distributed_Solar_and_Storage_Investments__A_Case_Study_in_Austin,_TX.md"
+    },
+    {
+      "filename": "Singh2022_Beyond_DERMS_Demonstration_of_Automated_Grid_Services_Mode_Transition_and_Resilience.md",
+      "title": "Singh2022 Beyond DERMS Demonstration of Automated Grid Services Mode Transition and Resilience",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Singh2022_Beyond_DERMS_Demonstration_of_Automated_Grid_Services_Mode_Transition_and_Resilience.md"
+    },
+    {
+      "filename": "Organizational_aspects_for_successful_integration_of_human-machine_interaction_in_the_industry_4.0_era.md",
+      "title": "Organizational aspects for successful integration of human-machine interaction in the industry 4.0 era",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Organizational_aspects_for_successful_integration_of_human-machine_interaction_in_the_industry_4.0_era.md"
+    },
+    {
+      "filename": "Backhaus2013_Cyber-Physical_Security_A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md",
+      "title": "Backhaus2013 Cyber-Physical Security A Game Theory Model of Humans Interacting Over Control Systems",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Backhaus2013_Cyber-Physical_Security_A_Game_Theory_Model_of_Humans_Interacting_Over_Control_Systems.md"
+    },
+    {
+      "filename": "166_15091_Smart_Buildings_and_Smart_Grids_5_9_Human_Machine_Interaction_in_Energy_Informatics.md",
+      "title": "166 15091 Smart Buildings and Smart Grids 5 9 Human Machine Interaction in Energy Informatics",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/166_15091_Smart_Buildings_and_Smart_Grids_5_9_Human_Machine_Interaction_in_Energy_Informatics.md"
+    },
+    {
+      "filename": "Integrating_Smart_Distributed_Energy_Resources_with_Distribution_Management_Systems.md",
+      "title": "Integrating Smart Distributed Energy Resources with Distribution Management Systems",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Integrating_Smart_Distributed_Energy_Resources_with_Distribution_Management_Systems.md"
+    },
+    {
+      "filename": "Demonstration_of_decision_support_for_real_time_operation.md",
+      "title": "Demonstration of decision support for real time operation",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Demonstration_of_decision_support_for_real_time_operation.md"
+    },
+    {
+      "filename": "An_Updated_Review_of_the_Solar_PV_Installation_Workforce_Literature.md",
+      "title": "An Updated Review of the Solar PV Installation Workforce Literature",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/An_Updated_Review_of_the_Solar_PV_Installation_Workforce_Literature.md"
+    },
+    {
+      "filename": "Krupitzer2020_A_Survey_on_Human_Machine_Interaction_in_Industry_40.md",
+      "title": "Krupitzer2020 A Survey on Human Machine Interaction in Industry 40",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Krupitzer2020_A_Survey_on_Human_Machine_Interaction_in_Industry_40.md"
+    },
+    {
+      "filename": "A_New_Model_for_IndustryUniversity_Partnerships.md",
+      "title": "A New Model for IndustryUniversity Partnerships",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_New_Model_for_IndustryUniversity_Partnerships.md"
+    },
+    {
+      "filename": "A_Human-Machine_Reinforcement_Learning_Method_for_Cooperative_Energy_Management.md",
+      "title": "A Human-Machine Reinforcement Learning Method for Cooperative Energy Management",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_Human-Machine_Reinforcement_Learning_Method_for_Cooperative_Energy_Management.md"
+    },
+    {
+      "filename": "Goldman2010_Energy_Efficiency_Services_Sector_Workforce_Education_and_Training_Needs.md",
+      "title": "Goldman2010 Energy Efficiency Services Sector Workforce Education and Training Needs",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Goldman2010_Energy_Efficiency_Services_Sector_Workforce_Education_and_Training_Needs.md"
+    },
+    {
+      "filename": "Introduction_to_Workforce_Development_Energy_Futures_Grant.md",
+      "title": "Introduction to Workforce Development Energy Futures Grant",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Introduction_to_Workforce_Development_Energy_Futures_Grant.md"
+    },
+    {
+      "filename": "Energy_Efficiency_Industry_Trends_and_Workforce_Development_in_Washington_State.md",
+      "title": "Energy Efficiency Industry Trends and Workforce Development in Washington State",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Energy_Efficiency_Industry_Trends_and_Workforce_Development_in_Washington_State.md"
+    },
+    {
+      "filename": "FUSE_using_artificial_intelligence_in_the_energy_grid_of_tomorrow.md",
+      "title": "FUSE using artificial intelligence in the energy grid of tomorrow",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/FUSE_using_artificial_intelligence_in_the_energy_grid_of_tomorrow.md"
+    },
+    {
+      "filename": "Lodgaard2020_Organizational_aspects_for_successful_integration_of_human-machine_interaction_in_the_i.md",
+      "title": "Lodgaard2020 Organizational aspects for successful integration of human-machine interaction in the i",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Lodgaard2020_Organizational_aspects_for_successful_integration_of_human-machine_interaction_in_the_i.md"
+    },
+    {
+      "filename": "A_National_Skills_Assessment_of_the_U.S._Wind_Industry_in_2012.md",
+      "title": "A National Skills Assessment of the U.S. Wind Industry in 2012",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/A_National_Skills_Assessment_of_the_U.S._Wind_Industry_in_2012.md"
+    },
+    {
+      "filename": "Bandyopadhyay2019_A_Decision_Support_Tool_for_Distributed_Solar_and_Storage_Investments_A_Case_Study.md",
+      "title": "Bandyopadhyay2019 A Decision Support Tool for Distributed Solar and Storage Investments A Case Study",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.2-industry-academia-collaborative/Bandyopadhyay2019_A_Decision_Support_Tool_for_Distributed_Solar_and_Storage_Investments_A_Case_Study.md"
+    }
+  ],
+  "digital_twin_worker": [
+    {
+      "filename": "3DHOP-_A_Novel_Technological_Solution_for_the_Development_of_Online_Virtual_Museums.md",
+      "title": "3DHOP- A Novel Technological Solution for the Development of Online Virtual Museums",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/3DHOP-_A_Novel_Technological_Solution_for_the_Development_of_Online_Virtual_Museums.md"
+    },
+    {
+      "filename": "Supporting_Control_Room_Operators_in_Highly_Automated_Future_Power_Networks.md",
+      "title": "Supporting Control Room Operators in Highly Automated Future Power Networks",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Supporting_Control_Room_Operators_in_Highly_Automated_Future_Power_Networks.md"
+    },
+    {
+      "filename": "Towards_an_AI_assistant_for_human_grid_operators.md",
+      "title": "Towards an AI assistant for human grid operators",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Towards_an_AI_assistant_for_human_grid_operators.md"
+    },
+    {
+      "filename": "Zaher2016_Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_po.md",
+      "title": "Zaher2016 Enhanced situational awareness and decision support for operators of future distributed po",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Zaher2016_Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_po.md"
+    },
+    {
+      "filename": "Harnessing_machine_learning_for_predictive_maintenance_in_energy_infrastructure-_A_review_of_challen.md",
+      "title": "Harnessing machine learning for predictive maintenance in energy infrastructure- A review of challen",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Harnessing_machine_learning_for_predictive_maintenance_in_energy_infrastructure-_A_review_of_challen.md"
+    },
+    {
+      "filename": "Agarwal2024_PREDICTIVE_MAINTENANCE_UNLEASHING_APPLICATIONS_OF_MACHINE_LEARNING_A_COMPREHENSIVE_EXPLO.md",
+      "title": "Agarwal2024 PREDICTIVE MAINTENANCE UNLEASHING APPLICATIONS OF MACHINE LEARNING A COMPREHENSIVE EXPLO",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Agarwal2024_PREDICTIVE_MAINTENANCE_UNLEASHING_APPLICATIONS_OF_MACHINE_LEARNING_A_COMPREHENSIVE_EXPLO.md"
+    },
+    {
+      "filename": "An_overview_of_the_application_of_machine_learning_in_predictive_maintenance.md",
+      "title": "An overview of the application of machine learning in predictive maintenance",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/An_overview_of_the_application_of_machine_learning_in_predictive_maintenance.md"
+    },
+    {
+      "filename": "Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_power_network_architectures.md",
+      "title": "Enhanced situational awareness and decision support for operators of future distributed power network architectures",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Enhanced_situational_awareness_and_decision_support_for_operators_of_future_distributed_power_network_architectures.md"
+    },
+    {
+      "filename": "Context-based_decision_support_for_sustainable_optimization_of_energy_consumption.md",
+      "title": "Context-based decision support for sustainable optimization of energy consumption",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Context-based_decision_support_for_sustainable_optimization_of_energy_consumption.md"
+    },
+    {
+      "filename": "On_Training_Effective_Reinforcement_Learning_Agents_for_Real-time_Power_Grid_Operation_and_Control.md",
+      "title": "On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/On_Training_Effective_Reinforcement_Learning_Agents_for_Real-time_Power_Grid_Operation_and_Control.md"
+    },
+    {
+      "filename": "Practical_applications_of_multi-agent_systems_in_electric_power_systems.md",
+      "title": "Practical applications of multi-agent systems in electric power systems",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Practical_applications_of_multi-agent_systems_in_electric_power_systems.md"
+    },
+    {
+      "filename": "Machine_Learning_for_Predictive_Maintenance_to_Enhance_Energy_Efficiency_in_Industrial_Operations.md",
+      "title": "Machine Learning for Predictive Maintenance to Enhance Energy Efficiency in Industrial Operations",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Machine_Learning_for_Predictive_Maintenance_to_Enhance_Energy_Efficiency_in_Industrial_Operations.md"
+    },
+    {
+      "filename": "First_Field_Trial_of_LLM-Powered_AI_Agent_for_Lifecycle_Management_of_Autonomous_Driving_Optical_Net.md",
+      "title": "First Field Trial of LLM-Powered AI Agent for Lifecycle Management of Autonomous Driving Optical Net",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/First_Field_Trial_of_LLM-Powered_AI_Agent_for_Lifecycle_Management_of_Autonomous_Driving_Optical_Net.md"
+    },
+    {
+      "filename": "Wang2021_Understanding_the_implications_of_artificial_intelligence_on_field_service_operations_a_cas.md",
+      "title": "Wang2021 Understanding the implications of artificial intelligence on field service operations a cas",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Wang2021_Understanding_the_implications_of_artificial_intelligence_on_field_service_operations_a_cas.md"
+    },
+    {
+      "filename": "Catterson2012_Practical_applications_of_multi-agent_systems_in_electric_power_systems.md",
+      "title": "Catterson2012 Practical applications of multi-agent systems in electric power systems",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Catterson2012_Practical_applications_of_multi-agent_systems_in_electric_power_systems.md"
+    },
+    {
+      "filename": "Understanding_the_implications_of_artificial_intelligence_on_field_service_operations__a_case_study_of_BT.md",
+      "title": "Understanding the implications of artificial intelligence on field service operations  a case study of BT",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Understanding_the_implications_of_artificial_intelligence_on_field_service_operations__a_case_study_of_BT.md"
+    },
+    {
+      "filename": "Chen2017_Supporting_Control_Room_Operators_in_Highly_Automated_Future_Power_Networks.md",
+      "title": "Chen2017 Supporting Control Room Operators in Highly Automated Future Power Networks",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Chen2017_Supporting_Control_Room_Operators_in_Highly_Automated_Future_Power_Networks.md"
+    },
+    {
+      "filename": "Leverage_Utility_Management_and_Artificial_Intelligence_in_Todays_COVID19_World.md",
+      "title": "Leverage Utility Management and Artificial Intelligence in Todays COVID19 World",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Leverage_Utility_Management_and_Artificial_Intelligence_in_Todays_COVID19_World.md"
+    },
+    {
+      "filename": "PREDICTIVE_MAINTENANCE_UNLEASHING_APPLICATIONS_OF_MACHINE_LEARNING__A_COMPREHENSIVE_EXPLORATION.md",
+      "title": "PREDICTIVE MAINTENANCE UNLEASHING APPLICATIONS OF MACHINE LEARNING  A COMPREHENSIVE EXPLORATION",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/PREDICTIVE_MAINTENANCE_UNLEASHING_APPLICATIONS_OF_MACHINE_LEARNING__A_COMPREHENSIVE_EXPLORATION.md"
+    },
+    {
+      "filename": "Build_Smart_Grids_on_Artificial_Intelligence_-_A_Real-world_Example.md",
+      "title": "Build Smart Grids on Artificial Intelligence - A Real-world Example",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Build_Smart_Grids_on_Artificial_Intelligence_-_A_Real-world_Example.md"
+    },
+    {
+      "filename": "Decision_Support_System_for_a_Low_Voltage_Renewable_Energy_System.md",
+      "title": "Decision Support System for a Low Voltage Renewable Energy System",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Decision_Support_System_for_a_Low_Voltage_Renewable_Energy_System.md"
+    },
+    {
+      "filename": "Tr\u1ea7n2021_An_overview_of_the_application_of_machine_learning_in_predictive_maintenance.md",
+      "title": "Tr\u1ea7n2021 An overview of the application of machine learning in predictive maintenance",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Tr\u1ea7n2021_An_overview_of_the_application_of_machine_learning_in_predictive_maintenance.md"
+    },
+    {
+      "filename": "Implementing_Industry_40-_An_In-Depth_Case_Study_Integrating_Digitalisation_and_Modelling_for_Decisi.md",
+      "title": "Implementing Industry 40- An In-Depth Case Study Integrating Digitalisation and Modelling for Decisi",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.3-applied-ai-automation/Implementing_Industry_40-_An_In-Depth_Case_Study_Integrating_Digitalisation_and_Modelling_for_Decisi.md"
+    }
+  ],
+  "evaluation_context": [
+    {
+      "filename": "Safeguarding_the_electric_workplace.md",
+      "title": "Safeguarding the electric workplace",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Safeguarding_the_electric_workplace.md"
+    },
+    {
+      "filename": "SPL25_RESEARCH_AND_OCCUPATIONAL_HEALTH_ACTIVITIES_WITHIN_THE_PEROSH_NETWORK.md",
+      "title": "SPL25 RESEARCH AND OCCUPATIONAL HEALTH ACTIVITIES WITHIN THE PEROSH NETWORK",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/SPL25_RESEARCH_AND_OCCUPATIONAL_HEALTH_ACTIVITIES_WITHIN_THE_PEROSH_NETWORK.md"
+    },
+    {
+      "filename": "Awolusi2019_Active_Work_Zone_Safety_Preventing_Accidents_Using_Intrusion_Sensing_Technologies.md",
+      "title": "Awolusi2019 Active Work Zone Safety Preventing Accidents Using Intrusion Sensing Technologies",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Awolusi2019_Active_Work_Zone_Safety_Preventing_Accidents_Using_Intrusion_Sensing_Technologies.md"
+    },
+    {
+      "filename": "Hafez2023_A_Training_Program_to_Develop_Concepts_and_Skills_Related_to_Occupational_Health_and_Safet.md",
+      "title": "Hafez2023 A Training Program to Develop Concepts and Skills Related to Occupational Health and Safet",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Hafez2023_A_Training_Program_to_Develop_Concepts_and_Skills_Related_to_Occupational_Health_and_Safet.md"
+    },
+    {
+      "filename": "ANALISIS_HUMAN_RELIABILITY_PADA_OPERATOR_BAGIAN_MAINTENANCE_MESIN_2_DENGAN_METODE_HUMAN_ERROR_ASSESS.md",
+      "title": "ANALISIS HUMAN RELIABILITY PADA OPERATOR BAGIAN MAINTENANCE MESIN 2 DENGAN METODE HUMAN ERROR ASSESS",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/ANALISIS_HUMAN_RELIABILITY_PADA_OPERATOR_BAGIAN_MAINTENANCE_MESIN_2_DENGAN_METODE_HUMAN_ERROR_ASSESS.md"
+    },
+    {
+      "filename": "The_Survey_And_Perspective_Of_Human_Factors_Associated_With_Maintenance_Activity.md",
+      "title": "The Survey And Perspective Of Human Factors Associated With Maintenance Activity",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/The_Survey_And_Perspective_Of_Human_Factors_Associated_With_Maintenance_Activity.md"
+    },
+    {
+      "filename": "Partnership_for_European_Research_in_Occupational_Safety_and_Health_(PEROSH)_\u2013_Celebrating_20_years_of_collaboration.md",
+      "title": "Partnership for European Research in Occupational Safety and Health (PEROSH) \u2013 Celebrating 20 years of collaboration",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Partnership_for_European_Research_in_Occupational_Safety_and_Health_(PEROSH)_\u2013_Celebrating_20_years_of_collaboration.md"
+    },
+    {
+      "filename": "With_a_little_help_from_our_friends-_Collaborative_research_partnerships_in_three_workplace-based_oc.md",
+      "title": "With a little help from our friends- Collaborative research partnerships in three workplace-based oc",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/With_a_little_help_from_our_friends-_Collaborative_research_partnerships_in_three_workplace-based_oc.md"
+    },
+    {
+      "filename": "Human_error_in_maintenance__An_investigative_study_for_the_factories_of_the_future.md",
+      "title": "Human error in maintenance  An investigative study for the factories of the future",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Human_error_in_maintenance__An_investigative_study_for_the_factories_of_the_future.md"
+    },
+    {
+      "filename": "Implementing_and_evaluating_novel_safety_training_methods_for_construction_sector_workers-_Results_o.md",
+      "title": "Implementing and evaluating novel safety training methods for construction sector workers- Results o",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Implementing_and_evaluating_novel_safety_training_methods_for_construction_sector_workers-_Results_o.md"
+    },
+    {
+      "filename": "Burke2006_Relative_effectiveness_of_worker_safety_and_health_training_methods.md",
+      "title": "Burke2006 Relative effectiveness of worker safety and health training methods",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Burke2006_Relative_effectiveness_of_worker_safety_and_health_training_methods.md"
+    },
+    {
+      "filename": "Relative_effectiveness_of_worker_safety_and_health_training_methods..md",
+      "title": "Relative effectiveness of worker safety and health training methods.",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Relative_effectiveness_of_worker_safety_and_health_training_methods..md"
+    },
+    {
+      "filename": "A_Training_Program_to_Develop_Concepts_and_Skills_Related_to_Occupational_Health_and_Safety_Issues_for_Workers_in_Photovoltaic_Power_Plants.md",
+      "title": "A Training Program to Develop Concepts and Skills Related to Occupational Health and Safety Issues for Workers in Photovoltaic Power Plants",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/A_Training_Program_to_Develop_Concepts_and_Skills_Related_to_Occupational_Health_and_Safety_Issues_for_Workers_in_Photovoltaic_Power_Plants.md"
+    },
+    {
+      "filename": "Towards_Efficient_Operation_and_Maintenance_of_Wind_Farms-_Leveraging_AI_for_Minimizing_Human_Error.md",
+      "title": "Towards Efficient Operation and Maintenance of Wind Farms- Leveraging AI for Minimizing Human Error",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Towards_Efficient_Operation_and_Maintenance_of_Wind_Farms-_Leveraging_AI_for_Minimizing_Human_Error.md"
+    },
+    {
+      "filename": "Renewable_energy_and_occupational_health_and_safety_research_directions-_a_white_paper_from_the_Ener.md",
+      "title": "Renewable energy and occupational health and safety research directions- a white paper from the Ener",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Renewable_energy_and_occupational_health_and_safety_research_directions-_a_white_paper_from_the_Ener.md"
+    },
+    {
+      "filename": "Nielsen2023_Partnership_for_European_Research_in_Occupational_Safety_and_Health_PEROSH_Celebrating_2.md",
+      "title": "Nielsen2023 Partnership for European Research in Occupational Safety and Health PEROSH Celebrating 2",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Nielsen2023_Partnership_for_European_Research_in_Occupational_Safety_and_Health_PEROSH_Celebrating_2.md"
+    },
+    {
+      "filename": "Dhillon2014_Human_error_in_maintenance_An_investigative_study_for_the_factories_of_the_future.md",
+      "title": "Dhillon2014 Human error in maintenance An investigative study for the factories of the future",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Dhillon2014_Human_error_in_maintenance_An_investigative_study_for_the_factories_of_the_future.md"
+    },
+    {
+      "filename": "Alharran2023_The_Survey_And_Perspective_Of_Human_Factors_Associated_With_Maintenance_Activity.md",
+      "title": "Alharran2023 The Survey And Perspective Of Human Factors Associated With Maintenance Activity",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Alharran2023_The_Survey_And_Perspective_Of_Human_Factors_Associated_With_Maintenance_Activity.md"
+    },
+    {
+      "filename": "Safety_training_for_migrant_workers_in_the_construction_industry__A_systematic_review_and_future_research_agenda..md",
+      "title": "Safety training for migrant workers in the construction industry  A systematic review and future research agenda.",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Safety_training_for_migrant_workers_in_the_construction_industry__A_systematic_review_and_future_research_agenda..md"
+    },
+    {
+      "filename": "Critical_Success_Factors_for_Safety_Training_in_the_Construction_Industry.md",
+      "title": "Critical Success Factors for Safety Training in the Construction Industry",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Critical_Success_Factors_for_Safety_Training_in_the_Construction_Industry.md"
+    },
+    {
+      "filename": "A_Review_on_the_Effectiveness_of_Safety_Training_Methods_for_Malaysia_Construction_Industry.md",
+      "title": "A Review on the Effectiveness of Safety Training Methods for Malaysia Construction Industry",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/A_Review_on_the_Effectiveness_of_Safety_Training_Methods_for_Malaysia_Construction_Industry.md"
+    },
+    {
+      "filename": "Human_Error_in_Power_Plant_Maintenance.md",
+      "title": "Human Error in Power Plant Maintenance",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Human_Error_in_Power_Plant_Maintenance.md"
+    },
+    {
+      "filename": "Estimating_and_ranking_the_impact_of_human_error_roots_on_power_grid_maintenance_group_based_on_a_co.md",
+      "title": "Estimating and ranking the impact of human error roots on power grid maintenance group based on a co",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Estimating_and_ranking_the_impact_of_human_error_roots_on_power_grid_maintenance_group_based_on_a_co.md"
+    },
+    {
+      "filename": "Active_Work_Zone_Safety__Preventing_Accidents_Using_Intrusion_Sensing_Technologies.md",
+      "title": "Active Work Zone Safety  Preventing Accidents Using Intrusion Sensing Technologies",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Active_Work_Zone_Safety__Preventing_Accidents_Using_Intrusion_Sensing_Technologies.md"
+    },
+    {
+      "filename": "Peir\u00f32020_Safety_training_for_migrant_workers_in_the_construction_industry_A_systematic_review_and_f.md",
+      "title": "Peir\u00f32020 Safety training for migrant workers in the construction industry A systematic review and f",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Peir\u00f32020_Safety_training_for_migrant_workers_in_the_construction_industry_A_systematic_review_and_f.md"
+    },
+    {
+      "filename": "Advancing_safety_in_short-term_utility_work_zones-_Assessing_the_role_of_work_zone_intrusion_alert_t.md",
+      "title": "Advancing safety in short-term utility work zones- Assessing the role of work zone intrusion alert t",
+      "path": "sources/4.1.8-elicit-results/phase-2-targeted-queries/markdown_papers/3.1.4-safety-training/Advancing_safety_in_short-term_utility_work_zones-_Assessing_the_role_of_work_zone_intrusion_alert_t.md"
+    }
+  ]
+}

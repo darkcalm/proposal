@@ -19,356 +19,297 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{hirsch2018}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=8c3d40b3b551de963f857abc87af922f}{%
-           family={Hirsch},
-           familyi={H\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e24eda7a7c299d660803346f270592a8}{%
-           family={Parag},
-           familyi={P\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=02f6b2b95922a9ec973bb81c6a716b1f}{%
-           family={Guerrero},
-           familyi={G\bibinitperiod},
+    \entry{10.1109/ACCESS.2024.3387400}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5b67489b9fc06b46bb7b783ecd31bc3d}{%
+           family={Guzmán-Henao},
+           familyi={G\bibinithyphendelim H\bibinitperiod},
            given={J.},
            giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{fullhash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{fullhashraw}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{bibnamehash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{authorbibnamehash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{authornamehash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{authorfullhash}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
-      \strng{authorfullhashraw}{fc1d61c879d5be21e9b3ce3f59a8d7f5}
+      \strng{namehash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{fullhash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{fullhashraw}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{bibnamehash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{authorbibnamehash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{authornamehash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{authorfullhash}{6a5562a999e64f16dd7d03e077311b68}
+      \strng{authorfullhashraw}{6a5562a999e64f16dd7d03e077311b68}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
-      \field{title}{Microgrids: A review of technologies, key drivers, and outstanding issues}
-      \field{volume}{90}
-      \field{year}{2018}
-      \field{pages}{402\bibrangedash 411}
-      \range{pages}{10}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{On Integrating and Operating Distributed Energy Resources in Distribution Networks: A Review of Current Solution Methods, Challenges, and Opportunities}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2024.3387400
+      \endverb
     \endentry
-    \entry{irena2019}{report}{}{}
+    \entry{10.1016/j.rser.2020.110607}{article}{}{}
       \name{author}{1}{}{%
-        {{hash=60078bcfac43410acf998cf69bf25f92}{%
-           family={{International Renewable Energy Agency}},
-           familyi={I\bibinitperiod}}}%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {IRENA}%
-      }
-      \strng{namehash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{fullhash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{fullhashraw}{60078bcfac43410acf998cf69bf25f92}
-      \strng{bibnamehash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{authorbibnamehash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{authornamehash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{authorfullhash}{60078bcfac43410acf998cf69bf25f92}
-      \strng{authorfullhashraw}{60078bcfac43410acf998cf69bf25f92}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Innovation landscape for a renewable-powered future}
-      \field{type}{techreport}
-      \field{year}{2019}
-    \endentry
-    \entry{iea2021}{report}{}{}
-      \name{author}{1}{}{%
-        {{hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
-           family={{International Energy Agency}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {IEA}%
-      }
-      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{fullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
-      \strng{authorfullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Renewables 2021: Analysis and forecast to 2026}
-      \field{type}{techreport}
-      \field{year}{2021}
-    \endentry
-    \entry{eid2016}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=088f31c4c52f4ffdfb431a093de8ec8d}{%
-           family={Eid},
-           familyi={E\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=f1fd3bfe578c80dddac1526cd866bcd9}{%
-           family={Codani},
-           familyi={C\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=4081d1157f48f1b1d996c77408d03cd3}{%
-           family={Perez},
-           familyi={P\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=56a2506622dff26289d1eea67dd00278}{%
-           family={Reneses},
-           familyi={R\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=dc8036ba9c9e5b60ef4329e6fbe9cedf}{%
-           family={Hakvoort},
-           familyi={H\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c5973da72af0bd6c33096feac8db6bee}
-      \strng{fullhash}{20b3540d2faac594efeddddcb34d8ba8}
-      \strng{fullhashraw}{20b3540d2faac594efeddddcb34d8ba8}
-      \strng{bibnamehash}{c5973da72af0bd6c33096feac8db6bee}
-      \strng{authorbibnamehash}{c5973da72af0bd6c33096feac8db6bee}
-      \strng{authornamehash}{c5973da72af0bd6c33096feac8db6bee}
-      \strng{authorfullhash}{20b3540d2faac594efeddddcb34d8ba8}
-      \strng{authorfullhashraw}{20b3540d2faac594efeddddcb34d8ba8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
       \field{journaltitle}{Renewable and Sustainable Energy Reviews}
-      \field{title}{Managing electric flexibility from Distributed Energy Resources: A review of incentives for market design}
-      \field{volume}{64}
-      \field{year}{2016}
-      \field{pages}{237\bibrangedash 247}
-      \range{pages}{11}
+      \field{title}{Advancing urban energy system planning and modeling approaches: Gaps and solutions in perspective}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.rser.2020.110607
+      \endverb
     \endentry
-    \entry{parag2016}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=e24eda7a7c299d660803346f270592a8}{%
-           family={Parag},
-           familyi={P\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=96a352a918b05b00fc013d01a0b8a401}{%
-           family={Sovacool},
-           familyi={S\bibinitperiod},
-           given={B.\bibnamedelimi K.},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+    \entry{10.1016/j.seta.2022.102837}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{fullhash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{fullhashraw}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{bibnamehash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{authorbibnamehash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{authornamehash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{authorfullhash}{7618b79a4e05b8ad78b2fba54a630332}
-      \strng{authorfullhashraw}{7618b79a4e05b8ad78b2fba54a630332}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{2}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Energy}
-      \field{number}{4}
-      \field{title}{Electricity market design for the prosumer era}
-      \field{volume}{1}
-      \field{year}{2016}
-      \field{pages}{1\bibrangedash 6}
-      \range{pages}{6}
+      \field{journaltitle}{Sustainable Energy Technologies and Assessments}
+      \field{title}{Recent trends of digital twin technologies in the energy sector: A comprehensive review}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.seta.2022.102837
+      \endverb
     \endentry
-    \entry{jafari2020}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=a3ec058a74f26e8d5cb9eb83e8e1ac72}{%
-           family={Jafari},
-           familyi={J\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=ebccafec4489a1203684275a47839f55}{%
-           family={Botterud},
-           familyi={B\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e62b66fec14916db6ff5ed1f9fd39a19}{%
-           family={Sakti},
-           familyi={S\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
+    \entry{10.1049/iet-gtd.2019.1022}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{fullhash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{fullhashraw}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{bibnamehash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{authorbibnamehash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{authornamehash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{authorfullhash}{6bcad464d650d79a62a4d90835a83bcc}
-      \strng{authorfullhashraw}{6bcad464d650d79a62a4d90835a83bcc}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{3}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
-      \field{title}{Decarbonizing power systems: A critical review of the role of energy storage}
-      \field{volume}{158}
-      \field{year}{2020}
-      \field{pages}{112077}
-      \range{pages}{1}
+      \field{journaltitle}{IET Generation, Transmission \& Distribution}
+      \field{title}{Interactive protocols for distributed energy resource management systems (DERMS)}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1049/iet-gtd.2019.1022
+      \endverb
     \endentry
-    \entry{zhang2019}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=1f26f664835ac6c347db22001b657f1a}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=ce084360cc68e7db4fe6cae1287b3adf}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
+    \entry{10.1080/095281300146308}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{048880d90b4121a553200bcc3529b58f}
-      \strng{fullhash}{048880d90b4121a553200bcc3529b58f}
-      \strng{fullhashraw}{048880d90b4121a553200bcc3529b58f}
-      \strng{bibnamehash}{048880d90b4121a553200bcc3529b58f}
-      \strng{authorbibnamehash}{048880d90b4121a553200bcc3529b58f}
-      \strng{authornamehash}{048880d90b4121a553200bcc3529b58f}
-      \strng{authorfullhash}{048880d90b4121a553200bcc3529b58f}
-      \strng{authorfullhashraw}{048880d90b4121a553200bcc3529b58f}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{4}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{IET Smart Grid}
-      \field{number}{4}
-      \field{title}{Deep reinforcement learning for smart grid operations: A review}
-      \field{volume}{2}
-      \field{year}{2019}
-      \field{pages}{464\bibrangedash 470}
-      \range{pages}{7}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{title}{Some methodological aspects of tacit knowledge elicitation}
+      \field{year}{2000}
+      \verb{doi}
+      \verb 10.1080/095281300146308
+      \endverb
     \endentry
-    \entry{smith2023}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=b18f02a97cf23823923df8c18784f5df}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=e6730bc6d9d28966c86cf301050946e1}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0fd349e96e85f434e379158643931e85}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
+    \entry{10.1109/ETFA61755.2024.10711109}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{fullhash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{fullhashraw}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{bibnamehash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{authorbibnamehash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{authornamehash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{authorfullhash}{2bfdf577a9cf185e8bb6791f635cb9b9}
-      \strng{authorfullhashraw}{2bfdf577a9cf185e8bb6791f635cb9b9}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{5}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2301.00001}
-      \field{title}{A Survey of AI Agent Protocols}
-      \field{year}{2023}
+      \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+      \field{title}{Human Trust and Digital Twins in a Human Factors and Ergonomic Framework}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1109/ETFA61755.2024.10711109
+      \endverb
     \endentry
-    \entry{ringler2016}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=448b810be3fd539ff88d9de359c16b93}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=3803c0e98316b5c514092c4350621ae2}{%
-           family={Keles},
-           familyi={K\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=b61d5452730206a1bf26ef26c231f458}{%
-           family={Fichtner},
-           familyi={F\bibinitperiod},
-           given={W.},
-           giveni={W\bibinitperiod}}}%
+    \entry{10.3390/en14154579}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{6db512bb9508e365b826cba94c665212}
-      \strng{fullhash}{6db512bb9508e365b826cba94c665212}
-      \strng{fullhashraw}{6db512bb9508e365b826cba94c665212}
-      \strng{bibnamehash}{6db512bb9508e365b826cba94c665212}
-      \strng{authorbibnamehash}{6db512bb9508e365b826cba94c665212}
-      \strng{authornamehash}{6db512bb9508e365b826cba94c665212}
-      \strng{authorfullhash}{6db512bb9508e365b826cba94c665212}
-      \strng{authorfullhashraw}{6db512bb9508e365b826cba94c665212}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{6}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
-      \field{title}{Agent-based modelling and simulation of smart electricity grids and markets--a literature review}
-      \field{volume}{57}
-      \field{year}{2016}
-      \field{pages}{205\bibrangedash 215}
-      \range{pages}{11}
+      \field{journaltitle}{Energies}
+      \field{title}{Integrating Behavioural Aspects in Energy System Modelling—A Review}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/en14154579
+      \endverb
     \endentry
-    \entry{khorasany2020}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=c6b83110a5dac63ffddd20ad66425dc4}{%
-           family={Khorasany},
-           familyi={K\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e80a41ace32dd2791134880da202dd3e}{%
-           family={Mishra},
-           familyi={M\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=54ce6f851db2facd94bda0e719449be1}{%
-           family={Ledwich},
-           familyi={L\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
+    \entry{10.1108/13552510610654510}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{fullhash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{fullhashraw}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{bibnamehash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{authorbibnamehash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{authornamehash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{authorfullhash}{1e87d7b1088f46db9341013f6bed1698}
-      \strng{authorfullhashraw}{1e87d7b1088f46db9341013f6bed1698}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{IET Generation, Transmission \& Distribution}
-      \field{number}{22}
-      \field{title}{Market framework for local energy trading: A review of potential designs and market clearing approaches}
-      \field{volume}{14}
-      \field{year}{2020}
-      \field{pages}{4907\bibrangedash 4919}
-      \range{pages}{13}
+      \field{journaltitle}{Journal of Health Organization and Management}
+      \field{title}{Safety and complexity: inter-departmental relationships as a threat to patient safety in the operating department}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1108/13552510610654510
+      \endverb
+    \endentry
+    \entry{10.1049/OAP-CIRED.2017.1107}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{fullhash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{fullhashraw}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{bibnamehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authorbibnamehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authornamehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authorfullhash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authorfullhashraw}{2b82141a6cdd6fa388208fc3caada893}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{CIRED Conference Proceedings}
+      \field{title}{Supporting Control Room Operators in Highly Automated Future Power Networks}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1049/OAP-CIRED.2017.1107
+      \endverb
+    \endentry
+    \entry{10.1016/j.esr.2024.101334}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Strategy Reviews}
+      \field{title}{A comprehensive review of the dynamic applications of the digital twin technology across diverse energy sectors}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1016/j.esr.2024.101334
+      \endverb
+    \endentry
+    \entry{10.5220/0001894702000205}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=02684cc6b6ea1811a064f475a5fd1d18}{%
+           family={Authors},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{fullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{bibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorbibnamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authornamehash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhash}{02684cc6b6ea1811a064f475a5fd1d18}
+      \strng{authorfullhashraw}{02684cc6b6ea1811a064f475a5fd1d18}
+      \field{extraname}{9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Conference Proceedings}
+      \field{title}{Aligning Agent Communication Protocols - A Pragmatic Approach}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.5220/0001894702000205
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

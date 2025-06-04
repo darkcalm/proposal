@@ -2369,20 +2369,21 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">ref.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">main.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">hirsch2018</bcf:citekey>
-    <bcf:citekey order="1" intorder="2">irena2019</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">iea2021</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">eid2016</bcf:citekey>
-    <bcf:citekey order="3" intorder="2">parag2016</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">jafari2020</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">zhang2019</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">smith2023</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">ringler2016</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">khorasany2020</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">parag2016</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">10.1109/ACCESS.2024.3387400</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">10.1016/j.rser.2020.110607</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">10.1016/j.seta.2022.102837</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">10.1049/iet-gtd.2019.1022</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">10.1080/095281300146308</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">10.1109/ETFA61755.2024.10711109</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">10.3390/en14154579</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">10.1108/13552510610654510</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">10.1049/OAP-CIRED.2017.1107</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">10.1016/j.esr.2024.101334</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">10.1109/ETFA61755.2024.10711109</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">10.5220/0001894702000205</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

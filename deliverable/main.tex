@@ -62,11 +62,11 @@
 % ENTER GROUP AND PROJECT INFORMATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\grouptitle}{Group [X] - Research Proposal}
+\newcommand{\grouptitle}{Group 1 - Research Proposal}
 \newcommand{\studentone}{Student Name 1}
 \newcommand{\studenttwo}{Student Name 2}
 \newcommand{\studentthree}{Student Name 3}
-\newcommand{\projecttitle}{[Enter Your Research Title Here]}
+\newcommand{\projecttitle}{Agent Communication Protocols for Human Expertise Coordination in Distributed Energy Resource Operations}
 \newcommand{\submissiondate}{May 28, 2025}
 \newcommand{\emdash}{\textemdash}
 
@@ -95,7 +95,7 @@
 & {\studentthree} \\
 \\
 \textbf{Submission Date:} & {\submissiondate} \\
-\textbf{Word Count:} & [Approximately 2000 words] \\
+\textbf{Word Count:} & [Approximately 2500 words] \\
 \end{tabular}
 \vspace{3mm}
 \hrule
@@ -105,448 +105,232 @@
 \textbf{Abstract} \\
 \vspace{2mm}
 \begin{minipage}{0.8\textwidth}
-[Provide a concise abstract (150-200 words) summarizing your research proposal, including the research problem, methodology, and expected contributions to sustainable energy research.]
+\textbf{Abstract:} This research investigates how emerging agent communication protocols\emdash{}specifically the Model Context Protocol (MCP), Agent Communication Protocol (ACP), and Agent-to-Agent Protocol (A2A)\emdash{}can be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins (HDTs). The study addresses critical operational challenges in Distributed Energy Resource (DER) management, including communication gaps, coordination difficulties, and the need to preserve and scale human expertise in increasingly automated environments. Through a systematic literature review and comparative framework development, this research proposes a novel approach to modeling human operational expertise within protocol-enabled digital twins, enabling more effective operational knowledge coordination across distributed energy systems. The expected contributions include a validated framework for Human DER Worker Digital Twins, insights into protocol composition for multi-agent coordination, and practical guidelines for implementing human-centric digital twins in energy system operations.
 \end{minipage}
 
 \end{center}
 \end{titlepage}
 
-\tableofcontents
 \newpage
 
+\clearpage
+
 \section{Introduction and Background}
-\label{sec:background}
+\label{sec:introduction}
 
-% This section addresses ILO1: Systematic literature survey
+The transformation of global energy systems toward decentralized architectures presents unprecedented operational challenges that fundamentally alter how maintenance activities must be coordinated and executed \cite{10.1109/ACCESS.2024.3387400}. The proliferation of Distributed Energy Resources (DERs)\emdash{}including rooftop solar installations, battery storage systems, and wind microgeneration\emdash{}has created a complex multi-stakeholder ecosystem where traditional centralized maintenance approaches prove inadequate \cite{10.1016/j.rser.2020.110607}.
 
-The global energy sector is undergoing a fundamental transformation driven by the urgent need to decarbonize and create more resilient, sustainable energy systems. Central to this transition is the rapid deployment of Distributed Energy Resources (DERs)---including rooftop solar panels, battery storage systems, electric vehicles, and smart inverters---which are fundamentally reshaping how electricity is generated, stored, and consumed~\cite{hirsch2018,irena2019}. By 2030, the installed capacity of distributed solar photovoltaics alone is projected to exceed 5,400 GW globally, representing a tenfold increase from 2020 levels~\cite{iea2021}.
+\subsection{Problem Context and Significance}
 
-This unprecedented proliferation of DERs presents both opportunities and challenges for modern power systems. While DERs offer significant benefits---including reduced transmission losses, enhanced grid resilience, and democratized energy access---their integration introduces substantial complexity in grid management and coordination~\cite{eid2016,parag2016}. Unlike traditional centralized power generation, DERs are characterized by their geographic dispersion, diverse ownership structures, heterogeneous technologies, and variable output patterns. These characteristics fundamentally challenge conventional approaches to grid operation and maintenance, which were designed for unidirectional power flows and centralized control architectures.
+The DER ecosystem involves diverse stakeholders with varying technical capabilities, business objectives, and operational constraints. Individual homeowners with rooftop solar installations operate under different knowledge bases and decision-making frameworks than commercial facility managers, utility operators, or industrial microgrid controllers \cite{10.1016/j.seta.2022.102837}. This heterogeneity creates significant challenges in preserving, transferring, and scaling human operational expertise across the distributed energy landscape.
 
-A critical yet underexplored aspect of DER integration is the coordination of predictive maintenance across diverse, multi-owner DER fleets. Effective maintenance is essential for ensuring the reliability, efficiency, and longevity of DER assets, directly impacting their economic viability and contribution to grid stability~\cite{jafari2020}. However, the decentralized nature of DER ownership---spanning individual homeowners, commercial entities, community energy cooperatives, and third-party aggregators---creates significant barriers to implementing coordinated maintenance strategies. Traditional centralized maintenance approaches, which rely on direct asset control and uniform communication protocols, are ill-suited for environments where assets are owned and operated by multiple independent entities with varying technical capabilities and business objectives.
+Current approaches to DER coordination rely heavily on centralized Distributed Energy Resource Management Systems (DERMS), which struggle to capture and utilize the nuanced human expertise required for effective system operations \cite{10.1049/iet-gtd.2019.1022}. The increasing automation of energy systems, while improving efficiency, has created a critical gap between human operational knowledge and automated decision-making processes. Human experts possess tacit knowledge about equipment behavior, environmental factors, stakeholder coordination patterns, and operational trade-offs that cannot be easily codified within traditional control systems \cite{10.1080/095281300146308}.
 
-The challenge of coordinating predictive maintenance in decentralized DER ecosystems is fundamentally a communication and coordination problem. Effective predictive maintenance requires the continuous collection and analysis of real-time health data from distributed assets, the secure sharing of this information among relevant stakeholders, and the coordinated scheduling of maintenance activities to minimize grid disruption while maximizing asset availability~\cite{zhang2019}. Current approaches typically rely on proprietary communication systems and bilateral agreements between asset owners and maintenance providers, resulting in fragmented, inefficient, and often reactive maintenance practices that fail to leverage the collective intelligence available across the DER ecosystem.
+The significance of this challenge extends beyond operational efficiency to encompass critical workforce and sustainability considerations. The aging workforce in the energy sector faces retirement without adequate knowledge transfer mechanisms, risking the loss of decades of operational expertise \cite{10.1109/ETFA61755.2024.10711109}. Effective preservation and scaling of human expertise directly impacts grid stability, renewable energy integration, and the democratization of energy systems \cite{10.3390/en14154579}. Moreover, the COVID-19 pandemic has highlighted the importance of resilient energy infrastructure that can maintain operations despite disruptions to traditional mentoring and knowledge transfer workflows.
 
-Emerging agent-based communication protocols offer a promising paradigm for addressing these coordination challenges. Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) represent a new generation of decentralized communication frameworks specifically designed for multi-agent systems operating in complex, dynamic environments~\cite{smith2023}. These protocols enable autonomous software agents representing different DER assets and stakeholders to communicate, negotiate, and coordinate activities without requiring centralized control or pre-established communication hierarchies. By providing standardized yet flexible communication primitives, semantic interoperability mechanisms, and built-in security features, these protocols could potentially transform how predictive maintenance is coordinated across diverse DER fleets.
+The challenge is particularly acute in DER operations where human expertise encompasses complex coordination patterns—understanding how to balance homeowner preferences with grid stability requirements, how to prioritize competing operational demands under uncertainty, and how to adapt protocols to local environmental and regulatory constraints. Traditional one-on-one mentoring approaches fail to scale across distributed operations, and formal documentation systems cannot capture the tacit knowledge that makes experienced operators effective in dynamic, multi-stakeholder environments.
 
-Despite their potential, the application of agent communication protocols to DER predictive maintenance remains largely unexplored. Existing research has primarily focused on agent-based approaches for energy trading and grid balancing~\cite{ringler2016,khorasany2020}, with limited attention to maintenance coordination. Furthermore, critical questions remain regarding how these general-purpose protocols can be adapted to meet the specific requirements of DER maintenance communication, including compliance with energy sector standards (e.g., IEEE 1547-2018), integration with existing grid management systems, and accommodation of the diverse technical capabilities of DER stakeholders.
+\subsection{Literature Review Synthesis}
 
-This research addresses this gap by investigating how emerging agent communication protocols---specifically ACP and A2A---can be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse DERs owned and operated by different entities. By developing a conceptual framework for agent-based maintenance communication and establishing a quantitative evaluation methodology, this work aims to provide both theoretical insights and practical guidance for implementing next-generation DER maintenance systems that can operate effectively in increasingly decentralized energy landscapes.
+A systematic literature review across four domains\emdash{}human factors in energy systems, industry-academia collaboration, AI automation applications, and safety training methodologies\emdash{}reveals consistent patterns pointing toward the need for more sophisticated human-technology integration in DER management.
 
-\subsection{Problem Context}
+\textbf{Human Factors and Communication Gaps:} Research in nuclear power plant operations demonstrates that human expertise remains critical for managing complex, safety-critical systems \cite{10.1108/13552510610654510}. Studies of control room operators highlight the importance of tacit knowledge, situational awareness, and adaptive decision-making that cannot be fully automated \cite{10.1049/OAP-CIRED.2017.1107}. In DER contexts, similar patterns emerge where human operators must navigate between technical system requirements and real-world operational constraints.
 
-The integration of Distributed Energy Resources (DERs) into modern power grids has created unprecedented operational challenges that extend beyond traditional grid management paradigms. The shift from centralized to decentralized energy systems introduces multiple layers of complexity that fundamentally alter how maintenance activities must be coordinated and executed.
+\textbf{Digital Twin Technology in Energy Systems:} The application of Digital Twin technology in energy systems has shown promising results for system optimization and operational coordination \cite{10.1016/j.esr.2024.101334}. However, existing implementations focus primarily on physical asset modeling rather than capturing human operational patterns and expertise. Recent reviews identify the need for "Human Digital Twins" that can model operator behavior and decision-making processes \cite{10.1109/ETFA61755.2024.10711109}.
 
-\subsubsection{Multi-Stakeholder Complexity}
-
-The DER ecosystem involves diverse stakeholders with varying technical capabilities, business objectives, and operational constraints. Individual homeowners with rooftop solar installations have different maintenance priorities than commercial facility managers operating battery storage systems or electric vehicle fleet operators. This heterogeneity creates significant barriers to implementing unified maintenance strategies, as traditional approaches assume homogeneous asset ownership and standardized operational procedures~\cite{parag2016}.
-
-\subsubsection{Communication Infrastructure Limitations}
-
-Current DER communication systems primarily rely on proprietary protocols and bilateral agreements between asset owners and service providers. These fragmented approaches result in:
-\begin{itemize}
-\item \textbf{Information Silos:} Critical health data remains isolated within individual systems, preventing cross-fleet optimization
-\item \textbf{Reactive Maintenance:} Without coordinated predictive capabilities, maintenance often occurs after failures
-\item \textbf{Inefficient Resource Allocation:} Maintenance providers cannot optimize scheduling across multiple clients
-\item \textbf{Scalability Constraints:} Point-to-point communication architectures cannot efficiently scale to thousands of DER assets
-\end{itemize}
-
-\subsubsection{Technical Requirements for Predictive Maintenance}
-
-Effective predictive maintenance in DER environments requires meeting technical requirements that must be carefully distinguished from general DER management requirements. While the initial problem exploration identified stringent requirements for overall DER operations, the specific requirements for predictive maintenance coordination warrant separate consideration:
-
-\textbf{General DER Management Requirements (from initial exploration):}
-\begin{itemize}
-\item \textbf{Latency:} Sub-150ms response times for frequency response and grid stability operations
-\item \textbf{Throughput:} Minimum 1MB/s data rates for continuous telemetry across all DER functions
-\item \textbf{Security:} Quantum-resistant encryption for critical grid infrastructure
-\item \textbf{Standards:} IEEE 1547-2018 and UL 1741 SA compliance for DER interconnection
-\end{itemize}
-
-\textbf{Predictive Maintenance Specific Considerations:}
-\begin{itemize}
-\item \textbf{Data Exchange:} Requirements for health monitoring data may differ from real-time grid operations
-\item \textbf{Latency Tolerance:} Maintenance coordination may not require sub-150ms response times
-\item \textbf{Security Needs:} While critical, maintenance data security requirements may differ from grid control
-\item \textbf{Interoperability:} 42\% latency increase in multi-vendor environments remains a concern
-\item \textbf{Scalability:} Support for 10,000+ node networks is relevant for fleet-wide maintenance
-\end{itemize}
-
-The research must identify and validate the specific technical requirements for predictive maintenance communication, rather than assuming all general DER management requirements apply equally.
-
-\subsection{Literature Review}
-% [Conduct a systematic literature survey following academic standards. Include recent publications, seminal works, and identify current trends in your chosen area of sustainable energy research.]
-
-Recent research in distributed energy systems and agent-based coordination provides foundational insights for addressing DER maintenance challenges, though significant gaps remain in applying these concepts specifically to predictive maintenance coordination.
-
-\subsubsection{Agent-Based Approaches in Energy Systems}
-
-The application of multi-agent systems (MAS) to energy management has shown promise in several domains. Research on distributed artificial intelligence approaches for microgrid coordination demonstrates the potential for agent-based architectures to manage complex energy systems. These studies establish fundamental principles for distributed decision-making and autonomous coordination that could be adapted for maintenance applications.
-
-However, the literature reveals a critical gap: while 34 papers from the Elicit corpus and 30 from Semantic Scholar address various aspects of DER coordination, only one paper achieved even ``Secondary (Moderately Relevant)'' status when evaluated specifically for agent communication protocols in DER maintenance contexts. This indicates that existing research has not adequately addressed the specific communication requirements of predictive maintenance coordination.
-
-\subsubsection{Communication Protocol Development}
-
-Current research on communication protocols for distributed systems provides relevant insights but lacks energy-specific adaptations. Studies on blockchain-leveraged frameworks for IoT and federated architectures for secure DER management demonstrate advanced communication concepts but focus primarily on energy trading rather than maintenance coordination.
-
-The synthesis matrix analysis reveals that while protocol details are covered in 12 papers and implementation approaches in 14 papers, security measures receive attention in only 5 papers---a concerning gap given the critical infrastructure nature of DER systems.
-
-\subsubsection{Performance and Scalability Considerations}
-
-Literature on performance evaluation of distributed systems provides benchmarking approaches that could inform DER maintenance protocols. Studies on wireless sensor networks using LEACH protocol and adaptive leader election for microgrids offer insights into scalability and reliability mechanisms.
-
-However, pattern analysis indicates that while performance metrics are addressed in 11 papers, there is insufficient focus on the specific performance requirements of maintenance coordination, particularly regarding real-time health data exchange and coordinated scheduling across multiple stakeholders.
-
-\subsubsection{Existing Standards and Integration}
-
-Research on IEC 61850 implementation for DER management highlights the importance of standards compliance. However, the literature reveals limited exploration of how emerging agent protocols can integrate with existing energy standards while meeting the unique requirements of predictive maintenance.
+\textbf{Agent Communication Protocols:} Emerging agent communication protocols, particularly MCP, ACP, and A2A, offer new possibilities for distributed coordination and knowledge sharing \cite{10.5220/0001894702000205}. These protocols enable more sophisticated multi-agent interactions than traditional approaches, supporting complex negotiation, resource sharing, and collaborative problem-solving patterns essential for DER coordination.
 
 \subsection{Research Gap Identification}
-% [Based on your literature review, clearly identify the specific gap in knowledge or understanding that your research will address.]
 
-The literature review reveals three fundamental gaps that this research aims to address:
+The literature synthesis reveals three critical gaps that this research addresses:
 
-\subsubsection{1. Protocol Adaptation Gap}
+\textbf{Theoretical Gap:} Current Digital Twin frameworks lack comprehensive models for representing human expertise within protocol-enabled environments. While Digital Twins excel at modeling physical systems, they fail to capture the tacit knowledge, adaptive reasoning, and contextual decision-making that human experts bring to DER operations.
 
-While general-purpose agent communication protocols exist, there is no research on adapting ACP and A2A specifically for DER predictive maintenance. The gap analysis identifies that current literature provides limited support for critical concepts including:
-\begin{itemize}
-\item Agent communication protocols for maintenance coordination
-\item Decentralized coordination mechanisms for multi-owner scenarios
-\item Communication requirements specific to predictive maintenance
-\item Performance evaluation frameworks for maintenance applications
-\end{itemize}
+\textbf{Methodological Gap:} Existing agent communication protocols have not been systematically evaluated for their effectiveness in modeling and preserving human operational expertise. The lack of standardized approaches for integrating human knowledge patterns within agent-based systems limits the development of more effective human-AI collaboration models.
 
-\subsubsection{2. Implementation-Practice Gap}
+\textbf{Practical Gap:} The DER industry lacks validated frameworks for creating Human DER Worker Digital Twins that can scale human expertise across distributed operations while maintaining the adaptability and contextual awareness that makes human experts valuable.
 
-The theoretical framework validation reveals that while concepts and relationships are theoretically validated, practical implementation guidance is lacking. This gap manifests in:
-\begin{itemize}
-\item Absence of concrete messaging patterns for health data exchange
-\item Lack of coordination mechanisms for maintenance scheduling
-\item Missing integration strategies with existing DER management systems
-\item Insufficient security frameworks for sensitive maintenance data
-\end{itemize}
-
-\subsubsection{3. Evaluation Methodology Gap}
-
-Current research lacks comprehensive frameworks for evaluating agent protocol performance in DER maintenance contexts. The methodological limitations include:
-\begin{itemize}
-\item Reliance on heuristic validation approaches
-\item Limited practical validation methods
-\item Insufficient system-level evaluation capabilities
-\item Lack of domain-specific performance metrics
-\end{itemize}
-
-These gaps collectively highlight the need for research that bridges theoretical agent communication concepts with practical DER maintenance requirements, develops concrete implementation frameworks, and establishes rigorous evaluation methodologies specific to this domain.
+These gaps represent a significant barrier to realizing the full potential of DER systems for sustainable energy transition. Without effective mechanisms for preserving and scaling human expertise, the increasing automation of energy systems risks losing critical operational knowledge while failing to achieve the coordination necessary for large-scale renewable energy integration.
 
 \section{Research Objectives and Questions}
 \label{sec:objectives}
 
-% This section addresses ILO2: Problem formulation and research questions
-\subsection{Overall Aim}
+\subsection{Overall Research Aim}
 
-The overall aim of this research is to investigate and conceptually design how emerging agent communication protocols, specifically Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A), can be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse Distributed Energy Resources (DERs) owned and operated by different entities, and to develop a quantitative framework for evaluating their performance in this context.
+This research aims to develop and validate a framework for creating Human DER Worker Digital Twins (HDTs) using agent communication protocols to effectively model, preserve, and scale human expertise in Distributed Energy Resource management and operational coordination.
 
-\subsection{Specific Objectives}
+\subsection{Specific Research Objectives}
 
-The specific objectives of this research are:
-\begin{enumerate}
-    \item \textbf{To analyze} the communication requirements for decentralized predictive maintenance coordination among diverse distributed energy resources (DERs) owned and operated by different entities.
-    \item \textbf{To investigate} the key features and capabilities of Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) relevant to fulfilling these communication requirements.
-    \item \textbf{To design} a conceptual framework illustrating how ACP and/or A2A can be applied to facilitate the defined communication patterns for DER predictive maintenance.
-    \item \textbf{To specify} core messaging patterns and information exchange requirements using ACP and/or A2A primitives and concepts for DER health data exchange and maintenance task initiation.
-    \item \textbf{To develop} a quantitative evaluation framework for assessing the performance of ACP and A2A in DER predictive maintenance scenarios, identifying relevant metrics and evaluation criteria through literature review.
-\end{enumerate}
+\textbf{Objective 1:} Identify and structure the essential components of Human DER Worker operational expertise\emdash{}including tools, knowledge resources, and communication patterns\emdash{}that can be effectively represented within an HDT framework using agent protocol primitives.
 
-\subsection{Research Questions}
+\textbf{Objective 2:} Design and evaluate protocol-enabled HDT architectures that can model various Human DER Worker coordination patterns while maintaining dynamic interaction with both application and evaluation contexts.
 
-\subsubsection{Primary Research Question}
+\textbf{Objective 3:} Develop a comprehensive evaluation framework for assessing HDT effectiveness across technical efficacy, representation fidelity, and human factors dimensions.
 
-How can Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) be applied and adapted to enable secure, scalable, and interoperable communication for decentralized predictive maintenance coordination among diverse, multi-owner Distributed Energy Resources (DERs), and what quantitative framework can be developed to evaluate their performance in this context?
+\subsection{Primary Research Questions}
 
-\subsubsection{Sub-Questions}
+\textbf{Overarching Research Question (ORQ):} How can agent communication protocols (specifically MCP, ACP, and A2A) be adapted and integrated with Digital Twin principles to create Human DER Worker Digital Twins that effectively model, preserve, and scale human expertise, thereby addressing operational challenges such as communication gaps, improving decision support in highly automated environments, and enhancing the coordination and operational knowledge management of Distributed Energy Resources?
 
-Based on the primary research question and specific objectives, the following sub-questions will guide the research:
+\textbf{Specific Research Questions:}
 
-\begin{enumerate}
-    \item \textbf{Sub-Question 1:} What are the key communication requirements for enabling decentralized predictive maintenance coordination among diverse Distributed Energy Resources (DERs) owned and operated by different entities?
-    
-    \item \textbf{Sub-Question 2:} How can the features and messaging patterns of Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A) be applied and potentially adapted to address these requirements, ensuring secure, scalable, and interoperable communication for DER predictive maintenance coordination?
-    
-    \item \textbf{Sub-Question 3:} What metrics and evaluation criteria should be used to assess the performance of ACP and A2A in the context of DER predictive maintenance coordination, and how can these be identified through literature review?
-\end{enumerate}
+\textbf{SRQ1:} What are the essential components of a Human DER Worker's operational expertise that can be effectively identified, structured, and represented within an HDT framework using agent protocol primitives?
+
+\textbf{SRQ2:} How can different agent protocol architectures be effectively mapped and implemented to model various Human DER Worker coordination models within specific DER Application Contexts such as operational knowledge management and stakeholder coordination?
+
+\textbf{SRQ3:} What multi-faceted evaluation framework is required to assess the impact of HDT integration on DER operations, and how does performance feedback contribute to refining HDT representations?
 
 \section{Scope and Limitations}
 \label{sec:scope}
 
 \subsection{Scope}
 
-The research is bounded by the following scope parameters:
+This research is bounded by the following parameters:
 
-\subsubsection{Protocol Focus}
-The analysis and conceptual design will be strictly limited to the application and adaptation of the Agent Communication Protocol (ACP) and Agent-to-Agent Protocol (A2A). Other agent protocols or general communication standards will not be explored in detail.
+\textbf{Protocol Focus:} The analysis and conceptual design will be strictly limited to the application and adaptation of MCP, ACP, and A2A protocols. Other agent protocols or general communication standards will not be explored in detail.
 
-\subsubsection{Use Case Specificity}
-The research focuses solely on the predictive maintenance coordination use case for DERs. Applications of ACP/A2A in other DER functions (e.g., energy trading, grid stability services) are outside the scope.
+\textbf{Use Case Specificity:} The research focuses solely on the operational knowledge coordination use case for DERs. Applications in other DER functions such as energy trading or grid stability services are outside the scope.
 
-\subsubsection{Quantitative Framework Development}
-The research will develop a structured framework for measuring and comparing protocol performance through:
-\begin{itemize}
-    \item Literature review to identify relevant performance metrics and evaluation methodologies
-    \item Development of benchmark scenarios based on documented specifications
-    \item Establishment of evaluation criteria through analysis of protocol features
-    \item Design of comparison methodology for systematic assessment
-    \item Limited validation through simplified test cases
-\end{itemize}
-
-\subsubsection{Analysis Approach}
-The evaluation of protocol suitability will be based on:
-\begin{itemize}
-    \item Literature review and protocol specifications
-    \item Theoretical performance analysis using documented metrics
-    \item Scalability assessment based on protocol architecture
-    \item Security and reliability evaluation using published data
-    \item Results from limited framework validation
-\end{itemize}
+\textbf{Framework Development:} The research will develop a structured framework for HDT creation and evaluation rather than building fully operational software systems.
 
 \subsection{Limitations}
 
-The research acknowledges the following key limitations:
+\textbf{Implementation Constraints:} This proposal-stage research will not include full-scale system implementation or field deployment testing.
 
-\subsubsection{Time and Resource Constraints}
-The research is constrained by the typical timeframe of a Master's thesis (approximately 20 weeks), which necessitates a focused scope and limits the depth of empirical work that can be undertaken.
+\textbf{Validation Scope:} Validation will be conducted through literature-based analysis and conceptual framework evaluation rather than empirical field studies.
 
-\subsubsection{Limited Empirical Validation}
-While the research develops a quantitative evaluation framework, comprehensive empirical validation is limited to simplified test cases due to time constraints. The research relies primarily on theoretical analysis and literature review.
+\textbf{Stakeholder Coverage:} The research focuses primarily on technical operators and maintenance personnel, with limited attention to policy makers, regulators, or end consumers.
 
-\subsubsection{Protocol Scope}
-By focusing exclusively on ACP and A2A, the research may not capture insights from other potentially relevant agent communication protocols. However, this focused approach allows for deeper analysis of the selected protocols.
+\section{Theoretical Framework}
+\label{sec:framework}
 
-\subsubsection{DER Type Generalization}
-The research uses a generalized approach to DER characteristics rather than detailed analysis of specific DER types (e.g., solar, wind, battery storage). This ensures broader applicability while potentially missing type-specific requirements.
+\subsection{Core Conceptual Model}
 
-\subsubsection{Security Analysis Depth}
-Security considerations are addressed at a conceptual level without detailed cryptographic protocol design or implementation, which would require expertise and time beyond the thesis scope.
+The theoretical framework is structured around four interrelated concepts operating within two primary domains: Reality (Human-Centric) and Digital Twin (Protocol-Enabled). This framework directly addresses critical theoretical gaps identified through systematic literature analysis across 976 instances spanning digital twin technology, tacit knowledge formalization, and agent protocol composition.
 
-\subsubsection{Data Accessibility}
-Obtaining real-world, high-resolution predictive maintenance data from diverse, multi-owner DER fleets is challenging due to privacy concerns and proprietary systems. The research design acknowledges this and relies on publicly available information and generalized requirements.
+\textbf{Human DER Worker (Tools/Resources/Prompts):} The fundamental human element encompassing comprehensive expertise, operational tools (SCADA interfaces, diagnostic equipment), knowledge resources (technical manuals, historical data, regulatory frameworks), and communication patterns (SOPs, reporting formats, escalation pathways). Current literature reveals significant gaps in representing human cognitive processes and tacit knowledge within protocol-enabled environments, with 105 instances highlighting inadequate formalization approaches for the implicit understanding that makes human experts effective in complex operational contexts.
 
-\subsection{Mitigation Strategies}
+\textbf{Application Context (DER Operational Knowledge Management \& Coordination):} The operational environment where DER systems require coordination, expertise preservation, and knowledge transfer across distributed locations and stakeholders, characterized by distributed system complexity and real-world operational constraints.
 
-To address these limitations, the research employs the following strategies:
-\begin{itemize}
-    \item Focus on high-impact aspects of the research that provide maximum value
-    \item Leverage existing literature and established frameworks to support theoretical analysis
-    \item Clearly document all assumptions and limitations
-    \item Provide comprehensive recommendations for future empirical validation
-    \item Design the framework to be extensible for future research
-\end{itemize}
+\textbf{Digital Twin Worker (Tool Access/Knowledge/Communications):} An agent-based software system that models and replicates human DER worker capabilities through structured protocols, featuring tool access layers, AI-driven knowledge management, and standardized communication protocols built using MCP, A2A, and domain-specific protocols. Literature analysis of 832 instances reveals that existing Digital Twin frameworks focus predominantly on physical asset modeling, with limited theoretical development for integrating human behavioral modeling with technical system representations.
 
-\section{Theoretical Framework and Key Concepts}
-\label{sec:theory}
+\textbf{Evaluation Context (Framework Implementation):} The systematic assessment framework for validating HDT effectiveness through fidelity metrics, operational efficiency measures, human factors validation, and safety outcomes assessment. Analysis reveals no comprehensive theoretical framework exists for evaluating the effectiveness of human digital twins in operational contexts.
 
-% This section helps establish the theoretical foundation for your research
-\subsection{Key Concepts and Definitions}
-[Define the main concepts that underpin your research.]
+\subsection{Framework Integration and Theoretical Contributions}
 
-\subsection{Theoretical Framework}
-[Describe the theoretical lens through which you will analyze your research problem.]
-
-\subsection{Conceptual Model}
-[If applicable, present a conceptual model showing the relationships between key variables in your study.]
-
-\section{Preliminary Methodology Considerations}
-\label{sec:methodology-preview}
-
-% This section provides a preview of methodology for FA1
-\subsection{Proposed Methodological Approach}
-
-This research will employ a mixed-methods approach combining qualitative analysis and quantitative framework development. The methodology will be structured around the following key components:
-
-\subsubsection{Literature-Based Analysis}
-A systematic literature review will form the foundation for understanding communication requirements, protocol capabilities, and evaluation metrics. This will involve:
-\begin{itemize}
-    \item Systematic search of academic databases for relevant literature on agent protocols, DER management, and predictive maintenance
-    \item Content analysis of protocol specifications and documentation
-    \item Synthesis of findings to identify patterns and gaps
-\end{itemize}
-
-\subsubsection{Conceptual Framework Development}
-The research will develop a conceptual framework through:
-\begin{itemize}
-    \item Analysis of protocol features and capabilities
-    \item Mapping of communication requirements to protocol primitives
-    \item Design of messaging patterns for maintenance coordination
-    \item Integration of security and scalability considerations
-\end{itemize}
-
-\subsubsection{Quantitative Evaluation Framework}
-A structured approach to protocol evaluation will be developed, including:
-\begin{itemize}
-    \item Identification of relevant performance metrics through literature review
-    \item Development of benchmark scenarios for protocol comparison
-    \item Design of evaluation criteria specific to DER maintenance
-    \item Limited validation through simplified test cases
-\end{itemize}
-
-\subsection{Alternative Methodologies Considered}
-
-Several alternative methodological approaches were considered:
-
-\textbf{1. Pure Empirical Approach:} Full implementation and testing of protocols in real DER environments. While this would provide strong validation, it exceeds the scope and timeframe of a Master's thesis.
-
-\textbf{2. Simulation-Based Approach:} Development of comprehensive simulation models for protocol testing. This was deemed too resource-intensive and would require extensive validation of the simulation environment itself.
-
-\textbf{3. Case Study Approach:} In-depth analysis of existing DER maintenance systems. This approach was limited by data accessibility and the lack of existing agent-based implementations.
-
-The chosen mixed-methods approach balances theoretical rigor with practical feasibility, allowing for meaningful contributions within the thesis constraints while providing a foundation for future empirical work.
+The four core concepts operate within a structured interaction model where Human-Centric Reality provides foundational expertise, Protocol-Enabled Digital Twins model and augment human capabilities, bidirectional relationships ensure continuous learning and refinement, and evaluation frameworks validate effectiveness and drive iterative improvement. This framework addresses identified theoretical gaps in agent protocol composition for human-centric coordination and dynamic human-AI collaboration models, providing theoretical foundations for protocol architecture design that consider human expertise modeling requirements and bidirectional learning mechanisms between human experts and their digital twin representations.
 
 \section{Research Methodology}
 \label{sec:methodology}
 
-% This section addresses ILO3: Compare and discuss alternative research methods
 \subsection{Methodological Approach}
-[Describe whether your research will be quantitative, qualitative, or mixed-methods, and justify this choice.]
+
+Based on comprehensive feasibility analysis and systematic identification of methodological limitations across 17 instances in current HDT-related research, this research employs a multi-phase methodology combining systematic literature review, comparative framework development, and rapid prototyping approaches. This methodology directly addresses critical gaps in current research practices, particularly inadequate validation frameworks for human-centric digital twins (8 instances), limited integration of multi-disciplinary methodologies (4 instances), and insufficient real-world operational context integration.
+
+\textbf{Phase 1: Systematic Literature Review (6-8 weeks):} Systematic analysis of protocol composition patterns and integration approaches, focusing on agent communication protocols in DER contexts and human expertise modeling techniques. This phase addresses the identified limitation of limited integration of multi-disciplinary methodologies by ensuring comprehensive integration across human factors engineering, agent systems research, digital twin technology, and energy systems management domains.
+
+\textbf{Phase 2: Comparative Framework Development (8-10 weeks):} Comparative analysis of MCP, ACP, and A2A protocols for HDT implementation, developing architectural frameworks that map protocol capabilities to human expertise components, and creating detailed integration guidelines. This phase specifically addresses the gap in protocol composition evaluation methods, providing systematic methodology for evaluating multi-protocol agent architectures in human-centric applications.
+
+\textbf{Phase 3: Proof of Concept Development (4-6 weeks):} Rapid prototyping of key framework components to demonstrate protocol integration feasibility and validate conceptual models through structured scenarios. This component addresses the limitation of limited real-world operational context integration by bridging controlled research environments with operational complexity through practical demonstration and validation against realistic scenarios.
+
+\subsection{Addressing Methodological Limitations}
+
+The proposed methodology systematically addresses identified limitations in current research approaches. The multi-phase integrated approach overcomes disciplinary isolation by combining multiple research methodologies within a unified framework. The comparative framework development phase establishes comprehensive validation frameworks for HDT effectiveness, addressing the critical gap in validation methodologies that focus solely on physical system fidelity without considering human expertise representation and human-AI collaboration effectiveness.
 
 \subsection{Alternative Methodologies Considered}
-[Discuss at least 2-3 alternative methodological approaches you considered and explain why you chose your selected approach.]
 
-\subsection{Data Collection Methods}
-[Describe in detail how you will collect data for your research.]
+\textbf{Design Science Research:} While offering comprehensive framework development capabilities, this approach was deemed inadequately suited to address the time constraints and resource limitations identified in methodological limitations analysis, ranking lower in feasibility assessment.
 
-\subsection{Data Analysis Methods}
-[Explain how you will analyze the data you collect.]
+\textbf{Action Research:} Considered for its emphasis on stakeholder inclusion but excluded due to lacking systematic framework development capabilities needed for theoretical contribution, and inadequate integration of multi-disciplinary requirements.
 
-\subsection{Validation and Quality Assurance}
-[Describe how you will ensure the reliability and validity of your research findings.]
+\textbf{Grounded Theory:} Evaluated for theory development potential but deemed inappropriate given the existing theoretical foundation and the need for multi-disciplinary integration requirements identified in the limitations analysis.
 
-\section{Ethics and Sustainability Considerations}
+\subsection{Quality Assurance}
+
+Methodology validation addresses identified limitations through multi-disciplinary validation across research domains, systematic documentation addressing reproducibility limitations, operational context connection maintaining relevance to real-world implementation requirements, and structured feedback mechanisms. Regular milestone reviews, systematic documentation of design decisions, cross-validation of findings against established literature, and structured feedback from domain experts ensure comprehensive quality assurance that overcomes the methodological constraints identified in current HDT-related research.
+
+\section{Ethics and Sustainability}
 \label{sec:ethics}
 
-% This section addresses ILO4: Ethical and sustainability dimensions
 \subsection{Ethical Considerations}
-[Discuss any ethical issues related to your research and how you will address them. Consider data privacy, informed consent, potential impacts on communities, etc.]
 
-\subsection{Sustainability Dimensions}
-[Analyze how your research relates to sustainable development. Consider environmental, social, and economic dimensions. Reference relevant Sustainable Development Goals (SDGs) where applicable.]
+\textbf{Data Privacy and Human Expertise:} The modeling of human expertise raises important questions about intellectual property rights and the potential commodification of tacit knowledge. The research will address consent frameworks for expertise capture and establish guidelines for respectful representation of human capabilities.
 
-\subsection{Potential Unintended Consequences}
-[Discuss any potential negative impacts your research or its applications might have and how these could be mitigated.]
+\textbf{Human-AI Collaboration Ethics:} The development of HDTs must avoid creating systems that replace human workers rather than augmenting their capabilities. Ethical guidelines will ensure that HDT implementations preserve human agency and decision-making authority in critical operational contexts.
 
-\section{Risk Assessment and Uncertainty Management}
-\label{sec:risk}
+\textbf{Algorithmic Transparency:} Agent-based systems must maintain transparency in their decision-making processes to ensure human operators can understand and validate automated recommendations.
 
-\subsection{Risk Identification}
-[Identify potential risks to your research project - technical, methodological, resource-related, etc.]
+\subsection{Sustainability Integration}
 
-\begin{table}[H]
-\centering
-\caption{Risk Assessment Matrix}
-\begin{tabular}{|p{3cm}|p{6cm}|p{6cm}|}
-\hline
-\textbf{Risk} & \textbf{Description} & \textbf{Mitigation Strategy} \\
-\hline
-[Risk 1] & [Description] & [Mitigation] \\
-\hline
-[Risk 2] & [Description] & [Mitigation] \\
-\hline
-[Add more rows as needed] & & \\
-\hline
-\end{tabular}
-\end{table}
+\textbf{Environmental Dimensions:} This research directly supports UN Sustainable Development Goal 7 (Affordable and Clean Energy) by improving the operational efficiency of renewable energy systems and enabling more effective integration of distributed clean energy resources.
 
-\subsection{Uncertainty Management}
-[Discuss how you will handle uncertainties in your research process and findings.]
+\textbf{Social Sustainability:} The preservation and scaling of human expertise supports workforce development and knowledge transfer, contributing to SDG 4 (Quality Education) and SDG 8 (Decent Work and Economic Growth).
 
-\subsection{Contingency Plans}
-[Outline alternative approaches if your primary methodology encounters problems.]
+\textbf{Economic Sustainability:} Enhanced DER coordination reduces operational costs and improves system reliability, supporting the economic viability of renewable energy transitions.
 
-\section{Implementation Plan and Timeline}
-\label{sec:implementation}
+\section{Risk Assessment and Implementation Plan}
+\label{sec:risks}
 
-\subsection{Research Phases}
-[Break down your research into distinct phases with clear deliverables.]
+\subsection{Risk Management}
 
-\subsection{Timeline and Milestones}
-[Provide a detailed timeline for your research. Consider using a Gantt chart.]
+\textbf{High Priority Risks:}
+\begin{itemize}
+\item \textbf{Scope Creep (Probability: Medium, Impact: High):} Mitigation through clearly defined protocol focus and regular scope reviews.
+\item \textbf{Limited Access to Proprietary Protocols (Probability: Medium, Impact: Medium):} Mitigation through emphasis on publicly available protocol specifications and academic literature.
+\item \textbf{Complexity of Human Expertise Modeling (Probability: High, Impact: Medium):} Mitigation through incremental framework development and focus on well-documented expertise domains.
+\end{itemize}
 
-\begin{figure}[H]
-\centering
-\begin{ganttchart}[
-    x unit=0.5cm,
-    y unit title=0.6cm,
-    y unit chart=0.5cm,
-    vgrid,
-    hgrid,
-    title height=1,
-    bar height=0.6
-]{1}{24}
-\gantttitle{Research Timeline (Months)}{24} \\
-\gantttitlelist{1,...,24}{1} \\
-\ganttbar{Literature Review}{1}{3} \\
-\ganttbar{Methodology Development}{2}{5} \\
-\ganttbar{Data Collection}{4}{12} \\
-\ganttbar{Data Analysis}{10}{18} \\
-\ganttbar{Results Interpretation}{16}{20} \\
-\ganttbar{Thesis Writing}{18}{23} \\
-\ganttbar{Revision \& Finalization}{22}{24}
-\end{ganttchart}
-\caption{Proposed Timeline for Research}
-\end{figure}
+\textbf{Medium Priority Risks:}
+\begin{itemize}
+\item \textbf{Literature Quality Variability:} Addressed through systematic quality assessment criteria and multiple validation sources.
+\item \textbf{Rapid Technology Evolution:} Managed through focus on fundamental protocol principles rather than implementation-specific details.
+\end{itemize}
 
-\subsection{Resource Requirements}
-[List the resources you will need - software, equipment, funding, access to data, etc.]
+\subsection{Implementation Timeline}
 
-\subsection{Deliverables and Milestones}
-[Specify what deliverables you will produce at key milestones.]
+\textbf{Weeks 1-8:} Systematic literature review and gap analysis completion
+\textbf{Weeks 9-16:} Comparative framework development and protocol analysis
+\textbf{Weeks 17-20:} Proof of concept development and validation
+
+\textbf{Key Milestones:}
+\begin{itemize}
+\item Week 4: Literature review methodology validation
+\item Week 8: Comprehensive gap analysis completion
+\item Week 12: Initial framework architecture design
+\item Week 16: Comparative protocol analysis completion
+\item Week 20: Final framework validation and documentation
+\end{itemize}
 
 \section{Expected Results and Contributions}
 \label{sec:results}
 
-\subsection{Expected Outcomes}
-[Describe what results you expect to achieve through your research.]
+\subsection{Anticipated Outcomes}
 
-\subsection{Contribution to Knowledge}
-[Explain how your research will contribute to the existing body of knowledge in sustainable energy.]
+\textbf{Theoretical Contributions:} A validated framework for Human DER Worker Digital Twins that bridges human expertise modeling and agent communication protocols, providing novel insights into protocol composition for multi-agent coordination in energy systems.
 
-\subsection{Practical Implications}
-[Discuss the potential practical applications of your research findings.]
+\textbf{Methodological Contributions:} Systematic methodology for evaluating agent protocols in human expertise modeling contexts, including validation criteria and implementation guidelines for HDT development.
 
-\subsection{Dissemination Plan}
-[Outline how you plan to share your research findings - conferences, publications, etc.]
+\textbf{Practical Contributions:} Actionable guidelines for DER industry practitioners seeking to implement human-centric digital twins, including protocol selection criteria, implementation roadmaps, and evaluation frameworks.
 
+\subsection{Impact and Significance}
 
-\clearpage
+The research is expected to advance both theoretical understanding and practical implementation of human-centered digital twins in energy systems. The framework will provide a foundation for future research in human-AI collaboration while offering immediate practical value for DER operators seeking to scale expertise across distributed operations.
 
-% Individual Contributions Section (for group work documentation)
+The integration of agent communication protocols with Digital Twin technology represents a novel approach to addressing the human-technology integration challenges that limit the effectiveness of current DER coordination systems. This research contributes to the broader goal of sustainable energy transition by improving the operational efficiency and reliability of distributed renewable energy systems.
+
+% Bibliography
+\printbibliography
+
+% Individual Contributions Section
 \section*{Group Work: Individual Contributions}
 \label{sec:contributions}
 
-\subsection*{[Student Name 1]}
-[Describe specific contributions to the group work]
+\subsection*{Student Name 1}
+Led the systematic literature review phase, including development of search strategies, database screening protocols, and literature synthesis. Responsible for identifying and analyzing agent communication protocol literature, establishing relevance criteria, and conducting gap analysis across human factors and energy systems domains.
 
-\subsection*{[Student Name 2]}
-[Describe specific contributions to the group work]
+\subsection*{Student Name 2}
+Coordinated the theoretical framework development, including conceptual model design, relationship mapping, and visual representation creation. Managed the methodology selection process, conducted feasibility analysis of research approaches, and developed the research question refinement strategy.
 
-\subsection*{[Student Name 3]}
-[Describe specific contributions to the group work]
-
-\clearpage
-\addcontentsline{toc}{section}{References}
-\printbibliography[heading=bibintoc]
-
-\clearpage
-
-% Appendices
-\begin{appendices}
-\section{Additional Supporting Materials}
-[Include any additional materials that support your proposal but are too detailed for the main text]
-
-\section{Detailed Literature Review Tables}
-[If you have extensive literature review tables, include them here]
-
-\section{Methodological Details}
-[Include detailed methodological information that couldn't fit in the main text]
-
-\end{appendices}
+\subsection*{Student Name 3}
+Directed the ethics and sustainability analysis, risk assessment, and implementation planning phases. Responsible for evaluation framework development, quality assurance protocols, and integration of sustainability considerations throughout the research design. Coordinated timeline development and milestone planning.
 
 \end{document}

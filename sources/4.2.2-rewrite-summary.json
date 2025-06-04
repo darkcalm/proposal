@@ -1,0 +1,64 @@
+{
+  "visual_structure": {
+    "domains": [
+      "Reality (Human-Centric)",
+      "Digital Twin (Protocol-Enabled)"
+    ],
+    "nodes": [
+      {
+        "id": "HEW",
+        "style": "human",
+        "content": "Human DER Worker (Tools/Resources/Prompts)"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "HEW",
+        "to": "AC",
+        "type": "arrow",
+        "label": "Engages With"
+      },
+      {
+        "from": "AC",
+        "to": "HEW",
+        "type": "arrow",
+        "label": "Contextual Constraints"
+      },
+      {
+        "from": "DT",
+        "to": "EC",
+        "type": "arrow",
+        "label": "Operates Within Protocol"
+      },
+      {
+        "from": "EC",
+        "to": "DT",
+        "type": "arrow",
+        "label": "Drives Simulation"
+      },
+      {
+        "from": "HEW",
+        "to": "DT",
+        "type": "arrow",
+        "label": "Provides Basis For"
+      },
+      {
+        "from": "DT",
+        "to": "HEW",
+        "type": "dasharrow",
+        "label": "Evaluation Framework Refines Representation"
+      }
+    ]
+  },
+  "citation_categories": [
+    "human_der_worker",
+    "application_context",
+    "digital_twin_worker",
+    "evaluation_context"
+  ],
+  "total_citations": 111,
+  "documents_updated": [
+    "docs/4.2.2.1-key-concepts-updated.md",
+    "docs/4.2.2.2-define-relationships-updated.md"
+  ]
+}
