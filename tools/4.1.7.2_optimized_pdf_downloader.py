@@ -27,7 +27,7 @@ import argparse
 WORKSPACE_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PDF_DIR = WORKSPACE_ROOT / "sources" / "4.1.7-semantic-scholar-dynamic-results" # Changed output path
 DOCS_DIR = WORKSPACE_ROOT / "docs"
-LOG_FILE_PATH = Path(__file__).resolve().parent / f"{Path(__file__).stem}.log"
+LOG_FILE_PATH = Path(__file__).resolve().parent / "q.log"
 
 # Rate limiting constants (can be adjusted)
 # General API calls
@@ -60,6 +60,11 @@ def setup_logging():
     console_handler = logging.StreamHandler()
     console_handler.setFormatter(formatter)
     logger.addHandler(console_handler)
+
+    # If you want to also log to r.log, add another handler:
+    r_log_handler = logging.FileHandler(Path(__file__).resolve().parent / "r.log")
+    r_log_handler.setFormatter(formatter)
+    logger.addHandler(r_log_handler)
 
 setup_logging() # Initialize logging
 

@@ -7,7 +7,11 @@ from datetime import datetime
 import logging
 
 # Setup logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(str(WORKSPACE_ROOT / "tools" / "relevance_filtering.log")),
+        logging.StreamHandler()
+    ])
 
 # Determine workspace root assuming script is in tools/
 WORKSPACE_ROOT = Path(__file__).resolve().parent.parent

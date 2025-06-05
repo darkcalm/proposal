@@ -155,12 +155,12 @@ def main():
     print("Note: Due to technical difficulties with complex LaTeX, only generating Conceptual Model and Timeline Gantt chart.")
     print()
     
-    output_dir = Path("deliverable/images")
+    output_dir = Path("deliverable/rendering")
     output_dir.mkdir(parents=True, exist_ok=True)
     
     visual_outputs = {
-        "deliverable/images/conceptual-model-diagram.tex": create_conceptual_model_diagram(),
-        "deliverable/images/timeline-gantt-simple.tex": create_simple_timeline_gantt(),
+        "deliverable/rendering/conceptual-model-diagram.tex": create_conceptual_model_diagram(),
+        "deliverable/rendering/timeline-gantt-simple.tex": create_simple_timeline_gantt(),
     }
     
     for filepath, content in visual_outputs.items():
@@ -183,13 +183,13 @@ Other previously considered visual aids (methodology comparison tables, detailed
 ## Generated LaTeX Figures
 
 ### 1. Conceptual Model Diagram
-- **File**: `deliverable/images/conceptual-model-diagram.tex`
+- **File**: `deliverable/rendering/conceptual-model-diagram.tex`
 - **Purpose**: Visual representation of the theoretical framework and core concepts.
 - **Integration**: Recommended for inclusion in Section 4 (Theoretical Framework).
 - **Compilation**: Uses TikZ. Ensure necessary libraries are in `main.tex` preamble.
 
 ### 2. Timeline Gantt Chart
-- **File**: `deliverable/images/timeline-gantt-simple.tex`
+- **File**: `deliverable/rendering/timeline-gantt-simple.tex`
 - **Purpose**: Visual timeline for the research project.
 - **Integration**: Recommended for inclusion in Section 7.2 (Implementation Timeline).
 - **Compilation**: Uses `pgfgantt`. Ensure this package is in `main.tex` preamble.
@@ -211,7 +211,7 @@ Other previously considered visual aids (methodology comparison tables, detailed
 ```latex
 % ... text describing the theoretical framework ...
 
-\input{{images/conceptual-model-diagram.tex}}
+\input{{rendering/conceptual-model-diagram.tex}}
 
 % ... further text ...
 ```
@@ -221,7 +221,7 @@ Other previously considered visual aids (methodology comparison tables, detailed
 ```latex
 \subsection{{Implementation Timeline}}
 
-\input{{images/timeline-gantt-simple.tex}}
+\input{{rendering/timeline-gantt-simple.tex}}
 
 % Optionally, remove or condense the textual list of weeks/milestones if the Gantt chart is sufficient.
 % \textbf{{Weeks 1-8:}} Systematic literature review and gap analysis completion

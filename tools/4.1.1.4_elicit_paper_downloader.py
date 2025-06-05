@@ -371,14 +371,14 @@ def main():
     # Define paths relative to workspace root
     bib_file_path = WORKSPACE_ROOT / "sources" / "4.1.1-elicit-results" / "Elicit - Decentralized Health Data Exchange in DERs - Sources.bib"
     output_papers_dir = WORKSPACE_ROOT / "sources" / "4.1.1-elicit-results" / "elicit-papers"
-    log_dir = WORKSPACE_ROOT / "sources" / "4.1.1-elicit-results" / "logs"
+    log_dir = WORKSPACE_ROOT / "tools"
 
     output_papers_dir.mkdir(parents=True, exist_ok=True)
     log_dir.mkdir(parents=True, exist_ok=True)
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    missing_papers_log_file = log_dir / f"elicit_downloader_missing_papers_{timestamp}.txt"
-    download_summary_log_file = log_dir / f"elicit_downloader_summary_{timestamp}.txt"
+    missing_papers_log_file = log_dir / "missing_papers_debug.log"
+    download_summary_log_file = log_dir / "paper_download.log"
 
     if not bib_file_path.exists():
         logging.error(f"BibTeX file not found: {bib_file_path}")
