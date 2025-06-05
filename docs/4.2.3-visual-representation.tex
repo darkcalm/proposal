@@ -1,6 +1,6 @@
 \documentclass[border=10pt]{standalone}
 \usepackage{tikz}
-\usetikzlibrary{positioning, arrows.meta, backgrounds}
+\usetikzlibrary{positioning, arrows.meta, backgrounds, fit}
 
 \begin{document}
 \begin{tikzpicture}[
@@ -12,28 +12,28 @@
     eval/.style={fill=red!15, draw=red!40!black, thick},
     arrow/.style={-Stealth, thick},
     dasharrow/.style={-Stealth, thick, dashed},
-    edgelabel/.style={font=\footnotesize, fill=white, inner sep=1pt}
+    edgelabel/.style={font=\footnotesize, inner sep=1pt}
 ]
 
 % Human Context (left column)
-\node[human] (HEW) {Human DER Worker\\(Tools/Resources/Prompts)};
-\node[context, below=of HEW] (AC) {Application Context\\(DER PM \& Ops)};
+\node[human] (HEW) {Human DER Worker\\(Tool Access/Knowledge/Comms)};
+\node[context, below=of HEW] (AC) {Application Context\\(DER Ops)};
 
 % Digital Twin System (right column)
-\node[twin, right=of HEW] (DT) {Digital Twin Worker\\(Tool Access/Knowledge/Comms)};
+\node[twin, right=of HEW] (DT) {Digital Twin Worker\\(Tools/Resources/Prompts)};
 \node[eval, below=of DT] (EC) {Evaluation Context\\(Framework Implementation)};
 
 % Human context arrows
-\draw[arrow] (HEW) -- node[edgelabel, left, yshift=6pt] {Engages With} (AC);
-\draw[arrow] (AC) -- node[edgelabel, right, yshift=-6pt] {Contextual\\Constraints} (HEW);
+\draw[arrow] (HEW) -- node[edgelabel, left, yshift=0pt] {Engages With} (AC);
+\draw[arrow] (AC) -- node[edgelabel, right, yshift=0pt] {Contextual\\Constraints} (HEW);
 
 % Digital twin arrows
-\draw[arrow] (DT) -- node[edgelabel, right, yshift=6pt] {Operates Within Protocol} (EC);
-\draw[arrow] (EC) -- node[edgelabel, left, yshift=-6pt] {Drives Simulation} (DT);
+\draw[arrow] (DT) -- node[edgelabel, right, yshift=0pt] {Operates via Protocol} (EC);
+\draw[arrow] (EC) -- node[edgelabel, left, yshift=0pt] {Drives Simulation} (DT);
 
 % Core relationships (horizontal)
 \draw[arrow] (HEW) -- node[edgelabel, above] {Provides Basis For} (DT);
-\draw[dasharrow] (DT) to[bend left=18] node[edgelabel, below] {Evaluation Framework\\Refines Representation} (HEW);
+\draw[dasharrow] (DT) to[bend left=13] node[edgelabel, below] {Evaluation Framework\\Refines Representation} (HEW);
 
 % Subgraph backgrounds for clarity
 \begin{pgfonlayer}{background}

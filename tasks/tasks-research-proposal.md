@@ -197,19 +197,18 @@
     - [x] 7.2.2 Allocate resources
 
 - [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
-  - [ ] 8.1 Document Finalization
+  - [x] 8.1 Document Finalization
     - [x] 8.1.1 Allocate word count for sections
     - [x] 8.1.2 Map main references for sections
     - [x] 8.1.3 Incorporate visual planning
     - [x] 8.1.4 List all potential citations
     - [x] 8.1.5 Develop first draft for sections
-    - [ ] 8.1.6 Incorporate visual planning
-    - [ ] 8.1.7 Ensure draft consistent with intent
+    - [x] 8.1.6 Incorporate visual planning
+    - [x] 8.1.7 Ensure draft consistent with intent
   - [ ] 8.2 Quality Assurance
-    - [ ] 8.2.1 Review against grading criteria
-    - [ ] 8.2.2 Validate ILO compliance
-    - [ ] 8.2.3 Cross-check deliverables
-    - [ ] 8.2.4 Proofread entire document
+    - [x] 8.2.1 Proofread entire document
+    - [ ] 8.2.2 Review against grading criteria
+    - [ ] 8.2.3 Validate ILO compliance
   - [ ] 8.3 Submission Preparation
-    - [ ] 8.3.1 Prepare final PDF
+    - [ ] 8.3.1 Export final PDF
     - [ ] 8.3.2 Submit by deadline
