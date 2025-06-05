@@ -190,7 +190,7 @@
     - [x] 7.2.1 Develop mitigation strategies
     - [x] 7.2.2 Allocate resources
 
-- [ ] 8.0 Final Proposal Compilation and Submission (Deliverable)
+- [x] 8.0 Final Proposal Compilation and Submission (Deliverable)
   - [x] 8.1 Document Finalization
     - [x] 8.1.1 Allocate word count for sections
     - [x] 8.1.2 Map main references for sections
@@ -205,4 +205,4 @@
     - [x] 8.2.3 Validate ILO compliance
   - [x] 8.3 Submission Preparation (outside of repo)
     - [x] 8.3.1 Export final PDF (on Overleaf, as we encountered problems when rendering the figures in main.tex locally)
-    - [ ] 8.3.2 Submit by deadline
+    - [x] 8.3.2 Submit by deadline (screenshot and send to group)
