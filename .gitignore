@@ -32,7 +32,6 @@ env/
 
 # Ignore course material
 sources/1.0-course_material/
-docs/1.6-mentor-expertise.md
 
 # Optionally ignore the .git directory itself, though Git usually handles this
 # .git/ 

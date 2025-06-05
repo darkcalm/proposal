@@ -27,13 +27,7 @@
     - [x] 1.4.1 Create detailed Gantt chart
     - [x] 1.4.2 Define key milestones
     - [x] 1.4.3 Allocate buffer time
-  - [x] 1.5 Group Coordination Setup
-    - [x] 1.5.1 Define communication protocols
-    - [x] 1.5.2 Create progress tracking system
-    - [x] 1.5.3 Set up feedback mechanisms
-    - [x] 1.5.4 Plan for conflict resolution
-  - [x] 1.6 Document Key Mentor Research Expertise
-
+  - [x] 1.5 Document Mentors Research Expertise
 
 - [x] 2.0 Initial Literature Review and Problem Exploration (ILO1)
   - [x] 2.1 Initial Literature Search (informed by sources/intent_documents)
@@ -205,10 +199,10 @@
     - [x] 8.1.5 Develop first draft for sections
     - [x] 8.1.6 Incorporate visual planning
     - [x] 8.1.7 Ensure draft consistent with intent
-  - [ ] 8.2 Quality Assurance
+  - [x] 8.2 Quality Assurance (iterative)
     - [x] 8.2.1 Proofread entire document
-    - [ ] 8.2.2 Review against grading criteria
-    - [ ] 8.2.3 Validate ILO compliance
-  - [ ] 8.3 Submission Preparation
-    - [ ] 8.3.1 Export final PDF
+    - [x] 8.2.2 Review against grading criteria
+    - [x] 8.2.3 Validate ILO compliance
+  - [x] 8.3 Submission Preparation (outside of repo)
+    - [x] 8.3.1 Export final PDF (on Overleaf, as we encountered problems when rendering the figures in main.tex locally)
     - [ ] 8.3.2 Submit by deadline
