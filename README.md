@@ -7,7 +7,7 @@
 - `tasks/` — Project management and task tracking (see `tasks/tasks-research-proposal.md`)
 - `.cursor/` — **AI task management and automation rules**. Contains markdown rule files (in `.cursor/rules/`) that define how AI tools generate, manage, and process project task lists from the Product Requirements Document (PRD).
 
-> **Note on AI Task Management**: Detailed prompts and adjustments are not recorded in the repository. Following the task list with the same AI prompting will yield considerably different results due to a lack of persistent alignment of intent.
+> **Note on AI Task Management**: Exact prompts and manual adjustments (fingerspitzengefuhl) are not recorded in the repository. Following the task list with the same AI prompting will yield considerably different results due to a lack of persistent alignment of intent.
 
 ## License
 
