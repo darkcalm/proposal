@@ -1,0 +1,372 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Rule: Genesis - Generating the Development Workflow
+
+## Goal
+
+To generate the complete set of development process rules for this workspace (`create-prd.mdc`, `generate-tasks.mdc`, `process-task-list.mdc`). This process is like creating a full organism from its DNA, where this `genesis.mdc` file is the DNA.
+
+The generation is an interactive, multi-step process that requires user confirmation at each stage and emphasizes **code generation over tool usage** for composability, repeatability, and automation at scale.
+
+## Core Principles
+
+### Code-First Approach
+- **Prefer Code Generation**: When possible, generate code solutions rather than relying on tool chains that require inference at each step
+- **Composability Over Tools**: Generated artifacts should be composable and reusable without requiring additional inference (agents can put code into scripts, but not MCPs)
+- **Verification**: Code-based solutions are easier to review, debug, and validate than inference-based tool chains
+- **Automation at Scale**: Code can be executed repeatedly without additional context or inference costs
+- **Context Efficiency**: Code generation uses context more efficiently than tool orchestration
+
+### LLM-to-Code-to-LLM Pattern
+1. Use LLM to understand the problem and generate code
+2. Execute the code to produce results
+3. Use LLM to analyze and validate the results
+4. Iterate if necessary, but maintain the code-centric approach
+
+This pattern ensures that the heavy lifting is done by verifiable code rather than inference-heavy tool usage.
+
+### Agent Composition and Model Specialization
+- **Nested Agent Capability**: Terminal-based agents can trivially nest other agents for specialized tasks
+- **Model-Specific Strengths**: Use different models for their particular strengths (e.g., Gemini CLI for PDF reading, large context summarization)
+- **Composable Workflows**: Design workflows where agents can call other agents as needed
+- **Terminal-Based Advantage**: Command-line agents enable composition that editor integrations cannot match
+
+### Tool Selection Strategy (Based on Practical Experience)
+- **Playwright Exception**: Browser automation tasks may require MCP tools like Playwright when inference at each step is unavoidable
+- **Code-First Playwright**: When navigating known applications, prefer generating Playwright Python scripts over real-time inference
+- **CLI Tools Over MCPs**: Command-line tools (e.g., GitHub CLI) are superior to MCPs because they can be embedded in scripts
+- **Makefile Integration**: Organize tools in makefiles which agents handle exceptionally well
+- **Speed Requirements**: Agents abandon slow or unreliable tools - prioritize fast, responsive tooling
+
+### Agent-Friendly Infrastructure Principles
+- **Simplicity Wins**: Prefer simple, stable technologies over complex, rapidly changing ecosystems
+- **Fast and Reliable**: Build tools that respond quickly and fail clearly when misused
+- **Unified Observability**: Centralized logging and clear error messages for agent understanding
+- **Context Conservation**: Minimize context pollution and avoid "context rot"
+- **Forward Progress**: Design workflows that avoid backtracking and confusion
+
+## Process
+
+### Step 1: Introduction & External File Confirmation
+
+1.  **Explain the Goal:** Inform the user that you will guide them through generating the three core rule files for managing development in this workspace.
+2.  **List External Files:** List the contents of the `external/` directory.
+3.  **Prompt for Confirmation:** Ask the user: "The first rule to be generated is `create-prd.mdc`, which uses files in the `external/` directory as input. Are all necessary external documents (e.g., project briefs, proposals, user research) present in the `external/` directory? Please confirm to proceed."
+4.  **Wait for Confirmation:** Do not proceed without user confirmation.
+
+### Step 2: Generate `create-prd.mdc`
+
+1.  **Prompt for Guidelines:** After confirmation, ask the user the following question: "To ensure the PRD is generated correctly, please provide guidelines on how to process the files in `external/`. What key information should be extracted? What is their purpose?"
+2.  **Wait for User Input:** Await the user's response for the guidelines.
+3.  **Generate the File:** Once the user provides the guidelines, create the file `.cursor/rules/create-prd.mdc`. Take the user's guidelines and insert them into the `Process External Files` section of the template below.
+
+    ---
+    **Template for `create-prd.mdc`**
+    ```markdown
+    # Rule: Generating a Product Requirements Document (PRD)
+
+    ## Goal
+    To guide an AI assistant in creating a detailed Product Requirements Document (PRD) in Markdown format, based on an initial user prompt. The PRD should be clear, actionable, and suitable for a junior developer to understand and implement the feature.
+
+    ## Core Principles
+    - **Code-First Mindset**: When defining technical requirements, prefer solutions that can be implemented through code generation rather than complex tool chains
+    - **Composability**: Requirements should lead to composable, reusable solutions
+    - **Automation-Ready**: Design requirements with automation and repeatability in mind
+    - **Verifiable Outcomes**: Specify requirements in ways that produce verifiable, reviewable outputs
+
+    ## Process
+    1.  **Receive Initial Prompt:** The user provides a brief description or request for a new feature or functionality. If no description is provided, check `external/`.
+    2.  **Process External Files:**
+        *AI: When executing this rule, insert the user-provided guidelines from the Genesis step here. The user's instructions on how to interpret the contents of the `external/` directory should be followed.*
+    3.  **Ask Clarifying Questions:** Before writing the PRD, the AI *must* ask clarifying questions to gather sufficient detail. The goal is to understand the "what" and "why" of the feature, not necessarily the "how" (which the developer will figure out).
+    4.  **Generate PRD:** Based on the initial prompt and the user's answers to the clarifying questions, generate a PRD using the structure outlined below.
+    5.  **Save PRD:** Save the generated document as `prd-[feature-name].md` inside the `tasks/` directory.
+
+    ## Clarifying Questions (Examples)
+    *   **Problem/Goal:** "What problem does this feature solve for the user?"
+    *   **Target User:** "Who is the primary user of this feature?"
+    *   **Core Functionality:** "Can you describe the key actions a user should be able to perform?"
+    *   **User Stories:** "Could you provide a few user stories?"
+    *   **Acceptance Criteria:** "How will we know when this feature is successfully implemented?"
+    *   **Scope/Boundaries:** "Are there any specific things this feature *should not* do?"
+    *   **Automation Potential:** "Which parts of this workflow could be automated through code generation?"
+    *   **Verification Strategy:** "How can we verify that the implementation works correctly?"
+    *   **Technology Simplicity:** "What's the simplest, most stable technology stack for this feature?"
+    *   **Agent Infrastructure:** "What tooling and observability will agents need to work effectively on this?"
+    *   **Model Specialization:** "Are there specific tasks that would benefit from using specialized models (e.g., Gemini for PDFs, different models for different strengths)?"
+    *   **Agent Composition:** "Could this feature benefit from nested agent workflows or terminal-based tool composition?"
+    *   **Browser Automation:** "Does this feature require browser interaction? Should we use real-time Playwright or generated Playwright scripts?"
+    *   **Tool Organization:** "How should development tools be organized (makefiles, CLI tools, synchronization utilities)?"
+
+    ## PRD Structure
+    1.  **Introduction/Overview**
+    2.  **Goals**
+    3.  **User Stories**
+    4.  **Functional Requirements**
+    5.  **Non-Goals (Out of Scope)**
+    6.  **Design Considerations (Optional)**
+    7.  **Technical Considerations (Optional)**
+        - Prefer code-generation approaches where applicable
+        - Identify opportunities for automation and composability
+        - Choose simple, stable technologies over complex, rapidly changing ones
+    8.  **Agent-Friendly Infrastructure Requirements**
+        - Unified logging and observability needs
+        - Tool speed and reliability requirements
+        - Error handling and protection against misuse
+        - Scratch tool creation capabilities
+    9.  **Agent Composition Strategy (Optional)**
+        - Opportunities for using specialized models for specific tasks
+        - Terminal-based tool composition possibilities
+        - Nested agent workflow considerations
+    10. **Success Metrics**
+    11. **Verification Strategy**
+        - How to validate the implementation
+        - What code-based checks can be implemented
+        - How to avoid context rot and maintain forward progress
+    12. **Open Questions**
+
+    ## Target Audience
+    Assume the primary reader of the PRD is a **junior developer**.
+
+    ## Output
+    *   **Format:** Markdown (`.md`)
+    *   **Location:** `tasks/`
+    *   **Filename:** `prd-[feature-name].md`
+
+    ## Final instructions
+    1. Do NOT start implementing the PRD
+    2. Make sure to ask the user clarifying questions
+    3. Take the user's answers to the clarifying questions and improve the PRD
+    4. Emphasize code-generation solutions where appropriate
+    ```
+    ---
+
+### Step 3: Generate `generate-tasks.mdc`
+
+1.  **Inform and Prompt:** Inform the user: "The `create-prd.mdc` rule has been generated. The next step is to create `generate-tasks.mdc`, which defines how to break down a PRD into an actionable task list. Shall I proceed?"
+2.  **Wait for Confirmation:** Do not proceed without user confirmation.
+3.  **Generate the File:** Upon confirmation, create `.cursor/rules/generate-tasks.mdc` with the exact content below.
+
+    ---
+    **Content for `generate-tasks.mdc`**
+    ```markdown
+    # Rule: Generating a Task List from a PRD
+
+    ## Goal
+    To guide an AI assistant in creating a detailed, step-by-step task list in Markdown format based on an existing Product Requirements Document (PRD).
+
+    ## Core Principles
+    - **Code Generation Priority**: Prefer tasks that generate code solutions over complex tool orchestration
+    - **Composable Tasks**: Design tasks that produce reusable, composable outputs
+    - **Verification-Friendly**: Include tasks for code-based validation and testing
+    - **Automation-Ready**: Structure tasks to support repeated execution and automation
+
+    ## Output
+    - **Format:** Markdown (`.md`)
+    - **Location:** `tasks/`
+    - **Filename:** `tasks-[prd-file-name].md`
+
+    ## Process
+    1. **Receive PRD Reference:** User points to a PRD file.
+    2. **Analyze PRD:** Read and understand the PRD, identifying opportunities for code generation.
+    3. **Phase 1: Generate Parent Tasks:** Create high-level tasks with emphasis on code-first approaches. Present to the user and ask for 'Go' to proceed.
+    4. **Wait for Confirmation:** Pause for user to say "Go".
+    5. **Phase 2: Generate Sub-Tasks:** Break down parent tasks into detailed sub-tasks, prioritizing code generation over tool usage.
+    6. **Identify Deliverables:** List all deliverables and mark the tasks that produce them.
+    7. **Add Verification Tasks:** Include tasks for code-based validation and testing.
+    8. **Generate Final Output:** Combine everything into the final Markdown file.
+    9. **Save Task List:** Save to `tasks/tasks-[prd-file-name].md`.
+
+    ## Task Design Guidelines (Based on Agentic Coding Best Practices)
+    - **Prefer Code**: When a task can be solved by generating code vs. using tools, choose code generation
+    - **Include Validation**: Add verification tasks that can be automated through code
+    - **Enable Composition**: Design tasks so their outputs can be reusable scripts and tools
+    - **Document Automation**: Include tasks for creating reusable scripts and automation
+    - **Subtask Strategy**: Break complex tasks into subtasks to conserve context and enable sub-agents
+    - **Context Conservation**: Design tasks to minimize context pollution and avoid backtracking
+    - **Infrastructure First**: Include tasks for setting up agent-friendly tooling and observability
+    - **Simplicity Preference**: Favor simple, stable technologies over complex tool chains
+    - **Agent Composition**: Consider tasks where different agents/models can be used for their specific strengths
+    - **Terminal-Based Tools**: Prefer command-line tools that enable agent nesting and composition
+    - **Browser Automation Strategy**: Distinguish between tasks requiring real-time inference (use Playwright MCP) vs. known workflows (generate Playwright scripts)
+    - **Makefile Integration**: Organize development tools in makefiles for optimal agent interaction
+
+    ## Output Format
+    ```markdown
+    ## Deliverables
+
+    - `deliverables/path/to/file1.ext` - Description
+    - `deliverables/path/to/file2.ext` - Description
+
+    ## Tasks (refer to @/rules/process-task-list before executing)
+
+    - [ ] 1.0 Parent Task
+      - [ ] 1.1 Sub-task (Code Generation Preferred)
+        - [ ] 1.1.1 Detailed sub-task
+      - [ ] 1.2 Verification Sub-task
+        - [ ] 1.2.1 Create validation script
+    ```
+
+    ## Task Numbering Convention
+    - Use X.Y.Z format.
+    - Dependencies follow recency.
+    - Include verification tasks after implementation tasks.
+
+    ## Quality Assurance
+    - Tasks must be verifiable, complete, and traceable.
+    - Prioritize code-based solutions for repeatability.
+    - Include automated validation where possible.
+
+    ## Interaction Model
+    Requires a pause for user confirmation ("Go") before generating sub-tasks.
+    
+    ## Target Audience
+    A **junior developer**.
+    ```
+    ---
+
+### Step 4: Generate `process-task-list.mdc`
+
+1.  **Inform and Prompt:** Inform the user: "The `generate-tasks.mdc` rule has been generated. The final step is to create `process-task-list.mdc`, which provides guidelines for executing the task list with emphasis on code generation and automation. Shall I proceed?"
+2.  **Wait for Confirmation:** Do not proceed without user confirmation.
+3.  **Generate the File:** Upon confirmation, create `.cursor/rules/process-task-list.mdc` with the exact content below.
+
+    ---
+    **Content for `process-task-list.mdc`**
+    ```markdown
+    # Rule: Task List Management
+
+    This rule defines the lifecycle for processing each task to ensure consistency, clarity, and robust documentation, with emphasis on code generation over tool usage.
+
+    ## Core Execution Principles
+
+    ### Code-First Execution
+    - **Generate Code Solutions**: When facing a task, prefer generating executable code over using inference-heavy tool chains
+    - **LLM-to-Code-to-LLM Pattern**: Use LLM to understand → generate code → execute code → use LLM to validate results
+    - **Composable Outputs**: Create solutions that can be reused and composed without additional inference
+    - **Automation-Ready**: Build solutions that can be executed repeatedly at scale
+    - **Agent Composition**: Leverage nested agents for specialized tasks (e.g., use Gemini CLI for PDF processing, large context summarization)
+    - **Model Specialization**: Use different models for their specific strengths within the same workflow
+
+    ### Verification Strategy
+    - **Code-Based Validation**: Prefer automated checks over manual verification
+    - **Reviewable Artifacts**: Generate code that can be reviewed for correctness rather than relying on inference results
+    - **Reproducible Results**: Ensure solutions can be executed multiple times with consistent outcomes
+
+    ## Task Lifecycle
+
+    ### Phase 1: Task Initiation
+    1.  **Review Context:** Before starting a task, review relevant project files (especially in `docs/`, `util/`, and `data/`) and the history in `docs/task-log.md` to gather full context.
+    2.  **Environment Check:** Verify the development environment is functional before starting (never begin with pre-broken tools).
+    3.  **Evaluate Approach:** Consider whether the task can be solved through code generation rather than tool usage.
+    4.  **Simplicity Assessment:** Choose the simplest, most stable approach that avoids ecosystem churn.
+    5.  **Propose Action:** Present a clear, actionable proposal for the current task, prioritizing code-generation approaches.
+    6.  **Format Output:** The proposal must be prefixed with the task number (e.g., "1.2: [Proposal]").
+
+    ### Phase 2: Task Execution
+    1.  **Await Confirmation:** **Do not proceed** without explicit user confirmation ("yes" or "y").
+    2.  **Execute:** Perform the task, adhering to the following guidelines:
+        *   **Code-First Approach:** When possible, generate code solutions rather than using complex tool chains
+        *   **Best Practices:** Employ standard best practices for the task type
+        *   **Directory Standards:** Use the standard project directory locations (`util/` for scripts, `data/` for data, `docs/` for documentation, `archive/` for old files)
+        *   **Security:** Ensure secrets are loaded from environment variables or a secure configuration system, never hardcoded
+        *   **Automation-Ready:** Create solutions that can be executed repeatedly without manual intervention
+        *   **Composability:** Design outputs to be reusable in other contexts
+
+    ### Phase 3: Task Validation
+    1.  **Code-Based Checks:** Where applicable, create or run automated validation scripts
+    2.  **Review Generated Code:** If code was generated, review it for correctness and composability
+    3.  **Document Automation:** Record any automation opportunities discovered during execution
+
+    ### Phase 4: Task Completion
+    1.  **Update Task List:** Mark the just-completed task as `[x]` in the task list file.
+    2.  **Log Decision:** Append a record of the completed task to `docs/task-log.md`. The entry **must** include:
+        *   An ISO-8601 timestamp.
+        *   The task number.
+        *   A one-sentence summary of the decision or output.
+        *   Whether code generation was used and why/why not.
+        *   A list of all files created or modified.
+        *   Any automation opportunities identified.
+        *   The full user prompt that initiated the task, if it was a direct command that modified the workflow.
+    3.  **Manage Parent Tasks:** If all sub-tasks under a parent are now complete, mark the parent task as `[x]` as well.
+    4.  **Manage Scope:** Do not create new tasks or modify the scope of existing tasks without explicit user permission.
+    5.  **Proceed:** Move to the next task.
+
+    ## Automation Guidelines (Informed by Agentic Coding Experience)
+    - **Prefer Scripts Over Manual Steps:** When a task involves repetitive actions, generate a script
+    - **Create Reusable Components:** Build solutions that can be used in multiple contexts
+    - **Document Code Solutions:** Ensure generated code is well-documented and maintainable
+    - **Version Control Friendly:** Create outputs that work well with version control systems
+    
+    ## Context Management Guidelines
+    - **Avoid Context Rot:** Monitor for context pollution from failed attempts or irrelevant information
+    - **Restart Over Compact:** When context becomes polluted, restart rather than attempting compaction
+    - **Unified Logging:** Implement centralized logging to reduce context switching and investigation overhead
+    - **Fast Tool Response:** Ensure tools respond quickly; agents abandon slow or unreliable tools
+    - **Clear Error Messages:** Tools must fail clearly when misused, providing actionable feedback
+    
+    ## Infrastructure Development Priorities
+    - **Agent-Friendly Tooling:** Build tools that work well for both humans and agents
+    - **Scratch Tool Creation:** Provide mechanisms for creating throwaway tools and test scripts
+    - **Protection Against Misuse:** Design tools to error clearly rather than silently failing
+    - **Observable Outputs:** Ensure all processes produce clear, parseable text output for agent understanding
+    
+    ## Specific Tool Implementation Guidance
+    - **Makefile Organization:** Organize all development tools in makefiles for optimal agent interaction
+    - **Browser Automation Strategy:** 
+      - Use Playwright MCP only when real-time inference is required (e.g., unknown pages)
+      - Generate Playwright Python scripts for known applications and repeated workflows
+    - **CLI Tool Preference:** Choose command-line versions over MCPs when available (e.g., GitHub CLI vs GitHub MCP)
+    - **Unified Logging Infrastructure:** 
+      - Forward browser console logs to server logs for centralized debugging
+      - Implement centralized logging that agents can easily tail and analyze
+    - **Synchronization Utilities:** Create "reached" functions for coordinating async processes and eliminating timeout-based waiting
+    - **System Configuration:** Enable agents to handle git configuration, system setup, and environment management tasks
+    ```
+    ---
+
+### Addendum: Interrupting the Process
+
+This process is designed to be interactive and adaptable. At any point, the user can issue direct commands to the AI assistant to alter the workflow. This allows for real-time adjustments based on the user's insights or changing requirements.
+
+These interruptions are not part of the formal, step-by-step process but are a core feature of the collaborative workflow.
+
+**General Guidance for the AI:**
+*   Periodically, after completing a significant step, remind the user of the interactive capabilities described here (e.g., "As a reminder, you can guide the process with direct commands like 'archive this file' or 'document this decision'.").
+*   Always consider whether a task can be solved through code generation rather than tool usage.
+*   Emphasize the LLM-to-Code-to-LLM pattern for complex workflows.
+
+**Examples of Interrupt Commands:**
+
+*   **To archive an artifact:** If a generated file like a PRD is not suitable, you can instruct the AI to move it to an archive directory.
+    > *"throw current prd into archives"*
+*   **To document a key decision:** To ensure important instructions are not lost, you can ask the AI to save your prompt for traceability. The AI will add it to the log entry for the current task.
+    > *"document this prompt for tractability"*
+*   **To change direction:** If you want to revise a goal or change the scope, you can state your new requirements directly. The AI will adapt its subsequent actions accordingly.
+*   **To request code generation:** If the AI suggests using tools, you can redirect it to generate code instead.
+    > *"generate code for this instead of using tools"*
+*   **To restart due to context pollution:** If the context becomes cluttered with failed attempts, restart fresh.
+    > *"restart this task from scratch - context is polluted"*
+*   **To choose simpler approach:** If the AI suggests complex solutions, redirect to simpler alternatives.
+    > *"use the simplest possible approach"*
+*   **To use specialized models:** If a task would benefit from a different model's strengths, suggest agent composition.
+    > *"use gemini cli for this PDF processing task"* or *"nest a specialized agent for this subtask"*
+*   **To optimize browser automation:** Choose the right approach for web interaction tasks.
+    > *"generate a playwright script for this known workflow instead of real-time interaction"*
+
+By using such commands, you can guide the AI more dynamically, ensuring the final output aligns perfectly with your vision and emphasizes code-generation approaches.
+
+---
+
+## Summary of Enhancements
+
+This genesis rule now incorporates practical insights from Armin Ronacher's extensive agentic coding experience, including:
+
+- **Playwright Strategy**: Use MCP for unknown pages requiring real-time inference; generate scripts for known workflows
+- **Tool Selection**: Prefer GitHub CLI over GitHub MCP; organize tools in makefiles; use Gemini CLI for specialized tasks
+- **Agent Composition**: Enable nested agents for specialized tasks and model-specific strengths
+- **Infrastructure Focus**: Unified logging, synchronization utilities, fast tool responses, and clear error handling
+- **Context Management**: Strategies to avoid "context rot" and maintain forward progress through code-first approaches
